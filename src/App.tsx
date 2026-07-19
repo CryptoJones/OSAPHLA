@@ -33,7 +33,7 @@ export default function App() {
   if (!ready) return <div className="loading" role="status">Loading your visual settings…</div>;
   if (!settings.onboardingComplete) return <ThemeLab firstRun />;
 
-  return <BrowserRouter><Layout><Routes>
+  return <BrowserRouter basename={import.meta.env.BASE_URL.replace(/\/$/, "")}><Layout><Routes>
     <Route path="/" element={<Dashboard course={course} progress={progress} />} />
     <Route path="/course" element={<CourseMap course={course} progress={progress} />} />
     <Route path="/lesson/:sectionId" element={<LessonPage course={course} progress={progress} onProgress={refresh} />} />

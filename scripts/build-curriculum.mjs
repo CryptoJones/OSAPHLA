@@ -328,9 +328,9 @@ const modules = weeks.map((week) => {
       slides: slidesFor(kind, week, content),
       media: {
         adaptive: true,
-        audio: `/media/${id}/narration.mp3`,
-        video: `/media/${id}/lesson.mp4`,
-        captions: `/media/${id}/captions.vtt`,
+        audio: `media/${id}/narration.mp3`,
+        video: `media/${id}/lesson.mp4`,
+        captions: `media/${id}/captions.vtt`,
         transcript: content.map((block) => `${block.heading}. ${block.body}${block.translation ? ` English meaning: ${block.translation}` : ""}`).join("\n\n")
       },
       questions: questionBank(id, week, dayIndex),
