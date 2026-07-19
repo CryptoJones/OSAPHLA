@@ -2,7 +2,7 @@
 
 ![OSAPHLA — Open Source Accessible Pan-Hispanic Language Academy](public/branding/github-social-preview.png)
 
-An open-source, accessible Pan-Hispanic Spanish academy with bilingual lessons, vocabulary, readings, quizzes, and narrated videos.
+An Open-Source, Accessible, & Pan-Hispanic Language Academy with bilingual lessons, vocabulary, readings, quizzes, and narrated videos for learning Spanish.
 
 OSAPHLA is a private, offline-first Spanish course containing **36 weeks, 180 assessed sections,
 4,320 question-bank items, and 88 reading activities**. It targets an ILR 2
