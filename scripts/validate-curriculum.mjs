@@ -15,11 +15,13 @@ const sectionSchema = z.object({
   id: z.string(), number: z.number().int(), week: z.number().int().min(1).max(36), day: z.number().int().min(1).max(5),
   title: z.string(), objectives: z.array(z.string()).min(3), content: z.array(z.object({ heading: z.string(), body: z.string() })).min(4),
   vocabulary: z.array(z.object({ es: z.string(), en: z.string() })).min(8), slides: z.array(z.object({ title: z.string(), body: z.array(z.string()) })).min(6),
+  modelSentences: z.array(z.string()).length(5), modelTranslations: z.array(z.string()).length(5),
   media: z.object({ adaptive: z.literal(true), captions: z.string(), transcript: z.string().min(100) }),
-  sourceRefs: z.array(z.string()).min(1), questions: z.array(questionSchema).length(24), masteryThreshold: z.literal(0.85)
+  readingAssignments: z.array(z.object({ id: z.string(), label: z.string() })), questions: z.array(questionSchema).length(24), masteryThreshold: z.literal(0.85)
 });
 
-z.object({ schemaVersion: z.literal(1), modules: z.array(z.unknown()).length(36), sections: z.array(sectionSchema).length(180), sources: z.array(z.unknown()).length(31), readerAssignments: z.array(z.unknown()).length(88) }).parse(course);
+const readingAssignmentSchema = z.object({ id: z.string(), label: z.string(), title: z.string(), week: z.number().int().min(1).max(36), sectionId: z.string(), passage: z.string().min(40), passageTranslation: z.string().min(40), focus: z.string(), instructions: z.string().min(40), prompts: z.array(z.string()).length(3) });
+z.object({ schemaVersion: z.literal(1), modules: z.array(z.unknown()).length(36), sections: z.array(sectionSchema).length(180), readingAssignments: z.array(readingAssignmentSchema).length(88) }).parse(course);
 
 for (const section of course.sections) {
   for (const type of ["multipleChoice", "cloze", "ordering"]) {
@@ -28,7 +30,4 @@ for (const section of course.sections) {
   }
 }
 
-const mapped = new Set(course.sections.flatMap((section) => section.sourceRefs));
-const missing = course.sources.filter((source) => !mapped.has(source.id));
-if (missing.length) throw new Error(`Unmapped sources: ${missing.map((source) => source.id).join(", ")}`);
-console.log(`VALID: ${course.sections.length} sections, ${course.sections.length * 24} questions, ${course.sources.length}/${course.sources.length} sources mapped, ${course.readerAssignments.length} reader assignments.`);
+console.log(`VALID: ${course.sections.length} sections, ${course.sections.length * 24} questions, ${course.readingAssignments.length} reading assignments.`);

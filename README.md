@@ -1,8 +1,11 @@
-# Español — Accessible Pan-Hispanic Language Academy
+# Open Source Accessible Pan-Hispanic Language Academy (OSAPHLA)
 
-A private, offline-first Spanish course built from the complete language library in
-`~/Downloads/Language`. The academy contains **36 weeks, 180 assessed sections,
-4,320 question-bank items, and 88 graded-reader assignments**. It targets an ILR 2
+![OSAPHLA — Open Source Accessible Pan-Hispanic Language Academy](public/branding/github-social-preview.png)
+
+An open-source, accessible Pan-Hispanic Spanish academy with bilingual lessons, vocabulary, readings, quizzes, and narrated videos.
+
+OSAPHLA is a private, offline-first Spanish course containing **36 weeks, 180 assessed sections,
+4,320 question-bank items, and 88 reading activities**. It targets an ILR 2
 core with ILR 2+/2+/2 stretch preparation; it does not claim to award an official
 ILR rating.
 
@@ -12,13 +15,37 @@ database, or required runtime API.
 
 ## Start the academy
 
+Install a current Node.js LTS release, then open a terminal in this repository.
+
+### macOS
+
 ```bash
 npm install
-npm run sources:ingest -- --full
-npm run dev
+npm run start:local
 ```
 
-Open the local URL Vite prints. The first screen is a visual-comfort lab. It offers
+### Windows (PowerShell)
+
+```powershell
+npm install
+npm run start:local
+```
+
+### Linux
+
+```bash
+npm install
+npm run start:local
+```
+
+`npm run start:local` prompts for a port, remembers that preference in your operating
+system's user configuration directory, verifies the port is available, starts Vite,
+and opens the resulting URL in Firefox when Firefox is installed. Pass a port without
+the prompt using `npm run start:local -- --port 5180`. Stop the server with `Ctrl+C`.
+On later runs, press Enter to reuse the remembered port. The lower-level `npm run dev`
+command remains available when automatic port selection is preferable.
+
+The first screen is a visual-comfort lab. It offers
 system, high-contrast dark, high-contrast light, low-glare charcoal, warm paper,
 and monochrome themes plus independent typography, spacing, reading-width, focus,
 cursor, density, and motion controls.
@@ -28,27 +55,6 @@ Create a production PWA with `npm run build`, then preview it with
 load. Week media and the optional speech model use separate browser caches so they
 can be managed without erasing progress. The Display page includes a one-button
 offline media installer for all 180 videos and narration tracks.
-
-## Source ingestion and privacy
-
-The books are never copied into Git. `npm run sources:ingest -- --full`:
-
-- verifies all 31 files and records SHA-256 hashes in `.local/source-catalog.json`;
-- extracts PDF/EPUB structure and falls back to Tesseract for scanned material;
-- OCRs image-dominant reader content when necessary;
-- writes complete local reader text to `public/private/readers.json`.
-
-Both output locations are ignored by Git. Override the default source location with
-`ESPANOL_SOURCE_ROOT=/path/to/books`.
-
-The completed local inventory covers 31 documents, 5,443 PDF pages, 1,184 EPUB
-entries, approximately 2.15 million extracted words, and 14,006 mapped structural
-nodes. The two image-only textbooks were OCRed across all 1,113 of their pages.
-
-Run `npm run sources:audit` for the source-to-section and source-node report in
-`.local/coverage-report.json` plus the non-sensitive in-app coverage summary. Run
-`npm run sources:similarity` to ensure committed course prose does not contain an
-exact 18-word passage from the private reader pack.
 
 ## Instruction and assessment
 
@@ -72,6 +78,7 @@ Optional MP4 copies use the same slide data and descriptive text:
 
 ```bash
 npm run render:media -- --section w01-briefing
+npm run render:media -- --kind input --force --jobs 3
 npm run render:media -- --theme low-glare
 npm run render:media -- --force --jobs 3
 ```
@@ -111,7 +118,7 @@ npm run qa
 ```
 
 The automated gates verify the complete curriculum contract, balanced assessments,
-source coverage, production build, first-run accessibility, WCAG scanning, and
+production build, first-run accessibility, WCAG scanning, and
 320-pixel reflow. See `docs/ACCESSIBILITY.md` and `docs/CURRICULUM.md` for the
 behavioral specification.
 

@@ -38,16 +38,16 @@ export function LessonPage({ course, progress, onProgress }: { course: Course; p
     <div className="lesson-body">
       <AdaptivePlayer section={section} />
       <section className="lesson-content" aria-labelledby="lesson-notes-title"><p className="eyebrow">Semantic lesson</p><h2 id="lesson-notes-title">Instruction and field notes</h2>
-        {section.content.map((block) => <section key={block.heading}><h3>{block.heading}</h3><p>{block.body}</p></section>)}
+        {section.content.map((block) => <section key={block.heading}><h3>{block.heading}</h3><p lang={block.translation ? "es" : undefined}>{block.body}</p>{block.translation && <p className="english-meaning"><strong>English meaning:</strong> {block.translation}</p>}</section>)}
       </section>
 
       <section className="vocabulary" aria-labelledby="vocab-title"><p className="eyebrow">Retrieval deck</p><h2 id="vocab-title">Active vocabulary</h2><div className="vocab-grid">{section.vocabulary.map((item, index) => <article key={item.es}><strong lang="es">{item.es}</strong><span>{item.en}</span><button type="button" onClick={() => playVocabulary(index, item.es)} aria-label={`Hear ${item.es}`}>Hear</button></article>)}</div><p className="sr-only" role="status" aria-live="polite">{pronunciationNotice}</p></section>
 
-      <section className="models" aria-labelledby="models-title"><p className="eyebrow">Pattern evidence</p><h2 id="models-title">Model sentences</h2><ol>{section.modelSentences.map((sentence) => <li key={sentence} lang="es">{sentence}</li>)}</ol></section>
+      <section className="models" aria-labelledby="models-title"><p className="eyebrow">Pattern evidence</p><h2 id="models-title">Model sentences</h2><ol>{section.modelSentences.map((sentence, index) => <li key={sentence}><strong lang="es">{sentence}</strong><span>{section.modelTranslations[index]}</span></li>)}</ol></section>
 
-      {section.readerRefs.length > 0 && <section className="reader-assignments" aria-labelledby="reader-assignment-title"><p className="eyebrow">Complete-source reading</p><h2 id="reader-assignment-title">Assigned reader labs</h2><p>These entries connect the section to the complete private reader pack generated from your EPUBs.</p><ul>{section.readerRefs.map((reader) => <li key={`${reader.sourceId}-${reader.node}`}><strong>{reader.label}</strong><span>{reader.sourceId} · {reader.node}</span></li>)}</ul></section>}
+      {section.readingAssignments.length > 0 && <section className="reader-assignments" aria-labelledby="reader-assignment-title"><p className="eyebrow">Extensive reading</p><h2 id="reader-assignment-title">Assigned reading activities</h2><ul>{section.readingAssignments.map((assignment) => <li key={assignment.id}><strong>{assignment.label}</strong></li>)}</ul></section>}
 
-      <SpeechLab sectionId={section.id} target={section.modelSentences[0]} />
+      <SpeechLab sectionId={section.id} target={section.modelSentences[0]} meaning={section.modelTranslations[0]} />
       <Assessment section={section} onComplete={onProgress} />
     </div>
 

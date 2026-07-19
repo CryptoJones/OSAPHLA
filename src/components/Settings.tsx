@@ -9,7 +9,25 @@ const themes: Array<{ id: ThemeId; name: string; note: string }> = [
   { id: "contrast-light", name: "High contrast light", note: "White ground with near-black text and strong focus." },
   { id: "low-glare", name: "Low glare charcoal", note: "Muted contrast and restrained color for light sensitivity." },
   { id: "warm-paper", name: "Warm paper", note: "Warm low-blue background with dark brown text." },
-  { id: "monochrome", name: "Monochrome", note: "No status depends on hue; shape and text carry meaning." }
+  { id: "monochrome", name: "Monochrome", note: "No status depends on hue; shape and text carry meaning." },
+  { id: "midnight-blue", name: "Midnight blue", note: "Deep navy with cool blue text accents and warm focus cues." },
+  { id: "lavender-dusk", name: "Lavender dusk", note: "Soft violet dark mode with gentle, readable contrast." },
+  { id: "ocean-light", name: "Ocean daylight", note: "Pale aqua surfaces with deep teal text and controls." },
+  { id: "rose-clay", name: "Rose clay", note: "Muted rose-tinted paper with dark plum text." },
+  { id: "amber-night", name: "Amber night", note: "Warm dark brown with cream text for reduced blue light." },
+  { id: "slate-light", name: "Slate daylight", note: "Cool neutral gray with dark slate text and blue controls." },
+  { id: "cream-ink", name: "Cream and ink", note: "Soft cream paper with dark blue-black text." },
+  { id: "forest-night", name: "Forest night", note: "Deep forest green with pale neutral text." },
+  { id: "burgundy-night", name: "Burgundy night", note: "Dark wine surfaces with pale rose-white text." },
+  { id: "cobalt-light", name: "Cobalt daylight", note: "Cool blue-white paper with strong cobalt accents." },
+  { id: "soft-gray", name: "Soft neutral gray", note: "Low-color light mode with restrained blue accents." },
+  { id: "black-amber", name: "Black and amber", note: "True black with warm amber controls and cream text." },
+  { id: "deep-ocean", name: "Deep ocean", note: "Near-black teal with clear cyan accents." },
+  { id: "cyberdeck", name: "Cyberdeck", note: "Your approved blue-black terminal palette with neon cyan and green." },
+  { id: "wcag-navy-coral", name: "WCAG navy and coral", note: "Light neutral ground with dark navy, blue, and burnt-orange cues." },
+  { id: "wcag-blue-orange-dark", name: "WCAG blue and orange dark", note: "Blue-black ground with bright sky-blue and orange cues." },
+  { id: "wcag-plum-apricot", name: "WCAG plum and apricot", note: "Warm light ground with dark plum and burnt-orange cues." },
+  { id: "wcag-violet-cyan", name: "WCAG violet and cyan dark", note: "Deep violet ground with pale violet and cyan cues." }
 ];
 
 function Controls() {
@@ -50,6 +68,7 @@ function SampleLesson() {
     <p className="eyebrow">Live comfort sample · Week 5</p><h2 id="sample-title">Location, condition, and existence</h2>
     <p><strong>Objective:</strong> locate a service and distinguish what exists from where it is.</p>
     <div className="sample-callout" lang="es">Hay una farmacia cerca. La farmacia está abierta, pero el banco está cerrado.</div>
+    <p className="english-meaning"><strong>English meaning:</strong> There is a pharmacy nearby. The pharmacy is open, but the bank is closed.</p>
     <p><em>Hay</em> introduces something that exists. <em>Está</em> locates or describes the condition of a known thing.</p>
     <div className="sample-buttons"><button type="button">Primary action</button><button type="button">Secondary action</button></div>
   </article>;

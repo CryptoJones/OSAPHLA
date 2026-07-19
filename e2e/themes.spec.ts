@@ -7,7 +7,25 @@ const themeLabels = [
   "High contrast light",
   "Low glare charcoal",
   "Warm paper",
-  "Monochrome"
+  "Monochrome",
+  "Midnight blue",
+  "Lavender dusk",
+  "Ocean daylight",
+  "Rose clay",
+  "Amber night",
+  "Slate daylight",
+  "Cream and ink",
+  "Forest night",
+  "Burgundy night",
+  "Cobalt daylight",
+  "Soft neutral gray",
+  "Black and amber",
+  "Deep ocean",
+  "Cyberdeck",
+  "WCAG navy and coral",
+  "WCAG blue and orange dark",
+  "WCAG plum and apricot",
+  "WCAG violet and cyan dark"
 ] as const;
 
 for (const theme of themeLabels) {

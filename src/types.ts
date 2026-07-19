@@ -1,4 +1,4 @@
-export type ThemeId = "system" | "contrast-dark" | "contrast-light" | "low-glare" | "warm-paper" | "monochrome";
+export type ThemeId = "system" | "contrast-dark" | "contrast-light" | "low-glare" | "warm-paper" | "monochrome" | "midnight-blue" | "lavender-dusk" | "ocean-light" | "rose-clay" | "amber-night" | "slate-light" | "cream-ink" | "forest-night" | "burgundy-night" | "cobalt-light" | "soft-gray" | "black-amber" | "deep-ocean" | "cyberdeck" | "wcag-navy-coral" | "wcag-blue-orange-dark" | "wcag-plum-apricot" | "wcag-violet-cyan";
 
 export interface AccessibilitySettings {
   theme: ThemeId;
@@ -18,8 +18,11 @@ export interface AccessibilitySettings {
 }
 
 export interface VocabularyItem { es: string; en: string }
-export interface SourceRef { sourceId: string; node: string; label: string }
-export interface ContentBlock { heading: string; body: string }
+export interface ReadingAssignment {
+  id: string; label: string; title: string; week: number; sectionId: string;
+  passage: string; passageTranslation: string; focus: string; instructions: string; prompts: string[];
+}
+export interface ContentBlock { heading: string; body: string; translation?: string }
 export interface Slide { title: string; kicker?: string; body: string[] }
 
 export interface QuestionBase { id: string; prompt: string; rationale: string; objective?: string }
@@ -31,21 +34,20 @@ export type Question = MultipleChoiceQuestion | ClozeQuestion | OrderingQuestion
 export interface Section {
   id: string; number: number; week: number; day: number; phase: string; level: string; kind: string;
   title: string; subtitle: string; objectives: string[]; grammar: string; pronunciation: string;
-  content: ContentBlock[]; vocabulary: VocabularyItem[]; modelSentences: string[]; reading?: string;
-  culture?: string; mission?: string; readerRefs: SourceRef[]; sourceRefs: string[]; slides: Slide[];
+  content: ContentBlock[]; vocabulary: VocabularyItem[]; modelSentences: string[]; modelTranslations: string[]; reading?: string; readingTranslation?: string;
+  culture?: string; mission?: string; readingAssignments: ReadingAssignment[]; slides: Slide[];
   media: { adaptive: true; audio: string; video: string; captions: string; transcript: string };
   questions: Question[]; masteryThreshold: number; estimatedMinutes: number;
 }
 
 export interface CourseModule {
-  week: number; phase: string; level: string; title: string; canDo: string[]; sectionIds: string[]; readerRefs: SourceRef[];
+  week: number; phase: string; level: string; title: string; canDo: string[]; sectionIds: string[]; readingAssignments: ReadingAssignment[];
 }
 
 export interface Course {
   schemaVersion: number; id: string; title: string; subtitle: string; description: string; target: string;
   disclaimer: string; modules: CourseModule[]; sections: Section[];
-  sources: Array<{ id: string; title: string; format: string; roles: string[] }>;
-  readerAssignments: SourceRef[]; generatedAt: string;
+  readingAssignments: ReadingAssignment[]; generatedAt: string;
 }
 
 export interface SectionProgress {

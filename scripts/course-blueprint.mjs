@@ -11,7 +11,6 @@ export const weeks = [
     vocabulary: V([["el alfabeto","alphabet"],["la letra","letter"],["el sonido","sound"],["la palabra","word"],["la sílaba","syllable"],["el acento","stress mark"],["escuchar","to listen"],["repetir","to repeat"]]),
     models: ["Mi nombre se escribe con cinco letras.","La h no tiene sonido.","Escucho y repito cada palabra.","¿Cuál es la sílaba tónica?","La práctica breve y frecuente funciona mejor."],
     reading: "Ana abre su cuaderno. Escucha una palabra, marca la sílaba fuerte y la repite. No busca la perfección; busca una mejora clara cada día.",
-    roles: ["method","foundation","pronunciation"]
   },
   {
     week: 2, phase: "Launch", level: "ILR 0+", title: "Greetings and First Contact",
@@ -23,7 +22,6 @@ export const weeks = [
     vocabulary: V([["hola","hello"],["buenos días","good morning"],["buenas tardes","good afternoon"],["adiós","goodbye"],["por favor","please"],["gracias","thank you"],["mucho gusto","pleased to meet you"],["¿cómo se llama?","what is your name"]]),
     models: ["Hola, me llamo Alex.","Mucho gusto, señora Rivera.","¿Cómo te llamas?","Le presento a mi compañera.","Nos vemos mañana; que tenga buen día."],
     reading: "Lucía llega temprano. Saluda al recepcionista con buenos días y usa usted. Después conoce a Mateo, otro estudiante, y los dos usan tú.",
-    roles: ["foundation","conversation","culture"]
   },
   {
     week: 3, phase: "Foundations", level: "ILR 0+", title: "Objects, Gender, and the Classroom",
@@ -32,10 +30,16 @@ export const weeks = [
     pronunciation: "Final consonants, especially s; contrast singular and plural without adding an English vowel.",
     culture: "Academic schedules, grading language, and forms of address across Spanish-speaking schools.",
     mission: "Inventory a study space and give a partner five classroom instructions.",
+    teaching: [
+      { heading: "Gender is part of the noun", body: "Every Spanish noun has grammatical gender. Learn the article and noun as one unit: la palabra, not just palabra; el libro, not just libro. Grammatical gender is a word category and does not necessarily describe sex or identity." },
+      { heading: "The four definite articles", body: "Use el with a masculine singular noun and la with a feminine singular noun. Their plurals are los and las: el libro → los libros; la palabra → las palabras." },
+      { heading: "Indefinite articles", body: "Un and una mean a or an; unos and unas mean some. They must match the noun: un libro, una mesa, unos libros, unas mesas." },
+      { heading: "Patterns are clues, not guarantees", body: "Nouns ending in -o are often masculine, while -a, -ción, -sión, and -dad are often feminine. These are useful clues, not rules without exceptions: el día, el problema, and la mano must be learned with their articles." },
+      { heading: "Agreement across the phrase", body: "Articles, nouns, and descriptive adjectives agree in gender and number: un libro nuevo, una palabra nueva, los libros nuevos, las palabras nuevas. Some adjectives, such as importante, use the same singular form for both genders." }
+    ],
     vocabulary: V([["el libro","book"],["la mesa","table"],["la silla","chair"],["el cuaderno","notebook"],["la pregunta","question"],["la respuesta","answer"],["abrir","to open"],["cerrar","to close"]]),
     models: ["Hay un libro sobre la mesa.","¿Qué es esto?","Es una pregunta importante.","Abran los cuadernos, por favor.","Las respuestas están en la página diez."],
     reading: "En el aula hay veinte sillas y diez mesas. La profesora abre un libro y escribe una pregunta. Los estudiantes buscan la respuesta en sus cuadernos.",
-    roles: ["foundation","grammar","visual"]
   },
   {
     week: 4, phase: "Foundations", level: "ILR 0+", title: "Identity, Origin, Numbers, and Time",
@@ -47,7 +51,6 @@ export const weeks = [
     vocabulary: V([["el nombre","name"],["el apellido","surname"],["el país","country"],["la ciudad","city"],["el número","number"],["la fecha","date"],["la hora","time"],["hoy","today"]]),
     models: ["Soy de los Estados Unidos.","Mi apellido es Clark.","Hoy es el diecinueve de julio.","Son las tres y cuarto.","¿A qué hora es la reunión?"],
     reading: "El formulario pide el nombre, los apellidos y el país de origen. La cita es el martes a las nueve y media. Elena confirma la fecha y guarda el número de contacto.",
-    roles: ["foundation","grammar","conversation"]
   },
   {
     week: 5, phase: "Foundations", level: "ILR 1", title: "Location, Condition, and Existence",
@@ -59,7 +62,6 @@ export const weeks = [
     vocabulary: V([["aquí","here"],["allí","there"],["cerca","near"],["lejos","far"],["abierto","open"],["cerrado","closed"],["delante de","in front of"],["detrás de","behind"]]),
     models: ["La farmacia está cerca de la plaza.","Hay un banco delante del hotel.","El museo está cerrado hoy.","¿Dónde están los baños?","La reunión es en la sala azul."],
     reading: "El centro de información está junto a la entrada. Hay mapas gratis sobre el mostrador, pero la cafetería está cerrada. Los baños están al final del pasillo.",
-    roles: ["foundation","grammar","travel"]
   },
   {
     week: 6, phase: "Foundations", level: "ILR 1", title: "The Present: Regular Actions",
@@ -71,7 +73,6 @@ export const weeks = [
     vocabulary: V([["trabajar","to work"],["estudiar","to study"],["comer","to eat"],["beber","to drink"],["vivir","to live"],["escribir","to write"],["siempre","always"],["a veces","sometimes"]]),
     models: ["Trabajo por la mañana y estudio por la noche.","¿Dónde vives?","Comemos juntos los viernes.","Ella escribe en su diario cada día.","A veces bebo café después de comer."],
     reading: "Raúl vive cerca de su trabajo. Camina a la oficina, come con sus compañeros y estudia inglés por la noche. Los fines de semana escribe a su familia.",
-    roles: ["foundation","grammar","conversation"]
   },
   {
     week: 7, phase: "Foundations", level: "ILR 1", title: "Questions and High-Frequency Irregulars",
@@ -83,7 +84,6 @@ export const weeks = [
     vocabulary: V([["qué","what"],["quién","who"],["cuándo","when"],["dónde","where"],["por qué","why"],["cómo","how"],["poder","to be able"],["querer","to want"]]),
     models: ["¿Qué quiere hacer hoy?","¿Cuándo viene el autobús?","No sé; ¿puede repetirlo?","Tengo que hacer una llamada.","¿Por qué dices eso?"],
     reading: "Marta quiere visitar el mercado, pero no sabe cuándo abre. Llama a información, pregunta por el horario y pide que repitan la dirección.",
-    roles: ["foundation","grammar","conversation"]
   },
   {
     week: 8, phase: "Daily Life", level: "ILR 1", title: "Family, Description, and Possession",
@@ -92,10 +92,14 @@ export const weeks = [
     pronunciation: "Diphthongs and smooth linking across word boundaries.",
     culture: "Extended family, chosen family, household diversity, and respectful relationship vocabulary.",
     mission: "Present a real or fictional family network and explain three relationships.",
+    teaching: [
+      { heading: "Adjectives agree", body: "A variable adjective matches the noun in gender and number: un amigo alto, una amiga alta, unos amigos altos, unas amigas altas. The noun controls the form of the adjective." },
+      { heading: "Not every adjective changes for gender", body: "Adjectives ending in -e or many consonants commonly keep one singular form: un amigo amable and una amiga amable. They still change for plural number: amigos amables, amigas amables." },
+      { heading: "Position affects emphasis", body: "Descriptive adjectives usually follow the noun. Some common adjectives can appear before it, sometimes with a change in emphasis or form. First secure agreement; then learn position as part of each expression." }
+    ],
     vocabulary: V([["la familia","family"],["la madre","mother"],["el padre","father"],["la hermana","sister"],["el amigo","friend"],["joven","young"],["mayor","older"],["amable","kind"]]),
     models: ["Mi hermana mayor es muy amable.","Conozco a los padres de Elena.","Nuestra familia vive en tres ciudades.","¿Es suyo este retrato?","Tengo dos hermanos y una prima."],
     reading: "La familia de Inés es grande y vive en varios países. Su prima mayor es médica, sus hermanos son estudiantes y su mejor amigo participa en todas las celebraciones.",
-    roles: ["foundation","grammar","culture"]
   },
   {
     week: 9, phase: "Daily Life", level: "ILR 1", title: "Daily Routine and Reflexive Verbs",
@@ -107,7 +111,6 @@ export const weeks = [
     vocabulary: V([["despertarse","to wake up"],["levantarse","to get up"],["ducharse","to shower"],["vestirse","to get dressed"],["acostarse","to go to bed"],["temprano","early"],["tarde","late"],["ahora","now"]]),
     models: ["Me levanto a las seis y media.","Después de vestirme, preparo el desayuno.","Ahora estoy esperando el tren.","Los niños se acuestan temprano.","¿A qué hora te despiertas?"],
     reading: "Normalmente Julia se despierta temprano, pero hoy su alarma no funciona. Ahora se viste rápidamente mientras su pareja prepara café y llama a un taxi.",
-    roles: ["foundation","grammar","conversation"]
   },
   {
     week: 10, phase: "Daily Life", level: "ILR 1", title: "Likes, Preferences, and Leisure",
@@ -119,7 +122,6 @@ export const weeks = [
     vocabulary: V([["gustar","to like"],["encantar","to love"],["interesar","to interest"],["preferir","to prefer"],["el cine","cinema"],["la música","music"],["el deporte","sport"],["juntos","together"]]),
     models: ["Me gusta escuchar música en vivo.","A Tomás le interesan los documentales.","¿Prefieres salir o quedarte en casa?","Nos encanta jugar juntos.","El senderismo es más tranquilo que el fútbol."],
     reading: "A Camila le encanta el cine, pero a Diego le interesan más los deportes. Buscan una actividad que puedan disfrutar juntos y eligen un festival al aire libre.",
-    roles: ["conversation","grammar","culture"]
   },
   {
     week: 11, phase: "Daily Life", level: "ILR 1", title: "Food, Markets, and Restaurants",
@@ -131,7 +133,6 @@ export const weeks = [
     vocabulary: V([["el mercado","market"],["la cuenta","bill"],["el plato","dish"],["la bebida","drink"],["un kilo","one kilogram"],["sin","without"],["quisiera","I would like"],["probar","to try"]]),
     models: ["Quisiera probar el plato del día.","¿Cuánto cuesta un kilo de tomates?","Para mí, una sopa sin carne.","El camarero nos trae la cuenta.","Disculpe, pedí agua y no refresco."],
     reading: "En el mercado, Sara compara precios y compra verduras frescas. Más tarde pide el menú del día, pregunta por los ingredientes y explica que no puede comer nueces.",
-    roles: ["conversation","travel","visual","culture"]
   },
   {
     week: 12, phase: "Daily Life", level: "ILR 1", title: "Shopping, Clothing, and Demonstratives",
@@ -143,7 +144,6 @@ export const weeks = [
     vocabulary: V([["la tienda","store"],["la talla","size"],["el precio","price"],["barato","inexpensive"],["caro","expensive"],["este","this"],["ese","that"],["devolver","to return"]]),
     models: ["¿Tiene esta camisa en otra talla?","Esos zapatos me quedan bien.","Aquella chaqueta es demasiado cara.","Quiero devolver este artículo.","El precio incluye los impuestos."],
     reading: "Nora necesita ropa para una entrevista. Esta chaqueta le queda bien, pero es cara. Encuentra otra más barata y pregunta si puede devolverla con el recibo.",
-    roles: ["conversation","grammar","travel"]
   },
   {
     week: 13, phase: "Mobility", level: "ILR 1", title: "City, Directions, and Public Services",
@@ -155,7 +155,6 @@ export const weeks = [
     vocabulary: V([["la calle","street"],["la esquina","corner"],["derecho","straight"],["la derecha","right"],["la izquierda","left"],["doblar","to turn"],["seguir","to continue"],["perderse","to get lost"]]),
     models: ["Siga derecho hasta la plaza.","Doble a la izquierda en la segunda esquina.","¿Voy bien para el ayuntamiento?","Nos perdimos cerca de la estación.","El banco queda enfrente del correo."],
     reading: "Un visitante busca el museo, pero toma la calle equivocada. Una vecina le indica que siga derecho, cruce la plaza y doble después del correo.",
-    roles: ["travel","conversation","culture"]
   },
   {
     week: 14, phase: "Mobility", level: "ILR 1", title: "Travel, Transport, and Lodging",
@@ -167,7 +166,6 @@ export const weeks = [
     vocabulary: V([["el billete","ticket"],["el vuelo","flight"],["el andén","platform"],["la reserva","reservation"],["la habitación","room"],["el equipaje","luggage"],["salir","to depart"],["llegar","to arrive"]]),
     models: ["El tren sale del andén cuatro.","Acabamos de llegar al aeropuerto.","Tengo una reserva a nombre de Rivera.","Mi equipaje no aparece.","Vamos a quedarnos tres noches."],
     reading: "El vuelo de Omar llega tarde y pierde el último autobús. Llama al hotel para mantener la reserva y pregunta cómo llegar en transporte compartido.",
-    roles: ["travel","conversation","grammar"]
   },
   {
     week: 15, phase: "Mobility", level: "ILR 1", title: "Health, Body, and Emergencies",
@@ -179,7 +177,6 @@ export const weeks = [
     vocabulary: V([["la salud","health"],["el dolor","pain"],["la cabeza","head"],["el brazo","arm"],["la fiebre","fever"],["la farmacia","pharmacy"],["la emergencia","emergency"],["ayuda","help"]]),
     models: ["Me duele mucho la cabeza.","Tengo fiebre desde ayer.","¿Es alérgico a algún medicamento?","Llame a una ambulancia.","Se cayó y se lastimó el brazo."],
     reading: "Durante una caminata, Luis se cae y se lastima el brazo. Su amiga llama a emergencias, describe el lugar y explica que él está consciente pero tiene mucho dolor.",
-    roles: ["conversation","travel","culture"]
   },
   {
     week: 16, phase: "Mobility", level: "ILR 1+", title: "Weather, Nature, and Plans",
@@ -191,7 +188,6 @@ export const weeks = [
     vocabulary: V([["el tiempo","weather"],["la lluvia","rain"],["el viento","wind"],["la montaña","mountain"],["el bosque","forest"],["la costa","coast"],["la sequía","drought"],["proteger","to protect"]]),
     models: ["Mañana va a llover en la costa.","Hace viento en las zonas altas.","Si cambia el tiempo, regresamos temprano.","Se prohíbe encender fuego en el bosque.","Estamos protegiendo una fuente de agua."],
     reading: "El pronóstico anuncia lluvia intensa y viento en la montaña. El grupo cambia la ruta, lleva más agua y evita una zona cerrada por riesgo de incendio.",
-    roles: ["culture","conversation","advanced"]
   },
   {
     week: 17, phase: "Narrative", level: "ILR 1+", title: "Preterite: Completed Events",
@@ -203,7 +199,6 @@ export const weeks = [
     vocabulary: V([["ayer","yesterday"],["anoche","last night"],["primero","first"],["luego","then"],["después","afterward"],["ocurrir","to occur"],["llamar","to call"],["terminar","to finish"]]),
     models: ["Ayer llegué temprano a la oficina.","Primero revisamos el informe.","Luego llamaron al supervisor.","¿Qué ocurrió después?","La reunión terminó a las seis."],
     reading: "Ayer un apagón afectó el barrio. Primero los vecinos llamaron a la compañía eléctrica. Luego organizaron luces y comida para las personas mayores.",
-    roles: ["grammar","reader","writing"]
   },
   {
     week: 18, phase: "Narrative", level: "ILR 1+", title: "Irregular Preterite and Meaning Change",
@@ -215,7 +210,6 @@ export const weeks = [
     vocabulary: V([["pude","I managed"],["quise","I tried/wanted"],["supe","I found out"],["tuve","I had"],["hice","I did"],["vine","I came"],["fui","I went/was"],["dije","I said"]]),
     models: ["No pude entrar porque perdí la llave.","Fuimos al pueblo por otra carretera.","Allí conocimos al nuevo alcalde.","Supe la verdad esa misma tarde.","Quiso ayudar, pero no tuvo tiempo."],
     reading: "El equipo quiso cruzar el puente, pero no pudo. Fue por otra ruta y allí supo que una tormenta dañó la carretera. Finalmente tuvo que regresar.",
-    roles: ["grammar","reader","advanced"]
   },
   {
     week: 19, phase: "Narrative", level: "ILR 1+", title: "Imperfect: Background and Habit",
@@ -227,7 +221,6 @@ export const weeks = [
     vocabulary: V([["antes","before"],["de niño","as a child"],["cada día","every day"],["mientras","while"],["era","was"],["había","there was/were"],["solía","used to"],["parecía","seemed"]]),
     models: ["Antes había menos edificios.","De niña jugaba en esta plaza.","Eran las ocho y llovía mucho.","Mientras trabajábamos, escuchábamos la radio.","La ciudad parecía más tranquila."],
     reading: "Cuando Teresa era niña, su calle tenía pocos autos y todos conocían a los vecinos. Cada tarde jugaba en la plaza mientras sus abuelos conversaban afuera.",
-    roles: ["grammar","reader","culture"]
   },
   {
     week: 20, phase: "Narrative", level: "ILR 1+", title: "Preterite and Imperfect Together",
@@ -239,7 +232,6 @@ export const weeks = [
     vocabulary: V([["de repente","suddenly"],["en ese momento","at that moment"],["cuando","when"],["mientras","while"],["todavía","still"],["ya","already"],["resultar","to turn out"],["resolver","to resolve"]]),
     models: ["Caminaba a casa cuando empezó la tormenta.","Mientras todos dormían, sonó la alarma.","Ya había poca luz cuando llegamos.","De repente, un vecino abrió la puerta.","Al final resolvimos el problema juntos."],
     reading: "Elena volvía del trabajo cuando vio humo. Mientras llamaba a emergencias, dos vecinos ayudaron a salir a una familia. Los bomberos llegaron y controlaron el incendio.",
-    roles: ["grammar","reader","writing"]
   },
   {
     week: 21, phase: "Precision", level: "ILR 2", title: "Direct and Indirect Objects",
@@ -251,7 +243,6 @@ export const weeks = [
     vocabulary: V([["entregar","to deliver"],["prestar","to lend"],["devolver","to return"],["enviar","to send"],["mostrar","to show"],["explicar","to explain"],["el paquete","package"],["el mensaje","message"]]),
     models: ["Le envié el mensaje esta mañana.","El paquete lo recibió otra persona.","¿Puedes mostrármelo?","No les expliqué el cambio.","Devuélvale los documentos al gerente."],
     reading: "La oficina envió dos paquetes, pero el mensajero los entregó a destinatarios equivocados. La gerente les explicó el error y pidió que se los devolvieran.",
-    roles: ["grammar","writing","conversation"]
   },
   {
     week: 22, phase: "Precision", level: "ILR 2", title: "Double Pronouns, Se, and Reference",
@@ -263,7 +254,6 @@ export const weeks = [
     vocabulary: V([["romperse","to break accidentally"],["perderse","to get lost"],["olvidarse","to be forgotten"],["caerse","to fall"],["la llave","key"],["el archivo","file"],["la culpa","blame"],["la solución","solution"]]),
     models: ["Se me perdieron las llaves.","El informe se lo mandé a Clara.","A ellos se les olvidó la cita.","Explícaselo antes de la reunión.","No se nos cayó el equipo; falló el soporte."],
     reading: "A Julia se le borró un archivo importante. Se lo comunicó al equipo, recuperaron una copia y documentaron la solución para que no volviera a ocurrir.",
-    roles: ["grammar","advanced","writing"]
   },
   {
     week: 23, phase: "Precision", level: "ILR 2", title: "Perfect Tenses and Relevant Past",
@@ -275,7 +265,6 @@ export const weeks = [
     vocabulary: V([["todavía no","not yet"],["ya","already"],["alguna vez","ever"],["nunca","never"],["recientemente","recently"],["completar","to complete"],["mejorar","to improve"],["cambiar","to change"]]),
     models: ["Ya hemos completado la primera fase.","Todavía no han llegado los datos.","¿Alguna vez has trabajado en Chile?","Cuando llamó, yo ya había enviado el informe.","La situación ha cambiado recientemente."],
     reading: "El proyecto ha avanzado, pero todavía no ha recibido la aprobación final. El equipo ya había corregido los errores cuando llegó una nueva solicitud.",
-    roles: ["grammar","advanced","writing"]
   },
   {
     week: 24, phase: "Precision", level: "ILR 2", title: "Commands, Advice, and Procedures",
@@ -287,7 +276,6 @@ export const weeks = [
     vocabulary: V([["apagar","to turn off"],["encender","to turn on"],["comprobar","to check"],["guardar","to save"],["evitar","to avoid"],["asegurarse","to make sure"],["el paso","step"],["la instrucción","instruction"]]),
     models: ["Apague el equipo antes de abrirlo.","No compartas esa contraseña.","Asegúrense de guardar una copia.","Comprobemos los datos otra vez.","Conviene evitar este camino de noche."],
     reading: "Las instrucciones exigen apagar el sistema, guardar una copia y comprobar la conexión. Un técnico omite el segundo paso y el equipo debe repetir el proceso.",
-    roles: ["grammar","conversation","advanced"]
   },
   {
     week: 25, phase: "Projection", level: "ILR 2", title: "Future, Probability, and Forecasting",
@@ -299,7 +287,6 @@ export const weeks = [
     vocabulary: V([["el futuro","future"],["el cambio","change"],["aumentar","to increase"],["disminuir","to decrease"],["lograr","to achieve"],["seguir","to continue"],["probablemente","probably"],["dentro de","within/in"]]),
     models: ["La población urbana aumentará.","Seguiremos midiendo los resultados.","¿Dónde estará Marta ahora?","Cuando termine el estudio, publicaremos los datos.","Dentro de cinco años habrá nuevas opciones."],
     reading: "Durante la próxima década, varias ciudades ampliarán el transporte público. Probablemente habrá desacuerdos, pero los proyectos seguirán avanzando.",
-    roles: ["grammar","advanced","culture"]
   },
   {
     week: 26, phase: "Projection", level: "ILR 2", title: "Conditional, Courtesy, and Hypothesis",
@@ -311,7 +298,6 @@ export const weeks = [
     vocabulary: V([["la opción","option"],["la ventaja","advantage"],["la desventaja","disadvantage"],["el riesgo","risk"],["convendría","it would be advisable"],["podría","could"],["debería","should"],["en cambio","on the other hand"]]),
     models: ["Yo elegiría la segunda opción.","¿Podría enviarme los detalles?","El cambio reduciría el riesgo.","Dijo que llegaría al día siguiente.","En cambio, ese plan costaría demasiado."],
     reading: "La primera propuesta sería rápida, pero aumentaría el riesgo. La segunda tardaría más y costaría menos. El comité debería comparar los efectos a largo plazo.",
-    roles: ["grammar","advanced","writing"]
   },
   {
     week: 27, phase: "Projection", level: "ILR 2", title: "Present Subjunctive: Will and Emotion",
@@ -323,7 +309,6 @@ export const weeks = [
     vocabulary: V([["recomendar","to recommend"],["pedir","to request"],["exigir","to require"],["esperar","to hope"],["alegrarse","to be glad"],["lamentar","to regret"],["es necesario","it is necessary"],["ojalá","hopefully"]]),
     models: ["Recomiendo que revise los datos.","Es necesario que participen los vecinos.","Me alegra que estés aquí.","El director pide que lleguemos temprano.","Ojalá encuentren una solución justa."],
     reading: "Los residentes exigen que la ciudad repare el puente. La ingeniera recomienda que se cierre temporalmente y espera que el trabajo termine antes de la temporada de lluvias.",
-    roles: ["grammar","advanced","culture"]
   },
   {
     week: 28, phase: "Projection", level: "ILR 2", title: "Subjunctive: Doubt, Purpose, and Contingency",
@@ -335,7 +320,6 @@ export const weeks = [
     vocabulary: V([["dudar","to doubt"],["negar","to deny"],["es posible","it is possible"],["es probable","it is probable"],["para que","so that"],["a menos que","unless"],["antes de que","before"],["en cuanto","as soon as"]]),
     models: ["Dudo que la cifra sea correcta.","Es probable que llueva esta noche.","Salimos temprano para que haya tiempo suficiente.","No firmaremos a menos que cambien la cláusula.","Llámame en cuanto llegues."],
     reading: "Es posible que el informe contenga errores. Antes de que el consejo vote, los analistas revisarán las fuentes para que todos comprendan los riesgos.",
-    roles: ["grammar","advanced","writing"]
   },
   {
     week: 29, phase: "Projection", level: "ILR 2+", title: "Relative Clauses and Unknown Referents",
@@ -347,7 +331,6 @@ export const weeks = [
     vocabulary: V([["el requisito","requirement"],["el candidato","candidate"],["la experiencia","experience"],["disponible","available"],["adecuado","suitable"],["cuyo","whose"],["lo que","what/that which"],["cualquiera","whichever/any"]]),
     models: ["Buscamos a alguien que tenga experiencia.","Conozco a la persona que dirige el proyecto.","Necesito un lugar que esté cerca del metro.","Eso es lo que me preocupa.","La autora, cuyo libro ganó el premio, dará una charla."],
     reading: "La organización busca a una persona que conozca la región y pueda trabajar de inmediato. Ya entrevistó a un candidato que vivió allí durante cinco años.",
-    roles: ["grammar","advanced","writing"]
   },
   {
     week: 30, phase: "Systems", level: "ILR 2+", title: "Por, Para, Passive, and Impersonal Se",
@@ -359,7 +342,6 @@ export const weeks = [
     vocabulary: V([["por causa de","because of"],["para lograr","in order to achieve"],["por medio de","by means of"],["la medida","measure/policy"],["aprobar","to approve"],["publicar","to publish"],["se requiere","is required"],["se permite","is permitted"]]),
     models: ["La medida fue aprobada por el consejo.","Se publicaron los resultados ayer.","Trabajamos para mejorar el acceso.","El servicio cerró por falta de fondos.","Se requiere identificación para entrar."],
     reading: "La nueva norma fue aprobada por el ayuntamiento para reducir el tráfico. Se permitirán entregas por la mañana y se medirán los resultados durante seis meses.",
-    roles: ["grammar","advanced","writing"]
   },
   {
     week: 31, phase: "Systems", level: "ILR 2+", title: "Comparison, Register, and Idiomatic Force",
@@ -371,7 +353,6 @@ export const weeks = [
     vocabulary: V([["sin embargo","however"],["aun así","even so"],["por lo tanto","therefore"],["meter la pata","to put one’s foot in it"],["ir viento en popa","to go very well"],["estar en las nubes","to be daydreaming"],["dar en el clavo","to hit the nail on the head"],["tomar con pinzas","to treat cautiously"]]),
     models: ["La segunda opción es mucho más viable.","El informe menos claro fue el primero.","El proyecto va viento en popa.","Ese dato hay que tomarlo con pinzas.","Su análisis dio en el clavo; sin embargo, faltan pruebas."],
     reading: "El equipo celebró porque el proyecto iba viento en popa, pero una analista pidió tomar las cifras con pinzas. Su cautela dio en el clavo cuando apareció un error.",
-    roles: ["idiom","advanced","culture"]
   },
   {
     week: 32, phase: "Systems", level: "ILR 2+", title: "Work, Technology, and Formal Communication",
@@ -383,7 +364,6 @@ export const weeks = [
     vocabulary: V([["la reunión","meeting"],["el plazo","deadline"],["el informe","report"],["la red","network"],["la contraseña","password"],["el archivo adjunto","attachment"],["según","according to"],["con respecto a","regarding"]]),
     models: ["Según la técnica, la red ya funciona.","Nos comunicamos por un canal seguro.","El director dijo que ampliarían el plazo.","Adjunto encontrará el informe solicitado.","Con respecto al incidente, faltan dos datos."],
     reading: "Durante la reunión, el equipo técnico explicó que la interrupción no afectó los archivos. La directora pidió un informe y anunció que revisarían el protocolo.",
-    roles: ["advanced","writing","conversation"]
   },
   {
     week: 33, phase: "Systems", level: "ILR 2+", title: "History, Society, and Multiple Perspectives",
@@ -395,7 +375,6 @@ export const weeks = [
     vocabulary: V([["la fuente","source"],["la evidencia","evidence"],["el testimonio","testimony"],["la memoria","memory"],["la desigualdad","inequality"],["la migración","migration"],["aunque","although"],["debido a","due to"]]),
     models: ["La fuente afirma que la reforma amplió derechos.","Otros sostienen que la desigualdad continuó.","Cuando cambió el gobierno, muchas personas ya habían emigrado.","Aunque existe consenso sobre los hechos, su significado se debate.","El testimonio aporta una perspectiva personal."],
     reading: "Dos fuentes describen la misma protesta. El periódico destaca el cambio político, mientras un testimonio recuerda el miedo cotidiano. Ambas perspectivas aportan datos distintos.",
-    roles: ["culture","advanced","reader","writing"]
   },
   {
     week: 34, phase: "Systems", level: "ILR 2+", title: "Pan-Hispanic Variation and Dialect Listening",
@@ -407,7 +386,6 @@ export const weeks = [
     vocabulary: V([["el autobús","bus"],["el camión","bus in Mexico"],["la guagua","bus in parts of Caribbean/Canaries"],["el móvil","mobile phone in Spain"],["el celular","cell phone"],["vos tenés","you have in voseo"],["vosotros tenéis","you all have in Spain"],["ustedes tienen","you all have"]]),
     models: ["¿Vos tenés tiempo mañana?","Vosotros podéis entrar por aquí.","Ustedes esperan la guagua en esa esquina.","En México, camión puede significar autobús.","No entendí esa palabra; ¿qué significa aquí?"],
     reading: "Tres hablantes organizan el mismo viaje. Una persona toma el camión, otra espera la guagua y otra consulta el horario del autobús. El vehículo es similar; la palabra cambia.",
-    roles: ["culture","pronunciation","advanced","conversation"]
   },
   {
     week: 35, phase: "Capstone", level: "ILR 2+ stretch", title: "Analysis, Argument, and Professional Listening",
@@ -419,7 +397,6 @@ export const weeks = [
     vocabulary: V([["el asunto","issue"],["el argumento","argument"],["la postura","position"],["el hallazgo","finding"],["el alcance","scope"],["la consecuencia","consequence"],["cabe destacar","it is worth noting"],["en conclusión","in conclusion"]]),
     models: ["El argumento principal se apoya en tres hallazgos.","Cabe destacar que la muestra fue pequeña.","Aunque la propuesta tiene ventajas, su alcance es limitado.","La consecuencia más probable sería un aumento gradual.","En conclusión, recomiendo una prueba controlada."],
     reading: "Un estudio propone ampliar un servicio público. Los datos muestran beneficios, aunque la muestra es limitada. La autora recomienda una prueba regional antes de adoptar la medida nacionalmente.",
-    roles: ["advanced","reader","writing","conversation"]
   },
   {
     week: 36, phase: "Capstone", level: "ILR 2+/2+/2 stretch", title: "Integrated Field Capstone",
@@ -431,7 +408,6 @@ export const weeks = [
     vocabulary: V([["aclarar","to clarify"],["comprobar","to verify"],["negociar","to negotiate"],["resumir","to summarize"],["justificar","to justify"],["adaptarse","to adapt"],["la competencia","proficiency"],["el mantenimiento","maintenance"]]),
     models: ["Permítame aclarar lo que entendí.","Antes de actuar, debemos comprobar la fuente.","Puedo resumir las dos posturas y justificar mi recomendación.","Me adapto al registro sin imitar un acento.","Mi plan de mantenimiento combina lectura, escucha, conversación y escritura."],
     reading: "Al terminar el curso, la meta no es saber cada palabra. La meta es comprender, actuar, reparar errores y seguir aprendiendo. La competencia se mantiene con contacto frecuente y tareas cada vez más exigentes.",
-    roles: ["advanced","method","conversation","writing","reader"]
   }
 ];
 

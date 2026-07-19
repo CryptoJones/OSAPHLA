@@ -9,6 +9,7 @@ const execFile = promisify(execFileCallback);
 const ROOT = resolve(import.meta.dirname, "..");
 const course = JSON.parse(await readFile(resolve(ROOT, "src/data/course.json"), "utf8"));
 const requested = process.argv.includes("--section") ? process.argv[process.argv.indexOf("--section") + 1] : null;
+const requestedKind = process.argv.includes("--kind") ? process.argv[process.argv.indexOf("--kind") + 1] : null;
 const force = process.argv.includes("--force");
 const theme = process.argv.includes("--theme") ? process.argv[process.argv.indexOf("--theme") + 1] : "contrast-dark";
 const jobs = Math.max(1, Math.min(4, Number(process.argv.includes("--jobs") ? process.argv[process.argv.indexOf("--jobs") + 1] : 2) || 2));
@@ -23,7 +24,8 @@ const themes = {
   "contrast-light": { bg: "#ffffff", panel: "#f4f4f4", text: "#070707", muted: "#292929", accent: "#004c3f", second: "#6a4300", border: "#111111" },
   "low-glare": { bg: "#171a1c", panel: "#21262a", text: "#d4d8d5", muted: "#a9b0ac", accent: "#a4c7ba", second: "#c7b88c", border: "#5f6966" },
   "warm-paper": { bg: "#f3ead7", panel: "#fff9ec", text: "#291f17", muted: "#5b4939", accent: "#155c50", second: "#805200", border: "#6d5b48" },
-  monochrome: { bg: "#080808", panel: "#171717", text: "#f5f5f5", muted: "#c7c7c7", accent: "#ffffff", second: "#dedede", border: "#aaaaaa" }
+  monochrome: { bg: "#080808", panel: "#171717", text: "#f5f5f5", muted: "#c7c7c7", accent: "#ffffff", second: "#dedede", border: "#aaaaaa" },
+  cyberdeck: { bg: "#07090f", panel: "#0c1018", text: "#cfd8e3", muted: "#88aaaa", accent: "#27d4ff", second: "#55ff99", border: "#27d4ff" }
 };
 const palette = themes[theme] || themes["contrast-dark"];
 
@@ -68,7 +70,7 @@ function slideHtml(slide, index, total) {
   return `<!doctype html><meta charset="utf-8"><style>
   *{box-sizing:border-box}body{margin:0;width:1280px;height:720px;overflow:hidden;background:${palette.bg};color:${palette.text};font-family:Arial,sans-serif;padding:74px 86px;display:flex;flex-direction:column;justify-content:center;border:14px solid ${palette.panel}}
   body:after{content:"";position:absolute;right:-90px;bottom:-110px;width:340px;height:340px;border:58px solid ${palette.accent}14;border-radius:50%}small{position:absolute;right:52px;top:40px;color:${palette.muted};font-size:20px;letter-spacing:2px}.kicker{color:${palette.accent};text-transform:uppercase;letter-spacing:4px;font-weight:800;font-size:20px;border-left:7px solid ${palette.accent};padding-left:18px}h1{font-size:66px;line-height:1.05;max-width:880px;margin:22px 0;color:${palette.text}}p,li{font-size:31px;line-height:1.45;max-width:980px}li{margin:12px 0}footer{position:absolute;left:86px;bottom:38px;color:${palette.second};font-weight:700;font-size:18px;letter-spacing:2px}</style>
-  <small>${String(index + 1).padStart(2,"0")} / ${String(total).padStart(2,"0")}</small>${slide.kicker ? `<div class="kicker">${escapeHtml(slide.kicker)}</div>` : ""}<h1>${escapeHtml(slide.title)}</h1>${body}<footer>ESPAÑOL · ADAPTIVE PAN-HISPANIC ACADEMY</footer>`;
+  <small>${String(index + 1).padStart(2,"0")} / ${String(total).padStart(2,"0")}</small>${slide.kicker ? `<div class="kicker">${escapeHtml(slide.kicker)}</div>` : ""}<h1>${escapeHtml(slide.title)}</h1>${body}<footer>OSAPHLA · OPEN SOURCE ACCESSIBLE PAN-HISPANIC LANGUAGE ACADEMY</footer>`;
 }
 
 function timestamp(seconds) {
@@ -133,8 +135,8 @@ async function renderSection(context, section, profile, kokoroPython) {
   } finally { await closeWithTimeout(() => page.close(), `page ${section.id}`); await rm(work, { recursive: true, force: true }); }
 }
 
-const selected = requested ? course.sections.filter((section) => section.id === requested) : course.sections;
-if (!selected.length) throw new Error(`Unknown section: ${requested}`);
+const selected = course.sections.filter((section) => (!requested || section.id === requested) && (!requestedKind || section.kind === requestedKind));
+if (!selected.length) throw new Error(`No sections match section=${requested || "any"}, kind=${requestedKind || "any"}.`);
 if (voiceOverride && !voiceProfiles.includes(voiceOverride)) throw new Error(`Unknown voice profile: ${voiceOverride}`);
 await mkdir(resolve(ROOT, "public/media"), { recursive: true });
 await writeFile(resolve(ROOT, "public/media/voice-manifest.json"), `${JSON.stringify({ version: 2, strategy: "balanced-seeded", languageRouting: "phoneme-level es-419/en-us code-switching", profiles: voiceLabels, counts: Object.fromEntries(voiceProfiles.map((profile) => [profile, course.sections.filter((section) => assignedVoice.get(section.id) === profile).length])), assignments: Object.fromEntries(course.sections.map((section) => [section.id, assignedVoice.get(section.id)])) }, null, 2)}\n`);

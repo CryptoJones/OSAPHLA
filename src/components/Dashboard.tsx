@@ -10,7 +10,7 @@ export function Dashboard({ course, progress }: { course: Course; progress: Reco
 
   return <div className="page dashboard-page">
     <section className="hero" aria-labelledby="hero-title">
-      <p className="eyebrow">36-week pan-Hispanic academy</p>
+      <p className="eyebrow">OSAPHLA · 36-week Pan-Hispanic academy</p>
       <h1 id="hero-title">Train for useful Spanish, not a streak.</h1>
       <p>{course.description}</p>
       <div className="hero-actions"><Link className="button primary" to={`/lesson/${next.id}`}>{started ? "Continue training" : "Begin week one"}</Link><Link className="button" to="/course">Open course map</Link></div>
@@ -23,7 +23,7 @@ export function Dashboard({ course, progress }: { course: Course; progress: Reco
         <article className="stat-card"><strong>{mastered}</strong><span>mastered</span></article>
         <article className="stat-card"><strong>{started}</strong><span>started</span></article>
         <article className="stat-card"><strong>{course.sections.length - mastered}</strong><span>remaining</span></article>
-        <article className="stat-card"><strong>{course.readerAssignments.length}</strong><span>reader assignments</span></article>
+        <article className="stat-card"><strong>{course.readingAssignments.length}</strong><span>reading activities</span></article>
       </div>
     </section>
 

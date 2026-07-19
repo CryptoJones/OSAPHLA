@@ -1,6 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title">
-  <title id="title">Español Language Academy</title>
+  <title id="title">OSAPHLA</title>
   <rect width="512" height="512" rx="96" fill="#071417"/>
-  <path d="M92 110h328v70H180v46h208v66H180v48h244v70H92z" fill="#69f5c5"/>
+  <circle cx="220" cy="256" r="116" fill="none" stroke="#69f5c5" stroke-width="58"/>
+  <path d="M420 160c-30-34-116-28-116 18 0 55 124 37 124 112 0 70-111 82-151 28" fill="none" stroke="#69f5c5" stroke-width="46" stroke-linecap="round"/>
   <circle cx="394" cy="92" r="26" fill="#ffc857"/>
 </svg>

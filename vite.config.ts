@@ -9,9 +9,9 @@ export default defineConfig({
       registerType: "autoUpdate",
       includeAssets: ["icons/*.svg"],
       manifest: {
-        name: "Español — Pan-Hispanic Language Academy",
-        short_name: "Español",
-        description: "A private, accessible, offline-first Spanish language academy.",
+        name: "Open Source Accessible Pan-Hispanic Language Academy",
+        short_name: "OSAPHLA",
+        description: "An open-source, accessible, offline-first Pan-Hispanic Spanish language academy.",
         theme_color: "#071417",
         background_color: "#071417",
         display: "standalone",

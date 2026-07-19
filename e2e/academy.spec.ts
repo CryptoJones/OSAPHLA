@@ -26,3 +26,14 @@ test("small-screen reflow retains primary access", async ({ page }) => {
   await expect(page.getByRole("link", { name: "Course", exact: true })).toBeVisible();
   await expect(page.locator("body").evaluate((element) => element.scrollWidth <= 320)).resolves.toBe(true);
 });
+
+test("reading activities open complete course passages", async ({ page }) => {
+  await page.goto("/");
+  await page.getByRole("button", { name: "Use these settings and enter the academy" }).click();
+  await page.getByRole("link", { name: "Readers" }).click();
+  await page.getByRole("button", { name: "Reading activity 1 Main idea", exact: true }).click();
+  await expect(page.getByRole("heading", { name: /How Spanish Works: Main idea/ })).toBeVisible();
+  await expect(page.getByRole("heading", { name: "Passage" })).toBeVisible();
+  await expect(page.getByText(/English meaning: Ana opens her notebook/)).toBeVisible();
+  await expect(page.getByRole("link", { name: "Open assigned lesson" })).toHaveAttribute("href", "/lesson/w01-input");
+});

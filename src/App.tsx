@@ -9,20 +9,19 @@ import { Dashboard } from "./components/Dashboard";
 import { LessonPage } from "./components/LessonPage";
 import { ReaderLibrary } from "./components/ReaderLibrary";
 import { SettingsPage, ThemeLab } from "./components/Settings";
-import { SourcesPage } from "./components/SourcesPage";
 
 const course = courseJson as Course;
 
 function Layout({ children }: { children: React.ReactNode }) {
   return <div className="app-shell">
     <header className="site-header">
-      <NavLink to="/" className="brand" aria-label="Español academy dashboard"><span lang="es">Español</span><small>Pan-Hispanic Academy</small></NavLink>
+      <NavLink to="/" className="brand" aria-label="OSAPHLA dashboard"><span>OSAPHLA</span><small>Open Source Accessible Pan-Hispanic Language Academy</small></NavLink>
       <nav aria-label="Primary navigation">
-        <NavLink to="/">Dashboard</NavLink><NavLink to="/course">Course</NavLink><NavLink to="/readers">Readers</NavLink><NavLink to="/sources">Coverage</NavLink><NavLink to="/settings">Display</NavLink>
+        <NavLink to="/">Dashboard</NavLink><NavLink to="/course">Course</NavLink><NavLink to="/readers">Readers</NavLink><NavLink to="/settings">Display</NavLink>
       </nav>
     </header>
     <main id="main-content" tabIndex={-1}>{children}</main>
-    <footer className="site-footer">Private, on-device learning · 36 weeks · 180 assessed sections · ILR preparation, not certification</footer>
+    <footer className="site-footer">OSAPHLA · Open source, private on-device learning · 36 weeks · 180 assessed sections · ILR preparation, not certification</footer>
   </div>;
 }
 
@@ -39,7 +38,6 @@ export default function App() {
     <Route path="/course" element={<CourseMap course={course} progress={progress} />} />
     <Route path="/lesson/:sectionId" element={<LessonPage course={course} progress={progress} onProgress={refresh} />} />
     <Route path="/readers" element={<ReaderLibrary course={course} />} />
-    <Route path="/sources" element={<SourcesPage course={course} />} />
     <Route path="/settings" element={<SettingsPage course={course} />} />
     <Route path="*" element={<Navigate to="/" replace />} />
   </Routes></Layout></BrowserRouter>;

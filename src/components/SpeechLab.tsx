@@ -20,7 +20,7 @@ function advisorySimilarity(target: string, transcript: string) {
   return expected.size ? Math.round(matches / expected.size * 100) : 0;
 }
 
-export function SpeechLab({ sectionId, target }: { sectionId: string; target: string }) {
+export function SpeechLab({ sectionId, target, meaning }: { sectionId: string; target: string; meaning: string }) {
   const recorder = useRef<MediaRecorder | null>(null);
   const chunks = useRef<Blob[]>([]);
   const worker = useRef<Worker | null>(null);
@@ -69,7 +69,7 @@ export function SpeechLab({ sectionId, target }: { sectionId: string; target: st
 
   return <section className="speech-lab" aria-labelledby="speech-title">
     <header><p className="eyebrow">Private microphone lab</p><h2 id="speech-title">Record, inspect, and repair</h2></header>
-    <blockquote lang="es">{target}</blockquote>
+    <blockquote lang="es">{target}</blockquote><p className="english-meaning"><strong>English meaning:</strong> {meaning}</p>
     <p>Listen to the model sentence in the adaptive presentation, then record it or an original response with the same structure.</p>
     <div className="button-row"><button className={`button ${recording ? "danger" : ""}`} type="button" onClick={recording ? stop : () => void start()}>{recording ? "Stop recording" : "Start recording"}</button>{blob && <button className="button" type="button" onClick={() => void analyze()}>Analyze locally</button>}</div>
     {blob && <audio controls src={audioUrl}><track kind="captions" /></audio>}
