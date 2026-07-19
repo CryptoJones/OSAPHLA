@@ -1,0 +1,455 @@
+{
+  "profile": "y1",
+  "utterances": [
+    {
+      "file": "00.wav",
+      "text": "Week 1: How Spanish Works. spell a name recognize a stressed syllable build a sustainable study loop",
+      "sentences": [
+        {
+          "text": "Week 1: How Spanish Works.",
+          "segments": [
+            {
+              "text": "Week 1: How Spanish Works.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wˈiːk wˈʌn: hˌaʊ spˈænɪʃ wˈɜːks."
+        },
+        {
+          "text": "spell a name recognize a stressed syllable build a sustainable study loop",
+          "segments": [
+            {
+              "text": "spell a name recognize a stressed syllable build a sustainable study loop",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "spˈɛl ɐ nˈeɪm ɹˈɛkəɡnˌaɪz ɐ stɹˈɛst sˈɪləbəl bˈɪld ɐ səstˈeɪnəbəl stˈʌdi lˈuːp"
+        }
+      ]
+    },
+    {
+      "file": "01.wav",
+      "text": "Cultural lens. Spanish is pluricentric: there is no single country that owns correct Spanish.",
+      "sentences": [
+        {
+          "text": "Cultural lens.",
+          "segments": [
+            {
+              "text": "Cultural lens.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "kˈʌltʃɚɹəl lˈɛnz."
+        },
+        {
+          "text": "Spanish is pluricentric: there is no single country that owns correct Spanish.",
+          "segments": [
+            {
+              "text": "Spanish is pluricentric: there is no single country that owns correct Spanish.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "spˈænɪʃ ɪz plˌʊɹɹɪsˈɛntɹɪk: ðɛɹ ɪz nˈoʊ sˈɪŋɡəl kˈʌntɹi ðæt ˈoʊnz kɚɹˈɛkt spˈænɪʃ."
+        }
+      ]
+    },
+    {
+      "file": "02.wav",
+      "text": "Avoid the single-story trap. Treat country, region, age, relationship, and setting as variables. Describe the evidence you have without turning one example into a universal rule.",
+      "sentences": [
+        {
+          "text": "Avoid the single-story trap.",
+          "segments": [
+            {
+              "text": "Avoid the single-story trap.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɐvˈɔɪd ðə sˈɪŋɡəlstˈɔːɹi tɹˈæp."
+        },
+        {
+          "text": "Treat country, region, age, relationship, and setting as variables.",
+          "segments": [
+            {
+              "text": "Treat country, region, age, relationship, and setting as variables.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tɹˈiːt kˈʌntɹi, ɹˈiːdʒən, ˈeɪdʒ, ɹᵻlˈeɪʃənʃˌɪp, ænd sˈɛɾɪŋ æz vˈɛɹɪəbəlz."
+        },
+        {
+          "text": "Describe the evidence you have without turning one example into a universal rule.",
+          "segments": [
+            {
+              "text": "Describe the evidence you have without turning one example into a universal rule.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "dᵻskɹˈaɪb ðɪ ˈɛvɪdəns juː hæv wɪðˌaʊt tˈɜːnɪŋ wˈʌn ɛɡzˈæmpəl ˌɪntʊ ɐ jˌuːnɪvˈɜːsəl ɹˈuːl."
+        }
+      ]
+    },
+    {
+      "file": "03.wav",
+      "text": "Language variation. Recognize regional choices and ask what a form means locally. Use the neutral course model for production until the situation gives you a reason to adapt.",
+      "sentences": [
+        {
+          "text": "Language variation.",
+          "segments": [
+            {
+              "text": "Language variation.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "lˈæŋɡwɪdʒ vˌɛɹɪˈeɪʃən."
+        },
+        {
+          "text": "Recognize regional choices and ask what a form means locally.",
+          "segments": [
+            {
+              "text": "Recognize regional choices and ask what a form means locally.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɹˈɛkəɡnˌaɪz ɹˈiːdʒənəl tʃˈɔɪsᵻz ænd ˈæsk wʌt ɐ fˈɔːɹm mˈiːnz lˈoʊkəli."
+        },
+        {
+          "text": "Use the neutral course model for production until the situation gives you a reason to adapt.",
+          "segments": [
+            {
+              "text": "Use the neutral course model for production until the situation gives you a reason to adapt.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "jˈuːs ðə nˈuːtɹəl kˈɔːɹs mˈɑːdəl fɔːɹ pɹədˈʌkʃən ʌntˈɪl ðə sˌɪtʃuːˈeɪʃən ɡˈɪvz juː ɐ ɹˈiːzən tʊ ɐdˈæpt."
+        }
+      ]
+    },
+    {
+      "file": "04.wav",
+      "text": "Reflection. Compare this context with one you know. Name one similarity, one difference, and one question that would prevent an assumption.",
+      "sentences": [
+        {
+          "text": "Reflection.",
+          "segments": [
+            {
+              "text": "Reflection.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɹᵻflˈɛkʃən."
+        },
+        {
+          "text": "Compare this context with one you know.",
+          "segments": [
+            {
+              "text": "Compare this context with one you know.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "kəmpˈɛɹ ðɪs kˈɑːntɛkst wɪð wˈʌn juː nˈoʊ."
+        },
+        {
+          "text": "Name one similarity, one difference, and one question that would prevent an assumption.",
+          "segments": [
+            {
+              "text": "Name one similarity, one difference, and one question that would prevent an assumption.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "nˈeɪm wˈʌn sˌɪmɪlˈæɹᵻɾi, wˈʌn dˈɪfɹəns, ænd wˈʌn kwˈɛstʃən ðæt wʊd pɹɪvˈɛnt ɐn ɐsˈʌmpʃən."
+        }
+      ]
+    },
+    {
+      "file": "05.wav",
+      "text": "Model language. Mi nombre se escribe con cinco letras. — My name is spelled with five letters. La h no tiene sonido. — The letter h has no sound. Escucho y repito cada palabra. — I listen to and repeat every word. ¿Cuál es la sílaba tónica? — Which is the stressed syllable? La práctica breve y frecuente funciona mejor. — Brief, frequent practice works better.",
+      "sentences": [
+        {
+          "text": "Model language.",
+          "segments": [
+            {
+              "text": "Model language.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
+        },
+        {
+          "text": "Mi nombre se escribe con cinco letras.",
+          "segments": [
+            {
+              "text": "Mi nombre se escribe con cinco letras.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "mi nˈombɾe se eskɾˈiβe kon sˈinko lˈetɾas."
+        },
+        {
+          "text": "— My name is spelled with five letters.",
+          "segments": [
+            {
+              "text": "— My name is spelled with five letters.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— maɪ nˈeɪm ɪz spˈɛld wɪð fˈaɪv lˈɛɾɚz."
+        },
+        {
+          "text": "La h no tiene sonido.",
+          "segments": [
+            {
+              "text": "La h no tiene sonido.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "la ˈatʃe nˈo tjˈene sonˈiðo."
+        },
+        {
+          "text": "— The letter h has no sound.",
+          "segments": [
+            {
+              "text": "— The letter h has no sound.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— ðə lˈɛɾɚɹ ˈeɪtʃ hɐz nˈoʊ sˈaʊnd."
+        },
+        {
+          "text": "Escucho y repito cada palabra.",
+          "segments": [
+            {
+              "text": "Escucho y repito cada palabra.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "eskˈutʃo i repˈito kˈaða palˈaβɾa."
+        },
+        {
+          "text": "— I listen to and repeat every word.",
+          "segments": [
+            {
+              "text": "— I listen to and repeat every word.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— aɪ lˈɪsən tʊ ænd ɹᵻpˈiːt ˈɛvɹi wˈɜːd."
+        },
+        {
+          "text": "¿Cuál es la sílaba tónica?",
+          "segments": [
+            {
+              "text": "¿Cuál es la sílaba tónica?",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kwˈal ˈes la sˈilaβa tˈonika?"
+        },
+        {
+          "text": "— Which is the stressed syllable?",
+          "segments": [
+            {
+              "text": "— Which is the stressed syllable?",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— wˌɪtʃ ɪz ðə stɹˈɛst sˈɪləbəl?"
+        },
+        {
+          "text": "La práctica breve y frecuente funciona mejor.",
+          "segments": [
+            {
+              "text": "La práctica breve y frecuente funciona mejor.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "la pɾˈaktika βɾˈeβe i fɾekwˈɛnte funsjˈona mexˈoɾ."
+        },
+        {
+          "text": "— Brief, frequent practice works better.",
+          "segments": [
+            {
+              "text": "— Brief, frequent practice works better.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— bɹˈiːf, fɹˈiːkwənt pɹˈæktɪs wˈɜːks bˈɛɾɚ."
+        }
+      ]
+    },
+    {
+      "file": "06.wav",
+      "text": "Check your readiness. Explain the core idea. Produce an original example. Complete the section assessment at 85% or higher.",
+      "sentences": [
+        {
+          "text": "Check your readiness.",
+          "segments": [
+            {
+              "text": "Check your readiness.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tʃˈɛk jʊɹ ɹˈɛdinəs."
+        },
+        {
+          "text": "Explain the core idea.",
+          "segments": [
+            {
+              "text": "Explain the core idea.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɛksplˈeɪn ðə kˈɔːɹ aɪdˈiə."
+        },
+        {
+          "text": "Produce an original example.",
+          "segments": [
+            {
+              "text": "Produce an original example.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "pɹədˈuːs ɐn ɚɹˈɪdʒɪnəl ɛɡzˈæmpəl."
+        },
+        {
+          "text": "Complete the section assessment at 85% or higher.",
+          "segments": [
+            {
+              "text": "Complete the section assessment at 85% or higher.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "kəmplˈiːt ðə sˈɛkʃən ɐsˈɛsmənt æɾ ˈeɪɾi fˈaɪv pɚsˈɛnt ɔːɹ hˈaɪɚ."
+        }
+      ]
+    },
+    {
+      "file": "vocab-00.wav",
+      "text": "el alfabeto",
+      "sentences": [
+        {
+          "text": "el alfabeto",
+          "segments": [
+            {
+              "text": "el alfabeto",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "el ˌalfaβˈeto"
+        }
+      ]
+    },
+    {
+      "file": "vocab-01.wav",
+      "text": "la letra",
+      "sentences": [
+        {
+          "text": "la letra",
+          "segments": [
+            {
+              "text": "la letra",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "la lˈetɾa"
+        }
+      ]
+    },
+    {
+      "file": "vocab-02.wav",
+      "text": "el sonido",
+      "sentences": [
+        {
+          "text": "el sonido",
+          "segments": [
+            {
+              "text": "el sonido",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "el sonˈiðo"
+        }
+      ]
+    },
+    {
+      "file": "vocab-03.wav",
+      "text": "la palabra",
+      "sentences": [
+        {
+          "text": "la palabra",
+          "segments": [
+            {
+              "text": "la palabra",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "la palˈaβɾa"
+        }
+      ]
+    },
+    {
+      "file": "vocab-04.wav",
+      "text": "la sílaba",
+      "sentences": [
+        {
+          "text": "la sílaba",
+          "segments": [
+            {
+              "text": "la sílaba",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "la sˈilaβa"
+        }
+      ]
+    },
+    {
+      "file": "vocab-05.wav",
+      "text": "el acento",
+      "sentences": [
+        {
+          "text": "el acento",
+          "segments": [
+            {
+              "text": "el acento",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "el asˈɛnto"
+        }
+      ]
+    },
+    {
+      "file": "vocab-06.wav",
+      "text": "escuchar",
+      "sentences": [
+        {
+          "text": "escuchar",
+          "segments": [
+            {
+              "text": "escuchar",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˌeskutʃˈaɾ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-07.wav",
+      "text": "repetir",
+      "sentences": [
+        {
+          "text": "repetir",
+          "segments": [
+            {
+              "text": "repetir",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "rˌepetˈiɾ"
+        }
+      ]
+    }
+  ]
+}

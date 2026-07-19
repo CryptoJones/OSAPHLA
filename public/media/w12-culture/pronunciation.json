@@ -1,0 +1,455 @@
+{
+  "profile": "dora",
+  "utterances": [
+    {
+      "file": "00.wav",
+      "text": "Week 12: Shopping, Clothing, and Demonstratives. ask for an item and size compare price and fit return or exchange a purchase",
+      "sentences": [
+        {
+          "text": "Week 12: Shopping, Clothing, and Demonstratives.",
+          "segments": [
+            {
+              "text": "Week 12: Shopping, Clothing, and Demonstratives.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wˈiːk twˈɛlv: ʃˈɑːpɪŋ, klˈoʊðɪŋ, ænd dəmˈɑːnstɹətˌɪvz."
+        },
+        {
+          "text": "ask for an item and size compare price and fit return or exchange a purchase",
+          "segments": [
+            {
+              "text": "ask for an item and size compare price and fit return or exchange a purchase",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ˈæsk fɚɹən ˈaɪɾəm ænd sˈaɪz kəmpˈɛɹ pɹˈaɪs ænd fˈɪt ɹᵻtˈɜːn ɔːɹ ɛkstʃˈeɪndʒ ɐ pˈɜːtʃɪs"
+        }
+      ]
+    },
+    {
+      "file": "01.wav",
+      "text": "Cultural lens. Fixed prices, bargaining contexts, sizes, taxes, receipts, and consumer expectations.",
+      "sentences": [
+        {
+          "text": "Cultural lens.",
+          "segments": [
+            {
+              "text": "Cultural lens.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "kˈʌltʃɚɹəl lˈɛnz."
+        },
+        {
+          "text": "Fixed prices, bargaining contexts, sizes, taxes, receipts, and consumer expectations.",
+          "segments": [
+            {
+              "text": "Fixed prices, bargaining contexts, sizes, taxes, receipts, and consumer expectations.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "fˈɪkst pɹˈaɪsᵻz, bˈɑːɹɡɪnɪŋ kˈɑːntɛksts, sˈaɪzᵻz, tˈæksᵻz, ɹᵻsˈiːts, ænd kənsˈuːmɚɹ ɛkspɪktˈeɪʃənz."
+        }
+      ]
+    },
+    {
+      "file": "02.wav",
+      "text": "Avoid the single-story trap. Treat country, region, age, relationship, and setting as variables. Describe the evidence you have without turning one example into a universal rule.",
+      "sentences": [
+        {
+          "text": "Avoid the single-story trap.",
+          "segments": [
+            {
+              "text": "Avoid the single-story trap.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɐvˈɔɪd ðə sˈɪŋɡəlstˈɔːɹi tɹˈæp."
+        },
+        {
+          "text": "Treat country, region, age, relationship, and setting as variables.",
+          "segments": [
+            {
+              "text": "Treat country, region, age, relationship, and setting as variables.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tɹˈiːt kˈʌntɹi, ɹˈiːdʒən, ˈeɪdʒ, ɹᵻlˈeɪʃənʃˌɪp, ænd sˈɛɾɪŋ æz vˈɛɹɪəbəlz."
+        },
+        {
+          "text": "Describe the evidence you have without turning one example into a universal rule.",
+          "segments": [
+            {
+              "text": "Describe the evidence you have without turning one example into a universal rule.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "dᵻskɹˈaɪb ðɪ ˈɛvɪdəns juː hæv wɪðˌaʊt tˈɜːnɪŋ wˈʌn ɛɡzˈæmpəl ˌɪntʊ ɐ jˌuːnɪvˈɜːsəl ɹˈuːl."
+        }
+      ]
+    },
+    {
+      "file": "03.wav",
+      "text": "Language variation. Recognize regional choices and ask what a form means locally. Use the neutral course model for production until the situation gives you a reason to adapt.",
+      "sentences": [
+        {
+          "text": "Language variation.",
+          "segments": [
+            {
+              "text": "Language variation.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "lˈæŋɡwɪdʒ vˌɛɹɪˈeɪʃən."
+        },
+        {
+          "text": "Recognize regional choices and ask what a form means locally.",
+          "segments": [
+            {
+              "text": "Recognize regional choices and ask what a form means locally.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɹˈɛkəɡnˌaɪz ɹˈiːdʒənəl tʃˈɔɪsᵻz ænd ˈæsk wʌt ɐ fˈɔːɹm mˈiːnz lˈoʊkəli."
+        },
+        {
+          "text": "Use the neutral course model for production until the situation gives you a reason to adapt.",
+          "segments": [
+            {
+              "text": "Use the neutral course model for production until the situation gives you a reason to adapt.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "jˈuːs ðə nˈuːtɹəl kˈɔːɹs mˈɑːdəl fɔːɹ pɹədˈʌkʃən ʌntˈɪl ðə sˌɪtʃuːˈeɪʃən ɡˈɪvz juː ɐ ɹˈiːzən tʊ ɐdˈæpt."
+        }
+      ]
+    },
+    {
+      "file": "04.wav",
+      "text": "Reflection. Compare this context with one you know. Name one similarity, one difference, and one question that would prevent an assumption.",
+      "sentences": [
+        {
+          "text": "Reflection.",
+          "segments": [
+            {
+              "text": "Reflection.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɹᵻflˈɛkʃən."
+        },
+        {
+          "text": "Compare this context with one you know.",
+          "segments": [
+            {
+              "text": "Compare this context with one you know.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "kəmpˈɛɹ ðɪs kˈɑːntɛkst wɪð wˈʌn juː nˈoʊ."
+        },
+        {
+          "text": "Name one similarity, one difference, and one question that would prevent an assumption.",
+          "segments": [
+            {
+              "text": "Name one similarity, one difference, and one question that would prevent an assumption.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "nˈeɪm wˈʌn sˌɪmɪlˈæɹᵻɾi, wˈʌn dˈɪfɹəns, ænd wˈʌn kwˈɛstʃən ðæt wʊd pɹɪvˈɛnt ɐn ɐsˈʌmpʃən."
+        }
+      ]
+    },
+    {
+      "file": "05.wav",
+      "text": "Model language. ¿Tiene esta camisa en otra talla? — Do you have this shirt in another size? Esos zapatos me quedan bien. — Those shoes fit me well. Aquella chaqueta es demasiado cara. — That jacket over there is too expensive. Quiero devolver este artículo. — I want to return this item. El precio incluye los impuestos. — The price includes taxes.",
+      "sentences": [
+        {
+          "text": "Model language.",
+          "segments": [
+            {
+              "text": "Model language.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
+        },
+        {
+          "text": "¿Tiene esta camisa en otra talla?",
+          "segments": [
+            {
+              "text": "¿Tiene esta camisa en otra talla?",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "tjˈene ˈesta kamˈisa en ˈotɾa tˈajja?"
+        },
+        {
+          "text": "— Do you have this shirt in another size?",
+          "segments": [
+            {
+              "text": "— Do you have this shirt in another size?",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— dˈuː juː hæv ðɪs ʃˈɜːt ɪn ɐnˈʌðɚ sˈaɪz?"
+        },
+        {
+          "text": "Esos zapatos me quedan bien.",
+          "segments": [
+            {
+              "text": "Esos zapatos me quedan bien.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˈesos sapˈatos me kˈeðam bjˈen."
+        },
+        {
+          "text": "— Those shoes fit me well.",
+          "segments": [
+            {
+              "text": "— Those shoes fit me well.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— tˈose ʃˈoes fˈit me wˈeʎ."
+        },
+        {
+          "text": "Aquella chaqueta es demasiado cara.",
+          "segments": [
+            {
+              "text": "Aquella chaqueta es demasiado cara.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "akˈejja tʃakˈeta ˈes ðˌemasjˈaðo kˈaɾa."
+        },
+        {
+          "text": "— That jacket over there is too expensive.",
+          "segments": [
+            {
+              "text": "— That jacket over there is too expensive.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— ðæt dʒˈækɪt ˌoʊvɚ ðɛɹ ɪz tˈuː ɛkspˈɛnsɪv."
+        },
+        {
+          "text": "Quiero devolver este artículo.",
+          "segments": [
+            {
+              "text": "Quiero devolver este artículo.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kjˈeɾo ðˌeβolβˈeɾ ˈeste aɾtˈikulo."
+        },
+        {
+          "text": "— I want to return this item.",
+          "segments": [
+            {
+              "text": "— I want to return this item.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— aɪ wˈɔnt tə ɹᵻtˈɜːn ðɪs ˈaɪɾəm."
+        },
+        {
+          "text": "El precio incluye los impuestos.",
+          "segments": [
+            {
+              "text": "El precio incluye los impuestos.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "el pɾˈesjo inklˈuʝe los impwˈestos."
+        },
+        {
+          "text": "— The price includes taxes.",
+          "segments": [
+            {
+              "text": "— The price includes taxes.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— ðə pɹˈaɪs ɪŋklˈuːdz tˈæksᵻz."
+        }
+      ]
+    },
+    {
+      "file": "06.wav",
+      "text": "Check your readiness. Explain the core idea. Produce an original example. Complete the section assessment at 85% or higher.",
+      "sentences": [
+        {
+          "text": "Check your readiness.",
+          "segments": [
+            {
+              "text": "Check your readiness.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tʃˈɛk jʊɹ ɹˈɛdinəs."
+        },
+        {
+          "text": "Explain the core idea.",
+          "segments": [
+            {
+              "text": "Explain the core idea.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɛksplˈeɪn ðə kˈɔːɹ aɪdˈiə."
+        },
+        {
+          "text": "Produce an original example.",
+          "segments": [
+            {
+              "text": "Produce an original example.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "pɹədˈuːs ɐn ɚɹˈɪdʒɪnəl ɛɡzˈæmpəl."
+        },
+        {
+          "text": "Complete the section assessment at 85% or higher.",
+          "segments": [
+            {
+              "text": "Complete the section assessment at 85% or higher.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "kəmplˈiːt ðə sˈɛkʃən ɐsˈɛsmənt æɾ ˈeɪɾi fˈaɪv pɚsˈɛnt ɔːɹ hˈaɪɚ."
+        }
+      ]
+    },
+    {
+      "file": "vocab-00.wav",
+      "text": "la tienda",
+      "sentences": [
+        {
+          "text": "la tienda",
+          "segments": [
+            {
+              "text": "la tienda",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "la tjˈɛnda"
+        }
+      ]
+    },
+    {
+      "file": "vocab-01.wav",
+      "text": "la talla",
+      "sentences": [
+        {
+          "text": "la talla",
+          "segments": [
+            {
+              "text": "la talla",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "la tˈajja"
+        }
+      ]
+    },
+    {
+      "file": "vocab-02.wav",
+      "text": "el precio",
+      "sentences": [
+        {
+          "text": "el precio",
+          "segments": [
+            {
+              "text": "el precio",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "el pɾˈesjo"
+        }
+      ]
+    },
+    {
+      "file": "vocab-03.wav",
+      "text": "barato",
+      "sentences": [
+        {
+          "text": "barato",
+          "segments": [
+            {
+              "text": "barato",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "baɾˈato"
+        }
+      ]
+    },
+    {
+      "file": "vocab-04.wav",
+      "text": "caro",
+      "sentences": [
+        {
+          "text": "caro",
+          "segments": [
+            {
+              "text": "caro",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kˈaɾo"
+        }
+      ]
+    },
+    {
+      "file": "vocab-05.wav",
+      "text": "este",
+      "sentences": [
+        {
+          "text": "este",
+          "segments": [
+            {
+              "text": "este",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˈeste"
+        }
+      ]
+    },
+    {
+      "file": "vocab-06.wav",
+      "text": "ese",
+      "sentences": [
+        {
+          "text": "ese",
+          "segments": [
+            {
+              "text": "ese",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˈese"
+        }
+      ]
+    },
+    {
+      "file": "vocab-07.wav",
+      "text": "devolver",
+      "sentences": [
+        {
+          "text": "devolver",
+          "segments": [
+            {
+              "text": "devolver",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "dˌeβolβˈeɾ"
+        }
+      ]
+    }
+  ]
+}

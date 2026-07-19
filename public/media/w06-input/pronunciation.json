@@ -1,0 +1,475 @@
+{
+  "profile": "dora",
+  "utterances": [
+    {
+      "file": "00.wav",
+      "text": "Week 6: The Present: Regular Actions. describe habits ask about routines say how often something happens",
+      "sentences": [
+        {
+          "text": "Week 6: The Present: Regular Actions.",
+          "segments": [
+            {
+              "text": "Week 6: The Present: Regular Actions.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wˈiːk sˈɪks: ðə pɹˈɛzənt: ɹˈɛɡjʊlɚɹ ˈækʃənz."
+        },
+        {
+          "text": "describe habits ask about routines say how often something happens",
+          "segments": [
+            {
+              "text": "describe habits ask about routines say how often something happens",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "dᵻskɹˈaɪb hˈæbɪts ˈæsk ɐbˌaʊt ɹuːtˈiːnz sˈeɪ hˌaʊ ˈɔfən sˈʌmθɪŋ hˈæpənz"
+        }
+      ]
+    },
+    {
+      "file": "01.wav",
+      "text": "Read for the situation. Raúl vive cerca de su trabajo. Camina a la oficina, come con sus compañeros y estudia inglés por la noche. Los fines de semana escribe a su familia. Raúl lives near his workplace. He walks to the office, eats with his coworkers, and studies English at night. On weekends he writes to his family.",
+      "sentences": [
+        {
+          "text": "Read for the situation.",
+          "segments": [
+            {
+              "text": "Read for the situation.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɹˈiːd fɚðə sˌɪtʃuːˈeɪʃən."
+        },
+        {
+          "text": "Raúl vive cerca de su trabajo.",
+          "segments": [
+            {
+              "text": "Raúl vive cerca de su trabajo.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "raˈul βˈiβe sˈeɾka ðe su tɾaβˈaxo."
+        },
+        {
+          "text": "Camina a la oficina, come con sus compañeros y estudia inglés por la noche.",
+          "segments": [
+            {
+              "text": "Camina a la oficina, come con sus compañeros y estudia inglés por la noche.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kamˈina a la ˌofisˈina, kˈome kon sus kˌompaɲˈeɾos i estˈuðja iŋɡlˈes poɾ la nˈotʃe."
+        },
+        {
+          "text": "Los fines de semana escribe a su familia.",
+          "segments": [
+            {
+              "text": "Los fines de semana escribe a su familia.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "los fˈines ðe semˈana eskɾˈiβe a su famˈilja."
+        },
+        {
+          "text": "Raúl lives near his workplace.",
+          "segments": [
+            {
+              "text": "Raúl lives near his workplace.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "raˈul lˈaɪβs neˈaɾ ˈis woɾkplˈase."
+        },
+        {
+          "text": "He walks to the office, eats with his coworkers, and studies English at night.",
+          "segments": [
+            {
+              "text": "He walks to the office, eats with his coworkers, and studies English at night.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "hiː wˈɔːks tə ðɪ ˈɑːfɪs, ˈiːts wɪð hɪz kˈoʊwɜːkɚz, ænd stˈʌdiz ˈɪŋɡlɪʃ æt nˈaɪt."
+        },
+        {
+          "text": "On weekends he writes to his family.",
+          "segments": [
+            {
+              "text": "On weekends he writes to his family.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ˌɔn wˈiːkɛndz hiː ɹˈaɪts tə hɪz fˈæmɪli."
+        }
+      ]
+    },
+    {
+      "file": "02.wav",
+      "text": "Read again for evidence. Identify who acts, what changes, when it happens, and which words establish the relationship between events.",
+      "sentences": [
+        {
+          "text": "Read again for evidence.",
+          "segments": [
+            {
+              "text": "Read again for evidence.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɹˈiːd ɐɡˈɛn fɔːɹ ˈɛvɪdəns."
+        },
+        {
+          "text": "Identify who acts, what changes, when it happens, and which words establish the relationship between events.",
+          "segments": [
+            {
+              "text": "Identify who acts, what changes, when it happens, and which words establish the relationship between events.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "aɪdˈɛntᵻfˌaɪ hˌuː ˈækts, wˌʌt tʃˈeɪndʒᵻz, wˌɛn ɪt hˈæpənz, ænd wˌɪtʃ wˈɜːdz ɪstˈæblɪʃ ðə ɹᵻlˈeɪʃənʃˌɪp bᵻtwˌiːn ᵻvˈɛnts."
+        }
+      ]
+    },
+    {
+      "file": "03.wav",
+      "text": "Reading activities. Reading activity 13; Reading activity 14",
+      "sentences": [
+        {
+          "text": "Reading activities.",
+          "segments": [
+            {
+              "text": "Reading activities.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɹˈiːdɪŋ æktˈɪvᵻɾiz."
+        },
+        {
+          "text": "Reading activity 13; Reading activity 14",
+          "segments": [
+            {
+              "text": "Reading activity 13; Reading activity 14",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɹˈiːdɪŋ æktˈɪvᵻɾi θˈɜːtiːn; ɹˈiːdɪŋ æktˈɪvᵻɾi fˈɔːɹtiːn"
+        }
+      ]
+    },
+    {
+      "file": "04.wav",
+      "text": "Retell. Without looking back, give the main idea, three supporting details, and one reasonable inference in Spanish.",
+      "sentences": [
+        {
+          "text": "Retell.",
+          "segments": [
+            {
+              "text": "Retell.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɹᵻtˈɛl."
+        },
+        {
+          "text": "Without looking back, give the main idea, three supporting details, and one reasonable inference in Spanish.",
+          "segments": [
+            {
+              "text": "Without looking back, give the main idea, three supporting details, and one reasonable inference in Spanish.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wɪðˌaʊt lˈʊkɪŋ bˈæk, ɡˈɪv ðə mˈeɪn aɪdˈiə, θɹˈiː səpˈɔːɹɾɪŋ diːtˈeɪlz, ænd wˈʌn ɹˈiːzənəbəl ˈɪnfɚɹəns ɪn spˈænɪʃ."
+        }
+      ]
+    },
+    {
+      "file": "05.wav",
+      "text": "Model language. Trabajo por la mañana y estudio por la noche. — I work in the morning and study at night. ¿Dónde vives? — Where do you live? Comemos juntos los viernes. — We eat together on Fridays. Ella escribe en su diario cada día. — She writes in her journal every day. A veces bebo café después de comer. — Sometimes I drink coffee after eating.",
+      "sentences": [
+        {
+          "text": "Model language.",
+          "segments": [
+            {
+              "text": "Model language.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
+        },
+        {
+          "text": "Trabajo por la mañana y estudio por la noche.",
+          "segments": [
+            {
+              "text": "Trabajo por la mañana y estudio por la noche.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "tɾaβˈaxo poɾ la maɲˈana i estˈuðjo poɾ la nˈotʃe."
+        },
+        {
+          "text": "— I work in the morning and study at night.",
+          "segments": [
+            {
+              "text": "— I work in the morning and study at night.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— aɪ wˈɜːk ɪnðə mˈɔːɹnɪŋ ænd stˈʌdi æt nˈaɪt."
+        },
+        {
+          "text": "¿Dónde vives?",
+          "segments": [
+            {
+              "text": "¿Dónde vives?",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "dˈonde βˈiβes?"
+        },
+        {
+          "text": "— Where do you live?",
+          "segments": [
+            {
+              "text": "— Where do you live?",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— wˌɛɹ dˈuː juː lˈɪv?"
+        },
+        {
+          "text": "Comemos juntos los viernes.",
+          "segments": [
+            {
+              "text": "Comemos juntos los viernes.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "komˈemos xˈuntos los βjˈeɾnes."
+        },
+        {
+          "text": "— We eat together on Fridays.",
+          "segments": [
+            {
+              "text": "— We eat together on Fridays.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— wiː ˈiːt təɡˌɛðɚɹ ˌɔn fɹˈaɪdeɪz."
+        },
+        {
+          "text": "Ella escribe en su diario cada día.",
+          "segments": [
+            {
+              "text": "Ella escribe en su diario cada día.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˈejja eskɾˈiβe en su ðjˈaɾjo kˈaða ðˈia."
+        },
+        {
+          "text": "— She writes in her journal every day.",
+          "segments": [
+            {
+              "text": "— She writes in her journal every day.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— ʃiː ɹˈaɪts ɪn hɜː dʒˈɜːnəl ˈɛvɹi dˈeɪ."
+        },
+        {
+          "text": "A veces bebo café después de comer.",
+          "segments": [
+            {
+              "text": "A veces bebo café después de comer.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "a βˈeses βˈeβo kafˈe ðespwˈes ðe komˈeɾ."
+        },
+        {
+          "text": "— Sometimes I drink coffee after eating.",
+          "segments": [
+            {
+              "text": "— Sometimes I drink coffee after eating.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— sˈʌmtaɪmz aɪ dɹˈɪŋk kˈɔfi ˈæftɚɹ ˈiːɾɪŋ."
+        }
+      ]
+    },
+    {
+      "file": "06.wav",
+      "text": "Check your readiness. Explain the core idea. Produce an original example. Complete the section assessment at 85% or higher.",
+      "sentences": [
+        {
+          "text": "Check your readiness.",
+          "segments": [
+            {
+              "text": "Check your readiness.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tʃˈɛk jʊɹ ɹˈɛdinəs."
+        },
+        {
+          "text": "Explain the core idea.",
+          "segments": [
+            {
+              "text": "Explain the core idea.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɛksplˈeɪn ðə kˈɔːɹ aɪdˈiə."
+        },
+        {
+          "text": "Produce an original example.",
+          "segments": [
+            {
+              "text": "Produce an original example.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "pɹədˈuːs ɐn ɚɹˈɪdʒɪnəl ɛɡzˈæmpəl."
+        },
+        {
+          "text": "Complete the section assessment at 85% or higher.",
+          "segments": [
+            {
+              "text": "Complete the section assessment at 85% or higher.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "kəmplˈiːt ðə sˈɛkʃən ɐsˈɛsmənt æɾ ˈeɪɾi fˈaɪv pɚsˈɛnt ɔːɹ hˈaɪɚ."
+        }
+      ]
+    },
+    {
+      "file": "vocab-00.wav",
+      "text": "trabajar",
+      "sentences": [
+        {
+          "text": "trabajar",
+          "segments": [
+            {
+              "text": "trabajar",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "tɾˌaβaxˈaɾ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-01.wav",
+      "text": "estudiar",
+      "sentences": [
+        {
+          "text": "estudiar",
+          "segments": [
+            {
+              "text": "estudiar",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˌestuðjˈaɾ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-02.wav",
+      "text": "comer",
+      "sentences": [
+        {
+          "text": "comer",
+          "segments": [
+            {
+              "text": "comer",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "komˈeɾ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-03.wav",
+      "text": "beber",
+      "sentences": [
+        {
+          "text": "beber",
+          "segments": [
+            {
+              "text": "beber",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "beβˈeɾ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-04.wav",
+      "text": "vivir",
+      "sentences": [
+        {
+          "text": "vivir",
+          "segments": [
+            {
+              "text": "vivir",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "biβˈiɾ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-05.wav",
+      "text": "escribir",
+      "sentences": [
+        {
+          "text": "escribir",
+          "segments": [
+            {
+              "text": "escribir",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˌeskɾiβˈiɾ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-06.wav",
+      "text": "siempre",
+      "sentences": [
+        {
+          "text": "siempre",
+          "segments": [
+            {
+              "text": "siempre",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "sjˈempɾe"
+        }
+      ]
+    },
+    {
+      "file": "vocab-07.wav",
+      "text": "a veces",
+      "sentences": [
+        {
+          "text": "a veces",
+          "segments": [
+            {
+              "text": "a veces",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "a βˈeses"
+        }
+      ]
+    }
+  ]
+}

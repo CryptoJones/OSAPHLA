@@ -1,0 +1,535 @@
+{
+  "profile": "dora",
+  "utterances": [
+    {
+      "file": "00.wav",
+      "text": "Week 35: Analysis, Argument, and Professional Listening. identify main idea and supporting detail defend an opinion summarize unfamiliar material",
+      "sentences": [
+        {
+          "text": "Week 35: Analysis, Argument, and Professional Listening.",
+          "segments": [
+            {
+              "text": "Week 35: Analysis, Argument, and Professional Listening.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wˈiːk θˈɜːɾi fˈaɪv: ɐnˈæləsˌɪs, ˈɑːɹɡjuːmənt, ænd pɹəfˈɛʃənəl lˈɪsənɪŋ."
+        },
+        {
+          "text": "identify main idea and supporting detail defend an opinion summarize unfamiliar material",
+          "segments": [
+            {
+              "text": "identify main idea and supporting detail defend an opinion summarize unfamiliar material",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "aɪdˈɛntᵻfˌaɪ mˈeɪn aɪdˈiə ænd səpˈɔːɹɾɪŋ diːtˈeɪl dᵻfˈɛnd ɐn əpˈɪniən sˈʌmɚɹˌaɪz ʌnfəmˈɪlɪɹ mətˈɪɹiəl"
+        }
+      ]
+    },
+    {
+      "file": "01.wav",
+      "text": "Form and meaning. Synthesis of mood, tense, reference, cohesion, qualification, and formal argument structure.",
+      "sentences": [
+        {
+          "text": "Form and meaning.",
+          "segments": [
+            {
+              "text": "Form and meaning.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "fˈɔːɹm ænd mˈiːnɪŋ."
+        },
+        {
+          "text": "Synthesis of mood, tense, reference, cohesion, qualification, and formal argument structure.",
+          "segments": [
+            {
+              "text": "Synthesis of mood, tense, reference, cohesion, qualification, and formal argument structure.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "sˈɪnθəsˌɪs ʌv mˈuːd, tˈɛns, ɹˈɛfɹəns, koʊhˈiːʒən, kwˌɔlɪfɪkˈeɪʃən, ænd fˈɔːɹməl ˈɑːɹɡjuːmənt stɹˈʌktʃɚ."
+        }
+      ]
+    },
+    {
+      "file": "02.wav",
+      "text": "Model set. El argumento principal se apoya en tres hallazgos. Cabe destacar que la muestra fue pequeña. Aunque la propuesta tiene ventajas, su alcance es limitado. La consecuencia más probable sería un aumento gradual. En conclusión, recomiendo una prueba controlada. The main argument is supported by three findings. It is worth noting that the sample was small. Although the proposal has advantages, its scope is limited. The most likely consequence would be a gradual increase. In conclusion, I recommend a controlled trial.",
+      "sentences": [
+        {
+          "text": "Model set.",
+          "segments": [
+            {
+              "text": "Model set.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "mˈɑːdəl sˈɛt."
+        },
+        {
+          "text": "El argumento principal se apoya en tres hallazgos.",
+          "segments": [
+            {
+              "text": "El argumento principal se apoya en tres hallazgos.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "el ˌaɾɣumˈɛnto pɾˌinsipˈal se apˈoʝa en tɾˈes ajjˈasɣos."
+        },
+        {
+          "text": "Cabe destacar que la muestra fue pequeña.",
+          "segments": [
+            {
+              "text": "Cabe destacar que la muestra fue pequeña.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kˈaβe ðˌestakˈaɾ ke la mwˈestɾa fwˈe pekˈeɲa."
+        },
+        {
+          "text": "Aunque la propuesta tiene ventajas, su alcance es limitado.",
+          "segments": [
+            {
+              "text": "Aunque la propuesta tiene ventajas, su alcance es limitado.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˌaʊnke la pɾopwˈesta tjˈene βentˈaxas, su alkˈanse ˈes lˌimitˈaðo."
+        },
+        {
+          "text": "La consecuencia más probable sería un aumento gradual.",
+          "segments": [
+            {
+              "text": "La consecuencia más probable sería un aumento gradual.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "la kˌonsekwˈɛnsja mˈas pɾoβˈaβle seɾˈia ˈun aʊmˈɛnto ɣɾaðwˈal."
+        },
+        {
+          "text": "En conclusión, recomiendo una prueba controlada.",
+          "segments": [
+            {
+              "text": "En conclusión, recomiendo una prueba controlada.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "en kˌonklusjˈon, rˌekomjˈɛndo ˈuna pɾuˈeβa kˌontɾolˈaða."
+        },
+        {
+          "text": "The main argument is supported by three findings.",
+          "segments": [
+            {
+              "text": "The main argument is supported by three findings.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðə mˈeɪn ˈɑːɹɡjuːmənt ɪz səpˈɔːɹɾᵻd baɪ θɹˈiː fˈaɪndɪŋz."
+        },
+        {
+          "text": "It is worth noting that the sample was small.",
+          "segments": [
+            {
+              "text": "It is worth noting that the sample was small.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɪɾ ɪz wˈɜːθ nˈoʊɾɪŋ ðætðə sˈæmpəl wʌz smˈɔːl."
+        },
+        {
+          "text": "Although the proposal has advantages, its scope is limited.",
+          "segments": [
+            {
+              "text": "Although the proposal has advantages, its scope is limited.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɔːlðˈoʊ ðə pɹəpˈoʊzəl hɐz ɐdvˈæntɪdʒᵻz, ɪts skˈoʊp ɪz lˈɪmɪɾᵻd."
+        },
+        {
+          "text": "The most likely consequence would be a gradual increase.",
+          "segments": [
+            {
+              "text": "The most likely consequence would be a gradual increase.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðə mˈoʊst lˈaɪkli kˈɑːnsɪkwəns wʊd biː ɐ ɡɹˈædʒuːəl ˈɪŋkɹiːs."
+        },
+        {
+          "text": "In conclusion, I recommend a controlled trial.",
+          "segments": [
+            {
+              "text": "In conclusion, I recommend a controlled trial.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɪn kəŋklˈuːʒən, aɪ ɹˌɛkəmˈɛnd ɐ kəntɹˈoʊld tɹˈaɪəl."
+        }
+      ]
+    },
+    {
+      "file": "03.wav",
+      "text": "Contrastive practice. Change the person, time, number, or level of formality in each model. Preserve the communicative purpose while the grammar changes.",
+      "sentences": [
+        {
+          "text": "Contrastive practice.",
+          "segments": [
+            {
+              "text": "Contrastive practice.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "kˈɑːntɹɐstˌɪv pɹˈæktɪs."
+        },
+        {
+          "text": "Change the person, time, number, or level of formality in each model.",
+          "segments": [
+            {
+              "text": "Change the person, time, number, or level of formality in each model.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tʃˈeɪndʒ ðə pˈɜːsən, tˈaɪm, nˈʌmbɚ, ɔːɹ lˈɛvəl ʌv fɔːɹmˈælᵻɾi ɪn ˈiːtʃ mˈɑːdəl."
+        },
+        {
+          "text": "Preserve the communicative purpose while the grammar changes.",
+          "segments": [
+            {
+              "text": "Preserve the communicative purpose while the grammar changes.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "pɹɪzˈɜːv ðə kəmjˈuːnɪkətˌɪv pˈɜːpəs wˌaɪl ðə ɡɹˈæmɚ tʃˈeɪndʒᵻz."
+        }
+      ]
+    },
+    {
+      "file": "04.wav",
+      "text": "Production check. Say one original sentence for each function: identify main idea and supporting detail; defend an opinion; summarize unfamiliar material. Then write it and compare the spoken and written forms.",
+      "sentences": [
+        {
+          "text": "Production check.",
+          "segments": [
+            {
+              "text": "Production check.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "pɹədˈʌkʃən tʃˈɛk."
+        },
+        {
+          "text": "Say one original sentence for each function: identify main idea and supporting detail; defend an opinion; summarize unfamiliar material.",
+          "segments": [
+            {
+              "text": "Say one original sentence for each function: identify main idea and supporting detail; defend an opinion; summarize unfamiliar material.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "sˈeɪ wˈʌn ɚɹˈɪdʒɪnəl sˈɛntəns fɔːɹ ˈiːtʃ fˈʌŋkʃən: aɪdˈɛntᵻfˌaɪ mˈeɪn aɪdˈiə ænd səpˈɔːɹɾɪŋ diːtˈeɪl; dᵻfˈɛnd ɐn əpˈɪniən; sˈʌmɚɹˌaɪz ʌnfəmˈɪlɪɹ mətˈɪɹiəl."
+        },
+        {
+          "text": "Then write it and compare the spoken and written forms.",
+          "segments": [
+            {
+              "text": "Then write it and compare the spoken and written forms.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðˈɛn ɹˈaɪt ɪt ænd kəmpˈɛɹ ðə spˈoʊkən ænd ɹˈɪʔn fˈɔːɹmz."
+        }
+      ]
+    },
+    {
+      "file": "05.wav",
+      "text": "Model language. El argumento principal se apoya en tres hallazgos. — The main argument is supported by three findings. Cabe destacar que la muestra fue pequeña. — It is worth noting that the sample was small. Aunque la propuesta tiene ventajas, su alcance es limitado. — Although the proposal has advantages, its scope is limited. La consecuencia más probable sería un aumento gradual. — The most likely consequence would be a gradual increase. En conclusión, recomiendo una prueba controlada. — In conclusion, I recommend a controlled trial.",
+      "sentences": [
+        {
+          "text": "Model language.",
+          "segments": [
+            {
+              "text": "Model language.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
+        },
+        {
+          "text": "El argumento principal se apoya en tres hallazgos.",
+          "segments": [
+            {
+              "text": "El argumento principal se apoya en tres hallazgos.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "el ˌaɾɣumˈɛnto pɾˌinsipˈal se apˈoʝa en tɾˈes ajjˈasɣos."
+        },
+        {
+          "text": "— The main argument is supported by three findings.",
+          "segments": [
+            {
+              "text": "— The main argument is supported by three findings.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— ðə mˈeɪn ˈɑːɹɡjuːmənt ɪz səpˈɔːɹɾᵻd baɪ θɹˈiː fˈaɪndɪŋz."
+        },
+        {
+          "text": "Cabe destacar que la muestra fue pequeña.",
+          "segments": [
+            {
+              "text": "Cabe destacar que la muestra fue pequeña.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kˈaβe ðˌestakˈaɾ ke la mwˈestɾa fwˈe pekˈeɲa."
+        },
+        {
+          "text": "— It is worth noting that the sample was small.",
+          "segments": [
+            {
+              "text": "— It is worth noting that the sample was small.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— ɪɾ ɪz wˈɜːθ nˈoʊɾɪŋ ðætðə sˈæmpəl wʌz smˈɔːl."
+        },
+        {
+          "text": "Aunque la propuesta tiene ventajas, su alcance es limitado.",
+          "segments": [
+            {
+              "text": "Aunque la propuesta tiene ventajas, su alcance es limitado.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˌaʊnke la pɾopwˈesta tjˈene βentˈaxas, su alkˈanse ˈes lˌimitˈaðo."
+        },
+        {
+          "text": "— Although the proposal has advantages, its scope is limited.",
+          "segments": [
+            {
+              "text": "— Although the proposal has advantages, its scope is limited.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— ɔːlðˈoʊ ðə pɹəpˈoʊzəl hɐz ɐdvˈæntɪdʒᵻz, ɪts skˈoʊp ɪz lˈɪmɪɾᵻd."
+        },
+        {
+          "text": "La consecuencia más probable sería un aumento gradual.",
+          "segments": [
+            {
+              "text": "La consecuencia más probable sería un aumento gradual.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "la kˌonsekwˈɛnsja mˈas pɾoβˈaβle seɾˈia ˈun aʊmˈɛnto ɣɾaðwˈal."
+        },
+        {
+          "text": "— The most likely consequence would be a gradual increase.",
+          "segments": [
+            {
+              "text": "— The most likely consequence would be a gradual increase.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— ðə mˈoʊst lˈaɪkli kˈɑːnsɪkwəns wʊd biː ɐ ɡɹˈædʒuːəl ˈɪŋkɹiːs."
+        },
+        {
+          "text": "En conclusión, recomiendo una prueba controlada.",
+          "segments": [
+            {
+              "text": "En conclusión, recomiendo una prueba controlada.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "en kˌonklusjˈon, rˌekomjˈɛndo ˈuna pɾuˈeβa kˌontɾolˈaða."
+        },
+        {
+          "text": "— In conclusion, I recommend a controlled trial.",
+          "segments": [
+            {
+              "text": "— In conclusion, I recommend a controlled trial.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— ɪn kəŋklˈuːʒən, aɪ ɹˌɛkəmˈɛnd ɐ kəntɹˈoʊld tɹˈaɪəl."
+        }
+      ]
+    },
+    {
+      "file": "06.wav",
+      "text": "Check your readiness. Explain the core idea. Produce an original example. Complete the section assessment at 85% or higher.",
+      "sentences": [
+        {
+          "text": "Check your readiness.",
+          "segments": [
+            {
+              "text": "Check your readiness.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tʃˈɛk jʊɹ ɹˈɛdinəs."
+        },
+        {
+          "text": "Explain the core idea.",
+          "segments": [
+            {
+              "text": "Explain the core idea.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɛksplˈeɪn ðə kˈɔːɹ aɪdˈiə."
+        },
+        {
+          "text": "Produce an original example.",
+          "segments": [
+            {
+              "text": "Produce an original example.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "pɹədˈuːs ɐn ɚɹˈɪdʒɪnəl ɛɡzˈæmpəl."
+        },
+        {
+          "text": "Complete the section assessment at 85% or higher.",
+          "segments": [
+            {
+              "text": "Complete the section assessment at 85% or higher.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "kəmplˈiːt ðə sˈɛkʃən ɐsˈɛsmənt æɾ ˈeɪɾi fˈaɪv pɚsˈɛnt ɔːɹ hˈaɪɚ."
+        }
+      ]
+    },
+    {
+      "file": "vocab-00.wav",
+      "text": "el asunto",
+      "sentences": [
+        {
+          "text": "el asunto",
+          "segments": [
+            {
+              "text": "el asunto",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "el asˈunto"
+        }
+      ]
+    },
+    {
+      "file": "vocab-01.wav",
+      "text": "el argumento",
+      "sentences": [
+        {
+          "text": "el argumento",
+          "segments": [
+            {
+              "text": "el argumento",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "el ˌaɾɣumˈɛnto"
+        }
+      ]
+    },
+    {
+      "file": "vocab-02.wav",
+      "text": "la postura",
+      "sentences": [
+        {
+          "text": "la postura",
+          "segments": [
+            {
+              "text": "la postura",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "la postˈuɾa"
+        }
+      ]
+    },
+    {
+      "file": "vocab-03.wav",
+      "text": "el hallazgo",
+      "sentences": [
+        {
+          "text": "el hallazgo",
+          "segments": [
+            {
+              "text": "el hallazgo",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "el ajjˈasɣo"
+        }
+      ]
+    },
+    {
+      "file": "vocab-04.wav",
+      "text": "el alcance",
+      "sentences": [
+        {
+          "text": "el alcance",
+          "segments": [
+            {
+              "text": "el alcance",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "el alkˈanse"
+        }
+      ]
+    },
+    {
+      "file": "vocab-05.wav",
+      "text": "la consecuencia",
+      "sentences": [
+        {
+          "text": "la consecuencia",
+          "segments": [
+            {
+              "text": "la consecuencia",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "la kˌonsekwˈɛnsja"
+        }
+      ]
+    },
+    {
+      "file": "vocab-06.wav",
+      "text": "cabe destacar",
+      "sentences": [
+        {
+          "text": "cabe destacar",
+          "segments": [
+            {
+              "text": "cabe destacar",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kˈaβe ðˌestakˈaɾ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-07.wav",
+      "text": "en conclusión",
+      "sentences": [
+        {
+          "text": "en conclusión",
+          "segments": [
+            {
+              "text": "en conclusión",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "en kˌonklusjˈon"
+        }
+      ]
+    }
+  ]
+}

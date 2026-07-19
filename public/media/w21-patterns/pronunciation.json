@@ -1,0 +1,535 @@
+{
+  "profile": "santa",
+  "utterances": [
+    {
+      "file": "00.wav",
+      "text": "Week 21: Direct and Indirect Objects. track who receives what avoid unnecessary repetition clarify a transaction",
+      "sentences": [
+        {
+          "text": "Week 21: Direct and Indirect Objects.",
+          "segments": [
+            {
+              "text": "Week 21: Direct and Indirect Objects.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wˈiːk twˈɛnti wˈʌn: dᵻɹˈɛkt ænd ˌɪndɚɹˈɛkt ˈɑːbdʒɛkts."
+        },
+        {
+          "text": "track who receives what avoid unnecessary repetition clarify a transaction",
+          "segments": [
+            {
+              "text": "track who receives what avoid unnecessary repetition clarify a transaction",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tɹˈæk hˌuː ɹᵻsˈiːvz wʌt ɐvˈɔɪd ʌnnˈɛsᵻsɚɹi ɹˌɛpətˈɪʃən klˈæɹᵻfˌaɪ ɐ tɹænsˈækʃən"
+        }
+      ]
+    },
+    {
+      "file": "01.wav",
+      "text": "Form and meaning. Direct- and indirect-object pronouns; placement with conjugated verbs, infinitives, gerunds, and commands.",
+      "sentences": [
+        {
+          "text": "Form and meaning.",
+          "segments": [
+            {
+              "text": "Form and meaning.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "fˈɔːɹm ænd mˈiːnɪŋ."
+        },
+        {
+          "text": "Direct- and indirect-object pronouns; placement with conjugated verbs, infinitives, gerunds, and commands.",
+          "segments": [
+            {
+              "text": "Direct- and indirect-object pronouns; placement with conjugated verbs, infinitives, gerunds, and commands.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "dᵻɹˈɛkt ænd ˌɪndɚɹˈɛktˈɑːbdʒɛkt pɹˈoʊnaʊnz; plˈeɪsmənt wɪð kˈɑːndʒuːɡˌeɪɾᵻd vˈɜːbz, ɪnfˈɪnᵻtˌɪvz, dʒˈɛɹʌndz, ænd kəmˈændz."
+        }
+      ]
+    },
+    {
+      "file": "02.wav",
+      "text": "Model set. Le envié el mensaje esta mañana. El paquete lo recibió otra persona. ¿Puedes mostrármelo? No les expliqué el cambio. Devuélvale los documentos al gerente. I sent him or her the message this morning. Someone else received the package. Can you show it to me? I did not explain the change to them. Return the documents to the manager.",
+      "sentences": [
+        {
+          "text": "Model set.",
+          "segments": [
+            {
+              "text": "Model set.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "mˈɑːdəl sˈɛt."
+        },
+        {
+          "text": "Le envié el mensaje esta mañana.",
+          "segments": [
+            {
+              "text": "Le envié el mensaje esta mañana.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "le embjˈe el mensˈaxe ˈesta maɲˈana."
+        },
+        {
+          "text": "El paquete lo recibió otra persona.",
+          "segments": [
+            {
+              "text": "El paquete lo recibió otra persona.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "el pakˈete lo rˌesiβjˈo ˈotɾa peɾsˈona."
+        },
+        {
+          "text": "¿Puedes mostrármelo?",
+          "segments": [
+            {
+              "text": "¿Puedes mostrármelo?",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "pwˈeðes mostɾˈaɾmelo?"
+        },
+        {
+          "text": "No les expliqué el cambio.",
+          "segments": [
+            {
+              "text": "No les expliqué el cambio.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "nˈo les ˌeksplikˈe el kˈambjo."
+        },
+        {
+          "text": "Devuélvale los documentos al gerente.",
+          "segments": [
+            {
+              "text": "Devuélvale los documentos al gerente.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "deβwˈelβale los ðˌokumˈɛntos al xeɾˈɛnte."
+        },
+        {
+          "text": "I sent him or her the message this morning.",
+          "segments": [
+            {
+              "text": "I sent him or her the message this morning.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "aɪ sˈɛnt hˌɪm ɔːɹ hɜː ðə mˈɛsɪdʒ ðɪs mˈɔːɹnɪŋ."
+        },
+        {
+          "text": "Someone else received the package.",
+          "segments": [
+            {
+              "text": "Someone else received the package.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "sˈʌmwʌn ˈɛls ɹᵻsˈiːvd ðə pˈækɪdʒ."
+        },
+        {
+          "text": "Can you show it to me?",
+          "segments": [
+            {
+              "text": "Can you show it to me?",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "kæn juː ʃˈoʊ ɪt tə mˌiː?"
+        },
+        {
+          "text": "I did not explain the change to them.",
+          "segments": [
+            {
+              "text": "I did not explain the change to them.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "aɪ dɪdnˌɑːt ɛksplˈeɪn ðə tʃˈeɪndʒ tə ðˌɛm."
+        },
+        {
+          "text": "Return the documents to the manager.",
+          "segments": [
+            {
+              "text": "Return the documents to the manager.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɹᵻtˈɜːn ðə dˈɑːkjuːmənts tə ðə mˈænɪdʒɚ."
+        }
+      ]
+    },
+    {
+      "file": "03.wav",
+      "text": "Contrastive practice. Change the person, time, number, or level of formality in each model. Preserve the communicative purpose while the grammar changes.",
+      "sentences": [
+        {
+          "text": "Contrastive practice.",
+          "segments": [
+            {
+              "text": "Contrastive practice.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "kˈɑːntɹɐstˌɪv pɹˈæktɪs."
+        },
+        {
+          "text": "Change the person, time, number, or level of formality in each model.",
+          "segments": [
+            {
+              "text": "Change the person, time, number, or level of formality in each model.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tʃˈeɪndʒ ðə pˈɜːsən, tˈaɪm, nˈʌmbɚ, ɔːɹ lˈɛvəl ʌv fɔːɹmˈælᵻɾi ɪn ˈiːtʃ mˈɑːdəl."
+        },
+        {
+          "text": "Preserve the communicative purpose while the grammar changes.",
+          "segments": [
+            {
+              "text": "Preserve the communicative purpose while the grammar changes.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "pɹɪzˈɜːv ðə kəmjˈuːnɪkətˌɪv pˈɜːpəs wˌaɪl ðə ɡɹˈæmɚ tʃˈeɪndʒᵻz."
+        }
+      ]
+    },
+    {
+      "file": "04.wav",
+      "text": "Production check. Say one original sentence for each function: track who receives what; avoid unnecessary repetition; clarify a transaction. Then write it and compare the spoken and written forms.",
+      "sentences": [
+        {
+          "text": "Production check.",
+          "segments": [
+            {
+              "text": "Production check.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "pɹədˈʌkʃən tʃˈɛk."
+        },
+        {
+          "text": "Say one original sentence for each function: track who receives what; avoid unnecessary repetition; clarify a transaction.",
+          "segments": [
+            {
+              "text": "Say one original sentence for each function: track who receives what; avoid unnecessary repetition; clarify a transaction.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "sˈeɪ wˈʌn ɚɹˈɪdʒɪnəl sˈɛntəns fɔːɹ ˈiːtʃ fˈʌŋkʃən: tɹˈæk hˌuː ɹᵻsˈiːvz wˈʌt; ɐvˈɔɪd ʌnnˈɛsᵻsɚɹi ɹˌɛpətˈɪʃən; klˈæɹᵻfˌaɪ ɐ tɹænsˈækʃən."
+        },
+        {
+          "text": "Then write it and compare the spoken and written forms.",
+          "segments": [
+            {
+              "text": "Then write it and compare the spoken and written forms.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðˈɛn ɹˈaɪt ɪt ænd kəmpˈɛɹ ðə spˈoʊkən ænd ɹˈɪʔn fˈɔːɹmz."
+        }
+      ]
+    },
+    {
+      "file": "05.wav",
+      "text": "Model language. Le envié el mensaje esta mañana. — I sent him or her the message this morning. El paquete lo recibió otra persona. — Someone else received the package. ¿Puedes mostrármelo? — Can you show it to me? No les expliqué el cambio. — I did not explain the change to them. Devuélvale los documentos al gerente. — Return the documents to the manager.",
+      "sentences": [
+        {
+          "text": "Model language.",
+          "segments": [
+            {
+              "text": "Model language.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
+        },
+        {
+          "text": "Le envié el mensaje esta mañana.",
+          "segments": [
+            {
+              "text": "Le envié el mensaje esta mañana.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "le embjˈe el mensˈaxe ˈesta maɲˈana."
+        },
+        {
+          "text": "— I sent him or her the message this morning.",
+          "segments": [
+            {
+              "text": "— I sent him or her the message this morning.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— aɪ sˈɛnt hˌɪm ɔːɹ hɜː ðə mˈɛsɪdʒ ðɪs mˈɔːɹnɪŋ."
+        },
+        {
+          "text": "El paquete lo recibió otra persona.",
+          "segments": [
+            {
+              "text": "El paquete lo recibió otra persona.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "el pakˈete lo rˌesiβjˈo ˈotɾa peɾsˈona."
+        },
+        {
+          "text": "— Someone else received the package.",
+          "segments": [
+            {
+              "text": "— Someone else received the package.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— sˈʌmwʌn ˈɛls ɹᵻsˈiːvd ðə pˈækɪdʒ."
+        },
+        {
+          "text": "¿Puedes mostrármelo?",
+          "segments": [
+            {
+              "text": "¿Puedes mostrármelo?",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "pwˈeðes mostɾˈaɾmelo?"
+        },
+        {
+          "text": "— Can you show it to me?",
+          "segments": [
+            {
+              "text": "— Can you show it to me?",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— kæn juː ʃˈoʊ ɪt tə mˌiː?"
+        },
+        {
+          "text": "No les expliqué el cambio.",
+          "segments": [
+            {
+              "text": "No les expliqué el cambio.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "nˈo les ˌeksplikˈe el kˈambjo."
+        },
+        {
+          "text": "— I did not explain the change to them.",
+          "segments": [
+            {
+              "text": "— I did not explain the change to them.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— aɪ dɪdnˌɑːt ɛksplˈeɪn ðə tʃˈeɪndʒ tə ðˌɛm."
+        },
+        {
+          "text": "Devuélvale los documentos al gerente.",
+          "segments": [
+            {
+              "text": "Devuélvale los documentos al gerente.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "deβwˈelβale los ðˌokumˈɛntos al xeɾˈɛnte."
+        },
+        {
+          "text": "— Return the documents to the manager.",
+          "segments": [
+            {
+              "text": "— Return the documents to the manager.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— ɹᵻtˈɜːn ðə dˈɑːkjuːmənts tə ðə mˈænɪdʒɚ."
+        }
+      ]
+    },
+    {
+      "file": "06.wav",
+      "text": "Check your readiness. Explain the core idea. Produce an original example. Complete the section assessment at 85% or higher.",
+      "sentences": [
+        {
+          "text": "Check your readiness.",
+          "segments": [
+            {
+              "text": "Check your readiness.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tʃˈɛk jʊɹ ɹˈɛdinəs."
+        },
+        {
+          "text": "Explain the core idea.",
+          "segments": [
+            {
+              "text": "Explain the core idea.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɛksplˈeɪn ðə kˈɔːɹ aɪdˈiə."
+        },
+        {
+          "text": "Produce an original example.",
+          "segments": [
+            {
+              "text": "Produce an original example.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "pɹədˈuːs ɐn ɚɹˈɪdʒɪnəl ɛɡzˈæmpəl."
+        },
+        {
+          "text": "Complete the section assessment at 85% or higher.",
+          "segments": [
+            {
+              "text": "Complete the section assessment at 85% or higher.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "kəmplˈiːt ðə sˈɛkʃən ɐsˈɛsmənt æɾ ˈeɪɾi fˈaɪv pɚsˈɛnt ɔːɹ hˈaɪɚ."
+        }
+      ]
+    },
+    {
+      "file": "vocab-00.wav",
+      "text": "entregar",
+      "sentences": [
+        {
+          "text": "entregar",
+          "segments": [
+            {
+              "text": "entregar",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˌentɾeɣˈaɾ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-01.wav",
+      "text": "prestar",
+      "sentences": [
+        {
+          "text": "prestar",
+          "segments": [
+            {
+              "text": "prestar",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "pɾestˈaɾ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-02.wav",
+      "text": "devolver",
+      "sentences": [
+        {
+          "text": "devolver",
+          "segments": [
+            {
+              "text": "devolver",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "dˌeβolβˈeɾ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-03.wav",
+      "text": "enviar",
+      "sentences": [
+        {
+          "text": "enviar",
+          "segments": [
+            {
+              "text": "enviar",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "embjˈaɾ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-04.wav",
+      "text": "mostrar",
+      "sentences": [
+        {
+          "text": "mostrar",
+          "segments": [
+            {
+              "text": "mostrar",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "mostɾˈaɾ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-05.wav",
+      "text": "explicar",
+      "sentences": [
+        {
+          "text": "explicar",
+          "segments": [
+            {
+              "text": "explicar",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˌeksplikˈaɾ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-06.wav",
+      "text": "el paquete",
+      "sentences": [
+        {
+          "text": "el paquete",
+          "segments": [
+            {
+              "text": "el paquete",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "el pakˈete"
+        }
+      ]
+    },
+    {
+      "file": "vocab-07.wav",
+      "text": "el mensaje",
+      "sentences": [
+        {
+          "text": "el mensaje",
+          "segments": [
+            {
+              "text": "el mensaje",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "el mensˈaxe"
+        }
+      ]
+    }
+  ]
+}

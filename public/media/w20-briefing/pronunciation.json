@@ -1,0 +1,445 @@
+{
+  "profile": "dora",
+  "utterances": [
+    {
+      "file": "00.wav",
+      "text": "Week 20: Preterite and Imperfect Together. tell a coherent story explain circumstances identify cause and interruption",
+      "sentences": [
+        {
+          "text": "Week 20: Preterite and Imperfect Together.",
+          "segments": [
+            {
+              "text": "Week 20: Preterite and Imperfect Together.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wˈiːk twˈɛnti: pɹɪtˈɛɹaɪt ænd ɪmpˈɜːfɛkt təɡˈɛðɚ."
+        },
+        {
+          "text": "tell a coherent story explain circumstances identify cause and interruption",
+          "segments": [
+            {
+              "text": "tell a coherent story explain circumstances identify cause and interruption",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tˈɛl ɐ koʊhˈɪɹənt stˈɔːɹi ɛksplˈeɪn sˈɜːkəmstˌænsᵻz aɪdˈɛntᵻfˌaɪ kˈɔːz ænd ˌɪntɚɹˈʌpʃən"
+        }
+      ]
+    },
+    {
+      "file": "01.wav",
+      "text": "Operational objective. By the end of this section you can tell a coherent story, explain circumstances, identify cause and interruption. The focus is useful performance, not isolated terminology.",
+      "sentences": [
+        {
+          "text": "Operational objective.",
+          "segments": [
+            {
+              "text": "Operational objective.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ˌɑːpɚɹˈeɪʃənəl ɑːbdʒˈɛktɪv."
+        },
+        {
+          "text": "By the end of this section you can tell a coherent story, explain circumstances, identify cause and interruption.",
+          "segments": [
+            {
+              "text": "By the end of this section you can tell a coherent story, explain circumstances, identify cause and interruption.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "baɪ ðɪ ˈɛnd ʌv ðɪs sˈɛkʃən juː kæn tˈɛl ɐ koʊhˈɪɹənt stˈɔːɹi, ɛksplˈeɪn sˈɜːkəmstˌænsᵻz, aɪdˈɛntᵻfˌaɪ kˈɔːz ænd ˌɪntɚɹˈʌpʃən."
+        },
+        {
+          "text": "The focus is useful performance, not isolated terminology.",
+          "segments": [
+            {
+              "text": "The focus is useful performance, not isolated terminology.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðə fˈoʊkəs ɪz jˈuːsfəl pɚfˈɔːɹməns, nˌɑːt ˈaɪsəlˌeɪɾᵻd tˌɜːmɪnˈɑːlədʒi."
+        }
+      ]
+    },
+    {
+      "file": "02.wav",
+      "text": "Language system. Foreground versus background; interruption; bounded versus ongoing events; narrative viewpoint.",
+      "sentences": [
+        {
+          "text": "Language system.",
+          "segments": [
+            {
+              "text": "Language system.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "lˈæŋɡwɪdʒ sˈɪstəm."
+        },
+        {
+          "text": "Foreground versus background; interruption; bounded versus ongoing events; narrative viewpoint.",
+          "segments": [
+            {
+              "text": "Foreground versus background; interruption; bounded versus ongoing events; narrative viewpoint.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "fˈɔːɹɡɹaʊnd vˈɜːsᵻz bˈækɡɹaʊnd; ˌɪntɚɹˈʌpʃən; bˈaʊndᵻd vˈɜːsᵻz ˈɑːŋɡoʊɪŋ ᵻvˈɛnts; nˈæɹətˌɪv vjˈuːpɔɪnt."
+        }
+      ]
+    },
+    {
+      "file": "03.wav",
+      "text": "Sound and delivery. Use pausing and prominence to separate background from main events.",
+      "sentences": [
+        {
+          "text": "Sound and delivery.",
+          "segments": [
+            {
+              "text": "Sound and delivery.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "sˈaʊnd ænd dᵻlˈɪvɚɹi."
+        },
+        {
+          "text": "Use pausing and prominence to separate background from main events.",
+          "segments": [
+            {
+              "text": "Use pausing and prominence to separate background from main events.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "jˈuːs pˈɔːzɪŋ ænd pɹˈɑːmɪnəns tə sˈɛpɚɹˌeɪt bˈækɡɹaʊnd fɹʌm mˈeɪn ᵻvˈɛnts."
+        }
+      ]
+    },
+    {
+      "file": "04.wav",
+      "text": "Core principle. Notice meaning first, then form. Retrieve the new language aloud, compare it with the model, and repair one feature at a time.",
+      "sentences": [
+        {
+          "text": "Core principle.",
+          "segments": [
+            {
+              "text": "Core principle.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "kˈɔːɹ pɹˈɪnsɪpəl."
+        },
+        {
+          "text": "Notice meaning first, then form.",
+          "segments": [
+            {
+              "text": "Notice meaning first, then form.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "nˈoʊɾɪs mˈiːnɪŋ fˈɜːst, ðˈɛn fˈɔːɹm."
+        },
+        {
+          "text": "Retrieve the new language aloud, compare it with the model, and repair one feature at a time.",
+          "segments": [
+            {
+              "text": "Retrieve the new language aloud, compare it with the model, and repair one feature at a time.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɹᵻtɹˈiːv ðə nˈuː lˈæŋɡwɪdʒ ɐlˈaʊd, kəmpˈɛɹ ɪt wɪððə mˈɑːdəl, ænd ɹᵻpˈɛɹ wˈʌn fˈiːtʃɚɹ æɾə tˈaɪm."
+        }
+      ]
+    },
+    {
+      "file": "05.wav",
+      "text": "Model language. Caminaba a casa cuando empezó la tormenta. — I was walking home when the storm began. Mientras todos dormían, sonó la alarma. — While everyone was sleeping, the alarm went off. Ya había poca luz cuando llegamos. — There was already little light when we arrived. De repente, un vecino abrió la puerta. — Suddenly, a neighbor opened the door. Al final resolvimos el problema juntos. — In the end, we solved the problem together.",
+      "sentences": [
+        {
+          "text": "Model language.",
+          "segments": [
+            {
+              "text": "Model language.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
+        },
+        {
+          "text": "Caminaba a casa cuando empezó la tormenta.",
+          "segments": [
+            {
+              "text": "Caminaba a casa cuando empezó la tormenta.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kˌaminˈaβa a kˈasa kwˌando ˌempesˈo la toɾmˈɛnta."
+        },
+        {
+          "text": "— I was walking home when the storm began.",
+          "segments": [
+            {
+              "text": "— I was walking home when the storm began.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— aɪ wʌz wˈɔːkɪŋ hˈoʊm wɛn ðə stˈɔːɹm bɪɡˈæn."
+        },
+        {
+          "text": "Mientras todos dormían, sonó la alarma.",
+          "segments": [
+            {
+              "text": "Mientras todos dormían, sonó la alarma.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "mjˌentɾas tˈoðos ðoɾmˈian, sonˈo la alˈaɾma."
+        },
+        {
+          "text": "— While everyone was sleeping, the alarm went off.",
+          "segments": [
+            {
+              "text": "— While everyone was sleeping, the alarm went off.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— wˌaɪl ˈɛvɹɪwˌʌn wʌz slˈiːpɪŋ, ðɪ ɐlˈɑːɹm wɛnt ˈɔf."
+        },
+        {
+          "text": "Ya había poca luz cuando llegamos.",
+          "segments": [
+            {
+              "text": "Ya había poca luz cuando llegamos.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ʝˈa aβˈia pˈoka lˈus kwˌando ʝeɣˈamos."
+        },
+        {
+          "text": "— There was already little light when we arrived.",
+          "segments": [
+            {
+              "text": "— There was already little light when we arrived.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— ðɛɹwˌʌz ɔːlɹˌɛdi lˈɪɾəl lˈaɪt wɛn wiː ɚɹˈaɪvd."
+        },
+        {
+          "text": "De repente, un vecino abrió la puerta.",
+          "segments": [
+            {
+              "text": "De repente, un vecino abrió la puerta.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "de repˈɛnte, ˈum besˈino ˌaβɾiˈo la pwˈeɾta."
+        },
+        {
+          "text": "— Suddenly, a neighbor opened the door.",
+          "segments": [
+            {
+              "text": "— Suddenly, a neighbor opened the door.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— sˈʌdənli, ɐ nˈeɪbɚɹ ˈoʊpənd ðə dˈɔːɹ."
+        },
+        {
+          "text": "Al final resolvimos el problema juntos.",
+          "segments": [
+            {
+              "text": "Al final resolvimos el problema juntos.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "al finˈal rˌesolβˈimos el pɾoβlˈema xˈuntos."
+        },
+        {
+          "text": "— In the end, we solved the problem together.",
+          "segments": [
+            {
+              "text": "— In the end, we solved the problem together.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— ɪnðɪ ˈɛnd, wiː sˈɑːlvd ðə pɹˈɑːbləm təɡˈɛðɚ."
+        }
+      ]
+    },
+    {
+      "file": "06.wav",
+      "text": "Check your readiness. Explain the core idea. Produce an original example. Complete the section assessment at 85% or higher.",
+      "sentences": [
+        {
+          "text": "Check your readiness.",
+          "segments": [
+            {
+              "text": "Check your readiness.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tʃˈɛk jʊɹ ɹˈɛdinəs."
+        },
+        {
+          "text": "Explain the core idea.",
+          "segments": [
+            {
+              "text": "Explain the core idea.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɛksplˈeɪn ðə kˈɔːɹ aɪdˈiə."
+        },
+        {
+          "text": "Produce an original example.",
+          "segments": [
+            {
+              "text": "Produce an original example.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "pɹədˈuːs ɐn ɚɹˈɪdʒɪnəl ɛɡzˈæmpəl."
+        },
+        {
+          "text": "Complete the section assessment at 85% or higher.",
+          "segments": [
+            {
+              "text": "Complete the section assessment at 85% or higher.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "kəmplˈiːt ðə sˈɛkʃən ɐsˈɛsmənt æɾ ˈeɪɾi fˈaɪv pɚsˈɛnt ɔːɹ hˈaɪɚ."
+        }
+      ]
+    },
+    {
+      "file": "vocab-00.wav",
+      "text": "de repente",
+      "sentences": [
+        {
+          "text": "de repente",
+          "segments": [
+            {
+              "text": "de repente",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "de repˈɛnte"
+        }
+      ]
+    },
+    {
+      "file": "vocab-01.wav",
+      "text": "en ese momento",
+      "sentences": [
+        {
+          "text": "en ese momento",
+          "segments": [
+            {
+              "text": "en ese momento",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "en ˈese momˈɛnto"
+        }
+      ]
+    },
+    {
+      "file": "vocab-02.wav",
+      "text": "cuando",
+      "sentences": [
+        {
+          "text": "cuando",
+          "segments": [
+            {
+              "text": "cuando",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kwˈando"
+        }
+      ]
+    },
+    {
+      "file": "vocab-03.wav",
+      "text": "mientras",
+      "sentences": [
+        {
+          "text": "mientras",
+          "segments": [
+            {
+              "text": "mientras",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "mjˈɛntɾas"
+        }
+      ]
+    },
+    {
+      "file": "vocab-04.wav",
+      "text": "todavía",
+      "sentences": [
+        {
+          "text": "todavía",
+          "segments": [
+            {
+              "text": "todavía",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "tˌoðaβˈia"
+        }
+      ]
+    },
+    {
+      "file": "vocab-05.wav",
+      "text": "ya",
+      "sentences": [
+        {
+          "text": "ya",
+          "segments": [
+            {
+              "text": "ya",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ʝˈa"
+        }
+      ]
+    },
+    {
+      "file": "vocab-06.wav",
+      "text": "resultar",
+      "sentences": [
+        {
+          "text": "resultar",
+          "segments": [
+            {
+              "text": "resultar",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "rˌesultˈaɾ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-07.wav",
+      "text": "resolver",
+      "sentences": [
+        {
+          "text": "resolver",
+          "segments": [
+            {
+              "text": "resolver",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "rˌesolβˈeɾ"
+        }
+      ]
+    }
+  ]
+}

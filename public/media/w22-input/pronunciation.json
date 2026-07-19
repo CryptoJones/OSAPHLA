@@ -1,0 +1,463 @@
+{
+  "profile": "dora",
+  "utterances": [
+    {
+      "file": "00.wav",
+      "text": "Week 22: Double Pronouns, Se, and Reference. report accidental events give concise instructions maintain reference across sentences",
+      "sentences": [
+        {
+          "text": "Week 22: Double Pronouns, Se, and Reference.",
+          "segments": [
+            {
+              "text": "Week 22: Double Pronouns, ",
+              "lang": "en-us"
+            },
+            {
+              "text": "Se",
+              "lang": "es-419"
+            },
+            {
+              "text": ", and Reference.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wˈiːk twˈɛnti tˈuː: dˈʌbəl pɹˈoʊnaʊnz, sˈe , ænd ɹˈɛfɹəns."
+        },
+        {
+          "text": "report accidental events give concise instructions maintain reference across sentences",
+          "segments": [
+            {
+              "text": "report accidental events give concise instructions maintain reference across sentences",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɹᵻpˈɔːɹt ˌæksɪdˈɛntəl ᵻvˈɛnts ɡˈɪv kənsˈaɪs ɪnstɹˈʌkʃənz meɪntˈeɪn ɹˈɛfɹəns əkɹˌɑːs sˈɛntənsᵻz"
+        }
+      ]
+    },
+    {
+      "file": "01.wav",
+      "text": "Read for the situation. A Julia se le borró un archivo importante. Se lo comunicó al equipo, recuperaron una copia y documentaron la solución para que no volviera a ocurrir. Julia accidentally deleted an important file. She reported it to the team, they recovered a copy, and they documented the solution so that it would not happen again.",
+      "sentences": [
+        {
+          "text": "Read for the situation.",
+          "segments": [
+            {
+              "text": "Read for the situation.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɹˈiːd fɚðə sˌɪtʃuːˈeɪʃən."
+        },
+        {
+          "text": "A Julia se le borró un archivo importante.",
+          "segments": [
+            {
+              "text": "A Julia se le borró un archivo importante.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "a xˈulja se le βorˈo ˈun aɾtʃˈiβo ˌimpoɾtˈante."
+        },
+        {
+          "text": "Se lo comunicó al equipo, recuperaron una copia y documentaron la solución para que no volviera a ocurrir.",
+          "segments": [
+            {
+              "text": "Se lo comunicó al equipo, recuperaron una copia y documentaron la solución para que no volviera a ocurrir.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "se lo kˌomunikˈo al ekˈipo, rˌekupeɾˈaɾon ˈuna kˈopja i ðˌokumentˈaɾon la sˌolusjˈom pˌaɾa ke nˈo βolβjˈeɾa a ˌokurˈiɾ."
+        },
+        {
+          "text": "Julia accidentally deleted an important file.",
+          "segments": [
+            {
+              "text": "Julia accidentally deleted an important file.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "dʒˈuːliə ˌæksɪdˈɛntəli dᵻlˈiːɾᵻd ɐn ɪmpˈɔːɹtənt fˈaɪl."
+        },
+        {
+          "text": "She reported it to the team, they recovered a copy, and they documented the solution so that it would not happen again.",
+          "segments": [
+            {
+              "text": "She reported it to the team, they recovered a copy, and they documented the solution so that it would not happen again.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ʃiː ɹᵻpˈɔːɹɾᵻd ɪt tə ðə tˈiːm, ðeɪ ɹᵻkˈʌvɚd ɐ kˈɑːpi, ænd ðeɪ dˈɑːkjuːməntᵻd ðə səlˈuːʃən sˌoʊ ðˌɐɾɪt wʊd nˌɑːt hˈæpən ɐɡˈɛn."
+        }
+      ]
+    },
+    {
+      "file": "02.wav",
+      "text": "Read again for evidence. Identify who acts, what changes, when it happens, and which words establish the relationship between events.",
+      "sentences": [
+        {
+          "text": "Read again for evidence.",
+          "segments": [
+            {
+              "text": "Read again for evidence.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɹˈiːd ɐɡˈɛn fɔːɹ ˈɛvɪdəns."
+        },
+        {
+          "text": "Identify who acts, what changes, when it happens, and which words establish the relationship between events.",
+          "segments": [
+            {
+              "text": "Identify who acts, what changes, when it happens, and which words establish the relationship between events.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "aɪdˈɛntᵻfˌaɪ hˌuː ˈækts, wˌʌt tʃˈeɪndʒᵻz, wˌɛn ɪt hˈæpənz, ænd wˌɪtʃ wˈɜːdz ɪstˈæblɪʃ ðə ɹᵻlˈeɪʃənʃˌɪp bᵻtwˌiːn ᵻvˈɛnts."
+        }
+      ]
+    },
+    {
+      "file": "03.wav",
+      "text": "Reading activities. Reading activity 52; Reading activity 53",
+      "sentences": [
+        {
+          "text": "Reading activities.",
+          "segments": [
+            {
+              "text": "Reading activities.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɹˈiːdɪŋ æktˈɪvᵻɾiz."
+        },
+        {
+          "text": "Reading activity 52; Reading activity 53",
+          "segments": [
+            {
+              "text": "Reading activity 52; Reading activity 53",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɹˈiːdɪŋ æktˈɪvᵻɾi fˈɪfti tˈuː; ɹˈiːdɪŋ æktˈɪvᵻɾi fˈɪfti θɹˈiː"
+        }
+      ]
+    },
+    {
+      "file": "04.wav",
+      "text": "Retell. Without looking back, give the main idea, three supporting details, and one reasonable inference in Spanish.",
+      "sentences": [
+        {
+          "text": "Retell.",
+          "segments": [
+            {
+              "text": "Retell.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɹᵻtˈɛl."
+        },
+        {
+          "text": "Without looking back, give the main idea, three supporting details, and one reasonable inference in Spanish.",
+          "segments": [
+            {
+              "text": "Without looking back, give the main idea, three supporting details, and one reasonable inference in Spanish.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wɪðˌaʊt lˈʊkɪŋ bˈæk, ɡˈɪv ðə mˈeɪn aɪdˈiə, θɹˈiː səpˈɔːɹɾɪŋ diːtˈeɪlz, ænd wˈʌn ɹˈiːzənəbəl ˈɪnfɚɹəns ɪn spˈænɪʃ."
+        }
+      ]
+    },
+    {
+      "file": "05.wav",
+      "text": "Model language. Se me perdieron las llaves. — I lost my keys. El informe se lo mandé a Clara. — I sent the report to Clara. A ellos se les olvidó la cita. — They forgot the appointment. Explícaselo antes de la reunión. — Explain it to him or her before the meeting. No se nos cayó el equipo; falló el soporte. — We did not drop the equipment; the support failed.",
+      "sentences": [
+        {
+          "text": "Model language.",
+          "segments": [
+            {
+              "text": "Model language.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
+        },
+        {
+          "text": "Se me perdieron las llaves.",
+          "segments": [
+            {
+              "text": "Se me perdieron las llaves.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "se me peɾðjˈeɾon las ʝˈaβes."
+        },
+        {
+          "text": "— I lost my keys.",
+          "segments": [
+            {
+              "text": "— I lost my keys.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— aɪ lˈɔst maɪ kˈiːz."
+        },
+        {
+          "text": "El informe se lo mandé a Clara.",
+          "segments": [
+            {
+              "text": "El informe se lo mandé a Clara.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "el infˈoɾme se lo mandˈe a klˈaɾa."
+        },
+        {
+          "text": "— I sent the report to Clara.",
+          "segments": [
+            {
+              "text": "— I sent the report to Clara.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— aɪ sˈɛnt ðə ɹᵻpˈɔːɹt tə klˈɑːɹɹə."
+        },
+        {
+          "text": "A ellos se les olvidó la cita.",
+          "segments": [
+            {
+              "text": "A ellos se les olvidó la cita.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "a ˈejjos se les ˌolβiðˈo la sˈita."
+        },
+        {
+          "text": "— They forgot the appointment.",
+          "segments": [
+            {
+              "text": "— They forgot the appointment.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— ðeɪ fɚɡˈɑːt ðɪ ɐpˈɔɪntmənt."
+        },
+        {
+          "text": "Explícaselo antes de la reunión.",
+          "segments": [
+            {
+              "text": "Explícaselo antes de la reunión.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "eksplˈikasˌelo ˈantes ðe la reʊnjˈon."
+        },
+        {
+          "text": "— Explain it to him or her before the meeting.",
+          "segments": [
+            {
+              "text": "— Explain it to him or her before the meeting.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— ɛksplˈeɪn ɪt tə hˌɪm ɔːɹ hɜː bᵻfˌɔːɹ ðə mˈiːɾɪŋ."
+        },
+        {
+          "text": "No se nos cayó el equipo; falló el soporte.",
+          "segments": [
+            {
+              "text": "No se nos cayó el equipo; falló el soporte.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "nˈo se nos kaʝˈo el ekˈipo; fajjˈo el sopˈoɾte."
+        },
+        {
+          "text": "— We did not drop the equipment; the support failed.",
+          "segments": [
+            {
+              "text": "— We did not drop the equipment; the support failed.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— wiː dɪdnˌɑːt dɹˈɑːp ðɪ ɪkwˈɪpmənt; ðə səpˈɔːɹt fˈeɪld."
+        }
+      ]
+    },
+    {
+      "file": "06.wav",
+      "text": "Check your readiness. Explain the core idea. Produce an original example. Complete the section assessment at 85% or higher.",
+      "sentences": [
+        {
+          "text": "Check your readiness.",
+          "segments": [
+            {
+              "text": "Check your readiness.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tʃˈɛk jʊɹ ɹˈɛdinəs."
+        },
+        {
+          "text": "Explain the core idea.",
+          "segments": [
+            {
+              "text": "Explain the core idea.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɛksplˈeɪn ðə kˈɔːɹ aɪdˈiə."
+        },
+        {
+          "text": "Produce an original example.",
+          "segments": [
+            {
+              "text": "Produce an original example.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "pɹədˈuːs ɐn ɚɹˈɪdʒɪnəl ɛɡzˈæmpəl."
+        },
+        {
+          "text": "Complete the section assessment at 85% or higher.",
+          "segments": [
+            {
+              "text": "Complete the section assessment at 85% or higher.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "kəmplˈiːt ðə sˈɛkʃən ɐsˈɛsmənt æɾ ˈeɪɾi fˈaɪv pɚsˈɛnt ɔːɹ hˈaɪɚ."
+        }
+      ]
+    },
+    {
+      "file": "vocab-00.wav",
+      "text": "romperse",
+      "sentences": [
+        {
+          "text": "romperse",
+          "segments": [
+            {
+              "text": "romperse",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "rompˈeɾse"
+        }
+      ]
+    },
+    {
+      "file": "vocab-01.wav",
+      "text": "perderse",
+      "sentences": [
+        {
+          "text": "perderse",
+          "segments": [
+            {
+              "text": "perderse",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "peɾðˈeɾse"
+        }
+      ]
+    },
+    {
+      "file": "vocab-02.wav",
+      "text": "olvidarse",
+      "sentences": [
+        {
+          "text": "olvidarse",
+          "segments": [
+            {
+              "text": "olvidarse",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˌolβiðˈaɾse"
+        }
+      ]
+    },
+    {
+      "file": "vocab-03.wav",
+      "text": "caerse",
+      "sentences": [
+        {
+          "text": "caerse",
+          "segments": [
+            {
+              "text": "caerse",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kaˈeɾse"
+        }
+      ]
+    },
+    {
+      "file": "vocab-04.wav",
+      "text": "la llave",
+      "sentences": [
+        {
+          "text": "la llave",
+          "segments": [
+            {
+              "text": "la llave",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "la ʝˈaβe"
+        }
+      ]
+    },
+    {
+      "file": "vocab-05.wav",
+      "text": "el archivo",
+      "sentences": [
+        {
+          "text": "el archivo",
+          "segments": [
+            {
+              "text": "el archivo",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "el aɾtʃˈiβo"
+        }
+      ]
+    },
+    {
+      "file": "vocab-06.wav",
+      "text": "la culpa",
+      "sentences": [
+        {
+          "text": "la culpa",
+          "segments": [
+            {
+              "text": "la culpa",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "la kˈulpa"
+        }
+      ]
+    },
+    {
+      "file": "vocab-07.wav",
+      "text": "la solución",
+      "sentences": [
+        {
+          "text": "la solución",
+          "segments": [
+            {
+              "text": "la solución",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "la sˌolusjˈon"
+        }
+      ]
+    }
+  ]
+}

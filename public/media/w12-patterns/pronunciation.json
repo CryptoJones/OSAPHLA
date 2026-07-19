@@ -1,0 +1,535 @@
+{
+  "profile": "dora",
+  "utterances": [
+    {
+      "file": "00.wav",
+      "text": "Week 12: Shopping, Clothing, and Demonstratives. ask for an item and size compare price and fit return or exchange a purchase",
+      "sentences": [
+        {
+          "text": "Week 12: Shopping, Clothing, and Demonstratives.",
+          "segments": [
+            {
+              "text": "Week 12: Shopping, Clothing, and Demonstratives.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wˈiːk twˈɛlv: ʃˈɑːpɪŋ, klˈoʊðɪŋ, ænd dəmˈɑːnstɹətˌɪvz."
+        },
+        {
+          "text": "ask for an item and size compare price and fit return or exchange a purchase",
+          "segments": [
+            {
+              "text": "ask for an item and size compare price and fit return or exchange a purchase",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ˈæsk fɚɹən ˈaɪɾəm ænd sˈaɪz kəmpˈɛɹ pɹˈaɪs ænd fˈɪt ɹᵻtˈɜːn ɔːɹ ɛkstʃˈeɪndʒ ɐ pˈɜːtʃɪs"
+        }
+      ]
+    },
+    {
+      "file": "01.wav",
+      "text": "Form and meaning. Demonstratives; colors; numbers above one hundred; adjective placement; quedar and costar.",
+      "sentences": [
+        {
+          "text": "Form and meaning.",
+          "segments": [
+            {
+              "text": "Form and meaning.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "fˈɔːɹm ænd mˈiːnɪŋ."
+        },
+        {
+          "text": "Demonstratives; colors; numbers above one hundred; adjective placement; quedar and costar.",
+          "segments": [
+            {
+              "text": "Demonstratives; colors; numbers above one hundred; adjective placement; quedar and costar.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "dəmˈɑːnstɹətˌɪvz; kˈʌlɚz; nˈʌmbɚz əbˌʌv wˈʌn hˈʌndɹɪd; ˈædʒɪktˌɪv plˈeɪsmənt; kwˈɛdɑːɹ ænd kˈoʊstɑːɹ."
+        }
+      ]
+    },
+    {
+      "file": "02.wav",
+      "text": "Model set. ¿Tiene esta camisa en otra talla? Esos zapatos me quedan bien. Aquella chaqueta es demasiado cara. Quiero devolver este artículo. El precio incluye los impuestos. Do you have this shirt in another size? Those shoes fit me well. That jacket over there is too expensive. I want to return this item. The price includes taxes.",
+      "sentences": [
+        {
+          "text": "Model set.",
+          "segments": [
+            {
+              "text": "Model set.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "mˈɑːdəl sˈɛt."
+        },
+        {
+          "text": "¿Tiene esta camisa en otra talla?",
+          "segments": [
+            {
+              "text": "¿Tiene esta camisa en otra talla?",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "tjˈene ˈesta kamˈisa en ˈotɾa tˈajja?"
+        },
+        {
+          "text": "Esos zapatos me quedan bien.",
+          "segments": [
+            {
+              "text": "Esos zapatos me quedan bien.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˈesos sapˈatos me kˈeðam bjˈen."
+        },
+        {
+          "text": "Aquella chaqueta es demasiado cara.",
+          "segments": [
+            {
+              "text": "Aquella chaqueta es demasiado cara.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "akˈejja tʃakˈeta ˈes ðˌemasjˈaðo kˈaɾa."
+        },
+        {
+          "text": "Quiero devolver este artículo.",
+          "segments": [
+            {
+              "text": "Quiero devolver este artículo.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kjˈeɾo ðˌeβolβˈeɾ ˈeste aɾtˈikulo."
+        },
+        {
+          "text": "El precio incluye los impuestos.",
+          "segments": [
+            {
+              "text": "El precio incluye los impuestos.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "el pɾˈesjo inklˈuʝe los impwˈestos."
+        },
+        {
+          "text": "Do you have this shirt in another size?",
+          "segments": [
+            {
+              "text": "Do you have this shirt in another size?",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "dˈuː juː hæv ðɪs ʃˈɜːt ɪn ɐnˈʌðɚ sˈaɪz?"
+        },
+        {
+          "text": "Those shoes fit me well.",
+          "segments": [
+            {
+              "text": "Those shoes fit me well.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "tˈose ʃˈoes fˈit me wˈeʎ."
+        },
+        {
+          "text": "That jacket over there is too expensive.",
+          "segments": [
+            {
+              "text": "That jacket over there is too expensive.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðæt dʒˈækɪt ˌoʊvɚ ðɛɹ ɪz tˈuː ɛkspˈɛnsɪv."
+        },
+        {
+          "text": "I want to return this item.",
+          "segments": [
+            {
+              "text": "I want to return this item.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "aɪ wˈɔnt tə ɹᵻtˈɜːn ðɪs ˈaɪɾəm."
+        },
+        {
+          "text": "The price includes taxes.",
+          "segments": [
+            {
+              "text": "The price includes taxes.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðə pɹˈaɪs ɪŋklˈuːdz tˈæksᵻz."
+        }
+      ]
+    },
+    {
+      "file": "03.wav",
+      "text": "Contrastive practice. Change the person, time, number, or level of formality in each model. Preserve the communicative purpose while the grammar changes.",
+      "sentences": [
+        {
+          "text": "Contrastive practice.",
+          "segments": [
+            {
+              "text": "Contrastive practice.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "kˈɑːntɹɐstˌɪv pɹˈæktɪs."
+        },
+        {
+          "text": "Change the person, time, number, or level of formality in each model.",
+          "segments": [
+            {
+              "text": "Change the person, time, number, or level of formality in each model.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tʃˈeɪndʒ ðə pˈɜːsən, tˈaɪm, nˈʌmbɚ, ɔːɹ lˈɛvəl ʌv fɔːɹmˈælᵻɾi ɪn ˈiːtʃ mˈɑːdəl."
+        },
+        {
+          "text": "Preserve the communicative purpose while the grammar changes.",
+          "segments": [
+            {
+              "text": "Preserve the communicative purpose while the grammar changes.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "pɹɪzˈɜːv ðə kəmjˈuːnɪkətˌɪv pˈɜːpəs wˌaɪl ðə ɡɹˈæmɚ tʃˈeɪndʒᵻz."
+        }
+      ]
+    },
+    {
+      "file": "04.wav",
+      "text": "Production check. Say one original sentence for each function: ask for an item and size; compare price and fit; return or exchange a purchase. Then write it and compare the spoken and written forms.",
+      "sentences": [
+        {
+          "text": "Production check.",
+          "segments": [
+            {
+              "text": "Production check.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "pɹədˈʌkʃən tʃˈɛk."
+        },
+        {
+          "text": "Say one original sentence for each function: ask for an item and size; compare price and fit; return or exchange a purchase.",
+          "segments": [
+            {
+              "text": "Say one original sentence for each function: ask for an item and size; compare price and fit; return or exchange a purchase.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "sˈeɪ wˈʌn ɚɹˈɪdʒɪnəl sˈɛntəns fɔːɹ ˈiːtʃ fˈʌŋkʃən: ˈæsk fɚɹən ˈaɪɾəm ænd sˈaɪz; kəmpˈɛɹ pɹˈaɪs ænd fˈɪt; ɹᵻtˈɜːn ɔːɹ ɛkstʃˈeɪndʒ ɐ pˈɜːtʃɪs."
+        },
+        {
+          "text": "Then write it and compare the spoken and written forms.",
+          "segments": [
+            {
+              "text": "Then write it and compare the spoken and written forms.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðˈɛn ɹˈaɪt ɪt ænd kəmpˈɛɹ ðə spˈoʊkən ænd ɹˈɪʔn fˈɔːɹmz."
+        }
+      ]
+    },
+    {
+      "file": "05.wav",
+      "text": "Model language. ¿Tiene esta camisa en otra talla? — Do you have this shirt in another size? Esos zapatos me quedan bien. — Those shoes fit me well. Aquella chaqueta es demasiado cara. — That jacket over there is too expensive. Quiero devolver este artículo. — I want to return this item. El precio incluye los impuestos. — The price includes taxes.",
+      "sentences": [
+        {
+          "text": "Model language.",
+          "segments": [
+            {
+              "text": "Model language.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
+        },
+        {
+          "text": "¿Tiene esta camisa en otra talla?",
+          "segments": [
+            {
+              "text": "¿Tiene esta camisa en otra talla?",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "tjˈene ˈesta kamˈisa en ˈotɾa tˈajja?"
+        },
+        {
+          "text": "— Do you have this shirt in another size?",
+          "segments": [
+            {
+              "text": "— Do you have this shirt in another size?",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— dˈuː juː hæv ðɪs ʃˈɜːt ɪn ɐnˈʌðɚ sˈaɪz?"
+        },
+        {
+          "text": "Esos zapatos me quedan bien.",
+          "segments": [
+            {
+              "text": "Esos zapatos me quedan bien.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˈesos sapˈatos me kˈeðam bjˈen."
+        },
+        {
+          "text": "— Those shoes fit me well.",
+          "segments": [
+            {
+              "text": "— Those shoes fit me well.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— tˈose ʃˈoes fˈit me wˈeʎ."
+        },
+        {
+          "text": "Aquella chaqueta es demasiado cara.",
+          "segments": [
+            {
+              "text": "Aquella chaqueta es demasiado cara.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "akˈejja tʃakˈeta ˈes ðˌemasjˈaðo kˈaɾa."
+        },
+        {
+          "text": "— That jacket over there is too expensive.",
+          "segments": [
+            {
+              "text": "— That jacket over there is too expensive.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— ðæt dʒˈækɪt ˌoʊvɚ ðɛɹ ɪz tˈuː ɛkspˈɛnsɪv."
+        },
+        {
+          "text": "Quiero devolver este artículo.",
+          "segments": [
+            {
+              "text": "Quiero devolver este artículo.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kjˈeɾo ðˌeβolβˈeɾ ˈeste aɾtˈikulo."
+        },
+        {
+          "text": "— I want to return this item.",
+          "segments": [
+            {
+              "text": "— I want to return this item.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— aɪ wˈɔnt tə ɹᵻtˈɜːn ðɪs ˈaɪɾəm."
+        },
+        {
+          "text": "El precio incluye los impuestos.",
+          "segments": [
+            {
+              "text": "El precio incluye los impuestos.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "el pɾˈesjo inklˈuʝe los impwˈestos."
+        },
+        {
+          "text": "— The price includes taxes.",
+          "segments": [
+            {
+              "text": "— The price includes taxes.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— ðə pɹˈaɪs ɪŋklˈuːdz tˈæksᵻz."
+        }
+      ]
+    },
+    {
+      "file": "06.wav",
+      "text": "Check your readiness. Explain the core idea. Produce an original example. Complete the section assessment at 85% or higher.",
+      "sentences": [
+        {
+          "text": "Check your readiness.",
+          "segments": [
+            {
+              "text": "Check your readiness.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tʃˈɛk jʊɹ ɹˈɛdinəs."
+        },
+        {
+          "text": "Explain the core idea.",
+          "segments": [
+            {
+              "text": "Explain the core idea.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɛksplˈeɪn ðə kˈɔːɹ aɪdˈiə."
+        },
+        {
+          "text": "Produce an original example.",
+          "segments": [
+            {
+              "text": "Produce an original example.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "pɹədˈuːs ɐn ɚɹˈɪdʒɪnəl ɛɡzˈæmpəl."
+        },
+        {
+          "text": "Complete the section assessment at 85% or higher.",
+          "segments": [
+            {
+              "text": "Complete the section assessment at 85% or higher.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "kəmplˈiːt ðə sˈɛkʃən ɐsˈɛsmənt æɾ ˈeɪɾi fˈaɪv pɚsˈɛnt ɔːɹ hˈaɪɚ."
+        }
+      ]
+    },
+    {
+      "file": "vocab-00.wav",
+      "text": "la tienda",
+      "sentences": [
+        {
+          "text": "la tienda",
+          "segments": [
+            {
+              "text": "la tienda",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "la tjˈɛnda"
+        }
+      ]
+    },
+    {
+      "file": "vocab-01.wav",
+      "text": "la talla",
+      "sentences": [
+        {
+          "text": "la talla",
+          "segments": [
+            {
+              "text": "la talla",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "la tˈajja"
+        }
+      ]
+    },
+    {
+      "file": "vocab-02.wav",
+      "text": "el precio",
+      "sentences": [
+        {
+          "text": "el precio",
+          "segments": [
+            {
+              "text": "el precio",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "el pɾˈesjo"
+        }
+      ]
+    },
+    {
+      "file": "vocab-03.wav",
+      "text": "barato",
+      "sentences": [
+        {
+          "text": "barato",
+          "segments": [
+            {
+              "text": "barato",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "baɾˈato"
+        }
+      ]
+    },
+    {
+      "file": "vocab-04.wav",
+      "text": "caro",
+      "sentences": [
+        {
+          "text": "caro",
+          "segments": [
+            {
+              "text": "caro",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kˈaɾo"
+        }
+      ]
+    },
+    {
+      "file": "vocab-05.wav",
+      "text": "este",
+      "sentences": [
+        {
+          "text": "este",
+          "segments": [
+            {
+              "text": "este",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˈeste"
+        }
+      ]
+    },
+    {
+      "file": "vocab-06.wav",
+      "text": "ese",
+      "sentences": [
+        {
+          "text": "ese",
+          "segments": [
+            {
+              "text": "ese",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˈese"
+        }
+      ]
+    },
+    {
+      "file": "vocab-07.wav",
+      "text": "devolver",
+      "sentences": [
+        {
+          "text": "devolver",
+          "segments": [
+            {
+              "text": "devolver",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "dˌeβolβˈeɾ"
+        }
+      ]
+    }
+  ]
+}

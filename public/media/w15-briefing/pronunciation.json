@@ -1,0 +1,453 @@
+{
+  "profile": "e",
+  "utterances": [
+    {
+      "file": "00.wav",
+      "text": "Week 15: Health, Body, and Emergencies. describe symptoms understand basic medical questions request urgent help",
+      "sentences": [
+        {
+          "text": "Week 15: Health, Body, and Emergencies.",
+          "segments": [
+            {
+              "text": "Week 15: Health, Body, and Emergencies.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wˈiːk fˈɪftiːn: hˈɛlθ, bˈɑːdi, ænd ɪmˈɜːdʒənsiz."
+        },
+        {
+          "text": "describe symptoms understand basic medical questions request urgent help",
+          "segments": [
+            {
+              "text": "describe symptoms understand basic medical questions request urgent help",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "dᵻskɹˈaɪb sˈɪmptəmz ˌʌndɚstˈænd bˈeɪsɪk mˈɛdɪkəl kwˈɛstʃənz ɹᵻkwˈɛst ˈɜːdʒənt hˈɛlp"
+        }
+      ]
+    },
+    {
+      "file": "01.wav",
+      "text": "Operational objective. By the end of this section you can describe symptoms, understand basic medical questions, request urgent help. The focus is useful performance, not isolated terminology.",
+      "sentences": [
+        {
+          "text": "Operational objective.",
+          "segments": [
+            {
+              "text": "Operational objective.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ˌɑːpɚɹˈeɪʃənəl ɑːbdʒˈɛktɪv."
+        },
+        {
+          "text": "By the end of this section you can describe symptoms, understand basic medical questions, request urgent help.",
+          "segments": [
+            {
+              "text": "By the end of this section you can describe symptoms, understand basic medical questions, request urgent help.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "baɪ ðɪ ˈɛnd ʌv ðɪs sˈɛkʃən juː kæn dᵻskɹˈaɪb sˈɪmptəmz, ˌʌndɚstˈænd bˈeɪsɪk mˈɛdɪkəl kwˈɛstʃənz, ɹᵻkwˈɛst ˈɜːdʒənt hˈɛlp."
+        },
+        {
+          "text": "The focus is useful performance, not isolated terminology.",
+          "segments": [
+            {
+              "text": "The focus is useful performance, not isolated terminology.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðə fˈoʊkəs ɪz jˈuːsfəl pɚfˈɔːɹməns, nˌɑːt ˈaɪsəlˌeɪɾᵻd tˌɜːmɪnˈɑːlədʒi."
+        }
+      ]
+    },
+    {
+      "file": "02.wav",
+      "text": "Language system. Doler and sentirse; body parts with definite articles; hace + time; emergency commands.",
+      "sentences": [
+        {
+          "text": "Language system.",
+          "segments": [
+            {
+              "text": "Language system.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "lˈæŋɡwɪdʒ sˈɪstəm."
+        },
+        {
+          "text": "Doler and sentirse; body parts with definite articles; hace + time; emergency commands.",
+          "segments": [
+            {
+              "text": "Doler and sentirse; body parts with definite articles; hace + time; emergency commands.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "dˈoʊlɚɹ ænd sˈɛntɜːs; bˈɑːdi pˈɑːɹts wɪð dˈɛfɪnət ˈɑːɹɾɪkəlz; hˈeɪs plˈʌs tˈaɪm; ɪmˈɜːdʒənsi kəmˈændz."
+        }
+      ]
+    },
+    {
+      "file": "03.wav",
+      "text": "Sound and delivery. Clear stress in medicine names, body terms, and emergency numbers.",
+      "sentences": [
+        {
+          "text": "Sound and delivery.",
+          "segments": [
+            {
+              "text": "Sound and delivery.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "sˈaʊnd ænd dᵻlˈɪvɚɹi."
+        },
+        {
+          "text": "Clear stress in medicine names, body terms, and emergency numbers.",
+          "segments": [
+            {
+              "text": "Clear stress in medicine names, body terms, and emergency numbers.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "klˈɪɹ stɹˈɛs ɪn mˈɛdəsən nˈeɪmz, bˈɑːdi tˈɜːmz, ænd ɪmˈɜːdʒənsi nˈʌmbɚz."
+        }
+      ]
+    },
+    {
+      "file": "04.wav",
+      "text": "Core principle. Notice meaning first, then form. Retrieve the new language aloud, compare it with the model, and repair one feature at a time.",
+      "sentences": [
+        {
+          "text": "Core principle.",
+          "segments": [
+            {
+              "text": "Core principle.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "kˈɔːɹ pɹˈɪnsɪpəl."
+        },
+        {
+          "text": "Notice meaning first, then form.",
+          "segments": [
+            {
+              "text": "Notice meaning first, then form.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "nˈoʊɾɪs mˈiːnɪŋ fˈɜːst, ðˈɛn fˈɔːɹm."
+        },
+        {
+          "text": "Retrieve the new language aloud, compare it with the model, and repair one feature at a time.",
+          "segments": [
+            {
+              "text": "Retrieve the new language aloud, compare it with the model, and repair one feature at a time.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɹᵻtɹˈiːv ðə nˈuː lˈæŋɡwɪdʒ ɐlˈaʊd, kəmpˈɛɹ ɪt wɪððə mˈɑːdəl, ænd ɹᵻpˈɛɹ wˈʌn fˈiːtʃɚɹ æɾə tˈaɪm."
+        }
+      ]
+    },
+    {
+      "file": "05.wav",
+      "text": "Model language. Me duele mucho la cabeza. — My head hurts a lot. Tengo fiebre desde ayer. — I have had a fever since yesterday. ¿Es alérgico a algún medicamento? — Are you allergic to any medication? Llame a una ambulancia. — Call an ambulance. Se cayó y se lastimó el brazo. — He or she fell and hurt an arm.",
+      "sentences": [
+        {
+          "text": "Model language.",
+          "segments": [
+            {
+              "text": "Model language.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
+        },
+        {
+          "text": "Me duele mucho la cabeza.",
+          "segments": [
+            {
+              "text": "Me duele mucho la cabeza.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "me dwˈele mˈutʃo la kaβˈesa."
+        },
+        {
+          "text": "— My head hurts a lot.",
+          "segments": [
+            {
+              "text": "— My head hurts a lot.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— maɪ hˈɛd hˈɜːts ɐ lˈɑːt."
+        },
+        {
+          "text": "Tengo fiebre desde ayer.",
+          "segments": [
+            {
+              "text": "Tengo fiebre desde ",
+              "lang": "en-us"
+            },
+            {
+              "text": "ayer",
+              "lang": "es-419"
+            },
+            {
+              "text": ".",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tˈɛŋɡoʊ fˈiːbɚ dᵻsdˈɛ aʝˈeɾ ."
+        },
+        {
+          "text": "— I have had a fever since yesterday.",
+          "segments": [
+            {
+              "text": "— I have had a fever since yesterday.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— aɪ hæv hæd ɐ fˈiːvɚ sˈɪns jˈɛstɚdˌeɪ."
+        },
+        {
+          "text": "¿Es alérgico a algún medicamento?",
+          "segments": [
+            {
+              "text": "¿Es alérgico a algún medicamento?",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˈes alˈeɾxiko a alɣˈun mˌeðikamˈɛnto?"
+        },
+        {
+          "text": "— Are you allergic to any medication?",
+          "segments": [
+            {
+              "text": "— Are you allergic to any medication?",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— ɑːɹ juː ɐlˈɜːdʒɪk tʊ ˌɛni mˌɛdɪkˈeɪʃən?"
+        },
+        {
+          "text": "Llame a una ambulancia.",
+          "segments": [
+            {
+              "text": "Llame a una ambulancia.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ʝˈame a ˈuna ˌambulˈansja."
+        },
+        {
+          "text": "— Call an ambulance.",
+          "segments": [
+            {
+              "text": "— Call an ambulance.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— kˈɔːl ɐn ˈæmbjʊləns."
+        },
+        {
+          "text": "Se cayó y se lastimó el brazo.",
+          "segments": [
+            {
+              "text": "Se cayó y se lastimó el brazo.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "se kaʝˈo i se lˌastimˈo el βɾˈaso."
+        },
+        {
+          "text": "— He or she fell and hurt an arm.",
+          "segments": [
+            {
+              "text": "— He or she fell and hurt an arm.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— hiː ɔːɹ ʃiː fˈɛl ænd hˈɜːt ɐn ˈɑːɹm."
+        }
+      ]
+    },
+    {
+      "file": "06.wav",
+      "text": "Check your readiness. Explain the core idea. Produce an original example. Complete the section assessment at 85% or higher.",
+      "sentences": [
+        {
+          "text": "Check your readiness.",
+          "segments": [
+            {
+              "text": "Check your readiness.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tʃˈɛk jʊɹ ɹˈɛdinəs."
+        },
+        {
+          "text": "Explain the core idea.",
+          "segments": [
+            {
+              "text": "Explain the core idea.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɛksplˈeɪn ðə kˈɔːɹ aɪdˈiə."
+        },
+        {
+          "text": "Produce an original example.",
+          "segments": [
+            {
+              "text": "Produce an original example.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "pɹədˈuːs ɐn ɚɹˈɪdʒɪnəl ɛɡzˈæmpəl."
+        },
+        {
+          "text": "Complete the section assessment at 85% or higher.",
+          "segments": [
+            {
+              "text": "Complete the section assessment at 85% or higher.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "kəmplˈiːt ðə sˈɛkʃən ɐsˈɛsmənt æɾ ˈeɪɾi fˈaɪv pɚsˈɛnt ɔːɹ hˈaɪɚ."
+        }
+      ]
+    },
+    {
+      "file": "vocab-00.wav",
+      "text": "la salud",
+      "sentences": [
+        {
+          "text": "la salud",
+          "segments": [
+            {
+              "text": "la salud",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "la salˈud"
+        }
+      ]
+    },
+    {
+      "file": "vocab-01.wav",
+      "text": "el dolor",
+      "sentences": [
+        {
+          "text": "el dolor",
+          "segments": [
+            {
+              "text": "el dolor",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "el ðolˈoɾ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-02.wav",
+      "text": "la cabeza",
+      "sentences": [
+        {
+          "text": "la cabeza",
+          "segments": [
+            {
+              "text": "la cabeza",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "la kaβˈesa"
+        }
+      ]
+    },
+    {
+      "file": "vocab-03.wav",
+      "text": "el brazo",
+      "sentences": [
+        {
+          "text": "el brazo",
+          "segments": [
+            {
+              "text": "el brazo",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "el βɾˈaso"
+        }
+      ]
+    },
+    {
+      "file": "vocab-04.wav",
+      "text": "la fiebre",
+      "sentences": [
+        {
+          "text": "la fiebre",
+          "segments": [
+            {
+              "text": "la fiebre",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "la fjˈeβɾe"
+        }
+      ]
+    },
+    {
+      "file": "vocab-05.wav",
+      "text": "la farmacia",
+      "sentences": [
+        {
+          "text": "la farmacia",
+          "segments": [
+            {
+              "text": "la farmacia",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "la faɾmˈasja"
+        }
+      ]
+    },
+    {
+      "file": "vocab-06.wav",
+      "text": "la emergencia",
+      "sentences": [
+        {
+          "text": "la emergencia",
+          "segments": [
+            {
+              "text": "la emergencia",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "la ˌemeɾxˈɛnsja"
+        }
+      ]
+    },
+    {
+      "file": "vocab-07.wav",
+      "text": "ayuda",
+      "sentences": [
+        {
+          "text": "ayuda",
+          "segments": [
+            {
+              "text": "ayuda",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "aʝˈuða"
+        }
+      ]
+    }
+  ]
+}

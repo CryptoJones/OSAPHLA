@@ -1,0 +1,469 @@
+{
+  "profile": "y3",
+  "utterances": [
+    {
+      "file": "00.wav",
+      "text": "Week 11: Food, Markets, and Restaurants. buy food order a meal handle dietary needs and problems",
+      "sentences": [
+        {
+          "text": "Week 11: Food, Markets, and Restaurants.",
+          "segments": [
+            {
+              "text": "Week 11: Food, Markets, and Restaurants.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wˈiːk ɪlˈɛvən: fˈuːd, mˈɑːɹkɪts, ænd ɹˈɛstɹɑːnts."
+        },
+        {
+          "text": "buy food order a meal handle dietary needs and problems",
+          "segments": [
+            {
+              "text": "buy food order a meal handle dietary needs and problems",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "bˈaɪ fˈuːd ˈɔːɹdɚɹ ɐ mˈiːl hˈændəl dˈaɪətɚɹi nˈiːdz ænd pɹˈɑːbləmz"
+        }
+      ]
+    },
+    {
+      "file": "01.wav",
+      "text": "Operational objective. By the end of this section you can buy food, order a meal, handle dietary needs and problems. The focus is useful performance, not isolated terminology.",
+      "sentences": [
+        {
+          "text": "Operational objective.",
+          "segments": [
+            {
+              "text": "Operational objective.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ˌɑːpɚɹˈeɪʃənəl ɑːbdʒˈɛktɪv."
+        },
+        {
+          "text": "By the end of this section you can buy food, order a meal, handle dietary needs and problems.",
+          "segments": [
+            {
+              "text": "By the end of this section you can buy food, order a meal, handle dietary needs and problems.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "baɪ ðɪ ˈɛnd ʌv ðɪs sˈɛkʃən juː kæn bˈaɪ fˈuːd, ˈɔːɹdɚɹ ɐ mˈiːl, hˈændəl dˈaɪətɚɹi nˈiːdz ænd pɹˈɑːbləmz."
+        },
+        {
+          "text": "The focus is useful performance, not isolated terminology.",
+          "segments": [
+            {
+              "text": "The focus is useful performance, not isolated terminology.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðə fˈoʊkəs ɪz jˈuːsfəl pɚfˈɔːɹməns, nˌɑːt ˈaɪsəlˌeɪɾᵻd tˌɜːmɪnˈɑːlədʒi."
+        }
+      ]
+    },
+    {
+      "file": "02.wav",
+      "text": "Language system. Quantities; count and mass nouns; direct objects; polite requests with querer, poder, and quisiera.",
+      "sentences": [
+        {
+          "text": "Language system.",
+          "segments": [
+            {
+              "text": "Language system.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "lˈæŋɡwɪdʒ sˈɪstəm."
+        },
+        {
+          "text": "Quantities; count and mass nouns; direct objects; polite requests with querer, poder, and quisiera.",
+          "segments": [
+            {
+              "text": "Quantities; count and mass nouns; direct objects; polite requests with ",
+              "lang": "en-us"
+            },
+            {
+              "text": "querer",
+              "lang": "es-419"
+            },
+            {
+              "text": ", ",
+              "lang": "en-us"
+            },
+            {
+              "text": "poder",
+              "lang": "es-419"
+            },
+            {
+              "text": ", and ",
+              "lang": "en-us"
+            },
+            {
+              "text": "quisiera",
+              "lang": "es-419"
+            },
+            {
+              "text": ".",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "kwˈɔntᵻɾiz; kˈaʊnt ænd mˈæs nˈaʊnz; dᵻɹˈɛkt ˈɑːbdʒɛkts; pəlˈaɪt ɹᵻkwˈɛsts wɪð keɾˈeɾ , poðˈeɾ , ænd kisjˈeɾa ."
+        }
+      ]
+    },
+    {
+      "file": "03.wav",
+      "text": "Sound and delivery. Single tap r and trill rr in high-frequency food and service vocabulary.",
+      "sentences": [
+        {
+          "text": "Sound and delivery.",
+          "segments": [
+            {
+              "text": "Sound and delivery.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "sˈaʊnd ænd dᵻlˈɪvɚɹi."
+        },
+        {
+          "text": "Single tap r and trill rr in high-frequency food and service vocabulary.",
+          "segments": [
+            {
+              "text": "Single tap r and trill rr in high-frequency food and service vocabulary.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "sˈɪŋɡəl tˈæp ˈɑːɹ ænd tɹˈɪl ˌɑːɹɹˈɑːɹ ɪn hˈaɪfɹˈiːkwənsi fˈuːd ænd sˈɜːvɪs voʊkˈæbjʊlˌɛɹi."
+        }
+      ]
+    },
+    {
+      "file": "04.wav",
+      "text": "Core principle. Notice meaning first, then form. Retrieve the new language aloud, compare it with the model, and repair one feature at a time.",
+      "sentences": [
+        {
+          "text": "Core principle.",
+          "segments": [
+            {
+              "text": "Core principle.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "kˈɔːɹ pɹˈɪnsɪpəl."
+        },
+        {
+          "text": "Notice meaning first, then form.",
+          "segments": [
+            {
+              "text": "Notice meaning first, then form.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "nˈoʊɾɪs mˈiːnɪŋ fˈɜːst, ðˈɛn fˈɔːɹm."
+        },
+        {
+          "text": "Retrieve the new language aloud, compare it with the model, and repair one feature at a time.",
+          "segments": [
+            {
+              "text": "Retrieve the new language aloud, compare it with the model, and repair one feature at a time.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɹᵻtɹˈiːv ðə nˈuː lˈæŋɡwɪdʒ ɐlˈaʊd, kəmpˈɛɹ ɪt wɪððə mˈɑːdəl, ænd ɹᵻpˈɛɹ wˈʌn fˈiːtʃɚɹ æɾə tˈaɪm."
+        }
+      ]
+    },
+    {
+      "file": "05.wav",
+      "text": "Model language. Quisiera probar el plato del día. — I would like to try the daily special. ¿Cuánto cuesta un kilo de tomates? — How much does a kilogram of tomatoes cost? Para mí, una sopa sin carne. — For me, a soup without meat. El camarero nos trae la cuenta. — The waiter brings us the bill. Disculpe, pedí agua y no refresco. — Excuse me, I ordered water, not soda.",
+      "sentences": [
+        {
+          "text": "Model language.",
+          "segments": [
+            {
+              "text": "Model language.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
+        },
+        {
+          "text": "Quisiera probar el plato del día.",
+          "segments": [
+            {
+              "text": "Quisiera probar el plato del día.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kisjˈeɾa pɾoβˈaɾ el plˈato ðel ðˈia."
+        },
+        {
+          "text": "— I would like to try the daily special.",
+          "segments": [
+            {
+              "text": "— I would like to try the daily special.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— aɪ wʊd lˈaɪk tə tɹˈaɪ ðə dˈeɪli spˈɛʃəl."
+        },
+        {
+          "text": "¿Cuánto cuesta un kilo de tomates?",
+          "segments": [
+            {
+              "text": "¿Cuánto cuesta un kilo de tomates?",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kwˈanto kwˈesta ˈuŋ kˈilo ðe tomˈates?"
+        },
+        {
+          "text": "— How much does a kilogram of tomatoes cost?",
+          "segments": [
+            {
+              "text": "— How much does a kilogram of tomatoes cost?",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— hˌaʊ mˈʌtʃ dˈʌz ɐ kˈɪləɡɹˌæm ʌv təmˈeɪɾoʊz kˈɔst?"
+        },
+        {
+          "text": "Para mí, una sopa sin carne.",
+          "segments": [
+            {
+              "text": "Para mí, una sopa sin carne.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "pˌaɾa mˈi, ˈuna sˈopa sin kˈaɾne."
+        },
+        {
+          "text": "— For me, a soup without meat.",
+          "segments": [
+            {
+              "text": "— For me, a soup without meat.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— fɔːɹ mˌiː, ɐ sˈuːp wɪðˌaʊt mˈiːt."
+        },
+        {
+          "text": "El camarero nos trae la cuenta.",
+          "segments": [
+            {
+              "text": "El camarero nos trae la cuenta.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "el kˌamaɾˈeɾo nos tɾˈae la kwˈɛnta."
+        },
+        {
+          "text": "— The waiter brings us the bill.",
+          "segments": [
+            {
+              "text": "— The waiter brings us the bill.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— ðə wˈeɪɾɚ bɹˈɪŋz ˌʌs ðə bˈɪl."
+        },
+        {
+          "text": "Disculpe, pedí agua y no refresco.",
+          "segments": [
+            {
+              "text": "Disculpe, pedí agua y no refresco.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "diskˈulpe, peðˈi ˈaɣwa i nˈo refɾˈesko."
+        },
+        {
+          "text": "— Excuse me, I ordered water, not soda.",
+          "segments": [
+            {
+              "text": "— Excuse me, I ordered water, not soda.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— ekskˈuse mˈe, ˈi ˌoɾðeɾˈed watˈeɾ, nˈot sˈoða."
+        }
+      ]
+    },
+    {
+      "file": "06.wav",
+      "text": "Check your readiness. Explain the core idea. Produce an original example. Complete the section assessment at 85% or higher.",
+      "sentences": [
+        {
+          "text": "Check your readiness.",
+          "segments": [
+            {
+              "text": "Check your readiness.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tʃˈɛk jʊɹ ɹˈɛdinəs."
+        },
+        {
+          "text": "Explain the core idea.",
+          "segments": [
+            {
+              "text": "Explain the core idea.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɛksplˈeɪn ðə kˈɔːɹ aɪdˈiə."
+        },
+        {
+          "text": "Produce an original example.",
+          "segments": [
+            {
+              "text": "Produce an original example.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "pɹədˈuːs ɐn ɚɹˈɪdʒɪnəl ɛɡzˈæmpəl."
+        },
+        {
+          "text": "Complete the section assessment at 85% or higher.",
+          "segments": [
+            {
+              "text": "Complete the section assessment at 85% or higher.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "kəmplˈiːt ðə sˈɛkʃən ɐsˈɛsmənt æɾ ˈeɪɾi fˈaɪv pɚsˈɛnt ɔːɹ hˈaɪɚ."
+        }
+      ]
+    },
+    {
+      "file": "vocab-00.wav",
+      "text": "el mercado",
+      "sentences": [
+        {
+          "text": "el mercado",
+          "segments": [
+            {
+              "text": "el mercado",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "el meɾkˈaðo"
+        }
+      ]
+    },
+    {
+      "file": "vocab-01.wav",
+      "text": "la cuenta",
+      "sentences": [
+        {
+          "text": "la cuenta",
+          "segments": [
+            {
+              "text": "la cuenta",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "la kwˈɛnta"
+        }
+      ]
+    },
+    {
+      "file": "vocab-02.wav",
+      "text": "el plato",
+      "sentences": [
+        {
+          "text": "el plato",
+          "segments": [
+            {
+              "text": "el plato",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "el plˈato"
+        }
+      ]
+    },
+    {
+      "file": "vocab-03.wav",
+      "text": "la bebida",
+      "sentences": [
+        {
+          "text": "la bebida",
+          "segments": [
+            {
+              "text": "la bebida",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "la βeβˈiða"
+        }
+      ]
+    },
+    {
+      "file": "vocab-04.wav",
+      "text": "un kilo",
+      "sentences": [
+        {
+          "text": "un kilo",
+          "segments": [
+            {
+              "text": "un kilo",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˈuŋ kˈilo"
+        }
+      ]
+    },
+    {
+      "file": "vocab-05.wav",
+      "text": "sin",
+      "sentences": [
+        {
+          "text": "sin",
+          "segments": [
+            {
+              "text": "sin",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "sˈin"
+        }
+      ]
+    },
+    {
+      "file": "vocab-06.wav",
+      "text": "quisiera",
+      "sentences": [
+        {
+          "text": "quisiera",
+          "segments": [
+            {
+              "text": "quisiera",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kisjˈeɾa"
+        }
+      ]
+    },
+    {
+      "file": "vocab-07.wav",
+      "text": "probar",
+      "sentences": [
+        {
+          "text": "probar",
+          "segments": [
+            {
+              "text": "probar",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "pɾoβˈaɾ"
+        }
+      ]
+    }
+  ]
+}

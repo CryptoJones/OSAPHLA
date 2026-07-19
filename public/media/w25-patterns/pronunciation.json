@@ -1,0 +1,535 @@
+{
+  "profile": "y1",
+  "utterances": [
+    {
+      "file": "00.wav",
+      "text": "Week 25: Future, Probability, and Forecasting. make forecasts state commitments express probability about the present",
+      "sentences": [
+        {
+          "text": "Week 25: Future, Probability, and Forecasting.",
+          "segments": [
+            {
+              "text": "Week 25: Future, Probability, and Forecasting.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wˈiːk twˈɛnti fˈaɪv: fjˈuːtʃɚ, pɹˌɑːbəbˈɪlᵻɾi, ænd fˈɔːɹkæstɪŋ."
+        },
+        {
+          "text": "make forecasts state commitments express probability about the present",
+          "segments": [
+            {
+              "text": "make forecasts state commitments express probability about the present",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "mˌeɪk fˈɔːɹkæsts stˈeɪt kəmˈɪtmənts ɛkspɹˈɛs pɹˌɑːbəbˈɪlᵻɾi ɐbˌaʊt ðə pɹˈɛzənt"
+        }
+      ]
+    },
+    {
+      "file": "01.wav",
+      "text": "Form and meaning. Simple future; irregular stems; future of probability; time clauses referring to future events.",
+      "sentences": [
+        {
+          "text": "Form and meaning.",
+          "segments": [
+            {
+              "text": "Form and meaning.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "fˈɔːɹm ænd mˈiːnɪŋ."
+        },
+        {
+          "text": "Simple future; irregular stems; future of probability; time clauses referring to future events.",
+          "segments": [
+            {
+              "text": "Simple future; irregular stems; future of probability; time clauses referring to future events.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "sˈɪmpəl fjˈuːtʃɚ; ɪɹˈɛɡjʊlɚ stˈɛmz; fjˈuːtʃɚɹ ʌv pɹˌɑːbəbˈɪlᵻɾi; tˈaɪm klˈɔːzᵻz ɹᵻfˈɜːɹɪŋ tə fjˈuːtʃɚɹ ᵻvˈɛnts."
+        }
+      ]
+    },
+    {
+      "file": "02.wav",
+      "text": "Model set. La población urbana aumentará. Seguiremos midiendo los resultados. ¿Dónde estará Marta ahora? Cuando termine el estudio, publicaremos los datos. Dentro de cinco años habrá nuevas opciones. The urban population will increase. We will continue measuring the results. Where could Marta be now? When the study ends, we will publish the data. In five years there will be new options.",
+      "sentences": [
+        {
+          "text": "Model set.",
+          "segments": [
+            {
+              "text": "Model set.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "mˈɑːdəl sˈɛt."
+        },
+        {
+          "text": "La población urbana aumentará.",
+          "segments": [
+            {
+              "text": "La población urbana aumentará.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "la pˌoβlasjˈon uɾβˈana ˌaʊmentaɾˈa."
+        },
+        {
+          "text": "Seguiremos midiendo los resultados.",
+          "segments": [
+            {
+              "text": "Seguiremos midiendo los resultados.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "sˌeɣiɾˈemos miðjˈɛndo los rˌesultˈaðos."
+        },
+        {
+          "text": "¿Dónde estará Marta ahora?",
+          "segments": [
+            {
+              "text": "¿Dónde estará Marta ahora?",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "dˈonde ˌestaɾˈa mˈaɾta aˈoɾa?"
+        },
+        {
+          "text": "Cuando termine el estudio, publicaremos los datos.",
+          "segments": [
+            {
+              "text": "Cuando termine el estudio, publicaremos los datos.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kwˌando teɾmˈine el estˈuðjo, pˌuβlikaɾˈemos los ðˈatos."
+        },
+        {
+          "text": "Dentro de cinco años habrá nuevas opciones.",
+          "segments": [
+            {
+              "text": "Dentro de cinco años habrá nuevas opciones.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "dˈɛntɾo ðe sˈinko ˈaɲos aβɾˈa nwˈeβas opsjˈones."
+        },
+        {
+          "text": "The urban population will increase.",
+          "segments": [
+            {
+              "text": "The urban population will increase.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðɪ ˈɜːbən pˌɑːpjʊlˈeɪʃən wɪl ɪŋkɹˈiːs."
+        },
+        {
+          "text": "We will continue measuring the results.",
+          "segments": [
+            {
+              "text": "We will continue measuring the results.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wiː wɪl kəntˈɪnjuː mˈɛʒɚɹɪŋ ðə ɹɪzˈʌlts."
+        },
+        {
+          "text": "Where could Marta be now?",
+          "segments": [
+            {
+              "text": "Where could Marta be now?",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wˌɛɹ kʊd mˈɑːɹɾə biː nˈaʊ?"
+        },
+        {
+          "text": "When the study ends, we will publish the data.",
+          "segments": [
+            {
+              "text": "When the study ends, we will publish the data.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wˌɛn ðə stˈʌdi ˈɛndz, wiː wɪl pˈʌblɪʃ ðə dˈeɪɾə."
+        },
+        {
+          "text": "In five years there will be new options.",
+          "segments": [
+            {
+              "text": "In five years there will be new options.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɪn fˈaɪv jˈɪɹz ðɛɹ wɪl biː nˈuː ˈɑːpʃənz."
+        }
+      ]
+    },
+    {
+      "file": "03.wav",
+      "text": "Contrastive practice. Change the person, time, number, or level of formality in each model. Preserve the communicative purpose while the grammar changes.",
+      "sentences": [
+        {
+          "text": "Contrastive practice.",
+          "segments": [
+            {
+              "text": "Contrastive practice.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "kˈɑːntɹɐstˌɪv pɹˈæktɪs."
+        },
+        {
+          "text": "Change the person, time, number, or level of formality in each model.",
+          "segments": [
+            {
+              "text": "Change the person, time, number, or level of formality in each model.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tʃˈeɪndʒ ðə pˈɜːsən, tˈaɪm, nˈʌmbɚ, ɔːɹ lˈɛvəl ʌv fɔːɹmˈælᵻɾi ɪn ˈiːtʃ mˈɑːdəl."
+        },
+        {
+          "text": "Preserve the communicative purpose while the grammar changes.",
+          "segments": [
+            {
+              "text": "Preserve the communicative purpose while the grammar changes.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "pɹɪzˈɜːv ðə kəmjˈuːnɪkətˌɪv pˈɜːpəs wˌaɪl ðə ɡɹˈæmɚ tʃˈeɪndʒᵻz."
+        }
+      ]
+    },
+    {
+      "file": "04.wav",
+      "text": "Production check. Say one original sentence for each function: make forecasts; state commitments; express probability about the present. Then write it and compare the spoken and written forms.",
+      "sentences": [
+        {
+          "text": "Production check.",
+          "segments": [
+            {
+              "text": "Production check.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "pɹədˈʌkʃən tʃˈɛk."
+        },
+        {
+          "text": "Say one original sentence for each function: make forecasts; state commitments; express probability about the present.",
+          "segments": [
+            {
+              "text": "Say one original sentence for each function: make forecasts; state commitments; express probability about the present.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "sˈeɪ wˈʌn ɚɹˈɪdʒɪnəl sˈɛntəns fɔːɹ ˈiːtʃ fˈʌŋkʃən: mˌeɪk fˈɔːɹkæsts; stˈeɪt kəmˈɪtmənts; ɛkspɹˈɛs pɹˌɑːbəbˈɪlᵻɾi ɐbˌaʊt ðə pɹˈɛzənt."
+        },
+        {
+          "text": "Then write it and compare the spoken and written forms.",
+          "segments": [
+            {
+              "text": "Then write it and compare the spoken and written forms.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðˈɛn ɹˈaɪt ɪt ænd kəmpˈɛɹ ðə spˈoʊkən ænd ɹˈɪʔn fˈɔːɹmz."
+        }
+      ]
+    },
+    {
+      "file": "05.wav",
+      "text": "Model language. La población urbana aumentará. — The urban population will increase. Seguiremos midiendo los resultados. — We will continue measuring the results. ¿Dónde estará Marta ahora? — Where could Marta be now? Cuando termine el estudio, publicaremos los datos. — When the study ends, we will publish the data. Dentro de cinco años habrá nuevas opciones. — In five years there will be new options.",
+      "sentences": [
+        {
+          "text": "Model language.",
+          "segments": [
+            {
+              "text": "Model language.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
+        },
+        {
+          "text": "La población urbana aumentará.",
+          "segments": [
+            {
+              "text": "La población urbana aumentará.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "la pˌoβlasjˈon uɾβˈana ˌaʊmentaɾˈa."
+        },
+        {
+          "text": "— The urban population will increase.",
+          "segments": [
+            {
+              "text": "— The urban population will increase.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— ðɪ ˈɜːbən pˌɑːpjʊlˈeɪʃən wɪl ɪŋkɹˈiːs."
+        },
+        {
+          "text": "Seguiremos midiendo los resultados.",
+          "segments": [
+            {
+              "text": "Seguiremos midiendo los resultados.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "sˌeɣiɾˈemos miðjˈɛndo los rˌesultˈaðos."
+        },
+        {
+          "text": "— We will continue measuring the results.",
+          "segments": [
+            {
+              "text": "— We will continue measuring the results.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— wiː wɪl kəntˈɪnjuː mˈɛʒɚɹɪŋ ðə ɹɪzˈʌlts."
+        },
+        {
+          "text": "¿Dónde estará Marta ahora?",
+          "segments": [
+            {
+              "text": "¿Dónde estará Marta ahora?",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "dˈonde ˌestaɾˈa mˈaɾta aˈoɾa?"
+        },
+        {
+          "text": "— Where could Marta be now?",
+          "segments": [
+            {
+              "text": "— Where could Marta be now?",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— wˌɛɹ kʊd mˈɑːɹɾə biː nˈaʊ?"
+        },
+        {
+          "text": "Cuando termine el estudio, publicaremos los datos.",
+          "segments": [
+            {
+              "text": "Cuando termine el estudio, publicaremos los datos.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kwˌando teɾmˈine el estˈuðjo, pˌuβlikaɾˈemos los ðˈatos."
+        },
+        {
+          "text": "— When the study ends, we will publish the data.",
+          "segments": [
+            {
+              "text": "— When the study ends, we will publish the data.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— wˌɛn ðə stˈʌdi ˈɛndz, wiː wɪl pˈʌblɪʃ ðə dˈeɪɾə."
+        },
+        {
+          "text": "Dentro de cinco años habrá nuevas opciones.",
+          "segments": [
+            {
+              "text": "Dentro de cinco años habrá nuevas opciones.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "dˈɛntɾo ðe sˈinko ˈaɲos aβɾˈa nwˈeβas opsjˈones."
+        },
+        {
+          "text": "— In five years there will be new options.",
+          "segments": [
+            {
+              "text": "— In five years there will be new options.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— ɪn fˈaɪv jˈɪɹz ðɛɹ wɪl biː nˈuː ˈɑːpʃənz."
+        }
+      ]
+    },
+    {
+      "file": "06.wav",
+      "text": "Check your readiness. Explain the core idea. Produce an original example. Complete the section assessment at 85% or higher.",
+      "sentences": [
+        {
+          "text": "Check your readiness.",
+          "segments": [
+            {
+              "text": "Check your readiness.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tʃˈɛk jʊɹ ɹˈɛdinəs."
+        },
+        {
+          "text": "Explain the core idea.",
+          "segments": [
+            {
+              "text": "Explain the core idea.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɛksplˈeɪn ðə kˈɔːɹ aɪdˈiə."
+        },
+        {
+          "text": "Produce an original example.",
+          "segments": [
+            {
+              "text": "Produce an original example.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "pɹədˈuːs ɐn ɚɹˈɪdʒɪnəl ɛɡzˈæmpəl."
+        },
+        {
+          "text": "Complete the section assessment at 85% or higher.",
+          "segments": [
+            {
+              "text": "Complete the section assessment at 85% or higher.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "kəmplˈiːt ðə sˈɛkʃən ɐsˈɛsmənt æɾ ˈeɪɾi fˈaɪv pɚsˈɛnt ɔːɹ hˈaɪɚ."
+        }
+      ]
+    },
+    {
+      "file": "vocab-00.wav",
+      "text": "el futuro",
+      "sentences": [
+        {
+          "text": "el futuro",
+          "segments": [
+            {
+              "text": "el futuro",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "el futˈuɾo"
+        }
+      ]
+    },
+    {
+      "file": "vocab-01.wav",
+      "text": "el cambio",
+      "sentences": [
+        {
+          "text": "el cambio",
+          "segments": [
+            {
+              "text": "el cambio",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "el kˈambjo"
+        }
+      ]
+    },
+    {
+      "file": "vocab-02.wav",
+      "text": "aumentar",
+      "sentences": [
+        {
+          "text": "aumentar",
+          "segments": [
+            {
+              "text": "aumentar",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˌaʊmentˈaɾ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-03.wav",
+      "text": "disminuir",
+      "sentences": [
+        {
+          "text": "disminuir",
+          "segments": [
+            {
+              "text": "disminuir",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "dˌisminwˈiɾ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-04.wav",
+      "text": "lograr",
+      "sentences": [
+        {
+          "text": "lograr",
+          "segments": [
+            {
+              "text": "lograr",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "loɣɾˈaɾ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-05.wav",
+      "text": "seguir",
+      "sentences": [
+        {
+          "text": "seguir",
+          "segments": [
+            {
+              "text": "seguir",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "seɣˈiɾ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-06.wav",
+      "text": "probablemente",
+      "sentences": [
+        {
+          "text": "probablemente",
+          "segments": [
+            {
+              "text": "probablemente",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "pɾoβˈaβlemˈente"
+        }
+      ]
+    },
+    {
+      "file": "vocab-07.wav",
+      "text": "dentro de",
+      "sentences": [
+        {
+          "text": "dentro de",
+          "segments": [
+            {
+              "text": "dentro de",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "dˈɛntɾo ðˈe"
+        }
+      ]
+    }
+  ]
+}

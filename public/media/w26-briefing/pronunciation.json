@@ -1,0 +1,461 @@
+{
+  "profile": "e",
+  "utterances": [
+    {
+      "file": "00.wav",
+      "text": "Week 26: Conditional, Courtesy, and Hypothesis. make a tactful request evaluate options state hypothetical consequences",
+      "sentences": [
+        {
+          "text": "Week 26: Conditional, Courtesy, and Hypothesis.",
+          "segments": [
+            {
+              "text": "Week 26: Conditional, Courtesy, and Hypothesis.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wˈiːk twˈɛnti sˈɪks: kəndˈɪʃənəl, kˈɜːɾəsi, ænd haɪpˈɑːθəsˌɪs."
+        },
+        {
+          "text": "make a tactful request evaluate options state hypothetical consequences",
+          "segments": [
+            {
+              "text": "make a tactful request evaluate options state hypothetical consequences",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "mˌeɪk ɐ tˈæktfəl ɹᵻkwˈɛst ɪvˈæljuːˌeɪt ˈɑːpʃənz stˈeɪt hˌaɪpəθˈɛɾɪkəl kˈɑːnsɪkwənsᵻz"
+        }
+      ]
+    },
+    {
+      "file": "01.wav",
+      "text": "Operational objective. By the end of this section you can make a tactful request, evaluate options, state hypothetical consequences. The focus is useful performance, not isolated terminology.",
+      "sentences": [
+        {
+          "text": "Operational objective.",
+          "segments": [
+            {
+              "text": "Operational objective.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ˌɑːpɚɹˈeɪʃənəl ɑːbdʒˈɛktɪv."
+        },
+        {
+          "text": "By the end of this section you can make a tactful request, evaluate options, state hypothetical consequences.",
+          "segments": [
+            {
+              "text": "By the end of this section you can make a tactful request, evaluate options, state hypothetical consequences.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "baɪ ðɪ ˈɛnd ʌv ðɪs sˈɛkʃən juː kæn mˌeɪk ɐ tˈæktfəl ɹᵻkwˈɛst, ɪvˈæljuːˌeɪt ˈɑːpʃənz, stˈeɪt hˌaɪpəθˈɛɾɪkəl kˈɑːnsɪkwənsᵻz."
+        },
+        {
+          "text": "The focus is useful performance, not isolated terminology.",
+          "segments": [
+            {
+              "text": "The focus is useful performance, not isolated terminology.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðə fˈoʊkəs ɪz jˈuːsfəl pɚfˈɔːɹməns, nˌɑːt ˈaɪsəlˌeɪɾᵻd tˌɜːmɪnˈɑːlədʒi."
+        }
+      ]
+    },
+    {
+      "file": "02.wav",
+      "text": "Language system. Simple conditional; irregular stems; future-in-the-past; conditional courtesy; si + imperfect subjunctive preview.",
+      "sentences": [
+        {
+          "text": "Language system.",
+          "segments": [
+            {
+              "text": "Language system.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "lˈæŋɡwɪdʒ sˈɪstəm."
+        },
+        {
+          "text": "Simple conditional; irregular stems; future-in-the-past; conditional courtesy; si + imperfect subjunctive preview.",
+          "segments": [
+            {
+              "text": "Simple conditional; irregular stems; future-in-the-past; conditional courtesy; ",
+              "lang": "en-us"
+            },
+            {
+              "text": "si",
+              "lang": "es-419"
+            },
+            {
+              "text": " + imperfect subjunctive preview.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "sˈɪmpəl kəndˈɪʃənəl; ɪɹˈɛɡjʊlɚ stˈɛmz; fjˈuːtʃɚɹɪnðəpˈæst; kəndˈɪʃənəl kˈɜːɾəsi; sˈi plˈʌs ɪmpˈɜːfɛkt sˈʌbdʒəŋktˌɪv pɹˈiːvjuː."
+        }
+      ]
+    },
+    {
+      "file": "03.wav",
+      "text": "Sound and delivery. Conditional -ía endings and polite intonation without over-reducing them.",
+      "sentences": [
+        {
+          "text": "Sound and delivery.",
+          "segments": [
+            {
+              "text": "Sound and delivery.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "sˈaʊnd ænd dᵻlˈɪvɚɹi."
+        },
+        {
+          "text": "Conditional -ía endings and polite intonation without over-reducing them.",
+          "segments": [
+            {
+              "text": "Conditional ",
+              "lang": "en-us"
+            },
+            {
+              "text": "-ía",
+              "lang": "es-419"
+            },
+            {
+              "text": " endings and polite intonation without over-reducing them.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "kəndˈɪʃənəl ˈia ˈɛndɪŋz ænd pəlˈaɪt ˌɪntənˈeɪʃən wɪðˌaʊt ˌoʊvɚɹᵻdˈuːsɪŋ ðˌɛm."
+        }
+      ]
+    },
+    {
+      "file": "04.wav",
+      "text": "Core principle. Notice meaning first, then form. Retrieve the new language aloud, compare it with the model, and repair one feature at a time.",
+      "sentences": [
+        {
+          "text": "Core principle.",
+          "segments": [
+            {
+              "text": "Core principle.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "kˈɔːɹ pɹˈɪnsɪpəl."
+        },
+        {
+          "text": "Notice meaning first, then form.",
+          "segments": [
+            {
+              "text": "Notice meaning first, then form.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "nˈoʊɾɪs mˈiːnɪŋ fˈɜːst, ðˈɛn fˈɔːɹm."
+        },
+        {
+          "text": "Retrieve the new language aloud, compare it with the model, and repair one feature at a time.",
+          "segments": [
+            {
+              "text": "Retrieve the new language aloud, compare it with the model, and repair one feature at a time.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɹᵻtɹˈiːv ðə nˈuː lˈæŋɡwɪdʒ ɐlˈaʊd, kəmpˈɛɹ ɪt wɪððə mˈɑːdəl, ænd ɹᵻpˈɛɹ wˈʌn fˈiːtʃɚɹ æɾə tˈaɪm."
+        }
+      ]
+    },
+    {
+      "file": "05.wav",
+      "text": "Model language. Yo elegiría la segunda opción. — I would choose the second option. ¿Podría enviarme los detalles? — Could you send me the details? El cambio reduciría el riesgo. — The change would reduce the risk. Dijo que llegaría al día siguiente. — He or she said that they would arrive the following day. En cambio, ese plan costaría demasiado. — On the other hand, that plan would cost too much.",
+      "sentences": [
+        {
+          "text": "Model language.",
+          "segments": [
+            {
+              "text": "Model language.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
+        },
+        {
+          "text": "Yo elegiría la segunda opción.",
+          "segments": [
+            {
+              "text": "Yo elegiría la segunda opción.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ʝˈo ˌelexiɾˈia la seɣˈunda opsjˈon."
+        },
+        {
+          "text": "— I would choose the second option.",
+          "segments": [
+            {
+              "text": "— I would choose the second option.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— aɪ wʊd tʃˈuːz ðə sˈɛkənd ˈɑːpʃən."
+        },
+        {
+          "text": "¿Podría enviarme los detalles?",
+          "segments": [
+            {
+              "text": "¿Podría enviarme los detalles?",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "poðɾˈia embjˈaɾme los ðetˈajjes?"
+        },
+        {
+          "text": "— Could you send me the details?",
+          "segments": [
+            {
+              "text": "— Could you send me the details?",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— kʊd juː sˈɛnd mˌiː ðə diːtˈeɪlz?"
+        },
+        {
+          "text": "El cambio reduciría el riesgo.",
+          "segments": [
+            {
+              "text": "El cambio reduciría el riesgo.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "el kˈambjo rˌeðusiɾˈia el riˈesɣo."
+        },
+        {
+          "text": "— The change would reduce the risk.",
+          "segments": [
+            {
+              "text": "— The change would reduce the risk.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— ðə tʃˈeɪndʒ wʊd ɹᵻdˈuːs ðə ɹˈɪsk."
+        },
+        {
+          "text": "Dijo que llegaría al día siguiente.",
+          "segments": [
+            {
+              "text": "Dijo que llegaría al día siguiente.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "dˈixo ke ʝˌeɣaɾˈia al ðˈia siɣjˈɛnte."
+        },
+        {
+          "text": "— He or she said that they would arrive the following day.",
+          "segments": [
+            {
+              "text": "— He or she said that they would arrive the following day.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— hiː ɔːɹ ʃiː sˈɛd ðæt ðeɪ wʊd ɚɹˈaɪv ðə fˈɑːloʊɪŋ dˈeɪ."
+        },
+        {
+          "text": "En cambio, ese plan costaría demasiado.",
+          "segments": [
+            {
+              "text": "En cambio, ese plan costaría demasiado.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "en kˈambjo, ˈese plˈan kˌostaɾˈia ðˌemasjˈaðo."
+        },
+        {
+          "text": "— On the other hand, that plan would cost too much.",
+          "segments": [
+            {
+              "text": "— On the other hand, that plan would cost too much.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— ɔnðɪ ˈʌðɚ hˈænd, ðæt plˈæn wʊd kˈɔst tˈuː mʌtʃ."
+        }
+      ]
+    },
+    {
+      "file": "06.wav",
+      "text": "Check your readiness. Explain the core idea. Produce an original example. Complete the section assessment at 85% or higher.",
+      "sentences": [
+        {
+          "text": "Check your readiness.",
+          "segments": [
+            {
+              "text": "Check your readiness.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tʃˈɛk jʊɹ ɹˈɛdinəs."
+        },
+        {
+          "text": "Explain the core idea.",
+          "segments": [
+            {
+              "text": "Explain the core idea.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɛksplˈeɪn ðə kˈɔːɹ aɪdˈiə."
+        },
+        {
+          "text": "Produce an original example.",
+          "segments": [
+            {
+              "text": "Produce an original example.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "pɹədˈuːs ɐn ɚɹˈɪdʒɪnəl ɛɡzˈæmpəl."
+        },
+        {
+          "text": "Complete the section assessment at 85% or higher.",
+          "segments": [
+            {
+              "text": "Complete the section assessment at 85% or higher.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "kəmplˈiːt ðə sˈɛkʃən ɐsˈɛsmənt æɾ ˈeɪɾi fˈaɪv pɚsˈɛnt ɔːɹ hˈaɪɚ."
+        }
+      ]
+    },
+    {
+      "file": "vocab-00.wav",
+      "text": "la opción",
+      "sentences": [
+        {
+          "text": "la opción",
+          "segments": [
+            {
+              "text": "la opción",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "la opsjˈon"
+        }
+      ]
+    },
+    {
+      "file": "vocab-01.wav",
+      "text": "la ventaja",
+      "sentences": [
+        {
+          "text": "la ventaja",
+          "segments": [
+            {
+              "text": "la ventaja",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "la βentˈaxa"
+        }
+      ]
+    },
+    {
+      "file": "vocab-02.wav",
+      "text": "la desventaja",
+      "sentences": [
+        {
+          "text": "la desventaja",
+          "segments": [
+            {
+              "text": "la desventaja",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "la ðˌesβentˈaxa"
+        }
+      ]
+    },
+    {
+      "file": "vocab-03.wav",
+      "text": "el riesgo",
+      "sentences": [
+        {
+          "text": "el riesgo",
+          "segments": [
+            {
+              "text": "el riesgo",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "el riˈesɣo"
+        }
+      ]
+    },
+    {
+      "file": "vocab-04.wav",
+      "text": "convendría",
+      "sentences": [
+        {
+          "text": "convendría",
+          "segments": [
+            {
+              "text": "convendría",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kˌombendɾˈia"
+        }
+      ]
+    },
+    {
+      "file": "vocab-05.wav",
+      "text": "podría",
+      "sentences": [
+        {
+          "text": "podría",
+          "segments": [
+            {
+              "text": "podría",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "poðɾˈia"
+        }
+      ]
+    },
+    {
+      "file": "vocab-06.wav",
+      "text": "debería",
+      "sentences": [
+        {
+          "text": "debería",
+          "segments": [
+            {
+              "text": "debería",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "dˌeβeɾˈia"
+        }
+      ]
+    },
+    {
+      "file": "vocab-07.wav",
+      "text": "en cambio",
+      "sentences": [
+        {
+          "text": "en cambio",
+          "segments": [
+            {
+              "text": "en cambio",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "en kˈambjo"
+        }
+      ]
+    }
+  ]
+}

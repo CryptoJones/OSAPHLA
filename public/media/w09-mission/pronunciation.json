@@ -1,0 +1,435 @@
+{
+  "profile": "e",
+  "utterances": [
+    {
+      "file": "00.wav",
+      "text": "Week 9: Daily Routine and Reflexive Verbs. sequence a routine say what is happening now compare schedules",
+      "sentences": [
+        {
+          "text": "Week 9: Daily Routine and Reflexive Verbs.",
+          "segments": [
+            {
+              "text": "Week 9: Daily Routine and Reflexive Verbs.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wˈiːk nˈaɪn: dˈeɪli ɹuːtˈiːn ænd ɹᵻflˈɛksɪv vˈɜːbz."
+        },
+        {
+          "text": "sequence a routine say what is happening now compare schedules",
+          "segments": [
+            {
+              "text": "sequence a routine say what is happening now compare schedules",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "sˈiːkwəns ɐ ɹuːtˈiːn sˈeɪ wʌt ɪz hˈæpənɪŋ nˈaʊ kəmpˈɛɹ skˈɛdʒuːlz"
+        }
+      ]
+    },
+    {
+      "file": "01.wav",
+      "text": "Mission brief. Narrate a full day and then report an unexpected change happening now.",
+      "sentences": [
+        {
+          "text": "Mission brief.",
+          "segments": [
+            {
+              "text": "Mission brief.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "mˈɪʃən bɹˈiːf."
+        },
+        {
+          "text": "Narrate a full day and then report an unexpected change happening now.",
+          "segments": [
+            {
+              "text": "Narrate a full day and then report an unexpected change happening now.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "nɚɹˈeɪt ɐ fˈʊl dˈeɪ ænd ðˈɛn ɹᵻpˈɔːɹt ɐn ˌʌnɛkspˈɛktᵻd tʃˈeɪndʒ hˈæpənɪŋ nˈaʊ."
+        }
+      ]
+    },
+    {
+      "file": "02.wav",
+      "text": "Preparation. Select ten useful words, three linking expressions, and two repair phrases. Plan points rather than a memorized paragraph.",
+      "sentences": [
+        {
+          "text": "Preparation.",
+          "segments": [
+            {
+              "text": "Preparation.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "pɹˌɛpɚɹˈeɪʃən."
+        },
+        {
+          "text": "Select ten useful words, three linking expressions, and two repair phrases.",
+          "segments": [
+            {
+              "text": "Select ten useful words, three linking expressions, and two repair phrases.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "sᵻlˈɛkt tˈɛn jˈuːsfəl wˈɜːdz, θɹˈiː lˈɪŋkɪŋ ɛkspɹˈɛʃənz, ænd tˈuː ɹᵻpˈɛɹ fɹˈeɪzᵻz."
+        },
+        {
+          "text": "Plan points rather than a memorized paragraph.",
+          "segments": [
+            {
+              "text": "Plan points rather than a memorized paragraph.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "plˈæn pˈɔɪnts ɹˈæðɚ ðˌænə mˈɛmɚɹˌaɪzd pˈæɹəɡɹˌæf."
+        }
+      ]
+    },
+    {
+      "file": "03.wav",
+      "text": "Performance. Complete the task once for fluency, review the evidence, then repeat it for greater clarity and accuracy.",
+      "sentences": [
+        {
+          "text": "Performance.",
+          "segments": [
+            {
+              "text": "Performance.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "pɚfˈɔːɹməns."
+        },
+        {
+          "text": "Complete the task once for fluency, review the evidence, then repeat it for greater clarity and accuracy.",
+          "segments": [
+            {
+              "text": "Complete the task once for fluency, review the evidence, then repeat it for greater clarity and accuracy.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "kəmplˈiːt ðə tˈæsk wˈʌns fɔːɹ flˈuːənsi, ɹᵻvjˈuː ðɪ ˈɛvɪdəns, ðˈɛn ɹᵻpˈiːt ɪt fɔːɹ ɡɹˈeɪɾɚ klˈæɹᵻɾi ænd ˈækjʊɹəsi."
+        }
+      ]
+    },
+    {
+      "file": "04.wav",
+      "text": "After-action review. Record what succeeded, what blocked communication, and the single change that will matter most on the next attempt.",
+      "sentences": [
+        {
+          "text": "After-action review.",
+          "segments": [
+            {
+              "text": "After-action review.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ˈæftɚɹˈækʃən ɹᵻvjˈuː."
+        },
+        {
+          "text": "Record what succeeded, what blocked communication, and the single change that will matter most on the next attempt.",
+          "segments": [
+            {
+              "text": "Record what succeeded, what blocked communication, and the single change that will matter most on the next attempt.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɹˈɛkɚd wʌt səksˈiːdᵻd, wˌʌt blˈɑːkt kəmjˌuːnɪkˈeɪʃən, ænd ðə sˈɪŋɡəl tʃˈeɪndʒ ðæt wɪl mˈæɾɚ mˈoʊst ɔnðə nˈɛkst ɐtˈɛmpt."
+        }
+      ]
+    },
+    {
+      "file": "05.wav",
+      "text": "Model language. Me levanto a las seis y media. — I get up at six thirty. Después de vestirme, preparo el desayuno. — After getting dressed, I prepare breakfast. Ahora estoy esperando el tren. — I am waiting for the train now. Los niños se acuestan temprano. — The children go to bed early. ¿A qué hora te despiertas? — What time do you wake up?",
+      "sentences": [
+        {
+          "text": "Model language.",
+          "segments": [
+            {
+              "text": "Model language.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
+        },
+        {
+          "text": "Me levanto a las seis y media.",
+          "segments": [
+            {
+              "text": "Me levanto a las seis y media.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "me leβˈanto a las sˈeɪs i mˈeðja."
+        },
+        {
+          "text": "— I get up at six thirty.",
+          "segments": [
+            {
+              "text": "— I get up at six thirty.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— aɪ ɡɛt ˌʌp æt sˈɪks θˈɜːɾi."
+        },
+        {
+          "text": "Después de vestirme, preparo el desayuno.",
+          "segments": [
+            {
+              "text": "Después de vestirme, preparo el desayuno.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "despwˈes ðe βestˈiɾme, pɾepˈaɾo el ðˌesaʝˈuno."
+        },
+        {
+          "text": "— After getting dressed, I prepare breakfast.",
+          "segments": [
+            {
+              "text": "— After getting dressed, I prepare breakfast.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— ˈæftɚ ɡˌɛɾɪŋ dɹˈɛst, aɪ pɹɪpˈɛɹ bɹˈɛkfəst."
+        },
+        {
+          "text": "Ahora estoy esperando el tren.",
+          "segments": [
+            {
+              "text": "Ahora estoy esperando el tren.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "aˈoɾa estˈoɪ ˌespeɾˈando el tɾˈen."
+        },
+        {
+          "text": "— I am waiting for the train now.",
+          "segments": [
+            {
+              "text": "— I am waiting for the train now.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— aɪɐm wˈeɪɾɪŋ fɚðə tɹˈeɪn nˈaʊ."
+        },
+        {
+          "text": "Los niños se acuestan temprano.",
+          "segments": [
+            {
+              "text": "Los niños se acuestan temprano.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "los nˈiɲos se akwˈestan tempɾˈano."
+        },
+        {
+          "text": "— The children go to bed early.",
+          "segments": [
+            {
+              "text": "— The children go to bed early.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— ðə tʃˈɪldɹən ɡˌoʊ tə bˈɛd ˈɜːli."
+        },
+        {
+          "text": "¿A qué hora te despiertas?",
+          "segments": [
+            {
+              "text": "¿A qué hora te despiertas?",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "a kˈe ˈoɾa te ðespjˈeɾtas?"
+        },
+        {
+          "text": "— What time do you wake up?",
+          "segments": [
+            {
+              "text": "— What time do you wake up?",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— wˌʌt tˈaɪm dˈuː juː wˈeɪk ˈʌp?"
+        }
+      ]
+    },
+    {
+      "file": "06.wav",
+      "text": "Check your readiness. Explain the core idea. Produce an original example. Complete the section assessment at 85% or higher.",
+      "sentences": [
+        {
+          "text": "Check your readiness.",
+          "segments": [
+            {
+              "text": "Check your readiness.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tʃˈɛk jʊɹ ɹˈɛdinəs."
+        },
+        {
+          "text": "Explain the core idea.",
+          "segments": [
+            {
+              "text": "Explain the core idea.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɛksplˈeɪn ðə kˈɔːɹ aɪdˈiə."
+        },
+        {
+          "text": "Produce an original example.",
+          "segments": [
+            {
+              "text": "Produce an original example.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "pɹədˈuːs ɐn ɚɹˈɪdʒɪnəl ɛɡzˈæmpəl."
+        },
+        {
+          "text": "Complete the section assessment at 85% or higher.",
+          "segments": [
+            {
+              "text": "Complete the section assessment at 85% or higher.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "kəmplˈiːt ðə sˈɛkʃən ɐsˈɛsmənt æɾ ˈeɪɾi fˈaɪv pɚsˈɛnt ɔːɹ hˈaɪɚ."
+        }
+      ]
+    },
+    {
+      "file": "vocab-00.wav",
+      "text": "despertarse",
+      "sentences": [
+        {
+          "text": "despertarse",
+          "segments": [
+            {
+              "text": "despertarse",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "dˌespeɾtˈaɾse"
+        }
+      ]
+    },
+    {
+      "file": "vocab-01.wav",
+      "text": "levantarse",
+      "sentences": [
+        {
+          "text": "levantarse",
+          "segments": [
+            {
+              "text": "levantarse",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "lˌeβantˈaɾse"
+        }
+      ]
+    },
+    {
+      "file": "vocab-02.wav",
+      "text": "ducharse",
+      "sentences": [
+        {
+          "text": "ducharse",
+          "segments": [
+            {
+              "text": "ducharse",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "dutʃˈaɾse"
+        }
+      ]
+    },
+    {
+      "file": "vocab-03.wav",
+      "text": "vestirse",
+      "sentences": [
+        {
+          "text": "vestirse",
+          "segments": [
+            {
+              "text": "vestirse",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "bestˈiɾse"
+        }
+      ]
+    },
+    {
+      "file": "vocab-04.wav",
+      "text": "acostarse",
+      "sentences": [
+        {
+          "text": "acostarse",
+          "segments": [
+            {
+              "text": "acostarse",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˌakostˈaɾse"
+        }
+      ]
+    },
+    {
+      "file": "vocab-05.wav",
+      "text": "temprano",
+      "sentences": [
+        {
+          "text": "temprano",
+          "segments": [
+            {
+              "text": "temprano",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "tempɾˈano"
+        }
+      ]
+    },
+    {
+      "file": "vocab-06.wav",
+      "text": "tarde",
+      "sentences": [
+        {
+          "text": "tarde",
+          "segments": [
+            {
+              "text": "tarde",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "tˈaɾðe"
+        }
+      ]
+    },
+    {
+      "file": "vocab-07.wav",
+      "text": "ahora",
+      "sentences": [
+        {
+          "text": "ahora",
+          "segments": [
+            {
+              "text": "ahora",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "aˈoɾa"
+        }
+      ]
+    }
+  ]
+}

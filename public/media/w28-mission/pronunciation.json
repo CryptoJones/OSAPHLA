@@ -1,0 +1,435 @@
+{
+  "profile": "e",
+  "utterances": [
+    {
+      "file": "00.wav",
+      "text": "Week 28: Subjunctive: Doubt, Purpose, and Contingency. qualify certainty state purpose and conditions plan for contingencies",
+      "sentences": [
+        {
+          "text": "Week 28: Subjunctive: Doubt, Purpose, and Contingency.",
+          "segments": [
+            {
+              "text": "Week 28: Subjunctive: Doubt, Purpose, and Contingency.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wˈiːk twˈɛnti ˈeɪt: sˈʌbdʒəŋktˌɪv: dˈaʊt, pˈɜːpəs, ænd kəntˈɪndʒənsi."
+        },
+        {
+          "text": "qualify certainty state purpose and conditions plan for contingencies",
+          "segments": [
+            {
+              "text": "qualify certainty state purpose and conditions plan for contingencies",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "kwˈɔlᵻfˌaɪ sˈɜːtənti stˈeɪt pˈɜːpəs ænd kəndˈɪʃənz plˈæn fɔːɹ kəntˈɪndʒənsiz"
+        }
+      ]
+    },
+    {
+      "file": "01.wav",
+      "text": "Mission brief. Assess an uncertain report and propose a plan with purpose, deadline, and fallback conditions.",
+      "sentences": [
+        {
+          "text": "Mission brief.",
+          "segments": [
+            {
+              "text": "Mission brief.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "mˈɪʃən bɹˈiːf."
+        },
+        {
+          "text": "Assess an uncertain report and propose a plan with purpose, deadline, and fallback conditions.",
+          "segments": [
+            {
+              "text": "Assess an uncertain report and propose a plan with purpose, deadline, and fallback conditions.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɐsˈɛs ɐn ʌnsˈɜːʔn ɹᵻpˈɔːɹt ænd pɹəpˈoʊz ɐ plˈæn wɪð pˈɜːpəs, dˈɛdlaɪn, ænd fˈɔːlbæk kəndˈɪʃənz."
+        }
+      ]
+    },
+    {
+      "file": "02.wav",
+      "text": "Preparation. Select ten useful words, three linking expressions, and two repair phrases. Plan points rather than a memorized paragraph.",
+      "sentences": [
+        {
+          "text": "Preparation.",
+          "segments": [
+            {
+              "text": "Preparation.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "pɹˌɛpɚɹˈeɪʃən."
+        },
+        {
+          "text": "Select ten useful words, three linking expressions, and two repair phrases.",
+          "segments": [
+            {
+              "text": "Select ten useful words, three linking expressions, and two repair phrases.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "sᵻlˈɛkt tˈɛn jˈuːsfəl wˈɜːdz, θɹˈiː lˈɪŋkɪŋ ɛkspɹˈɛʃənz, ænd tˈuː ɹᵻpˈɛɹ fɹˈeɪzᵻz."
+        },
+        {
+          "text": "Plan points rather than a memorized paragraph.",
+          "segments": [
+            {
+              "text": "Plan points rather than a memorized paragraph.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "plˈæn pˈɔɪnts ɹˈæðɚ ðˌænə mˈɛmɚɹˌaɪzd pˈæɹəɡɹˌæf."
+        }
+      ]
+    },
+    {
+      "file": "03.wav",
+      "text": "Performance. Complete the task once for fluency, review the evidence, then repeat it for greater clarity and accuracy.",
+      "sentences": [
+        {
+          "text": "Performance.",
+          "segments": [
+            {
+              "text": "Performance.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "pɚfˈɔːɹməns."
+        },
+        {
+          "text": "Complete the task once for fluency, review the evidence, then repeat it for greater clarity and accuracy.",
+          "segments": [
+            {
+              "text": "Complete the task once for fluency, review the evidence, then repeat it for greater clarity and accuracy.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "kəmplˈiːt ðə tˈæsk wˈʌns fɔːɹ flˈuːənsi, ɹᵻvjˈuː ðɪ ˈɛvɪdəns, ðˈɛn ɹᵻpˈiːt ɪt fɔːɹ ɡɹˈeɪɾɚ klˈæɹᵻɾi ænd ˈækjʊɹəsi."
+        }
+      ]
+    },
+    {
+      "file": "04.wav",
+      "text": "After-action review. Record what succeeded, what blocked communication, and the single change that will matter most on the next attempt.",
+      "sentences": [
+        {
+          "text": "After-action review.",
+          "segments": [
+            {
+              "text": "After-action review.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ˈæftɚɹˈækʃən ɹᵻvjˈuː."
+        },
+        {
+          "text": "Record what succeeded, what blocked communication, and the single change that will matter most on the next attempt.",
+          "segments": [
+            {
+              "text": "Record what succeeded, what blocked communication, and the single change that will matter most on the next attempt.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɹˈɛkɚd wʌt səksˈiːdᵻd, wˌʌt blˈɑːkt kəmjˌuːnɪkˈeɪʃən, ænd ðə sˈɪŋɡəl tʃˈeɪndʒ ðæt wɪl mˈæɾɚ mˈoʊst ɔnðə nˈɛkst ɐtˈɛmpt."
+        }
+      ]
+    },
+    {
+      "file": "05.wav",
+      "text": "Model language. Dudo que la cifra sea correcta. — I doubt that the figure is correct. Es probable que llueva esta noche. — It will probably rain tonight. Salimos temprano para que haya tiempo suficiente. — We are leaving early so that there is enough time. No firmaremos a menos que cambien la cláusula. — We will not sign unless they change the clause. Llámame en cuanto llegues. — Call me as soon as you arrive.",
+      "sentences": [
+        {
+          "text": "Model language.",
+          "segments": [
+            {
+              "text": "Model language.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
+        },
+        {
+          "text": "Dudo que la cifra sea correcta.",
+          "segments": [
+            {
+              "text": "Dudo que la cifra sea correcta.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "dˈuðo ke la sˈifɾa sˈea korˈekta."
+        },
+        {
+          "text": "— I doubt that the figure is correct.",
+          "segments": [
+            {
+              "text": "— I doubt that the figure is correct.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— aɪ dˈaʊt ðætðə fˈɪɡjɚɹ ɪz kɚɹˈɛkt."
+        },
+        {
+          "text": "Es probable que llueva esta noche.",
+          "segments": [
+            {
+              "text": "Es probable que llueva esta noche.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˈes pɾoβˈaβle ke ʝuˈeβa ˈesta nˈotʃe."
+        },
+        {
+          "text": "— It will probably rain tonight.",
+          "segments": [
+            {
+              "text": "— It will probably rain tonight.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— ɪt wɪl pɹˈɑːbəbli ɹˈeɪn tənˈaɪt."
+        },
+        {
+          "text": "Salimos temprano para que haya tiempo suficiente.",
+          "segments": [
+            {
+              "text": "Salimos temprano para que haya tiempo suficiente.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "salˈimos tempɾˈano pˌaɾa ke ˈaʝa tjˈempo sˌufisjˈɛnte."
+        },
+        {
+          "text": "— We are leaving early so that there is enough time.",
+          "segments": [
+            {
+              "text": "— We are leaving early so that there is enough time.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— wiː ɑːɹ lˈiːvɪŋ ˈɜːli sˌoʊ ðæt ðɛɹ ɪz ɪnˈʌf tˈaɪm."
+        },
+        {
+          "text": "No firmaremos a menos que cambien la cláusula.",
+          "segments": [
+            {
+              "text": "No firmaremos a menos que cambien la cláusula.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "nˈo fˌiɾmaɾˈemos a mˈenos ke kˈambjen la klˈausˌula."
+        },
+        {
+          "text": "— We will not sign unless they change the clause.",
+          "segments": [
+            {
+              "text": "— We will not sign unless they change the clause.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— wiː wɪl nˌɑːt sˈaɪn ʌnlˈɛs ðeɪ tʃˈeɪndʒ ðə klˈɔːz."
+        },
+        {
+          "text": "Llámame en cuanto llegues.",
+          "segments": [
+            {
+              "text": "Llámame en cuanto llegues.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ʝˈamame en kwˌanto ʝˈeɣes."
+        },
+        {
+          "text": "— Call me as soon as you arrive.",
+          "segments": [
+            {
+              "text": "— Call me as soon as you arrive.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— kˈɔːl mˌiː æz sˈuːn æz juː ɚɹˈaɪv."
+        }
+      ]
+    },
+    {
+      "file": "06.wav",
+      "text": "Check your readiness. Explain the core idea. Produce an original example. Complete the section assessment at 85% or higher.",
+      "sentences": [
+        {
+          "text": "Check your readiness.",
+          "segments": [
+            {
+              "text": "Check your readiness.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tʃˈɛk jʊɹ ɹˈɛdinəs."
+        },
+        {
+          "text": "Explain the core idea.",
+          "segments": [
+            {
+              "text": "Explain the core idea.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɛksplˈeɪn ðə kˈɔːɹ aɪdˈiə."
+        },
+        {
+          "text": "Produce an original example.",
+          "segments": [
+            {
+              "text": "Produce an original example.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "pɹədˈuːs ɐn ɚɹˈɪdʒɪnəl ɛɡzˈæmpəl."
+        },
+        {
+          "text": "Complete the section assessment at 85% or higher.",
+          "segments": [
+            {
+              "text": "Complete the section assessment at 85% or higher.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "kəmplˈiːt ðə sˈɛkʃən ɐsˈɛsmənt æɾ ˈeɪɾi fˈaɪv pɚsˈɛnt ɔːɹ hˈaɪɚ."
+        }
+      ]
+    },
+    {
+      "file": "vocab-00.wav",
+      "text": "dudar",
+      "sentences": [
+        {
+          "text": "dudar",
+          "segments": [
+            {
+              "text": "dudar",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "duðˈaɾ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-01.wav",
+      "text": "negar",
+      "sentences": [
+        {
+          "text": "negar",
+          "segments": [
+            {
+              "text": "negar",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "neɣˈaɾ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-02.wav",
+      "text": "es posible",
+      "sentences": [
+        {
+          "text": "es posible",
+          "segments": [
+            {
+              "text": "es posible",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˈes posˈiβle"
+        }
+      ]
+    },
+    {
+      "file": "vocab-03.wav",
+      "text": "es probable",
+      "sentences": [
+        {
+          "text": "es probable",
+          "segments": [
+            {
+              "text": "es probable",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˈes pɾoβˈaβle"
+        }
+      ]
+    },
+    {
+      "file": "vocab-04.wav",
+      "text": "para que",
+      "sentences": [
+        {
+          "text": "para que",
+          "segments": [
+            {
+              "text": "para que",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "pˌaɾa kˈe"
+        }
+      ]
+    },
+    {
+      "file": "vocab-05.wav",
+      "text": "a menos que",
+      "sentences": [
+        {
+          "text": "a menos que",
+          "segments": [
+            {
+              "text": "a menos que",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "a mˈenos kˈe"
+        }
+      ]
+    },
+    {
+      "file": "vocab-06.wav",
+      "text": "antes de que",
+      "sentences": [
+        {
+          "text": "antes de que",
+          "segments": [
+            {
+              "text": "antes de que",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˈantes ðe kˈe"
+        }
+      ]
+    },
+    {
+      "file": "vocab-07.wav",
+      "text": "en cuanto",
+      "sentences": [
+        {
+          "text": "en cuanto",
+          "segments": [
+            {
+              "text": "en cuanto",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "en kwˈanto"
+        }
+      ]
+    }
+  ]
+}

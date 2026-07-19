@@ -1,0 +1,12 @@
+{
+  "pipelineVersion": 3,
+  "profile": "y3",
+  "label": "Younger Dora Y3",
+  "assignment": "balanced-seeded-v1",
+  "languageRouting": "phoneme-level es-419/en-us code-switching",
+  "sourceRate": 24000,
+  "deliveryRate": 48000,
+  "codec": "AAC 192 kbps stereo",
+  "adaptiveSlideAudio": "MP3 192 kbps stereo",
+  "vocabularyAudio": "MP3 192 kbps stereo"
+}

@@ -1,0 +1,677 @@
+{
+  "profile": "y3",
+  "utterances": [
+    {
+      "file": "00.wav",
+      "text": "Week 8: Family, Description, and Possession. describe people and relationships express possession identify a person precisely",
+      "sentences": [
+        {
+          "text": "Week 8: Family, Description, and Possession.",
+          "segments": [
+            {
+              "text": "Week 8: Family, Description, and Possession.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wˈiːk ˈeɪt: fˈæmɪli, dᵻskɹˈɪpʃən, ænd pəzˈɛʃən."
+        },
+        {
+          "text": "describe people and relationships express possession identify a person precisely",
+          "segments": [
+            {
+              "text": "describe people and relationships express possession identify a person precisely",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "dᵻskɹˈaɪb pˈiːpəl ænd ɹᵻlˈeɪʃənʃˌɪps ɛkspɹˈɛs pəzˈɛʃən aɪdˈɛntᵻfˌaɪ ɐ pˈɜːsən pɹɪsˈaɪsli"
+        }
+      ]
+    },
+    {
+      "file": "01.wav",
+      "text": "Form and meaning. Adjective agreement and position; possessive adjectives and pronouns; tener; personal a.",
+      "sentences": [
+        {
+          "text": "Form and meaning.",
+          "segments": [
+            {
+              "text": "Form and meaning.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "fˈɔːɹm ænd mˈiːnɪŋ."
+        },
+        {
+          "text": "Adjective agreement and position; possessive adjectives and pronouns; tener; personal a.",
+          "segments": [
+            {
+              "text": "Adjective agreement and position; possessive adjectives and pronouns; ",
+              "lang": "en-us"
+            },
+            {
+              "text": "tener",
+              "lang": "es-419"
+            },
+            {
+              "text": "; personal a.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ˈædʒɪktˌɪv ɐɡɹˈiːmənt ænd pəzˈɪʃən; pəzˈɛsɪv ˈædʒɪktˌɪvz ænd pɹˈoʊnaʊnz; tenˈeɾ ; pˈɜːsənəl ˈeɪ."
+        }
+      ]
+    },
+    {
+      "file": "02.wav",
+      "text": "Model set. Mi hermana mayor es muy amable. Conozco a los padres de Elena. Nuestra familia vive en tres ciudades. ¿Es suyo este retrato? Tengo dos hermanos y una prima. My older sister is very kind. I know Elena's parents. Our family lives in three cities. Is this portrait yours? I have two brothers and one female cousin.",
+      "sentences": [
+        {
+          "text": "Model set.",
+          "segments": [
+            {
+              "text": "Model set.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "mˈɑːdəl sˈɛt."
+        },
+        {
+          "text": "Mi hermana mayor es muy amable.",
+          "segments": [
+            {
+              "text": "Mi hermana mayor es muy amable.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "mi eɾmˈana maʝˈoɾ ˈes mˈuj amˈaβle."
+        },
+        {
+          "text": "Conozco a los padres de Elena.",
+          "segments": [
+            {
+              "text": "Conozco a los padres de Elena.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "konˈosko a los pˈaðɾes ðe elˈena."
+        },
+        {
+          "text": "Nuestra familia vive en tres ciudades.",
+          "segments": [
+            {
+              "text": "Nuestra familia vive en tres ciudades.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "nwˌestɾa famˈilja βˈiβe en tɾˈes sjuðˈaðes."
+        },
+        {
+          "text": "¿Es suyo este retrato?",
+          "segments": [
+            {
+              "text": "¿Es suyo este retrato?",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˈes sˈuʝo ˈeste retɾˈato?"
+        },
+        {
+          "text": "Tengo dos hermanos y una prima.",
+          "segments": [
+            {
+              "text": "Tengo dos hermanos y una prima.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "tˈɛŋɡo ðˈos eɾmˈanos i ˈuna pɾˈima."
+        },
+        {
+          "text": "My older sister is very kind.",
+          "segments": [
+            {
+              "text": "My older sister is very kind.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "maɪ ˈoʊldɚ sˈɪstɚɹ ɪz vˈɛɹi kˈaɪnd."
+        },
+        {
+          "text": "I know Elena's parents.",
+          "segments": [
+            {
+              "text": "I know Elena's parents.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "aɪ nˈoʊ ᵻlˈiːnəz pˈɛɹənts."
+        },
+        {
+          "text": "Our family lives in three cities.",
+          "segments": [
+            {
+              "text": "Our family lives in three cities.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ˌaʊɚ fˈæmɪli lˈaɪvz ɪn θɹˈiː sˈɪɾiz."
+        },
+        {
+          "text": "Is this portrait yours?",
+          "segments": [
+            {
+              "text": "Is this portrait yours?",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɪz ðɪs pˈɔːɹtɹɪt jˈɔːɹz?"
+        },
+        {
+          "text": "I have two brothers and one female cousin.",
+          "segments": [
+            {
+              "text": "I have two brothers and one female cousin.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "aɪ hæv tˈuː bɹˈʌðɚz ænd wˈʌn fˈiːmeɪl kˈʌzən."
+        }
+      ]
+    },
+    {
+      "file": "03.wav",
+      "text": "Contrastive practice. Change the person, time, number, or level of formality in each model. Preserve the communicative purpose while the grammar changes.",
+      "sentences": [
+        {
+          "text": "Contrastive practice.",
+          "segments": [
+            {
+              "text": "Contrastive practice.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "kˈɑːntɹɐstˌɪv pɹˈæktɪs."
+        },
+        {
+          "text": "Change the person, time, number, or level of formality in each model.",
+          "segments": [
+            {
+              "text": "Change the person, time, number, or level of formality in each model.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tʃˈeɪndʒ ðə pˈɜːsən, tˈaɪm, nˈʌmbɚ, ɔːɹ lˈɛvəl ʌv fɔːɹmˈælᵻɾi ɪn ˈiːtʃ mˈɑːdəl."
+        },
+        {
+          "text": "Preserve the communicative purpose while the grammar changes.",
+          "segments": [
+            {
+              "text": "Preserve the communicative purpose while the grammar changes.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "pɹɪzˈɜːv ðə kəmjˈuːnɪkətˌɪv pˈɜːpəs wˌaɪl ðə ɡɹˈæmɚ tʃˈeɪndʒᵻz."
+        }
+      ]
+    },
+    {
+      "file": "04.wav",
+      "text": "Production check. Say one original sentence for each function: describe people and relationships; express possession; identify a person precisely. Then write it and compare the spoken and written forms.",
+      "sentences": [
+        {
+          "text": "Production check.",
+          "segments": [
+            {
+              "text": "Production check.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "pɹədˈʌkʃən tʃˈɛk."
+        },
+        {
+          "text": "Say one original sentence for each function: describe people and relationships; express possession; identify a person precisely.",
+          "segments": [
+            {
+              "text": "Say one original sentence for each function: describe people and relationships; express possession; identify a person precisely.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "sˈeɪ wˈʌn ɚɹˈɪdʒɪnəl sˈɛntəns fɔːɹ ˈiːtʃ fˈʌŋkʃən: dᵻskɹˈaɪb pˈiːpəl ænd ɹᵻlˈeɪʃənʃˌɪps; ɛkspɹˈɛs pəzˈɛʃən; aɪdˈɛntᵻfˌaɪ ɐ pˈɜːsən pɹɪsˈaɪsli."
+        },
+        {
+          "text": "Then write it and compare the spoken and written forms.",
+          "segments": [
+            {
+              "text": "Then write it and compare the spoken and written forms.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðˈɛn ɹˈaɪt ɪt ænd kəmpˈɛɹ ðə spˈoʊkən ænd ɹˈɪʔn fˈɔːɹmz."
+        }
+      ]
+    },
+    {
+      "file": "05.wav",
+      "text": "Adjectives agree. A variable adjective matches the noun in gender and number: un amigo alto, una amiga alta, unos amigos altos, unas amigas altas. The noun controls the form of the adjective.",
+      "sentences": [
+        {
+          "text": "Adjectives agree.",
+          "segments": [
+            {
+              "text": "Adjectives agree.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ˈædʒɪktˌɪvz ɐɡɹˈiː."
+        },
+        {
+          "text": "A variable adjective matches the noun in gender and number: un amigo alto, una amiga alta, unos amigos altos, unas amigas altas.",
+          "segments": [
+            {
+              "text": "A variable adjective matches the noun in gender and number: un amigo alto, una amiga alta, unos amigos altos, unas amigas altas.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɐ vˈɛɹɪəbəl ˈædʒɪktˌɪv mˈætʃᵻz ðə nˈaʊn ɪn dʒˈɛndɚ ænd nˈʌmbɚ: ˈʌn ɐmˈiːɡoʊ ˈæltoʊ, jˈuːnə ɐmˈiːɡə ˈɔːltə, ˈuːnoʊz ɐmˈiːɡoʊz ˈæltoʊz, jˈuːnəz ɐmˈiːɡəz ˈɔːltəz."
+        },
+        {
+          "text": "The noun controls the form of the adjective.",
+          "segments": [
+            {
+              "text": "The noun controls the form of the adjective.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðə nˈaʊn kəntɹˈoʊlz ðə fˈɔːɹm ʌvðɪ ˈædʒɪktˌɪv."
+        }
+      ]
+    },
+    {
+      "file": "06.wav",
+      "text": "Not every adjective changes for gender. Adjectives ending in -e or many consonants commonly keep one singular form: un amigo amable and una amiga amable. They still change for plural number: amigos amables, amigas amables.",
+      "sentences": [
+        {
+          "text": "Not every adjective changes for gender.",
+          "segments": [
+            {
+              "text": "Not every adjective changes for gender.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "nˌɑːt ˈɛvɹi ˈædʒɪktˌɪv tʃˈeɪndʒᵻz fɔːɹ dʒˈɛndɚ."
+        },
+        {
+          "text": "Adjectives ending in -e or many consonants commonly keep one singular form: un amigo amable and una amiga amable.",
+          "segments": [
+            {
+              "text": "Adjectives ending in -e or many consonants commonly keep one singular form: un amigo ",
+              "lang": "en-us"
+            },
+            {
+              "text": "amable",
+              "lang": "es-419"
+            },
+            {
+              "text": " and una amiga ",
+              "lang": "en-us"
+            },
+            {
+              "text": "amable",
+              "lang": "es-419"
+            },
+            {
+              "text": ".",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ˈædʒɪktˌɪvz ˈɛndɪŋ ɪn ˈiː ɔːɹ mˈɛni kˈɑːnsənənts kˈɑːmənli kˈiːp wˈʌn sˈɪŋɡjʊlɚ fˈɔːɹm: ˈʌn ɐmˈiːɡoʊ amˈaβle ænd jˈuːnə ɐmˈiːɡə amˈaβle ."
+        },
+        {
+          "text": "They still change for plural number: amigos amables, amigas amables.",
+          "segments": [
+            {
+              "text": "They still change for plural number: amigos amables, amigas amables.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðeɪ stˈɪl tʃˈeɪndʒ fɔːɹ plˈʊɹɹəl nˈʌmbɚ: ɐmˈiːɡoʊz ˈeɪməbəlz, ɐmˈiːɡəz ˈeɪməbəlz."
+        }
+      ]
+    },
+    {
+      "file": "07.wav",
+      "text": "Position affects emphasis. Descriptive adjectives usually follow the noun. Some common adjectives can appear before it, sometimes with a change in emphasis or form. First secure agreement; then learn position as part of each expression.",
+      "sentences": [
+        {
+          "text": "Position affects emphasis.",
+          "segments": [
+            {
+              "text": "Position affects emphasis.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "pəzˈɪʃən ɐfˈɛkts ˈɛmfəsɪs."
+        },
+        {
+          "text": "Descriptive adjectives usually follow the noun.",
+          "segments": [
+            {
+              "text": "Descriptive adjectives usually follow the noun.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "dᵻskɹˈɪptɪv ˈædʒɪktˌɪvz jˈuːʒuːəli fˈɑːloʊ ðə nˈaʊn."
+        },
+        {
+          "text": "Some common adjectives can appear before it, sometimes with a change in emphasis or form.",
+          "segments": [
+            {
+              "text": "Some common adjectives can appear before it, sometimes with a change in emphasis or form.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "sˌʌm kˈɑːmən ˈædʒɪktˌɪvz kæn ɐpˈɪɹ bᵻfˈɔːɹ ɪt, sˈʌmtaɪmz wɪð ɐ tʃˈeɪndʒ ɪn ˈɛmfəsɪs ɔːɹ fˈɔːɹm."
+        },
+        {
+          "text": "First secure agreement; then learn position as part of each expression.",
+          "segments": [
+            {
+              "text": "First secure agreement; then learn position as part of each expression.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "fˈɜːst sᵻkjˈʊɹ ɐɡɹˈiːmənt; ðˈɛn lˈɜːn pəzˈɪʃən æz pˈɑːɹt ʌv ˈiːtʃ ɛkspɹˈɛʃən."
+        }
+      ]
+    },
+    {
+      "file": "08.wav",
+      "text": "Model language. Mi hermana mayor es muy amable. — My older sister is very kind. Conozco a los padres de Elena. — I know Elena's parents. Nuestra familia vive en tres ciudades. — Our family lives in three cities. ¿Es suyo este retrato? — Is this portrait yours? Tengo dos hermanos y una prima. — I have two brothers and one female cousin.",
+      "sentences": [
+        {
+          "text": "Model language.",
+          "segments": [
+            {
+              "text": "Model language.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
+        },
+        {
+          "text": "Mi hermana mayor es muy amable.",
+          "segments": [
+            {
+              "text": "Mi hermana mayor es muy amable.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "mi eɾmˈana maʝˈoɾ ˈes mˈuj amˈaβle."
+        },
+        {
+          "text": "— My older sister is very kind.",
+          "segments": [
+            {
+              "text": "— My older sister is very kind.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— maɪ ˈoʊldɚ sˈɪstɚɹ ɪz vˈɛɹi kˈaɪnd."
+        },
+        {
+          "text": "Conozco a los padres de Elena.",
+          "segments": [
+            {
+              "text": "Conozco a los padres de Elena.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "konˈosko a los pˈaðɾes ðe elˈena."
+        },
+        {
+          "text": "— I know Elena's parents.",
+          "segments": [
+            {
+              "text": "— I know Elena's parents.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— aɪ nˈoʊ ᵻlˈiːnəz pˈɛɹənts."
+        },
+        {
+          "text": "Nuestra familia vive en tres ciudades.",
+          "segments": [
+            {
+              "text": "Nuestra familia vive en tres ciudades.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "nwˌestɾa famˈilja βˈiβe en tɾˈes sjuðˈaðes."
+        },
+        {
+          "text": "— Our family lives in three cities.",
+          "segments": [
+            {
+              "text": "— Our family lives in three cities.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— ˌaʊɚ fˈæmɪli lˈaɪvz ɪn θɹˈiː sˈɪɾiz."
+        },
+        {
+          "text": "¿Es suyo este retrato?",
+          "segments": [
+            {
+              "text": "¿Es suyo este retrato?",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˈes sˈuʝo ˈeste retɾˈato?"
+        },
+        {
+          "text": "— Is this portrait yours?",
+          "segments": [
+            {
+              "text": "— Is this portrait yours?",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— ɪz ðɪs pˈɔːɹtɹɪt jˈɔːɹz?"
+        },
+        {
+          "text": "Tengo dos hermanos y una prima.",
+          "segments": [
+            {
+              "text": "Tengo dos hermanos y una prima.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "tˈɛŋɡo ðˈos eɾmˈanos i ˈuna pɾˈima."
+        },
+        {
+          "text": "— I have two brothers and one female cousin.",
+          "segments": [
+            {
+              "text": "— I have two brothers and one female cousin.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— aɪ hæv tˈuː bɹˈʌðɚz ænd wˈʌn fˈiːmeɪl kˈʌzən."
+        }
+      ]
+    },
+    {
+      "file": "09.wav",
+      "text": "Check your readiness. Explain the core idea. Produce an original example. Complete the section assessment at 85% or higher.",
+      "sentences": [
+        {
+          "text": "Check your readiness.",
+          "segments": [
+            {
+              "text": "Check your readiness.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tʃˈɛk jʊɹ ɹˈɛdinəs."
+        },
+        {
+          "text": "Explain the core idea.",
+          "segments": [
+            {
+              "text": "Explain the core idea.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɛksplˈeɪn ðə kˈɔːɹ aɪdˈiə."
+        },
+        {
+          "text": "Produce an original example.",
+          "segments": [
+            {
+              "text": "Produce an original example.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "pɹədˈuːs ɐn ɚɹˈɪdʒɪnəl ɛɡzˈæmpəl."
+        },
+        {
+          "text": "Complete the section assessment at 85% or higher.",
+          "segments": [
+            {
+              "text": "Complete the section assessment at 85% or higher.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "kəmplˈiːt ðə sˈɛkʃən ɐsˈɛsmənt æɾ ˈeɪɾi fˈaɪv pɚsˈɛnt ɔːɹ hˈaɪɚ."
+        }
+      ]
+    },
+    {
+      "file": "vocab-00.wav",
+      "text": "la familia",
+      "sentences": [
+        {
+          "text": "la familia",
+          "segments": [
+            {
+              "text": "la familia",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "la famˈilja"
+        }
+      ]
+    },
+    {
+      "file": "vocab-01.wav",
+      "text": "la madre",
+      "sentences": [
+        {
+          "text": "la madre",
+          "segments": [
+            {
+              "text": "la madre",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "la mˈaðɾe"
+        }
+      ]
+    },
+    {
+      "file": "vocab-02.wav",
+      "text": "el padre",
+      "sentences": [
+        {
+          "text": "el padre",
+          "segments": [
+            {
+              "text": "el padre",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "el pˈaðɾe"
+        }
+      ]
+    },
+    {
+      "file": "vocab-03.wav",
+      "text": "la hermana",
+      "sentences": [
+        {
+          "text": "la hermana",
+          "segments": [
+            {
+              "text": "la hermana",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "la eɾmˈana"
+        }
+      ]
+    },
+    {
+      "file": "vocab-04.wav",
+      "text": "el amigo",
+      "sentences": [
+        {
+          "text": "el amigo",
+          "segments": [
+            {
+              "text": "el amigo",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "el amˈiɣo"
+        }
+      ]
+    },
+    {
+      "file": "vocab-05.wav",
+      "text": "joven",
+      "sentences": [
+        {
+          "text": "joven",
+          "segments": [
+            {
+              "text": "joven",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "xˈoβen"
+        }
+      ]
+    },
+    {
+      "file": "vocab-06.wav",
+      "text": "mayor",
+      "sentences": [
+        {
+          "text": "mayor",
+          "segments": [
+            {
+              "text": "mayor",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "maʝˈoɾ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-07.wav",
+      "text": "amable",
+      "sentences": [
+        {
+          "text": "amable",
+          "segments": [
+            {
+              "text": "amable",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "amˈaβle"
+        }
+      ]
+    }
+  ]
+}

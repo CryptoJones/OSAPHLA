@@ -1,0 +1,435 @@
+{
+  "profile": "dora",
+  "utterances": [
+    {
+      "file": "00.wav",
+      "text": "Week 16: Weather, Nature, and Plans. understand a forecast describe terrain change plans because of conditions",
+      "sentences": [
+        {
+          "text": "Week 16: Weather, Nature, and Plans.",
+          "segments": [
+            {
+              "text": "Week 16: Weather, Nature, and Plans.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wˈiːk sˈɪkstiːn: wˈɛðɚ, nˈeɪtʃɚ, ænd plˈænz."
+        },
+        {
+          "text": "understand a forecast describe terrain change plans because of conditions",
+          "segments": [
+            {
+              "text": "understand a forecast describe terrain change plans because of conditions",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ˌʌndɚstˈænd ɐ fˈɔːɹkæst dᵻskɹˈaɪb tɚɹˈeɪn tʃˈeɪndʒ plˈænz bɪkˈʌz ʌv kəndˈɪʃənz"
+        }
+      ]
+    },
+    {
+      "file": "01.wav",
+      "text": "Mission brief. Brief a group on weather and terrain, then revise the route safely.",
+      "sentences": [
+        {
+          "text": "Mission brief.",
+          "segments": [
+            {
+              "text": "Mission brief.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "mˈɪʃən bɹˈiːf."
+        },
+        {
+          "text": "Brief a group on weather and terrain, then revise the route safely.",
+          "segments": [
+            {
+              "text": "Brief a group on weather and terrain, then revise the route safely.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "bɹˈiːf ɐ ɡɹˈuːp ˌɔn wˈɛðɚ ænd tɚɹˈeɪn, ðˈɛn ɹᵻvˈaɪz ðə ɹˈaʊt sˈeɪfli."
+        }
+      ]
+    },
+    {
+      "file": "02.wav",
+      "text": "Preparation. Select ten useful words, three linking expressions, and two repair phrases. Plan points rather than a memorized paragraph.",
+      "sentences": [
+        {
+          "text": "Preparation.",
+          "segments": [
+            {
+              "text": "Preparation.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "pɹˌɛpɚɹˈeɪʃən."
+        },
+        {
+          "text": "Select ten useful words, three linking expressions, and two repair phrases.",
+          "segments": [
+            {
+              "text": "Select ten useful words, three linking expressions, and two repair phrases.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "sᵻlˈɛkt tˈɛn jˈuːsfəl wˈɜːdz, θɹˈiː lˈɪŋkɪŋ ɛkspɹˈɛʃənz, ænd tˈuː ɹᵻpˈɛɹ fɹˈeɪzᵻz."
+        },
+        {
+          "text": "Plan points rather than a memorized paragraph.",
+          "segments": [
+            {
+              "text": "Plan points rather than a memorized paragraph.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "plˈæn pˈɔɪnts ɹˈæðɚ ðˌænə mˈɛmɚɹˌaɪzd pˈæɹəɡɹˌæf."
+        }
+      ]
+    },
+    {
+      "file": "03.wav",
+      "text": "Performance. Complete the task once for fluency, review the evidence, then repeat it for greater clarity and accuracy.",
+      "sentences": [
+        {
+          "text": "Performance.",
+          "segments": [
+            {
+              "text": "Performance.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "pɚfˈɔːɹməns."
+        },
+        {
+          "text": "Complete the task once for fluency, review the evidence, then repeat it for greater clarity and accuracy.",
+          "segments": [
+            {
+              "text": "Complete the task once for fluency, review the evidence, then repeat it for greater clarity and accuracy.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "kəmplˈiːt ðə tˈæsk wˈʌns fɔːɹ flˈuːənsi, ɹᵻvjˈuː ðɪ ˈɛvɪdəns, ðˈɛn ɹᵻpˈiːt ɪt fɔːɹ ɡɹˈeɪɾɚ klˈæɹᵻɾi ænd ˈækjʊɹəsi."
+        }
+      ]
+    },
+    {
+      "file": "04.wav",
+      "text": "After-action review. Record what succeeded, what blocked communication, and the single change that will matter most on the next attempt.",
+      "sentences": [
+        {
+          "text": "After-action review.",
+          "segments": [
+            {
+              "text": "After-action review.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ˈæftɚɹˈækʃən ɹᵻvjˈuː."
+        },
+        {
+          "text": "Record what succeeded, what blocked communication, and the single change that will matter most on the next attempt.",
+          "segments": [
+            {
+              "text": "Record what succeeded, what blocked communication, and the single change that will matter most on the next attempt.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɹˈɛkɚd wʌt səksˈiːdᵻd, wˌʌt blˈɑːkt kəmjˌuːnɪkˈeɪʃən, ænd ðə sˈɪŋɡəl tʃˈeɪndʒ ðæt wɪl mˈæɾɚ mˈoʊst ɔnðə nˈɛkst ɐtˈɛmpt."
+        }
+      ]
+    },
+    {
+      "file": "05.wav",
+      "text": "Model language. Mañana va a llover en la costa. — It is going to rain on the coast tomorrow. Hace viento en las zonas altas. — It is windy in the highlands. Si cambia el tiempo, regresamos temprano. — If the weather changes, we will return early. Se prohíbe encender fuego en el bosque. — Lighting fires in the forest is prohibited. Estamos protegiendo una fuente de agua. — We are protecting a water source.",
+      "sentences": [
+        {
+          "text": "Model language.",
+          "segments": [
+            {
+              "text": "Model language.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
+        },
+        {
+          "text": "Mañana va a llover en la costa.",
+          "segments": [
+            {
+              "text": "Mañana va a llover en la costa.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "maɲˈana βˈa a ʝoβˈeɾ en la kˈosta."
+        },
+        {
+          "text": "— It is going to rain on the coast tomorrow.",
+          "segments": [
+            {
+              "text": "— It is going to rain on the coast tomorrow.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— ɪɾ ɪz ɡˌoʊɪŋ tə ɹˈeɪn ɔnðə kˈoʊst təmˈɑːɹoʊ."
+        },
+        {
+          "text": "Hace viento en las zonas altas.",
+          "segments": [
+            {
+              "text": "Hace viento en las zonas altas.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˈase βjˈɛnto en las sˈonas ˈaltas."
+        },
+        {
+          "text": "— It is windy in the highlands.",
+          "segments": [
+            {
+              "text": "— It is windy in the highlands.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— ɪɾ ɪz wˈɪndi ɪnðə hˈaɪləndz."
+        },
+        {
+          "text": "Si cambia el tiempo, regresamos temprano.",
+          "segments": [
+            {
+              "text": "Si cambia el tiempo, regresamos temprano.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "si kˈambja el tjˈempo, rˌeɣɾesˈamos tempɾˈano."
+        },
+        {
+          "text": "— If the weather changes, we will return early.",
+          "segments": [
+            {
+              "text": "— If the weather changes, we will return early.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— ɪf ðə wˈɛðɚ tʃˈeɪndʒᵻz, wiː wɪl ɹᵻtˈɜːn ˈɜːli."
+        },
+        {
+          "text": "Se prohíbe encender fuego en el bosque.",
+          "segments": [
+            {
+              "text": "Se prohíbe encender fuego en el bosque.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "se pɾoˈiβe ˌensendˈeɾ fwˈeɣo en el βˈoske."
+        },
+        {
+          "text": "— Lighting fires in the forest is prohibited.",
+          "segments": [
+            {
+              "text": "— Lighting fires in the forest is prohibited.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— lˈaɪɾɪŋ fˈaɪɚz ɪnðə fˈɔːɹɪst ɪz pɹəhˈɪbɪɾᵻd."
+        },
+        {
+          "text": "Estamos protegiendo una fuente de agua.",
+          "segments": [
+            {
+              "text": "Estamos protegiendo una fuente de agua.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "estˈamos pɾˌotexjˈɛndo ˈuna fwˈɛnte ðe ˈaɣwa."
+        },
+        {
+          "text": "— We are protecting a water source.",
+          "segments": [
+            {
+              "text": "— We are protecting a water source.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— wiː ɑːɹ pɹətˈɛktɪŋ ɐ wˈɔːɾɚ sˈɔːɹs."
+        }
+      ]
+    },
+    {
+      "file": "06.wav",
+      "text": "Check your readiness. Explain the core idea. Produce an original example. Complete the section assessment at 85% or higher.",
+      "sentences": [
+        {
+          "text": "Check your readiness.",
+          "segments": [
+            {
+              "text": "Check your readiness.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tʃˈɛk jʊɹ ɹˈɛdinəs."
+        },
+        {
+          "text": "Explain the core idea.",
+          "segments": [
+            {
+              "text": "Explain the core idea.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɛksplˈeɪn ðə kˈɔːɹ aɪdˈiə."
+        },
+        {
+          "text": "Produce an original example.",
+          "segments": [
+            {
+              "text": "Produce an original example.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "pɹədˈuːs ɐn ɚɹˈɪdʒɪnəl ɛɡzˈæmpəl."
+        },
+        {
+          "text": "Complete the section assessment at 85% or higher.",
+          "segments": [
+            {
+              "text": "Complete the section assessment at 85% or higher.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "kəmplˈiːt ðə sˈɛkʃən ɐsˈɛsmənt æɾ ˈeɪɾi fˈaɪv pɚsˈɛnt ɔːɹ hˈaɪɚ."
+        }
+      ]
+    },
+    {
+      "file": "vocab-00.wav",
+      "text": "el tiempo",
+      "sentences": [
+        {
+          "text": "el tiempo",
+          "segments": [
+            {
+              "text": "el tiempo",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "el tjˈempo"
+        }
+      ]
+    },
+    {
+      "file": "vocab-01.wav",
+      "text": "la lluvia",
+      "sentences": [
+        {
+          "text": "la lluvia",
+          "segments": [
+            {
+              "text": "la lluvia",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "la ʝˈuβja"
+        }
+      ]
+    },
+    {
+      "file": "vocab-02.wav",
+      "text": "el viento",
+      "sentences": [
+        {
+          "text": "el viento",
+          "segments": [
+            {
+              "text": "el viento",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "el βjˈɛnto"
+        }
+      ]
+    },
+    {
+      "file": "vocab-03.wav",
+      "text": "la montaña",
+      "sentences": [
+        {
+          "text": "la montaña",
+          "segments": [
+            {
+              "text": "la montaña",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "la montˈaɲa"
+        }
+      ]
+    },
+    {
+      "file": "vocab-04.wav",
+      "text": "el bosque",
+      "sentences": [
+        {
+          "text": "el bosque",
+          "segments": [
+            {
+              "text": "el bosque",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "el βˈoske"
+        }
+      ]
+    },
+    {
+      "file": "vocab-05.wav",
+      "text": "la costa",
+      "sentences": [
+        {
+          "text": "la costa",
+          "segments": [
+            {
+              "text": "la costa",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "la kˈosta"
+        }
+      ]
+    },
+    {
+      "file": "vocab-06.wav",
+      "text": "la sequía",
+      "sentences": [
+        {
+          "text": "la sequía",
+          "segments": [
+            {
+              "text": "la sequía",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "la sekˈia"
+        }
+      ]
+    },
+    {
+      "file": "vocab-07.wav",
+      "text": "proteger",
+      "sentences": [
+        {
+          "text": "proteger",
+          "segments": [
+            {
+              "text": "proteger",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "pɾˌotexˈeɾ"
+        }
+      ]
+    }
+  ]
+}

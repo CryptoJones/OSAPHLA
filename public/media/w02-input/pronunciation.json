@@ -1,0 +1,513 @@
+{
+  "profile": "y1",
+  "utterances": [
+    {
+      "file": "00.wav",
+      "text": "Week 2: Greetings and First Contact. greet and take leave introduce yourself and another person choose tú or usted",
+      "sentences": [
+        {
+          "text": "Week 2: Greetings and First Contact.",
+          "segments": [
+            {
+              "text": "Week 2: Greetings and First Contact.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wˈiːk tˈuː: ɡɹˈiːɾɪŋz ænd fˈɜːst kˈɑːntækt."
+        },
+        {
+          "text": "greet and take leave introduce yourself and another person choose tú or usted",
+          "segments": [
+            {
+              "text": "greet and take leave introduce yourself and another person choose ",
+              "lang": "en-us"
+            },
+            {
+              "text": "tú",
+              "lang": "es-419"
+            },
+            {
+              "text": " or ",
+              "lang": "en-us"
+            },
+            {
+              "text": "usted",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ɡɹˈiːt ænd tˈeɪk lˈiːv ˌɪntɹədˈuːs jɔːɹsˈɛlf ænd ɐnˈʌðɚ pˈɜːsən tʃˈuːz tˈu ɔːɹ ustˈed"
+        }
+      ]
+    },
+    {
+      "file": "01.wav",
+      "text": "Read for the situation. Lucía llega temprano. Saluda al recepcionista con buenos días y usa usted. Después conoce a Mateo, otro estudiante, y los dos usan tú. Lucía arrives early. She greets the receptionist with good morning and uses the formal usted. Later she meets Mateo, another student, and they both use the familiar tú.",
+      "sentences": [
+        {
+          "text": "Read for the situation.",
+          "segments": [
+            {
+              "text": "Read for the situation.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɹˈiːd fɚðə sˌɪtʃuːˈeɪʃən."
+        },
+        {
+          "text": "Lucía llega temprano.",
+          "segments": [
+            {
+              "text": "Lucía llega temprano.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "lusˈia ʝˈeɣa tempɾˈano."
+        },
+        {
+          "text": "Saluda al recepcionista con buenos días y usa usted.",
+          "segments": [
+            {
+              "text": "Saluda al recepcionista con buenos días y usa usted.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "salˈuða al rˌesepsjonˈista kom bwˈenos ðˈias i ˈusa ustˈed."
+        },
+        {
+          "text": "Después conoce a Mateo, otro estudiante, y los dos usan tú.",
+          "segments": [
+            {
+              "text": "Después conoce a Mateo, otro estudiante, y los dos usan tú.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "despwˈes konˈose a matˈeo, ˈotɾo ˌestuðjˈante, i los ðˈos ˈusan tˈu."
+        },
+        {
+          "text": "Lucía arrives early.",
+          "segments": [
+            {
+              "text": "Lucía arrives early.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "lusˈia arˈiβes eˈaɾli."
+        },
+        {
+          "text": "She greets the receptionist with good morning and uses the formal usted.",
+          "segments": [
+            {
+              "text": "She greets the receptionist with good morning and uses the formal ",
+              "lang": "en-us"
+            },
+            {
+              "text": "usted",
+              "lang": "es-419"
+            },
+            {
+              "text": ".",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ʃiː ɡɹˈiːts ðə ɹᵻsˈɛpʃənˌɪst wɪð ɡˈʊd mˈɔːɹnɪŋ ænd jˈuːsᵻz ðə fˈɔːɹməl ustˈed ."
+        },
+        {
+          "text": "Later she meets Mateo, another student, and they both use the familiar tú.",
+          "segments": [
+            {
+              "text": "Later she meets Mateo, another student, and they both use the familiar ",
+              "lang": "en-us"
+            },
+            {
+              "text": "tú",
+              "lang": "es-419"
+            },
+            {
+              "text": ".",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "lˈeɪɾɚ ʃiː mˈiːts mɐtˈeɪoʊ, ɐnˈʌðɚ stˈuːdənt, ænd ðeɪ bˈoʊθ jˈuːs ðə fəmˈɪlɪɹ tˈu ."
+        }
+      ]
+    },
+    {
+      "file": "02.wav",
+      "text": "Read again for evidence. Identify who acts, what changes, when it happens, and which words establish the relationship between events.",
+      "sentences": [
+        {
+          "text": "Read again for evidence.",
+          "segments": [
+            {
+              "text": "Read again for evidence.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɹˈiːd ɐɡˈɛn fɔːɹ ˈɛvɪdəns."
+        },
+        {
+          "text": "Identify who acts, what changes, when it happens, and which words establish the relationship between events.",
+          "segments": [
+            {
+              "text": "Identify who acts, what changes, when it happens, and which words establish the relationship between events.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "aɪdˈɛntᵻfˌaɪ hˌuː ˈækts, wˌʌt tʃˈeɪndʒᵻz, wˌɛn ɪt hˈæpənz, ænd wˌɪtʃ wˈɜːdz ɪstˈæblɪʃ ðə ɹᵻlˈeɪʃənʃˌɪp bᵻtwˌiːn ᵻvˈɛnts."
+        }
+      ]
+    },
+    {
+      "file": "03.wav",
+      "text": "Reading activities. Reading activity 3; Reading activity 4",
+      "sentences": [
+        {
+          "text": "Reading activities.",
+          "segments": [
+            {
+              "text": "Reading activities.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɹˈiːdɪŋ æktˈɪvᵻɾiz."
+        },
+        {
+          "text": "Reading activity 3; Reading activity 4",
+          "segments": [
+            {
+              "text": "Reading activity 3; Reading activity 4",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɹˈiːdɪŋ æktˈɪvᵻɾi θɹˈiː; ɹˈiːdɪŋ æktˈɪvᵻɾi fˈɔːɹ"
+        }
+      ]
+    },
+    {
+      "file": "04.wav",
+      "text": "Retell. Without looking back, give the main idea, three supporting details, and one reasonable inference in Spanish.",
+      "sentences": [
+        {
+          "text": "Retell.",
+          "segments": [
+            {
+              "text": "Retell.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɹᵻtˈɛl."
+        },
+        {
+          "text": "Without looking back, give the main idea, three supporting details, and one reasonable inference in Spanish.",
+          "segments": [
+            {
+              "text": "Without looking back, give the main idea, three supporting details, and one reasonable inference in Spanish.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wɪðˌaʊt lˈʊkɪŋ bˈæk, ɡˈɪv ðə mˈeɪn aɪdˈiə, θɹˈiː səpˈɔːɹɾɪŋ diːtˈeɪlz, ænd wˈʌn ɹˈiːzənəbəl ˈɪnfɚɹəns ɪn spˈænɪʃ."
+        }
+      ]
+    },
+    {
+      "file": "05.wav",
+      "text": "Model language. Hola, me llamo Alex. — Hello, my name is Alex. Mucho gusto, señora Rivera. — Nice to meet you, Mrs. Rivera. ¿Cómo te llamas? — What is your name? Le presento a mi compañera. — Let me introduce you to my classmate. Nos vemos mañana; que tenga buen día. — See you tomorrow; have a good day.",
+      "sentences": [
+        {
+          "text": "Model language.",
+          "segments": [
+            {
+              "text": "Model language.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
+        },
+        {
+          "text": "Hola, me llamo Alex.",
+          "segments": [
+            {
+              "text": "Hola, me llamo Alex.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˈola, me ʝˈamo alˈeks."
+        },
+        {
+          "text": "— Hello, my name is Alex.",
+          "segments": [
+            {
+              "text": "— Hello, my name is Alex.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— həlˈoʊ, maɪ nˈeɪm ɪz ˈælɪks."
+        },
+        {
+          "text": "Mucho gusto, señora Rivera.",
+          "segments": [
+            {
+              "text": "Mucho gusto, señora Rivera.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "mˈutʃo ɣˈusto, seɲˈoɾa riβˈeɾa."
+        },
+        {
+          "text": "— Nice to meet you, Mrs.",
+          "segments": [
+            {
+              "text": "— Nice to meet you, Mrs.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— nˈaɪs tə mˈiːt juː, mˈɪsɪz."
+        },
+        {
+          "text": "Rivera.",
+          "segments": [
+            {
+              "text": "Rivera.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɹɪvˈɛɹə."
+        },
+        {
+          "text": "¿Cómo te llamas?",
+          "segments": [
+            {
+              "text": "¿Cómo te llamas?",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kˈomo te ʝˈamas?"
+        },
+        {
+          "text": "— What is your name?",
+          "segments": [
+            {
+              "text": "— What is your name?",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— wˌʌt ɪz jʊɹ nˈeɪm?"
+        },
+        {
+          "text": "Le presento a mi compañera.",
+          "segments": [
+            {
+              "text": "Le presento a mi compañera.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "le pɾesˈɛnto a mi kˌompaɲˈeɾa."
+        },
+        {
+          "text": "— Let me introduce you to my classmate.",
+          "segments": [
+            {
+              "text": "— Let me introduce you to my classmate.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— lˈɛt mˌiː ˌɪntɹədˈuːs juː tə maɪ klˈæsmeɪt."
+        },
+        {
+          "text": "Nos vemos mañana; que tenga buen día.",
+          "segments": [
+            {
+              "text": "Nos vemos mañana; que tenga buen día.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "nos βˈemos maɲˈana; ke tˈɛŋɡa βwˈen dˈia."
+        },
+        {
+          "text": "— See you tomorrow; have a good day.",
+          "segments": [
+            {
+              "text": "— See you tomorrow; have a good day.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— sˈiː juː təmˈɑːɹoʊ; hæv ɐ ɡˈʊd dˈeɪ."
+        }
+      ]
+    },
+    {
+      "file": "06.wav",
+      "text": "Check your readiness. Explain the core idea. Produce an original example. Complete the section assessment at 85% or higher.",
+      "sentences": [
+        {
+          "text": "Check your readiness.",
+          "segments": [
+            {
+              "text": "Check your readiness.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tʃˈɛk jʊɹ ɹˈɛdinəs."
+        },
+        {
+          "text": "Explain the core idea.",
+          "segments": [
+            {
+              "text": "Explain the core idea.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɛksplˈeɪn ðə kˈɔːɹ aɪdˈiə."
+        },
+        {
+          "text": "Produce an original example.",
+          "segments": [
+            {
+              "text": "Produce an original example.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "pɹədˈuːs ɐn ɚɹˈɪdʒɪnəl ɛɡzˈæmpəl."
+        },
+        {
+          "text": "Complete the section assessment at 85% or higher.",
+          "segments": [
+            {
+              "text": "Complete the section assessment at 85% or higher.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "kəmplˈiːt ðə sˈɛkʃən ɐsˈɛsmənt æɾ ˈeɪɾi fˈaɪv pɚsˈɛnt ɔːɹ hˈaɪɚ."
+        }
+      ]
+    },
+    {
+      "file": "vocab-00.wav",
+      "text": "hola",
+      "sentences": [
+        {
+          "text": "hola",
+          "segments": [
+            {
+              "text": "hola",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˈola"
+        }
+      ]
+    },
+    {
+      "file": "vocab-01.wav",
+      "text": "buenos días",
+      "sentences": [
+        {
+          "text": "buenos días",
+          "segments": [
+            {
+              "text": "buenos días",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "bwˈenos ðˈias"
+        }
+      ]
+    },
+    {
+      "file": "vocab-02.wav",
+      "text": "buenas tardes",
+      "sentences": [
+        {
+          "text": "buenas tardes",
+          "segments": [
+            {
+              "text": "buenas tardes",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "bwˈenas tˈaɾðes"
+        }
+      ]
+    },
+    {
+      "file": "vocab-03.wav",
+      "text": "adiós",
+      "sentences": [
+        {
+          "text": "adiós",
+          "segments": [
+            {
+              "text": "adiós",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "aðjˈos"
+        }
+      ]
+    },
+    {
+      "file": "vocab-04.wav",
+      "text": "por favor",
+      "sentences": [
+        {
+          "text": "por favor",
+          "segments": [
+            {
+              "text": "por favor",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "poɾ faβˈoɾ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-05.wav",
+      "text": "gracias",
+      "sentences": [
+        {
+          "text": "gracias",
+          "segments": [
+            {
+              "text": "gracias",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ɡɾˈasjas"
+        }
+      ]
+    },
+    {
+      "file": "vocab-06.wav",
+      "text": "mucho gusto",
+      "sentences": [
+        {
+          "text": "mucho gusto",
+          "segments": [
+            {
+              "text": "mucho gusto",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "mˈutʃo ɣˈusto"
+        }
+      ]
+    },
+    {
+      "file": "vocab-07.wav",
+      "text": "¿cómo se llama?",
+      "sentences": [
+        {
+          "text": "¿cómo se llama?",
+          "segments": [
+            {
+              "text": "¿cómo se llama?",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kˈomo se ʝˈama?"
+        }
+      ]
+    }
+  ]
+}

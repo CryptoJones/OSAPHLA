@@ -37,3 +37,14 @@ test("reading activities open complete course passages", async ({ page }) => {
   await expect(page.getByText(/English meaning: Ana opens her notebook/)).toBeVisible();
   await expect(page.getByRole("link", { name: "Open assigned lesson" })).toHaveAttribute("href", "/lesson/w01-input");
 });
+
+test("assigned reading links open the exact activity from a lesson", async ({ page }) => {
+  await page.goto("/");
+  await page.getByRole("button", { name: "Use these settings and enter the academy" }).click();
+  await page.goto("/lesson/w01-input");
+  const assignment = page.getByRole("link", { name: "Reading activity 1 Main idea" });
+  await expect(assignment).toHaveAttribute("href", "/readers?activity=reading-01");
+  await assignment.click();
+  await expect(page).toHaveURL(/\/readers\?activity=reading-01$/);
+  await expect(page.getByRole("heading", { name: "How Spanish Works: Main idea" })).toBeVisible();
+});

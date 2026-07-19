@@ -1,0 +1,599 @@
+{
+  "profile": "y3",
+  "utterances": [
+    {
+      "file": "00.wav",
+      "text": "Week 18: Irregular Preterite and Meaning Change. report discoveries and attempts distinguish intention from outcome summarize a trip",
+      "sentences": [
+        {
+          "text": "Week 18: Irregular Preterite and Meaning Change.",
+          "segments": [
+            {
+              "text": "Week 18: Irregular Preterite and Meaning Change.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wˈiːk ˈeɪtiːn: ɪɹˈɛɡjʊlɚ pɹɪtˈɛɹaɪt ænd mˈiːnɪŋ tʃˈeɪndʒ."
+        },
+        {
+          "text": "report discoveries and attempts distinguish intention from outcome summarize a trip",
+          "segments": [
+            {
+              "text": "report discoveries and attempts distinguish intention from outcome summarize a trip",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɹᵻpˈɔːɹt dɪskˈʌvɚɹiz ænd ɐtˈɛmpts dɪstˈɪŋɡwɪʃ ɪntˈɛnʃən fɹʌm ˈaʊtkʌm sˈʌmɚɹˌaɪz ɐ tɹˈɪp"
+        }
+      ]
+    },
+    {
+      "file": "01.wav",
+      "text": "Form and meaning. Irregular preterite stems; ser/ir; dar/ver; conocer, poder, querer, and saber in completed contexts.",
+      "sentences": [
+        {
+          "text": "Form and meaning.",
+          "segments": [
+            {
+              "text": "Form and meaning.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "fˈɔːɹm ænd mˈiːnɪŋ."
+        },
+        {
+          "text": "Irregular preterite stems; ser/ir; dar/ver; conocer, poder, querer, and saber in completed contexts.",
+          "segments": [
+            {
+              "text": "Irregular preterite stems; ",
+              "lang": "en-us"
+            },
+            {
+              "text": "ser",
+              "lang": "es-419"
+            },
+            {
+              "text": "/",
+              "lang": "en-us"
+            },
+            {
+              "text": "ir",
+              "lang": "es-419"
+            },
+            {
+              "text": "; ",
+              "lang": "en-us"
+            },
+            {
+              "text": "dar",
+              "lang": "es-419"
+            },
+            {
+              "text": "/ver; conocer, ",
+              "lang": "en-us"
+            },
+            {
+              "text": "poder",
+              "lang": "es-419"
+            },
+            {
+              "text": ", ",
+              "lang": "en-us"
+            },
+            {
+              "text": "querer",
+              "lang": "es-419"
+            },
+            {
+              "text": ", and ",
+              "lang": "en-us"
+            },
+            {
+              "text": "saber",
+              "lang": "es-419"
+            },
+            {
+              "text": " in completed contexts.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɪɹˈɛɡjʊlɚ pɹɪtˈɛɹaɪt stˈɛmz; sˈer slˈæʃ ˈiɾ ; dˈaɾ slˈæʃ vˈɜː; kənˈoʊsɚ, poðˈeɾ , keɾˈeɾ , ænd saβˈeɾ ɪn kəmplˈiːɾᵻd kˈɑːntɛksts."
+        }
+      ]
+    },
+    {
+      "file": "02.wav",
+      "text": "Model set. No pude entrar porque perdí la llave. Fuimos al pueblo por otra carretera. Allí conocimos al nuevo alcalde. Supe la verdad esa misma tarde. Quiso ayudar, pero no tuvo tiempo. I couldn't get in because I lost the key. We went to the town by another road. There we met the new mayor. I learned the truth that same afternoon. He or she wanted to help but did not have time.",
+      "sentences": [
+        {
+          "text": "Model set.",
+          "segments": [
+            {
+              "text": "Model set.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "mˈɑːdəl sˈɛt."
+        },
+        {
+          "text": "No pude entrar porque perdí la llave.",
+          "segments": [
+            {
+              "text": "No pude entrar porque perdí la llave.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "nˈo pˈuðe entɾˈaɾ pˌoɾke peɾðˈi la ʝˈaβe."
+        },
+        {
+          "text": "Fuimos al pueblo por otra carretera.",
+          "segments": [
+            {
+              "text": "Fuimos al pueblo por otra carretera.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "fwˈimos al pwˈeβlo poɾ ˈotɾa kˌaretˈeɾa."
+        },
+        {
+          "text": "Allí conocimos al nuevo alcalde.",
+          "segments": [
+            {
+              "text": "Allí conocimos al nuevo alcalde.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ajjˈi kˌonosˈimos al nwˈeβo alkˈalðe."
+        },
+        {
+          "text": "Supe la verdad esa misma tarde.",
+          "segments": [
+            {
+              "text": "Supe la verdad esa misma tarde.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "sˈupe la βeɾðˈað ˈesa mˈisma tˈaɾðe."
+        },
+        {
+          "text": "Quiso ayudar, pero no tuvo tiempo.",
+          "segments": [
+            {
+              "text": "Quiso ayudar, pero no tuvo tiempo.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kˈiso ˌaʝuðˈaɾ, pˌeɾo nˈo tˈuβo tjˈempo."
+        },
+        {
+          "text": "I couldn't get in because I lost the key.",
+          "segments": [
+            {
+              "text": "I couldn't get in because I lost the key.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "aɪ kˌʊdənt ɡɛt ɪn bɪkˈʌz aɪ lˈɔst ðə kˈiː."
+        },
+        {
+          "text": "We went to the town by another road.",
+          "segments": [
+            {
+              "text": "We went to the town by another road.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wiː wɛnt tə ðə tˈaʊn baɪ ɐnˈʌðɚ ɹˈoʊd."
+        },
+        {
+          "text": "There we met the new mayor.",
+          "segments": [
+            {
+              "text": "There we met the new ",
+              "lang": "en-us"
+            },
+            {
+              "text": "mayor",
+              "lang": "es-419"
+            },
+            {
+              "text": ".",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðɛɹ wiː mˈɛt ðə nˈuː maʝˈoɾ ."
+        },
+        {
+          "text": "I learned the truth that same afternoon.",
+          "segments": [
+            {
+              "text": "I learned the truth that same afternoon.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "aɪ lˈɜːnd ðə tɹˈuːθ ðæt sˈeɪm ˌæftɚnˈuːn."
+        },
+        {
+          "text": "He or she wanted to help but did not have time.",
+          "segments": [
+            {
+              "text": "He or she wanted to help but did not have time.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "hiː ɔːɹ ʃiː wˈɔntᵻd tə hˈɛlp bˌʌt dɪdnˌɑːt hæv tˈaɪm."
+        }
+      ]
+    },
+    {
+      "file": "03.wav",
+      "text": "Contrastive practice. Change the person, time, number, or level of formality in each model. Preserve the communicative purpose while the grammar changes.",
+      "sentences": [
+        {
+          "text": "Contrastive practice.",
+          "segments": [
+            {
+              "text": "Contrastive practice.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "kˈɑːntɹɐstˌɪv pɹˈæktɪs."
+        },
+        {
+          "text": "Change the person, time, number, or level of formality in each model.",
+          "segments": [
+            {
+              "text": "Change the person, time, number, or level of formality in each model.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tʃˈeɪndʒ ðə pˈɜːsən, tˈaɪm, nˈʌmbɚ, ɔːɹ lˈɛvəl ʌv fɔːɹmˈælᵻɾi ɪn ˈiːtʃ mˈɑːdəl."
+        },
+        {
+          "text": "Preserve the communicative purpose while the grammar changes.",
+          "segments": [
+            {
+              "text": "Preserve the communicative purpose while the grammar changes.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "pɹɪzˈɜːv ðə kəmjˈuːnɪkətˌɪv pˈɜːpəs wˌaɪl ðə ɡɹˈæmɚ tʃˈeɪndʒᵻz."
+        }
+      ]
+    },
+    {
+      "file": "04.wav",
+      "text": "Production check. Say one original sentence for each function: report discoveries and attempts; distinguish intention from outcome; summarize a trip. Then write it and compare the spoken and written forms.",
+      "sentences": [
+        {
+          "text": "Production check.",
+          "segments": [
+            {
+              "text": "Production check.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "pɹədˈʌkʃən tʃˈɛk."
+        },
+        {
+          "text": "Say one original sentence for each function: report discoveries and attempts; distinguish intention from outcome; summarize a trip.",
+          "segments": [
+            {
+              "text": "Say one original sentence for each function: report discoveries and attempts; distinguish intention from outcome; summarize a trip.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "sˈeɪ wˈʌn ɚɹˈɪdʒɪnəl sˈɛntəns fɔːɹ ˈiːtʃ fˈʌŋkʃən: ɹᵻpˈɔːɹt dɪskˈʌvɚɹiz ænd ɐtˈɛmpts; dɪstˈɪŋɡwɪʃ ɪntˈɛnʃən fɹʌm ˈaʊtkʌm; sˈʌmɚɹˌaɪz ɐ tɹˈɪp."
+        },
+        {
+          "text": "Then write it and compare the spoken and written forms.",
+          "segments": [
+            {
+              "text": "Then write it and compare the spoken and written forms.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðˈɛn ɹˈaɪt ɪt ænd kəmpˈɛɹ ðə spˈoʊkən ænd ɹˈɪʔn fˈɔːɹmz."
+        }
+      ]
+    },
+    {
+      "file": "05.wav",
+      "text": "Model language. No pude entrar porque perdí la llave. — I couldn't get in because I lost the key. Fuimos al pueblo por otra carretera. — We went to the town by another road. Allí conocimos al nuevo alcalde. — There we met the new mayor. Supe la verdad esa misma tarde. — I learned the truth that same afternoon. Quiso ayudar, pero no tuvo tiempo. — He or she wanted to help but did not have time.",
+      "sentences": [
+        {
+          "text": "Model language.",
+          "segments": [
+            {
+              "text": "Model language.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
+        },
+        {
+          "text": "No pude entrar porque perdí la llave.",
+          "segments": [
+            {
+              "text": "No pude entrar porque perdí la llave.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "nˈo pˈuðe entɾˈaɾ pˌoɾke peɾðˈi la ʝˈaβe."
+        },
+        {
+          "text": "— I couldn't get in because I lost the key.",
+          "segments": [
+            {
+              "text": "— I couldn't get in because I lost the key.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— aɪ kˌʊdənt ɡɛt ɪn bɪkˈʌz aɪ lˈɔst ðə kˈiː."
+        },
+        {
+          "text": "Fuimos al pueblo por otra carretera.",
+          "segments": [
+            {
+              "text": "Fuimos al pueblo por otra carretera.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "fwˈimos al pwˈeβlo poɾ ˈotɾa kˌaretˈeɾa."
+        },
+        {
+          "text": "— We went to the town by another road.",
+          "segments": [
+            {
+              "text": "— We went to the town by another road.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— wiː wɛnt tə ðə tˈaʊn baɪ ɐnˈʌðɚ ɹˈoʊd."
+        },
+        {
+          "text": "Allí conocimos al nuevo alcalde.",
+          "segments": [
+            {
+              "text": "Allí conocimos al nuevo alcalde.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ajjˈi kˌonosˈimos al nwˈeβo alkˈalðe."
+        },
+        {
+          "text": "— There we met the new mayor.",
+          "segments": [
+            {
+              "text": "— There we met the new ",
+              "lang": "en-us"
+            },
+            {
+              "text": "mayor",
+              "lang": "es-419"
+            },
+            {
+              "text": ".",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— ðɛɹ wiː mˈɛt ðə nˈuː maʝˈoɾ ."
+        },
+        {
+          "text": "Supe la verdad esa misma tarde.",
+          "segments": [
+            {
+              "text": "Supe la verdad esa misma tarde.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "sˈupe la βeɾðˈað ˈesa mˈisma tˈaɾðe."
+        },
+        {
+          "text": "— I learned the truth that same afternoon.",
+          "segments": [
+            {
+              "text": "— I learned the truth that same afternoon.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— aɪ lˈɜːnd ðə tɹˈuːθ ðæt sˈeɪm ˌæftɚnˈuːn."
+        },
+        {
+          "text": "Quiso ayudar, pero no tuvo tiempo.",
+          "segments": [
+            {
+              "text": "Quiso ayudar, pero no tuvo tiempo.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kˈiso ˌaʝuðˈaɾ, pˌeɾo nˈo tˈuβo tjˈempo."
+        },
+        {
+          "text": "— He or she wanted to help but did not have time.",
+          "segments": [
+            {
+              "text": "— He or she wanted to help but did not have time.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— hiː ɔːɹ ʃiː wˈɔntᵻd tə hˈɛlp bˌʌt dɪdnˌɑːt hæv tˈaɪm."
+        }
+      ]
+    },
+    {
+      "file": "06.wav",
+      "text": "Check your readiness. Explain the core idea. Produce an original example. Complete the section assessment at 85% or higher.",
+      "sentences": [
+        {
+          "text": "Check your readiness.",
+          "segments": [
+            {
+              "text": "Check your readiness.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tʃˈɛk jʊɹ ɹˈɛdinəs."
+        },
+        {
+          "text": "Explain the core idea.",
+          "segments": [
+            {
+              "text": "Explain the core idea.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɛksplˈeɪn ðə kˈɔːɹ aɪdˈiə."
+        },
+        {
+          "text": "Produce an original example.",
+          "segments": [
+            {
+              "text": "Produce an original example.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "pɹədˈuːs ɐn ɚɹˈɪdʒɪnəl ɛɡzˈæmpəl."
+        },
+        {
+          "text": "Complete the section assessment at 85% or higher.",
+          "segments": [
+            {
+              "text": "Complete the section assessment at 85% or higher.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "kəmplˈiːt ðə sˈɛkʃən ɐsˈɛsmənt æɾ ˈeɪɾi fˈaɪv pɚsˈɛnt ɔːɹ hˈaɪɚ."
+        }
+      ]
+    },
+    {
+      "file": "vocab-00.wav",
+      "text": "pude",
+      "sentences": [
+        {
+          "text": "pude",
+          "segments": [
+            {
+              "text": "pude",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "pˈuðe"
+        }
+      ]
+    },
+    {
+      "file": "vocab-01.wav",
+      "text": "quise",
+      "sentences": [
+        {
+          "text": "quise",
+          "segments": [
+            {
+              "text": "quise",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kˈise"
+        }
+      ]
+    },
+    {
+      "file": "vocab-02.wav",
+      "text": "supe",
+      "sentences": [
+        {
+          "text": "supe",
+          "segments": [
+            {
+              "text": "supe",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "sˈupe"
+        }
+      ]
+    },
+    {
+      "file": "vocab-03.wav",
+      "text": "tuve",
+      "sentences": [
+        {
+          "text": "tuve",
+          "segments": [
+            {
+              "text": "tuve",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "tˈuβe"
+        }
+      ]
+    },
+    {
+      "file": "vocab-04.wav",
+      "text": "hice",
+      "sentences": [
+        {
+          "text": "hice",
+          "segments": [
+            {
+              "text": "hice",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˈise"
+        }
+      ]
+    },
+    {
+      "file": "vocab-05.wav",
+      "text": "vine",
+      "sentences": [
+        {
+          "text": "vine",
+          "segments": [
+            {
+              "text": "vine",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "bˈine"
+        }
+      ]
+    },
+    {
+      "file": "vocab-06.wav",
+      "text": "fui",
+      "sentences": [
+        {
+          "text": "fui",
+          "segments": [
+            {
+              "text": "fui",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "fwˈi"
+        }
+      ]
+    },
+    {
+      "file": "vocab-07.wav",
+      "text": "dije",
+      "sentences": [
+        {
+          "text": "dije",
+          "segments": [
+            {
+              "text": "dije",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "dˈixe"
+        }
+      ]
+    }
+  ]
+}

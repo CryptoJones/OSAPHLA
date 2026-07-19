@@ -1,0 +1,555 @@
+{
+  "profile": "dora",
+  "utterances": [
+    {
+      "file": "00.wav",
+      "text": "Week 4: Identity, Origin, Numbers, and Time. state origin and profession exchange contact numbers tell dates and times",
+      "sentences": [
+        {
+          "text": "Week 4: Identity, Origin, Numbers, and Time.",
+          "segments": [
+            {
+              "text": "Week 4: Identity, Origin, Numbers, and Time.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wˈiːk fˈɔːɹ: aɪdˈɛntᵻɾi, ˈɔːɹɪdʒˌɪn, nˈʌmbɚz, ænd tˈaɪm."
+        },
+        {
+          "text": "state origin and profession exchange contact numbers tell dates and times",
+          "segments": [
+            {
+              "text": "state origin and profession exchange contact numbers tell dates and times",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "stˈeɪt ˈɔːɹɪdʒˌɪn ænd pɹəfˈɛʃən ɛkstʃˈeɪndʒ kˈɑːntækt nˈʌmbɚz tˈɛl dˈeɪts ænd tˈaɪmz"
+        }
+      ]
+    },
+    {
+      "file": "01.wav",
+      "text": "Form and meaning. Ser for identity and origin; cardinal numbers; dates; telling time with es la and son las.",
+      "sentences": [
+        {
+          "text": "Form and meaning.",
+          "segments": [
+            {
+              "text": "Form and meaning.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "fˈɔːɹm ænd mˈiːnɪŋ."
+        },
+        {
+          "text": "Ser for identity and origin; cardinal numbers; dates; telling time with es la and son las.",
+          "segments": [
+            {
+              "text": "Ser",
+              "lang": "es-419"
+            },
+            {
+              "text": " for identity and origin; cardinal numbers; dates; telling time with ",
+              "lang": "en-us"
+            },
+            {
+              "text": "es la",
+              "lang": "es-419"
+            },
+            {
+              "text": " and ",
+              "lang": "en-us"
+            },
+            {
+              "text": "son las",
+              "lang": "es-419"
+            },
+            {
+              "text": ".",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "sˈer fɔːɹ aɪdˈɛntᵻɾi ænd ˈɔːɹɪdʒˌɪn; kˈɑːɹdɪnəl nˈʌmbɚz; dˈeɪts; tˈɛlɪŋ tˈaɪm wɪð ˈes lˈa ænd sˈon lˈas ."
+        }
+      ]
+    },
+    {
+      "file": "02.wav",
+      "text": "Model set. Soy de los Estados Unidos. Mi apellido es Clark. Hoy es el diecinueve de julio. Son las tres y cuarto. ¿A qué hora es la reunión? I am from the United States. My last name is Clark. Today is July nineteenth. It is a quarter past three. What time is the meeting?",
+      "sentences": [
+        {
+          "text": "Model set.",
+          "segments": [
+            {
+              "text": "Model set.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "mˈɑːdəl sˈɛt."
+        },
+        {
+          "text": "Soy de los Estados Unidos.",
+          "segments": [
+            {
+              "text": "Soy de los Estados Unidos.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "sˈoɪ ðe los estˈaðos unˈiðos."
+        },
+        {
+          "text": "Mi apellido es Clark.",
+          "segments": [
+            {
+              "text": "Mi apellido es Clark.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "mi ˌapejjˈiðo ˈes klˈaɾk."
+        },
+        {
+          "text": "Hoy es el diecinueve de julio.",
+          "segments": [
+            {
+              "text": "Hoy es el diecinueve de julio.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˈoɪ ˈes el ðjˌesinwˈeβe ðe xˈuljo."
+        },
+        {
+          "text": "Son las tres y cuarto.",
+          "segments": [
+            {
+              "text": "Son las tres y cuarto.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "sˈon las tɾˈes i kwˈaɾto."
+        },
+        {
+          "text": "¿A qué hora es la reunión?",
+          "segments": [
+            {
+              "text": "¿A qué hora es la reunión?",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "a kˈe ˈoɾa ˈes la reʊnjˈon?"
+        },
+        {
+          "text": "I am from the United States.",
+          "segments": [
+            {
+              "text": "I am from the United States.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "aɪɐm fɹʌmðə juːnˈaɪɾᵻd stˈeɪts."
+        },
+        {
+          "text": "My last name is Clark.",
+          "segments": [
+            {
+              "text": "My last name is Clark.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "maɪ lˈæst nˈeɪm ɪz klˈɑːɹk."
+        },
+        {
+          "text": "Today is July nineteenth.",
+          "segments": [
+            {
+              "text": "Today is July nineteenth.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tədˈeɪ ɪz dʒuːlˈaɪ nˈaɪntiːnθ."
+        },
+        {
+          "text": "It is a quarter past three.",
+          "segments": [
+            {
+              "text": "It is a quarter past three.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɪɾ ɪz ɐ kwˈɔːɹɾɚ pˈæst θɹˈiː."
+        },
+        {
+          "text": "What time is the meeting?",
+          "segments": [
+            {
+              "text": "What time is the meeting?",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wˌʌt tˈaɪm ɪz ðə mˈiːɾɪŋ?"
+        }
+      ]
+    },
+    {
+      "file": "03.wav",
+      "text": "Contrastive practice. Change the person, time, number, or level of formality in each model. Preserve the communicative purpose while the grammar changes.",
+      "sentences": [
+        {
+          "text": "Contrastive practice.",
+          "segments": [
+            {
+              "text": "Contrastive practice.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "kˈɑːntɹɐstˌɪv pɹˈæktɪs."
+        },
+        {
+          "text": "Change the person, time, number, or level of formality in each model.",
+          "segments": [
+            {
+              "text": "Change the person, time, number, or level of formality in each model.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tʃˈeɪndʒ ðə pˈɜːsən, tˈaɪm, nˈʌmbɚ, ɔːɹ lˈɛvəl ʌv fɔːɹmˈælᵻɾi ɪn ˈiːtʃ mˈɑːdəl."
+        },
+        {
+          "text": "Preserve the communicative purpose while the grammar changes.",
+          "segments": [
+            {
+              "text": "Preserve the communicative purpose while the grammar changes.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "pɹɪzˈɜːv ðə kəmjˈuːnɪkətˌɪv pˈɜːpəs wˌaɪl ðə ɡɹˈæmɚ tʃˈeɪndʒᵻz."
+        }
+      ]
+    },
+    {
+      "file": "04.wav",
+      "text": "Production check. Say one original sentence for each function: state origin and profession; exchange contact numbers; tell dates and times. Then write it and compare the spoken and written forms.",
+      "sentences": [
+        {
+          "text": "Production check.",
+          "segments": [
+            {
+              "text": "Production check.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "pɹədˈʌkʃən tʃˈɛk."
+        },
+        {
+          "text": "Say one original sentence for each function: state origin and profession; exchange contact numbers; tell dates and times.",
+          "segments": [
+            {
+              "text": "Say one original sentence for each function: state origin and profession; exchange contact numbers; tell dates and times.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "sˈeɪ wˈʌn ɚɹˈɪdʒɪnəl sˈɛntəns fɔːɹ ˈiːtʃ fˈʌŋkʃən: stˈeɪt ˈɔːɹɪdʒˌɪn ænd pɹəfˈɛʃən; ɛkstʃˈeɪndʒ kˈɑːntækt nˈʌmbɚz; tˈɛl dˈeɪts ænd tˈaɪmz."
+        },
+        {
+          "text": "Then write it and compare the spoken and written forms.",
+          "segments": [
+            {
+              "text": "Then write it and compare the spoken and written forms.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðˈɛn ɹˈaɪt ɪt ænd kəmpˈɛɹ ðə spˈoʊkən ænd ɹˈɪʔn fˈɔːɹmz."
+        }
+      ]
+    },
+    {
+      "file": "05.wav",
+      "text": "Model language. Soy de los Estados Unidos. — I am from the United States. Mi apellido es Clark. — My last name is Clark. Hoy es el diecinueve de julio. — Today is July nineteenth. Son las tres y cuarto. — It is a quarter past three. ¿A qué hora es la reunión? — What time is the meeting?",
+      "sentences": [
+        {
+          "text": "Model language.",
+          "segments": [
+            {
+              "text": "Model language.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
+        },
+        {
+          "text": "Soy de los Estados Unidos.",
+          "segments": [
+            {
+              "text": "Soy de los Estados Unidos.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "sˈoɪ ðe los estˈaðos unˈiðos."
+        },
+        {
+          "text": "— I am from the United States.",
+          "segments": [
+            {
+              "text": "— I am from the United States.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— aɪɐm fɹʌmðə juːnˈaɪɾᵻd stˈeɪts."
+        },
+        {
+          "text": "Mi apellido es Clark.",
+          "segments": [
+            {
+              "text": "Mi apellido es Clark.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "mi ˌapejjˈiðo ˈes klˈaɾk."
+        },
+        {
+          "text": "— My last name is Clark.",
+          "segments": [
+            {
+              "text": "— My last name is Clark.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— maɪ lˈæst nˈeɪm ɪz klˈɑːɹk."
+        },
+        {
+          "text": "Hoy es el diecinueve de julio.",
+          "segments": [
+            {
+              "text": "Hoy es el diecinueve de julio.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˈoɪ ˈes el ðjˌesinwˈeβe ðe xˈuljo."
+        },
+        {
+          "text": "— Today is July nineteenth.",
+          "segments": [
+            {
+              "text": "— Today is July nineteenth.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— tədˈeɪ ɪz dʒuːlˈaɪ nˈaɪntiːnθ."
+        },
+        {
+          "text": "Son las tres y cuarto.",
+          "segments": [
+            {
+              "text": "Son las tres y cuarto.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "sˈon las tɾˈes i kwˈaɾto."
+        },
+        {
+          "text": "— It is a quarter past three.",
+          "segments": [
+            {
+              "text": "— It is a quarter past three.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— ɪɾ ɪz ɐ kwˈɔːɹɾɚ pˈæst θɹˈiː."
+        },
+        {
+          "text": "¿A qué hora es la reunión?",
+          "segments": [
+            {
+              "text": "¿A qué hora es la reunión?",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "a kˈe ˈoɾa ˈes la reʊnjˈon?"
+        },
+        {
+          "text": "— What time is the meeting?",
+          "segments": [
+            {
+              "text": "— What time is the meeting?",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— wˌʌt tˈaɪm ɪz ðə mˈiːɾɪŋ?"
+        }
+      ]
+    },
+    {
+      "file": "06.wav",
+      "text": "Check your readiness. Explain the core idea. Produce an original example. Complete the section assessment at 85% or higher.",
+      "sentences": [
+        {
+          "text": "Check your readiness.",
+          "segments": [
+            {
+              "text": "Check your readiness.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tʃˈɛk jʊɹ ɹˈɛdinəs."
+        },
+        {
+          "text": "Explain the core idea.",
+          "segments": [
+            {
+              "text": "Explain the core idea.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɛksplˈeɪn ðə kˈɔːɹ aɪdˈiə."
+        },
+        {
+          "text": "Produce an original example.",
+          "segments": [
+            {
+              "text": "Produce an original example.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "pɹədˈuːs ɐn ɚɹˈɪdʒɪnəl ɛɡzˈæmpəl."
+        },
+        {
+          "text": "Complete the section assessment at 85% or higher.",
+          "segments": [
+            {
+              "text": "Complete the section assessment at 85% or higher.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "kəmplˈiːt ðə sˈɛkʃən ɐsˈɛsmənt æɾ ˈeɪɾi fˈaɪv pɚsˈɛnt ɔːɹ hˈaɪɚ."
+        }
+      ]
+    },
+    {
+      "file": "vocab-00.wav",
+      "text": "el nombre",
+      "sentences": [
+        {
+          "text": "el nombre",
+          "segments": [
+            {
+              "text": "el nombre",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "el nˈombɾe"
+        }
+      ]
+    },
+    {
+      "file": "vocab-01.wav",
+      "text": "el apellido",
+      "sentences": [
+        {
+          "text": "el apellido",
+          "segments": [
+            {
+              "text": "el apellido",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "el ˌapejjˈiðo"
+        }
+      ]
+    },
+    {
+      "file": "vocab-02.wav",
+      "text": "el país",
+      "sentences": [
+        {
+          "text": "el país",
+          "segments": [
+            {
+              "text": "el país",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "el paˈis"
+        }
+      ]
+    },
+    {
+      "file": "vocab-03.wav",
+      "text": "la ciudad",
+      "sentences": [
+        {
+          "text": "la ciudad",
+          "segments": [
+            {
+              "text": "la ciudad",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "la sjuðˈad"
+        }
+      ]
+    },
+    {
+      "file": "vocab-04.wav",
+      "text": "el número",
+      "sentences": [
+        {
+          "text": "el número",
+          "segments": [
+            {
+              "text": "el número",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "el nˈumeɾo"
+        }
+      ]
+    },
+    {
+      "file": "vocab-05.wav",
+      "text": "la fecha",
+      "sentences": [
+        {
+          "text": "la fecha",
+          "segments": [
+            {
+              "text": "la fecha",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "la fˈetʃa"
+        }
+      ]
+    },
+    {
+      "file": "vocab-06.wav",
+      "text": "la hora",
+      "sentences": [
+        {
+          "text": "la hora",
+          "segments": [
+            {
+              "text": "la hora",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "la ˈoɾa"
+        }
+      ]
+    },
+    {
+      "file": "vocab-07.wav",
+      "text": "hoy",
+      "sentences": [
+        {
+          "text": "hoy",
+          "segments": [
+            {
+              "text": "hoy",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˈoɪ"
+        }
+      ]
+    }
+  ]
+}

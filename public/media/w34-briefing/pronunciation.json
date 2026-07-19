@@ -1,0 +1,517 @@
+{
+  "profile": "e",
+  "utterances": [
+    {
+      "file": "00.wav",
+      "text": "Week 34: Pan-Hispanic Variation and Dialect Listening. recognize major regional forms ask for clarification without judgment adapt address and vocabulary",
+      "sentences": [
+        {
+          "text": "Week 34: Pan-Hispanic Variation and Dialect Listening.",
+          "segments": [
+            {
+              "text": "Week 34: Pan-Hispanic Variation and Dialect Listening.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wˈiːk θˈɜːɾi fˈɔːɹ: pˈænhɪspˈænɪk vˌɛɹɪˈeɪʃən ænd dˈaɪəlɛkt lˈɪsənɪŋ."
+        },
+        {
+          "text": "recognize major regional forms ask for clarification without judgment adapt address and vocabulary",
+          "segments": [
+            {
+              "text": "recognize major regional forms ask for clarification without judgment adapt address and vocabulary",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɹˈɛkəɡnˌaɪz mˈeɪdʒɚ ɹˈiːdʒənəl fˈɔːɹmz ˈæsk fɔːɹ klˌæɹɪfɪkˈeɪʃən wɪðˌaʊt dʒˈʌdʒmənt ɐdˈæpt ɐdɹˈɛs ænd voʊkˈæbjʊlˌɛɹi"
+        }
+      ]
+    },
+    {
+      "file": "01.wav",
+      "text": "Operational objective. By the end of this section you can recognize major regional forms, ask for clarification without judgment, adapt address and vocabulary. The focus is useful performance, not isolated terminology.",
+      "sentences": [
+        {
+          "text": "Operational objective.",
+          "segments": [
+            {
+              "text": "Operational objective.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ˌɑːpɚɹˈeɪʃənəl ɑːbdʒˈɛktɪv."
+        },
+        {
+          "text": "By the end of this section you can recognize major regional forms, ask for clarification without judgment, adapt address and vocabulary.",
+          "segments": [
+            {
+              "text": "By the end of this section you can recognize major regional forms, ask for clarification without judgment, adapt address and vocabulary.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "baɪ ðɪ ˈɛnd ʌv ðɪs sˈɛkʃən juː kæn ɹˈɛkəɡnˌaɪz mˈeɪdʒɚ ɹˈiːdʒənəl fˈɔːɹmz, ˈæsk fɔːɹ klˌæɹɪfɪkˈeɪʃən wɪðˌaʊt dʒˈʌdʒmənt, ɐdˈæpt ɐdɹˈɛs ænd voʊkˈæbjʊlˌɛɹi."
+        },
+        {
+          "text": "The focus is useful performance, not isolated terminology.",
+          "segments": [
+            {
+              "text": "The focus is useful performance, not isolated terminology.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðə fˈoʊkəs ɪz jˈuːsfəl pɚfˈɔːɹməns, nˌɑːt ˈaɪsəlˌeɪɾᵻd tˌɜːmɪnˈɑːlədʒi."
+        }
+      ]
+    },
+    {
+      "file": "02.wav",
+      "text": "Language system. Tú, vos, usted, and vosotros systems; leísmo recognition; lexical variation; code-switching and register.",
+      "sentences": [
+        {
+          "text": "Language system.",
+          "segments": [
+            {
+              "text": "Language system.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "lˈæŋɡwɪdʒ sˈɪstəm."
+        },
+        {
+          "text": "Tú, vos, usted, and vosotros systems; leísmo recognition; lexical variation; code-switching and register.",
+          "segments": [
+            {
+              "text": "Tú",
+              "lang": "es-419"
+            },
+            {
+              "text": ", ",
+              "lang": "en-us"
+            },
+            {
+              "text": "vos",
+              "lang": "es-419"
+            },
+            {
+              "text": ", ",
+              "lang": "en-us"
+            },
+            {
+              "text": "usted",
+              "lang": "es-419"
+            },
+            {
+              "text": ", and ",
+              "lang": "en-us"
+            },
+            {
+              "text": "vosotros",
+              "lang": "es-419"
+            },
+            {
+              "text": " systems; ",
+              "lang": "en-us"
+            },
+            {
+              "text": "leísmo",
+              "lang": "es-419"
+            },
+            {
+              "text": " recognition; lexical variation; code-switching and register.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tˈu , bˈos , ustˈed , ænd bosˈotɾos sˈɪstəmz; leˈismo ɹˌɛkəɡnˈɪʃən; lˈɛksɪkəl vˌɛɹɪˈeɪʃən; kˈoʊdswˈɪtʃɪŋ ænd ɹˈɛdʒɪstɚ."
+        }
+      ]
+    },
+    {
+      "file": "03.wav",
+      "text": "Sound and delivery. Seseo/distinción, yeísmo, aspiration of final s, voseo stress, and recognition without caricature.",
+      "sentences": [
+        {
+          "text": "Sound and delivery.",
+          "segments": [
+            {
+              "text": "Sound and delivery.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "sˈaʊnd ænd dᵻlˈɪvɚɹi."
+        },
+        {
+          "text": "Seseo/distinción, yeísmo, aspiration of final s, voseo stress, and recognition without caricature.",
+          "segments": [
+            {
+              "text": "Seseo",
+              "lang": "es-419"
+            },
+            {
+              "text": "/",
+              "lang": "en-us"
+            },
+            {
+              "text": "distinción",
+              "lang": "es-419"
+            },
+            {
+              "text": ", ",
+              "lang": "en-us"
+            },
+            {
+              "text": "yeísmo",
+              "lang": "es-419"
+            },
+            {
+              "text": ", aspiration of final s, ",
+              "lang": "en-us"
+            },
+            {
+              "text": "voseo",
+              "lang": "es-419"
+            },
+            {
+              "text": " stress, and recognition without caricature.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "sesˈeo slˈæʃ dˌistinsjˈon , ʝeˈismo , ˌæspɚɹˈeɪʃən ʌv fˈaɪnəl ˈɛs, bosˈeo stɹˈɛs, ænd ɹˌɛkəɡnˈɪʃən wɪðˌaʊt kˈæɹɪkətʃˌʊɹ."
+        }
+      ]
+    },
+    {
+      "file": "04.wav",
+      "text": "Core principle. Notice meaning first, then form. Retrieve the new language aloud, compare it with the model, and repair one feature at a time.",
+      "sentences": [
+        {
+          "text": "Core principle.",
+          "segments": [
+            {
+              "text": "Core principle.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "kˈɔːɹ pɹˈɪnsɪpəl."
+        },
+        {
+          "text": "Notice meaning first, then form.",
+          "segments": [
+            {
+              "text": "Notice meaning first, then form.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "nˈoʊɾɪs mˈiːnɪŋ fˈɜːst, ðˈɛn fˈɔːɹm."
+        },
+        {
+          "text": "Retrieve the new language aloud, compare it with the model, and repair one feature at a time.",
+          "segments": [
+            {
+              "text": "Retrieve the new language aloud, compare it with the model, and repair one feature at a time.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɹᵻtɹˈiːv ðə nˈuː lˈæŋɡwɪdʒ ɐlˈaʊd, kəmpˈɛɹ ɪt wɪððə mˈɑːdəl, ænd ɹᵻpˈɛɹ wˈʌn fˈiːtʃɚɹ æɾə tˈaɪm."
+        }
+      ]
+    },
+    {
+      "file": "05.wav",
+      "text": "Model language. ¿Vos tenés tiempo mañana? — Do you have time tomorrow? Vosotros podéis entrar por aquí. — You all can enter here. Ustedes esperan la guagua en esa esquina. — You all wait for the bus on that corner. En México, camión puede significar autobús. — In Mexico, camión can mean bus. No entendí esa palabra; ¿qué significa aquí? — I did not understand that word; what does it mean here?",
+      "sentences": [
+        {
+          "text": "Model language.",
+          "segments": [
+            {
+              "text": "Model language.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
+        },
+        {
+          "text": "¿Vos tenés tiempo mañana?",
+          "segments": [
+            {
+              "text": "¿Vos tenés tiempo mañana?",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "bˈos tenˈes tjˈempo maɲˈana?"
+        },
+        {
+          "text": "— Do you have time tomorrow?",
+          "segments": [
+            {
+              "text": "— Do you have time tomorrow?",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— dˈuː juː hæv tˈaɪm təmˈɑːɹoʊ?"
+        },
+        {
+          "text": "Vosotros podéis entrar por aquí.",
+          "segments": [
+            {
+              "text": "Vosotros podéis entrar por aquí.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "bosˈotɾos poðˈeis entɾˈaɾ poɾ akˈi."
+        },
+        {
+          "text": "— You all can enter here.",
+          "segments": [
+            {
+              "text": "— You all can enter here.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— juː ˈɔːl kæn ˈɛntɚ hˈɪɹ."
+        },
+        {
+          "text": "Ustedes esperan la guagua en esa esquina.",
+          "segments": [
+            {
+              "text": "Ustedes esperan la guagua en esa esquina.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ustˈeðes espˈeɾan la ɣwˈaɣwa en ˈesa eskˈina."
+        },
+        {
+          "text": "— You all wait for the bus on that corner.",
+          "segments": [
+            {
+              "text": "— You all wait for the bus on that corner.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— juː ˈɔːl wˈeɪt fɚðə bˈʌs ˌɔn ðæt kˈɔːɹnɚ."
+        },
+        {
+          "text": "En México, camión puede significar autobús.",
+          "segments": [
+            {
+              "text": "En México, camión puede significar autobús.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "en mˈɛxiko, kamjˈom pwˈeðe sˌiɡnifikˈaɾ ˌaʊtoβˈus."
+        },
+        {
+          "text": "— In Mexico, camión can mean bus.",
+          "segments": [
+            {
+              "text": "— In Mexico, ",
+              "lang": "en-us"
+            },
+            {
+              "text": "camión",
+              "lang": "es-419"
+            },
+            {
+              "text": " can mean bus.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— ɪn mˈɛksɪkˌoʊ, kamjˈon kæn mˈiːn bˈʌs."
+        },
+        {
+          "text": "No entendí esa palabra; ¿qué significa aquí?",
+          "segments": [
+            {
+              "text": "No entendí esa palabra; ¿qué significa aquí?",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "nˈo ˌentendˈi ˈesa palˈaβɾa; kˈe sˌiɡnifˈika akˈi?"
+        },
+        {
+          "text": "— I did not understand that word; what does it mean here?",
+          "segments": [
+            {
+              "text": "— I did not understand that word; what does it mean here?",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— aɪ dɪdnˌɑːt ˌʌndɚstˈænd ðæt wˈɜːd; wˌʌt dˈʌz ɪt mˈiːn hˈɪɹ?"
+        }
+      ]
+    },
+    {
+      "file": "06.wav",
+      "text": "Check your readiness. Explain the core idea. Produce an original example. Complete the section assessment at 85% or higher.",
+      "sentences": [
+        {
+          "text": "Check your readiness.",
+          "segments": [
+            {
+              "text": "Check your readiness.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tʃˈɛk jʊɹ ɹˈɛdinəs."
+        },
+        {
+          "text": "Explain the core idea.",
+          "segments": [
+            {
+              "text": "Explain the core idea.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɛksplˈeɪn ðə kˈɔːɹ aɪdˈiə."
+        },
+        {
+          "text": "Produce an original example.",
+          "segments": [
+            {
+              "text": "Produce an original example.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "pɹədˈuːs ɐn ɚɹˈɪdʒɪnəl ɛɡzˈæmpəl."
+        },
+        {
+          "text": "Complete the section assessment at 85% or higher.",
+          "segments": [
+            {
+              "text": "Complete the section assessment at 85% or higher.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "kəmplˈiːt ðə sˈɛkʃən ɐsˈɛsmənt æɾ ˈeɪɾi fˈaɪv pɚsˈɛnt ɔːɹ hˈaɪɚ."
+        }
+      ]
+    },
+    {
+      "file": "vocab-00.wav",
+      "text": "el autobús",
+      "sentences": [
+        {
+          "text": "el autobús",
+          "segments": [
+            {
+              "text": "el autobús",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "el ˌaʊtoβˈus"
+        }
+      ]
+    },
+    {
+      "file": "vocab-01.wav",
+      "text": "el camión",
+      "sentences": [
+        {
+          "text": "el camión",
+          "segments": [
+            {
+              "text": "el camión",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "el kamjˈon"
+        }
+      ]
+    },
+    {
+      "file": "vocab-02.wav",
+      "text": "la guagua",
+      "sentences": [
+        {
+          "text": "la guagua",
+          "segments": [
+            {
+              "text": "la guagua",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "la ɣwˈaɣwa"
+        }
+      ]
+    },
+    {
+      "file": "vocab-03.wav",
+      "text": "el móvil",
+      "sentences": [
+        {
+          "text": "el móvil",
+          "segments": [
+            {
+              "text": "el móvil",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "el mˈoβil"
+        }
+      ]
+    },
+    {
+      "file": "vocab-04.wav",
+      "text": "el celular",
+      "sentences": [
+        {
+          "text": "el celular",
+          "segments": [
+            {
+              "text": "el celular",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "el sˌelulˈaɾ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-05.wav",
+      "text": "vos tenés",
+      "sentences": [
+        {
+          "text": "vos tenés",
+          "segments": [
+            {
+              "text": "vos tenés",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "bˈos tenˈes"
+        }
+      ]
+    },
+    {
+      "file": "vocab-06.wav",
+      "text": "vosotros tenéis",
+      "sentences": [
+        {
+          "text": "vosotros tenéis",
+          "segments": [
+            {
+              "text": "vosotros tenéis",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "bosˈotɾos tenˈeis"
+        }
+      ]
+    },
+    {
+      "file": "vocab-07.wav",
+      "text": "ustedes tienen",
+      "sentences": [
+        {
+          "text": "ustedes tienen",
+          "segments": [
+            {
+              "text": "ustedes tienen",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ustˈeðes tjˈenen"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,455 @@
+{
+  "profile": "y1",
+  "utterances": [
+    {
+      "file": "00.wav",
+      "text": "Week 24: Commands, Advice, and Procedures. give a safe procedure offer advice distinguish request from order",
+      "sentences": [
+        {
+          "text": "Week 24: Commands, Advice, and Procedures.",
+          "segments": [
+            {
+              "text": "Week 24: Commands, Advice, and Procedures.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wˈiːk twˈɛnti fˈɔːɹ: kəmˈændz, ɐdvˈaɪs, ænd pɹəsˈiːdʒɚz."
+        },
+        {
+          "text": "give a safe procedure offer advice distinguish request from order",
+          "segments": [
+            {
+              "text": "give a safe procedure offer advice distinguish request from order",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɡˈɪv ɐ sˈeɪf pɹəsˈiːdʒɚɹ ˈɔfɚɹ ɐdvˈaɪs dɪstˈɪŋɡwɪʃ ɹᵻkwˈɛst fɹʌm ˈɔːɹdɚ"
+        }
+      ]
+    },
+    {
+      "file": "01.wav",
+      "text": "Cultural lens. Hierarchy, formality, and mitigation in workplaces and public services.",
+      "sentences": [
+        {
+          "text": "Cultural lens.",
+          "segments": [
+            {
+              "text": "Cultural lens.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "kˈʌltʃɚɹəl lˈɛnz."
+        },
+        {
+          "text": "Hierarchy, formality, and mitigation in workplaces and public services.",
+          "segments": [
+            {
+              "text": "Hierarchy, formality, and mitigation in workplaces and public services.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "hˈaɪɚɹɑːɹki, fɔːɹmˈælᵻɾi, ænd mˌɪɾɪɡˈeɪʃən ɪn wˈɜːkpleɪsᵻz ænd pˈʌblɪk sˈɜːvɪsᵻz."
+        }
+      ]
+    },
+    {
+      "file": "02.wav",
+      "text": "Avoid the single-story trap. Treat country, region, age, relationship, and setting as variables. Describe the evidence you have without turning one example into a universal rule.",
+      "sentences": [
+        {
+          "text": "Avoid the single-story trap.",
+          "segments": [
+            {
+              "text": "Avoid the single-story trap.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɐvˈɔɪd ðə sˈɪŋɡəlstˈɔːɹi tɹˈæp."
+        },
+        {
+          "text": "Treat country, region, age, relationship, and setting as variables.",
+          "segments": [
+            {
+              "text": "Treat country, region, age, relationship, and setting as variables.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tɹˈiːt kˈʌntɹi, ɹˈiːdʒən, ˈeɪdʒ, ɹᵻlˈeɪʃənʃˌɪp, ænd sˈɛɾɪŋ æz vˈɛɹɪəbəlz."
+        },
+        {
+          "text": "Describe the evidence you have without turning one example into a universal rule.",
+          "segments": [
+            {
+              "text": "Describe the evidence you have without turning one example into a universal rule.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "dᵻskɹˈaɪb ðɪ ˈɛvɪdəns juː hæv wɪðˌaʊt tˈɜːnɪŋ wˈʌn ɛɡzˈæmpəl ˌɪntʊ ɐ jˌuːnɪvˈɜːsəl ɹˈuːl."
+        }
+      ]
+    },
+    {
+      "file": "03.wav",
+      "text": "Language variation. Recognize regional choices and ask what a form means locally. Use the neutral course model for production until the situation gives you a reason to adapt.",
+      "sentences": [
+        {
+          "text": "Language variation.",
+          "segments": [
+            {
+              "text": "Language variation.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "lˈæŋɡwɪdʒ vˌɛɹɪˈeɪʃən."
+        },
+        {
+          "text": "Recognize regional choices and ask what a form means locally.",
+          "segments": [
+            {
+              "text": "Recognize regional choices and ask what a form means locally.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɹˈɛkəɡnˌaɪz ɹˈiːdʒənəl tʃˈɔɪsᵻz ænd ˈæsk wʌt ɐ fˈɔːɹm mˈiːnz lˈoʊkəli."
+        },
+        {
+          "text": "Use the neutral course model for production until the situation gives you a reason to adapt.",
+          "segments": [
+            {
+              "text": "Use the neutral course model for production until the situation gives you a reason to adapt.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "jˈuːs ðə nˈuːtɹəl kˈɔːɹs mˈɑːdəl fɔːɹ pɹədˈʌkʃən ʌntˈɪl ðə sˌɪtʃuːˈeɪʃən ɡˈɪvz juː ɐ ɹˈiːzən tʊ ɐdˈæpt."
+        }
+      ]
+    },
+    {
+      "file": "04.wav",
+      "text": "Reflection. Compare this context with one you know. Name one similarity, one difference, and one question that would prevent an assumption.",
+      "sentences": [
+        {
+          "text": "Reflection.",
+          "segments": [
+            {
+              "text": "Reflection.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɹᵻflˈɛkʃən."
+        },
+        {
+          "text": "Compare this context with one you know.",
+          "segments": [
+            {
+              "text": "Compare this context with one you know.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "kəmpˈɛɹ ðɪs kˈɑːntɛkst wɪð wˈʌn juː nˈoʊ."
+        },
+        {
+          "text": "Name one similarity, one difference, and one question that would prevent an assumption.",
+          "segments": [
+            {
+              "text": "Name one similarity, one difference, and one question that would prevent an assumption.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "nˈeɪm wˈʌn sˌɪmɪlˈæɹᵻɾi, wˈʌn dˈɪfɹəns, ænd wˈʌn kwˈɛstʃən ðæt wʊd pɹɪvˈɛnt ɐn ɐsˈʌmpʃən."
+        }
+      ]
+    },
+    {
+      "file": "05.wav",
+      "text": "Model language. Apague el equipo antes de abrirlo. — Turn off the equipment before opening it. No compartas esa contraseña. — Do not share that password. Asegúrense de guardar una copia. — Make sure you save a copy. Comprobemos los datos otra vez. — Let's check the data again. Conviene evitar este camino de noche. — It is advisable to avoid this road at night.",
+      "sentences": [
+        {
+          "text": "Model language.",
+          "segments": [
+            {
+              "text": "Model language.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
+        },
+        {
+          "text": "Apague el equipo antes de abrirlo.",
+          "segments": [
+            {
+              "text": "Apague el equipo antes de abrirlo.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "apˈaɣe el ekˈipo ˈantes ðe aβɾˈiɾlo."
+        },
+        {
+          "text": "— Turn off the equipment before opening it.",
+          "segments": [
+            {
+              "text": "— Turn off the equipment before opening it.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— tˈɜːn ˈɔf ðɪ ɪkwˈɪpmənt bᵻfˌɔːɹ ˈoʊpənɪŋ ɪt."
+        },
+        {
+          "text": "No compartas esa contraseña.",
+          "segments": [
+            {
+              "text": "No compartas esa contraseña.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "nˈo kompˈaɾtas ˈesa kˌontɾasˈeɲa."
+        },
+        {
+          "text": "— Do not share that password.",
+          "segments": [
+            {
+              "text": "— Do not share that password.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— duːnˌɑːt ʃˈɛɹ ðæt pˈæswɜːd."
+        },
+        {
+          "text": "Asegúrense de guardar una copia.",
+          "segments": [
+            {
+              "text": "Asegúrense de guardar una copia.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˌaseɣˈuɾense ðe ɣwaɾðˈaɾ ˈuna kˈopja."
+        },
+        {
+          "text": "— Make sure you save a copy.",
+          "segments": [
+            {
+              "text": "— Make sure you save a copy.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— mˌeɪk ʃˈʊɹ juː sˈeɪv ɐ kˈɑːpi."
+        },
+        {
+          "text": "Comprobemos los datos otra vez.",
+          "segments": [
+            {
+              "text": "Comprobemos los datos otra vez.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kˌompɾoβˈemos los ðˈatos ˈotɾa βˈes."
+        },
+        {
+          "text": "— Let's check the data again.",
+          "segments": [
+            {
+              "text": "— Let's check the data again.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— lˈɛts tʃˈɛk ðə dˈeɪɾə ɐɡˈɛn."
+        },
+        {
+          "text": "Conviene evitar este camino de noche.",
+          "segments": [
+            {
+              "text": "Conviene evitar este camino de noche.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kombjˈene ˌeβitˈaɾ ˈeste kamˈino ðe nˈotʃe."
+        },
+        {
+          "text": "— It is advisable to avoid this road at night.",
+          "segments": [
+            {
+              "text": "— It is advisable to avoid this road at night.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— ɪɾ ɪz ɐdvˈaɪzəbəl tʊ ɐvˈɔɪd ðɪs ɹˈoʊd æt nˈaɪt."
+        }
+      ]
+    },
+    {
+      "file": "06.wav",
+      "text": "Check your readiness. Explain the core idea. Produce an original example. Complete the section assessment at 85% or higher.",
+      "sentences": [
+        {
+          "text": "Check your readiness.",
+          "segments": [
+            {
+              "text": "Check your readiness.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tʃˈɛk jʊɹ ɹˈɛdinəs."
+        },
+        {
+          "text": "Explain the core idea.",
+          "segments": [
+            {
+              "text": "Explain the core idea.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɛksplˈeɪn ðə kˈɔːɹ aɪdˈiə."
+        },
+        {
+          "text": "Produce an original example.",
+          "segments": [
+            {
+              "text": "Produce an original example.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "pɹədˈuːs ɐn ɚɹˈɪdʒɪnəl ɛɡzˈæmpəl."
+        },
+        {
+          "text": "Complete the section assessment at 85% or higher.",
+          "segments": [
+            {
+              "text": "Complete the section assessment at 85% or higher.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "kəmplˈiːt ðə sˈɛkʃən ɐsˈɛsmənt æɾ ˈeɪɾi fˈaɪv pɚsˈɛnt ɔːɹ hˈaɪɚ."
+        }
+      ]
+    },
+    {
+      "file": "vocab-00.wav",
+      "text": "apagar",
+      "sentences": [
+        {
+          "text": "apagar",
+          "segments": [
+            {
+              "text": "apagar",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˌapaɣˈaɾ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-01.wav",
+      "text": "encender",
+      "sentences": [
+        {
+          "text": "encender",
+          "segments": [
+            {
+              "text": "encender",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˌensendˈeɾ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-02.wav",
+      "text": "comprobar",
+      "sentences": [
+        {
+          "text": "comprobar",
+          "segments": [
+            {
+              "text": "comprobar",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kˌompɾoβˈaɾ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-03.wav",
+      "text": "guardar",
+      "sentences": [
+        {
+          "text": "guardar",
+          "segments": [
+            {
+              "text": "guardar",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ɡwaɾðˈaɾ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-04.wav",
+      "text": "evitar",
+      "sentences": [
+        {
+          "text": "evitar",
+          "segments": [
+            {
+              "text": "evitar",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˌeβitˈaɾ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-05.wav",
+      "text": "asegurarse",
+      "sentences": [
+        {
+          "text": "asegurarse",
+          "segments": [
+            {
+              "text": "asegurarse",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˌaseɣuɾˈaɾse"
+        }
+      ]
+    },
+    {
+      "file": "vocab-06.wav",
+      "text": "el paso",
+      "sentences": [
+        {
+          "text": "el paso",
+          "segments": [
+            {
+              "text": "el paso",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "el pˈaso"
+        }
+      ]
+    },
+    {
+      "file": "vocab-07.wav",
+      "text": "la instrucción",
+      "sentences": [
+        {
+          "text": "la instrucción",
+          "segments": [
+            {
+              "text": "la instrucción",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "la ˌinstɾuksjˈon"
+        }
+      ]
+    }
+  ]
+}

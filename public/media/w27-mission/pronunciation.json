@@ -1,0 +1,435 @@
+{
+  "profile": "y1",
+  "utterances": [
+    {
+      "file": "00.wav",
+      "text": "Week 27: Present Subjunctive: Will and Emotion. recommend and request action express reaction state necessity without overclaiming certainty",
+      "sentences": [
+        {
+          "text": "Week 27: Present Subjunctive: Will and Emotion.",
+          "segments": [
+            {
+              "text": "Week 27: Present Subjunctive: Will and Emotion.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wˈiːk twˈɛnti sˈɛvən: pɹˈɛzənt sˈʌbdʒəŋktˌɪv: wɪl ænd ɪmˈoʊʃən."
+        },
+        {
+          "text": "recommend and request action express reaction state necessity without overclaiming certainty",
+          "segments": [
+            {
+              "text": "recommend and request action express reaction state necessity without overclaiming certainty",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɹˌɛkəmˈɛnd ænd ɹᵻkwˈɛst ˈækʃən ɛkspɹˈɛs ɹɪˈækʃən stˈeɪt nəsˈɛsɪɾi wɪðˌaʊt ˌoʊvɚklˈeɪmɪŋ sˈɜːtənti"
+        }
+      ]
+    },
+    {
+      "file": "01.wav",
+      "text": "Mission brief. Respond to a community problem with recommendations from three stakeholders.",
+      "sentences": [
+        {
+          "text": "Mission brief.",
+          "segments": [
+            {
+              "text": "Mission brief.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "mˈɪʃən bɹˈiːf."
+        },
+        {
+          "text": "Respond to a community problem with recommendations from three stakeholders.",
+          "segments": [
+            {
+              "text": "Respond to a community problem with recommendations from three stakeholders.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɹᵻspˈɑːnd tʊ ɐ kəmjˈuːnᵻɾi pɹˈɑːbləm wɪð ɹˌɛkəmɛndˈeɪʃənz fɹʌm θɹˈiː stˈeɪkhoʊldɚz."
+        }
+      ]
+    },
+    {
+      "file": "02.wav",
+      "text": "Preparation. Select ten useful words, three linking expressions, and two repair phrases. Plan points rather than a memorized paragraph.",
+      "sentences": [
+        {
+          "text": "Preparation.",
+          "segments": [
+            {
+              "text": "Preparation.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "pɹˌɛpɚɹˈeɪʃən."
+        },
+        {
+          "text": "Select ten useful words, three linking expressions, and two repair phrases.",
+          "segments": [
+            {
+              "text": "Select ten useful words, three linking expressions, and two repair phrases.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "sᵻlˈɛkt tˈɛn jˈuːsfəl wˈɜːdz, θɹˈiː lˈɪŋkɪŋ ɛkspɹˈɛʃənz, ænd tˈuː ɹᵻpˈɛɹ fɹˈeɪzᵻz."
+        },
+        {
+          "text": "Plan points rather than a memorized paragraph.",
+          "segments": [
+            {
+              "text": "Plan points rather than a memorized paragraph.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "plˈæn pˈɔɪnts ɹˈæðɚ ðˌænə mˈɛmɚɹˌaɪzd pˈæɹəɡɹˌæf."
+        }
+      ]
+    },
+    {
+      "file": "03.wav",
+      "text": "Performance. Complete the task once for fluency, review the evidence, then repeat it for greater clarity and accuracy.",
+      "sentences": [
+        {
+          "text": "Performance.",
+          "segments": [
+            {
+              "text": "Performance.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "pɚfˈɔːɹməns."
+        },
+        {
+          "text": "Complete the task once for fluency, review the evidence, then repeat it for greater clarity and accuracy.",
+          "segments": [
+            {
+              "text": "Complete the task once for fluency, review the evidence, then repeat it for greater clarity and accuracy.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "kəmplˈiːt ðə tˈæsk wˈʌns fɔːɹ flˈuːənsi, ɹᵻvjˈuː ðɪ ˈɛvɪdəns, ðˈɛn ɹᵻpˈiːt ɪt fɔːɹ ɡɹˈeɪɾɚ klˈæɹᵻɾi ænd ˈækjʊɹəsi."
+        }
+      ]
+    },
+    {
+      "file": "04.wav",
+      "text": "After-action review. Record what succeeded, what blocked communication, and the single change that will matter most on the next attempt.",
+      "sentences": [
+        {
+          "text": "After-action review.",
+          "segments": [
+            {
+              "text": "After-action review.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ˈæftɚɹˈækʃən ɹᵻvjˈuː."
+        },
+        {
+          "text": "Record what succeeded, what blocked communication, and the single change that will matter most on the next attempt.",
+          "segments": [
+            {
+              "text": "Record what succeeded, what blocked communication, and the single change that will matter most on the next attempt.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɹˈɛkɚd wʌt səksˈiːdᵻd, wˌʌt blˈɑːkt kəmjˌuːnɪkˈeɪʃən, ænd ðə sˈɪŋɡəl tʃˈeɪndʒ ðæt wɪl mˈæɾɚ mˈoʊst ɔnðə nˈɛkst ɐtˈɛmpt."
+        }
+      ]
+    },
+    {
+      "file": "05.wav",
+      "text": "Model language. Recomiendo que revise los datos. — I recommend that you review the data. Es necesario que participen los vecinos. — It is necessary for the residents to participate. Me alegra que estés aquí. — I am glad you are here. El director pide que lleguemos temprano. — The director asks us to arrive early. Ojalá encuentren una solución justa. — I hope they find a fair solution.",
+      "sentences": [
+        {
+          "text": "Model language.",
+          "segments": [
+            {
+              "text": "Model language.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
+        },
+        {
+          "text": "Recomiendo que revise los datos.",
+          "segments": [
+            {
+              "text": "Recomiendo que revise los datos.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "rˌekomjˈɛndo ke reβˈise los ðˈatos."
+        },
+        {
+          "text": "— I recommend that you review the data.",
+          "segments": [
+            {
+              "text": "— I recommend that you review the data.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— aɪ ɹˌɛkəmˈɛnd ðæt juː ɹᵻvjˈuː ðə dˈeɪɾə."
+        },
+        {
+          "text": "Es necesario que participen los vecinos.",
+          "segments": [
+            {
+              "text": "Es necesario que participen los vecinos.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˈes nˌesesˈaɾjo ke pˌaɾtisˈipen los βesˈinos."
+        },
+        {
+          "text": "— It is necessary for the residents to participate.",
+          "segments": [
+            {
+              "text": "— It is necessary for the residents to participate.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— ɪɾ ɪz nˈɛsᵻsɚɹi fɚðə ɹˈɛzᵻdənts tə pɑːɹtˈɪsᵻpˌeɪt."
+        },
+        {
+          "text": "Me alegra que estés aquí.",
+          "segments": [
+            {
+              "text": "Me alegra que estés aquí.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "me alˈeɣɾa ke estˈes akˈi."
+        },
+        {
+          "text": "— I am glad you are here.",
+          "segments": [
+            {
+              "text": "— I am glad you are here.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— aɪɐm ɡlˈæd juː ɑːɹ hˈɪɹ."
+        },
+        {
+          "text": "El director pide que lleguemos temprano.",
+          "segments": [
+            {
+              "text": "El director pide que lleguemos temprano.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "el ðˌiɾektˈoɾ pˈiðe ke ʝeɣˈemos tempɾˈano."
+        },
+        {
+          "text": "— The director asks us to arrive early.",
+          "segments": [
+            {
+              "text": "— The director asks us to arrive early.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— ðə dᵻɹˈɛktɚɹ ˈæsks ˌʌs tʊ ɚɹˈaɪv ˈɜːli."
+        },
+        {
+          "text": "Ojalá encuentren una solución justa.",
+          "segments": [
+            {
+              "text": "Ojalá encuentren una solución justa.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˌoxalˈa enkwˈɛntɾen ˈuna sˌolusjˈon xˈusta."
+        },
+        {
+          "text": "— I hope they find a fair solution.",
+          "segments": [
+            {
+              "text": "— I hope they find a fair solution.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— aɪ hˈoʊp ðeɪ fˈaɪnd ɐ fˈɛɹ səlˈuːʃən."
+        }
+      ]
+    },
+    {
+      "file": "06.wav",
+      "text": "Check your readiness. Explain the core idea. Produce an original example. Complete the section assessment at 85% or higher.",
+      "sentences": [
+        {
+          "text": "Check your readiness.",
+          "segments": [
+            {
+              "text": "Check your readiness.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tʃˈɛk jʊɹ ɹˈɛdinəs."
+        },
+        {
+          "text": "Explain the core idea.",
+          "segments": [
+            {
+              "text": "Explain the core idea.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɛksplˈeɪn ðə kˈɔːɹ aɪdˈiə."
+        },
+        {
+          "text": "Produce an original example.",
+          "segments": [
+            {
+              "text": "Produce an original example.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "pɹədˈuːs ɐn ɚɹˈɪdʒɪnəl ɛɡzˈæmpəl."
+        },
+        {
+          "text": "Complete the section assessment at 85% or higher.",
+          "segments": [
+            {
+              "text": "Complete the section assessment at 85% or higher.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "kəmplˈiːt ðə sˈɛkʃən ɐsˈɛsmənt æɾ ˈeɪɾi fˈaɪv pɚsˈɛnt ɔːɹ hˈaɪɚ."
+        }
+      ]
+    },
+    {
+      "file": "vocab-00.wav",
+      "text": "recomendar",
+      "sentences": [
+        {
+          "text": "recomendar",
+          "segments": [
+            {
+              "text": "recomendar",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "rˌekomendˈaɾ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-01.wav",
+      "text": "pedir",
+      "sentences": [
+        {
+          "text": "pedir",
+          "segments": [
+            {
+              "text": "pedir",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "peðˈiɾ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-02.wav",
+      "text": "exigir",
+      "sentences": [
+        {
+          "text": "exigir",
+          "segments": [
+            {
+              "text": "exigir",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˌeksixˈiɾ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-03.wav",
+      "text": "esperar",
+      "sentences": [
+        {
+          "text": "esperar",
+          "segments": [
+            {
+              "text": "esperar",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˌespeɾˈaɾ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-04.wav",
+      "text": "alegrarse",
+      "sentences": [
+        {
+          "text": "alegrarse",
+          "segments": [
+            {
+              "text": "alegrarse",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˌaleɣɾˈaɾse"
+        }
+      ]
+    },
+    {
+      "file": "vocab-05.wav",
+      "text": "lamentar",
+      "sentences": [
+        {
+          "text": "lamentar",
+          "segments": [
+            {
+              "text": "lamentar",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "lˌamentˈaɾ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-06.wav",
+      "text": "es necesario",
+      "sentences": [
+        {
+          "text": "es necesario",
+          "segments": [
+            {
+              "text": "es necesario",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˈes nˌesesˈaɾjo"
+        }
+      ]
+    },
+    {
+      "file": "vocab-07.wav",
+      "text": "ojalá",
+      "sentences": [
+        {
+          "text": "ojalá",
+          "segments": [
+            {
+              "text": "ojalá",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˌoxalˈa"
+        }
+      ]
+    }
+  ]
+}

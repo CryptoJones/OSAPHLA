@@ -1,0 +1,455 @@
+{
+  "profile": "y1",
+  "utterances": [
+    {
+      "file": "00.wav",
+      "text": "Week 11: Food, Markets, and Restaurants. buy food order a meal handle dietary needs and problems",
+      "sentences": [
+        {
+          "text": "Week 11: Food, Markets, and Restaurants.",
+          "segments": [
+            {
+              "text": "Week 11: Food, Markets, and Restaurants.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wˈiːk ɪlˈɛvən: fˈuːd, mˈɑːɹkɪts, ænd ɹˈɛstɹɑːnts."
+        },
+        {
+          "text": "buy food order a meal handle dietary needs and problems",
+          "segments": [
+            {
+              "text": "buy food order a meal handle dietary needs and problems",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "bˈaɪ fˈuːd ˈɔːɹdɚɹ ɐ mˈiːl hˈændəl dˈaɪətɚɹi nˈiːdz ænd pɹˈɑːbləmz"
+        }
+      ]
+    },
+    {
+      "file": "01.wav",
+      "text": "Read for the situation. En el mercado, Sara compara precios y compra verduras frescas. Más tarde pide el menú del día, pregunta por los ingredientes y explica que no puede comer nueces. At the market, Sara compares prices and buys fresh vegetables. Later she orders the daily special, asks about the ingredients, and explains that she cannot eat nuts.",
+      "sentences": [
+        {
+          "text": "Read for the situation.",
+          "segments": [
+            {
+              "text": "Read for the situation.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɹˈiːd fɚðə sˌɪtʃuːˈeɪʃən."
+        },
+        {
+          "text": "En el mercado, Sara compara precios y compra verduras frescas.",
+          "segments": [
+            {
+              "text": "En el mercado, Sara compara precios y compra verduras frescas.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "en el meɾkˈaðo, sˈaɾa kompˈaɾa pɾˈesjos i kˈompɾa βeɾðˈuɾas fɾˈeskas."
+        },
+        {
+          "text": "Más tarde pide el menú del día, pregunta por los ingredientes y explica que no puede comer nueces.",
+          "segments": [
+            {
+              "text": "Más tarde pide el menú del día, pregunta por los ingredientes y explica que no puede comer nueces.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "mˈas tˈaɾðe pˈiðe el menˈu ðel ðˈia, pɾeɣˈunta poɾ los ˌiŋɡɾeðjˈɛntes i eksplˈika ke nˈo pwˈeðe komˈeɾ nwˈeses."
+        },
+        {
+          "text": "At the market, Sara compares prices and buys fresh vegetables.",
+          "segments": [
+            {
+              "text": "At the market, Sara compares prices and buys fresh vegetables.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "æt ðə mˈɑːɹkɪt, sˈɛɹə kəmpˈɛɹz pɹˈaɪsᵻz ænd bˈaɪz fɹˈɛʃ vˈɛdʒɪɾəbəlz."
+        },
+        {
+          "text": "Later she orders the daily special, asks about the ingredients, and explains that she cannot eat nuts.",
+          "segments": [
+            {
+              "text": "Later she orders the daily special, asks about the ingredients, and explains that she cannot eat nuts.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "lˈeɪɾɚ ʃiː ˈɔːɹdɚz ðə dˈeɪli spˈɛʃəl, ˈæsks ɐbˌaʊt ðɪ ɪŋɡɹˈiːdiənts, ænd ɛksplˈeɪnz ðæt ʃiː kænˈɑːt ˈiːt nˈʌts."
+        }
+      ]
+    },
+    {
+      "file": "02.wav",
+      "text": "Read again for evidence. Identify who acts, what changes, when it happens, and which words establish the relationship between events.",
+      "sentences": [
+        {
+          "text": "Read again for evidence.",
+          "segments": [
+            {
+              "text": "Read again for evidence.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɹˈiːd ɐɡˈɛn fɔːɹ ˈɛvɪdəns."
+        },
+        {
+          "text": "Identify who acts, what changes, when it happens, and which words establish the relationship between events.",
+          "segments": [
+            {
+              "text": "Identify who acts, what changes, when it happens, and which words establish the relationship between events.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "aɪdˈɛntᵻfˌaɪ hˌuː ˈækts, wˌʌt tʃˈeɪndʒᵻz, wˌɛn ɪt hˈæpənz, ænd wˌɪtʃ wˈɜːdz ɪstˈæblɪʃ ðə ɹᵻlˈeɪʃənʃˌɪp bᵻtwˌiːn ᵻvˈɛnts."
+        }
+      ]
+    },
+    {
+      "file": "03.wav",
+      "text": "Reading activities. Reading activity 25; Reading activity 26",
+      "sentences": [
+        {
+          "text": "Reading activities.",
+          "segments": [
+            {
+              "text": "Reading activities.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɹˈiːdɪŋ æktˈɪvᵻɾiz."
+        },
+        {
+          "text": "Reading activity 25; Reading activity 26",
+          "segments": [
+            {
+              "text": "Reading activity 25; Reading activity 26",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɹˈiːdɪŋ æktˈɪvᵻɾi twˈɛnti fˈaɪv; ɹˈiːdɪŋ æktˈɪvᵻɾi twˈɛnti sˈɪks"
+        }
+      ]
+    },
+    {
+      "file": "04.wav",
+      "text": "Retell. Without looking back, give the main idea, three supporting details, and one reasonable inference in Spanish.",
+      "sentences": [
+        {
+          "text": "Retell.",
+          "segments": [
+            {
+              "text": "Retell.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɹᵻtˈɛl."
+        },
+        {
+          "text": "Without looking back, give the main idea, three supporting details, and one reasonable inference in Spanish.",
+          "segments": [
+            {
+              "text": "Without looking back, give the main idea, three supporting details, and one reasonable inference in Spanish.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wɪðˌaʊt lˈʊkɪŋ bˈæk, ɡˈɪv ðə mˈeɪn aɪdˈiə, θɹˈiː səpˈɔːɹɾɪŋ diːtˈeɪlz, ænd wˈʌn ɹˈiːzənəbəl ˈɪnfɚɹəns ɪn spˈænɪʃ."
+        }
+      ]
+    },
+    {
+      "file": "05.wav",
+      "text": "Model language. Quisiera probar el plato del día. — I would like to try the daily special. ¿Cuánto cuesta un kilo de tomates? — How much does a kilogram of tomatoes cost? Para mí, una sopa sin carne. — For me, a soup without meat. El camarero nos trae la cuenta. — The waiter brings us the bill. Disculpe, pedí agua y no refresco. — Excuse me, I ordered water, not soda.",
+      "sentences": [
+        {
+          "text": "Model language.",
+          "segments": [
+            {
+              "text": "Model language.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
+        },
+        {
+          "text": "Quisiera probar el plato del día.",
+          "segments": [
+            {
+              "text": "Quisiera probar el plato del día.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kisjˈeɾa pɾoβˈaɾ el plˈato ðel ðˈia."
+        },
+        {
+          "text": "— I would like to try the daily special.",
+          "segments": [
+            {
+              "text": "— I would like to try the daily special.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— aɪ wʊd lˈaɪk tə tɹˈaɪ ðə dˈeɪli spˈɛʃəl."
+        },
+        {
+          "text": "¿Cuánto cuesta un kilo de tomates?",
+          "segments": [
+            {
+              "text": "¿Cuánto cuesta un kilo de tomates?",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kwˈanto kwˈesta ˈuŋ kˈilo ðe tomˈates?"
+        },
+        {
+          "text": "— How much does a kilogram of tomatoes cost?",
+          "segments": [
+            {
+              "text": "— How much does a kilogram of tomatoes cost?",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— hˌaʊ mˈʌtʃ dˈʌz ɐ kˈɪləɡɹˌæm ʌv təmˈeɪɾoʊz kˈɔst?"
+        },
+        {
+          "text": "Para mí, una sopa sin carne.",
+          "segments": [
+            {
+              "text": "Para mí, una sopa sin carne.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "pˌaɾa mˈi, ˈuna sˈopa sin kˈaɾne."
+        },
+        {
+          "text": "— For me, a soup without meat.",
+          "segments": [
+            {
+              "text": "— For me, a soup without meat.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— fɔːɹ mˌiː, ɐ sˈuːp wɪðˌaʊt mˈiːt."
+        },
+        {
+          "text": "El camarero nos trae la cuenta.",
+          "segments": [
+            {
+              "text": "El camarero nos trae la cuenta.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "el kˌamaɾˈeɾo nos tɾˈae la kwˈɛnta."
+        },
+        {
+          "text": "— The waiter brings us the bill.",
+          "segments": [
+            {
+              "text": "— The waiter brings us the bill.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— ðə wˈeɪɾɚ bɹˈɪŋz ˌʌs ðə bˈɪl."
+        },
+        {
+          "text": "Disculpe, pedí agua y no refresco.",
+          "segments": [
+            {
+              "text": "Disculpe, pedí agua y no refresco.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "diskˈulpe, peðˈi ˈaɣwa i nˈo refɾˈesko."
+        },
+        {
+          "text": "— Excuse me, I ordered water, not soda.",
+          "segments": [
+            {
+              "text": "— Excuse me, I ordered water, not soda.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— ekskˈuse mˈe, ˈi ˌoɾðeɾˈed watˈeɾ, nˈot sˈoða."
+        }
+      ]
+    },
+    {
+      "file": "06.wav",
+      "text": "Check your readiness. Explain the core idea. Produce an original example. Complete the section assessment at 85% or higher.",
+      "sentences": [
+        {
+          "text": "Check your readiness.",
+          "segments": [
+            {
+              "text": "Check your readiness.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tʃˈɛk jʊɹ ɹˈɛdinəs."
+        },
+        {
+          "text": "Explain the core idea.",
+          "segments": [
+            {
+              "text": "Explain the core idea.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɛksplˈeɪn ðə kˈɔːɹ aɪdˈiə."
+        },
+        {
+          "text": "Produce an original example.",
+          "segments": [
+            {
+              "text": "Produce an original example.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "pɹədˈuːs ɐn ɚɹˈɪdʒɪnəl ɛɡzˈæmpəl."
+        },
+        {
+          "text": "Complete the section assessment at 85% or higher.",
+          "segments": [
+            {
+              "text": "Complete the section assessment at 85% or higher.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "kəmplˈiːt ðə sˈɛkʃən ɐsˈɛsmənt æɾ ˈeɪɾi fˈaɪv pɚsˈɛnt ɔːɹ hˈaɪɚ."
+        }
+      ]
+    },
+    {
+      "file": "vocab-00.wav",
+      "text": "el mercado",
+      "sentences": [
+        {
+          "text": "el mercado",
+          "segments": [
+            {
+              "text": "el mercado",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "el meɾkˈaðo"
+        }
+      ]
+    },
+    {
+      "file": "vocab-01.wav",
+      "text": "la cuenta",
+      "sentences": [
+        {
+          "text": "la cuenta",
+          "segments": [
+            {
+              "text": "la cuenta",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "la kwˈɛnta"
+        }
+      ]
+    },
+    {
+      "file": "vocab-02.wav",
+      "text": "el plato",
+      "sentences": [
+        {
+          "text": "el plato",
+          "segments": [
+            {
+              "text": "el plato",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "el plˈato"
+        }
+      ]
+    },
+    {
+      "file": "vocab-03.wav",
+      "text": "la bebida",
+      "sentences": [
+        {
+          "text": "la bebida",
+          "segments": [
+            {
+              "text": "la bebida",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "la βeβˈiða"
+        }
+      ]
+    },
+    {
+      "file": "vocab-04.wav",
+      "text": "un kilo",
+      "sentences": [
+        {
+          "text": "un kilo",
+          "segments": [
+            {
+              "text": "un kilo",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˈuŋ kˈilo"
+        }
+      ]
+    },
+    {
+      "file": "vocab-05.wav",
+      "text": "sin",
+      "sentences": [
+        {
+          "text": "sin",
+          "segments": [
+            {
+              "text": "sin",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "sˈin"
+        }
+      ]
+    },
+    {
+      "file": "vocab-06.wav",
+      "text": "quisiera",
+      "sentences": [
+        {
+          "text": "quisiera",
+          "segments": [
+            {
+              "text": "quisiera",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kisjˈeɾa"
+        }
+      ]
+    },
+    {
+      "file": "vocab-07.wav",
+      "text": "probar",
+      "sentences": [
+        {
+          "text": "probar",
+          "segments": [
+            {
+              "text": "probar",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "pɾoβˈaɾ"
+        }
+      ]
+    }
+  ]
+}

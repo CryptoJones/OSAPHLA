@@ -45,7 +45,7 @@ export function LessonPage({ course, progress, onProgress }: { course: Course; p
 
       <section className="models" aria-labelledby="models-title"><p className="eyebrow">Pattern evidence</p><h2 id="models-title">Model sentences</h2><ol>{section.modelSentences.map((sentence, index) => <li key={sentence}><strong lang="es">{sentence}</strong><span>{section.modelTranslations[index]}</span></li>)}</ol></section>
 
-      {section.readingAssignments.length > 0 && <section className="reader-assignments" aria-labelledby="reader-assignment-title"><p className="eyebrow">Extensive reading</p><h2 id="reader-assignment-title">Assigned reading activities</h2><ul>{section.readingAssignments.map((assignment) => <li key={assignment.id}><strong>{assignment.label}</strong></li>)}</ul></section>}
+      {section.readingAssignments.length > 0 && <section className="reader-assignments" aria-labelledby="reader-assignment-title"><p className="eyebrow">Extensive reading</p><h2 id="reader-assignment-title">Assigned reading activities</h2><ul>{section.readingAssignments.map((assignment) => <li key={assignment.id}><Link to={`/readers?activity=${encodeURIComponent(assignment.id)}`}><strong>{assignment.label}</strong><span>{assignment.focus}</span></Link></li>)}</ul></section>}
 
       <SpeechLab sectionId={section.id} target={section.modelSentences[0]} meaning={section.modelTranslations[0]} />
       <Assessment section={section} onComplete={onProgress} />

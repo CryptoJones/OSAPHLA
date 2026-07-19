@@ -1,0 +1,435 @@
+{
+  "profile": "dora",
+  "utterances": [
+    {
+      "file": "00.wav",
+      "text": "Week 7: Questions and High-Frequency Irregulars. request specific information state ability and intention repair a misunderstanding",
+      "sentences": [
+        {
+          "text": "Week 7: Questions and High-Frequency Irregulars.",
+          "segments": [
+            {
+              "text": "Week 7: Questions and High-Frequency Irregulars.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wˈiːk sˈɛvən: kwˈɛstʃənz ænd hˈaɪfɹˈiːkwənsi ɪɹˈɛɡjʊlɚz."
+        },
+        {
+          "text": "request specific information state ability and intention repair a misunderstanding",
+          "segments": [
+            {
+              "text": "request specific information state ability and intention repair a misunderstanding",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɹᵻkwˈɛst spəsˈɪfɪk ˌɪnfɚmˈeɪʃən stˈeɪt ɐbˈɪləɾi ænd ɪntˈɛnʃən ɹᵻpˈɛɹ ɐ mɪsˌʌndɚstˈændɪŋ"
+        }
+      ]
+    },
+    {
+      "file": "01.wav",
+      "text": "Mission brief. Conduct an information interview using at least six different interrogatives.",
+      "sentences": [
+        {
+          "text": "Mission brief.",
+          "segments": [
+            {
+              "text": "Mission brief.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "mˈɪʃən bɹˈiːf."
+        },
+        {
+          "text": "Conduct an information interview using at least six different interrogatives.",
+          "segments": [
+            {
+              "text": "Conduct an information interview using at least six different interrogatives.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "kˈɑːndʌkt ɐn ˌɪnfɚmˈeɪʃən ˈɪntɚvjˌuː jˈuːzɪŋ æt lˈiːst sˈɪks dˈɪfɹənt ɪntˈɛɹəɡətˌɪvz."
+        }
+      ]
+    },
+    {
+      "file": "02.wav",
+      "text": "Preparation. Select ten useful words, three linking expressions, and two repair phrases. Plan points rather than a memorized paragraph.",
+      "sentences": [
+        {
+          "text": "Preparation.",
+          "segments": [
+            {
+              "text": "Preparation.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "pɹˌɛpɚɹˈeɪʃən."
+        },
+        {
+          "text": "Select ten useful words, three linking expressions, and two repair phrases.",
+          "segments": [
+            {
+              "text": "Select ten useful words, three linking expressions, and two repair phrases.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "sᵻlˈɛkt tˈɛn jˈuːsfəl wˈɜːdz, θɹˈiː lˈɪŋkɪŋ ɛkspɹˈɛʃənz, ænd tˈuː ɹᵻpˈɛɹ fɹˈeɪzᵻz."
+        },
+        {
+          "text": "Plan points rather than a memorized paragraph.",
+          "segments": [
+            {
+              "text": "Plan points rather than a memorized paragraph.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "plˈæn pˈɔɪnts ɹˈæðɚ ðˌænə mˈɛmɚɹˌaɪzd pˈæɹəɡɹˌæf."
+        }
+      ]
+    },
+    {
+      "file": "03.wav",
+      "text": "Performance. Complete the task once for fluency, review the evidence, then repeat it for greater clarity and accuracy.",
+      "sentences": [
+        {
+          "text": "Performance.",
+          "segments": [
+            {
+              "text": "Performance.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "pɚfˈɔːɹməns."
+        },
+        {
+          "text": "Complete the task once for fluency, review the evidence, then repeat it for greater clarity and accuracy.",
+          "segments": [
+            {
+              "text": "Complete the task once for fluency, review the evidence, then repeat it for greater clarity and accuracy.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "kəmplˈiːt ðə tˈæsk wˈʌns fɔːɹ flˈuːənsi, ɹᵻvjˈuː ðɪ ˈɛvɪdəns, ðˈɛn ɹᵻpˈiːt ɪt fɔːɹ ɡɹˈeɪɾɚ klˈæɹᵻɾi ænd ˈækjʊɹəsi."
+        }
+      ]
+    },
+    {
+      "file": "04.wav",
+      "text": "After-action review. Record what succeeded, what blocked communication, and the single change that will matter most on the next attempt.",
+      "sentences": [
+        {
+          "text": "After-action review.",
+          "segments": [
+            {
+              "text": "After-action review.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ˈæftɚɹˈækʃən ɹᵻvjˈuː."
+        },
+        {
+          "text": "Record what succeeded, what blocked communication, and the single change that will matter most on the next attempt.",
+          "segments": [
+            {
+              "text": "Record what succeeded, what blocked communication, and the single change that will matter most on the next attempt.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɹˈɛkɚd wʌt səksˈiːdᵻd, wˌʌt blˈɑːkt kəmjˌuːnɪkˈeɪʃən, ænd ðə sˈɪŋɡəl tʃˈeɪndʒ ðæt wɪl mˈæɾɚ mˈoʊst ɔnðə nˈɛkst ɐtˈɛmpt."
+        }
+      ]
+    },
+    {
+      "file": "05.wav",
+      "text": "Model language. ¿Qué quiere hacer hoy? — What do you want to do today? ¿Cuándo viene el autobús? — When does the bus come? No sé; ¿puede repetirlo? — I don't know; can you repeat that? Tengo que hacer una llamada. — I have to make a call. ¿Por qué dices eso? — Why do you say that?",
+      "sentences": [
+        {
+          "text": "Model language.",
+          "segments": [
+            {
+              "text": "Model language.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
+        },
+        {
+          "text": "¿Qué quiere hacer hoy?",
+          "segments": [
+            {
+              "text": "¿Qué quiere hacer hoy?",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kˈe kjˈeɾe asˈeɾ ˈoɪ?"
+        },
+        {
+          "text": "— What do you want to do today?",
+          "segments": [
+            {
+              "text": "— What do you want to do today?",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— wˌʌt dˈuː juː wˈɔnt tə dˈuː tədˈeɪ?"
+        },
+        {
+          "text": "¿Cuándo viene el autobús?",
+          "segments": [
+            {
+              "text": "¿Cuándo viene el autobús?",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kwˈando βjˈene el ˌaʊtoβˈus?"
+        },
+        {
+          "text": "— When does the bus come?",
+          "segments": [
+            {
+              "text": "— When does the bus come?",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— wˌɛn dˈʌz ðə bˈʌs kˈʌm?"
+        },
+        {
+          "text": "No sé; ¿puede repetirlo?",
+          "segments": [
+            {
+              "text": "No sé; ¿puede repetirlo?",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "nˈo sˈe; pwˈeðe rˌepetˈiɾlo?"
+        },
+        {
+          "text": "— I don't know; can you repeat that?",
+          "segments": [
+            {
+              "text": "— I don't know; can you repeat that?",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— aɪ dˈoʊnt nˈoʊ; kæn juː ɹᵻpˈiːt ðˈæt?"
+        },
+        {
+          "text": "Tengo que hacer una llamada.",
+          "segments": [
+            {
+              "text": "Tengo que hacer una llamada.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "tˈɛŋɡo ke asˈeɾ ˈuna ʝamˈaða."
+        },
+        {
+          "text": "— I have to make a call.",
+          "segments": [
+            {
+              "text": "— I have to make a call.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— aɪ hæv tə mˌeɪk ɐ kˈɔːl."
+        },
+        {
+          "text": "¿Por qué dices eso?",
+          "segments": [
+            {
+              "text": "¿Por qué dices eso?",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "poɾ kˈe ðˈises ˈeso?"
+        },
+        {
+          "text": "— Why do you say that?",
+          "segments": [
+            {
+              "text": "— Why do you say that?",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— wˌaɪ dˈuː juː sˈeɪ ðˈæt?"
+        }
+      ]
+    },
+    {
+      "file": "06.wav",
+      "text": "Check your readiness. Explain the core idea. Produce an original example. Complete the section assessment at 85% or higher.",
+      "sentences": [
+        {
+          "text": "Check your readiness.",
+          "segments": [
+            {
+              "text": "Check your readiness.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tʃˈɛk jʊɹ ɹˈɛdinəs."
+        },
+        {
+          "text": "Explain the core idea.",
+          "segments": [
+            {
+              "text": "Explain the core idea.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɛksplˈeɪn ðə kˈɔːɹ aɪdˈiə."
+        },
+        {
+          "text": "Produce an original example.",
+          "segments": [
+            {
+              "text": "Produce an original example.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "pɹədˈuːs ɐn ɚɹˈɪdʒɪnəl ɛɡzˈæmpəl."
+        },
+        {
+          "text": "Complete the section assessment at 85% or higher.",
+          "segments": [
+            {
+              "text": "Complete the section assessment at 85% or higher.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "kəmplˈiːt ðə sˈɛkʃən ɐsˈɛsmənt æɾ ˈeɪɾi fˈaɪv pɚsˈɛnt ɔːɹ hˈaɪɚ."
+        }
+      ]
+    },
+    {
+      "file": "vocab-00.wav",
+      "text": "qué",
+      "sentences": [
+        {
+          "text": "qué",
+          "segments": [
+            {
+              "text": "qué",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kˈe"
+        }
+      ]
+    },
+    {
+      "file": "vocab-01.wav",
+      "text": "quién",
+      "sentences": [
+        {
+          "text": "quién",
+          "segments": [
+            {
+              "text": "quién",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kjˈen"
+        }
+      ]
+    },
+    {
+      "file": "vocab-02.wav",
+      "text": "cuándo",
+      "sentences": [
+        {
+          "text": "cuándo",
+          "segments": [
+            {
+              "text": "cuándo",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kwˈando"
+        }
+      ]
+    },
+    {
+      "file": "vocab-03.wav",
+      "text": "dónde",
+      "sentences": [
+        {
+          "text": "dónde",
+          "segments": [
+            {
+              "text": "dónde",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "dˈonde"
+        }
+      ]
+    },
+    {
+      "file": "vocab-04.wav",
+      "text": "por qué",
+      "sentences": [
+        {
+          "text": "por qué",
+          "segments": [
+            {
+              "text": "por qué",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "poɾ kˈe"
+        }
+      ]
+    },
+    {
+      "file": "vocab-05.wav",
+      "text": "cómo",
+      "sentences": [
+        {
+          "text": "cómo",
+          "segments": [
+            {
+              "text": "cómo",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kˈomo"
+        }
+      ]
+    },
+    {
+      "file": "vocab-06.wav",
+      "text": "poder",
+      "sentences": [
+        {
+          "text": "poder",
+          "segments": [
+            {
+              "text": "poder",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "poðˈeɾ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-07.wav",
+      "text": "querer",
+      "sentences": [
+        {
+          "text": "querer",
+          "segments": [
+            {
+              "text": "querer",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "keɾˈeɾ"
+        }
+      ]
+    }
+  ]
+}

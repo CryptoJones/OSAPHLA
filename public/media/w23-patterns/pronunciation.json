@@ -1,0 +1,535 @@
+{
+  "profile": "dora",
+  "utterances": [
+    {
+      "file": "00.wav",
+      "text": "Week 23: Perfect Tenses and Relevant Past. report experience and recent developments connect past action to present relevance sequence prior events",
+      "sentences": [
+        {
+          "text": "Week 23: Perfect Tenses and Relevant Past.",
+          "segments": [
+            {
+              "text": "Week 23: Perfect Tenses and Relevant Past.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wˈiːk twˈɛnti θɹˈiː: pˈɜːfɛkt tˈɛnsᵻz ænd ɹˈɛlᵻvənt pˈæst."
+        },
+        {
+          "text": "report experience and recent developments connect past action to present relevance sequence prior events",
+          "segments": [
+            {
+              "text": "report experience and recent developments connect past action to present relevance sequence prior events",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɹᵻpˈɔːɹt ɛkspˈiəɹɪəns ænd ɹˈiːsənt dɪvˈɛləpmənts kənˈɛkt pˈæst ˈækʃən tə pɹɪzˈɛnt ɹˈɛlᵻvəns sˈiːkwəns pɹˈaɪɚɹ ᵻvˈɛnts"
+        }
+      ]
+    },
+    {
+      "file": "01.wav",
+      "text": "Form and meaning. Present perfect; past participles; regional preterite/perfect preferences; pluperfect introduction.",
+      "sentences": [
+        {
+          "text": "Form and meaning.",
+          "segments": [
+            {
+              "text": "Form and meaning.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "fˈɔːɹm ænd mˈiːnɪŋ."
+        },
+        {
+          "text": "Present perfect; past participles; regional preterite/perfect preferences; pluperfect introduction.",
+          "segments": [
+            {
+              "text": "Present perfect; past participles; regional preterite/perfect preferences; pluperfect introduction.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "pɹˈɛzənt pˈɜːfɛkt; pˈæst pɑːɹtˈɪsɪpəlz; ɹˈiːdʒənəl pɹɪtˈɛɹaɪt slˈæʃ pˈɜːfɛkt pɹˈɛfɹənsᵻz; plˈuːpɚfˌɛkt ˌɪntɹədˈʌkʃən."
+        }
+      ]
+    },
+    {
+      "file": "02.wav",
+      "text": "Model set. Ya hemos completado la primera fase. Todavía no han llegado los datos. ¿Alguna vez has trabajado en Chile? Cuando llamó, yo ya había enviado el informe. La situación ha cambiado recientemente. We have already completed the first phase. The data have not arrived yet. Have you ever worked in Chile? When he or she called, I had already sent the report. The situation has changed recently.",
+      "sentences": [
+        {
+          "text": "Model set.",
+          "segments": [
+            {
+              "text": "Model set.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "mˈɑːdəl sˈɛt."
+        },
+        {
+          "text": "Ya hemos completado la primera fase.",
+          "segments": [
+            {
+              "text": "Ya hemos completado la primera fase.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ʝˈa ˈemos kˌompletˈaðo la pɾimˈeɾa fˈase."
+        },
+        {
+          "text": "Todavía no han llegado los datos.",
+          "segments": [
+            {
+              "text": "Todavía no han llegado los datos.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "tˌoðaβˈia nˈo ˈan dʒeɣˈaðo los ðˈatos."
+        },
+        {
+          "text": "¿Alguna vez has trabajado en Chile?",
+          "segments": [
+            {
+              "text": "¿Alguna vez has trabajado en Chile?",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "alɣˈuna βˈes ˈas tɾˌaβaxˈaðo en tʃˈile?"
+        },
+        {
+          "text": "Cuando llamó, yo ya había enviado el informe.",
+          "segments": [
+            {
+              "text": "Cuando llamó, yo ya había enviado el informe.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kwˌando ʝamˈo, ʝˈo ʝˈa aβˈia embjˈaðo el infˈoɾme."
+        },
+        {
+          "text": "La situación ha cambiado recientemente.",
+          "segments": [
+            {
+              "text": "La situación ha cambiado recientemente.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "la sˌitwasjˈon ˈa kambjˈaðo resjˈɛntemˈente."
+        },
+        {
+          "text": "We have already completed the first phase.",
+          "segments": [
+            {
+              "text": "We have already completed the first phase.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wiː hæv ɔːlɹˌɛdi kəmplˈiːɾᵻd ðə fˈɜːst fˈeɪz."
+        },
+        {
+          "text": "The data have not arrived yet.",
+          "segments": [
+            {
+              "text": "The data have not arrived yet.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðə dˈeɪɾə hɐvnˌɑːt ɚɹˈaɪvd jˈɛt."
+        },
+        {
+          "text": "Have you ever worked in Chile?",
+          "segments": [
+            {
+              "text": "Have you ever worked in Chile?",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "hæv juː ˈɛvɚ wˈɜːkt ɪn tʃˈɪli?"
+        },
+        {
+          "text": "When he or she called, I had already sent the report.",
+          "segments": [
+            {
+              "text": "When he or she called, I had already sent the report.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wˌɛn hiː ɔːɹ ʃiː kˈɔːld, aɪ hæd ɔːlɹˌɛdi sˈɛnt ðə ɹᵻpˈɔːɹt."
+        },
+        {
+          "text": "The situation has changed recently.",
+          "segments": [
+            {
+              "text": "The situation has changed recently.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðə sˌɪtʃuːˈeɪʃən hɐz tʃˈeɪndʒd ɹˈiːsəntli."
+        }
+      ]
+    },
+    {
+      "file": "03.wav",
+      "text": "Contrastive practice. Change the person, time, number, or level of formality in each model. Preserve the communicative purpose while the grammar changes.",
+      "sentences": [
+        {
+          "text": "Contrastive practice.",
+          "segments": [
+            {
+              "text": "Contrastive practice.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "kˈɑːntɹɐstˌɪv pɹˈæktɪs."
+        },
+        {
+          "text": "Change the person, time, number, or level of formality in each model.",
+          "segments": [
+            {
+              "text": "Change the person, time, number, or level of formality in each model.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tʃˈeɪndʒ ðə pˈɜːsən, tˈaɪm, nˈʌmbɚ, ɔːɹ lˈɛvəl ʌv fɔːɹmˈælᵻɾi ɪn ˈiːtʃ mˈɑːdəl."
+        },
+        {
+          "text": "Preserve the communicative purpose while the grammar changes.",
+          "segments": [
+            {
+              "text": "Preserve the communicative purpose while the grammar changes.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "pɹɪzˈɜːv ðə kəmjˈuːnɪkətˌɪv pˈɜːpəs wˌaɪl ðə ɡɹˈæmɚ tʃˈeɪndʒᵻz."
+        }
+      ]
+    },
+    {
+      "file": "04.wav",
+      "text": "Production check. Say one original sentence for each function: report experience and recent developments; connect past action to present relevance; sequence prior events. Then write it and compare the spoken and written forms.",
+      "sentences": [
+        {
+          "text": "Production check.",
+          "segments": [
+            {
+              "text": "Production check.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "pɹədˈʌkʃən tʃˈɛk."
+        },
+        {
+          "text": "Say one original sentence for each function: report experience and recent developments; connect past action to present relevance; sequence prior events.",
+          "segments": [
+            {
+              "text": "Say one original sentence for each function: report experience and recent developments; connect past action to present relevance; sequence prior events.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "sˈeɪ wˈʌn ɚɹˈɪdʒɪnəl sˈɛntəns fɔːɹ ˈiːtʃ fˈʌŋkʃən: ɹᵻpˈɔːɹt ɛkspˈiəɹɪəns ænd ɹˈiːsənt dɪvˈɛləpmənts; kənˈɛkt pˈæst ˈækʃən tə pɹɪzˈɛnt ɹˈɛlᵻvəns; sˈiːkwəns pɹˈaɪɚɹ ᵻvˈɛnts."
+        },
+        {
+          "text": "Then write it and compare the spoken and written forms.",
+          "segments": [
+            {
+              "text": "Then write it and compare the spoken and written forms.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðˈɛn ɹˈaɪt ɪt ænd kəmpˈɛɹ ðə spˈoʊkən ænd ɹˈɪʔn fˈɔːɹmz."
+        }
+      ]
+    },
+    {
+      "file": "05.wav",
+      "text": "Model language. Ya hemos completado la primera fase. — We have already completed the first phase. Todavía no han llegado los datos. — The data have not arrived yet. ¿Alguna vez has trabajado en Chile? — Have you ever worked in Chile? Cuando llamó, yo ya había enviado el informe. — When he or she called, I had already sent the report. La situación ha cambiado recientemente. — The situation has changed recently.",
+      "sentences": [
+        {
+          "text": "Model language.",
+          "segments": [
+            {
+              "text": "Model language.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
+        },
+        {
+          "text": "Ya hemos completado la primera fase.",
+          "segments": [
+            {
+              "text": "Ya hemos completado la primera fase.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ʝˈa ˈemos kˌompletˈaðo la pɾimˈeɾa fˈase."
+        },
+        {
+          "text": "— We have already completed the first phase.",
+          "segments": [
+            {
+              "text": "— We have already completed the first phase.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— wiː hæv ɔːlɹˌɛdi kəmplˈiːɾᵻd ðə fˈɜːst fˈeɪz."
+        },
+        {
+          "text": "Todavía no han llegado los datos.",
+          "segments": [
+            {
+              "text": "Todavía no han llegado los datos.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "tˌoðaβˈia nˈo ˈan dʒeɣˈaðo los ðˈatos."
+        },
+        {
+          "text": "— The data have not arrived yet.",
+          "segments": [
+            {
+              "text": "— The data have not arrived yet.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— ðə dˈeɪɾə hɐvnˌɑːt ɚɹˈaɪvd jˈɛt."
+        },
+        {
+          "text": "¿Alguna vez has trabajado en Chile?",
+          "segments": [
+            {
+              "text": "¿Alguna vez has trabajado en Chile?",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "alɣˈuna βˈes ˈas tɾˌaβaxˈaðo en tʃˈile?"
+        },
+        {
+          "text": "— Have you ever worked in Chile?",
+          "segments": [
+            {
+              "text": "— Have you ever worked in Chile?",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— hæv juː ˈɛvɚ wˈɜːkt ɪn tʃˈɪli?"
+        },
+        {
+          "text": "Cuando llamó, yo ya había enviado el informe.",
+          "segments": [
+            {
+              "text": "Cuando llamó, yo ya había enviado el informe.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kwˌando ʝamˈo, ʝˈo ʝˈa aβˈia embjˈaðo el infˈoɾme."
+        },
+        {
+          "text": "— When he or she called, I had already sent the report.",
+          "segments": [
+            {
+              "text": "— When he or she called, I had already sent the report.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— wˌɛn hiː ɔːɹ ʃiː kˈɔːld, aɪ hæd ɔːlɹˌɛdi sˈɛnt ðə ɹᵻpˈɔːɹt."
+        },
+        {
+          "text": "La situación ha cambiado recientemente.",
+          "segments": [
+            {
+              "text": "La situación ha cambiado recientemente.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "la sˌitwasjˈon ˈa kambjˈaðo resjˈɛntemˈente."
+        },
+        {
+          "text": "— The situation has changed recently.",
+          "segments": [
+            {
+              "text": "— The situation has changed recently.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— ðə sˌɪtʃuːˈeɪʃən hɐz tʃˈeɪndʒd ɹˈiːsəntli."
+        }
+      ]
+    },
+    {
+      "file": "06.wav",
+      "text": "Check your readiness. Explain the core idea. Produce an original example. Complete the section assessment at 85% or higher.",
+      "sentences": [
+        {
+          "text": "Check your readiness.",
+          "segments": [
+            {
+              "text": "Check your readiness.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tʃˈɛk jʊɹ ɹˈɛdinəs."
+        },
+        {
+          "text": "Explain the core idea.",
+          "segments": [
+            {
+              "text": "Explain the core idea.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɛksplˈeɪn ðə kˈɔːɹ aɪdˈiə."
+        },
+        {
+          "text": "Produce an original example.",
+          "segments": [
+            {
+              "text": "Produce an original example.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "pɹədˈuːs ɐn ɚɹˈɪdʒɪnəl ɛɡzˈæmpəl."
+        },
+        {
+          "text": "Complete the section assessment at 85% or higher.",
+          "segments": [
+            {
+              "text": "Complete the section assessment at 85% or higher.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "kəmplˈiːt ðə sˈɛkʃən ɐsˈɛsmənt æɾ ˈeɪɾi fˈaɪv pɚsˈɛnt ɔːɹ hˈaɪɚ."
+        }
+      ]
+    },
+    {
+      "file": "vocab-00.wav",
+      "text": "todavía no",
+      "sentences": [
+        {
+          "text": "todavía no",
+          "segments": [
+            {
+              "text": "todavía no",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "tˌoðaβˈia nˈo"
+        }
+      ]
+    },
+    {
+      "file": "vocab-01.wav",
+      "text": "ya",
+      "sentences": [
+        {
+          "text": "ya",
+          "segments": [
+            {
+              "text": "ya",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ʝˈa"
+        }
+      ]
+    },
+    {
+      "file": "vocab-02.wav",
+      "text": "alguna vez",
+      "sentences": [
+        {
+          "text": "alguna vez",
+          "segments": [
+            {
+              "text": "alguna vez",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "alɣˈuna βˈes"
+        }
+      ]
+    },
+    {
+      "file": "vocab-03.wav",
+      "text": "nunca",
+      "sentences": [
+        {
+          "text": "nunca",
+          "segments": [
+            {
+              "text": "nunca",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "nˈunka"
+        }
+      ]
+    },
+    {
+      "file": "vocab-04.wav",
+      "text": "recientemente",
+      "sentences": [
+        {
+          "text": "recientemente",
+          "segments": [
+            {
+              "text": "recientemente",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "resjˈɛntemˈente"
+        }
+      ]
+    },
+    {
+      "file": "vocab-05.wav",
+      "text": "completar",
+      "sentences": [
+        {
+          "text": "completar",
+          "segments": [
+            {
+              "text": "completar",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kˌompletˈaɾ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-06.wav",
+      "text": "mejorar",
+      "sentences": [
+        {
+          "text": "mejorar",
+          "segments": [
+            {
+              "text": "mejorar",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "mˌexoɾˈaɾ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-07.wav",
+      "text": "cambiar",
+      "sentences": [
+        {
+          "text": "cambiar",
+          "segments": [
+            {
+              "text": "cambiar",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kambjˈaɾ"
+        }
+      ]
+    }
+  ]
+}

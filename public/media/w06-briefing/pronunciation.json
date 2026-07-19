@@ -1,0 +1,469 @@
+{
+  "profile": "e",
+  "utterances": [
+    {
+      "file": "00.wav",
+      "text": "Week 6: The Present: Regular Actions. describe habits ask about routines say how often something happens",
+      "sentences": [
+        {
+          "text": "Week 6: The Present: Regular Actions.",
+          "segments": [
+            {
+              "text": "Week 6: The Present: Regular Actions.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wˈiːk sˈɪks: ðə pɹˈɛzənt: ɹˈɛɡjʊlɚɹ ˈækʃənz."
+        },
+        {
+          "text": "describe habits ask about routines say how often something happens",
+          "segments": [
+            {
+              "text": "describe habits ask about routines say how often something happens",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "dᵻskɹˈaɪb hˈæbɪts ˈæsk ɐbˌaʊt ɹuːtˈiːnz sˈeɪ hˌaʊ ˈɔfən sˈʌmθɪŋ hˈæpənz"
+        }
+      ]
+    },
+    {
+      "file": "01.wav",
+      "text": "Operational objective. By the end of this section you can describe habits, ask about routines, say how often something happens. The focus is useful performance, not isolated terminology.",
+      "sentences": [
+        {
+          "text": "Operational objective.",
+          "segments": [
+            {
+              "text": "Operational objective.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ˌɑːpɚɹˈeɪʃənəl ɑːbdʒˈɛktɪv."
+        },
+        {
+          "text": "By the end of this section you can describe habits, ask about routines, say how often something happens.",
+          "segments": [
+            {
+              "text": "By the end of this section you can describe habits, ask about routines, say how often something happens.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "baɪ ðɪ ˈɛnd ʌv ðɪs sˈɛkʃən juː kæn dᵻskɹˈaɪb hˈæbɪts, ˈæsk ɐbˌaʊt ɹuːtˈiːnz, sˈeɪ hˌaʊ ˈɔfən sˈʌmθɪŋ hˈæpənz."
+        },
+        {
+          "text": "The focus is useful performance, not isolated terminology.",
+          "segments": [
+            {
+              "text": "The focus is useful performance, not isolated terminology.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðə fˈoʊkəs ɪz jˈuːsfəl pɚfˈɔːɹməns, nˌɑːt ˈaɪsəlˌeɪɾᵻd tˌɜːmɪnˈɑːlədʒi."
+        }
+      ]
+    },
+    {
+      "file": "02.wav",
+      "text": "Language system. Regular -ar, -er, and -ir present tense; subject omission; frequency expressions.",
+      "sentences": [
+        {
+          "text": "Language system.",
+          "segments": [
+            {
+              "text": "Language system.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "lˈæŋɡwɪdʒ sˈɪstəm."
+        },
+        {
+          "text": "Regular -ar, -er, and -ir present tense; subject omission; frequency expressions.",
+          "segments": [
+            {
+              "text": "Regular ",
+              "lang": "en-us"
+            },
+            {
+              "text": "-ar",
+              "lang": "es-419"
+            },
+            {
+              "text": ", ",
+              "lang": "en-us"
+            },
+            {
+              "text": "-er",
+              "lang": "es-419"
+            },
+            {
+              "text": ", and ",
+              "lang": "en-us"
+            },
+            {
+              "text": "-ir",
+              "lang": "es-419"
+            },
+            {
+              "text": " present tense; subject omission; frequency expressions.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɹˈɛɡjʊlɚ ˈaɾ , ˈeɾ , ænd ˈiɾ pɹˈɛzənt tˈɛns; sˈʌbdʒɛkt oʊmˈɪʃən; fɹˈiːkwənsi ɛkspɹˈɛʃənz."
+        }
+      ]
+    },
+    {
+      "file": "03.wav",
+      "text": "Sound and delivery. Keep verb endings audible; do not reduce unstressed syllables to schwa.",
+      "sentences": [
+        {
+          "text": "Sound and delivery.",
+          "segments": [
+            {
+              "text": "Sound and delivery.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "sˈaʊnd ænd dᵻlˈɪvɚɹi."
+        },
+        {
+          "text": "Keep verb endings audible; do not reduce unstressed syllables to schwa.",
+          "segments": [
+            {
+              "text": "Keep verb endings audible; do not reduce unstressed syllables to schwa.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "kˈiːp vˈɜːb ˈɛndɪŋz ˈɔːdᵻbəl; duːnˌɑːt ɹᵻdˈuːs ʌnstɹˈɛst sˈɪləbəlz tə ʃwˈɑː."
+        }
+      ]
+    },
+    {
+      "file": "04.wav",
+      "text": "Core principle. Notice meaning first, then form. Retrieve the new language aloud, compare it with the model, and repair one feature at a time.",
+      "sentences": [
+        {
+          "text": "Core principle.",
+          "segments": [
+            {
+              "text": "Core principle.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "kˈɔːɹ pɹˈɪnsɪpəl."
+        },
+        {
+          "text": "Notice meaning first, then form.",
+          "segments": [
+            {
+              "text": "Notice meaning first, then form.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "nˈoʊɾɪs mˈiːnɪŋ fˈɜːst, ðˈɛn fˈɔːɹm."
+        },
+        {
+          "text": "Retrieve the new language aloud, compare it with the model, and repair one feature at a time.",
+          "segments": [
+            {
+              "text": "Retrieve the new language aloud, compare it with the model, and repair one feature at a time.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɹᵻtɹˈiːv ðə nˈuː lˈæŋɡwɪdʒ ɐlˈaʊd, kəmpˈɛɹ ɪt wɪððə mˈɑːdəl, ænd ɹᵻpˈɛɹ wˈʌn fˈiːtʃɚɹ æɾə tˈaɪm."
+        }
+      ]
+    },
+    {
+      "file": "05.wav",
+      "text": "Model language. Trabajo por la mañana y estudio por la noche. — I work in the morning and study at night. ¿Dónde vives? — Where do you live? Comemos juntos los viernes. — We eat together on Fridays. Ella escribe en su diario cada día. — She writes in her journal every day. A veces bebo café después de comer. — Sometimes I drink coffee after eating.",
+      "sentences": [
+        {
+          "text": "Model language.",
+          "segments": [
+            {
+              "text": "Model language.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
+        },
+        {
+          "text": "Trabajo por la mañana y estudio por la noche.",
+          "segments": [
+            {
+              "text": "Trabajo por la mañana y estudio por la noche.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "tɾaβˈaxo poɾ la maɲˈana i estˈuðjo poɾ la nˈotʃe."
+        },
+        {
+          "text": "— I work in the morning and study at night.",
+          "segments": [
+            {
+              "text": "— I work in the morning and study at night.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— aɪ wˈɜːk ɪnðə mˈɔːɹnɪŋ ænd stˈʌdi æt nˈaɪt."
+        },
+        {
+          "text": "¿Dónde vives?",
+          "segments": [
+            {
+              "text": "¿Dónde vives?",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "dˈonde βˈiβes?"
+        },
+        {
+          "text": "— Where do you live?",
+          "segments": [
+            {
+              "text": "— Where do you live?",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— wˌɛɹ dˈuː juː lˈɪv?"
+        },
+        {
+          "text": "Comemos juntos los viernes.",
+          "segments": [
+            {
+              "text": "Comemos juntos los viernes.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "komˈemos xˈuntos los βjˈeɾnes."
+        },
+        {
+          "text": "— We eat together on Fridays.",
+          "segments": [
+            {
+              "text": "— We eat together on Fridays.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— wiː ˈiːt təɡˌɛðɚɹ ˌɔn fɹˈaɪdeɪz."
+        },
+        {
+          "text": "Ella escribe en su diario cada día.",
+          "segments": [
+            {
+              "text": "Ella escribe en su diario cada día.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˈejja eskɾˈiβe en su ðjˈaɾjo kˈaða ðˈia."
+        },
+        {
+          "text": "— She writes in her journal every day.",
+          "segments": [
+            {
+              "text": "— She writes in her journal every day.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— ʃiː ɹˈaɪts ɪn hɜː dʒˈɜːnəl ˈɛvɹi dˈeɪ."
+        },
+        {
+          "text": "A veces bebo café después de comer.",
+          "segments": [
+            {
+              "text": "A veces bebo café después de comer.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "a βˈeses βˈeβo kafˈe ðespwˈes ðe komˈeɾ."
+        },
+        {
+          "text": "— Sometimes I drink coffee after eating.",
+          "segments": [
+            {
+              "text": "— Sometimes I drink coffee after eating.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— sˈʌmtaɪmz aɪ dɹˈɪŋk kˈɔfi ˈæftɚɹ ˈiːɾɪŋ."
+        }
+      ]
+    },
+    {
+      "file": "06.wav",
+      "text": "Check your readiness. Explain the core idea. Produce an original example. Complete the section assessment at 85% or higher.",
+      "sentences": [
+        {
+          "text": "Check your readiness.",
+          "segments": [
+            {
+              "text": "Check your readiness.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tʃˈɛk jʊɹ ɹˈɛdinəs."
+        },
+        {
+          "text": "Explain the core idea.",
+          "segments": [
+            {
+              "text": "Explain the core idea.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɛksplˈeɪn ðə kˈɔːɹ aɪdˈiə."
+        },
+        {
+          "text": "Produce an original example.",
+          "segments": [
+            {
+              "text": "Produce an original example.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "pɹədˈuːs ɐn ɚɹˈɪdʒɪnəl ɛɡzˈæmpəl."
+        },
+        {
+          "text": "Complete the section assessment at 85% or higher.",
+          "segments": [
+            {
+              "text": "Complete the section assessment at 85% or higher.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "kəmplˈiːt ðə sˈɛkʃən ɐsˈɛsmənt æɾ ˈeɪɾi fˈaɪv pɚsˈɛnt ɔːɹ hˈaɪɚ."
+        }
+      ]
+    },
+    {
+      "file": "vocab-00.wav",
+      "text": "trabajar",
+      "sentences": [
+        {
+          "text": "trabajar",
+          "segments": [
+            {
+              "text": "trabajar",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "tɾˌaβaxˈaɾ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-01.wav",
+      "text": "estudiar",
+      "sentences": [
+        {
+          "text": "estudiar",
+          "segments": [
+            {
+              "text": "estudiar",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˌestuðjˈaɾ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-02.wav",
+      "text": "comer",
+      "sentences": [
+        {
+          "text": "comer",
+          "segments": [
+            {
+              "text": "comer",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "komˈeɾ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-03.wav",
+      "text": "beber",
+      "sentences": [
+        {
+          "text": "beber",
+          "segments": [
+            {
+              "text": "beber",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "beβˈeɾ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-04.wav",
+      "text": "vivir",
+      "sentences": [
+        {
+          "text": "vivir",
+          "segments": [
+            {
+              "text": "vivir",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "biβˈiɾ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-05.wav",
+      "text": "escribir",
+      "sentences": [
+        {
+          "text": "escribir",
+          "segments": [
+            {
+              "text": "escribir",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˌeskɾiβˈiɾ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-06.wav",
+      "text": "siempre",
+      "sentences": [
+        {
+          "text": "siempre",
+          "segments": [
+            {
+              "text": "siempre",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "sjˈempɾe"
+        }
+      ]
+    },
+    {
+      "file": "vocab-07.wav",
+      "text": "a veces",
+      "sentences": [
+        {
+          "text": "a veces",
+          "segments": [
+            {
+              "text": "a veces",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "a βˈeses"
+        }
+      ]
+    }
+  ]
+}

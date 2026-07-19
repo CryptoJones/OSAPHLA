@@ -1,0 +1,789 @@
+{
+  "profile": "y1",
+  "utterances": [
+    {
+      "file": "00.wav",
+      "text": "Week 3: Objects, Gender, and the Classroom. identify people and objects ask what something is follow basic instructions",
+      "sentences": [
+        {
+          "text": "Week 3: Objects, Gender, and the Classroom.",
+          "segments": [
+            {
+              "text": "Week 3: Objects, Gender, and the Classroom.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wˈiːk θɹˈiː: ˈɑːbdʒɛkts, dʒˈɛndɚ, ænd ðə klˈæsɹuːm."
+        },
+        {
+          "text": "identify people and objects ask what something is follow basic instructions",
+          "segments": [
+            {
+              "text": "identify people and objects ask what something is follow basic instructions",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "aɪdˈɛntᵻfˌaɪ pˈiːpəl ænd ˈɑːbdʒɛkts ˈæsk wʌt sˈʌmθɪŋ ɪz fˈɑːloʊ bˈeɪsɪk ɪnstɹˈʌkʃənz"
+        }
+      ]
+    },
+    {
+      "file": "01.wav",
+      "text": "Form and meaning. Noun gender and number; definite and indefinite articles; hay; classroom commands.",
+      "sentences": [
+        {
+          "text": "Form and meaning.",
+          "segments": [
+            {
+              "text": "Form and meaning.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "fˈɔːɹm ænd mˈiːnɪŋ."
+        },
+        {
+          "text": "Noun gender and number; definite and indefinite articles; hay; classroom commands.",
+          "segments": [
+            {
+              "text": "Noun gender and number; definite and indefinite articles; ",
+              "lang": "en-us"
+            },
+            {
+              "text": "hay",
+              "lang": "es-419"
+            },
+            {
+              "text": "; classroom commands.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "nˈaʊn dʒˈɛndɚ ænd nˈʌmbɚ; dˈɛfɪnət ænd ɪndˈɛfɪnət ˈɑːɹɾɪkəlz; ˈaɪ ; klˈæsɹuːm kəmˈændz."
+        }
+      ]
+    },
+    {
+      "file": "02.wav",
+      "text": "Model set. Hay un libro sobre la mesa. ¿Qué es esto? Es una pregunta importante. Abran los cuadernos, por favor. Las respuestas están en la página diez. There is a book on the table. What is this? It is an important question. Open your notebooks, please. The answers are on page ten.",
+      "sentences": [
+        {
+          "text": "Model set.",
+          "segments": [
+            {
+              "text": "Model set.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "mˈɑːdəl sˈɛt."
+        },
+        {
+          "text": "Hay un libro sobre la mesa.",
+          "segments": [
+            {
+              "text": "Hay un libro sobre la mesa.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˈaɪ ˈun lˈiβɾo sˌoβɾe la mˈesa."
+        },
+        {
+          "text": "¿Qué es esto?",
+          "segments": [
+            {
+              "text": "¿Qué es esto?",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kˈe ˈes ˈesto?"
+        },
+        {
+          "text": "Es una pregunta importante.",
+          "segments": [
+            {
+              "text": "Es una pregunta importante.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˈes ˈuna pɾeɣˈunta ˌimpoɾtˈante."
+        },
+        {
+          "text": "Abran los cuadernos, por favor.",
+          "segments": [
+            {
+              "text": "Abran los cuadernos, por favor.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˈaβɾan los kwaðˈeɾnos, poɾ faβˈoɾ."
+        },
+        {
+          "text": "Las respuestas están en la página diez.",
+          "segments": [
+            {
+              "text": "Las respuestas están en la página diez.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "las respwˈestas estˈan en la pˈaxina ðjˈes."
+        },
+        {
+          "text": "There is a book on the table.",
+          "segments": [
+            {
+              "text": "There is a book on the table.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðɛɹ ɪz ɐ bˈʊk ɔnðə tˈeɪbəl."
+        },
+        {
+          "text": "What is this?",
+          "segments": [
+            {
+              "text": "What is this?",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wˌʌt ɪz ðˈɪs?"
+        },
+        {
+          "text": "It is an important question.",
+          "segments": [
+            {
+              "text": "It is an important question.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɪɾ ɪz ɐn ɪmpˈɔːɹtənt kwˈɛstʃən."
+        },
+        {
+          "text": "Open your notebooks, please.",
+          "segments": [
+            {
+              "text": "Open your notebooks, please.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ˈoʊpən jʊɹ nˈoʊtbʊks, plˈiːz."
+        },
+        {
+          "text": "The answers are on page ten.",
+          "segments": [
+            {
+              "text": "The answers are on page ten.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðɪ ˈænsɚz ɑːɹ ˌɔn pˈeɪdʒ tˈɛn."
+        }
+      ]
+    },
+    {
+      "file": "03.wav",
+      "text": "Contrastive practice. Change the person, time, number, or level of formality in each model. Preserve the communicative purpose while the grammar changes.",
+      "sentences": [
+        {
+          "text": "Contrastive practice.",
+          "segments": [
+            {
+              "text": "Contrastive practice.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "kˈɑːntɹɐstˌɪv pɹˈæktɪs."
+        },
+        {
+          "text": "Change the person, time, number, or level of formality in each model.",
+          "segments": [
+            {
+              "text": "Change the person, time, number, or level of formality in each model.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tʃˈeɪndʒ ðə pˈɜːsən, tˈaɪm, nˈʌmbɚ, ɔːɹ lˈɛvəl ʌv fɔːɹmˈælᵻɾi ɪn ˈiːtʃ mˈɑːdəl."
+        },
+        {
+          "text": "Preserve the communicative purpose while the grammar changes.",
+          "segments": [
+            {
+              "text": "Preserve the communicative purpose while the grammar changes.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "pɹɪzˈɜːv ðə kəmjˈuːnɪkətˌɪv pˈɜːpəs wˌaɪl ðə ɡɹˈæmɚ tʃˈeɪndʒᵻz."
+        }
+      ]
+    },
+    {
+      "file": "04.wav",
+      "text": "Production check. Say one original sentence for each function: identify people and objects; ask what something is; follow basic instructions. Then write it and compare the spoken and written forms.",
+      "sentences": [
+        {
+          "text": "Production check.",
+          "segments": [
+            {
+              "text": "Production check.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "pɹədˈʌkʃən tʃˈɛk."
+        },
+        {
+          "text": "Say one original sentence for each function: identify people and objects; ask what something is; follow basic instructions.",
+          "segments": [
+            {
+              "text": "Say one original sentence for each function: identify people and objects; ask what something is; follow basic instructions.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "sˈeɪ wˈʌn ɚɹˈɪdʒɪnəl sˈɛntəns fɔːɹ ˈiːtʃ fˈʌŋkʃən: aɪdˈɛntᵻfˌaɪ pˈiːpəl ænd ˈɑːbdʒɛkts; ˈæsk wʌt sˈʌmθɪŋ ɪz; fˈɑːloʊ bˈeɪsɪk ɪnstɹˈʌkʃənz."
+        },
+        {
+          "text": "Then write it and compare the spoken and written forms.",
+          "segments": [
+            {
+              "text": "Then write it and compare the spoken and written forms.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðˈɛn ɹˈaɪt ɪt ænd kəmpˈɛɹ ðə spˈoʊkən ænd ɹˈɪʔn fˈɔːɹmz."
+        }
+      ]
+    },
+    {
+      "file": "05.wav",
+      "text": "Gender is part of the noun. Every Spanish noun has grammatical gender. Learn the article and noun as one unit: la palabra, not just palabra; el libro, not just libro. Grammatical gender is a word category and does not necessarily describe sex or identity.",
+      "sentences": [
+        {
+          "text": "Gender is part of the noun.",
+          "segments": [
+            {
+              "text": "Gender is part of the noun.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "dʒˈɛndɚɹ ɪz pˈɑːɹt ʌvðə nˈaʊn."
+        },
+        {
+          "text": "Every Spanish noun has grammatical gender.",
+          "segments": [
+            {
+              "text": "Every Spanish noun has grammatical gender.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ˈɛvɹi spˈænɪʃ nˈaʊn hɐz ɡɹɐmˈæɾɪkəl dʒˈɛndɚ."
+        },
+        {
+          "text": "Learn the article and noun as one unit: la palabra, not just palabra; el libro, not just libro.",
+          "segments": [
+            {
+              "text": "Learn the article and noun as one unit: ",
+              "lang": "en-us"
+            },
+            {
+              "text": "la palabra",
+              "lang": "es-419"
+            },
+            {
+              "text": ", not just palabra; ",
+              "lang": "en-us"
+            },
+            {
+              "text": "el libro",
+              "lang": "es-419"
+            },
+            {
+              "text": ", not just libro.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "lˈɜːn ðɪ ˈɑːɹɾɪkəl ænd nˈaʊn æz wˈʌn jˈuːnɪt: la palˈaβɾa , nˌɑːt dʒˈʌst pˈælæbɹə; el lˈiβɾo , nˌɑːt dʒˈʌst lˈaɪbɹoʊ."
+        },
+        {
+          "text": "Grammatical gender is a word category and does not necessarily describe sex or identity.",
+          "segments": [
+            {
+              "text": "Grammatical gender is a word category and does not necessarily describe sex or identity.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɡɹɐmˈæɾɪkəl dʒˈɛndɚɹ ɪz ɐ wˈɜːd kˈæɾɪɡɚɹi ænd dʌznˌɑːt nˌɛsɪsˈɛɹᵻli dᵻskɹˈaɪb sˈɛks ɔːɹ aɪdˈɛntᵻɾi."
+        }
+      ]
+    },
+    {
+      "file": "06.wav",
+      "text": "The four definite articles. Use el with a masculine singular noun and la with a feminine singular noun. Their plurals are los and las: el libro → los libros; la palabra → las palabras.",
+      "sentences": [
+        {
+          "text": "The four definite articles.",
+          "segments": [
+            {
+              "text": "The four definite articles.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðə fˈɔːɹ dˈɛfɪnət ˈɑːɹɾɪkəlz."
+        },
+        {
+          "text": "Use el with a masculine singular noun and la with a feminine singular noun.",
+          "segments": [
+            {
+              "text": "Use el with a masculine singular noun and la with a feminine singular noun.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "jˈuːs ˌɛl wɪð ɐ mˈæskjʊlˌɪn sˈɪŋɡjʊlɚ nˈaʊn ænd lˌæ wɪð ɐ fˈɛmᵻnˌɪn sˈɪŋɡjʊlɚ nˈaʊn."
+        },
+        {
+          "text": "Their plurals are los and las: el libro → los libros; la palabra → las palabras.",
+          "segments": [
+            {
+              "text": "Their plurals are los and las: ",
+              "lang": "en-us"
+            },
+            {
+              "text": "el libro",
+              "lang": "es-419"
+            },
+            {
+              "text": " → los libros; ",
+              "lang": "en-us"
+            },
+            {
+              "text": "la palabra",
+              "lang": "es-419"
+            },
+            {
+              "text": " → las palabras.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðɛɹ plˈʊɹɹəlz ɑːɹ lˌɑːs ænd lˌɑːs: el lˈiβɾo ɹˈaɪt ˈæɹoʊ lˌɑːs lˈaɪbɹoʊz; la palˈaβɾa ɹˈaɪt ˈæɹoʊ lˌɑːs pˈælæbɹəz."
+        }
+      ]
+    },
+    {
+      "file": "07.wav",
+      "text": "Indefinite articles. Un and una mean a or an; unos and unas mean some. They must match the noun: un libro, una mesa, unos libros, unas mesas.",
+      "sentences": [
+        {
+          "text": "Indefinite articles.",
+          "segments": [
+            {
+              "text": "Indefinite articles.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɪndˈɛfɪnət ˈɑːɹɾɪkəlz."
+        },
+        {
+          "text": "Un and una mean a or an; unos and unas mean some.",
+          "segments": [
+            {
+              "text": "Un and una mean a or an; unos and unas mean some.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ˈʌn ænd jˈuːnə mˈiːn ɐ ɔːɹ æn; ˈuːnoʊz ænd jˈuːnəz mˈiːn sˌʌm."
+        },
+        {
+          "text": "They must match the noun: un libro, una mesa, unos libros, unas mesas.",
+          "segments": [
+            {
+              "text": "They must match the noun: un libro, una mesa, unos libros, unas mesas.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðeɪ mˈʌst mˈætʃ ðə nˈaʊn: ˈʌn lˈaɪbɹoʊ, jˈuːnə mˈeɪsə, ˈuːnoʊz lˈaɪbɹoʊz, jˈuːnəz mˈeɪsəz."
+        }
+      ]
+    },
+    {
+      "file": "08.wav",
+      "text": "Patterns are clues, not guarantees. Nouns ending in -o are often masculine, while -a, -ción, -sión, and -dad are often feminine. These are useful clues, not rules without exceptions: el día, el problema, and la mano must be learned with their articles.",
+      "sentences": [
+        {
+          "text": "Patterns are clues, not guarantees.",
+          "segments": [
+            {
+              "text": "Patterns are clues, not guarantees.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "pˈætɚnz ɑːɹ klˈuːz, nˌɑːt ɡˌæɹəntˈiːz."
+        },
+        {
+          "text": "Nouns ending in -o are often masculine, while -a, -ción, -sión, and -dad are often feminine.",
+          "segments": [
+            {
+              "text": "Nouns ending in -o are often masculine, while -a, -",
+              "lang": "en-us"
+            },
+            {
+              "text": "ción",
+              "lang": "es-419"
+            },
+            {
+              "text": ", -",
+              "lang": "en-us"
+            },
+            {
+              "text": "sión",
+              "lang": "es-419"
+            },
+            {
+              "text": ", and -dad are often feminine.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "nˈaʊnz ˈɛndɪŋ ɪn ˈoʊ ɑːɹ ˈɔfən mˈæskjʊlˌɪn, wˌaɪl ˈeɪ, sjˈon , sjˈon , ænd dˈæd ɑːɹ ˈɔfən fˈɛmᵻnˌɪn."
+        },
+        {
+          "text": "These are useful clues, not rules without exceptions: el día, el problema, and la mano must be learned with their articles.",
+          "segments": [
+            {
+              "text": "These are useful clues, not rules without exceptions: el ",
+              "lang": "en-us"
+            },
+            {
+              "text": "día",
+              "lang": "es-419"
+            },
+            {
+              "text": ", el problema, and la mano must be learned with their articles.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðiːz ɑːɹ jˈuːsfəl klˈuːz, nˌɑːt ɹˈuːlz wɪðˌaʊt ɛksˈɛpʃənz: ˌɛl dˈia , ˌɛl pɹˈɑːbəlmə, ænd lˌæ mˈɑːnoʊ mˈʌst biː lˈɜːnd wɪð ðɛɹ ˈɑːɹɾɪkəlz."
+        }
+      ]
+    },
+    {
+      "file": "09.wav",
+      "text": "Agreement across the phrase. Articles, nouns, and descriptive adjectives agree in gender and number: un libro nuevo, una palabra nueva, los libros nuevos, las palabras nuevas. Some adjectives, such as importante, use the same singular form for both genders.",
+      "sentences": [
+        {
+          "text": "Agreement across the phrase.",
+          "segments": [
+            {
+              "text": "Agreement across the phrase.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɐɡɹˈiːmənt əkɹˌɑːs ðə fɹˈeɪz."
+        },
+        {
+          "text": "Articles, nouns, and descriptive adjectives agree in gender and number: un libro nuevo, una palabra nueva, los libros nuevos, las palabras nuevas.",
+          "segments": [
+            {
+              "text": "Articles, nouns, and descriptive adjectives agree in gender and number: un libro nuevo, una palabra nueva, los libros nuevos, las palabras nuevas.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ˈɑːɹɾɪkəlz, nˈaʊnz, ænd dᵻskɹˈɪptɪv ˈædʒɪktˌɪvz ɐɡɹˈiː ɪn dʒˈɛndɚ ænd nˈʌmbɚ: ˈʌn lˈaɪbɹoʊ nˈuːvoʊ, jˈuːnə pˈælæbɹə nˈuːvə, lˌɑːs lˈaɪbɹoʊz nˈuːvoʊz, lˌɑːs pˈælæbɹəz nˈuːvəz."
+        },
+        {
+          "text": "Some adjectives, such as importante, use the same singular form for both genders.",
+          "segments": [
+            {
+              "text": "Some adjectives, such as importante, use the same singular form for both genders.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "sˌʌm ˈædʒɪktˌɪvz, sˈʌtʃ ɐz ɪmpɔːɹtˈɑːnteɪ, jˈuːs ðə sˈeɪm sˈɪŋɡjʊlɚ fˈɔːɹm fɔːɹ bˈoʊθ dʒˈɛndɚz."
+        }
+      ]
+    },
+    {
+      "file": "10.wav",
+      "text": "Model language. Hay un libro sobre la mesa. — There is a book on the table. ¿Qué es esto? — What is this? Es una pregunta importante. — It is an important question. Abran los cuadernos, por favor. — Open your notebooks, please. Las respuestas están en la página diez. — The answers are on page ten.",
+      "sentences": [
+        {
+          "text": "Model language.",
+          "segments": [
+            {
+              "text": "Model language.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
+        },
+        {
+          "text": "Hay un libro sobre la mesa.",
+          "segments": [
+            {
+              "text": "Hay un libro sobre la mesa.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˈaɪ ˈun lˈiβɾo sˌoβɾe la mˈesa."
+        },
+        {
+          "text": "— There is a book on the table.",
+          "segments": [
+            {
+              "text": "— There is a book on the table.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— ðɛɹ ɪz ɐ bˈʊk ɔnðə tˈeɪbəl."
+        },
+        {
+          "text": "¿Qué es esto?",
+          "segments": [
+            {
+              "text": "¿Qué es esto?",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kˈe ˈes ˈesto?"
+        },
+        {
+          "text": "— What is this?",
+          "segments": [
+            {
+              "text": "— What is this?",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— wˌʌt ɪz ðˈɪs?"
+        },
+        {
+          "text": "Es una pregunta importante.",
+          "segments": [
+            {
+              "text": "Es una pregunta importante.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˈes ˈuna pɾeɣˈunta ˌimpoɾtˈante."
+        },
+        {
+          "text": "— It is an important question.",
+          "segments": [
+            {
+              "text": "— It is an important question.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— ɪɾ ɪz ɐn ɪmpˈɔːɹtənt kwˈɛstʃən."
+        },
+        {
+          "text": "Abran los cuadernos, por favor.",
+          "segments": [
+            {
+              "text": "Abran los cuadernos, por favor.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˈaβɾan los kwaðˈeɾnos, poɾ faβˈoɾ."
+        },
+        {
+          "text": "— Open your notebooks, please.",
+          "segments": [
+            {
+              "text": "— Open your notebooks, please.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— ˈoʊpən jʊɹ nˈoʊtbʊks, plˈiːz."
+        },
+        {
+          "text": "Las respuestas están en la página diez.",
+          "segments": [
+            {
+              "text": "Las respuestas están en la página diez.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "las respwˈestas estˈan en la pˈaxina ðjˈes."
+        },
+        {
+          "text": "— The answers are on page ten.",
+          "segments": [
+            {
+              "text": "— The answers are on page ten.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— ðɪ ˈænsɚz ɑːɹ ˌɔn pˈeɪdʒ tˈɛn."
+        }
+      ]
+    },
+    {
+      "file": "11.wav",
+      "text": "Check your readiness. Explain the core idea. Produce an original example. Complete the section assessment at 85% or higher.",
+      "sentences": [
+        {
+          "text": "Check your readiness.",
+          "segments": [
+            {
+              "text": "Check your readiness.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tʃˈɛk jʊɹ ɹˈɛdinəs."
+        },
+        {
+          "text": "Explain the core idea.",
+          "segments": [
+            {
+              "text": "Explain the core idea.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɛksplˈeɪn ðə kˈɔːɹ aɪdˈiə."
+        },
+        {
+          "text": "Produce an original example.",
+          "segments": [
+            {
+              "text": "Produce an original example.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "pɹədˈuːs ɐn ɚɹˈɪdʒɪnəl ɛɡzˈæmpəl."
+        },
+        {
+          "text": "Complete the section assessment at 85% or higher.",
+          "segments": [
+            {
+              "text": "Complete the section assessment at 85% or higher.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "kəmplˈiːt ðə sˈɛkʃən ɐsˈɛsmənt æɾ ˈeɪɾi fˈaɪv pɚsˈɛnt ɔːɹ hˈaɪɚ."
+        }
+      ]
+    },
+    {
+      "file": "vocab-00.wav",
+      "text": "el libro",
+      "sentences": [
+        {
+          "text": "el libro",
+          "segments": [
+            {
+              "text": "el libro",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "el lˈiβɾo"
+        }
+      ]
+    },
+    {
+      "file": "vocab-01.wav",
+      "text": "la mesa",
+      "sentences": [
+        {
+          "text": "la mesa",
+          "segments": [
+            {
+              "text": "la mesa",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "la mˈesa"
+        }
+      ]
+    },
+    {
+      "file": "vocab-02.wav",
+      "text": "la silla",
+      "sentences": [
+        {
+          "text": "la silla",
+          "segments": [
+            {
+              "text": "la silla",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "la sˈijja"
+        }
+      ]
+    },
+    {
+      "file": "vocab-03.wav",
+      "text": "el cuaderno",
+      "sentences": [
+        {
+          "text": "el cuaderno",
+          "segments": [
+            {
+              "text": "el cuaderno",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "el kwaðˈeɾno"
+        }
+      ]
+    },
+    {
+      "file": "vocab-04.wav",
+      "text": "la pregunta",
+      "sentences": [
+        {
+          "text": "la pregunta",
+          "segments": [
+            {
+              "text": "la pregunta",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "la pɾeɣˈunta"
+        }
+      ]
+    },
+    {
+      "file": "vocab-05.wav",
+      "text": "la respuesta",
+      "sentences": [
+        {
+          "text": "la respuesta",
+          "segments": [
+            {
+              "text": "la respuesta",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "la respwˈesta"
+        }
+      ]
+    },
+    {
+      "file": "vocab-06.wav",
+      "text": "abrir",
+      "sentences": [
+        {
+          "text": "abrir",
+          "segments": [
+            {
+              "text": "abrir",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "aβɾˈiɾ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-07.wav",
+      "text": "cerrar",
+      "sentences": [
+        {
+          "text": "cerrar",
+          "segments": [
+            {
+              "text": "cerrar",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "serˈaɾ"
+        }
+      ]
+    }
+  ]
+}

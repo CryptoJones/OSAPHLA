@@ -1,0 +1,463 @@
+{
+  "profile": "santa",
+  "utterances": [
+    {
+      "file": "00.wav",
+      "text": "Week 10: Likes, Preferences, and Leisure. express likes and dislikes invite and suggest compare activities",
+      "sentences": [
+        {
+          "text": "Week 10: Likes, Preferences, and Leisure.",
+          "segments": [
+            {
+              "text": "Week 10: Likes, Preferences, and Leisure.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wˈiːk tˈɛn: lˈaɪks, pɹˈɛfɹənsᵻz, ænd lˈiːʒɚ."
+        },
+        {
+          "text": "express likes and dislikes invite and suggest compare activities",
+          "segments": [
+            {
+              "text": "express likes and dislikes invite and suggest compare activities",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɛkspɹˈɛs lˈaɪks ænd dɪslˈaɪks ɪnvˈaɪt ænd sədʒˈɛst kəmpˈɛɹ æktˈɪvᵻɾiz"
+        }
+      ]
+    },
+    {
+      "file": "01.wav",
+      "text": "Read for the situation. A Camila le encanta el cine, pero a Diego le interesan más los deportes. Buscan una actividad que puedan disfrutar juntos y eligen un festival al aire libre. Camila loves movies, but Diego is more interested in sports. They look for an activity they can enjoy together and choose an outdoor festival.",
+      "sentences": [
+        {
+          "text": "Read for the situation.",
+          "segments": [
+            {
+              "text": "Read for the situation.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɹˈiːd fɚðə sˌɪtʃuːˈeɪʃən."
+        },
+        {
+          "text": "A Camila le encanta el cine, pero a Diego le interesan más los deportes.",
+          "segments": [
+            {
+              "text": "A Camila le encanta el cine, pero a Diego le interesan más los deportes.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "a kamˈila le enkˈanta el sˈine, pˌeɾo a ðjˈeɣo le ˌinteɾˈesan mˈas los ðepˈoɾtes."
+        },
+        {
+          "text": "Buscan una actividad que puedan disfrutar juntos y eligen un festival al aire libre.",
+          "segments": [
+            {
+              "text": "Buscan una actividad que puedan disfrutar juntos y eligen un festival al aire libre.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "bˈuskan ˈuna ˌaktiβiðˈad ke pwˈeðan dˌisfɾutˈaɾ xˈuntos i elˈixen ˈun fˌestiβˈal al ˈaɪɾe lˈiβɾe."
+        },
+        {
+          "text": "Camila loves movies, but Diego is more interested in sports.",
+          "segments": [
+            {
+              "text": "Camila loves movies, but Diego is more interested in sports.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "kæmˈɪlə lˈʌvz mˈuːvɪz, bˌʌt dɪˈeɪɡoʊ ɪz mˈɔːɹ ˈɪntɹɛstᵻd ɪn spˈɔːɹts."
+        },
+        {
+          "text": "They look for an activity they can enjoy together and choose an outdoor festival.",
+          "segments": [
+            {
+              "text": "They look for an activity they can enjoy together and choose an outdoor festival.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðeɪ lˈʊk fɚɹən æktˈɪvᵻɾi ðeɪ kæn ɛndʒˈɔɪ təɡˌɛðɚ ænd tʃˈuːz ɐn aʊtdˈɔːɹ fˈɛstɪvəl."
+        }
+      ]
+    },
+    {
+      "file": "02.wav",
+      "text": "Read again for evidence. Identify who acts, what changes, when it happens, and which words establish the relationship between events.",
+      "sentences": [
+        {
+          "text": "Read again for evidence.",
+          "segments": [
+            {
+              "text": "Read again for evidence.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɹˈiːd ɐɡˈɛn fɔːɹ ˈɛvɪdəns."
+        },
+        {
+          "text": "Identify who acts, what changes, when it happens, and which words establish the relationship between events.",
+          "segments": [
+            {
+              "text": "Identify who acts, what changes, when it happens, and which words establish the relationship between events.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "aɪdˈɛntᵻfˌaɪ hˌuː ˈækts, wˌʌt tʃˈeɪndʒᵻz, wˌɛn ɪt hˈæpənz, ænd wˌɪtʃ wˈɜːdz ɪstˈæblɪʃ ðə ɹᵻlˈeɪʃənʃˌɪp bᵻtwˌiːn ᵻvˈɛnts."
+        }
+      ]
+    },
+    {
+      "file": "03.wav",
+      "text": "Reading activities. Reading activity 23; Reading activity 24",
+      "sentences": [
+        {
+          "text": "Reading activities.",
+          "segments": [
+            {
+              "text": "Reading activities.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɹˈiːdɪŋ æktˈɪvᵻɾiz."
+        },
+        {
+          "text": "Reading activity 23; Reading activity 24",
+          "segments": [
+            {
+              "text": "Reading activity 23; Reading activity 24",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɹˈiːdɪŋ æktˈɪvᵻɾi twˈɛnti θɹˈiː; ɹˈiːdɪŋ æktˈɪvᵻɾi twˈɛnti fˈɔːɹ"
+        }
+      ]
+    },
+    {
+      "file": "04.wav",
+      "text": "Retell. Without looking back, give the main idea, three supporting details, and one reasonable inference in Spanish.",
+      "sentences": [
+        {
+          "text": "Retell.",
+          "segments": [
+            {
+              "text": "Retell.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɹᵻtˈɛl."
+        },
+        {
+          "text": "Without looking back, give the main idea, three supporting details, and one reasonable inference in Spanish.",
+          "segments": [
+            {
+              "text": "Without looking back, give the main idea, three supporting details, and one reasonable inference in Spanish.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wɪðˌaʊt lˈʊkɪŋ bˈæk, ɡˈɪv ðə mˈeɪn aɪdˈiə, θɹˈiː səpˈɔːɹɾɪŋ diːtˈeɪlz, ænd wˈʌn ɹˈiːzənəbəl ˈɪnfɚɹəns ɪn spˈænɪʃ."
+        }
+      ]
+    },
+    {
+      "file": "05.wav",
+      "text": "Model language. Me gusta escuchar música en vivo. — I like listening to live music. A Tomás le interesan los documentales. — Tomás is interested in documentaries. ¿Prefieres salir o quedarte en casa? — Do you prefer going out or staying home? Nos encanta jugar juntos. — We love playing together. El senderismo es más tranquilo que el fútbol. — Hiking is calmer than soccer.",
+      "sentences": [
+        {
+          "text": "Model language.",
+          "segments": [
+            {
+              "text": "Model language.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
+        },
+        {
+          "text": "Me gusta escuchar música en vivo.",
+          "segments": [
+            {
+              "text": "Me gusta escuchar música en vivo.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "me ɣˈusta ˌeskutʃˈaɾ mˈusika em bˈiβo."
+        },
+        {
+          "text": "— I like listening to live music.",
+          "segments": [
+            {
+              "text": "— I like listening to live music.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— aɪ lˈaɪk lˈɪsənɪŋ tə lˈɪv mjˈuːzɪk."
+        },
+        {
+          "text": "A Tomás le interesan los documentales.",
+          "segments": [
+            {
+              "text": "A Tomás le interesan los documentales.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "a tomˈas le ˌinteɾˈesan los ðˌokumentˈales."
+        },
+        {
+          "text": "— Tomás is interested in documentaries.",
+          "segments": [
+            {
+              "text": "— ",
+              "lang": "en-us"
+            },
+            {
+              "text": "Tomás",
+              "lang": "es-419"
+            },
+            {
+              "text": " is interested in documentaries.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— tomˈas ɪz ˈɪntɹɛstᵻd ɪn dˌɑːkjuːmˈɛntɚɹiz."
+        },
+        {
+          "text": "¿Prefieres salir o quedarte en casa?",
+          "segments": [
+            {
+              "text": "¿Prefieres salir o quedarte en casa?",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "pɾefjˈeɾes salˈiɾ o keðˈaɾte en kˈasa?"
+        },
+        {
+          "text": "— Do you prefer going out or staying home?",
+          "segments": [
+            {
+              "text": "— Do you prefer going out or staying home?",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— dˈuː juː pɹɪfˈɜː ɡˌoʊɪŋ ˈaʊt ɔːɹ stˈeɪɪŋ hˈoʊm?"
+        },
+        {
+          "text": "Nos encanta jugar juntos.",
+          "segments": [
+            {
+              "text": "Nos encanta jugar juntos.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "nos enkˈanta xuɣˈaɾ xˈuntos."
+        },
+        {
+          "text": "— We love playing together.",
+          "segments": [
+            {
+              "text": "— We love playing together.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— wiː lˈʌv plˈeɪɪŋ təɡˈɛðɚ."
+        },
+        {
+          "text": "El senderismo es más tranquilo que el fútbol.",
+          "segments": [
+            {
+              "text": "El senderismo es más tranquilo que el fútbol.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "el sˌendeɾˈismo ˈes mˈas tɾankˈilo ke el fˈutβol."
+        },
+        {
+          "text": "— Hiking is calmer than soccer.",
+          "segments": [
+            {
+              "text": "— Hiking is calmer than soccer.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— hˈaɪkɪŋ ɪz kˈɑːmɚ ðɐn sˈɑːkɚ."
+        }
+      ]
+    },
+    {
+      "file": "06.wav",
+      "text": "Check your readiness. Explain the core idea. Produce an original example. Complete the section assessment at 85% or higher.",
+      "sentences": [
+        {
+          "text": "Check your readiness.",
+          "segments": [
+            {
+              "text": "Check your readiness.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tʃˈɛk jʊɹ ɹˈɛdinəs."
+        },
+        {
+          "text": "Explain the core idea.",
+          "segments": [
+            {
+              "text": "Explain the core idea.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɛksplˈeɪn ðə kˈɔːɹ aɪdˈiə."
+        },
+        {
+          "text": "Produce an original example.",
+          "segments": [
+            {
+              "text": "Produce an original example.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "pɹədˈuːs ɐn ɚɹˈɪdʒɪnəl ɛɡzˈæmpəl."
+        },
+        {
+          "text": "Complete the section assessment at 85% or higher.",
+          "segments": [
+            {
+              "text": "Complete the section assessment at 85% or higher.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "kəmplˈiːt ðə sˈɛkʃən ɐsˈɛsmənt æɾ ˈeɪɾi fˈaɪv pɚsˈɛnt ɔːɹ hˈaɪɚ."
+        }
+      ]
+    },
+    {
+      "file": "vocab-00.wav",
+      "text": "gustar",
+      "sentences": [
+        {
+          "text": "gustar",
+          "segments": [
+            {
+              "text": "gustar",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ɡustˈaɾ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-01.wav",
+      "text": "encantar",
+      "sentences": [
+        {
+          "text": "encantar",
+          "segments": [
+            {
+              "text": "encantar",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˌenkantˈaɾ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-02.wav",
+      "text": "interesar",
+      "sentences": [
+        {
+          "text": "interesar",
+          "segments": [
+            {
+              "text": "interesar",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˌinteɾesˈaɾ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-03.wav",
+      "text": "preferir",
+      "sentences": [
+        {
+          "text": "preferir",
+          "segments": [
+            {
+              "text": "preferir",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "pɾˌefeɾˈiɾ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-04.wav",
+      "text": "el cine",
+      "sentences": [
+        {
+          "text": "el cine",
+          "segments": [
+            {
+              "text": "el cine",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "el sˈine"
+        }
+      ]
+    },
+    {
+      "file": "vocab-05.wav",
+      "text": "la música",
+      "sentences": [
+        {
+          "text": "la música",
+          "segments": [
+            {
+              "text": "la música",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "la mˈusika"
+        }
+      ]
+    },
+    {
+      "file": "vocab-06.wav",
+      "text": "el deporte",
+      "sentences": [
+        {
+          "text": "el deporte",
+          "segments": [
+            {
+              "text": "el deporte",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "el ðepˈoɾte"
+        }
+      ]
+    },
+    {
+      "file": "vocab-07.wav",
+      "text": "juntos",
+      "sentences": [
+        {
+          "text": "juntos",
+          "segments": [
+            {
+              "text": "juntos",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "xˈuntos"
+        }
+      ]
+    }
+  ]
+}

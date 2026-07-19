@@ -1,0 +1,475 @@
+{
+  "profile": "santa",
+  "utterances": [
+    {
+      "file": "00.wav",
+      "text": "Week 5: Location, Condition, and Existence. locate a place describe a temporary condition say what is available",
+      "sentences": [
+        {
+          "text": "Week 5: Location, Condition, and Existence.",
+          "segments": [
+            {
+              "text": "Week 5: Location, Condition, and Existence.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wˈiːk fˈaɪv: loʊkˈeɪʃən, kəndˈɪʃən, ænd ɛɡzˈɪstəns."
+        },
+        {
+          "text": "locate a place describe a temporary condition say what is available",
+          "segments": [
+            {
+              "text": "locate a place describe a temporary condition say what is available",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "loʊkˈeɪt ɐ plˈeɪs dᵻskɹˈaɪb ɐ tˈɛmpɚɹˌɛɹi kəndˈɪʃən sˈeɪ wʌt ɪz ɐvˈeɪləbəl"
+        }
+      ]
+    },
+    {
+      "file": "01.wav",
+      "text": "Read for the situation. El centro de información está junto a la entrada. Hay mapas gratis sobre el mostrador, pero la cafetería está cerrada. Los baños están al final del pasillo. The information center is next to the entrance. There are free maps on the counter, but the cafeteria is closed. The restrooms are at the end of the hallway.",
+      "sentences": [
+        {
+          "text": "Read for the situation.",
+          "segments": [
+            {
+              "text": "Read for the situation.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɹˈiːd fɚðə sˌɪtʃuːˈeɪʃən."
+        },
+        {
+          "text": "El centro de información está junto a la entrada.",
+          "segments": [
+            {
+              "text": "El centro de información está junto a la entrada.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "el sˈɛntɾo ðe ˌinfoɾmasjˈon estˈa xˈunto a la entɾˈaða."
+        },
+        {
+          "text": "Hay mapas gratis sobre el mostrador, pero la cafetería está cerrada.",
+          "segments": [
+            {
+              "text": "Hay mapas gratis sobre el mostrador, pero la cafetería está cerrada.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˈaɪ mˈapas ɣɾˈatis sˌoβɾe el mˌostɾaðˈoɾ, pˌeɾo la kˌafeteɾˈia estˈa serˈaða."
+        },
+        {
+          "text": "Los baños están al final del pasillo.",
+          "segments": [
+            {
+              "text": "Los baños están al final del pasillo.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "los βˈaɲos estˈan al finˈal ðel pasˈijjo."
+        },
+        {
+          "text": "The information center is next to the entrance.",
+          "segments": [
+            {
+              "text": "The information center is next to the entrance.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðɪ ˌɪnfɚmˈeɪʃən sˈɛntɚɹ ɪz nˈɛkst tə ðɪ ˈɛntɹəns."
+        },
+        {
+          "text": "There are free maps on the counter, but the cafeteria is closed.",
+          "segments": [
+            {
+              "text": "There are free maps on the counter, but the cafeteria is closed.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðɛɹˌɑːɹ fɹˈiː mˈæps ɔnðə kˈaʊntɚ, bˌʌt ðə kˌæfɪtˈɪɹiə ɪz klˈoʊzd."
+        },
+        {
+          "text": "The restrooms are at the end of the hallway.",
+          "segments": [
+            {
+              "text": "The restrooms are at the end of the hallway.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðə ɹˈɛstɹuːmz ɑːɹ æt ðɪ ˈɛnd ʌvðə hˈɔːlweɪ."
+        }
+      ]
+    },
+    {
+      "file": "02.wav",
+      "text": "Read again for evidence. Identify who acts, what changes, when it happens, and which words establish the relationship between events.",
+      "sentences": [
+        {
+          "text": "Read again for evidence.",
+          "segments": [
+            {
+              "text": "Read again for evidence.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɹˈiːd ɐɡˈɛn fɔːɹ ˈɛvɪdəns."
+        },
+        {
+          "text": "Identify who acts, what changes, when it happens, and which words establish the relationship between events.",
+          "segments": [
+            {
+              "text": "Identify who acts, what changes, when it happens, and which words establish the relationship between events.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "aɪdˈɛntᵻfˌaɪ hˌuː ˈækts, wˌʌt tʃˈeɪndʒᵻz, wˌɛn ɪt hˈæpənz, ænd wˌɪtʃ wˈɜːdz ɪstˈæblɪʃ ðə ɹᵻlˈeɪʃənʃˌɪp bᵻtwˌiːn ᵻvˈɛnts."
+        }
+      ]
+    },
+    {
+      "file": "03.wav",
+      "text": "Reading activities. Reading activity 10; Reading activity 11; Reading activity 12",
+      "sentences": [
+        {
+          "text": "Reading activities.",
+          "segments": [
+            {
+              "text": "Reading activities.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɹˈiːdɪŋ æktˈɪvᵻɾiz."
+        },
+        {
+          "text": "Reading activity 10; Reading activity 11; Reading activity 12",
+          "segments": [
+            {
+              "text": "Reading activity 10; Reading activity 11; Reading activity 12",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɹˈiːdɪŋ æktˈɪvᵻɾi tˈɛn; ɹˈiːdɪŋ æktˈɪvᵻɾi ɪlˈɛvən; ɹˈiːdɪŋ æktˈɪvᵻɾi twˈɛlv"
+        }
+      ]
+    },
+    {
+      "file": "04.wav",
+      "text": "Retell. Without looking back, give the main idea, three supporting details, and one reasonable inference in Spanish.",
+      "sentences": [
+        {
+          "text": "Retell.",
+          "segments": [
+            {
+              "text": "Retell.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɹᵻtˈɛl."
+        },
+        {
+          "text": "Without looking back, give the main idea, three supporting details, and one reasonable inference in Spanish.",
+          "segments": [
+            {
+              "text": "Without looking back, give the main idea, three supporting details, and one reasonable inference in Spanish.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wɪðˌaʊt lˈʊkɪŋ bˈæk, ɡˈɪv ðə mˈeɪn aɪdˈiə, θɹˈiː səpˈɔːɹɾɪŋ diːtˈeɪlz, ænd wˈʌn ɹˈiːzənəbəl ˈɪnfɚɹəns ɪn spˈænɪʃ."
+        }
+      ]
+    },
+    {
+      "file": "05.wav",
+      "text": "Model language. La farmacia está cerca de la plaza. — The pharmacy is near the plaza. Hay un banco delante del hotel. — There is a bank in front of the hotel. El museo está cerrado hoy. — The museum is closed today. ¿Dónde están los baños? — Where are the restrooms? La reunión es en la sala azul. — The meeting is in the blue room.",
+      "sentences": [
+        {
+          "text": "Model language.",
+          "segments": [
+            {
+              "text": "Model language.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
+        },
+        {
+          "text": "La farmacia está cerca de la plaza.",
+          "segments": [
+            {
+              "text": "La farmacia está cerca de la plaza.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "la faɾmˈasja estˈa sˈeɾka ðe la plˈasa."
+        },
+        {
+          "text": "— The pharmacy is near the plaza.",
+          "segments": [
+            {
+              "text": "— The pharmacy is near the plaza.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— ðə fˈɑːɹməsi ɪz nˌɪɹ ðə plˈɑːzə."
+        },
+        {
+          "text": "Hay un banco delante del hotel.",
+          "segments": [
+            {
+              "text": "Hay un banco delante del hotel.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˈaɪ ˈum bˈanko ðelˈante ðel otˈel."
+        },
+        {
+          "text": "— There is a bank in front of the hotel.",
+          "segments": [
+            {
+              "text": "— There is a bank in front of the hotel.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— ðɛɹ ɪz ɐ bˈæŋk ɪn fɹˈʌnt ʌvðə hoʊtˈɛl."
+        },
+        {
+          "text": "El museo está cerrado hoy.",
+          "segments": [
+            {
+              "text": "El museo está cerrado hoy.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "el musˈeo estˈa serˈaðo ˈoɪ."
+        },
+        {
+          "text": "— The museum is closed today.",
+          "segments": [
+            {
+              "text": "— The museum is closed today.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— ðə mjuːzˈiəm ɪz klˈoʊzd tədˈeɪ."
+        },
+        {
+          "text": "¿Dónde están los baños?",
+          "segments": [
+            {
+              "text": "¿Dónde están los baños?",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "dˈonde estˈan los βˈaɲos?"
+        },
+        {
+          "text": "— Where are the restrooms?",
+          "segments": [
+            {
+              "text": "— Where are the restrooms?",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— wˌɛɹ ɑːɹ ðə ɹˈɛstɹuːmz?"
+        },
+        {
+          "text": "La reunión es en la sala azul.",
+          "segments": [
+            {
+              "text": "La reunión es en la sala azul.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "la reʊnjˈon ˈes en la sˈala asˈul."
+        },
+        {
+          "text": "— The meeting is in the blue room.",
+          "segments": [
+            {
+              "text": "— The meeting is in the blue room.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— ðə mˈiːɾɪŋ ɪz ɪnðə blˈuː ɹˈuːm."
+        }
+      ]
+    },
+    {
+      "file": "06.wav",
+      "text": "Check your readiness. Explain the core idea. Produce an original example. Complete the section assessment at 85% or higher.",
+      "sentences": [
+        {
+          "text": "Check your readiness.",
+          "segments": [
+            {
+              "text": "Check your readiness.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tʃˈɛk jʊɹ ɹˈɛdinəs."
+        },
+        {
+          "text": "Explain the core idea.",
+          "segments": [
+            {
+              "text": "Explain the core idea.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɛksplˈeɪn ðə kˈɔːɹ aɪdˈiə."
+        },
+        {
+          "text": "Produce an original example.",
+          "segments": [
+            {
+              "text": "Produce an original example.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "pɹədˈuːs ɐn ɚɹˈɪdʒɪnəl ɛɡzˈæmpəl."
+        },
+        {
+          "text": "Complete the section assessment at 85% or higher.",
+          "segments": [
+            {
+              "text": "Complete the section assessment at 85% or higher.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "kəmplˈiːt ðə sˈɛkʃən ɐsˈɛsmənt æɾ ˈeɪɾi fˈaɪv pɚsˈɛnt ɔːɹ hˈaɪɚ."
+        }
+      ]
+    },
+    {
+      "file": "vocab-00.wav",
+      "text": "aquí",
+      "sentences": [
+        {
+          "text": "aquí",
+          "segments": [
+            {
+              "text": "aquí",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "akˈi"
+        }
+      ]
+    },
+    {
+      "file": "vocab-01.wav",
+      "text": "allí",
+      "sentences": [
+        {
+          "text": "allí",
+          "segments": [
+            {
+              "text": "allí",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ajjˈi"
+        }
+      ]
+    },
+    {
+      "file": "vocab-02.wav",
+      "text": "cerca",
+      "sentences": [
+        {
+          "text": "cerca",
+          "segments": [
+            {
+              "text": "cerca",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "sˈeɾka"
+        }
+      ]
+    },
+    {
+      "file": "vocab-03.wav",
+      "text": "lejos",
+      "sentences": [
+        {
+          "text": "lejos",
+          "segments": [
+            {
+              "text": "lejos",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "lˈexos"
+        }
+      ]
+    },
+    {
+      "file": "vocab-04.wav",
+      "text": "abierto",
+      "sentences": [
+        {
+          "text": "abierto",
+          "segments": [
+            {
+              "text": "abierto",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "aβjˈeɾto"
+        }
+      ]
+    },
+    {
+      "file": "vocab-05.wav",
+      "text": "cerrado",
+      "sentences": [
+        {
+          "text": "cerrado",
+          "segments": [
+            {
+              "text": "cerrado",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "serˈaðo"
+        }
+      ]
+    },
+    {
+      "file": "vocab-06.wav",
+      "text": "delante de",
+      "sentences": [
+        {
+          "text": "delante de",
+          "segments": [
+            {
+              "text": "delante de",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "delˈante ðˈe"
+        }
+      ]
+    },
+    {
+      "file": "vocab-07.wav",
+      "text": "detrás de",
+      "sentences": [
+        {
+          "text": "detrás de",
+          "segments": [
+            {
+              "text": "detrás de",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "detɾˈas ðˈe"
+        }
+      ]
+    }
+  ]
+}

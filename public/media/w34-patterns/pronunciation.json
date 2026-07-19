@@ -1,0 +1,587 @@
+{
+  "profile": "dora",
+  "utterances": [
+    {
+      "file": "00.wav",
+      "text": "Week 34: Pan-Hispanic Variation and Dialect Listening. recognize major regional forms ask for clarification without judgment adapt address and vocabulary",
+      "sentences": [
+        {
+          "text": "Week 34: Pan-Hispanic Variation and Dialect Listening.",
+          "segments": [
+            {
+              "text": "Week 34: Pan-Hispanic Variation and Dialect Listening.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wˈiːk θˈɜːɾi fˈɔːɹ: pˈænhɪspˈænɪk vˌɛɹɪˈeɪʃən ænd dˈaɪəlɛkt lˈɪsənɪŋ."
+        },
+        {
+          "text": "recognize major regional forms ask for clarification without judgment adapt address and vocabulary",
+          "segments": [
+            {
+              "text": "recognize major regional forms ask for clarification without judgment adapt address and vocabulary",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɹˈɛkəɡnˌaɪz mˈeɪdʒɚ ɹˈiːdʒənəl fˈɔːɹmz ˈæsk fɔːɹ klˌæɹɪfɪkˈeɪʃən wɪðˌaʊt dʒˈʌdʒmənt ɐdˈæpt ɐdɹˈɛs ænd voʊkˈæbjʊlˌɛɹi"
+        }
+      ]
+    },
+    {
+      "file": "01.wav",
+      "text": "Form and meaning. Tú, vos, usted, and vosotros systems; leísmo recognition; lexical variation; code-switching and register.",
+      "sentences": [
+        {
+          "text": "Form and meaning.",
+          "segments": [
+            {
+              "text": "Form and meaning.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "fˈɔːɹm ænd mˈiːnɪŋ."
+        },
+        {
+          "text": "Tú, vos, usted, and vosotros systems; leísmo recognition; lexical variation; code-switching and register.",
+          "segments": [
+            {
+              "text": "Tú",
+              "lang": "es-419"
+            },
+            {
+              "text": ", ",
+              "lang": "en-us"
+            },
+            {
+              "text": "vos",
+              "lang": "es-419"
+            },
+            {
+              "text": ", ",
+              "lang": "en-us"
+            },
+            {
+              "text": "usted",
+              "lang": "es-419"
+            },
+            {
+              "text": ", and ",
+              "lang": "en-us"
+            },
+            {
+              "text": "vosotros",
+              "lang": "es-419"
+            },
+            {
+              "text": " systems; ",
+              "lang": "en-us"
+            },
+            {
+              "text": "leísmo",
+              "lang": "es-419"
+            },
+            {
+              "text": " recognition; lexical variation; code-switching and register.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tˈu , bˈos , ustˈed , ænd bosˈotɾos sˈɪstəmz; leˈismo ɹˌɛkəɡnˈɪʃən; lˈɛksɪkəl vˌɛɹɪˈeɪʃən; kˈoʊdswˈɪtʃɪŋ ænd ɹˈɛdʒɪstɚ."
+        }
+      ]
+    },
+    {
+      "file": "02.wav",
+      "text": "Model set. ¿Vos tenés tiempo mañana? Vosotros podéis entrar por aquí. Ustedes esperan la guagua en esa esquina. En México, camión puede significar autobús. No entendí esa palabra; ¿qué significa aquí? Do you have time tomorrow? You all can enter here. You all wait for the bus on that corner. In Mexico, camión can mean bus. I did not understand that word; what does it mean here?",
+      "sentences": [
+        {
+          "text": "Model set.",
+          "segments": [
+            {
+              "text": "Model set.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "mˈɑːdəl sˈɛt."
+        },
+        {
+          "text": "¿Vos tenés tiempo mañana?",
+          "segments": [
+            {
+              "text": "¿Vos tenés tiempo mañana?",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "bˈos tenˈes tjˈempo maɲˈana?"
+        },
+        {
+          "text": "Vosotros podéis entrar por aquí.",
+          "segments": [
+            {
+              "text": "Vosotros podéis entrar por aquí.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "bosˈotɾos poðˈeis entɾˈaɾ poɾ akˈi."
+        },
+        {
+          "text": "Ustedes esperan la guagua en esa esquina.",
+          "segments": [
+            {
+              "text": "Ustedes esperan la guagua en esa esquina.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ustˈeðes espˈeɾan la ɣwˈaɣwa en ˈesa eskˈina."
+        },
+        {
+          "text": "En México, camión puede significar autobús.",
+          "segments": [
+            {
+              "text": "En México, camión puede significar autobús.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "en mˈɛxiko, kamjˈom pwˈeðe sˌiɡnifikˈaɾ ˌaʊtoβˈus."
+        },
+        {
+          "text": "No entendí esa palabra; ¿qué significa aquí?",
+          "segments": [
+            {
+              "text": "No entendí esa palabra; ¿qué significa aquí?",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "nˈo ˌentendˈi ˈesa palˈaβɾa; kˈe sˌiɡnifˈika akˈi?"
+        },
+        {
+          "text": "Do you have time tomorrow?",
+          "segments": [
+            {
+              "text": "Do you have time tomorrow?",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "dˈuː juː hæv tˈaɪm təmˈɑːɹoʊ?"
+        },
+        {
+          "text": "You all can enter here.",
+          "segments": [
+            {
+              "text": "You all can enter here.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "juː ˈɔːl kæn ˈɛntɚ hˈɪɹ."
+        },
+        {
+          "text": "You all wait for the bus on that corner.",
+          "segments": [
+            {
+              "text": "You all wait for the bus on that corner.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "juː ˈɔːl wˈeɪt fɚðə bˈʌs ˌɔn ðæt kˈɔːɹnɚ."
+        },
+        {
+          "text": "In Mexico, camión can mean bus.",
+          "segments": [
+            {
+              "text": "In Mexico, ",
+              "lang": "en-us"
+            },
+            {
+              "text": "camión",
+              "lang": "es-419"
+            },
+            {
+              "text": " can mean bus.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɪn mˈɛksɪkˌoʊ, kamjˈon kæn mˈiːn bˈʌs."
+        },
+        {
+          "text": "I did not understand that word; what does it mean here?",
+          "segments": [
+            {
+              "text": "I did not understand that word; what does it mean here?",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "aɪ dɪdnˌɑːt ˌʌndɚstˈænd ðæt wˈɜːd; wˌʌt dˈʌz ɪt mˈiːn hˈɪɹ?"
+        }
+      ]
+    },
+    {
+      "file": "03.wav",
+      "text": "Contrastive practice. Change the person, time, number, or level of formality in each model. Preserve the communicative purpose while the grammar changes.",
+      "sentences": [
+        {
+          "text": "Contrastive practice.",
+          "segments": [
+            {
+              "text": "Contrastive practice.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "kˈɑːntɹɐstˌɪv pɹˈæktɪs."
+        },
+        {
+          "text": "Change the person, time, number, or level of formality in each model.",
+          "segments": [
+            {
+              "text": "Change the person, time, number, or level of formality in each model.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tʃˈeɪndʒ ðə pˈɜːsən, tˈaɪm, nˈʌmbɚ, ɔːɹ lˈɛvəl ʌv fɔːɹmˈælᵻɾi ɪn ˈiːtʃ mˈɑːdəl."
+        },
+        {
+          "text": "Preserve the communicative purpose while the grammar changes.",
+          "segments": [
+            {
+              "text": "Preserve the communicative purpose while the grammar changes.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "pɹɪzˈɜːv ðə kəmjˈuːnɪkətˌɪv pˈɜːpəs wˌaɪl ðə ɡɹˈæmɚ tʃˈeɪndʒᵻz."
+        }
+      ]
+    },
+    {
+      "file": "04.wav",
+      "text": "Production check. Say one original sentence for each function: recognize major regional forms; ask for clarification without judgment; adapt address and vocabulary. Then write it and compare the spoken and written forms.",
+      "sentences": [
+        {
+          "text": "Production check.",
+          "segments": [
+            {
+              "text": "Production check.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "pɹədˈʌkʃən tʃˈɛk."
+        },
+        {
+          "text": "Say one original sentence for each function: recognize major regional forms; ask for clarification without judgment; adapt address and vocabulary.",
+          "segments": [
+            {
+              "text": "Say one original sentence for each function: recognize major regional forms; ask for clarification without judgment; adapt address and vocabulary.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "sˈeɪ wˈʌn ɚɹˈɪdʒɪnəl sˈɛntəns fɔːɹ ˈiːtʃ fˈʌŋkʃən: ɹˈɛkəɡnˌaɪz mˈeɪdʒɚ ɹˈiːdʒənəl fˈɔːɹmz; ˈæsk fɔːɹ klˌæɹɪfɪkˈeɪʃən wɪðˌaʊt dʒˈʌdʒmənt; ɐdˈæpt ɐdɹˈɛs ænd voʊkˈæbjʊlˌɛɹi."
+        },
+        {
+          "text": "Then write it and compare the spoken and written forms.",
+          "segments": [
+            {
+              "text": "Then write it and compare the spoken and written forms.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðˈɛn ɹˈaɪt ɪt ænd kəmpˈɛɹ ðə spˈoʊkən ænd ɹˈɪʔn fˈɔːɹmz."
+        }
+      ]
+    },
+    {
+      "file": "05.wav",
+      "text": "Model language. ¿Vos tenés tiempo mañana? — Do you have time tomorrow? Vosotros podéis entrar por aquí. — You all can enter here. Ustedes esperan la guagua en esa esquina. — You all wait for the bus on that corner. En México, camión puede significar autobús. — In Mexico, camión can mean bus. No entendí esa palabra; ¿qué significa aquí? — I did not understand that word; what does it mean here?",
+      "sentences": [
+        {
+          "text": "Model language.",
+          "segments": [
+            {
+              "text": "Model language.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
+        },
+        {
+          "text": "¿Vos tenés tiempo mañana?",
+          "segments": [
+            {
+              "text": "¿Vos tenés tiempo mañana?",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "bˈos tenˈes tjˈempo maɲˈana?"
+        },
+        {
+          "text": "— Do you have time tomorrow?",
+          "segments": [
+            {
+              "text": "— Do you have time tomorrow?",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— dˈuː juː hæv tˈaɪm təmˈɑːɹoʊ?"
+        },
+        {
+          "text": "Vosotros podéis entrar por aquí.",
+          "segments": [
+            {
+              "text": "Vosotros podéis entrar por aquí.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "bosˈotɾos poðˈeis entɾˈaɾ poɾ akˈi."
+        },
+        {
+          "text": "— You all can enter here.",
+          "segments": [
+            {
+              "text": "— You all can enter here.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— juː ˈɔːl kæn ˈɛntɚ hˈɪɹ."
+        },
+        {
+          "text": "Ustedes esperan la guagua en esa esquina.",
+          "segments": [
+            {
+              "text": "Ustedes esperan la guagua en esa esquina.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ustˈeðes espˈeɾan la ɣwˈaɣwa en ˈesa eskˈina."
+        },
+        {
+          "text": "— You all wait for the bus on that corner.",
+          "segments": [
+            {
+              "text": "— You all wait for the bus on that corner.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— juː ˈɔːl wˈeɪt fɚðə bˈʌs ˌɔn ðæt kˈɔːɹnɚ."
+        },
+        {
+          "text": "En México, camión puede significar autobús.",
+          "segments": [
+            {
+              "text": "En México, camión puede significar autobús.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "en mˈɛxiko, kamjˈom pwˈeðe sˌiɡnifikˈaɾ ˌaʊtoβˈus."
+        },
+        {
+          "text": "— In Mexico, camión can mean bus.",
+          "segments": [
+            {
+              "text": "— In Mexico, ",
+              "lang": "en-us"
+            },
+            {
+              "text": "camión",
+              "lang": "es-419"
+            },
+            {
+              "text": " can mean bus.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— ɪn mˈɛksɪkˌoʊ, kamjˈon kæn mˈiːn bˈʌs."
+        },
+        {
+          "text": "No entendí esa palabra; ¿qué significa aquí?",
+          "segments": [
+            {
+              "text": "No entendí esa palabra; ¿qué significa aquí?",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "nˈo ˌentendˈi ˈesa palˈaβɾa; kˈe sˌiɡnifˈika akˈi?"
+        },
+        {
+          "text": "— I did not understand that word; what does it mean here?",
+          "segments": [
+            {
+              "text": "— I did not understand that word; what does it mean here?",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— aɪ dɪdnˌɑːt ˌʌndɚstˈænd ðæt wˈɜːd; wˌʌt dˈʌz ɪt mˈiːn hˈɪɹ?"
+        }
+      ]
+    },
+    {
+      "file": "06.wav",
+      "text": "Check your readiness. Explain the core idea. Produce an original example. Complete the section assessment at 85% or higher.",
+      "sentences": [
+        {
+          "text": "Check your readiness.",
+          "segments": [
+            {
+              "text": "Check your readiness.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tʃˈɛk jʊɹ ɹˈɛdinəs."
+        },
+        {
+          "text": "Explain the core idea.",
+          "segments": [
+            {
+              "text": "Explain the core idea.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɛksplˈeɪn ðə kˈɔːɹ aɪdˈiə."
+        },
+        {
+          "text": "Produce an original example.",
+          "segments": [
+            {
+              "text": "Produce an original example.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "pɹədˈuːs ɐn ɚɹˈɪdʒɪnəl ɛɡzˈæmpəl."
+        },
+        {
+          "text": "Complete the section assessment at 85% or higher.",
+          "segments": [
+            {
+              "text": "Complete the section assessment at 85% or higher.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "kəmplˈiːt ðə sˈɛkʃən ɐsˈɛsmənt æɾ ˈeɪɾi fˈaɪv pɚsˈɛnt ɔːɹ hˈaɪɚ."
+        }
+      ]
+    },
+    {
+      "file": "vocab-00.wav",
+      "text": "el autobús",
+      "sentences": [
+        {
+          "text": "el autobús",
+          "segments": [
+            {
+              "text": "el autobús",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "el ˌaʊtoβˈus"
+        }
+      ]
+    },
+    {
+      "file": "vocab-01.wav",
+      "text": "el camión",
+      "sentences": [
+        {
+          "text": "el camión",
+          "segments": [
+            {
+              "text": "el camión",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "el kamjˈon"
+        }
+      ]
+    },
+    {
+      "file": "vocab-02.wav",
+      "text": "la guagua",
+      "sentences": [
+        {
+          "text": "la guagua",
+          "segments": [
+            {
+              "text": "la guagua",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "la ɣwˈaɣwa"
+        }
+      ]
+    },
+    {
+      "file": "vocab-03.wav",
+      "text": "el móvil",
+      "sentences": [
+        {
+          "text": "el móvil",
+          "segments": [
+            {
+              "text": "el móvil",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "el mˈoβil"
+        }
+      ]
+    },
+    {
+      "file": "vocab-04.wav",
+      "text": "el celular",
+      "sentences": [
+        {
+          "text": "el celular",
+          "segments": [
+            {
+              "text": "el celular",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "el sˌelulˈaɾ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-05.wav",
+      "text": "vos tenés",
+      "sentences": [
+        {
+          "text": "vos tenés",
+          "segments": [
+            {
+              "text": "vos tenés",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "bˈos tenˈes"
+        }
+      ]
+    },
+    {
+      "file": "vocab-06.wav",
+      "text": "vosotros tenéis",
+      "sentences": [
+        {
+          "text": "vosotros tenéis",
+          "segments": [
+            {
+              "text": "vosotros tenéis",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "bosˈotɾos tenˈeis"
+        }
+      ]
+    },
+    {
+      "file": "vocab-07.wav",
+      "text": "ustedes tienen",
+      "sentences": [
+        {
+          "text": "ustedes tienen",
+          "segments": [
+            {
+              "text": "ustedes tienen",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ustˈeðes tjˈenen"
+        }
+      ]
+    }
+  ]
+}

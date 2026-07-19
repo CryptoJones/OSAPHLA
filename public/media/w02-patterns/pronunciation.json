@@ -1,0 +1,591 @@
+{
+  "profile": "dora",
+  "utterances": [
+    {
+      "file": "00.wav",
+      "text": "Week 2: Greetings and First Contact. greet and take leave introduce yourself and another person choose tú or usted",
+      "sentences": [
+        {
+          "text": "Week 2: Greetings and First Contact.",
+          "segments": [
+            {
+              "text": "Week 2: Greetings and First Contact.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wˈiːk tˈuː: ɡɹˈiːɾɪŋz ænd fˈɜːst kˈɑːntækt."
+        },
+        {
+          "text": "greet and take leave introduce yourself and another person choose tú or usted",
+          "segments": [
+            {
+              "text": "greet and take leave introduce yourself and another person choose ",
+              "lang": "en-us"
+            },
+            {
+              "text": "tú",
+              "lang": "es-419"
+            },
+            {
+              "text": " or ",
+              "lang": "en-us"
+            },
+            {
+              "text": "usted",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ɡɹˈiːt ænd tˈeɪk lˈiːv ˌɪntɹədˈuːs jɔːɹsˈɛlf ænd ɐnˈʌðɚ pˈɜːsən tʃˈuːz tˈu ɔːɹ ustˈed"
+        }
+      ]
+    },
+    {
+      "file": "01.wav",
+      "text": "Form and meaning. Subject pronouns, polite versus familiar address, present-tense ser for identity, and omitted subjects.",
+      "sentences": [
+        {
+          "text": "Form and meaning.",
+          "segments": [
+            {
+              "text": "Form and meaning.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "fˈɔːɹm ænd mˈiːnɪŋ."
+        },
+        {
+          "text": "Subject pronouns, polite versus familiar address, present-tense ser for identity, and omitted subjects.",
+          "segments": [
+            {
+              "text": "Subject pronouns, polite versus familiar address, present-tense ",
+              "lang": "en-us"
+            },
+            {
+              "text": "ser",
+              "lang": "es-419"
+            },
+            {
+              "text": " for identity, and omitted subjects.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "sˈʌbdʒɛkt pɹˈoʊnaʊnz, pəlˈaɪt vˈɜːsᵻz fəmˈɪlɪɹ ɐdɹˈɛs, pɹˈɛzənttˈɛns sˈer fɔːɹ aɪdˈɛntᵻɾi, ænd oʊmˈɪɾᵻd sˈʌbdʒɛkts."
+        }
+      ]
+    },
+    {
+      "file": "02.wav",
+      "text": "Model set. Hola, me llamo Alex. Mucho gusto, señora Rivera. ¿Cómo te llamas? Le presento a mi compañera. Nos vemos mañana; que tenga buen día. Hello, my name is Alex. Nice to meet you, Mrs. Rivera. What is your name? Let me introduce you to my classmate. See you tomorrow; have a good day.",
+      "sentences": [
+        {
+          "text": "Model set.",
+          "segments": [
+            {
+              "text": "Model set.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "mˈɑːdəl sˈɛt."
+        },
+        {
+          "text": "Hola, me llamo Alex.",
+          "segments": [
+            {
+              "text": "Hola, me llamo Alex.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˈola, me ʝˈamo alˈeks."
+        },
+        {
+          "text": "Mucho gusto, señora Rivera.",
+          "segments": [
+            {
+              "text": "Mucho gusto, señora Rivera.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "mˈutʃo ɣˈusto, seɲˈoɾa riβˈeɾa."
+        },
+        {
+          "text": "¿Cómo te llamas?",
+          "segments": [
+            {
+              "text": "¿Cómo te llamas?",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kˈomo te ʝˈamas?"
+        },
+        {
+          "text": "Le presento a mi compañera.",
+          "segments": [
+            {
+              "text": "Le presento a mi compañera.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "le pɾesˈɛnto a mi kˌompaɲˈeɾa."
+        },
+        {
+          "text": "Nos vemos mañana; que tenga buen día.",
+          "segments": [
+            {
+              "text": "Nos vemos mañana; que tenga buen día.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "nos βˈemos maɲˈana; ke tˈɛŋɡa βwˈen dˈia."
+        },
+        {
+          "text": "Hello, my name is Alex.",
+          "segments": [
+            {
+              "text": "Hello, my name is Alex.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "həlˈoʊ, maɪ nˈeɪm ɪz ˈælɪks."
+        },
+        {
+          "text": "Nice to meet you, Mrs.",
+          "segments": [
+            {
+              "text": "Nice to meet you, Mrs.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "nˈaɪs tə mˈiːt juː, mˈɪsɪz."
+        },
+        {
+          "text": "Rivera.",
+          "segments": [
+            {
+              "text": "Rivera.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɹɪvˈɛɹə."
+        },
+        {
+          "text": "What is your name?",
+          "segments": [
+            {
+              "text": "What is your name?",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wˌʌt ɪz jʊɹ nˈeɪm?"
+        },
+        {
+          "text": "Let me introduce you to my classmate.",
+          "segments": [
+            {
+              "text": "Let me introduce you to my classmate.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "lˈɛt mˌiː ˌɪntɹədˈuːs juː tə maɪ klˈæsmeɪt."
+        },
+        {
+          "text": "See you tomorrow; have a good day.",
+          "segments": [
+            {
+              "text": "See you tomorrow; have a good day.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "sˈiː juː təmˈɑːɹoʊ; hæv ɐ ɡˈʊd dˈeɪ."
+        }
+      ]
+    },
+    {
+      "file": "03.wav",
+      "text": "Contrastive practice. Change the person, time, number, or level of formality in each model. Preserve the communicative purpose while the grammar changes.",
+      "sentences": [
+        {
+          "text": "Contrastive practice.",
+          "segments": [
+            {
+              "text": "Contrastive practice.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "kˈɑːntɹɐstˌɪv pɹˈæktɪs."
+        },
+        {
+          "text": "Change the person, time, number, or level of formality in each model.",
+          "segments": [
+            {
+              "text": "Change the person, time, number, or level of formality in each model.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tʃˈeɪndʒ ðə pˈɜːsən, tˈaɪm, nˈʌmbɚ, ɔːɹ lˈɛvəl ʌv fɔːɹmˈælᵻɾi ɪn ˈiːtʃ mˈɑːdəl."
+        },
+        {
+          "text": "Preserve the communicative purpose while the grammar changes.",
+          "segments": [
+            {
+              "text": "Preserve the communicative purpose while the grammar changes.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "pɹɪzˈɜːv ðə kəmjˈuːnɪkətˌɪv pˈɜːpəs wˌaɪl ðə ɡɹˈæmɚ tʃˈeɪndʒᵻz."
+        }
+      ]
+    },
+    {
+      "file": "04.wav",
+      "text": "Production check. Say one original sentence for each function: greet and take leave; introduce yourself and another person; choose tú or usted. Then write it and compare the spoken and written forms.",
+      "sentences": [
+        {
+          "text": "Production check.",
+          "segments": [
+            {
+              "text": "Production check.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "pɹədˈʌkʃən tʃˈɛk."
+        },
+        {
+          "text": "Say one original sentence for each function: greet and take leave; introduce yourself and another person; choose tú or usted.",
+          "segments": [
+            {
+              "text": "Say one original sentence for each function: greet and take leave; introduce yourself and another person; choose ",
+              "lang": "en-us"
+            },
+            {
+              "text": "tú",
+              "lang": "es-419"
+            },
+            {
+              "text": " or ",
+              "lang": "en-us"
+            },
+            {
+              "text": "usted",
+              "lang": "es-419"
+            },
+            {
+              "text": ".",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "sˈeɪ wˈʌn ɚɹˈɪdʒɪnəl sˈɛntəns fɔːɹ ˈiːtʃ fˈʌŋkʃən: ɡɹˈiːt ænd tˈeɪk lˈiːv; ˌɪntɹədˈuːs jɔːɹsˈɛlf ænd ɐnˈʌðɚ pˈɜːsən; tʃˈuːz tˈu ɔːɹ ustˈed ."
+        },
+        {
+          "text": "Then write it and compare the spoken and written forms.",
+          "segments": [
+            {
+              "text": "Then write it and compare the spoken and written forms.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðˈɛn ɹˈaɪt ɪt ænd kəmpˈɛɹ ðə spˈoʊkən ænd ɹˈɪʔn fˈɔːɹmz."
+        }
+      ]
+    },
+    {
+      "file": "05.wav",
+      "text": "Model language. Hola, me llamo Alex. — Hello, my name is Alex. Mucho gusto, señora Rivera. — Nice to meet you, Mrs. Rivera. ¿Cómo te llamas? — What is your name? Le presento a mi compañera. — Let me introduce you to my classmate. Nos vemos mañana; que tenga buen día. — See you tomorrow; have a good day.",
+      "sentences": [
+        {
+          "text": "Model language.",
+          "segments": [
+            {
+              "text": "Model language.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
+        },
+        {
+          "text": "Hola, me llamo Alex.",
+          "segments": [
+            {
+              "text": "Hola, me llamo Alex.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˈola, me ʝˈamo alˈeks."
+        },
+        {
+          "text": "— Hello, my name is Alex.",
+          "segments": [
+            {
+              "text": "— Hello, my name is Alex.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— həlˈoʊ, maɪ nˈeɪm ɪz ˈælɪks."
+        },
+        {
+          "text": "Mucho gusto, señora Rivera.",
+          "segments": [
+            {
+              "text": "Mucho gusto, señora Rivera.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "mˈutʃo ɣˈusto, seɲˈoɾa riβˈeɾa."
+        },
+        {
+          "text": "— Nice to meet you, Mrs.",
+          "segments": [
+            {
+              "text": "— Nice to meet you, Mrs.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— nˈaɪs tə mˈiːt juː, mˈɪsɪz."
+        },
+        {
+          "text": "Rivera.",
+          "segments": [
+            {
+              "text": "Rivera.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɹɪvˈɛɹə."
+        },
+        {
+          "text": "¿Cómo te llamas?",
+          "segments": [
+            {
+              "text": "¿Cómo te llamas?",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kˈomo te ʝˈamas?"
+        },
+        {
+          "text": "— What is your name?",
+          "segments": [
+            {
+              "text": "— What is your name?",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— wˌʌt ɪz jʊɹ nˈeɪm?"
+        },
+        {
+          "text": "Le presento a mi compañera.",
+          "segments": [
+            {
+              "text": "Le presento a mi compañera.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "le pɾesˈɛnto a mi kˌompaɲˈeɾa."
+        },
+        {
+          "text": "— Let me introduce you to my classmate.",
+          "segments": [
+            {
+              "text": "— Let me introduce you to my classmate.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— lˈɛt mˌiː ˌɪntɹədˈuːs juː tə maɪ klˈæsmeɪt."
+        },
+        {
+          "text": "Nos vemos mañana; que tenga buen día.",
+          "segments": [
+            {
+              "text": "Nos vemos mañana; que tenga buen día.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "nos βˈemos maɲˈana; ke tˈɛŋɡa βwˈen dˈia."
+        },
+        {
+          "text": "— See you tomorrow; have a good day.",
+          "segments": [
+            {
+              "text": "— See you tomorrow; have a good day.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— sˈiː juː təmˈɑːɹoʊ; hæv ɐ ɡˈʊd dˈeɪ."
+        }
+      ]
+    },
+    {
+      "file": "06.wav",
+      "text": "Check your readiness. Explain the core idea. Produce an original example. Complete the section assessment at 85% or higher.",
+      "sentences": [
+        {
+          "text": "Check your readiness.",
+          "segments": [
+            {
+              "text": "Check your readiness.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tʃˈɛk jʊɹ ɹˈɛdinəs."
+        },
+        {
+          "text": "Explain the core idea.",
+          "segments": [
+            {
+              "text": "Explain the core idea.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɛksplˈeɪn ðə kˈɔːɹ aɪdˈiə."
+        },
+        {
+          "text": "Produce an original example.",
+          "segments": [
+            {
+              "text": "Produce an original example.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "pɹədˈuːs ɐn ɚɹˈɪdʒɪnəl ɛɡzˈæmpəl."
+        },
+        {
+          "text": "Complete the section assessment at 85% or higher.",
+          "segments": [
+            {
+              "text": "Complete the section assessment at 85% or higher.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "kəmplˈiːt ðə sˈɛkʃən ɐsˈɛsmənt æɾ ˈeɪɾi fˈaɪv pɚsˈɛnt ɔːɹ hˈaɪɚ."
+        }
+      ]
+    },
+    {
+      "file": "vocab-00.wav",
+      "text": "hola",
+      "sentences": [
+        {
+          "text": "hola",
+          "segments": [
+            {
+              "text": "hola",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˈola"
+        }
+      ]
+    },
+    {
+      "file": "vocab-01.wav",
+      "text": "buenos días",
+      "sentences": [
+        {
+          "text": "buenos días",
+          "segments": [
+            {
+              "text": "buenos días",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "bwˈenos ðˈias"
+        }
+      ]
+    },
+    {
+      "file": "vocab-02.wav",
+      "text": "buenas tardes",
+      "sentences": [
+        {
+          "text": "buenas tardes",
+          "segments": [
+            {
+              "text": "buenas tardes",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "bwˈenas tˈaɾðes"
+        }
+      ]
+    },
+    {
+      "file": "vocab-03.wav",
+      "text": "adiós",
+      "sentences": [
+        {
+          "text": "adiós",
+          "segments": [
+            {
+              "text": "adiós",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "aðjˈos"
+        }
+      ]
+    },
+    {
+      "file": "vocab-04.wav",
+      "text": "por favor",
+      "sentences": [
+        {
+          "text": "por favor",
+          "segments": [
+            {
+              "text": "por favor",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "poɾ faβˈoɾ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-05.wav",
+      "text": "gracias",
+      "sentences": [
+        {
+          "text": "gracias",
+          "segments": [
+            {
+              "text": "gracias",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ɡɾˈasjas"
+        }
+      ]
+    },
+    {
+      "file": "vocab-06.wav",
+      "text": "mucho gusto",
+      "sentences": [
+        {
+          "text": "mucho gusto",
+          "segments": [
+            {
+              "text": "mucho gusto",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "mˈutʃo ɣˈusto"
+        }
+      ]
+    },
+    {
+      "file": "vocab-07.wav",
+      "text": "¿cómo se llama?",
+      "sentences": [
+        {
+          "text": "¿cómo se llama?",
+          "segments": [
+            {
+              "text": "¿cómo se llama?",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kˈomo se ʝˈama?"
+        }
+      ]
+    }
+  ]
+}

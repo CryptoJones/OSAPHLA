@@ -1,0 +1,435 @@
+{
+  "profile": "e",
+  "utterances": [
+    {
+      "file": "00.wav",
+      "text": "Week 3: Objects, Gender, and the Classroom. identify people and objects ask what something is follow basic instructions",
+      "sentences": [
+        {
+          "text": "Week 3: Objects, Gender, and the Classroom.",
+          "segments": [
+            {
+              "text": "Week 3: Objects, Gender, and the Classroom.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wˈiːk θɹˈiː: ˈɑːbdʒɛkts, dʒˈɛndɚ, ænd ðə klˈæsɹuːm."
+        },
+        {
+          "text": "identify people and objects ask what something is follow basic instructions",
+          "segments": [
+            {
+              "text": "identify people and objects ask what something is follow basic instructions",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "aɪdˈɛntᵻfˌaɪ pˈiːpəl ænd ˈɑːbdʒɛkts ˈæsk wʌt sˈʌmθɪŋ ɪz fˈɑːloʊ bˈeɪsɪk ɪnstɹˈʌkʃənz"
+        }
+      ]
+    },
+    {
+      "file": "01.wav",
+      "text": "Mission brief. Inventory a study space and give a partner five classroom instructions.",
+      "sentences": [
+        {
+          "text": "Mission brief.",
+          "segments": [
+            {
+              "text": "Mission brief.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "mˈɪʃən bɹˈiːf."
+        },
+        {
+          "text": "Inventory a study space and give a partner five classroom instructions.",
+          "segments": [
+            {
+              "text": "Inventory a study space and give a partner five classroom instructions.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ˈɪnvəntˌɔːɹi ɐ stˈʌdi spˈeɪs ænd ɡˈɪv ɐ pˈɑːɹtnɚ fˈaɪv klˈæsɹuːm ɪnstɹˈʌkʃənz."
+        }
+      ]
+    },
+    {
+      "file": "02.wav",
+      "text": "Preparation. Select ten useful words, three linking expressions, and two repair phrases. Plan points rather than a memorized paragraph.",
+      "sentences": [
+        {
+          "text": "Preparation.",
+          "segments": [
+            {
+              "text": "Preparation.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "pɹˌɛpɚɹˈeɪʃən."
+        },
+        {
+          "text": "Select ten useful words, three linking expressions, and two repair phrases.",
+          "segments": [
+            {
+              "text": "Select ten useful words, three linking expressions, and two repair phrases.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "sᵻlˈɛkt tˈɛn jˈuːsfəl wˈɜːdz, θɹˈiː lˈɪŋkɪŋ ɛkspɹˈɛʃənz, ænd tˈuː ɹᵻpˈɛɹ fɹˈeɪzᵻz."
+        },
+        {
+          "text": "Plan points rather than a memorized paragraph.",
+          "segments": [
+            {
+              "text": "Plan points rather than a memorized paragraph.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "plˈæn pˈɔɪnts ɹˈæðɚ ðˌænə mˈɛmɚɹˌaɪzd pˈæɹəɡɹˌæf."
+        }
+      ]
+    },
+    {
+      "file": "03.wav",
+      "text": "Performance. Complete the task once for fluency, review the evidence, then repeat it for greater clarity and accuracy.",
+      "sentences": [
+        {
+          "text": "Performance.",
+          "segments": [
+            {
+              "text": "Performance.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "pɚfˈɔːɹməns."
+        },
+        {
+          "text": "Complete the task once for fluency, review the evidence, then repeat it for greater clarity and accuracy.",
+          "segments": [
+            {
+              "text": "Complete the task once for fluency, review the evidence, then repeat it for greater clarity and accuracy.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "kəmplˈiːt ðə tˈæsk wˈʌns fɔːɹ flˈuːənsi, ɹᵻvjˈuː ðɪ ˈɛvɪdəns, ðˈɛn ɹᵻpˈiːt ɪt fɔːɹ ɡɹˈeɪɾɚ klˈæɹᵻɾi ænd ˈækjʊɹəsi."
+        }
+      ]
+    },
+    {
+      "file": "04.wav",
+      "text": "After-action review. Record what succeeded, what blocked communication, and the single change that will matter most on the next attempt.",
+      "sentences": [
+        {
+          "text": "After-action review.",
+          "segments": [
+            {
+              "text": "After-action review.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ˈæftɚɹˈækʃən ɹᵻvjˈuː."
+        },
+        {
+          "text": "Record what succeeded, what blocked communication, and the single change that will matter most on the next attempt.",
+          "segments": [
+            {
+              "text": "Record what succeeded, what blocked communication, and the single change that will matter most on the next attempt.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɹˈɛkɚd wʌt səksˈiːdᵻd, wˌʌt blˈɑːkt kəmjˌuːnɪkˈeɪʃən, ænd ðə sˈɪŋɡəl tʃˈeɪndʒ ðæt wɪl mˈæɾɚ mˈoʊst ɔnðə nˈɛkst ɐtˈɛmpt."
+        }
+      ]
+    },
+    {
+      "file": "05.wav",
+      "text": "Model language. Hay un libro sobre la mesa. — There is a book on the table. ¿Qué es esto? — What is this? Es una pregunta importante. — It is an important question. Abran los cuadernos, por favor. — Open your notebooks, please. Las respuestas están en la página diez. — The answers are on page ten.",
+      "sentences": [
+        {
+          "text": "Model language.",
+          "segments": [
+            {
+              "text": "Model language.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
+        },
+        {
+          "text": "Hay un libro sobre la mesa.",
+          "segments": [
+            {
+              "text": "Hay un libro sobre la mesa.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˈaɪ ˈun lˈiβɾo sˌoβɾe la mˈesa."
+        },
+        {
+          "text": "— There is a book on the table.",
+          "segments": [
+            {
+              "text": "— There is a book on the table.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— ðɛɹ ɪz ɐ bˈʊk ɔnðə tˈeɪbəl."
+        },
+        {
+          "text": "¿Qué es esto?",
+          "segments": [
+            {
+              "text": "¿Qué es esto?",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kˈe ˈes ˈesto?"
+        },
+        {
+          "text": "— What is this?",
+          "segments": [
+            {
+              "text": "— What is this?",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— wˌʌt ɪz ðˈɪs?"
+        },
+        {
+          "text": "Es una pregunta importante.",
+          "segments": [
+            {
+              "text": "Es una pregunta importante.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˈes ˈuna pɾeɣˈunta ˌimpoɾtˈante."
+        },
+        {
+          "text": "— It is an important question.",
+          "segments": [
+            {
+              "text": "— It is an important question.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— ɪɾ ɪz ɐn ɪmpˈɔːɹtənt kwˈɛstʃən."
+        },
+        {
+          "text": "Abran los cuadernos, por favor.",
+          "segments": [
+            {
+              "text": "Abran los cuadernos, por favor.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˈaβɾan los kwaðˈeɾnos, poɾ faβˈoɾ."
+        },
+        {
+          "text": "— Open your notebooks, please.",
+          "segments": [
+            {
+              "text": "— Open your notebooks, please.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— ˈoʊpən jʊɹ nˈoʊtbʊks, plˈiːz."
+        },
+        {
+          "text": "Las respuestas están en la página diez.",
+          "segments": [
+            {
+              "text": "Las respuestas están en la página diez.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "las respwˈestas estˈan en la pˈaxina ðjˈes."
+        },
+        {
+          "text": "— The answers are on page ten.",
+          "segments": [
+            {
+              "text": "— The answers are on page ten.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— ðɪ ˈænsɚz ɑːɹ ˌɔn pˈeɪdʒ tˈɛn."
+        }
+      ]
+    },
+    {
+      "file": "06.wav",
+      "text": "Check your readiness. Explain the core idea. Produce an original example. Complete the section assessment at 85% or higher.",
+      "sentences": [
+        {
+          "text": "Check your readiness.",
+          "segments": [
+            {
+              "text": "Check your readiness.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tʃˈɛk jʊɹ ɹˈɛdinəs."
+        },
+        {
+          "text": "Explain the core idea.",
+          "segments": [
+            {
+              "text": "Explain the core idea.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɛksplˈeɪn ðə kˈɔːɹ aɪdˈiə."
+        },
+        {
+          "text": "Produce an original example.",
+          "segments": [
+            {
+              "text": "Produce an original example.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "pɹədˈuːs ɐn ɚɹˈɪdʒɪnəl ɛɡzˈæmpəl."
+        },
+        {
+          "text": "Complete the section assessment at 85% or higher.",
+          "segments": [
+            {
+              "text": "Complete the section assessment at 85% or higher.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "kəmplˈiːt ðə sˈɛkʃən ɐsˈɛsmənt æɾ ˈeɪɾi fˈaɪv pɚsˈɛnt ɔːɹ hˈaɪɚ."
+        }
+      ]
+    },
+    {
+      "file": "vocab-00.wav",
+      "text": "el libro",
+      "sentences": [
+        {
+          "text": "el libro",
+          "segments": [
+            {
+              "text": "el libro",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "el lˈiβɾo"
+        }
+      ]
+    },
+    {
+      "file": "vocab-01.wav",
+      "text": "la mesa",
+      "sentences": [
+        {
+          "text": "la mesa",
+          "segments": [
+            {
+              "text": "la mesa",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "la mˈesa"
+        }
+      ]
+    },
+    {
+      "file": "vocab-02.wav",
+      "text": "la silla",
+      "sentences": [
+        {
+          "text": "la silla",
+          "segments": [
+            {
+              "text": "la silla",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "la sˈijja"
+        }
+      ]
+    },
+    {
+      "file": "vocab-03.wav",
+      "text": "el cuaderno",
+      "sentences": [
+        {
+          "text": "el cuaderno",
+          "segments": [
+            {
+              "text": "el cuaderno",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "el kwaðˈeɾno"
+        }
+      ]
+    },
+    {
+      "file": "vocab-04.wav",
+      "text": "la pregunta",
+      "sentences": [
+        {
+          "text": "la pregunta",
+          "segments": [
+            {
+              "text": "la pregunta",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "la pɾeɣˈunta"
+        }
+      ]
+    },
+    {
+      "file": "vocab-05.wav",
+      "text": "la respuesta",
+      "sentences": [
+        {
+          "text": "la respuesta",
+          "segments": [
+            {
+              "text": "la respuesta",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "la respwˈesta"
+        }
+      ]
+    },
+    {
+      "file": "vocab-06.wav",
+      "text": "abrir",
+      "sentences": [
+        {
+          "text": "abrir",
+          "segments": [
+            {
+              "text": "abrir",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "aβɾˈiɾ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-07.wav",
+      "text": "cerrar",
+      "sentences": [
+        {
+          "text": "cerrar",
+          "segments": [
+            {
+              "text": "cerrar",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "serˈaɾ"
+        }
+      ]
+    }
+  ]
+}

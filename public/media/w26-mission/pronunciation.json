@@ -1,0 +1,435 @@
+{
+  "profile": "santa",
+  "utterances": [
+    {
+      "file": "00.wav",
+      "text": "Week 26: Conditional, Courtesy, and Hypothesis. make a tactful request evaluate options state hypothetical consequences",
+      "sentences": [
+        {
+          "text": "Week 26: Conditional, Courtesy, and Hypothesis.",
+          "segments": [
+            {
+              "text": "Week 26: Conditional, Courtesy, and Hypothesis.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wˈiːk twˈɛnti sˈɪks: kəndˈɪʃənəl, kˈɜːɾəsi, ænd haɪpˈɑːθəsˌɪs."
+        },
+        {
+          "text": "make a tactful request evaluate options state hypothetical consequences",
+          "segments": [
+            {
+              "text": "make a tactful request evaluate options state hypothetical consequences",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "mˌeɪk ɐ tˈæktfəl ɹᵻkwˈɛst ɪvˈæljuːˌeɪt ˈɑːpʃənz stˈeɪt hˌaɪpəθˈɛɾɪkəl kˈɑːnsɪkwənsᵻz"
+        }
+      ]
+    },
+    {
+      "file": "01.wav",
+      "text": "Mission brief. Recommend one of three plans under uncertain conditions and respond to objections tactfully.",
+      "sentences": [
+        {
+          "text": "Mission brief.",
+          "segments": [
+            {
+              "text": "Mission brief.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "mˈɪʃən bɹˈiːf."
+        },
+        {
+          "text": "Recommend one of three plans under uncertain conditions and respond to objections tactfully.",
+          "segments": [
+            {
+              "text": "Recommend one of three plans under uncertain conditions and respond to objections tactfully.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɹˌɛkəmˈɛnd wˈʌn ʌv θɹˈiː plˈænz ˌʌndɚɹ ʌnsˈɜːʔn kəndˈɪʃənz ænd ɹᵻspˈɑːnd tʊ ɑːbdʒˈɛkʃənz tˈæktfəli."
+        }
+      ]
+    },
+    {
+      "file": "02.wav",
+      "text": "Preparation. Select ten useful words, three linking expressions, and two repair phrases. Plan points rather than a memorized paragraph.",
+      "sentences": [
+        {
+          "text": "Preparation.",
+          "segments": [
+            {
+              "text": "Preparation.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "pɹˌɛpɚɹˈeɪʃən."
+        },
+        {
+          "text": "Select ten useful words, three linking expressions, and two repair phrases.",
+          "segments": [
+            {
+              "text": "Select ten useful words, three linking expressions, and two repair phrases.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "sᵻlˈɛkt tˈɛn jˈuːsfəl wˈɜːdz, θɹˈiː lˈɪŋkɪŋ ɛkspɹˈɛʃənz, ænd tˈuː ɹᵻpˈɛɹ fɹˈeɪzᵻz."
+        },
+        {
+          "text": "Plan points rather than a memorized paragraph.",
+          "segments": [
+            {
+              "text": "Plan points rather than a memorized paragraph.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "plˈæn pˈɔɪnts ɹˈæðɚ ðˌænə mˈɛmɚɹˌaɪzd pˈæɹəɡɹˌæf."
+        }
+      ]
+    },
+    {
+      "file": "03.wav",
+      "text": "Performance. Complete the task once for fluency, review the evidence, then repeat it for greater clarity and accuracy.",
+      "sentences": [
+        {
+          "text": "Performance.",
+          "segments": [
+            {
+              "text": "Performance.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "pɚfˈɔːɹməns."
+        },
+        {
+          "text": "Complete the task once for fluency, review the evidence, then repeat it for greater clarity and accuracy.",
+          "segments": [
+            {
+              "text": "Complete the task once for fluency, review the evidence, then repeat it for greater clarity and accuracy.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "kəmplˈiːt ðə tˈæsk wˈʌns fɔːɹ flˈuːənsi, ɹᵻvjˈuː ðɪ ˈɛvɪdəns, ðˈɛn ɹᵻpˈiːt ɪt fɔːɹ ɡɹˈeɪɾɚ klˈæɹᵻɾi ænd ˈækjʊɹəsi."
+        }
+      ]
+    },
+    {
+      "file": "04.wav",
+      "text": "After-action review. Record what succeeded, what blocked communication, and the single change that will matter most on the next attempt.",
+      "sentences": [
+        {
+          "text": "After-action review.",
+          "segments": [
+            {
+              "text": "After-action review.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ˈæftɚɹˈækʃən ɹᵻvjˈuː."
+        },
+        {
+          "text": "Record what succeeded, what blocked communication, and the single change that will matter most on the next attempt.",
+          "segments": [
+            {
+              "text": "Record what succeeded, what blocked communication, and the single change that will matter most on the next attempt.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɹˈɛkɚd wʌt səksˈiːdᵻd, wˌʌt blˈɑːkt kəmjˌuːnɪkˈeɪʃən, ænd ðə sˈɪŋɡəl tʃˈeɪndʒ ðæt wɪl mˈæɾɚ mˈoʊst ɔnðə nˈɛkst ɐtˈɛmpt."
+        }
+      ]
+    },
+    {
+      "file": "05.wav",
+      "text": "Model language. Yo elegiría la segunda opción. — I would choose the second option. ¿Podría enviarme los detalles? — Could you send me the details? El cambio reduciría el riesgo. — The change would reduce the risk. Dijo que llegaría al día siguiente. — He or she said that they would arrive the following day. En cambio, ese plan costaría demasiado. — On the other hand, that plan would cost too much.",
+      "sentences": [
+        {
+          "text": "Model language.",
+          "segments": [
+            {
+              "text": "Model language.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
+        },
+        {
+          "text": "Yo elegiría la segunda opción.",
+          "segments": [
+            {
+              "text": "Yo elegiría la segunda opción.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ʝˈo ˌelexiɾˈia la seɣˈunda opsjˈon."
+        },
+        {
+          "text": "— I would choose the second option.",
+          "segments": [
+            {
+              "text": "— I would choose the second option.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— aɪ wʊd tʃˈuːz ðə sˈɛkənd ˈɑːpʃən."
+        },
+        {
+          "text": "¿Podría enviarme los detalles?",
+          "segments": [
+            {
+              "text": "¿Podría enviarme los detalles?",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "poðɾˈia embjˈaɾme los ðetˈajjes?"
+        },
+        {
+          "text": "— Could you send me the details?",
+          "segments": [
+            {
+              "text": "— Could you send me the details?",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— kʊd juː sˈɛnd mˌiː ðə diːtˈeɪlz?"
+        },
+        {
+          "text": "El cambio reduciría el riesgo.",
+          "segments": [
+            {
+              "text": "El cambio reduciría el riesgo.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "el kˈambjo rˌeðusiɾˈia el riˈesɣo."
+        },
+        {
+          "text": "— The change would reduce the risk.",
+          "segments": [
+            {
+              "text": "— The change would reduce the risk.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— ðə tʃˈeɪndʒ wʊd ɹᵻdˈuːs ðə ɹˈɪsk."
+        },
+        {
+          "text": "Dijo que llegaría al día siguiente.",
+          "segments": [
+            {
+              "text": "Dijo que llegaría al día siguiente.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "dˈixo ke ʝˌeɣaɾˈia al ðˈia siɣjˈɛnte."
+        },
+        {
+          "text": "— He or she said that they would arrive the following day.",
+          "segments": [
+            {
+              "text": "— He or she said that they would arrive the following day.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— hiː ɔːɹ ʃiː sˈɛd ðæt ðeɪ wʊd ɚɹˈaɪv ðə fˈɑːloʊɪŋ dˈeɪ."
+        },
+        {
+          "text": "En cambio, ese plan costaría demasiado.",
+          "segments": [
+            {
+              "text": "En cambio, ese plan costaría demasiado.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "en kˈambjo, ˈese plˈan kˌostaɾˈia ðˌemasjˈaðo."
+        },
+        {
+          "text": "— On the other hand, that plan would cost too much.",
+          "segments": [
+            {
+              "text": "— On the other hand, that plan would cost too much.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— ɔnðɪ ˈʌðɚ hˈænd, ðæt plˈæn wʊd kˈɔst tˈuː mʌtʃ."
+        }
+      ]
+    },
+    {
+      "file": "06.wav",
+      "text": "Check your readiness. Explain the core idea. Produce an original example. Complete the section assessment at 85% or higher.",
+      "sentences": [
+        {
+          "text": "Check your readiness.",
+          "segments": [
+            {
+              "text": "Check your readiness.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tʃˈɛk jʊɹ ɹˈɛdinəs."
+        },
+        {
+          "text": "Explain the core idea.",
+          "segments": [
+            {
+              "text": "Explain the core idea.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɛksplˈeɪn ðə kˈɔːɹ aɪdˈiə."
+        },
+        {
+          "text": "Produce an original example.",
+          "segments": [
+            {
+              "text": "Produce an original example.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "pɹədˈuːs ɐn ɚɹˈɪdʒɪnəl ɛɡzˈæmpəl."
+        },
+        {
+          "text": "Complete the section assessment at 85% or higher.",
+          "segments": [
+            {
+              "text": "Complete the section assessment at 85% or higher.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "kəmplˈiːt ðə sˈɛkʃən ɐsˈɛsmənt æɾ ˈeɪɾi fˈaɪv pɚsˈɛnt ɔːɹ hˈaɪɚ."
+        }
+      ]
+    },
+    {
+      "file": "vocab-00.wav",
+      "text": "la opción",
+      "sentences": [
+        {
+          "text": "la opción",
+          "segments": [
+            {
+              "text": "la opción",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "la opsjˈon"
+        }
+      ]
+    },
+    {
+      "file": "vocab-01.wav",
+      "text": "la ventaja",
+      "sentences": [
+        {
+          "text": "la ventaja",
+          "segments": [
+            {
+              "text": "la ventaja",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "la βentˈaxa"
+        }
+      ]
+    },
+    {
+      "file": "vocab-02.wav",
+      "text": "la desventaja",
+      "sentences": [
+        {
+          "text": "la desventaja",
+          "segments": [
+            {
+              "text": "la desventaja",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "la ðˌesβentˈaxa"
+        }
+      ]
+    },
+    {
+      "file": "vocab-03.wav",
+      "text": "el riesgo",
+      "sentences": [
+        {
+          "text": "el riesgo",
+          "segments": [
+            {
+              "text": "el riesgo",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "el riˈesɣo"
+        }
+      ]
+    },
+    {
+      "file": "vocab-04.wav",
+      "text": "convendría",
+      "sentences": [
+        {
+          "text": "convendría",
+          "segments": [
+            {
+              "text": "convendría",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kˌombendɾˈia"
+        }
+      ]
+    },
+    {
+      "file": "vocab-05.wav",
+      "text": "podría",
+      "sentences": [
+        {
+          "text": "podría",
+          "segments": [
+            {
+              "text": "podría",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "poðɾˈia"
+        }
+      ]
+    },
+    {
+      "file": "vocab-06.wav",
+      "text": "debería",
+      "sentences": [
+        {
+          "text": "debería",
+          "segments": [
+            {
+              "text": "debería",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "dˌeβeɾˈia"
+        }
+      ]
+    },
+    {
+      "file": "vocab-07.wav",
+      "text": "en cambio",
+      "sentences": [
+        {
+          "text": "en cambio",
+          "segments": [
+            {
+              "text": "en cambio",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "en kˈambjo"
+        }
+      ]
+    }
+  ]
+}

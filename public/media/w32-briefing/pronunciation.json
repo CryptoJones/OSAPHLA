@@ -1,0 +1,445 @@
+{
+  "profile": "santa",
+  "utterances": [
+    {
+      "file": "00.wav",
+      "text": "Week 32: Work, Technology, and Formal Communication. summarize a meeting write a professional message explain a technical problem and next action",
+      "sentences": [
+        {
+          "text": "Week 32: Work, Technology, and Formal Communication.",
+          "segments": [
+            {
+              "text": "Week 32: Work, Technology, and Formal Communication.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wˈiːk θˈɜːɾi tˈuː: wˈɜːk, tɛknˈɑːlədʒi, ænd fˈɔːɹməl kəmjˌuːnɪkˈeɪʃən."
+        },
+        {
+          "text": "summarize a meeting write a professional message explain a technical problem and next action",
+          "segments": [
+            {
+              "text": "summarize a meeting write a professional message explain a technical problem and next action",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "sˈʌmɚɹˌaɪz ɐ mˈiːɾɪŋ ɹˈaɪt ɐ pɹəfˈɛʃənəl mˈɛsɪdʒ ɛksplˈeɪn ɐ tˈɛknɪkəl pɹˈɑːbləm ænd nˈɛkst ˈækʃən"
+        }
+      ]
+    },
+    {
+      "file": "01.wav",
+      "text": "Operational objective. By the end of this section you can summarize a meeting, write a professional message, explain a technical problem and next action. The focus is useful performance, not isolated terminology.",
+      "sentences": [
+        {
+          "text": "Operational objective.",
+          "segments": [
+            {
+              "text": "Operational objective.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ˌɑːpɚɹˈeɪʃənəl ɑːbdʒˈɛktɪv."
+        },
+        {
+          "text": "By the end of this section you can summarize a meeting, write a professional message, explain a technical problem and next action.",
+          "segments": [
+            {
+              "text": "By the end of this section you can summarize a meeting, write a professional message, explain a technical problem and next action.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "baɪ ðɪ ˈɛnd ʌv ðɪs sˈɛkʃən juː kæn sˈʌmɚɹˌaɪz ɐ mˈiːɾɪŋ, ɹˈaɪt ɐ pɹəfˈɛʃənəl mˈɛsɪdʒ, ɛksplˈeɪn ɐ tˈɛknɪkəl pɹˈɑːbləm ænd nˈɛkst ˈækʃən."
+        },
+        {
+          "text": "The focus is useful performance, not isolated terminology.",
+          "segments": [
+            {
+              "text": "The focus is useful performance, not isolated terminology.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðə fˈoʊkəs ɪz jˈuːsfəl pɚfˈɔːɹməns, nˌɑːt ˈaɪsəlˌeɪɾᵻd tˌɜːmɪnˈɑːlədʒi."
+        }
+      ]
+    },
+    {
+      "file": "02.wav",
+      "text": "Language system. Reported speech; reciprocal constructions; stressed possessives; formal connectors and nominal style.",
+      "sentences": [
+        {
+          "text": "Language system.",
+          "segments": [
+            {
+              "text": "Language system.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "lˈæŋɡwɪdʒ sˈɪstəm."
+        },
+        {
+          "text": "Reported speech; reciprocal constructions; stressed possessives; formal connectors and nominal style.",
+          "segments": [
+            {
+              "text": "Reported speech; reciprocal constructions; stressed possessives; formal connectors and nominal style.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɹᵻpˈɔːɹɾᵻd spˈiːtʃ; ɹᵻsˈɪpɹəkəl kənstɹˈʌkʃənz; stɹˈɛst pəzˈɛsɪvz; fˈɔːɹməl kənˈɛktɚz ænd nˈɑːmɪnəl stˈaɪl."
+        }
+      ]
+    },
+    {
+      "file": "03.wav",
+      "text": "Sound and delivery. Chunk information-dense speech and articulate acronyms, numbers, and borrowed terms.",
+      "sentences": [
+        {
+          "text": "Sound and delivery.",
+          "segments": [
+            {
+              "text": "Sound and delivery.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "sˈaʊnd ænd dᵻlˈɪvɚɹi."
+        },
+        {
+          "text": "Chunk information-dense speech and articulate acronyms, numbers, and borrowed terms.",
+          "segments": [
+            {
+              "text": "Chunk information-dense speech and articulate acronyms, numbers, and borrowed terms.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tʃˈʌŋk ˌɪnfɚmˈeɪʃəndˈɛns spˈiːtʃ ænd ɑːɹtˈɪkjʊlˌeɪt ˈækɹənˌɪmz, nˈʌmbɚz, ænd bˈɑːɹoʊd tˈɜːmz."
+        }
+      ]
+    },
+    {
+      "file": "04.wav",
+      "text": "Core principle. Notice meaning first, then form. Retrieve the new language aloud, compare it with the model, and repair one feature at a time.",
+      "sentences": [
+        {
+          "text": "Core principle.",
+          "segments": [
+            {
+              "text": "Core principle.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "kˈɔːɹ pɹˈɪnsɪpəl."
+        },
+        {
+          "text": "Notice meaning first, then form.",
+          "segments": [
+            {
+              "text": "Notice meaning first, then form.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "nˈoʊɾɪs mˈiːnɪŋ fˈɜːst, ðˈɛn fˈɔːɹm."
+        },
+        {
+          "text": "Retrieve the new language aloud, compare it with the model, and repair one feature at a time.",
+          "segments": [
+            {
+              "text": "Retrieve the new language aloud, compare it with the model, and repair one feature at a time.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɹᵻtɹˈiːv ðə nˈuː lˈæŋɡwɪdʒ ɐlˈaʊd, kəmpˈɛɹ ɪt wɪððə mˈɑːdəl, ænd ɹᵻpˈɛɹ wˈʌn fˈiːtʃɚɹ æɾə tˈaɪm."
+        }
+      ]
+    },
+    {
+      "file": "05.wav",
+      "text": "Model language. Según la técnica, la red ya funciona. — According to the technician, the network is already working. Nos comunicamos por un canal seguro. — We communicate through a secure channel. El director dijo que ampliarían el plazo. — The director said they would extend the deadline. Adjunto encontrará el informe solicitado. — Attached you will find the requested report. Con respecto al incidente, faltan dos datos. — Regarding the incident, two pieces of information are missing.",
+      "sentences": [
+        {
+          "text": "Model language.",
+          "segments": [
+            {
+              "text": "Model language.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
+        },
+        {
+          "text": "Según la técnica, la red ya funciona.",
+          "segments": [
+            {
+              "text": "Según la técnica, la red ya funciona.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "seɣˈun la tˈeknika, la rˈed ʝˈa funsjˈona."
+        },
+        {
+          "text": "— According to the technician, the network is already working.",
+          "segments": [
+            {
+              "text": "— According to the technician, the network is already working.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— ɐkˈɔːɹdɪŋ tə ðə tɛknˈɪʃən, ðə nˈɛtwɜːk ɪz ɔːlɹˌɛdi wˈɜːkɪŋ."
+        },
+        {
+          "text": "Nos comunicamos por un canal seguro.",
+          "segments": [
+            {
+              "text": "Nos comunicamos por un canal seguro.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "nos kˌomunikˈamos poɾ ˈun kanˈal seɣˈuɾo."
+        },
+        {
+          "text": "— We communicate through a secure channel.",
+          "segments": [
+            {
+              "text": "— We communicate through a secure channel.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— wiː kəmjˈuːnᵻkˌeɪt θɹuː ɐ sᵻkjˈʊɹ tʃˈænəl."
+        },
+        {
+          "text": "El director dijo que ampliarían el plazo.",
+          "segments": [
+            {
+              "text": "El director dijo que ampliarían el plazo.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "el ðˌiɾektˈoɾ ðˈixo ke ˌampliaɾˈian el plˈaso."
+        },
+        {
+          "text": "— The director said they would extend the deadline.",
+          "segments": [
+            {
+              "text": "— The director said they would extend the deadline.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— ðə dᵻɹˈɛktɚ sˈɛd ðeɪ wʊd ɛkstˈɛnd ðə dˈɛdlaɪn."
+        },
+        {
+          "text": "Adjunto encontrará el informe solicitado.",
+          "segments": [
+            {
+              "text": "Adjunto encontrará el informe solicitado.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "aðxˈunto ˌenkontɾaɾˈa el infˈoɾme sˌolisitˈaðo."
+        },
+        {
+          "text": "— Attached you will find the requested report.",
+          "segments": [
+            {
+              "text": "— Attached you will find the requested report.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— ɐtˈætʃt juː wɪl fˈaɪnd ðə ɹᵻkwˈɛstᵻd ɹᵻpˈɔːɹt."
+        },
+        {
+          "text": "Con respecto al incidente, faltan dos datos.",
+          "segments": [
+            {
+              "text": "Con respecto al incidente, faltan dos datos.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kon respˈekto al ˌinsiðˈɛnte, fˈaltan dˈos ðˈatos."
+        },
+        {
+          "text": "— Regarding the incident, two pieces of information are missing.",
+          "segments": [
+            {
+              "text": "— Regarding the incident, two pieces of information are missing.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— ɹᵻɡˈɑːɹdɪŋ ðɪ ˈɪnsɪdənt, tˈuː pˈiːsᵻz ʌv ˌɪnfɚmˈeɪʃən ɑːɹ mˈɪsɪŋ."
+        }
+      ]
+    },
+    {
+      "file": "06.wav",
+      "text": "Check your readiness. Explain the core idea. Produce an original example. Complete the section assessment at 85% or higher.",
+      "sentences": [
+        {
+          "text": "Check your readiness.",
+          "segments": [
+            {
+              "text": "Check your readiness.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tʃˈɛk jʊɹ ɹˈɛdinəs."
+        },
+        {
+          "text": "Explain the core idea.",
+          "segments": [
+            {
+              "text": "Explain the core idea.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɛksplˈeɪn ðə kˈɔːɹ aɪdˈiə."
+        },
+        {
+          "text": "Produce an original example.",
+          "segments": [
+            {
+              "text": "Produce an original example.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "pɹədˈuːs ɐn ɚɹˈɪdʒɪnəl ɛɡzˈæmpəl."
+        },
+        {
+          "text": "Complete the section assessment at 85% or higher.",
+          "segments": [
+            {
+              "text": "Complete the section assessment at 85% or higher.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "kəmplˈiːt ðə sˈɛkʃən ɐsˈɛsmənt æɾ ˈeɪɾi fˈaɪv pɚsˈɛnt ɔːɹ hˈaɪɚ."
+        }
+      ]
+    },
+    {
+      "file": "vocab-00.wav",
+      "text": "la reunión",
+      "sentences": [
+        {
+          "text": "la reunión",
+          "segments": [
+            {
+              "text": "la reunión",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "la reʊnjˈon"
+        }
+      ]
+    },
+    {
+      "file": "vocab-01.wav",
+      "text": "el plazo",
+      "sentences": [
+        {
+          "text": "el plazo",
+          "segments": [
+            {
+              "text": "el plazo",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "el plˈaso"
+        }
+      ]
+    },
+    {
+      "file": "vocab-02.wav",
+      "text": "el informe",
+      "sentences": [
+        {
+          "text": "el informe",
+          "segments": [
+            {
+              "text": "el informe",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "el infˈoɾme"
+        }
+      ]
+    },
+    {
+      "file": "vocab-03.wav",
+      "text": "la red",
+      "sentences": [
+        {
+          "text": "la red",
+          "segments": [
+            {
+              "text": "la red",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "la rˈed"
+        }
+      ]
+    },
+    {
+      "file": "vocab-04.wav",
+      "text": "la contraseña",
+      "sentences": [
+        {
+          "text": "la contraseña",
+          "segments": [
+            {
+              "text": "la contraseña",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "la kˌontɾasˈeɲa"
+        }
+      ]
+    },
+    {
+      "file": "vocab-05.wav",
+      "text": "el archivo adjunto",
+      "sentences": [
+        {
+          "text": "el archivo adjunto",
+          "segments": [
+            {
+              "text": "el archivo adjunto",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "el aɾtʃˈiβo aðxˈunto"
+        }
+      ]
+    },
+    {
+      "file": "vocab-06.wav",
+      "text": "según",
+      "sentences": [
+        {
+          "text": "según",
+          "segments": [
+            {
+              "text": "según",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "seɣˈun"
+        }
+      ]
+    },
+    {
+      "file": "vocab-07.wav",
+      "text": "con respecto a",
+      "sentences": [
+        {
+          "text": "con respecto a",
+          "segments": [
+            {
+              "text": "con respecto a",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kon respˈekto ˈa"
+        }
+      ]
+    }
+  ]
+}

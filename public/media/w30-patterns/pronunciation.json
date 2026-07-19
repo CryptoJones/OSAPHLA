@@ -1,0 +1,579 @@
+{
+  "profile": "y3",
+  "utterances": [
+    {
+      "file": "00.wav",
+      "text": "Week 30: Por, Para, Passive, and Impersonal Se. explain purpose and cause describe processes report institutional action",
+      "sentences": [
+        {
+          "text": "Week 30: Por, Para, Passive, and Impersonal Se.",
+          "segments": [
+            {
+              "text": "Week 30: ",
+              "lang": "en-us"
+            },
+            {
+              "text": "Por",
+              "lang": "es-419"
+            },
+            {
+              "text": ", ",
+              "lang": "en-us"
+            },
+            {
+              "text": "Para",
+              "lang": "es-419"
+            },
+            {
+              "text": ", Passive, and Impersonal ",
+              "lang": "en-us"
+            },
+            {
+              "text": "Se",
+              "lang": "es-419"
+            },
+            {
+              "text": ".",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wˈiːk θˈɜːɾi: pˈoɾ , pˈaɾa , pˈæsɪv, ænd ɪmpˈɜːsənəl sˈe ."
+        },
+        {
+          "text": "explain purpose and cause describe processes report institutional action",
+          "segments": [
+            {
+              "text": "explain purpose and cause describe processes report institutional action",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɛksplˈeɪn pˈɜːpəs ænd kˈɔːz dᵻskɹˈaɪb pɹˈɑːsɛsᵻz ɹᵻpˈɔːɹt ˌɪnstɪtˈuːʃənəl ˈækʃən"
+        }
+      ]
+    },
+    {
+      "file": "01.wav",
+      "text": "Form and meaning. Por versus para; passive voice; passive and impersonal se; agent suppression and focus.",
+      "sentences": [
+        {
+          "text": "Form and meaning.",
+          "segments": [
+            {
+              "text": "Form and meaning.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "fˈɔːɹm ænd mˈiːnɪŋ."
+        },
+        {
+          "text": "Por versus para; passive voice; passive and impersonal se; agent suppression and focus.",
+          "segments": [
+            {
+              "text": "Por",
+              "lang": "es-419"
+            },
+            {
+              "text": " versus ",
+              "lang": "en-us"
+            },
+            {
+              "text": "para",
+              "lang": "es-419"
+            },
+            {
+              "text": "; passive voice; passive and impersonal ",
+              "lang": "en-us"
+            },
+            {
+              "text": "se",
+              "lang": "es-419"
+            },
+            {
+              "text": "; agent suppression and focus.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "pˈoɾ vˈɜːsᵻz pˈaɾa ; pˈæsɪv vˈɔɪs; pˈæsɪv ænd ɪmpˈɜːsənəl sˈe ; ˈeɪdʒənt səpɹˈɛʃən ænd fˈoʊkəs."
+        }
+      ]
+    },
+    {
+      "file": "02.wav",
+      "text": "Model set. La medida fue aprobada por el consejo. Se publicaron los resultados ayer. Trabajamos para mejorar el acceso. El servicio cerró por falta de fondos. Se requiere identificación para entrar. The measure was approved by the council. The results were published yesterday. We work to improve access. The service closed because of a lack of funding. Identification is required to enter.",
+      "sentences": [
+        {
+          "text": "Model set.",
+          "segments": [
+            {
+              "text": "Model set.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "mˈɑːdəl sˈɛt."
+        },
+        {
+          "text": "La medida fue aprobada por el consejo.",
+          "segments": [
+            {
+              "text": "La medida fue aprobada por el consejo.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "la meðˈiða fwˈe ˌapɾoβˈaða poɾ el konsˈexo."
+        },
+        {
+          "text": "Se publicaron los resultados ayer.",
+          "segments": [
+            {
+              "text": "Se publicaron los resultados ayer.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "se pˌuβlikˈaɾon los rˌesultˈaðos aʝˈeɾ."
+        },
+        {
+          "text": "Trabajamos para mejorar el acceso.",
+          "segments": [
+            {
+              "text": "Trabajamos para mejorar el acceso.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "tɾˌaβaxˈamos pˌaɾa mˌexoɾˈaɾ el aksˈeso."
+        },
+        {
+          "text": "El servicio cerró por falta de fondos.",
+          "segments": [
+            {
+              "text": "El servicio cerró por falta de fondos.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "el seɾβˈisjo serˈo poɾ fˈalta ðe fˈondos."
+        },
+        {
+          "text": "Se requiere identificación para entrar.",
+          "segments": [
+            {
+              "text": "Se requiere identificación para entrar.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "se rekjˈeɾe ˌiðentˌifikasjˈom pˌaɾa entɾˈaɾ."
+        },
+        {
+          "text": "The measure was approved by the council.",
+          "segments": [
+            {
+              "text": "The measure was approved by the council.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðə mˈɛʒɚ wʌz ɐpɹˈuːvd baɪ ðə kˈaʊnsəl."
+        },
+        {
+          "text": "The results were published yesterday.",
+          "segments": [
+            {
+              "text": "The results were published yesterday.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðə ɹɪzˈʌlts wɜː pˈʌblɪʃt jˈɛstɚdˌeɪ."
+        },
+        {
+          "text": "We work to improve access.",
+          "segments": [
+            {
+              "text": "We work to improve access.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wiː wˈɜːk tʊ ɪmpɹˈuːv ˈæksɛs."
+        },
+        {
+          "text": "The service closed because of a lack of funding.",
+          "segments": [
+            {
+              "text": "The service closed because of a lack of funding.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðə sˈɜːvɪs klˈoʊzd bɪkˈʌz əvə lˈæk ʌv fˈʌndɪŋ."
+        },
+        {
+          "text": "Identification is required to enter.",
+          "segments": [
+            {
+              "text": "Identification is required to enter.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "aɪdˈɛntɪfɪkˈeɪʃən ɪz ɹᵻkwˈaɪɚd tʊ ˈɛntɚ."
+        }
+      ]
+    },
+    {
+      "file": "03.wav",
+      "text": "Contrastive practice. Change the person, time, number, or level of formality in each model. Preserve the communicative purpose while the grammar changes.",
+      "sentences": [
+        {
+          "text": "Contrastive practice.",
+          "segments": [
+            {
+              "text": "Contrastive practice.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "kˈɑːntɹɐstˌɪv pɹˈæktɪs."
+        },
+        {
+          "text": "Change the person, time, number, or level of formality in each model.",
+          "segments": [
+            {
+              "text": "Change the person, time, number, or level of formality in each model.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tʃˈeɪndʒ ðə pˈɜːsən, tˈaɪm, nˈʌmbɚ, ɔːɹ lˈɛvəl ʌv fɔːɹmˈælᵻɾi ɪn ˈiːtʃ mˈɑːdəl."
+        },
+        {
+          "text": "Preserve the communicative purpose while the grammar changes.",
+          "segments": [
+            {
+              "text": "Preserve the communicative purpose while the grammar changes.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "pɹɪzˈɜːv ðə kəmjˈuːnɪkətˌɪv pˈɜːpəs wˌaɪl ðə ɡɹˈæmɚ tʃˈeɪndʒᵻz."
+        }
+      ]
+    },
+    {
+      "file": "04.wav",
+      "text": "Production check. Say one original sentence for each function: explain purpose and cause; describe processes; report institutional action. Then write it and compare the spoken and written forms.",
+      "sentences": [
+        {
+          "text": "Production check.",
+          "segments": [
+            {
+              "text": "Production check.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "pɹədˈʌkʃən tʃˈɛk."
+        },
+        {
+          "text": "Say one original sentence for each function: explain purpose and cause; describe processes; report institutional action.",
+          "segments": [
+            {
+              "text": "Say one original sentence for each function: explain purpose and cause; describe processes; report institutional action.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "sˈeɪ wˈʌn ɚɹˈɪdʒɪnəl sˈɛntəns fɔːɹ ˈiːtʃ fˈʌŋkʃən: ɛksplˈeɪn pˈɜːpəs ænd kˈɔːz; dᵻskɹˈaɪb pɹˈɑːsɛsᵻz; ɹᵻpˈɔːɹt ˌɪnstɪtˈuːʃənəl ˈækʃən."
+        },
+        {
+          "text": "Then write it and compare the spoken and written forms.",
+          "segments": [
+            {
+              "text": "Then write it and compare the spoken and written forms.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðˈɛn ɹˈaɪt ɪt ænd kəmpˈɛɹ ðə spˈoʊkən ænd ɹˈɪʔn fˈɔːɹmz."
+        }
+      ]
+    },
+    {
+      "file": "05.wav",
+      "text": "Model language. La medida fue aprobada por el consejo. — The measure was approved by the council. Se publicaron los resultados ayer. — The results were published yesterday. Trabajamos para mejorar el acceso. — We work to improve access. El servicio cerró por falta de fondos. — The service closed because of a lack of funding. Se requiere identificación para entrar. — Identification is required to enter.",
+      "sentences": [
+        {
+          "text": "Model language.",
+          "segments": [
+            {
+              "text": "Model language.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
+        },
+        {
+          "text": "La medida fue aprobada por el consejo.",
+          "segments": [
+            {
+              "text": "La medida fue aprobada por el consejo.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "la meðˈiða fwˈe ˌapɾoβˈaða poɾ el konsˈexo."
+        },
+        {
+          "text": "— The measure was approved by the council.",
+          "segments": [
+            {
+              "text": "— The measure was approved by the council.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— ðə mˈɛʒɚ wʌz ɐpɹˈuːvd baɪ ðə kˈaʊnsəl."
+        },
+        {
+          "text": "Se publicaron los resultados ayer.",
+          "segments": [
+            {
+              "text": "Se publicaron los resultados ayer.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "se pˌuβlikˈaɾon los rˌesultˈaðos aʝˈeɾ."
+        },
+        {
+          "text": "— The results were published yesterday.",
+          "segments": [
+            {
+              "text": "— The results were published yesterday.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— ðə ɹɪzˈʌlts wɜː pˈʌblɪʃt jˈɛstɚdˌeɪ."
+        },
+        {
+          "text": "Trabajamos para mejorar el acceso.",
+          "segments": [
+            {
+              "text": "Trabajamos para mejorar el acceso.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "tɾˌaβaxˈamos pˌaɾa mˌexoɾˈaɾ el aksˈeso."
+        },
+        {
+          "text": "— We work to improve access.",
+          "segments": [
+            {
+              "text": "— We work to improve access.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— wiː wˈɜːk tʊ ɪmpɹˈuːv ˈæksɛs."
+        },
+        {
+          "text": "El servicio cerró por falta de fondos.",
+          "segments": [
+            {
+              "text": "El servicio cerró por falta de fondos.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "el seɾβˈisjo serˈo poɾ fˈalta ðe fˈondos."
+        },
+        {
+          "text": "— The service closed because of a lack of funding.",
+          "segments": [
+            {
+              "text": "— The service closed because of a lack of funding.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— ðə sˈɜːvɪs klˈoʊzd bɪkˈʌz əvə lˈæk ʌv fˈʌndɪŋ."
+        },
+        {
+          "text": "Se requiere identificación para entrar.",
+          "segments": [
+            {
+              "text": "Se requiere identificación para entrar.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "se rekjˈeɾe ˌiðentˌifikasjˈom pˌaɾa entɾˈaɾ."
+        },
+        {
+          "text": "— Identification is required to enter.",
+          "segments": [
+            {
+              "text": "— Identification is required to enter.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— aɪdˈɛntɪfɪkˈeɪʃən ɪz ɹᵻkwˈaɪɚd tʊ ˈɛntɚ."
+        }
+      ]
+    },
+    {
+      "file": "06.wav",
+      "text": "Check your readiness. Explain the core idea. Produce an original example. Complete the section assessment at 85% or higher.",
+      "sentences": [
+        {
+          "text": "Check your readiness.",
+          "segments": [
+            {
+              "text": "Check your readiness.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tʃˈɛk jʊɹ ɹˈɛdinəs."
+        },
+        {
+          "text": "Explain the core idea.",
+          "segments": [
+            {
+              "text": "Explain the core idea.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɛksplˈeɪn ðə kˈɔːɹ aɪdˈiə."
+        },
+        {
+          "text": "Produce an original example.",
+          "segments": [
+            {
+              "text": "Produce an original example.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "pɹədˈuːs ɐn ɚɹˈɪdʒɪnəl ɛɡzˈæmpəl."
+        },
+        {
+          "text": "Complete the section assessment at 85% or higher.",
+          "segments": [
+            {
+              "text": "Complete the section assessment at 85% or higher.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "kəmplˈiːt ðə sˈɛkʃən ɐsˈɛsmənt æɾ ˈeɪɾi fˈaɪv pɚsˈɛnt ɔːɹ hˈaɪɚ."
+        }
+      ]
+    },
+    {
+      "file": "vocab-00.wav",
+      "text": "por causa de",
+      "sentences": [
+        {
+          "text": "por causa de",
+          "segments": [
+            {
+              "text": "por causa de",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "poɾ kˈaʊsa ðˈe"
+        }
+      ]
+    },
+    {
+      "file": "vocab-01.wav",
+      "text": "para lograr",
+      "sentences": [
+        {
+          "text": "para lograr",
+          "segments": [
+            {
+              "text": "para lograr",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "pˌaɾa loɣɾˈaɾ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-02.wav",
+      "text": "por medio de",
+      "sentences": [
+        {
+          "text": "por medio de",
+          "segments": [
+            {
+              "text": "por medio de",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "poɾ mˈeðjo ðˈe"
+        }
+      ]
+    },
+    {
+      "file": "vocab-03.wav",
+      "text": "la medida",
+      "sentences": [
+        {
+          "text": "la medida",
+          "segments": [
+            {
+              "text": "la medida",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "la meðˈiða"
+        }
+      ]
+    },
+    {
+      "file": "vocab-04.wav",
+      "text": "aprobar",
+      "sentences": [
+        {
+          "text": "aprobar",
+          "segments": [
+            {
+              "text": "aprobar",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˌapɾoβˈaɾ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-05.wav",
+      "text": "publicar",
+      "sentences": [
+        {
+          "text": "publicar",
+          "segments": [
+            {
+              "text": "publicar",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "pˌuβlikˈaɾ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-06.wav",
+      "text": "se requiere",
+      "sentences": [
+        {
+          "text": "se requiere",
+          "segments": [
+            {
+              "text": "se requiere",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "se rekjˈeɾe"
+        }
+      ]
+    },
+    {
+      "file": "vocab-07.wav",
+      "text": "se permite",
+      "sentences": [
+        {
+          "text": "se permite",
+          "segments": [
+            {
+              "text": "se permite",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "se peɾmˈite"
+        }
+      ]
+    }
+  ]
+}

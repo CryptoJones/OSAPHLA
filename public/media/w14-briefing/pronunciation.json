@@ -1,0 +1,477 @@
+{
+  "profile": "santa",
+  "utterances": [
+    {
+      "file": "00.wav",
+      "text": "Week 14: Travel, Transport, and Lodging. reserve transport and lodging check in report delays and room problems",
+      "sentences": [
+        {
+          "text": "Week 14: Travel, Transport, and Lodging.",
+          "segments": [
+            {
+              "text": "Week 14: Travel, Transport, and Lodging.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wˈiːk fˈɔːɹtiːn: tɹˈævəl, tɹˈænspɔːɹt, ænd lˈɑːdʒɪŋ."
+        },
+        {
+          "text": "reserve transport and lodging check in report delays and room problems",
+          "segments": [
+            {
+              "text": "reserve transport and lodging check in report delays and room problems",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɹɪzˈɜːv tɹˈænspɔːɹt ænd lˈɑːdʒɪŋ tʃˈɛk ɪn ɹᵻpˈɔːɹt dᵻlˈeɪz ænd ɹˈuːm pɹˈɑːbləmz"
+        }
+      ]
+    },
+    {
+      "file": "01.wav",
+      "text": "Operational objective. By the end of this section you can reserve transport and lodging, check in, report delays and room problems. The focus is useful performance, not isolated terminology.",
+      "sentences": [
+        {
+          "text": "Operational objective.",
+          "segments": [
+            {
+              "text": "Operational objective.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ˌɑːpɚɹˈeɪʃənəl ɑːbdʒˈɛktɪv."
+        },
+        {
+          "text": "By the end of this section you can reserve transport and lodging, check in, report delays and room problems.",
+          "segments": [
+            {
+              "text": "By the end of this section you can reserve transport and lodging, check in, report delays and room problems.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "baɪ ðɪ ˈɛnd ʌv ðɪs sˈɛkʃən juː kæn ɹɪzˈɜːv tɹˈænspɔːɹt ænd lˈɑːdʒɪŋ, tʃˈɛk ˈɪn, ɹᵻpˈɔːɹt dᵻlˈeɪz ænd ɹˈuːm pɹˈɑːbləmz."
+        },
+        {
+          "text": "The focus is useful performance, not isolated terminology.",
+          "segments": [
+            {
+              "text": "The focus is useful performance, not isolated terminology.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðə fˈoʊkəs ɪz jˈuːsfəl pɚfˈɔːɹməns, nˌɑːt ˈaɪsəlˌeɪɾᵻd tˌɜːmɪnˈɑːlədʒi."
+        }
+      ]
+    },
+    {
+      "file": "02.wav",
+      "text": "Language system. Irregular present in travel; acabar de; tener que; sequencing future plans with ir a.",
+      "sentences": [
+        {
+          "text": "Language system.",
+          "segments": [
+            {
+              "text": "Language system.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "lˈæŋɡwɪdʒ sˈɪstəm."
+        },
+        {
+          "text": "Irregular present in travel; acabar de; tener que; sequencing future plans with ir a.",
+          "segments": [
+            {
+              "text": "Irregular present in travel; ",
+              "lang": "en-us"
+            },
+            {
+              "text": "acabar de",
+              "lang": "es-419"
+            },
+            {
+              "text": "; ",
+              "lang": "en-us"
+            },
+            {
+              "text": "tener",
+              "lang": "es-419"
+            },
+            {
+              "text": " ",
+              "lang": "en-us"
+            },
+            {
+              "text": "que",
+              "lang": "es-419"
+            },
+            {
+              "text": "; sequencing future plans with ",
+              "lang": "en-us"
+            },
+            {
+              "text": "ir",
+              "lang": "es-419"
+            },
+            {
+              "text": " a.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɪɹˈɛɡjʊlɚ pɹˈɛzənt ɪn tɹˈævəl; ˌakaβˈaɾ ðˈe ; tenˈeɾ kˈe ; sˈiːkwənsɪŋ fjˈuːtʃɚ plˈænz wɪð ˈiɾ ˈeɪ."
+        }
+      ]
+    },
+    {
+      "file": "03.wav",
+      "text": "Sound and delivery. Connected speech in numbers, times, reservation codes, and names.",
+      "sentences": [
+        {
+          "text": "Sound and delivery.",
+          "segments": [
+            {
+              "text": "Sound and delivery.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "sˈaʊnd ænd dᵻlˈɪvɚɹi."
+        },
+        {
+          "text": "Connected speech in numbers, times, reservation codes, and names.",
+          "segments": [
+            {
+              "text": "Connected speech in numbers, times, reservation codes, and names.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "kənˈɛktᵻd spˈiːtʃ ɪn nˈʌmbɚz, tˈaɪmz, ɹˌɛzɚvˈeɪʃən kˈoʊdz, ænd nˈeɪmz."
+        }
+      ]
+    },
+    {
+      "file": "04.wav",
+      "text": "Core principle. Notice meaning first, then form. Retrieve the new language aloud, compare it with the model, and repair one feature at a time.",
+      "sentences": [
+        {
+          "text": "Core principle.",
+          "segments": [
+            {
+              "text": "Core principle.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "kˈɔːɹ pɹˈɪnsɪpəl."
+        },
+        {
+          "text": "Notice meaning first, then form.",
+          "segments": [
+            {
+              "text": "Notice meaning first, then form.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "nˈoʊɾɪs mˈiːnɪŋ fˈɜːst, ðˈɛn fˈɔːɹm."
+        },
+        {
+          "text": "Retrieve the new language aloud, compare it with the model, and repair one feature at a time.",
+          "segments": [
+            {
+              "text": "Retrieve the new language aloud, compare it with the model, and repair one feature at a time.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɹᵻtɹˈiːv ðə nˈuː lˈæŋɡwɪdʒ ɐlˈaʊd, kəmpˈɛɹ ɪt wɪððə mˈɑːdəl, ænd ɹᵻpˈɛɹ wˈʌn fˈiːtʃɚɹ æɾə tˈaɪm."
+        }
+      ]
+    },
+    {
+      "file": "05.wav",
+      "text": "Model language. El tren sale del andén cuatro. — The train leaves from platform four. Acabamos de llegar al aeropuerto. — We have just arrived at the airport. Tengo una reserva a nombre de Rivera. — I have a reservation under the name Rivera. Mi equipaje no aparece. — My luggage is missing. Vamos a quedarnos tres noches. — We are going to stay three nights.",
+      "sentences": [
+        {
+          "text": "Model language.",
+          "segments": [
+            {
+              "text": "Model language.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
+        },
+        {
+          "text": "El tren sale del andén cuatro.",
+          "segments": [
+            {
+              "text": "El tren sale del andén cuatro.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "el tɾˈen sˈale ðel andˈen kwˈatɾo."
+        },
+        {
+          "text": "— The train leaves from platform four.",
+          "segments": [
+            {
+              "text": "— The train leaves from platform four.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— ðə tɹˈeɪn lˈiːvz fɹʌm plˈætfɔːɹm fˈɔːɹ."
+        },
+        {
+          "text": "Acabamos de llegar al aeropuerto.",
+          "segments": [
+            {
+              "text": "Acabamos de llegar al aeropuerto.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˌakaβˈamos ðe ʝeɣˈaɾ al ˌaeɾopwˈeɾto."
+        },
+        {
+          "text": "— We have just arrived at the airport.",
+          "segments": [
+            {
+              "text": "— We have just arrived at the airport.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— wiː hæv dʒˈʌst ɚɹˈaɪvd æt ðɪ ˈɛɹpɔːɹt."
+        },
+        {
+          "text": "Tengo una reserva a nombre de Rivera.",
+          "segments": [
+            {
+              "text": "Tengo una reserva a nombre de Rivera.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "tˈɛŋɡo ˈuna resˈeɾβa a nˈombɾe ðe riβˈeɾa."
+        },
+        {
+          "text": "— I have a reservation under the name Rivera.",
+          "segments": [
+            {
+              "text": "— I have a reservation under the name Rivera.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— aɪ hæv ɐ ɹˌɛzɚvˈeɪʃən ˌʌndɚ ðə nˈeɪm ɹɪvˈɛɹə."
+        },
+        {
+          "text": "Mi equipaje no aparece.",
+          "segments": [
+            {
+              "text": "Mi equipaje no aparece.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "mi ˌekipˈaxe nˈo ˌapaɾˈese."
+        },
+        {
+          "text": "— My luggage is missing.",
+          "segments": [
+            {
+              "text": "— My luggage is missing.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— maɪ lˈʌɡɪdʒ ɪz mˈɪsɪŋ."
+        },
+        {
+          "text": "Vamos a quedarnos tres noches.",
+          "segments": [
+            {
+              "text": "Vamos a quedarnos tres noches.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "vˈɑːmoʊz ɐ kwɛdˈɑːɹnoʊz tɹˈɛz nˈɑːtʃᵻz."
+        },
+        {
+          "text": "— We are going to stay three nights.",
+          "segments": [
+            {
+              "text": "— We are going to stay three nights.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— wiː ɑːɹ ɡˌoʊɪŋ tə stˈeɪ θɹˈiː nˈaɪts."
+        }
+      ]
+    },
+    {
+      "file": "06.wav",
+      "text": "Check your readiness. Explain the core idea. Produce an original example. Complete the section assessment at 85% or higher.",
+      "sentences": [
+        {
+          "text": "Check your readiness.",
+          "segments": [
+            {
+              "text": "Check your readiness.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tʃˈɛk jʊɹ ɹˈɛdinəs."
+        },
+        {
+          "text": "Explain the core idea.",
+          "segments": [
+            {
+              "text": "Explain the core idea.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɛksplˈeɪn ðə kˈɔːɹ aɪdˈiə."
+        },
+        {
+          "text": "Produce an original example.",
+          "segments": [
+            {
+              "text": "Produce an original example.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "pɹədˈuːs ɐn ɚɹˈɪdʒɪnəl ɛɡzˈæmpəl."
+        },
+        {
+          "text": "Complete the section assessment at 85% or higher.",
+          "segments": [
+            {
+              "text": "Complete the section assessment at 85% or higher.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "kəmplˈiːt ðə sˈɛkʃən ɐsˈɛsmənt æɾ ˈeɪɾi fˈaɪv pɚsˈɛnt ɔːɹ hˈaɪɚ."
+        }
+      ]
+    },
+    {
+      "file": "vocab-00.wav",
+      "text": "el billete",
+      "sentences": [
+        {
+          "text": "el billete",
+          "segments": [
+            {
+              "text": "el billete",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "el βijjˈete"
+        }
+      ]
+    },
+    {
+      "file": "vocab-01.wav",
+      "text": "el vuelo",
+      "sentences": [
+        {
+          "text": "el vuelo",
+          "segments": [
+            {
+              "text": "el vuelo",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "el βwˈelo"
+        }
+      ]
+    },
+    {
+      "file": "vocab-02.wav",
+      "text": "el andén",
+      "sentences": [
+        {
+          "text": "el andén",
+          "segments": [
+            {
+              "text": "el andén",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "el andˈen"
+        }
+      ]
+    },
+    {
+      "file": "vocab-03.wav",
+      "text": "la reserva",
+      "sentences": [
+        {
+          "text": "la reserva",
+          "segments": [
+            {
+              "text": "la reserva",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "la resˈeɾβa"
+        }
+      ]
+    },
+    {
+      "file": "vocab-04.wav",
+      "text": "la habitación",
+      "sentences": [
+        {
+          "text": "la habitación",
+          "segments": [
+            {
+              "text": "la habitación",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "la ˌaβitasjˈon"
+        }
+      ]
+    },
+    {
+      "file": "vocab-05.wav",
+      "text": "el equipaje",
+      "sentences": [
+        {
+          "text": "el equipaje",
+          "segments": [
+            {
+              "text": "el equipaje",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "el ˌekipˈaxe"
+        }
+      ]
+    },
+    {
+      "file": "vocab-06.wav",
+      "text": "salir",
+      "sentences": [
+        {
+          "text": "salir",
+          "segments": [
+            {
+              "text": "salir",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "salˈiɾ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-07.wav",
+      "text": "llegar",
+      "sentences": [
+        {
+          "text": "llegar",
+          "segments": [
+            {
+              "text": "llegar",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ʝeɣˈaɾ"
+        }
+      ]
+    }
+  ]
+}

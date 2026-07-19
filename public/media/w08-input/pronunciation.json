@@ -1,0 +1,459 @@
+{
+  "profile": "e",
+  "utterances": [
+    {
+      "file": "00.wav",
+      "text": "Week 8: Family, Description, and Possession. describe people and relationships express possession identify a person precisely",
+      "sentences": [
+        {
+          "text": "Week 8: Family, Description, and Possession.",
+          "segments": [
+            {
+              "text": "Week 8: Family, Description, and Possession.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wˈiːk ˈeɪt: fˈæmɪli, dᵻskɹˈɪpʃən, ænd pəzˈɛʃən."
+        },
+        {
+          "text": "describe people and relationships express possession identify a person precisely",
+          "segments": [
+            {
+              "text": "describe people and relationships express possession identify a person precisely",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "dᵻskɹˈaɪb pˈiːpəl ænd ɹᵻlˈeɪʃənʃˌɪps ɛkspɹˈɛs pəzˈɛʃən aɪdˈɛntᵻfˌaɪ ɐ pˈɜːsən pɹɪsˈaɪsli"
+        }
+      ]
+    },
+    {
+      "file": "01.wav",
+      "text": "Read for the situation. La familia de Inés es grande y vive en varios países. Su prima mayor es médica, sus hermanos son estudiantes y su mejor amigo participa en todas las celebraciones. Inés's family is large and lives in several countries. Her older female cousin is a doctor, her brothers are students, and her best friend takes part in every celebration.",
+      "sentences": [
+        {
+          "text": "Read for the situation.",
+          "segments": [
+            {
+              "text": "Read for the situation.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɹˈiːd fɚðə sˌɪtʃuːˈeɪʃən."
+        },
+        {
+          "text": "La familia de Inés es grande y vive en varios países.",
+          "segments": [
+            {
+              "text": "La familia de Inés es grande y vive en varios países.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "la famˈilja ðe inˈes ˈes ɣɾˈande i βˈiβe em bˈaɾjos paˈises."
+        },
+        {
+          "text": "Su prima mayor es médica, sus hermanos son estudiantes y su mejor amigo participa en todas las celebraciones.",
+          "segments": [
+            {
+              "text": "Su prima mayor es médica, sus hermanos son estudiantes y su mejor amigo participa en todas las celebraciones.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "su pɾˈima maʝˈoɾ ˈes mˈeðika, sus eɾmˈanos sˈon ˌestuðjˈantes i su mexˈoɾ amˈiɣo pˌaɾtisˈipa en tˈoðas las sˌeleβɾasjˈones."
+        },
+        {
+          "text": "Inés's family is large and lives in several countries.",
+          "segments": [
+            {
+              "text": "Inés",
+              "lang": "es-419"
+            },
+            {
+              "text": "'s family is large and lives in several countries.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "inˈes ˈɛs fˈæmɪli ɪz lˈɑːɹdʒ ænd lˈaɪvz ɪn sˈɛvɹəl kˈʌntɹiz."
+        },
+        {
+          "text": "Her older female cousin is a doctor, her brothers are students, and her best friend takes part in every celebration.",
+          "segments": [
+            {
+              "text": "Her older female cousin is a doctor, her brothers are students, and her best friend takes part in every celebration.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "hɜːɹ ˈoʊldɚ fˈiːmeɪl kˈʌzən ɪz ɐ dˈɑːktɚ, hɜː bɹˈʌðɚz ɑːɹ stˈuːdənts, ænd hɜː bˈɛst fɹˈɛnd tˈeɪks pˈɑːɹt ɪn ˈɛvɹi sˌɛləbɹˈeɪʃən."
+        }
+      ]
+    },
+    {
+      "file": "02.wav",
+      "text": "Read again for evidence. Identify who acts, what changes, when it happens, and which words establish the relationship between events.",
+      "sentences": [
+        {
+          "text": "Read again for evidence.",
+          "segments": [
+            {
+              "text": "Read again for evidence.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɹˈiːd ɐɡˈɛn fɔːɹ ˈɛvɪdəns."
+        },
+        {
+          "text": "Identify who acts, what changes, when it happens, and which words establish the relationship between events.",
+          "segments": [
+            {
+              "text": "Identify who acts, what changes, when it happens, and which words establish the relationship between events.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "aɪdˈɛntᵻfˌaɪ hˌuː ˈækts, wˌʌt tʃˈeɪndʒᵻz, wˌɛn ɪt hˈæpənz, ænd wˌɪtʃ wˈɜːdz ɪstˈæblɪʃ ðə ɹᵻlˈeɪʃənʃˌɪp bᵻtwˌiːn ᵻvˈɛnts."
+        }
+      ]
+    },
+    {
+      "file": "03.wav",
+      "text": "Reading activities. Reading activity 18; Reading activity 19",
+      "sentences": [
+        {
+          "text": "Reading activities.",
+          "segments": [
+            {
+              "text": "Reading activities.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɹˈiːdɪŋ æktˈɪvᵻɾiz."
+        },
+        {
+          "text": "Reading activity 18; Reading activity 19",
+          "segments": [
+            {
+              "text": "Reading activity 18; Reading activity 19",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɹˈiːdɪŋ æktˈɪvᵻɾi ˈeɪtiːn; ɹˈiːdɪŋ æktˈɪvᵻɾi nˈaɪntiːn"
+        }
+      ]
+    },
+    {
+      "file": "04.wav",
+      "text": "Retell. Without looking back, give the main idea, three supporting details, and one reasonable inference in Spanish.",
+      "sentences": [
+        {
+          "text": "Retell.",
+          "segments": [
+            {
+              "text": "Retell.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɹᵻtˈɛl."
+        },
+        {
+          "text": "Without looking back, give the main idea, three supporting details, and one reasonable inference in Spanish.",
+          "segments": [
+            {
+              "text": "Without looking back, give the main idea, three supporting details, and one reasonable inference in Spanish.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wɪðˌaʊt lˈʊkɪŋ bˈæk, ɡˈɪv ðə mˈeɪn aɪdˈiə, θɹˈiː səpˈɔːɹɾɪŋ diːtˈeɪlz, ænd wˈʌn ɹˈiːzənəbəl ˈɪnfɚɹəns ɪn spˈænɪʃ."
+        }
+      ]
+    },
+    {
+      "file": "05.wav",
+      "text": "Model language. Mi hermana mayor es muy amable. — My older sister is very kind. Conozco a los padres de Elena. — I know Elena's parents. Nuestra familia vive en tres ciudades. — Our family lives in three cities. ¿Es suyo este retrato? — Is this portrait yours? Tengo dos hermanos y una prima. — I have two brothers and one female cousin.",
+      "sentences": [
+        {
+          "text": "Model language.",
+          "segments": [
+            {
+              "text": "Model language.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
+        },
+        {
+          "text": "Mi hermana mayor es muy amable.",
+          "segments": [
+            {
+              "text": "Mi hermana mayor es muy amable.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "mi eɾmˈana maʝˈoɾ ˈes mˈuj amˈaβle."
+        },
+        {
+          "text": "— My older sister is very kind.",
+          "segments": [
+            {
+              "text": "— My older sister is very kind.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— maɪ ˈoʊldɚ sˈɪstɚɹ ɪz vˈɛɹi kˈaɪnd."
+        },
+        {
+          "text": "Conozco a los padres de Elena.",
+          "segments": [
+            {
+              "text": "Conozco a los padres de Elena.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "konˈosko a los pˈaðɾes ðe elˈena."
+        },
+        {
+          "text": "— I know Elena's parents.",
+          "segments": [
+            {
+              "text": "— I know Elena's parents.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— aɪ nˈoʊ ᵻlˈiːnəz pˈɛɹənts."
+        },
+        {
+          "text": "Nuestra familia vive en tres ciudades.",
+          "segments": [
+            {
+              "text": "Nuestra familia vive en tres ciudades.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "nwˌestɾa famˈilja βˈiβe en tɾˈes sjuðˈaðes."
+        },
+        {
+          "text": "— Our family lives in three cities.",
+          "segments": [
+            {
+              "text": "— Our family lives in three cities.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— ˌaʊɚ fˈæmɪli lˈaɪvz ɪn θɹˈiː sˈɪɾiz."
+        },
+        {
+          "text": "¿Es suyo este retrato?",
+          "segments": [
+            {
+              "text": "¿Es suyo este retrato?",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˈes sˈuʝo ˈeste retɾˈato?"
+        },
+        {
+          "text": "— Is this portrait yours?",
+          "segments": [
+            {
+              "text": "— Is this portrait yours?",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— ɪz ðɪs pˈɔːɹtɹɪt jˈɔːɹz?"
+        },
+        {
+          "text": "Tengo dos hermanos y una prima.",
+          "segments": [
+            {
+              "text": "Tengo dos hermanos y una prima.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "tˈɛŋɡo ðˈos eɾmˈanos i ˈuna pɾˈima."
+        },
+        {
+          "text": "— I have two brothers and one female cousin.",
+          "segments": [
+            {
+              "text": "— I have two brothers and one female cousin.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— aɪ hæv tˈuː bɹˈʌðɚz ænd wˈʌn fˈiːmeɪl kˈʌzən."
+        }
+      ]
+    },
+    {
+      "file": "06.wav",
+      "text": "Check your readiness. Explain the core idea. Produce an original example. Complete the section assessment at 85% or higher.",
+      "sentences": [
+        {
+          "text": "Check your readiness.",
+          "segments": [
+            {
+              "text": "Check your readiness.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tʃˈɛk jʊɹ ɹˈɛdinəs."
+        },
+        {
+          "text": "Explain the core idea.",
+          "segments": [
+            {
+              "text": "Explain the core idea.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɛksplˈeɪn ðə kˈɔːɹ aɪdˈiə."
+        },
+        {
+          "text": "Produce an original example.",
+          "segments": [
+            {
+              "text": "Produce an original example.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "pɹədˈuːs ɐn ɚɹˈɪdʒɪnəl ɛɡzˈæmpəl."
+        },
+        {
+          "text": "Complete the section assessment at 85% or higher.",
+          "segments": [
+            {
+              "text": "Complete the section assessment at 85% or higher.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "kəmplˈiːt ðə sˈɛkʃən ɐsˈɛsmənt æɾ ˈeɪɾi fˈaɪv pɚsˈɛnt ɔːɹ hˈaɪɚ."
+        }
+      ]
+    },
+    {
+      "file": "vocab-00.wav",
+      "text": "la familia",
+      "sentences": [
+        {
+          "text": "la familia",
+          "segments": [
+            {
+              "text": "la familia",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "la famˈilja"
+        }
+      ]
+    },
+    {
+      "file": "vocab-01.wav",
+      "text": "la madre",
+      "sentences": [
+        {
+          "text": "la madre",
+          "segments": [
+            {
+              "text": "la madre",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "la mˈaðɾe"
+        }
+      ]
+    },
+    {
+      "file": "vocab-02.wav",
+      "text": "el padre",
+      "sentences": [
+        {
+          "text": "el padre",
+          "segments": [
+            {
+              "text": "el padre",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "el pˈaðɾe"
+        }
+      ]
+    },
+    {
+      "file": "vocab-03.wav",
+      "text": "la hermana",
+      "sentences": [
+        {
+          "text": "la hermana",
+          "segments": [
+            {
+              "text": "la hermana",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "la eɾmˈana"
+        }
+      ]
+    },
+    {
+      "file": "vocab-04.wav",
+      "text": "el amigo",
+      "sentences": [
+        {
+          "text": "el amigo",
+          "segments": [
+            {
+              "text": "el amigo",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "el amˈiɣo"
+        }
+      ]
+    },
+    {
+      "file": "vocab-05.wav",
+      "text": "joven",
+      "sentences": [
+        {
+          "text": "joven",
+          "segments": [
+            {
+              "text": "joven",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "xˈoβen"
+        }
+      ]
+    },
+    {
+      "file": "vocab-06.wav",
+      "text": "mayor",
+      "sentences": [
+        {
+          "text": "mayor",
+          "segments": [
+            {
+              "text": "mayor",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "maʝˈoɾ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-07.wav",
+      "text": "amable",
+      "sentences": [
+        {
+          "text": "amable",
+          "segments": [
+            {
+              "text": "amable",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "amˈaβle"
+        }
+      ]
+    }
+  ]
+}
