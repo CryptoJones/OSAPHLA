@@ -1,5 +1,6 @@
 import { useRef, useState } from "react";
 import { exportLearningData, importLearningData } from "../lib/db";
+import { mediaUrl } from "../lib/media";
 import { useTheme } from "../theme";
 import type { Course, ThemeId } from "../types";
 
@@ -106,7 +107,7 @@ export function SettingsPage({ course }: { course: Course }) {
   async function installMedia() {
     if (!("caches" in window)) { setMediaMessage("This browser does not expose offline media storage."); return; }
     setMediaBusy(true);
-    const urls = course.sections.flatMap((section) => [section.media.video, section.media.audio]);
+    const urls = course.sections.flatMap((section) => [mediaUrl(section.media.video), mediaUrl(section.media.audio)]);
     try {
       await navigator.storage?.persist?.();
       const cache = await caches.open("espanol-media-v2");

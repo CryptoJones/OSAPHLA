@@ -1,6 +1,7 @@
 import { useEffect, useRef, useState } from "react";
 import { Link, Navigate, useParams } from "react-router-dom";
 import { markStarted } from "../lib/db";
+import { mediaUrl } from "../lib/media";
 import type { Course, SectionProgress } from "../types";
 import { AdaptivePlayer } from "./AdaptivePlayer";
 import { Assessment } from "./Assessment";
@@ -20,7 +21,7 @@ export function LessonPage({ course, progress, onProgress }: { course: Course; p
 
   function playVocabulary(index: number, word: string) {
     pronunciation.current?.pause();
-    const audio = new Audio(`/media/${section!.id}/vocabulary/${String(index).padStart(2, "0")}.mp3`);
+    const audio = new Audio(mediaUrl(`media/${section!.id}/vocabulary/${String(index).padStart(2, "0")}.mp3`));
     pronunciation.current = audio;
     audio.onplay = () => setPronunciationNotice(`Playing ${word}.`);
     audio.onended = () => setPronunciationNotice("");
