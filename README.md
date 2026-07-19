@@ -13,6 +13,10 @@ The course is a single-user PWA. All settings, attempts, recordings, and progres
 stay in the browser. There is no account system, telemetry, advertising, remote
 database, or required runtime API.
 
+## Try the Demo
+
+A working demo can be found at https://w3b.cryptojones.dev/OSAPHLA/
+
 ## Start the academy
 
 Install a current Node.js LTS release, then open a terminal in this repository.
