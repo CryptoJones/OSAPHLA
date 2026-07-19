@@ -4,6 +4,15 @@ import { VitePWA } from "vite-plugin-pwa";
 
 export default defineConfig({
   base: '/OSAPHLA/',
+  preview: {
+    host: '127.0.0.1',
+    port: 4173,
+    strictPort: true,
+    // Served only via the nginx reverse proxy on 127.0.0.1:4173 (never exposed directly),
+    // so the Host header can be whatever the front door forwards (w3b.cryptojones.dev, the
+    // LAN hostname, etc.) — disable Vite's DNS-rebinding host allowlist rather than enumerate them.
+    allowedHosts: true
+  },
   plugins: [
     react(),
     VitePWA({
