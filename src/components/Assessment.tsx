@@ -1,10 +1,14 @@
 import { useMemo, useState } from "react";
+import { Link } from "react-router-dom";
+import { useCourse } from "../course";
 import { isCorrect, selectAssessment } from "../lib/answers";
 import { recordAttempt } from "../lib/db";
 import type { Course, OrderingQuestion, Question, Section } from "../types";
 
 export function Assessment({ course, section, onComplete }: { course: Course; section: Section; onComplete: () => void }) {
   const spanish = course.instructionLocale === "es-419";
+  const { path } = useCourse();
+  const next = course.sections[section.number];
   const [attemptSeed, setAttemptSeed] = useState(() => Date.now());
   const questions = useMemo(() => selectAssessment(section.questions, attemptSeed), [section.id, attemptSeed]);
   const [answers, setAnswers] = useState<Record<string, string | string[]>>({});
@@ -39,7 +43,9 @@ export function Assessment({ course, section, onComplete }: { course: Course; se
         </li>; })}
       </ol>
       <div className="button-row">
-        {(!submitted || score < 1) && <button className="button primary" type="submit">{submitted ? (spanish ? "Revisar correcciones" : "Check corrections") : (spanish ? "Calificar intento" : "Score this attempt")}</button>}
+        {!submitted && <button className="button primary" type="submit">{spanish ? "Calificar intento" : "Score this attempt"}</button>}
+        {submitted && score >= section.masteryThreshold && <Link className="button primary" to={next ? path(`lesson/${next.id}`) : path()}>{next ? (spanish ? `Continuar a la sección ${next.number} →` : `Continue to section ${next.number} →`) : (spanish ? "Inicio final →" : "Final dashboard →")}</Link>}
+        {submitted && score < 1 && <button className={`button ${score < section.masteryThreshold ? "primary" : ""}`} type="submit">{spanish ? "Revisar correcciones" : "Check corrections"}</button>}
         {submitted && <button className="button" type="button" onClick={newSet}>{spanish ? "Empezar un conjunto nuevo" : "Start a new set"}</button>}
       </div>
     </form>
