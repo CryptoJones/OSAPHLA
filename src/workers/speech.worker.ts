@@ -10,8 +10,11 @@ self.onmessage = async (event: MessageEvent<{ id: string; audio: Float32Array }>
   const { id, audio } = event.data;
   try {
     self.postMessage({ id, status: "loading", message: "Loading the private on-device speech model…" });
+    // "gpu" in navigator only means the WebGPU API is exposed, not that it works reliably --
+    // ONNX Runtime Web's WebGPU backend crashed the whole tab on real hardware (2026-07-19).
+    // WASM is slower but doesn't take the GPU process down with it.
     transcriber ??= await pipeline("automatic-speech-recognition", "onnx-community/whisper-tiny", {
-      device: "gpu" in navigator ? "webgpu" : "wasm",
+      device: "wasm",
       dtype: "q8"
     });
     self.postMessage({ id, status: "transcribing", message: "Transcribing locally…" });
