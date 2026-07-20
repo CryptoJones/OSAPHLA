@@ -35,6 +35,7 @@ export function Assessment({ course, section, onComplete }: { course: Course; se
     <div id="assessment-status" className={`assessment-status ${submitted ? (score >= section.masteryThreshold ? "pass" : "review") : ""}`} role="status" tabIndex={-1}>
       {submitted ? <><strong>{Math.round(score * 100)}%</strong><span>{score >= section.masteryThreshold ? (spanish ? "Sección dominada. Conserva la evidencia, no solo la puntuación." : "Section mastered. Keep the evidence, not just the score.") : (spanish ? "Revisa las explicaciones e intenta otro conjunto equilibrado." : "Review the explanations and try a new balanced set.")}</span></> : <><strong>{Object.keys(answers).length}/{questions.length}</strong><span>{spanish ? "respuestas completadas" : "responses completed"}</span></>}
     </div>
+    {submitted && score >= section.masteryThreshold && <Link className="continue-cta" to={next ? path(`lesson/${next.id}`) : path()}>{next ? (spanish ? `Continuar a la sección ${next.number} →` : `Continue to section ${next.number} →`) : (spanish ? "Inicio final →" : "Final dashboard →")}</Link>}
     <form onSubmit={(event) => void submit(event)}>
       <ol className="question-list">
         {questions.map((question, index) => { const locked = submitted && results[index].correct; return <li key={question.id} className={submitted ? (results[index].correct ? "correct" : "incorrect") : ""}>
@@ -44,7 +45,6 @@ export function Assessment({ course, section, onComplete }: { course: Course; se
       </ol>
       <div className="button-row">
         {!submitted && <button className="button primary" type="submit">{spanish ? "Calificar intento" : "Score this attempt"}</button>}
-        {submitted && score >= section.masteryThreshold && <Link className="button primary" to={next ? path(`lesson/${next.id}`) : path()}>{next ? (spanish ? `Continuar a la sección ${next.number} →` : `Continue to section ${next.number} →`) : (spanish ? "Inicio final →" : "Final dashboard →")}</Link>}
         {submitted && score < 1 && <button className={`button ${score < section.masteryThreshold ? "primary" : ""}`} type="submit">{spanish ? "Revisar correcciones" : "Check corrections"}</button>}
         {submitted && <button className="button" type="button" onClick={newSet}>{spanish ? "Empezar un conjunto nuevo" : "Start a new set"}</button>}
       </div>
