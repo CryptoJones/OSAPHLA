@@ -2,6 +2,7 @@ import { useEffect, useRef, useState } from "react";
 import { db } from "../lib/db";
 import { normalizeAnswer } from "../lib/answers";
 import type { Course } from "../types";
+import { isMemoryConstrainedIOSBrowser } from "../lib/platform";
 
 async function decodeForWhisper(blob: Blob) {
   const context = new AudioContext({ sampleRate: 16_000 });
@@ -54,6 +55,10 @@ export function SpeechLab({ course, sectionId, target, meaning }: { course: Cour
 
   async function analyze() {
     if (!blob) return;
+    if (isMemoryConstrainedIOSBrowser()) {
+      setStatus(spanish ? "El análisis de voz en el dispositivo no está disponible en este navegador en iPhone -- los navegadores de iOS que no son Safari reciben muy poca memoria del sistema para ejecutar el modelo con seguridad y la aplicación puede fallar. Prueba con Safari o usa esta función en una computadora." : "On-device speech analysis isn't available in this browser on iPhone -- non-Safari iOS browsers get too little memory from the OS to run the model safely and it can crash the app. Try Safari, or use this feature on a computer.");
+      return;
+    }
     setStatus(spanish ? "Preparando el audio localmente…" : "Preparing audio locally…");
     const audio = await decodeForWhisper(blob);
     worker.current ??= new Worker(new URL("../workers/speech.worker.ts", import.meta.url), { type: "module" });
