@@ -1,0 +1,455 @@
+{
+  "profile": "bella",
+  "utterances": [
+    {
+      "file": "00.wav",
+      "text": "Semana 19: Pasado continuo y hábitos anteriores. describir cómo eran las cosas establecer una escena contrastar pasado y presente",
+      "sentences": [
+        {
+          "text": "Semana 19: Pasado continuo y hábitos anteriores.",
+          "segments": [
+            {
+              "text": "Semana 19: Pasado continuo y hábitos anteriores.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "semˈana ðjˌɛsinwˈeβe: pasˈaðo kontˈinwo i ˈaβitos ˌanteɾjˈoɾes."
+        },
+        {
+          "text": "describir cómo eran las cosas establecer una escena contrastar pasado y presente",
+          "segments": [
+            {
+              "text": "describir cómo eran las cosas establecer una escena contrastar pasado y presente",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "dˌeskɾiβˈiɾ kˈomo ˈeɾan las kˈosas ˌestaβlesˈeɾ ˈuna esˈena kˌontɾastˈaɾ pasˈaðo i pɾesˈɛnte"
+        }
+      ]
+    },
+    {
+      "file": "01.wav",
+      "text": "Lee para entender la situación. When Teresa was a child, her street had few cars, and everyone knew the neighbors. Every afternoon, she played in the square while her grandparents talked outside. Cuando Teresa era niña, su calle tenía pocos autos y todo el mundo conocía a los vecinos. Cada tarde jugaba en la plaza mientras sus abuelos conversaban afuera.",
+      "sentences": [
+        {
+          "text": "Lee para entender la situación.",
+          "segments": [
+            {
+              "text": "Lee para entender la situación.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "lˈee pˌaɾa ˌentendˈeɾ la sˌitwasjˈon."
+        },
+        {
+          "text": "When Teresa was a child, her street had few cars, and everyone knew the neighbors.",
+          "segments": [
+            {
+              "text": "When Teresa was a child, her street had few cars, and everyone knew the neighbors.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wˌɛn tɚɹˈiːsə wʌzɐ tʃˈaɪld, hɜː stɹˈiːt hæd fjˈuː kˈɑːɹz, ænd ˈɛvɹɪwˌʌn nˈuː ðə nˈeɪbɚz."
+        },
+        {
+          "text": "Every afternoon, she played in the square while her grandparents talked outside.",
+          "segments": [
+            {
+              "text": "Every afternoon, she played in the square while her grandparents talked outside.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ˈɛvɹi ˌæftɚnˈuːn, ʃiː plˈeɪd ɪnðə skwˈɛɹ wˌaɪl hɜː ɡɹˈændpɛɹənts tˈɔːkt aʊtsˈaɪd."
+        },
+        {
+          "text": "Cuando Teresa era niña, su calle tenía pocos autos y todo el mundo conocía a los vecinos.",
+          "segments": [
+            {
+              "text": "Cuando Teresa era niña, su calle tenía pocos autos y todo el mundo conocía a los vecinos.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kwˌando teɾˈesa ˈeɾa nˈiɲa, su kˈajje tenˈia pˈokos ˈaʊtos i tˈoðo el mˈundo kˌonosˈia a los βesˈinos."
+        },
+        {
+          "text": "Cada tarde jugaba en la plaza mientras sus abuelos conversaban afuera.",
+          "segments": [
+            {
+              "text": "Cada tarde jugaba en la plaza mientras sus abuelos conversaban afuera.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kˈaða tˈaɾðe xuɣˈaβa en la plˈasa mjˌentɾas sus aβwˈelos kˌombeɾsˈaβan afwˈeɾa."
+        }
+      ]
+    },
+    {
+      "file": "02.wav",
+      "text": "Lee de nuevo para buscar evidencia. Identifica quién actúa, qué cambia, cuándo ocurre y qué palabras establecen la relación entre los acontecimientos.",
+      "sentences": [
+        {
+          "text": "Lee de nuevo para buscar evidencia.",
+          "segments": [
+            {
+              "text": "Lee de nuevo para buscar evidencia.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "lˈee ðe nwˈeβo pˌaɾa βuskˈaɾ ˌeβiðˈɛnsja."
+        },
+        {
+          "text": "Identifica quién actúa, qué cambia, cuándo ocurre y qué palabras establecen la relación entre los acontecimientos.",
+          "segments": [
+            {
+              "text": "Identifica quién actúa, qué cambia, cuándo ocurre y qué palabras establecen la relación entre los acontecimientos.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˌiðentifˈika kjˈen aktˈua, kˈe kˈambja, kwˈando okˈure i kˈe palˈaβɾas ˌestaβlˈesen la rˌelasjˈon ˌentɾe los ˌakontˌesimjˈɛntos."
+        }
+      ]
+    },
+    {
+      "file": "03.wav",
+      "text": "Actividades de lectura. Actividad de lectura 45; Actividad de lectura 46",
+      "sentences": [
+        {
+          "text": "Actividades de lectura.",
+          "segments": [
+            {
+              "text": "Actividades de lectura.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˌaktiβiðˈaðes ðe lektˈuɾa."
+        },
+        {
+          "text": "Actividad de lectura 45; Actividad de lectura 46",
+          "segments": [
+            {
+              "text": "Actividad de lectura 45; Actividad de lectura 46",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˌaktiβiðˈad ðe lektˈuɾa kwaɾˌɛntaisˈinko; ˌaktiβiðˈad ðe lektˈuɾa kwaɾˌɛntaisˈeɪs"
+        }
+      ]
+    },
+    {
+      "file": "04.wav",
+      "text": "Reconstrucción. Sin mirar el texto, expresa la idea principal, tres detalles y una inferencia razonable en inglés.",
+      "sentences": [
+        {
+          "text": "Reconstrucción.",
+          "segments": [
+            {
+              "text": "Reconstrucción.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "rˌekonstɾuksjˈon."
+        },
+        {
+          "text": "Sin mirar el texto, expresa la idea principal, tres detalles y una inferencia razonable en inglés.",
+          "segments": [
+            {
+              "text": "Sin mirar el texto, expresa la idea principal, tres detalles y una inferencia razonable en inglés.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "sin miɾˈaɾ el tˈeksto, ekspɾˈesa la iðˈea pɾˌinsipˈal, tɾˈes ðetˈajjes i ˈuna ˌinfeɾˈɛnsja rˌasonˈaβle en iŋɡlˈes."
+        }
+      ]
+    },
+    {
+      "file": "05.wav",
+      "text": "Lenguaje modelo. There used to be fewer buildings. — Antes había menos edificios. I used to play in this square. — Yo jugaba en esta plaza. It was eight o'clock, and it was raining. — Eran las ocho y estaba lloviendo. We listened to the radio while we worked. — Escuchábamos la radio mientras trabajábamos. The city seemed quieter. — La ciudad parecía más tranquila.",
+      "sentences": [
+        {
+          "text": "Lenguaje modelo.",
+          "segments": [
+            {
+              "text": "Lenguaje modelo.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "leŋɡwˈaxe moðˈelo."
+        },
+        {
+          "text": "There used to be fewer buildings.",
+          "segments": [
+            {
+              "text": "There used to be fewer buildings.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðɛɹ jˈuːzd təbi fjˈuːɚ bˈɪldɪŋz."
+        },
+        {
+          "text": "— Antes había menos edificios.",
+          "segments": [
+            {
+              "text": "— Antes había menos edificios.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— ˈantes aβˈia mˈenos ˌeðifˈisjos."
+        },
+        {
+          "text": "I used to play in this square.",
+          "segments": [
+            {
+              "text": "I used to play in this square.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "aɪ jˈuːzd tə plˈeɪ ɪn ðɪs skwˈɛɹ."
+        },
+        {
+          "text": "— Yo jugaba en esta plaza.",
+          "segments": [
+            {
+              "text": "— Yo jugaba en esta plaza.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— ʝˈo xuɣˈaβa en ˈesta plˈasa."
+        },
+        {
+          "text": "It was eight o'clock, and it was raining.",
+          "segments": [
+            {
+              "text": "It was eight o'clock, and it was raining.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɪt wʌz ˈeɪt əklˈɑːk, ænd ɪt wʌz ɹˈeɪnɪŋ."
+        },
+        {
+          "text": "— Eran las ocho y estaba lloviendo.",
+          "segments": [
+            {
+              "text": "— Eran las ocho y estaba lloviendo.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— ˈeɾan las ˈotʃo i estˈaβa ʝoβjˈɛndo."
+        },
+        {
+          "text": "We listened to the radio while we worked.",
+          "segments": [
+            {
+              "text": "We listened to the radio while we worked.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wiː lˈɪsənd tə ðə ɹˈeɪdɪˌoʊ wˌaɪl wiː wˈɜːkt."
+        },
+        {
+          "text": "— Escuchábamos la radio mientras trabajábamos.",
+          "segments": [
+            {
+              "text": "— Escuchábamos la radio mientras trabajábamos.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— ˌeskutʃˈaβamos la rˈaðjo mjˌentɾas tɾˌaβaxˈaβamos."
+        },
+        {
+          "text": "The city seemed quieter.",
+          "segments": [
+            {
+              "text": "The city seemed quieter.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðə sˈɪɾi sˈiːmd kwˈaɪəɾɚ."
+        },
+        {
+          "text": "— La ciudad parecía más tranquila.",
+          "segments": [
+            {
+              "text": "— La ciudad parecía más tranquila.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— la sjuðˈad pˌaɾesˈia mˈas tɾankˈila."
+        }
+      ]
+    },
+    {
+      "file": "06.wav",
+      "text": "Comprueba tu preparación. Explica la idea central. Produce un ejemplo original. Completa la evaluación con un 85 % o más.",
+      "sentences": [
+        {
+          "text": "Comprueba tu preparación.",
+          "segments": [
+            {
+              "text": "Comprueba tu preparación.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kˌompɾuˈeβa tu pɾˌepaɾasjˈon."
+        },
+        {
+          "text": "Explica la idea central.",
+          "segments": [
+            {
+              "text": "Explica la idea central.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "eksplˈika la iðˈea sentɾˈal."
+        },
+        {
+          "text": "Produce un ejemplo original.",
+          "segments": [
+            {
+              "text": "Produce un ejemplo original.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "pɾoðˈuse ˈun exˈemplo ˌoɾixinˈal."
+        },
+        {
+          "text": "Completa la evaluación con un 85 % o más.",
+          "segments": [
+            {
+              "text": "Completa la evaluación con un 85 % o más.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "komplˈeta la ˌeβaluasjˈon kon ˈun otʃˌɛntaisˈinko poɾsjˈɛnto o mˈas."
+        }
+      ]
+    },
+    {
+      "file": "vocab-00.wav",
+      "text": "before",
+      "sentences": [
+        {
+          "text": "before",
+          "segments": [
+            {
+              "text": "before",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "bᵻfˈɔːɹ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-01.wav",
+      "text": "now",
+      "sentences": [
+        {
+          "text": "now",
+          "segments": [
+            {
+              "text": "now",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "nˈaʊ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-02.wav",
+      "text": "while",
+      "sentences": [
+        {
+          "text": "while",
+          "segments": [
+            {
+              "text": "while",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wˈaɪl"
+        }
+      ]
+    },
+    {
+      "file": "vocab-03.wav",
+      "text": "to use to",
+      "sentences": [
+        {
+          "text": "to use to",
+          "segments": [
+            {
+              "text": "to use to",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tə jˈuːz tuː"
+        }
+      ]
+    },
+    {
+      "file": "vocab-04.wav",
+      "text": "quiet",
+      "sentences": [
+        {
+          "text": "quiet",
+          "segments": [
+            {
+              "text": "quiet",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "kwˈaɪət"
+        }
+      ]
+    },
+    {
+      "file": "vocab-05.wav",
+      "text": "busy",
+      "sentences": [
+        {
+          "text": "busy",
+          "segments": [
+            {
+              "text": "busy",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "bˈɪzi"
+        }
+      ]
+    },
+    {
+      "file": "vocab-06.wav",
+      "text": "to remember",
+      "sentences": [
+        {
+          "text": "to remember",
+          "segments": [
+            {
+              "text": "to remember",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tə ɹᵻmˈɛmbɚ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-07.wav",
+      "text": "to change",
+      "sentences": [
+        {
+          "text": "to change",
+          "segments": [
+            {
+              "text": "to change",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tə tʃˈeɪndʒ"
+        }
+      ]
+    }
+  ]
+}

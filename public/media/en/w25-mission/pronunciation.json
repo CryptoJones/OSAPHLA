@@ -1,0 +1,435 @@
+{
+  "profile": "heart",
+  "utterances": [
+    {
+      "file": "00.wav",
+      "text": "Semana 25: Futuro, probabilidad y pronósticos. hacer pronósticos expresar compromisos calibrar probabilidad",
+      "sentences": [
+        {
+          "text": "Semana 25: Futuro, probabilidad y pronósticos.",
+          "segments": [
+            {
+              "text": "Semana 25: Futuro, probabilidad y pronósticos.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "semˈana βˌeɪntisˈinko: futˈuɾo, pɾˌoβaβˌiliðˈað i pɾonˈostikos."
+        },
+        {
+          "text": "hacer pronósticos expresar compromisos calibrar probabilidad",
+          "segments": [
+            {
+              "text": "hacer pronósticos expresar compromisos calibrar probabilidad",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "asˈeɾ pɾonˈostikos ˌekspɾesˈaɾ kˌompɾomˈisos kˌaliβɾˈaɾ pɾˌoβaβˌiliðˈad"
+        }
+      ]
+    },
+    {
+      "file": "01.wav",
+      "text": "Instrucciones de la misión. Presenta un pronóstico a cinco años, distingue evidencia de especulación y asume dos compromisos.",
+      "sentences": [
+        {
+          "text": "Instrucciones de la misión.",
+          "segments": [
+            {
+              "text": "Instrucciones de la misión.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˌinstɾuksjˈones ðe la misjˈon."
+        },
+        {
+          "text": "Presenta un pronóstico a cinco años, distingue evidencia de especulación y asume dos compromisos.",
+          "segments": [
+            {
+              "text": "Presenta un pronóstico a cinco años, distingue evidencia de especulación y asume dos compromisos.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "pɾesˈɛnta ˈum pɾonˈostiko a sˈinko ˈaɲos, distˈiŋɡe ˌeβiðˈɛnsja ðe ˌespekˌulasjˈon i asˈume ðˈos kˌompɾomˈisos."
+        }
+      ]
+    },
+    {
+      "file": "02.wav",
+      "text": "Preparación. Selecciona diez palabras útiles, tres conectores y dos frases de reparación. Planifica ideas, no un párrafo memorizado.",
+      "sentences": [
+        {
+          "text": "Preparación.",
+          "segments": [
+            {
+              "text": "Preparación.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "pɾˌepaɾasjˈon."
+        },
+        {
+          "text": "Selecciona diez palabras útiles, tres conectores y dos frases de reparación.",
+          "segments": [
+            {
+              "text": "Selecciona diez palabras útiles, tres conectores y dos frases de reparación.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "sˌeleksjˈona ðjˈes palˈaβɾas ˈutiles, tɾˈes kˌonektˈoɾes i ðˈos fɾˈases ðe rˌepaɾasjˈon."
+        },
+        {
+          "text": "Planifica ideas, no un párrafo memorizado.",
+          "segments": [
+            {
+              "text": "Planifica ideas, no un párrafo memorizado.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "plˌanifˈika iðˈeas, nˈo ˈum pˈarafo mˌemoɾisˈaðo."
+        }
+      ]
+    },
+    {
+      "file": "03.wav",
+      "text": "Ejecución. Completa la tarea una vez para ganar fluidez, revisa la evidencia y repítela con más claridad y precisión.",
+      "sentences": [
+        {
+          "text": "Ejecución.",
+          "segments": [
+            {
+              "text": "Ejecución.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˌexekusjˈon."
+        },
+        {
+          "text": "Completa la tarea una vez para ganar fluidez, revisa la evidencia y repítela con más claridad y precisión.",
+          "segments": [
+            {
+              "text": "Completa la tarea una vez para ganar fluidez, revisa la evidencia y repítela con más claridad y precisión.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "komplˈeta la taɾˈea ˈuna βˈes pˌaɾa ɣanˈaɾ fluiðˈes, reβˈisa la ˌeβiðˈɛnsja i repˈitela kon mˈas klˌaɾiðˈað i pɾˌesisjˈon."
+        }
+      ]
+    },
+    {
+      "file": "04.wav",
+      "text": "Revisión posterior. Registra qué funcionó, qué bloqueó la comunicación y cuál será el cambio más importante para el próximo intento.",
+      "sentences": [
+        {
+          "text": "Revisión posterior.",
+          "segments": [
+            {
+              "text": "Revisión posterior.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "rˌeβisjˈom pˌosteɾjˈoɾ."
+        },
+        {
+          "text": "Registra qué funcionó, qué bloqueó la comunicación y cuál será el cambio más importante para el próximo intento.",
+          "segments": [
+            {
+              "text": "Registra qué funcionó, qué bloqueó la comunicación y cuál será el cambio más importante para el próximo intento.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "rexˈistɾa kˈe fˌunsjonˈo, kˈe βlˌokeˈo la kˌomunˌikasjˈon i kwˈal seɾˈa el kˈambjo mˈas ˌimpoɾtˈante pˌaɾa el pɾˈoksimo intˈɛnto."
+        }
+      ]
+    },
+    {
+      "file": "05.wav",
+      "text": "Lenguaje modelo. The urban population will increase. — La población urbana aumentará. We'll continue measuring the results. — Seguiremos midiendo los resultados. Marta might be at home now. — Marta quizá esté en casa ahora. When the study ends, we'll publish the data. — Cuando termine el estudio, publicaremos los datos. There will be new options in five years. — Habrá nuevas opciones en cinco años.",
+      "sentences": [
+        {
+          "text": "Lenguaje modelo.",
+          "segments": [
+            {
+              "text": "Lenguaje modelo.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "leŋɡwˈaxe moðˈelo."
+        },
+        {
+          "text": "The urban population will increase.",
+          "segments": [
+            {
+              "text": "The urban population will increase.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðɪ ˈɜːbən pˌɑːpjʊlˈeɪʃən wɪl ɪŋkɹˈiːs."
+        },
+        {
+          "text": "— La población urbana aumentará.",
+          "segments": [
+            {
+              "text": "— La población urbana aumentará.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— la pˌoβlasjˈon uɾβˈana ˌaʊmentaɾˈa."
+        },
+        {
+          "text": "We'll continue measuring the results.",
+          "segments": [
+            {
+              "text": "We'll continue measuring the results.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wiːl kəntˈɪnjuː mˈɛʒɚɹɪŋ ðə ɹɪzˈʌlts."
+        },
+        {
+          "text": "— Seguiremos midiendo los resultados.",
+          "segments": [
+            {
+              "text": "— Seguiremos midiendo los resultados.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— sˌeɣiɾˈemos miðjˈɛndo los rˌesultˈaðos."
+        },
+        {
+          "text": "Marta might be at home now.",
+          "segments": [
+            {
+              "text": "Marta might be at home now.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "mˈɑːɹɾə mˌaɪt biː æt hˈoʊm nˈaʊ."
+        },
+        {
+          "text": "— Marta quizá esté en casa ahora.",
+          "segments": [
+            {
+              "text": "— Marta quizá esté en casa ahora.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— mˈaɾta kisˈa estˈe en kˈasa aˈoɾa."
+        },
+        {
+          "text": "When the study ends, we'll publish the data.",
+          "segments": [
+            {
+              "text": "When the study ends, we'll publish the data.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wˌɛn ðə stˈʌdi ˈɛndz, wiːl pˈʌblɪʃ ðə dˈeɪɾə."
+        },
+        {
+          "text": "— Cuando termine el estudio, publicaremos los datos.",
+          "segments": [
+            {
+              "text": "— Cuando termine el estudio, publicaremos los datos.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— kwˌando teɾmˈine el estˈuðjo, pˌuβlikaɾˈemos los ðˈatos."
+        },
+        {
+          "text": "There will be new options in five years.",
+          "segments": [
+            {
+              "text": "There will be new options in five years.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðɛɹ wɪl biː nˈuː ˈɑːpʃənz ɪn fˈaɪv jˈɪɹz."
+        },
+        {
+          "text": "— Habrá nuevas opciones en cinco años.",
+          "segments": [
+            {
+              "text": "— Habrá nuevas opciones en cinco años.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— aβɾˈa nwˈeβas opsjˈones en sˈinko ˈaɲos."
+        }
+      ]
+    },
+    {
+      "file": "06.wav",
+      "text": "Comprueba tu preparación. Explica la idea central. Produce un ejemplo original. Completa la evaluación con un 85 % o más.",
+      "sentences": [
+        {
+          "text": "Comprueba tu preparación.",
+          "segments": [
+            {
+              "text": "Comprueba tu preparación.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kˌompɾuˈeβa tu pɾˌepaɾasjˈon."
+        },
+        {
+          "text": "Explica la idea central.",
+          "segments": [
+            {
+              "text": "Explica la idea central.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "eksplˈika la iðˈea sentɾˈal."
+        },
+        {
+          "text": "Produce un ejemplo original.",
+          "segments": [
+            {
+              "text": "Produce un ejemplo original.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "pɾoðˈuse ˈun exˈemplo ˌoɾixinˈal."
+        },
+        {
+          "text": "Completa la evaluación con un 85 % o más.",
+          "segments": [
+            {
+              "text": "Completa la evaluación con un 85 % o más.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "komplˈeta la ˌeβaluasjˈon kon ˈun otʃˌɛntaisˈinko poɾsjˈɛnto o mˈas."
+        }
+      ]
+    },
+    {
+      "file": "vocab-00.wav",
+      "text": "a forecast",
+      "sentences": [
+        {
+          "text": "a forecast",
+          "segments": [
+            {
+              "text": "a forecast",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɐ fˈɔːɹkæst"
+        }
+      ]
+    },
+    {
+      "file": "vocab-01.wav",
+      "text": "probably",
+      "sentences": [
+        {
+          "text": "probably",
+          "segments": [
+            {
+              "text": "probably",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "pɹˈɑːbəbli"
+        }
+      ]
+    },
+    {
+      "file": "vocab-02.wav",
+      "text": "possibly",
+      "sentences": [
+        {
+          "text": "possibly",
+          "segments": [
+            {
+              "text": "possibly",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "pˈɑːsᵻbli"
+        }
+      ]
+    },
+    {
+      "file": "vocab-03.wav",
+      "text": "to increase",
+      "sentences": [
+        {
+          "text": "to increase",
+          "segments": [
+            {
+              "text": "to increase",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tʊ ɪŋkɹˈiːs"
+        }
+      ]
+    },
+    {
+      "file": "vocab-04.wav",
+      "text": "to decrease",
+      "sentences": [
+        {
+          "text": "to decrease",
+          "segments": [
+            {
+              "text": "to decrease",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tə dˈiːkɹiːs"
+        }
+      ]
+    },
+    {
+      "file": "vocab-05.wav",
+      "text": "to continue",
+      "sentences": [
+        {
+          "text": "to continue",
+          "segments": [
+            {
+              "text": "to continue",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tə kəntˈɪnjuː"
+        }
+      ]
+    },
+    {
+      "file": "vocab-06.wav",
+      "text": "a commitment",
+      "sentences": [
+        {
+          "text": "a commitment",
+          "segments": [
+            {
+              "text": "a commitment",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɐ kəmˈɪtmənt"
+        }
+      ]
+    },
+    {
+      "file": "vocab-07.wav",
+      "text": "evidence",
+      "sentences": [
+        {
+          "text": "evidence",
+          "segments": [
+            {
+              "text": "evidence",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ˈɛvɪdəns"
+        }
+      ]
+    }
+  ]
+}

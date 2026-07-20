@@ -1,0 +1,469 @@
+{
+  "profile": "liam",
+  "utterances": [
+    {
+      "file": "00.wav",
+      "text": "Semana 8: Familia, descripción y posesión. describir personas y relaciones expresar posesión identificar a una persona con precisión",
+      "sentences": [
+        {
+          "text": "Semana 8: Familia, descripción y posesión.",
+          "segments": [
+            {
+              "text": "Semana 8: Familia, descripción y posesión.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "semˈana ˈotʃo: famˈilja, dˌeskɾipsjˈon i pˌosesjˈon."
+        },
+        {
+          "text": "describir personas y relaciones expresar posesión identificar a una persona con precisión",
+          "segments": [
+            {
+              "text": "describir personas y relaciones expresar posesión identificar a una persona con precisión",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "dˌeskɾiβˈiɾ peɾsˈonas i rˌelasjˈones ˌekspɾesˈaɾ pˌosesjˈon ˌiðentˌifikˈaɾ a ˈuna peɾsˈona kom pɾˌesisjˈon"
+        }
+      ]
+    },
+    {
+      "file": "01.wav",
+      "text": "Objetivo operativo. Al terminar esta sección podrás describir personas y relaciones, expresar posesión, identificar a una persona con precisión. El objetivo es el desempeño útil, no la terminología aislada.",
+      "sentences": [
+        {
+          "text": "Objetivo operativo.",
+          "segments": [
+            {
+              "text": "Objetivo operativo.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˌoβxetˈiβo ˌopeɾatˈiβo."
+        },
+        {
+          "text": "Al terminar esta sección podrás describir personas y relaciones, expresar posesión, identificar a una persona con precisión.",
+          "segments": [
+            {
+              "text": "Al terminar esta sección podrás describir personas y relaciones, expresar posesión, identificar a una persona con precisión.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "al tˌeɾminˈaɾ ˈesta seksjˈom poðɾˈas ðˌeskɾiβˈiɾ peɾsˈonas i rˌelasjˈones, ˌekspɾesˈaɾ pˌosesjˈon, ˌiðentˌifikˈaɾ a ˈuna peɾsˈona kom pɾˌesisjˈon."
+        },
+        {
+          "text": "El objetivo es el desempeño útil, no la terminología aislada.",
+          "segments": [
+            {
+              "text": "El objetivo es el desempeño útil, no la terminología aislada.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "el ˌoβxetˈiβo ˈes el ðˌesempˈeɲo ˈutil, nˈo la tˌeɾminˌoloxˈia aɪslˈaða."
+        }
+      ]
+    },
+    {
+      "file": "02.wav",
+      "text": "Sistema lingüístico. Adjetivos sin concordancia de género; orden adjetivo-sustantivo; have; posesivos y genitivo con apóstrofo.",
+      "sentences": [
+        {
+          "text": "Sistema lingüístico.",
+          "segments": [
+            {
+              "text": "Sistema lingüístico.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "sistˈema lˌiŋɡuˈistiko."
+        },
+        {
+          "text": "Adjetivos sin concordancia de género; orden adjetivo-sustantivo; have; posesivos y genitivo con apóstrofo.",
+          "segments": [
+            {
+              "text": "Adjetivos sin concordancia de género; orden adjetivo-sustantivo; ",
+              "lang": "es-419"
+            },
+            {
+              "text": "have",
+              "lang": "en-us"
+            },
+            {
+              "text": "; posesivos y genitivo con apóstrofo.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˌaðxetˈiβos sin kˌonkoɾðˈansja ðe xˈeneɾo; ˈoɾðen ˌaðxetˈiβosˌustantˈiβo; hˈæv ; pˌosesˈiβos i xˌenitˈiβo kon apˈostɾofo."
+        }
+      ]
+    },
+    {
+      "file": "03.wav",
+      "text": "Sonido y producción. Sonidos /h/ y /dʒ/; enlace en posesivos; contraste entre his e is.",
+      "sentences": [
+        {
+          "text": "Sonido y producción.",
+          "segments": [
+            {
+              "text": "Sonido y producción.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "sonˈiðo i pɾˌoðuksjˈon."
+        },
+        {
+          "text": "Sonidos /h/ y /dʒ/; enlace en posesivos; contraste entre his e is.",
+          "segments": [
+            {
+              "text": "Sonidos /h/ y /dʒ/; enlace en posesivos; contraste entre ",
+              "lang": "es-419"
+            },
+            {
+              "text": "his",
+              "lang": "en-us"
+            },
+            {
+              "text": " e ",
+              "lang": "es-419"
+            },
+            {
+              "text": "is",
+              "lang": "en-us"
+            },
+            {
+              "text": ".",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "sonˈiðos βˈara ˈatʃe βˈara i βˈara ðˌe(en)ˈɛʒ(esla) bˈara; enlˈase em pˌosesˈiβos; kontɾˈaste ˈɛntɾe hˈɪz ˈe ɪz ."
+        }
+      ]
+    },
+    {
+      "file": "04.wav",
+      "text": "Principio central. Observa primero el significado y después la forma. Recupera el inglés en voz alta, compáralo con el modelo y corrige un rasgo a la vez.",
+      "sentences": [
+        {
+          "text": "Principio central.",
+          "segments": [
+            {
+              "text": "Principio central.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "pɾinsˈipjo sentɾˈal."
+        },
+        {
+          "text": "Observa primero el significado y después la forma.",
+          "segments": [
+            {
+              "text": "Observa primero el significado y después la forma.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "oβsˈeɾβa pɾimˈeɾo el sˌiɡnifikˈaðo i ðespwˈes la fˈoɾma."
+        },
+        {
+          "text": "Recupera el inglés en voz alta, compáralo con el modelo y corrige un rasgo a la vez.",
+          "segments": [
+            {
+              "text": "Recupera el inglés en voz alta, compáralo con el modelo y corrige un rasgo a la vez.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "rˌekupˈeɾa el iŋɡlˈes em bˈos ˈalta, kompˈaɾalo kon el moðˈelo i korˈixe ˈun rˈasɣo a la βˈes."
+        }
+      ]
+    },
+    {
+      "file": "05.wav",
+      "text": "Lenguaje modelo. My older sister is very kind. — Mi hermana mayor es muy amable. I know Elena's parents. — Conozco a los padres de Elena. Our family lives in three cities. — Nuestra familia vive en tres ciudades. Is this portrait yours? — ¿Es tuyo este retrato? I have two brothers and a cousin. — Tengo dos hermanos y una prima o un primo.",
+      "sentences": [
+        {
+          "text": "Lenguaje modelo.",
+          "segments": [
+            {
+              "text": "Lenguaje modelo.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "leŋɡwˈaxe moðˈelo."
+        },
+        {
+          "text": "My older sister is very kind.",
+          "segments": [
+            {
+              "text": "My older sister is very kind.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "maɪ ˈoʊldɚ sˈɪstɚɹ ɪz vˈɛɹi kˈaɪnd."
+        },
+        {
+          "text": "— Mi hermana mayor es muy amable.",
+          "segments": [
+            {
+              "text": "— Mi hermana mayor es muy amable.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— mi eɾmˈana maʝˈoɾ ˈes mˈuj amˈaβle."
+        },
+        {
+          "text": "I know Elena's parents.",
+          "segments": [
+            {
+              "text": "I know Elena's parents.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "aɪ nˈoʊ ᵻlˈiːnəz pˈɛɹənts."
+        },
+        {
+          "text": "— Conozco a los padres de Elena.",
+          "segments": [
+            {
+              "text": "— Conozco a los padres de Elena.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— konˈosko a los pˈaðɾes ðe elˈena."
+        },
+        {
+          "text": "Our family lives in three cities.",
+          "segments": [
+            {
+              "text": "Our family lives in three cities.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ˌaʊɚ fˈæmɪli lˈaɪvz ɪn θɹˈiː sˈɪɾiz."
+        },
+        {
+          "text": "— Nuestra familia vive en tres ciudades.",
+          "segments": [
+            {
+              "text": "— Nuestra familia vive en tres ciudades.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— nwˌestɾa famˈilja βˈiβe en tɾˈes sjuðˈaðes."
+        },
+        {
+          "text": "Is this portrait yours?",
+          "segments": [
+            {
+              "text": "Is this portrait yours?",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɪz ðɪs pˈɔːɹtɹɪt jˈɔːɹz?"
+        },
+        {
+          "text": "— ¿Es tuyo este retrato?",
+          "segments": [
+            {
+              "text": "— ¿Es tuyo este retrato?",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— ˈes tˈuʝo ˈeste retɾˈato?"
+        },
+        {
+          "text": "I have two brothers and a cousin.",
+          "segments": [
+            {
+              "text": "I have two brothers and a cousin.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "aɪ hæv tˈuː bɹˈʌðɚz ænd ɐ kˈʌzən."
+        },
+        {
+          "text": "— Tengo dos hermanos y una prima o un primo.",
+          "segments": [
+            {
+              "text": "— Tengo dos hermanos y una prima o un primo.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— tˈɛŋɡo ðˈos eɾmˈanos i ˈuna pɾˈima o ˈum pɾˈimo."
+        }
+      ]
+    },
+    {
+      "file": "06.wav",
+      "text": "Comprueba tu preparación. Explica la idea central. Produce un ejemplo original. Completa la evaluación con un 85 % o más.",
+      "sentences": [
+        {
+          "text": "Comprueba tu preparación.",
+          "segments": [
+            {
+              "text": "Comprueba tu preparación.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kˌompɾuˈeβa tu pɾˌepaɾasjˈon."
+        },
+        {
+          "text": "Explica la idea central.",
+          "segments": [
+            {
+              "text": "Explica la idea central.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "eksplˈika la iðˈea sentɾˈal."
+        },
+        {
+          "text": "Produce un ejemplo original.",
+          "segments": [
+            {
+              "text": "Produce un ejemplo original.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "pɾoðˈuse ˈun exˈemplo ˌoɾixinˈal."
+        },
+        {
+          "text": "Completa la evaluación con un 85 % o más.",
+          "segments": [
+            {
+              "text": "Completa la evaluación con un 85 % o más.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "komplˈeta la ˌeβaluasjˈon kon ˈun otʃˌɛntaisˈinko poɾsjˈɛnto o mˈas."
+        }
+      ]
+    },
+    {
+      "file": "vocab-00.wav",
+      "text": "family",
+      "sentences": [
+        {
+          "text": "family",
+          "segments": [
+            {
+              "text": "family",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "fˈæmɪli"
+        }
+      ]
+    },
+    {
+      "file": "vocab-01.wav",
+      "text": "mother",
+      "sentences": [
+        {
+          "text": "mother",
+          "segments": [
+            {
+              "text": "mother",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "mˈʌðɚ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-02.wav",
+      "text": "father",
+      "sentences": [
+        {
+          "text": "father",
+          "segments": [
+            {
+              "text": "father",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "fˈɑːðɚ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-03.wav",
+      "text": "sister",
+      "sentences": [
+        {
+          "text": "sister",
+          "segments": [
+            {
+              "text": "sister",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "sˈɪstɚ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-04.wav",
+      "text": "friend",
+      "sentences": [
+        {
+          "text": "friend",
+          "segments": [
+            {
+              "text": "friend",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "fɹˈɛnd"
+        }
+      ]
+    },
+    {
+      "file": "vocab-05.wav",
+      "text": "young",
+      "sentences": [
+        {
+          "text": "young",
+          "segments": [
+            {
+              "text": "young",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "jˈʌŋ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-06.wav",
+      "text": "older",
+      "sentences": [
+        {
+          "text": "older",
+          "segments": [
+            {
+              "text": "older",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ˈoʊldɚ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-07.wav",
+      "text": "kind",
+      "sentences": [
+        {
+          "text": "kind",
+          "segments": [
+            {
+              "text": "kind",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "kˈaɪnd"
+        }
+      ]
+    }
+  ]
+}

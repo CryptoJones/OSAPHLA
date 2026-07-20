@@ -1,0 +1,489 @@
+{
+  "profile": "liam",
+  "utterances": [
+    {
+      "file": "00.wav",
+      "text": "Semana 29: Cláusulas relativas y requisitos. definir un requisito identificar personas o cosas conectar información compleja",
+      "sentences": [
+        {
+          "text": "Semana 29: Cláusulas relativas y requisitos.",
+          "segments": [
+            {
+              "text": "Semana 29: Cláusulas relativas y requisitos.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "semˈana βˌeɪntinwˈeβe: klˈausˌulas rˌelatˈiβas i rˌekisˈitos."
+        },
+        {
+          "text": "definir un requisito identificar personas o cosas conectar información compleja",
+          "segments": [
+            {
+              "text": "definir un requisito identificar personas o cosas conectar información compleja",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "dˌefinˈiɾ ˈun rˌekisˈito ˌiðentˌifikˈaɾ peɾsˈonas o kˈosas kˌonektˈaɾ ˌinfoɾmasjˈon komplˈexa"
+        }
+      ]
+    },
+    {
+      "file": "01.wav",
+      "text": "Objetivo operativo. Al terminar esta sección podrás definir un requisito, identificar personas o cosas, conectar información compleja. El objetivo es el desempeño útil, no la terminología aislada.",
+      "sentences": [
+        {
+          "text": "Objetivo operativo.",
+          "segments": [
+            {
+              "text": "Objetivo operativo.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˌoβxetˈiβo ˌopeɾatˈiβo."
+        },
+        {
+          "text": "Al terminar esta sección podrás definir un requisito, identificar personas o cosas, conectar información compleja.",
+          "segments": [
+            {
+              "text": "Al terminar esta sección podrás definir un requisito, identificar personas o cosas, conectar información compleja.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "al tˌeɾminˈaɾ ˈesta seksjˈom poðɾˈas ðˌefinˈiɾ ˈun rˌekisˈito, ˌiðentˌifikˈaɾ peɾsˈonas o kˈosas, kˌonektˈaɾ ˌinfoɾmasjˈon komplˈexa."
+        },
+        {
+          "text": "El objetivo es el desempeño útil, no la terminología aislada.",
+          "segments": [
+            {
+              "text": "El objetivo es el desempeño útil, no la terminología aislada.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "el ˌoβxetˈiβo ˈes el ðˌesempˈeɲo ˈutil, nˈo la tˌeɾminˌoloxˈia aɪslˈaða."
+        }
+      ]
+    },
+    {
+      "file": "02.wav",
+      "text": "Sistema lingüístico. Who, which, that, whose y where; cláusulas definitorias y explicativas; omisión posible del relativo objeto.",
+      "sentences": [
+        {
+          "text": "Sistema lingüístico.",
+          "segments": [
+            {
+              "text": "Sistema lingüístico.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "sistˈema lˌiŋɡuˈistiko."
+        },
+        {
+          "text": "Who, which, that, whose y where; cláusulas definitorias y explicativas; omisión posible del relativo objeto.",
+          "segments": [
+            {
+              "text": "Who",
+              "lang": "en-us"
+            },
+            {
+              "text": ", ",
+              "lang": "es-419"
+            },
+            {
+              "text": "which",
+              "lang": "en-us"
+            },
+            {
+              "text": ", ",
+              "lang": "es-419"
+            },
+            {
+              "text": "that",
+              "lang": "en-us"
+            },
+            {
+              "text": ", ",
+              "lang": "es-419"
+            },
+            {
+              "text": "whose",
+              "lang": "en-us"
+            },
+            {
+              "text": " y ",
+              "lang": "es-419"
+            },
+            {
+              "text": "where",
+              "lang": "en-us"
+            },
+            {
+              "text": "; cláusulas definitorias y explicativas; omisión posible del relativo objeto.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "hˈuː , wˈɪtʃ , ðˈæt , hˌuːz i wˈɛɹ ; klˈausˌulas ðˌefinitˈoɾjas i ˌeksplikatˈiβas; ˌomisjˈom posˈiβle ðel rˌelatˈiβo oβxˈeto."
+        }
+      ]
+    },
+    {
+      "file": "03.wav",
+      "text": "Sonido y producción. Pausas en cláusulas explicativas; reducción natural de that; límites audibles de frases largas.",
+      "sentences": [
+        {
+          "text": "Sonido y producción.",
+          "segments": [
+            {
+              "text": "Sonido y producción.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "sonˈiðo i pɾˌoðuksjˈon."
+        },
+        {
+          "text": "Pausas en cláusulas explicativas; reducción natural de that; límites audibles de frases largas.",
+          "segments": [
+            {
+              "text": "Pausas en cláusulas explicativas; reducción natural de ",
+              "lang": "es-419"
+            },
+            {
+              "text": "that",
+              "lang": "en-us"
+            },
+            {
+              "text": "; límites audibles de frases largas.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "pˈaʊsas en klˈausˌulas ˌeksplikatˈiβas; rˌeðuksjˈon nˌatuɾˈal ðˈe ðˈæt ; lˈimites aʊðˈiβles ðe fɾˈases lˈaɾɣas."
+        }
+      ]
+    },
+    {
+      "file": "04.wav",
+      "text": "Principio central. Observa primero el significado y después la forma. Recupera el inglés en voz alta, compáralo con el modelo y corrige un rasgo a la vez.",
+      "sentences": [
+        {
+          "text": "Principio central.",
+          "segments": [
+            {
+              "text": "Principio central.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "pɾinsˈipjo sentɾˈal."
+        },
+        {
+          "text": "Observa primero el significado y después la forma.",
+          "segments": [
+            {
+              "text": "Observa primero el significado y después la forma.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "oβsˈeɾβa pɾimˈeɾo el sˌiɡnifikˈaðo i ðespwˈes la fˈoɾma."
+        },
+        {
+          "text": "Recupera el inglés en voz alta, compáralo con el modelo y corrige un rasgo a la vez.",
+          "segments": [
+            {
+              "text": "Recupera el inglés en voz alta, compáralo con el modelo y corrige un rasgo a la vez.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "rˌekupˈeɾa el iŋɡlˈes em bˈos ˈalta, kompˈaɾalo kon el moðˈelo i korˈixe ˈun rˈasɣo a la βˈes."
+        }
+      ]
+    },
+    {
+      "file": "05.wav",
+      "text": "Lenguaje modelo. We're looking for someone who has experience. — Buscamos a alguien que tenga experiencia. I know the person who leads the project. — Conozco a la persona que dirige el proyecto. I need a place that is near the subway. — Necesito un lugar que esté cerca del metro. This is the issue that concerns me. — Este es el asunto que me preocupa. The author whose book won will speak. — Hablará la autora cuyo libro ganó.",
+      "sentences": [
+        {
+          "text": "Lenguaje modelo.",
+          "segments": [
+            {
+              "text": "Lenguaje modelo.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "leŋɡwˈaxe moðˈelo."
+        },
+        {
+          "text": "We're looking for someone who has experience.",
+          "segments": [
+            {
+              "text": "We're looking for someone who has experience.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wɪɹ lˈʊkɪŋ fɔːɹ sˈʌmwʌn hˌuː hɐz ɛkspˈiəɹɪəns."
+        },
+        {
+          "text": "— Buscamos a alguien que tenga experiencia.",
+          "segments": [
+            {
+              "text": "— Buscamos a alguien que tenga experiencia.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— buskˈamos a ˈalɣjen ke tˈɛŋɡa ˌekspeɾjˈɛnsja."
+        },
+        {
+          "text": "I know the person who leads the project.",
+          "segments": [
+            {
+              "text": "I know the person who leads the project.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "aɪ nˈoʊ ðə pˈɜːsən hˌuː lˈiːdz ðə pɹˈɑːdʒɛkt."
+        },
+        {
+          "text": "— Conozco a la persona que dirige el proyecto.",
+          "segments": [
+            {
+              "text": "— Conozco a la persona que dirige el proyecto.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— konˈosko a la peɾsˈona ke ðiɾˈixe el pɾoʝˈekto."
+        },
+        {
+          "text": "I need a place that is near the subway.",
+          "segments": [
+            {
+              "text": "I need a place that is near the subway.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "aɪ nˈiːd ɐ plˈeɪs ðæt ɪz nˌɪɹ ðə sˈʌbweɪ."
+        },
+        {
+          "text": "— Necesito un lugar que esté cerca del metro.",
+          "segments": [
+            {
+              "text": "— Necesito un lugar que esté cerca del metro.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— nˌesesˈito ˈun luɣˈaɾ ke estˈe sˈeɾka ðel mˈetɾo."
+        },
+        {
+          "text": "This is the issue that concerns me.",
+          "segments": [
+            {
+              "text": "This is the issue that concerns me.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðɪs ɪz ðɪ ˈɪʃuː ðæt kənsˈɜːnz mˌiː."
+        },
+        {
+          "text": "— Este es el asunto que me preocupa.",
+          "segments": [
+            {
+              "text": "— Este es el asunto que me preocupa.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— ˈeste ˈes el asˈunto ke me pɾˌeokˈupa."
+        },
+        {
+          "text": "The author whose book won will speak.",
+          "segments": [
+            {
+              "text": "The author whose book won will speak.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðɪ ˈɔːθɚ hˌuːz bˈʊk wˈʌn wɪl spˈiːk."
+        },
+        {
+          "text": "— Hablará la autora cuyo libro ganó.",
+          "segments": [
+            {
+              "text": "— Hablará la autora cuyo libro ganó.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— ˌaβlaɾˈa la aʊtˈoɾa kˈuʝo lˈiβɾo ɣanˈo."
+        }
+      ]
+    },
+    {
+      "file": "06.wav",
+      "text": "Comprueba tu preparación. Explica la idea central. Produce un ejemplo original. Completa la evaluación con un 85 % o más.",
+      "sentences": [
+        {
+          "text": "Comprueba tu preparación.",
+          "segments": [
+            {
+              "text": "Comprueba tu preparación.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kˌompɾuˈeβa tu pɾˌepaɾasjˈon."
+        },
+        {
+          "text": "Explica la idea central.",
+          "segments": [
+            {
+              "text": "Explica la idea central.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "eksplˈika la iðˈea sentɾˈal."
+        },
+        {
+          "text": "Produce un ejemplo original.",
+          "segments": [
+            {
+              "text": "Produce un ejemplo original.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "pɾoðˈuse ˈun exˈemplo ˌoɾixinˈal."
+        },
+        {
+          "text": "Completa la evaluación con un 85 % o más.",
+          "segments": [
+            {
+              "text": "Completa la evaluación con un 85 % o más.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "komplˈeta la ˌeβaluasjˈon kon ˈun otʃˌɛntaisˈinko poɾsjˈɛnto o mˈas."
+        }
+      ]
+    },
+    {
+      "file": "vocab-00.wav",
+      "text": "who",
+      "sentences": [
+        {
+          "text": "who",
+          "segments": [
+            {
+              "text": "who",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "hˈuː"
+        }
+      ]
+    },
+    {
+      "file": "vocab-01.wav",
+      "text": "which",
+      "sentences": [
+        {
+          "text": "which",
+          "segments": [
+            {
+              "text": "which",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wˈɪtʃ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-02.wav",
+      "text": "that",
+      "sentences": [
+        {
+          "text": "that",
+          "segments": [
+            {
+              "text": "that",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðˈæt"
+        }
+      ]
+    },
+    {
+      "file": "vocab-03.wav",
+      "text": "whose",
+      "sentences": [
+        {
+          "text": "whose",
+          "segments": [
+            {
+              "text": "whose",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "hˌuːz"
+        }
+      ]
+    },
+    {
+      "file": "vocab-04.wav",
+      "text": "a requirement",
+      "sentences": [
+        {
+          "text": "a requirement",
+          "segments": [
+            {
+              "text": "a requirement",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɐ ɹᵻkwˈaɪɚmənt"
+        }
+      ]
+    },
+    {
+      "file": "vocab-05.wav",
+      "text": "a candidate",
+      "sentences": [
+        {
+          "text": "a candidate",
+          "segments": [
+            {
+              "text": "a candidate",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɐ kˈændᵻdˌeɪt"
+        }
+      ]
+    },
+    {
+      "file": "vocab-06.wav",
+      "text": "experience",
+      "sentences": [
+        {
+          "text": "experience",
+          "segments": [
+            {
+              "text": "experience",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɛkspˈiəɹɪəns"
+        }
+      ]
+    },
+    {
+      "file": "vocab-07.wav",
+      "text": "available",
+      "sentences": [
+        {
+          "text": "available",
+          "segments": [
+            {
+              "text": "available",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɐvˈeɪləbəl"
+        }
+      ]
+    }
+  ]
+}

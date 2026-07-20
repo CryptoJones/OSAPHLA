@@ -1,0 +1,455 @@
+{
+  "profile": "sky",
+  "utterances": [
+    {
+      "file": "00.wav",
+      "text": "Semana 15: Salud, cuerpo y emergencias. describir síntomas entender preguntas médicas básicas pedir ayuda urgente",
+      "sentences": [
+        {
+          "text": "Semana 15: Salud, cuerpo y emergencias.",
+          "segments": [
+            {
+              "text": "Semana 15: Salud, cuerpo y emergencias.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "semˈana kˈinse: salˈud, kwˈeɾpo i ˌemeɾxˈɛnsjas."
+        },
+        {
+          "text": "describir síntomas entender preguntas médicas básicas pedir ayuda urgente",
+          "segments": [
+            {
+              "text": "describir síntomas entender preguntas médicas básicas pedir ayuda urgente",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "dˌeskɾiβˈiɾ sˈintomas ˌentendˈeɾ pɾeɣˈuntas mˈeðikas βˈasikas peðˈiɾ aʝˈuða uɾxˈɛnte"
+        }
+      ]
+    },
+    {
+      "file": "01.wav",
+      "text": "Lee para entender la situación. During a hike, Luis falls and hurts his arm. His friend calls emergency services, describes the location, and explains that he is awake but in severe pain. Durante una caminata, Luis se cae y se lastima el brazo. Su amiga llama a emergencias, describe el lugar y explica que está consciente, pero siente mucho dolor.",
+      "sentences": [
+        {
+          "text": "Lee para entender la situación.",
+          "segments": [
+            {
+              "text": "Lee para entender la situación.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "lˈee pˌaɾa ˌentendˈeɾ la sˌitwasjˈon."
+        },
+        {
+          "text": "During a hike, Luis falls and hurts his arm.",
+          "segments": [
+            {
+              "text": "During a hike, Luis falls and hurts his arm.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "dˈʊɹɹɪŋ ɐ hˈaɪk, lˈuːɪs fˈɔːlz ænd hˈɜːts hɪz ˈɑːɹm."
+        },
+        {
+          "text": "His friend calls emergency services, describes the location, and explains that he is awake but in severe pain.",
+          "segments": [
+            {
+              "text": "His friend calls emergency services, describes the location, and explains that he is awake but in severe pain.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "hɪz fɹˈɛnd kˈɔːlz ɪmˈɜːdʒənsi sˈɜːvɪsᵻz, dᵻskɹˈaɪbz ðə loʊkˈeɪʃən, ænd ɛksplˈeɪnz ðæt hiː ɪz ɐwˈeɪk bˌʌt ɪn sᵻvˈɪɹ pˈeɪn."
+        },
+        {
+          "text": "Durante una caminata, Luis se cae y se lastima el brazo.",
+          "segments": [
+            {
+              "text": "Durante una caminata, Luis se cae y se lastima el brazo.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "duɾˈante ˈuna kˌaminˈata, luˈis se kˈae i se lastˈima el βɾˈaso."
+        },
+        {
+          "text": "Su amiga llama a emergencias, describe el lugar y explica que está consciente, pero siente mucho dolor.",
+          "segments": [
+            {
+              "text": "Su amiga llama a emergencias, describe el lugar y explica que está consciente, pero siente mucho dolor.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "su amˈiɣa ʝˈama a ˌemeɾxˈɛnsjas, deskɾˈiβe el luɣˈaɾ i eksplˈika ke estˈa konsjˈɛnte, pˌeɾo sjˈɛnte mˈutʃo ðolˈoɾ."
+        }
+      ]
+    },
+    {
+      "file": "02.wav",
+      "text": "Lee de nuevo para buscar evidencia. Identifica quién actúa, qué cambia, cuándo ocurre y qué palabras establecen la relación entre los acontecimientos.",
+      "sentences": [
+        {
+          "text": "Lee de nuevo para buscar evidencia.",
+          "segments": [
+            {
+              "text": "Lee de nuevo para buscar evidencia.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "lˈee ðe nwˈeβo pˌaɾa βuskˈaɾ ˌeβiðˈɛnsja."
+        },
+        {
+          "text": "Identifica quién actúa, qué cambia, cuándo ocurre y qué palabras establecen la relación entre los acontecimientos.",
+          "segments": [
+            {
+              "text": "Identifica quién actúa, qué cambia, cuándo ocurre y qué palabras establecen la relación entre los acontecimientos.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˌiðentifˈika kjˈen aktˈua, kˈe kˈambja, kwˈando okˈure i kˈe palˈaβɾas ˌestaβlˈesen la rˌelasjˈon ˌentɾe los ˌakontˌesimjˈɛntos."
+        }
+      ]
+    },
+    {
+      "file": "03.wav",
+      "text": "Actividades de lectura. Actividad de lectura 35; Actividad de lectura 36",
+      "sentences": [
+        {
+          "text": "Actividades de lectura.",
+          "segments": [
+            {
+              "text": "Actividades de lectura.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˌaktiβiðˈaðes ðe lektˈuɾa."
+        },
+        {
+          "text": "Actividad de lectura 35; Actividad de lectura 36",
+          "segments": [
+            {
+              "text": "Actividad de lectura 35; Actividad de lectura 36",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˌaktiβiðˈad ðe lektˈuɾa tɾˌeɪntaisˈinko; ˌaktiβiðˈad ðe lektˈuɾa tɾˌeɪntaisˈeɪs"
+        }
+      ]
+    },
+    {
+      "file": "04.wav",
+      "text": "Reconstrucción. Sin mirar el texto, expresa la idea principal, tres detalles y una inferencia razonable en inglés.",
+      "sentences": [
+        {
+          "text": "Reconstrucción.",
+          "segments": [
+            {
+              "text": "Reconstrucción.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "rˌekonstɾuksjˈon."
+        },
+        {
+          "text": "Sin mirar el texto, expresa la idea principal, tres detalles y una inferencia razonable en inglés.",
+          "segments": [
+            {
+              "text": "Sin mirar el texto, expresa la idea principal, tres detalles y una inferencia razonable en inglés.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "sin miɾˈaɾ el tˈeksto, ekspɾˈesa la iðˈea pɾˌinsipˈal, tɾˈes ðetˈajjes i ˈuna ˌinfeɾˈɛnsja rˌasonˈaβle en iŋɡlˈes."
+        }
+      ]
+    },
+    {
+      "file": "05.wav",
+      "text": "Lenguaje modelo. I have a bad headache. — Me duele mucho la cabeza. I've had a fever since yesterday. — Tengo fiebre desde ayer. Are you allergic to any medicine? — ¿Tienes alergia a algún medicamento? Call an ambulance. — Llama a una ambulancia. They fell and hurt their arm. — Se cayó y se lastimó el brazo.",
+      "sentences": [
+        {
+          "text": "Lenguaje modelo.",
+          "segments": [
+            {
+              "text": "Lenguaje modelo.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "leŋɡwˈaxe moðˈelo."
+        },
+        {
+          "text": "I have a bad headache.",
+          "segments": [
+            {
+              "text": "I have a bad headache.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "aɪ hæv ɐ bˈæd hˈɛdeɪk."
+        },
+        {
+          "text": "— Me duele mucho la cabeza.",
+          "segments": [
+            {
+              "text": "— Me duele mucho la cabeza.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— me dwˈele mˈutʃo la kaβˈesa."
+        },
+        {
+          "text": "I've had a fever since yesterday.",
+          "segments": [
+            {
+              "text": "I've had a fever since yesterday.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "aɪvhˌæd ɐ fˈiːvɚ sˈɪns jˈɛstɚdˌeɪ."
+        },
+        {
+          "text": "— Tengo fiebre desde ayer.",
+          "segments": [
+            {
+              "text": "— Tengo fiebre desde ayer.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— tˈɛŋɡo fjˈeβɾe ðˌesðe aʝˈeɾ."
+        },
+        {
+          "text": "Are you allergic to any medicine?",
+          "segments": [
+            {
+              "text": "Are you allergic to any medicine?",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɑːɹ juː ɐlˈɜːdʒɪk tʊ ˌɛni mˈɛdəsən?"
+        },
+        {
+          "text": "— ¿Tienes alergia a algún medicamento?",
+          "segments": [
+            {
+              "text": "— ¿Tienes alergia a algún medicamento?",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— tjˈenes alˈeɾxja a alɣˈun mˌeðikamˈɛnto?"
+        },
+        {
+          "text": "Call an ambulance.",
+          "segments": [
+            {
+              "text": "Call an ambulance.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "kˈɔːl ɐn ˈæmbjʊləns."
+        },
+        {
+          "text": "— Llama a una ambulancia.",
+          "segments": [
+            {
+              "text": "— Llama a una ambulancia.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— ʝˈama a ˈuna ˌambulˈansja."
+        },
+        {
+          "text": "They fell and hurt their arm.",
+          "segments": [
+            {
+              "text": "They fell and hurt their arm.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðeɪ fˈɛl ænd hˈɜːt ðɛɹ ˈɑːɹm."
+        },
+        {
+          "text": "— Se cayó y se lastimó el brazo.",
+          "segments": [
+            {
+              "text": "— Se cayó y se lastimó el brazo.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— se kaʝˈo i se lˌastimˈo el βɾˈaso."
+        }
+      ]
+    },
+    {
+      "file": "06.wav",
+      "text": "Comprueba tu preparación. Explica la idea central. Produce un ejemplo original. Completa la evaluación con un 85 % o más.",
+      "sentences": [
+        {
+          "text": "Comprueba tu preparación.",
+          "segments": [
+            {
+              "text": "Comprueba tu preparación.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kˌompɾuˈeβa tu pɾˌepaɾasjˈon."
+        },
+        {
+          "text": "Explica la idea central.",
+          "segments": [
+            {
+              "text": "Explica la idea central.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "eksplˈika la iðˈea sentɾˈal."
+        },
+        {
+          "text": "Produce un ejemplo original.",
+          "segments": [
+            {
+              "text": "Produce un ejemplo original.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "pɾoðˈuse ˈun exˈemplo ˌoɾixinˈal."
+        },
+        {
+          "text": "Completa la evaluación con un 85 % o más.",
+          "segments": [
+            {
+              "text": "Completa la evaluación con un 85 % o más.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "komplˈeta la ˌeβaluasjˈon kon ˈun otʃˌɛntaisˈinko poɾsjˈɛnto o mˈas."
+        }
+      ]
+    },
+    {
+      "file": "vocab-00.wav",
+      "text": "a headache",
+      "sentences": [
+        {
+          "text": "a headache",
+          "segments": [
+            {
+              "text": "a headache",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɐ hˈɛdeɪk"
+        }
+      ]
+    },
+    {
+      "file": "vocab-01.wav",
+      "text": "a fever",
+      "sentences": [
+        {
+          "text": "a fever",
+          "segments": [
+            {
+              "text": "a fever",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɐ fˈiːvɚ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-02.wav",
+      "text": "medicine",
+      "sentences": [
+        {
+          "text": "medicine",
+          "segments": [
+            {
+              "text": "medicine",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "mˈɛdəsən"
+        }
+      ]
+    },
+    {
+      "file": "vocab-03.wav",
+      "text": "an allergy",
+      "sentences": [
+        {
+          "text": "an allergy",
+          "segments": [
+            {
+              "text": "an allergy",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɐn ˈælɚdʒi"
+        }
+      ]
+    },
+    {
+      "file": "vocab-04.wav",
+      "text": "pain",
+      "sentences": [
+        {
+          "text": "pain",
+          "segments": [
+            {
+              "text": "pain",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "pˈeɪn"
+        }
+      ]
+    },
+    {
+      "file": "vocab-05.wav",
+      "text": "an ambulance",
+      "sentences": [
+        {
+          "text": "an ambulance",
+          "segments": [
+            {
+              "text": "an ambulance",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɐn ˈæmbjʊləns"
+        }
+      ]
+    },
+    {
+      "file": "vocab-06.wav",
+      "text": "to fall",
+      "sentences": [
+        {
+          "text": "to fall",
+          "segments": [
+            {
+              "text": "to fall",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tə fˈɔːl"
+        }
+      ]
+    },
+    {
+      "file": "vocab-07.wav",
+      "text": "to breathe",
+      "sentences": [
+        {
+          "text": "to breathe",
+          "segments": [
+            {
+              "text": "to breathe",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tə bɹˈiːð"
+        }
+      ]
+    }
+  ]
+}

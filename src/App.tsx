@@ -1,44 +1,103 @@
 import { useEffect, useState } from "react";
-import { BrowserRouter, NavLink, Navigate, Route, Routes } from "react-router-dom";
-import courseJson from "./data/course.json";
-import { db } from "./lib/db";
+import { BrowserRouter, Link, NavLink, Navigate, Route, Routes, useLocation, useParams } from "react-router-dom";
+import spanishJson from "./data/es/course.json";
+import englishJson from "./data/en/course.json";
+import { CourseProvider, useCourse } from "./course";
+import { courseProgress } from "./lib/db";
 import { useTheme } from "./theme";
 import type { Course, SectionProgress } from "./types";
 import { CourseMap } from "./components/CourseMap";
 import { Dashboard } from "./components/Dashboard";
 import { LessonPage } from "./components/LessonPage";
 import { ReaderLibrary } from "./components/ReaderLibrary";
-import { SettingsPage, ThemeLab } from "./components/Settings";
+import { SettingsPage } from "./components/Settings";
 
-const course = courseJson as Course;
+const spanish = spanishJson as Course;
+const english = englishJson as Course;
+
+function CourseChooser({ force = false }: { force?: boolean }) {
+  const { settings, update } = useTheme();
+  useEffect(() => { document.documentElement.lang = "en"; }, []);
+  if (settings.onboardingComplete && !force) return <Navigate to={`/${settings.selectedCourse ?? "es"}`} replace />;
+  const destination = (slug: Course["slug"]) => settings.onboardingComplete ? `/${slug}` : `/${slug}/settings?welcome=1`;
+  return <main className="course-chooser" id="main-content">
+    <header>
+      <p className="eyebrow">OSAPHLA</p>
+      <h1 lang="en">What would you like to learn?</h1>
+      <p lang="es">¿Qué te gustaría aprender?</p>
+    </header>
+    <div className="course-choice-grid">
+      <Link className="course-choice" to={destination("en")} onClick={() => update({ selectedCourse: "en" })} aria-label="Learn English, Inglés para hispanohablantes">
+        <span className="course-flags" aria-hidden="true">{english.flags.join(" ")}</span>
+        <strong lang="en">English</strong><span lang="es">Inglés para hispanohablantes</span>
+      </Link>
+      <Link className="course-choice" to={destination("es")} onClick={() => update({ selectedCourse: "es" })} aria-label="Aprender español, Spanish for English speakers">
+        <span className="course-flags" aria-hidden="true">{spanish.flags.join(" ")}</span>
+        <strong lang="es">Español</strong><span lang="en">Spanish for English speakers</span>
+      </Link>
+    </div>
+  </main>;
+}
 
 function Layout({ children }: { children: React.ReactNode }) {
-  return <div className="app-shell">
+  const { course, copy, path } = useCourse();
+  return <div className="app-shell" data-course={course.slug}>
+    <a className="skip-link" href="#main-content">{course.instructionLocale === "es-419" ? "Saltar al contenido de la lección" : "Skip to lesson content"}</a>
     <header className="site-header">
-      <NavLink to="/" className="brand" aria-label="OSAPHLA dashboard"><span>OSAPHLA</span><small>Open Source Accessible Pan-Hispanic Language Academy</small></NavLink>
-      <nav aria-label="Primary navigation">
-        <NavLink to="/">Dashboard</NavLink><NavLink to="/course">Course</NavLink><NavLink to="/readers">Readers</NavLink><NavLink to="/settings">Display</NavLink>
+      <NavLink to={path()} className="brand" aria-label={`${course.title} ${copy.dashboard}`}><span>OSAPHLA</span><small>{course.subtitle}</small></NavLink>
+      <nav aria-label={course.instructionLocale === "es-419" ? "Navegación principal" : "Primary navigation"}>
+        <NavLink to={path()} end>{copy.dashboard}</NavLink><NavLink to={path("course")}>{copy.course}</NavLink><NavLink to={path("readers")}>{copy.readers}</NavLink><NavLink to={path("settings")}>{copy.display}</NavLink>
       </nav>
+      <Link className="course-switch" to="/choose">{copy.switchCourse}</Link>
     </header>
     <main id="main-content" tabIndex={-1}>{children}</main>
-    <footer className="site-footer">OSAPHLA · Open source, private on-device learning · 36 weeks · 180 assessed sections · ILR preparation, not certification</footer>
+    <footer className="site-footer">OSAPHLA · {copy.footer}</footer>
   </div>;
 }
 
-export default function App() {
-  const { settings, ready } = useTheme();
+function CourseExperience({ course }: { course: Course }) {
+  const { settings } = useTheme();
   const [progress, setProgress] = useState<Record<string, SectionProgress>>({});
-  const refresh = async () => setProgress(Object.fromEntries((await db.progress.toArray()).map((item) => [item.sectionId, item])));
-  useEffect(() => { void refresh(); }, []);
-  if (!ready) return <div className="loading" role="status">Loading your visual settings…</div>;
-  if (!settings.onboardingComplete) return <ThemeLab firstRun />;
+  const refresh = async () => setProgress(Object.fromEntries((await courseProgress(course.slug)).map((item) => [item.sectionId, item])));
+  useEffect(() => { setProgress({}); void refresh(); }, [course.slug]);
+  useEffect(() => { document.documentElement.lang = course.instructionLocale === "es-419" ? "es" : "en"; }, [course.instructionLocale]);
 
-  return <BrowserRouter basename={import.meta.env.BASE_URL.replace(/\/$/, "")}><Layout><Routes>
-    <Route path="/" element={<Dashboard course={course} progress={progress} />} />
-    <Route path="/course" element={<CourseMap course={course} progress={progress} />} />
-    <Route path="/lesson/:sectionId" element={<LessonPage course={course} progress={progress} onProgress={refresh} />} />
-    <Route path="/readers" element={<ReaderLibrary course={course} />} />
-    <Route path="/settings" element={<SettingsPage course={course} />} />
+  return <CourseProvider course={course}>
+    {!settings.onboardingComplete
+      ? <main id="main-content"><SettingsPage course={course} firstRun /></main>
+      : <Layout><Routes>
+        <Route index element={<Dashboard course={course} progress={progress} />} />
+        <Route path="course" element={<CourseMap course={course} progress={progress} />} />
+        <Route path="lesson/:sectionId" element={<LessonPage course={course} progress={progress} onProgress={refresh} />} />
+        <Route path="readers" element={<ReaderLibrary course={course} />} />
+        <Route path="settings" element={<SettingsPage course={course} />} />
+        <Route path="*" element={<Navigate to={`/${course.slug}`} replace />} />
+      </Routes></Layout>}
+  </CourseProvider>;
+}
+
+function LegacyLessonRedirect() {
+  const { sectionId } = useParams();
+  return <Navigate to={`/es/lesson/${sectionId ?? "w01-briefing"}`} replace />;
+}
+
+function LegacyRedirect({ destination }: { destination: string }) {
+  const { search } = useLocation();
+  return <Navigate to={`/es/${destination}${search}`} replace />;
+}
+
+export default function App() {
+  const { ready } = useTheme();
+  if (!ready) return <div className="loading" role="status"><span lang="en">Loading…</span><span aria-hidden="true"> / </span><span lang="es">Cargando…</span></div>;
+  return <BrowserRouter basename={import.meta.env.BASE_URL.replace(/\/$/, "")}><Routes>
+    <Route path="/" element={<CourseChooser />} />
+    <Route path="/choose" element={<CourseChooser force />} />
+    <Route path="/es/*" element={<CourseExperience course={spanish} />} />
+    <Route path="/en/*" element={<CourseExperience course={english} />} />
+    <Route path="/lesson/:sectionId" element={<LegacyLessonRedirect />} />
+    <Route path="/course" element={<LegacyRedirect destination="course" />} />
+    <Route path="/readers" element={<LegacyRedirect destination="readers" />} />
+    <Route path="/settings" element={<LegacyRedirect destination="settings" />} />
     <Route path="*" element={<Navigate to="/" replace />} />
-  </Routes></Layout></BrowserRouter>;
+  </Routes></BrowserRouter>;
 }

@@ -1,0 +1,605 @@
+{
+  "profile": "michael",
+  "utterances": [
+    {
+      "file": "00.wav",
+      "text": "Semana 7: Preguntas, modales y reparación. pedir información específica expresar capacidad e intención reparar un malentendido",
+      "sentences": [
+        {
+          "text": "Semana 7: Preguntas, modales y reparación.",
+          "segments": [
+            {
+              "text": "Semana 7: Preguntas, modales y reparación.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "semˈana sjˈete: pɾeɣˈuntas, moðˈales i rˌepaɾasjˈon."
+        },
+        {
+          "text": "pedir información específica expresar capacidad e intención reparar un malentendido",
+          "segments": [
+            {
+              "text": "pedir información específica expresar capacidad e intención reparar un malentendido",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "peðˈiɾ ˌinfoɾmasjˈon ˌespesˈifika ˌekspɾesˈaɾ kˌapasiðˈað e ˌintensjˈon rˌepaɾˈaɾ ˈun mˌalentendˈiðo"
+        }
+      ]
+    },
+    {
+      "file": "01.wav",
+      "text": "Forma y significado. Preguntas con wh-; do-support; can, have to y want to; respuestas cortas y frases para reparar malentendidos.",
+      "sentences": [
+        {
+          "text": "Forma y significado.",
+          "segments": [
+            {
+              "text": "Forma y significado.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "fˈoɾma i sˌiɡnifikˈaðo."
+        },
+        {
+          "text": "Preguntas con wh-; do-support; can, have to y want to; respuestas cortas y frases para reparar malentendidos.",
+          "segments": [
+            {
+              "text": "Preguntas con ",
+              "lang": "es-419"
+            },
+            {
+              "text": "wh-",
+              "lang": "en-us"
+            },
+            {
+              "text": "; ",
+              "lang": "es-419"
+            },
+            {
+              "text": "do-support",
+              "lang": "en-us"
+            },
+            {
+              "text": "; ",
+              "lang": "es-419"
+            },
+            {
+              "text": "can",
+              "lang": "en-us"
+            },
+            {
+              "text": ", ",
+              "lang": "es-419"
+            },
+            {
+              "text": "have to",
+              "lang": "en-us"
+            },
+            {
+              "text": " y ",
+              "lang": "es-419"
+            },
+            {
+              "text": "want to",
+              "lang": "en-us"
+            },
+            {
+              "text": "; respuestas cortas y frases para reparar malentendidos.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "pɾeɣˈuntas kˈon dˌʌbəljˌuːˈeɪtʃ ; dˈuːsəpˈɔːɹt ; kˈæn , hˈæv tuː i wˈɔnt tuː ; respwˈestas kˈoɾtas i fɾˈases pˌaɾa rˌepaɾˈaɾ mˌalentendˈiðos."
+        }
+      ]
+    },
+    {
+      "file": "02.wav",
+      "text": "Conjunto de modelos. What do you want to do today? When does the bus arrive? I don't know. Can you repeat that? I have to make a call. Why did you say that? ¿Qué quieres hacer hoy? ¿Cuándo llega el autobús? No sé. ¿Puedes repetir eso? Tengo que hacer una llamada. ¿Por qué dijiste eso?",
+      "sentences": [
+        {
+          "text": "Conjunto de modelos.",
+          "segments": [
+            {
+              "text": "Conjunto de modelos.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "koŋxˈunto ðe moðˈelos."
+        },
+        {
+          "text": "What do you want to do today?",
+          "segments": [
+            {
+              "text": "What do you want to do today?",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wˌʌt dˈuː juː wˈɔnt tə dˈuː tədˈeɪ?"
+        },
+        {
+          "text": "When does the bus arrive?",
+          "segments": [
+            {
+              "text": "When does the bus arrive?",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wˌɛn dˈʌz ðə bˈʌs ɚɹˈaɪv?"
+        },
+        {
+          "text": "I don't know.",
+          "segments": [
+            {
+              "text": "I don't know.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "aɪ dˈoʊnt nˈoʊ."
+        },
+        {
+          "text": "Can you repeat that?",
+          "segments": [
+            {
+              "text": "Can you repeat that?",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "kæn juː ɹᵻpˈiːt ðˈæt?"
+        },
+        {
+          "text": "I have to make a call.",
+          "segments": [
+            {
+              "text": "I have to make a call.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "aɪ hæv tə mˌeɪk ɐ kˈɔːl."
+        },
+        {
+          "text": "Why did you say that?",
+          "segments": [
+            {
+              "text": "Why did you say that?",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wˌaɪ dˈɪd juː sˈeɪ ðˈæt?"
+        },
+        {
+          "text": "¿Qué quieres hacer hoy?",
+          "segments": [
+            {
+              "text": "¿Qué quieres hacer hoy?",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kˈe kjˈeɾes asˈeɾ ˈoɪ?"
+        },
+        {
+          "text": "¿Cuándo llega el autobús?",
+          "segments": [
+            {
+              "text": "¿Cuándo llega el autobús?",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kwˈando ʝˈeɣa el ˌaʊtoβˈus?"
+        },
+        {
+          "text": "No sé.",
+          "segments": [
+            {
+              "text": "No sé.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "nˈo sˈe."
+        },
+        {
+          "text": "¿Puedes repetir eso?",
+          "segments": [
+            {
+              "text": "¿Puedes repetir eso?",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "pwˈeðes rˌepetˈiɾ ˈeso?"
+        },
+        {
+          "text": "Tengo que hacer una llamada.",
+          "segments": [
+            {
+              "text": "Tengo que hacer una llamada.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "tˈɛŋɡo ke asˈeɾ ˈuna ʝamˈaða."
+        },
+        {
+          "text": "¿Por qué dijiste eso?",
+          "segments": [
+            {
+              "text": "¿Por qué dijiste eso?",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "poɾ kˈe ðixˈiste ˈeso?"
+        }
+      ]
+    },
+    {
+      "file": "03.wav",
+      "text": "Práctica contrastiva. Cambia la persona, el tiempo, el número o el grado de formalidad de cada modelo sin perder su propósito comunicativo.",
+      "sentences": [
+        {
+          "text": "Práctica contrastiva.",
+          "segments": [
+            {
+              "text": "Práctica contrastiva.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "pɾˈaktika kˌontɾastˈiβa."
+        },
+        {
+          "text": "Cambia la persona, el tiempo, el número o el grado de formalidad de cada modelo sin perder su propósito comunicativo.",
+          "segments": [
+            {
+              "text": "Cambia la persona, el tiempo, el número o el grado de formalidad de cada modelo sin perder su propósito comunicativo.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kˈambja la peɾsˈona, el tjˈempo, el nˈumeɾo o el ɣɾˈaðo ðe fˌoɾmaliðˈad ðe kˈaða moðˈelo sim peɾðˈeɾ su pɾopˈosito kˌomunˌikatˈiβo."
+        }
+      ]
+    },
+    {
+      "file": "04.wav",
+      "text": "Comprobación de producción. Di una oración original para cada función: pedir información específica; expresar capacidad e intención; reparar un malentendido. Después escríbela y compara las formas oral y escrita.",
+      "sentences": [
+        {
+          "text": "Comprobación de producción.",
+          "segments": [
+            {
+              "text": "Comprobación de producción.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kˌompɾoβasjˈon de pɾˌoðuksjˈon."
+        },
+        {
+          "text": "Di una oración original para cada función: pedir información específica; expresar capacidad e intención; reparar un malentendido.",
+          "segments": [
+            {
+              "text": "Di una oración original para cada función: pedir información específica; expresar capacidad e intención; reparar un malentendido.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "dˈi ˈuna ˌoɾasjˈon ˌoɾixinˈal pˌaɾa kˈaða funsjˈon: peðˈiɾ ˌinfoɾmasjˈon ˌespesˈifika; ˌekspɾesˈaɾ kˌapasiðˈað e ˌintensjˈon; rˌepaɾˈaɾ ˈun mˌalentendˈiðo."
+        },
+        {
+          "text": "Después escríbela y compara las formas oral y escrita.",
+          "segments": [
+            {
+              "text": "Después escríbela y compara las formas oral y escrita.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "despwˈes eskɾˈiβela i kompˈaɾa las fˈoɾmas oɾˈal i eskɾˈita."
+        }
+      ]
+    },
+    {
+      "file": "05.wav",
+      "text": "Lenguaje modelo. What do you want to do today? — ¿Qué quieres hacer hoy? When does the bus arrive? — ¿Cuándo llega el autobús? I don't know. Can you repeat that? — No sé. ¿Puedes repetir eso? I have to make a call. — Tengo que hacer una llamada. Why did you say that? — ¿Por qué dijiste eso?",
+      "sentences": [
+        {
+          "text": "Lenguaje modelo.",
+          "segments": [
+            {
+              "text": "Lenguaje modelo.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "leŋɡwˈaxe moðˈelo."
+        },
+        {
+          "text": "What do you want to do today?",
+          "segments": [
+            {
+              "text": "What do you want to do today?",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wˌʌt dˈuː juː wˈɔnt tə dˈuː tədˈeɪ?"
+        },
+        {
+          "text": "— ¿Qué quieres hacer hoy?",
+          "segments": [
+            {
+              "text": "— ¿Qué quieres hacer hoy?",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— kˈe kjˈeɾes asˈeɾ ˈoɪ?"
+        },
+        {
+          "text": "When does the bus arrive?",
+          "segments": [
+            {
+              "text": "When does the bus arrive?",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wˌɛn dˈʌz ðə bˈʌs ɚɹˈaɪv?"
+        },
+        {
+          "text": "— ¿Cuándo llega el autobús?",
+          "segments": [
+            {
+              "text": "— ¿Cuándo llega el autobús?",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— kwˈando ʝˈeɣa el ˌaʊtoβˈus?"
+        },
+        {
+          "text": "I don't know.",
+          "segments": [
+            {
+              "text": "I don't know.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "aɪ dˈoʊnt nˈoʊ."
+        },
+        {
+          "text": "Can you repeat that?",
+          "segments": [
+            {
+              "text": "Can you repeat that?",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "kæn juː ɹᵻpˈiːt ðˈæt?"
+        },
+        {
+          "text": "— No sé.",
+          "segments": [
+            {
+              "text": "— No sé.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— nˈo sˈe."
+        },
+        {
+          "text": "¿Puedes repetir eso?",
+          "segments": [
+            {
+              "text": "¿Puedes repetir eso?",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "pwˈeðes rˌepetˈiɾ ˈeso?"
+        },
+        {
+          "text": "I have to make a call.",
+          "segments": [
+            {
+              "text": "I have to make a call.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "aɪ hæv tə mˌeɪk ɐ kˈɔːl."
+        },
+        {
+          "text": "— Tengo que hacer una llamada.",
+          "segments": [
+            {
+              "text": "— Tengo que hacer una llamada.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— tˈɛŋɡo ke asˈeɾ ˈuna ʝamˈaða."
+        },
+        {
+          "text": "Why did you say that?",
+          "segments": [
+            {
+              "text": "Why did you say that?",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wˌaɪ dˈɪd juː sˈeɪ ðˈæt?"
+        },
+        {
+          "text": "— ¿Por qué dijiste eso?",
+          "segments": [
+            {
+              "text": "— ¿Por qué dijiste eso?",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— poɾ kˈe ðixˈiste ˈeso?"
+        }
+      ]
+    },
+    {
+      "file": "06.wav",
+      "text": "Comprueba tu preparación. Explica la idea central. Produce un ejemplo original. Completa la evaluación con un 85 % o más.",
+      "sentences": [
+        {
+          "text": "Comprueba tu preparación.",
+          "segments": [
+            {
+              "text": "Comprueba tu preparación.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kˌompɾuˈeβa tu pɾˌepaɾasjˈon."
+        },
+        {
+          "text": "Explica la idea central.",
+          "segments": [
+            {
+              "text": "Explica la idea central.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "eksplˈika la iðˈea sentɾˈal."
+        },
+        {
+          "text": "Produce un ejemplo original.",
+          "segments": [
+            {
+              "text": "Produce un ejemplo original.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "pɾoðˈuse ˈun exˈemplo ˌoɾixinˈal."
+        },
+        {
+          "text": "Completa la evaluación con un 85 % o más.",
+          "segments": [
+            {
+              "text": "Completa la evaluación con un 85 % o más.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "komplˈeta la ˌeβaluasjˈon kon ˈun otʃˌɛntaisˈinko poɾsjˈɛnto o mˈas."
+        }
+      ]
+    },
+    {
+      "file": "vocab-00.wav",
+      "text": "what",
+      "sentences": [
+        {
+          "text": "what",
+          "segments": [
+            {
+              "text": "what",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wˌʌt"
+        }
+      ]
+    },
+    {
+      "file": "vocab-01.wav",
+      "text": "who",
+      "sentences": [
+        {
+          "text": "who",
+          "segments": [
+            {
+              "text": "who",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "hˈuː"
+        }
+      ]
+    },
+    {
+      "file": "vocab-02.wav",
+      "text": "when",
+      "sentences": [
+        {
+          "text": "when",
+          "segments": [
+            {
+              "text": "when",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wˌɛn"
+        }
+      ]
+    },
+    {
+      "file": "vocab-03.wav",
+      "text": "where",
+      "sentences": [
+        {
+          "text": "where",
+          "segments": [
+            {
+              "text": "where",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wˈɛɹ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-04.wav",
+      "text": "why",
+      "sentences": [
+        {
+          "text": "why",
+          "segments": [
+            {
+              "text": "why",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wˈaɪ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-05.wav",
+      "text": "how",
+      "sentences": [
+        {
+          "text": "how",
+          "segments": [
+            {
+              "text": "how",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "hˈaʊ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-06.wav",
+      "text": "can",
+      "sentences": [
+        {
+          "text": "can",
+          "segments": [
+            {
+              "text": "can",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "kˈæn"
+        }
+      ]
+    },
+    {
+      "file": "vocab-07.wav",
+      "text": "to want",
+      "sentences": [
+        {
+          "text": "to want",
+          "segments": [
+            {
+              "text": "to want",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tə wˈɔnt"
+        }
+      ]
+    }
+  ]
+}

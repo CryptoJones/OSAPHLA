@@ -1,0 +1,455 @@
+{
+  "profile": "liam",
+  "utterances": [
+    {
+      "file": "00.wav",
+      "text": "Semana 23: Perfectos y pasado relevante. informar experiencia y cambios recientes conectar pasado con presente ordenar eventos anteriores",
+      "sentences": [
+        {
+          "text": "Semana 23: Perfectos y pasado relevante.",
+          "segments": [
+            {
+              "text": "Semana 23: Perfectos y pasado relevante.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "semˈana βˌeɪntitɾˈes: peɾfˈektos i pasˈaðo rˌeleβˈante."
+        },
+        {
+          "text": "informar experiencia y cambios recientes conectar pasado con presente ordenar eventos anteriores",
+          "segments": [
+            {
+              "text": "informar experiencia y cambios recientes conectar pasado con presente ordenar eventos anteriores",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˌinfoɾmˈaɾ ˌekspeɾjˈɛnsja i kˈambjos resjˈɛntes kˌonektˈaɾ pasˈaðo kom pɾesˈɛnte ˌoɾðenˈaɾ eβˈɛntos ˌanteɾjˈoɾes"
+        }
+      ]
+    },
+    {
+      "file": "01.wav",
+      "text": "Lee para entender la situación. The project has moved forward, but it has not received final approval yet. The team had already corrected the errors when a new request arrived. El proyecto ha avanzado, pero todavía no ha recibido la aprobación final. El equipo ya había corregido los errores cuando llegó una nueva solicitud.",
+      "sentences": [
+        {
+          "text": "Lee para entender la situación.",
+          "segments": [
+            {
+              "text": "Lee para entender la situación.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "lˈee pˌaɾa ˌentendˈeɾ la sˌitwasjˈon."
+        },
+        {
+          "text": "The project has moved forward, but it has not received final approval yet.",
+          "segments": [
+            {
+              "text": "The project has moved forward, but it has not received final approval yet.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðə pɹˈɑːdʒɛkt hɐz mˈuːvd fˈɔːɹwɚd, bˌʌt ɪt həznɑːt ɹᵻsˈiːvd fˈaɪnəl ɐpɹˈuːvəl jˈɛt."
+        },
+        {
+          "text": "The team had already corrected the errors when a new request arrived.",
+          "segments": [
+            {
+              "text": "The team had already corrected the errors when a new request arrived.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðə tˈiːm hæd ɔːlɹˌɛdi kɚɹˈɛktᵻd ðɪ ˈɛɹɚz wɛn ɐ nˈuː ɹᵻkwˈɛst ɚɹˈaɪvd."
+        },
+        {
+          "text": "El proyecto ha avanzado, pero todavía no ha recibido la aprobación final.",
+          "segments": [
+            {
+              "text": "El proyecto ha avanzado, pero todavía no ha recibido la aprobación final.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "el pɾoʝˈekto ˈa ˌaβansˈaðo, pˌeɾo tˌoðaβˈia nˈo ˈa rˌesiβˈiðo la ˌapɾoβasjˈon finˈal."
+        },
+        {
+          "text": "El equipo ya había corregido los errores cuando llegó una nueva solicitud.",
+          "segments": [
+            {
+              "text": "El equipo ya había corregido los errores cuando llegó una nueva solicitud.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "el ekˈipo ʝˈa aβˈia kˌorexˈiðo los erˈoɾes kwˌando ʝeɣˈo ˈuna nwˈeβa sˌolisitˈud."
+        }
+      ]
+    },
+    {
+      "file": "02.wav",
+      "text": "Lee de nuevo para buscar evidencia. Identifica quién actúa, qué cambia, cuándo ocurre y qué palabras establecen la relación entre los acontecimientos.",
+      "sentences": [
+        {
+          "text": "Lee de nuevo para buscar evidencia.",
+          "segments": [
+            {
+              "text": "Lee de nuevo para buscar evidencia.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "lˈee ðe nwˈeβo pˌaɾa βuskˈaɾ ˌeβiðˈɛnsja."
+        },
+        {
+          "text": "Identifica quién actúa, qué cambia, cuándo ocurre y qué palabras establecen la relación entre los acontecimientos.",
+          "segments": [
+            {
+              "text": "Identifica quién actúa, qué cambia, cuándo ocurre y qué palabras establecen la relación entre los acontecimientos.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˌiðentifˈika kjˈen aktˈua, kˈe kˈambja, kwˈando okˈure i kˈe palˈaβɾas ˌestaβlˈesen la rˌelasjˈon ˌentɾe los ˌakontˌesimjˈɛntos."
+        }
+      ]
+    },
+    {
+      "file": "03.wav",
+      "text": "Actividades de lectura. Actividad de lectura 54; Actividad de lectura 55; Actividad de lectura 56",
+      "sentences": [
+        {
+          "text": "Actividades de lectura.",
+          "segments": [
+            {
+              "text": "Actividades de lectura.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˌaktiβiðˈaðes ðe lektˈuɾa."
+        },
+        {
+          "text": "Actividad de lectura 54; Actividad de lectura 55; Actividad de lectura 56",
+          "segments": [
+            {
+              "text": "Actividad de lectura 54; Actividad de lectura 55; Actividad de lectura 56",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˌaktiβiðˈad ðe lektˈuɾa sinkwˌɛntaikwˈatɾo; ˌaktiβiðˈad ðe lektˈuɾa sinkwˌɛntaisˈinko; ˌaktiβiðˈad ðe lektˈuɾa sinkwˌɛntaisˈeɪs"
+        }
+      ]
+    },
+    {
+      "file": "04.wav",
+      "text": "Reconstrucción. Sin mirar el texto, expresa la idea principal, tres detalles y una inferencia razonable en inglés.",
+      "sentences": [
+        {
+          "text": "Reconstrucción.",
+          "segments": [
+            {
+              "text": "Reconstrucción.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "rˌekonstɾuksjˈon."
+        },
+        {
+          "text": "Sin mirar el texto, expresa la idea principal, tres detalles y una inferencia razonable en inglés.",
+          "segments": [
+            {
+              "text": "Sin mirar el texto, expresa la idea principal, tres detalles y una inferencia razonable en inglés.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "sin miɾˈaɾ el tˈeksto, ekspɾˈesa la iðˈea pɾˌinsipˈal, tɾˈes ðetˈajjes i ˈuna ˌinfeɾˈɛnsja rˌasonˈaβle en iŋɡlˈes."
+        }
+      ]
+    },
+    {
+      "file": "05.wav",
+      "text": "Lenguaje modelo. We've already completed the first phase. — Ya hemos completado la primera fase. The data haven't arrived yet. — Los datos todavía no han llegado. Have you ever worked abroad? — ¿Alguna vez has trabajado en el extranjero? I had sent the report before she called. — Había enviado el informe antes de que ella llamara. The situation has changed recently. — La situación ha cambiado recientemente.",
+      "sentences": [
+        {
+          "text": "Lenguaje modelo.",
+          "segments": [
+            {
+              "text": "Lenguaje modelo.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "leŋɡwˈaxe moðˈelo."
+        },
+        {
+          "text": "We've already completed the first phase.",
+          "segments": [
+            {
+              "text": "We've already completed the first phase.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wiːv ɔːlɹˌɛdi kəmplˈiːɾᵻd ðə fˈɜːst fˈeɪz."
+        },
+        {
+          "text": "— Ya hemos completado la primera fase.",
+          "segments": [
+            {
+              "text": "— Ya hemos completado la primera fase.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— ʝˈa ˈemos kˌompletˈaðo la pɾimˈeɾa fˈase."
+        },
+        {
+          "text": "The data haven't arrived yet.",
+          "segments": [
+            {
+              "text": "The data haven't arrived yet.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðə dˈeɪɾə hˈævənt ɚɹˈaɪvd jˈɛt."
+        },
+        {
+          "text": "— Los datos todavía no han llegado.",
+          "segments": [
+            {
+              "text": "— Los datos todavía no han llegado.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— los ðˈatos tˌoðaβˈia nˈo ˈan dʒeɣˈaðo."
+        },
+        {
+          "text": "Have you ever worked abroad?",
+          "segments": [
+            {
+              "text": "Have you ever worked abroad?",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "hæv juː ˈɛvɚ wˈɜːkt ɐbɹˈɔːd?"
+        },
+        {
+          "text": "— ¿Alguna vez has trabajado en el extranjero?",
+          "segments": [
+            {
+              "text": "— ¿Alguna vez has trabajado en el extranjero?",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— alɣˈuna βˈes ˈas tɾˌaβaxˈaðo en el ˌekstɾaŋxˈeɾo?"
+        },
+        {
+          "text": "I had sent the report before she called.",
+          "segments": [
+            {
+              "text": "I had sent the report before she called.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "aɪ hæd sˈɛnt ðə ɹᵻpˈɔːɹt bᵻfˌɔːɹ ʃiː kˈɔːld."
+        },
+        {
+          "text": "— Había enviado el informe antes de que ella llamara.",
+          "segments": [
+            {
+              "text": "— Había enviado el informe antes de que ella llamara.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— aβˈia embjˈaðo el infˈoɾme ˈantes ðe ke ˈejja ʝamˈaɾa."
+        },
+        {
+          "text": "The situation has changed recently.",
+          "segments": [
+            {
+              "text": "The situation has changed recently.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðə sˌɪtʃuːˈeɪʃən hɐz tʃˈeɪndʒd ɹˈiːsəntli."
+        },
+        {
+          "text": "— La situación ha cambiado recientemente.",
+          "segments": [
+            {
+              "text": "— La situación ha cambiado recientemente.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— la sˌitwasjˈon ˈa kambjˈaðo resjˈɛntemˈente."
+        }
+      ]
+    },
+    {
+      "file": "06.wav",
+      "text": "Comprueba tu preparación. Explica la idea central. Produce un ejemplo original. Completa la evaluación con un 85 % o más.",
+      "sentences": [
+        {
+          "text": "Comprueba tu preparación.",
+          "segments": [
+            {
+              "text": "Comprueba tu preparación.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kˌompɾuˈeβa tu pɾˌepaɾasjˈon."
+        },
+        {
+          "text": "Explica la idea central.",
+          "segments": [
+            {
+              "text": "Explica la idea central.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "eksplˈika la iðˈea sentɾˈal."
+        },
+        {
+          "text": "Produce un ejemplo original.",
+          "segments": [
+            {
+              "text": "Produce un ejemplo original.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "pɾoðˈuse ˈun exˈemplo ˌoɾixinˈal."
+        },
+        {
+          "text": "Completa la evaluación con un 85 % o más.",
+          "segments": [
+            {
+              "text": "Completa la evaluación con un 85 % o más.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "komplˈeta la ˌeβaluasjˈon kon ˈun otʃˌɛntaisˈinko poɾsjˈɛnto o mˈas."
+        }
+      ]
+    },
+    {
+      "file": "vocab-00.wav",
+      "text": "already",
+      "sentences": [
+        {
+          "text": "already",
+          "segments": [
+            {
+              "text": "already",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɔːlɹˈɛdi"
+        }
+      ]
+    },
+    {
+      "file": "vocab-01.wav",
+      "text": "yet",
+      "sentences": [
+        {
+          "text": "yet",
+          "segments": [
+            {
+              "text": "yet",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "jˈɛt"
+        }
+      ]
+    },
+    {
+      "file": "vocab-02.wav",
+      "text": "ever",
+      "sentences": [
+        {
+          "text": "ever",
+          "segments": [
+            {
+              "text": "ever",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ˈɛvɚ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-03.wav",
+      "text": "never",
+      "sentences": [
+        {
+          "text": "never",
+          "segments": [
+            {
+              "text": "never",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "nˈɛvɚ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-04.wav",
+      "text": "since",
+      "sentences": [
+        {
+          "text": "since",
+          "segments": [
+            {
+              "text": "since",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "sˈɪns"
+        }
+      ]
+    },
+    {
+      "file": "vocab-05.wav",
+      "text": "for",
+      "sentences": [
+        {
+          "text": "for",
+          "segments": [
+            {
+              "text": "for",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "fɔːɹ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-06.wav",
+      "text": "recently",
+      "sentences": [
+        {
+          "text": "recently",
+          "segments": [
+            {
+              "text": "recently",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɹˈiːsəntli"
+        }
+      ]
+    },
+    {
+      "file": "vocab-07.wav",
+      "text": "to complete",
+      "sentences": [
+        {
+          "text": "to complete",
+          "segments": [
+            {
+              "text": "to complete",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tə kəmplˈiːt"
+        }
+      ]
+    }
+  ]
+}

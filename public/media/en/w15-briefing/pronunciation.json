@@ -1,0 +1,481 @@
+{
+  "profile": "bella",
+  "utterances": [
+    {
+      "file": "00.wav",
+      "text": "Semana 15: Salud, cuerpo y emergencias. describir síntomas entender preguntas médicas básicas pedir ayuda urgente",
+      "sentences": [
+        {
+          "text": "Semana 15: Salud, cuerpo y emergencias.",
+          "segments": [
+            {
+              "text": "Semana 15: Salud, cuerpo y emergencias.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "semˈana kˈinse: salˈud, kwˈeɾpo i ˌemeɾxˈɛnsjas."
+        },
+        {
+          "text": "describir síntomas entender preguntas médicas básicas pedir ayuda urgente",
+          "segments": [
+            {
+              "text": "describir síntomas entender preguntas médicas básicas pedir ayuda urgente",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "dˌeskɾiβˈiɾ sˈintomas ˌentendˈeɾ pɾeɣˈuntas mˈeðikas βˈasikas peðˈiɾ aʝˈuða uɾxˈɛnte"
+        }
+      ]
+    },
+    {
+      "file": "01.wav",
+      "text": "Objetivo operativo. Al terminar esta sección podrás describir síntomas, entender preguntas médicas básicas, pedir ayuda urgente. El objetivo es el desempeño útil, no la terminología aislada.",
+      "sentences": [
+        {
+          "text": "Objetivo operativo.",
+          "segments": [
+            {
+              "text": "Objetivo operativo.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˌoβxetˈiβo ˌopeɾatˈiβo."
+        },
+        {
+          "text": "Al terminar esta sección podrás describir síntomas, entender preguntas médicas básicas, pedir ayuda urgente.",
+          "segments": [
+            {
+              "text": "Al terminar esta sección podrás describir síntomas, entender preguntas médicas básicas, pedir ayuda urgente.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "al tˌeɾminˈaɾ ˈesta seksjˈom poðɾˈas ðˌeskɾiβˈiɾ sˈintomas, ˌentendˈeɾ pɾeɣˈuntas mˈeðikas βˈasikas, peðˈiɾ aʝˈuða uɾxˈɛnte."
+        },
+        {
+          "text": "El objetivo es el desempeño útil, no la terminología aislada.",
+          "segments": [
+            {
+              "text": "El objetivo es el desempeño útil, no la terminología aislada.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "el ˌoβxetˈiβo ˈes el ðˌesempˈeɲo ˈutil, nˈo la tˌeɾminˌoloxˈia aɪslˈaða."
+        }
+      ]
+    },
+    {
+      "file": "02.wav",
+      "text": "Sistema lingüístico. Have para síntomas; feel y hurt; partes del cuerpo; should; imperativos y modales de emergencia.",
+      "sentences": [
+        {
+          "text": "Sistema lingüístico.",
+          "segments": [
+            {
+              "text": "Sistema lingüístico.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "sistˈema lˌiŋɡuˈistiko."
+        },
+        {
+          "text": "Have para síntomas; feel y hurt; partes del cuerpo; should; imperativos y modales de emergencia.",
+          "segments": [
+            {
+              "text": "Have",
+              "lang": "en-us"
+            },
+            {
+              "text": " para síntomas; ",
+              "lang": "es-419"
+            },
+            {
+              "text": "feel",
+              "lang": "en-us"
+            },
+            {
+              "text": " y ",
+              "lang": "es-419"
+            },
+            {
+              "text": "hurt",
+              "lang": "en-us"
+            },
+            {
+              "text": "; partes del cuerpo; ",
+              "lang": "es-419"
+            },
+            {
+              "text": "should",
+              "lang": "en-us"
+            },
+            {
+              "text": "; imperativos y modales de emergencia.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "hˈæv pˌaɾa sˈintomas; fˈiːl i hˈɜːt ; pˈaɾtes ðel kwˈeɾpo; ʃˈʊd ; ˌimpeɾatˈiβos i moðˈales ðe ˌemeɾxˈɛnsja."
+        }
+      ]
+    },
+    {
+      "file": "03.wav",
+      "text": "Sonido y producción. Acento claro en medicamentos, partes del cuerpo y números; contraste entre hurt, heart y hot.",
+      "sentences": [
+        {
+          "text": "Sonido y producción.",
+          "segments": [
+            {
+              "text": "Sonido y producción.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "sonˈiðo i pɾˌoðuksjˈon."
+        },
+        {
+          "text": "Acento claro en medicamentos, partes del cuerpo y números; contraste entre hurt, heart y hot.",
+          "segments": [
+            {
+              "text": "Acento claro en medicamentos, partes del cuerpo y números; contraste entre ",
+              "lang": "es-419"
+            },
+            {
+              "text": "hurt",
+              "lang": "en-us"
+            },
+            {
+              "text": ", heart y hot.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "asˈɛnto klˈaɾo en mˌeðikamˈɛntos, pˈaɾtes ðel kwˈeɾpo i nˈumeɾos; kontɾˈaste ˈɛntɾe hˈɜːt , eˈaɾt i ˈot."
+        }
+      ]
+    },
+    {
+      "file": "04.wav",
+      "text": "Principio central. Observa primero el significado y después la forma. Recupera el inglés en voz alta, compáralo con el modelo y corrige un rasgo a la vez.",
+      "sentences": [
+        {
+          "text": "Principio central.",
+          "segments": [
+            {
+              "text": "Principio central.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "pɾinsˈipjo sentɾˈal."
+        },
+        {
+          "text": "Observa primero el significado y después la forma.",
+          "segments": [
+            {
+              "text": "Observa primero el significado y después la forma.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "oβsˈeɾβa pɾimˈeɾo el sˌiɡnifikˈaðo i ðespwˈes la fˈoɾma."
+        },
+        {
+          "text": "Recupera el inglés en voz alta, compáralo con el modelo y corrige un rasgo a la vez.",
+          "segments": [
+            {
+              "text": "Recupera el inglés en voz alta, compáralo con el modelo y corrige un rasgo a la vez.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "rˌekupˈeɾa el iŋɡlˈes em bˈos ˈalta, kompˈaɾalo kon el moðˈelo i korˈixe ˈun rˈasɣo a la βˈes."
+        }
+      ]
+    },
+    {
+      "file": "05.wav",
+      "text": "Lenguaje modelo. I have a bad headache. — Me duele mucho la cabeza. I've had a fever since yesterday. — Tengo fiebre desde ayer. Are you allergic to any medicine? — ¿Tienes alergia a algún medicamento? Call an ambulance. — Llama a una ambulancia. They fell and hurt their arm. — Se cayó y se lastimó el brazo.",
+      "sentences": [
+        {
+          "text": "Lenguaje modelo.",
+          "segments": [
+            {
+              "text": "Lenguaje modelo.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "leŋɡwˈaxe moðˈelo."
+        },
+        {
+          "text": "I have a bad headache.",
+          "segments": [
+            {
+              "text": "I have a bad headache.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "aɪ hæv ɐ bˈæd hˈɛdeɪk."
+        },
+        {
+          "text": "— Me duele mucho la cabeza.",
+          "segments": [
+            {
+              "text": "— Me duele mucho la cabeza.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— me dwˈele mˈutʃo la kaβˈesa."
+        },
+        {
+          "text": "I've had a fever since yesterday.",
+          "segments": [
+            {
+              "text": "I've had a fever since yesterday.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "aɪvhˌæd ɐ fˈiːvɚ sˈɪns jˈɛstɚdˌeɪ."
+        },
+        {
+          "text": "— Tengo fiebre desde ayer.",
+          "segments": [
+            {
+              "text": "— Tengo fiebre desde ayer.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— tˈɛŋɡo fjˈeβɾe ðˌesðe aʝˈeɾ."
+        },
+        {
+          "text": "Are you allergic to any medicine?",
+          "segments": [
+            {
+              "text": "Are you allergic to any medicine?",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɑːɹ juː ɐlˈɜːdʒɪk tʊ ˌɛni mˈɛdəsən?"
+        },
+        {
+          "text": "— ¿Tienes alergia a algún medicamento?",
+          "segments": [
+            {
+              "text": "— ¿Tienes alergia a algún medicamento?",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— tjˈenes alˈeɾxja a alɣˈun mˌeðikamˈɛnto?"
+        },
+        {
+          "text": "Call an ambulance.",
+          "segments": [
+            {
+              "text": "Call an ambulance.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "kˈɔːl ɐn ˈæmbjʊləns."
+        },
+        {
+          "text": "— Llama a una ambulancia.",
+          "segments": [
+            {
+              "text": "— Llama a una ambulancia.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— ʝˈama a ˈuna ˌambulˈansja."
+        },
+        {
+          "text": "They fell and hurt their arm.",
+          "segments": [
+            {
+              "text": "They fell and hurt their arm.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðeɪ fˈɛl ænd hˈɜːt ðɛɹ ˈɑːɹm."
+        },
+        {
+          "text": "— Se cayó y se lastimó el brazo.",
+          "segments": [
+            {
+              "text": "— Se cayó y se lastimó el brazo.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— se kaʝˈo i se lˌastimˈo el βɾˈaso."
+        }
+      ]
+    },
+    {
+      "file": "06.wav",
+      "text": "Comprueba tu preparación. Explica la idea central. Produce un ejemplo original. Completa la evaluación con un 85 % o más.",
+      "sentences": [
+        {
+          "text": "Comprueba tu preparación.",
+          "segments": [
+            {
+              "text": "Comprueba tu preparación.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kˌompɾuˈeβa tu pɾˌepaɾasjˈon."
+        },
+        {
+          "text": "Explica la idea central.",
+          "segments": [
+            {
+              "text": "Explica la idea central.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "eksplˈika la iðˈea sentɾˈal."
+        },
+        {
+          "text": "Produce un ejemplo original.",
+          "segments": [
+            {
+              "text": "Produce un ejemplo original.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "pɾoðˈuse ˈun exˈemplo ˌoɾixinˈal."
+        },
+        {
+          "text": "Completa la evaluación con un 85 % o más.",
+          "segments": [
+            {
+              "text": "Completa la evaluación con un 85 % o más.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "komplˈeta la ˌeβaluasjˈon kon ˈun otʃˌɛntaisˈinko poɾsjˈɛnto o mˈas."
+        }
+      ]
+    },
+    {
+      "file": "vocab-00.wav",
+      "text": "a headache",
+      "sentences": [
+        {
+          "text": "a headache",
+          "segments": [
+            {
+              "text": "a headache",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɐ hˈɛdeɪk"
+        }
+      ]
+    },
+    {
+      "file": "vocab-01.wav",
+      "text": "a fever",
+      "sentences": [
+        {
+          "text": "a fever",
+          "segments": [
+            {
+              "text": "a fever",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɐ fˈiːvɚ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-02.wav",
+      "text": "medicine",
+      "sentences": [
+        {
+          "text": "medicine",
+          "segments": [
+            {
+              "text": "medicine",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "mˈɛdəsən"
+        }
+      ]
+    },
+    {
+      "file": "vocab-03.wav",
+      "text": "an allergy",
+      "sentences": [
+        {
+          "text": "an allergy",
+          "segments": [
+            {
+              "text": "an allergy",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɐn ˈælɚdʒi"
+        }
+      ]
+    },
+    {
+      "file": "vocab-04.wav",
+      "text": "pain",
+      "sentences": [
+        {
+          "text": "pain",
+          "segments": [
+            {
+              "text": "pain",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "pˈeɪn"
+        }
+      ]
+    },
+    {
+      "file": "vocab-05.wav",
+      "text": "an ambulance",
+      "sentences": [
+        {
+          "text": "an ambulance",
+          "segments": [
+            {
+              "text": "an ambulance",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɐn ˈæmbjʊləns"
+        }
+      ]
+    },
+    {
+      "file": "vocab-06.wav",
+      "text": "to fall",
+      "sentences": [
+        {
+          "text": "to fall",
+          "segments": [
+            {
+              "text": "to fall",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tə fˈɔːl"
+        }
+      ]
+    },
+    {
+      "file": "vocab-07.wav",
+      "text": "to breathe",
+      "sentences": [
+        {
+          "text": "to breathe",
+          "segments": [
+            {
+              "text": "to breathe",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tə bɹˈiːð"
+        }
+      ]
+    }
+  ]
+}

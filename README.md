@@ -2,10 +2,10 @@
 
 ![OSAPHLA — Open Source Accessible Pan-Hispanic Language Academy](public/branding/github-social-preview.png)
 
-An Open-Source, Accessible, & Pan-Hispanic Language Academy with bilingual lessons, vocabulary, readings, quizzes, and narrated videos for learning Spanish.
+An Open-Source, Accessible, & Pan-Hispanic Language Academy with two complete paths: Spanish for English speakers and English for Spanish speakers.
 
-OSAPHLA is a private, offline-first Spanish course containing **36 weeks, 180 assessed sections,
-4,320 question-bank items, and 88 reading activities**. It targets an ILR 2
+Each path contains **36 weeks, 180 assessed sections, 4,320 question-bank items,
+and 88 reading activities** (360 sections total). Both target an ILR 2
 core with ILR 2+/2+/2 stretch preparation; it does not claim to award an official
 ILR rating.
 
@@ -49,7 +49,8 @@ the prompt using `npm run start:local -- --port 5180`. Stop the server with `Ctr
 On later runs, press Enter to reuse the remembered port. The lower-level `npm run dev`
 command remains available when automatic port selection is preferable.
 
-The first screen is a visual-comfort lab. It offers
+New learners first choose English or Spanish, then receive native-language guidance
+to configure the visual-comfort lab and save their settings. The lab offers
 system, high-contrast dark, high-contrast light, low-glare charcoal, warm paper,
 and monochrome themes plus independent typography, spacing, reading-width, focus,
 cursor, density, and motion controls.
@@ -58,7 +59,7 @@ Create a production PWA with `npm run build`, then preview it with
 `npm run preview`. The app shell and authored course work offline after the first
 load. Week media and the optional speech model use separate browser caches so they
 can be managed without erasing progress. The Display page includes a one-button
-offline media installer for all 180 videos and narration tracks.
+offline media installer for the selected course's 180 videos and narration tracks.
 
 ## Instruction and assessment
 
@@ -81,22 +82,22 @@ The adaptive HTML presentation is the authoritative, fully themeable instruction
 Optional MP4 copies use the same slide data and descriptive text:
 
 ```bash
-npm run render:media -- --section w01-briefing
-npm run render:media -- --kind input --force --jobs 3
-npm run render:media -- --theme low-glare
-npm run render:media -- --force --jobs 3
+npm run render:media -- --course es --section w01-briefing
+npm run render:media -- --course en --kind input --force --jobs 3
+npm run render:media -- --course es --theme low-glare
+npm run render:media -- --course en --force --jobs 3
 ```
 
 The second command renders every section and safely skips completed files. Add
 `--force` to rebuild, and use `--jobs 1` through `--jobs 4` to control parallel
-local rendering. Rendered media lives under `public/media/` and is ignored by
-Git because it is reproducible and large. The renderer uses the local Kokoro
+local rendering. Rendered media lives under `public/media/es/` and
+`public/media/en/`. The renderer uses the local Kokoro
 neural model, Chrome, and FFmpeg, creates captions and transcripts, and accepts any
 supported visual theme. Narration follows a deterministic, balanced rotation:
 original Dora, younger Dora Y1, younger Dora Y3, original Santa, and Dora/Santa E
-each narrate 36 lessons. Each lesson keeps its assigned voice across rerenders.
-English and Spanish use the same assigned voice profile with phoneme-level `en-us`
-and `es-419` code-switching. Spanish terms inside English instruction retain Latin
+each narrate 36 Spanish lessons. Heart, Bella, Sky, Michael, and Liam each narrate
+36 English lessons. Each lesson keeps its assigned voice across rerenders.
+Both paths use phoneme-level `en-us` and `es-419` code-switching. Spanish terms inside English instruction retain Latin
 American pronunciation (for example, `usted` is routed as `ustˈed`, never through
 the English phonemizer). The generated Kokoro audio powers the MP4, adaptive slide
 narration, and vocabulary pronunciation controls; browser system TTS is not used
@@ -106,7 +107,8 @@ Set `KOKORO_PYTHON` and `KOKORO_MODEL_DIR` when the existing courseware environm
 is not installed in its usual location. Python dependencies are pinned in
 `requirements-tts.txt`.
 
-After a full render, run `npm run media:validate` to verify every section's video,
+After a full render, run `npm run media:validate -- --course es` or
+`npm run media:validate -- --course en` to verify every section's video,
 adaptive slide audio, vocabulary audio, captions, transcript, balanced narrator
 assignment, encoding, and phoneme-level pronunciation audit.
 
@@ -114,17 +116,20 @@ assignment, encoding, and phoneme-level pronunciation audit.
 
 ```bash
 npm run curriculum:validate
+npm run bilingual:validate
 npm test
 npm run build
 npm run test:e2e
-# or all four:
+# or run the complete suite:
 npm run qa
 ```
 
 The automated gates verify the complete curriculum contract, balanced assessments,
 production build, first-run accessibility, WCAG scanning, and
 320-pixel reflow. See `docs/ACCESSIBILITY.md` and `docs/CURRICULUM.md` for the
-behavioral specification.
+behavioral specification. The English-path reference methodology and bibliography
+are documented in `docs/ENGLISH_SOURCES.md`; source books are never copied into the
+repository or production bundle.
 
 ---
 

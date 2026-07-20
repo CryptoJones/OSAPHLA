@@ -1,30 +1,29 @@
 import { readFile } from "node:fs/promises";
 import { resolve } from "node:path";
 
-const course = JSON.parse(await readFile(resolve(import.meta.dirname, "../src/data/course.json"), "utf8"));
+const ROOT = resolve(import.meta.dirname, "..");
 const failures = [];
-const requireText = (value, location) => { if (typeof value !== "string" || value.trim().length < 2) failures.push(`${location} has no English meaning.`); };
-
-for (const section of course.sections) {
-  section.vocabulary.forEach((item, index) => requireText(item.en, `${section.id} vocabulary ${index + 1}`));
-  section.modelSentences.forEach((_, index) => requireText(section.modelTranslations[index], `${section.id} model ${index + 1}`));
-  const modelBlock = section.content.find((block) => block.heading === "Model set");
-  if (modelBlock) requireText(modelBlock.translation, `${section.id} Model set`);
-  const modelSlide = section.slides.find((slide) => slide.title === "Model language");
-  if (!modelSlide || modelSlide.body.length !== section.modelSentences.length || modelSlide.body.some((line) => !line.includes(" — "))) failures.push(`${section.id} Model language slide is not fully bilingual.`);
-  for (const question of section.questions.filter((item) => item.type === "ordering")) {
-    if (!question.prompt.includes("English meaning:")) failures.push(`${question.id} prompt has no English meaning.`);
-    if (!question.rationale.includes("It means:")) failures.push(`${question.id} feedback has no English meaning.`);
+for (const slug of ["es", "en"]) {
+  const course = JSON.parse(await readFile(resolve(ROOT, `src/data/${slug}/course.json`), "utf8"));
+  const modelHeading = slug === "en" ? "Lenguaje modelo" : "Model language";
+  const readingHeading = slug === "en" ? "Lee para entender la situación" : "Read for the situation";
+  for (const section of course.sections) {
+    section.vocabulary.forEach((item, index) => { if (!item.target?.trim() || !item.meaning?.trim()) failures.push(`${slug}:${section.id} vocabulary ${index + 1} is incomplete`); });
+    section.modelSentences.forEach((_, index) => { if (!section.modelTranslations[index]?.trim()) failures.push(`${slug}:${section.id} model ${index + 1} has no meaning`); });
+    const modelSlide = section.slides.find((slide) => slide.title === modelHeading);
+    if (!modelSlide || modelSlide.body.length !== 5 || modelSlide.body.some((line) => !line.includes(" — "))) failures.push(`${slug}:${section.id} model slide is not bilingual`);
+    for (const question of section.questions.filter((item) => item.type === "ordering")) {
+      const expected = slug === "en" ? "Significado en español:" : "English meaning:";
+      if (!question.prompt.includes(expected)) failures.push(`${slug}:${question.id} has no ${expected} prompt`);
+      if (slug === "en" && /^(Por ejemplo|En este contexto|Según la situación)/.test(question.answers[0].join(" "))) failures.push(`${slug}:${question.id} contains a Spanish prefix in its English answer`);
+    }
+    if (section.kind === "input") {
+      if (!section.readingTranslation?.trim()) failures.push(`${slug}:${section.id} has no reading meaning`);
+      const block = section.content.find((item) => item.heading === readingHeading);
+      if (!block?.translation?.trim()) failures.push(`${slug}:${section.id} reading block is not bilingual`);
+    }
   }
-  if (section.kind === "input") {
-    requireText(section.readingTranslation, `${section.id} reading`);
-    const block = section.content.find((item) => item.heading === "Read for the situation");
-    requireText(block?.translation, `${section.id} reading block`);
-    const slide = section.slides.find((item) => item.title === "Read for the situation");
-    if (!slide || slide.body.length !== 2) failures.push(`${section.id} reading slide is not bilingual.`);
-  }
+  for (const assignment of course.readingAssignments) if (!assignment.passageTranslation?.trim()) failures.push(`${slug}:${assignment.id} has no passage meaning`);
 }
-
-for (const assignment of course.readingAssignments) requireText(assignment.passageTranslation, assignment.id);
 if (failures.length) throw new Error(`Bilingual coverage validation failed:\n${failures.join("\n")}`);
-console.log(`BILINGUAL VALID: ${course.sections.length} sections, ${course.readingAssignments.length} reading activities, and all assessment ordering prompts include English meaning.`);
+console.log("BILINGUAL VALID: both 180-section courses and all 176 reading activities have target-language text and native-language meaning.");

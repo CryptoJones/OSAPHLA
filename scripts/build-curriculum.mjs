@@ -1,11 +1,12 @@
 import { mkdir, writeFile } from "node:fs/promises";
 import { resolve } from "node:path";
-import { sectionKinds, weeks } from "./course-blueprint.mjs";
+import { sectionKinds as spanishSectionKinds, weeks as spanishBlueprint } from "../courses/es/course-blueprint.mjs";
+import { sectionKinds as englishSectionKinds, weeks as englishBlueprint } from "../courses/en/course-blueprint.mjs";
 
 const ROOT = resolve(import.meta.dirname, "..");
 const OUT = resolve(ROOT, "src/data");
 
-const MODEL_TRANSLATIONS = [
+const SPANISH_MODEL_TRANSLATIONS = [
   ["My name is spelled with five letters.", "The letter h has no sound.", "I listen to and repeat every word.", "Which is the stressed syllable?", "Brief, frequent practice works better."],
   ["Hello, my name is Alex.", "Nice to meet you, Mrs. Rivera.", "What is your name?", "Let me introduce you to my classmate.", "See you tomorrow; have a good day."],
   ["There is a book on the table.", "What is this?", "It is an important question.", "Open your notebooks, please.", "The answers are on page ten."],
@@ -44,7 +45,7 @@ const MODEL_TRANSLATIONS = [
   ["Allow me to clarify what I understood.", "Before acting, we must verify the source.", "I can summarize both positions and justify my recommendation.", "I adapt to the register without imitating an accent.", "My maintenance plan combines reading, listening, conversation, and writing."]
 ];
 
-const READING_TRANSLATIONS = [
+const SPANISH_READING_TRANSLATIONS = [
   "Ana opens her notebook. She listens to a word, marks the stressed syllable, and repeats it. She is not seeking perfection; she seeks one clear improvement each day.",
   "Lucía arrives early. She greets the receptionist with good morning and uses the formal usted. Later she meets Mateo, another student, and they both use the familiar tú.",
   "There are twenty chairs and ten tables in the classroom. The teacher opens a book and writes a question. The students look for the answer in their notebooks.",
@@ -94,9 +95,9 @@ function rotate(array, shift) {
   return array.map((_, index) => array[(index + shift) % array.length]);
 }
 
-function englishPrompt(item) {
-  const hasDefiniteArticle = /^(el|la|los|las)\s/i.test(item.es);
-  return hasDefiniteArticle && !/^the\s/i.test(item.en) ? `the ${item.en}` : item.en;
+function meaningPrompt(item, courseSlug) {
+  const hasDefiniteArticle = courseSlug === "es" && /^(el|la|los|las)\s/i.test(item.target);
+  return hasDefiniteArticle && !/^the\s/i.test(item.meaning) ? `the ${item.meaning}` : item.meaning;
 }
 
 function fixedQuestions(sectionId, week) {
@@ -154,19 +155,19 @@ function fixedQuestions(sectionId, week) {
   return null;
 }
 
-function questionBank(sectionId, week, sectionIndex) {
-  const fixed = fixedQuestions(sectionId, week);
+function questionBank(sectionId, week, sectionIndex, config) {
+  const fixed = config.slug === "es" ? fixedQuestions(sectionId, week) : null;
   if (fixed) return fixed;
   const vocab = rotate(week.vocabulary, sectionIndex);
   const multipleChoice = vocab.map((item, index) => {
-    const distractors = [1, 2, 3].map((offset) => vocab[(index + offset) % vocab.length].es);
+    const distractors = [1, 2, 3].map((offset) => vocab[(index + offset) % vocab.length].target);
     return {
       id: `${sectionId}-mc-${index + 1}`,
       type: "multipleChoice",
-      prompt: `Choose the best Spanish expression for “${englishPrompt(item)}”.`,
-      choices: rotate([item.es, ...distractors], (index + sectionIndex) % 4),
-      answer: item.es,
-      rationale: `“${item.es}” means “${englishPrompt(item)}” in this section’s context.`,
+      prompt: config.copy.multipleChoicePrompt(meaningPrompt(item, config.slug)),
+      choices: rotate([item.target, ...distractors], (index + sectionIndex) % 4),
+      answer: item.target,
+      rationale: config.copy.vocabularyRationale(item.target, meaningPrompt(item, config.slug)),
       objective: week.functions[index % week.functions.length]
     };
   });
@@ -174,197 +175,208 @@ function questionBank(sectionId, week, sectionIndex) {
   const cloze = vocab.map((item, index) => ({
     id: `${sectionId}-cloze-${index + 1}`,
     type: "cloze",
-    prompt: `Complete in Spanish: ${englishPrompt(item)} → ____`,
-    answer: item.es,
-    accepted: [item.es],
-    accentPolicy: week.week < 9 ? "warn" : "required",
-    rationale: `The target expression is “${item.es}”.`,
+    prompt: config.copy.clozePrompt(meaningPrompt(item, config.slug)),
+    answer: item.target,
+    accepted: [item.target],
+    accentPolicy: config.slug === "en" ? "english" : week.week < 9 ? "warn" : "required",
+    rationale: config.copy.targetRationale(item.target),
     objective: week.functions[index % week.functions.length]
   }));
 
-  const orderModels = [
-    ...week.models,
-    `Por ejemplo, ${week.models[0].charAt(0).toLowerCase()}${week.models[0].slice(1)}`,
-    `En este contexto, ${week.models[1].charAt(0).toLowerCase()}${week.models[1].slice(1)}`,
-    `Según la situación, ${week.models[2].charAt(0).toLowerCase()}${week.models[2].slice(1)}`
-  ].slice(0, 8);
-  const orderMeanings = [
-    ...MODEL_TRANSLATIONS[week.week - 1],
-    `For example, ${MODEL_TRANSLATIONS[week.week - 1][0].charAt(0).toLowerCase()}${MODEL_TRANSLATIONS[week.week - 1][0].slice(1)}`,
-    `In this context, ${MODEL_TRANSLATIONS[week.week - 1][1].charAt(0).toLowerCase()}${MODEL_TRANSLATIONS[week.week - 1][1].slice(1)}`,
-    `According to the situation, ${MODEL_TRANSLATIONS[week.week - 1][2].charAt(0).toLowerCase()}${MODEL_TRANSLATIONS[week.week - 1][2].slice(1)}`
-  ].slice(0, 8);
+  const orderModels = [...week.models, ...config.copy.extendedTargets(week.models)].slice(0, 8);
+  const orderMeanings = [...week.modelTranslations, ...config.copy.extendedMeanings(week.modelTranslations)].slice(0, 8);
   const ordering = orderModels.map((sentence, index) => {
     const answer = tokens(sentence);
     return {
       id: `${sectionId}-order-${index + 1}`,
       type: "ordering",
-      prompt: `English meaning: “${orderMeanings[index]}” Put the Spanish words and punctuation in a natural order.`,
+      prompt: config.copy.orderingPrompt(orderMeanings[index]),
       tokens: rotate(answer, (index * 2 + sectionIndex + 1) % answer.length),
       answers: [answer],
-      rationale: `A natural order is: ${sentence} It means: ${orderMeanings[index]}`,
+      rationale: config.copy.orderingRationale(sentence, orderMeanings[index]),
       objective: week.functions[index % week.functions.length]
     };
   });
   return [...multipleChoice, ...cloze, ...ordering];
 }
 
-const readingAssignments = Array.from({ length: 88 }, (_, index) => ({
-  id: `reading-${String(index + 1).padStart(2, "0")}`,
-  label: `Reading activity ${index + 1}`
-}));
-
-function readingSlice(weekNumber) {
-  const start = Math.floor(((weekNumber - 1) * readingAssignments.length) / weeks.length);
-  const end = Math.floor((weekNumber * readingAssignments.length) / weeks.length);
+function readingSlice(readingAssignments, weekNumber, weekCount) {
+  const start = Math.floor(((weekNumber - 1) * readingAssignments.length) / weekCount);
+  const end = Math.floor((weekNumber * readingAssignments.length) / weekCount);
   return readingAssignments.slice(start, Math.max(start + 1, end));
 }
 
-const readingFocuses = [
-  {
-    focus: "Main idea",
-    instructions: "Read once for the overall situation. Read again and state the main idea in one sentence without translating every word.",
-    prompts: ["Who or what is this passage mainly about?", "What is the central action or situation?", "Summarize the passage in one English sentence, then try one Spanish sentence."]
-  },
-  {
-    focus: "Evidence and detail",
-    instructions: "Read for evidence. Locate the exact words that establish people, actions, place, time, and change.",
-    prompts: ["Identify three details stated directly in the passage.", "Which words establish when or where the situation occurs?", "What reasonable inference can you make, and which detail supports it?"]
-  },
-  {
-    focus: "Language and retelling",
-    instructions: "Notice reusable language, then retell the passage from memory. Preserve the meaning even if your wording changes.",
-    prompts: ["Choose three useful words or phrases and explain them in context.", "Retell the events in order without looking back.", "Change one person, time, or place and retell the adapted version."]
-  }
-];
-
-function contentFor(kind, week, readings) {
+function contentFor(kind, week, readings, config) {
   const teaching = week.teaching ?? [];
+  const c = config.copy;
   const shared = {
     briefing: [
-      { heading: "Operational objective", body: `By the end of this section you can ${week.functions.join(", ")}. The focus is useful performance, not isolated terminology.` },
-      { heading: "Language system", body: week.grammar },
-      { heading: "Sound and delivery", body: week.pronunciation },
-      { heading: "Core principle", body: `Notice meaning first, then form. Retrieve the new language aloud, compare it with the model, and repair one feature at a time.` },
+      { heading: c.operationalObjective, body: c.objectiveBody(week.functions) },
+      { heading: c.languageSystem, body: week.grammar },
+      { heading: c.soundAndDelivery, body: week.pronunciation },
+      { heading: c.corePrinciple, body: c.corePrincipleBody },
       ...teaching
     ],
     patterns: [
-      { heading: "Form and meaning", body: week.grammar },
-      { heading: "Model set", body: week.models.join(" "), translation: MODEL_TRANSLATIONS[week.week - 1].join(" ") },
-      { heading: "Contrastive practice", body: `Change the person, time, number, or level of formality in each model. Preserve the communicative purpose while the grammar changes.` },
-      { heading: "Production check", body: `Say one original sentence for each function: ${week.functions.join("; ")}. Then write it and compare the spoken and written forms.` },
+      { heading: c.formAndMeaning, body: week.grammar },
+      { heading: c.modelSet, body: week.models.join(" "), translation: week.modelTranslations.join(" ") },
+      { heading: c.contrastivePractice, body: c.contrastivePracticeBody },
+      { heading: c.productionCheck, body: c.productionCheckBody(week.functions) },
       ...teaching
     ],
     input: [
-      { heading: "Read for the situation", body: week.reading, translation: READING_TRANSLATIONS[week.week - 1] },
-      { heading: "Read again for evidence", body: `Identify who acts, what changes, when it happens, and which words establish the relationship between events.` },
-      { heading: "Reading activities", body: readings.map((activity) => activity.label).join("; ") },
-      { heading: "Retell", body: `Without looking back, give the main idea, three supporting details, and one reasonable inference in Spanish.` }
+      { heading: c.readForSituation, body: week.reading, translation: week.readingTranslation },
+      { heading: c.readForEvidence, body: c.readForEvidenceBody },
+      { heading: c.readingActivities, body: readings.map((activity) => activity.label).join("; ") },
+      { heading: c.retell, body: c.retellBody }
     ],
     culture: [
-      { heading: "Cultural lens", body: week.culture },
-      { heading: "Avoid the single-story trap", body: `Treat country, region, age, relationship, and setting as variables. Describe the evidence you have without turning one example into a universal rule.` },
-      { heading: "Language variation", body: `Recognize regional choices and ask what a form means locally. Use the neutral course model for production until the situation gives you a reason to adapt.` },
-      { heading: "Reflection", body: `Compare this context with one you know. Name one similarity, one difference, and one question that would prevent an assumption.` }
+      { heading: c.culturalLens, body: week.culture },
+      { heading: c.singleStory, body: c.singleStoryBody },
+      { heading: c.languageVariation, body: c.languageVariationBody },
+      { heading: c.reflection, body: c.reflectionBody }
     ],
     mission: [
-      { heading: "Mission brief", body: week.mission },
-      { heading: "Preparation", body: `Select ten useful words, three linking expressions, and two repair phrases. Plan points rather than a memorized paragraph.` },
-      { heading: "Performance", body: `Complete the task once for fluency, review the evidence, then repeat it for greater clarity and accuracy.` },
-      { heading: "After-action review", body: `Record what succeeded, what blocked communication, and the single change that will matter most on the next attempt.` }
+      { heading: c.missionBrief, body: week.mission },
+      { heading: c.preparation, body: c.preparationBody },
+      { heading: c.performance, body: c.performanceBody },
+      { heading: c.afterAction, body: c.afterActionBody }
     ]
   };
   return shared[kind];
 }
 
-function slidesFor(kind, week, content) {
-  const translations = MODEL_TRANSLATIONS[week.week - 1];
+function slidesFor(kind, week, content, config) {
   return [
-    { title: `Week ${week.week}: ${week.title}`, kicker: kind.label, body: week.functions },
+    { title: config.copy.weekTitle(week.week, week.title), kicker: kind.label, body: week.functions },
     ...content.map((block) => ({ title: block.heading, body: [block.body, block.translation].filter(Boolean) })),
-    { title: "Model language", body: week.models.map((model, index) => `${model} — ${translations[index]}`) },
-    { title: "Check your readiness", body: ["Explain the core idea.", "Produce an original example.", "Complete the section assessment at 85% or higher."] }
+    { title: config.copy.modelLanguage, body: week.models.map((model, index) => `${model} — ${week.modelTranslations[index]}`) },
+    { title: config.copy.checkReadiness, body: config.copy.readinessItems }
   ];
 }
 
-const sections = [];
-const modules = weeks.map((week) => {
-  const inputSectionId = `w${String(week.week).padStart(2, "0")}-input`;
-  const readings = readingSlice(week.week).map((assignment, index) => Object.assign(assignment, {
-    title: `${week.title}: ${readingFocuses[index].focus}`,
-    week: week.week,
-    sectionId: inputSectionId,
-    passage: week.reading,
-    passageTranslation: READING_TRANSLATIONS[week.week - 1],
-    ...readingFocuses[index]
-  }));
-  const modelTranslations = MODEL_TRANSLATIONS[week.week - 1];
-  const moduleSections = sectionKinds.map((kind, dayIndex) => {
-    const number = (week.week - 1) * 5 + dayIndex + 1;
-    const id = `w${String(week.week).padStart(2, "0")}-${kind.key}`;
-    const content = contentFor(kind.key, week, readings);
-    const section = {
-      id,
-      number,
-      week: week.week,
-      day: dayIndex + 1,
-      phase: week.phase,
-      level: week.level,
-      kind: kind.key,
-      title: `${kind.label}: ${week.title}`,
-      subtitle: kind.purpose,
-      objectives: week.functions,
-      grammar: week.grammar,
-      pronunciation: week.pronunciation,
-      content,
-      vocabulary: week.vocabulary.map((item) => ({ ...item, en: englishPrompt(item) })),
-      modelSentences: week.models,
-      modelTranslations,
-      reading: kind.key === "input" ? week.reading : undefined,
-      readingTranslation: kind.key === "input" ? READING_TRANSLATIONS[week.week - 1] : undefined,
-      culture: kind.key === "culture" ? week.culture : undefined,
-      mission: kind.key === "mission" ? week.mission : undefined,
-      readingAssignments: kind.key === "input" ? readings : [],
-      slides: slidesFor(kind, week, content),
-      media: {
-        adaptive: true,
-        audio: `media/${id}/narration.mp3`,
-        video: `media/${id}/lesson.mp4`,
-        captions: `media/${id}/captions.vtt`,
-        transcript: content.map((block) => `${block.heading}. ${block.body}${block.translation ? ` English meaning: ${block.translation}` : ""}`).join("\n\n")
-      },
-      questions: questionBank(id, week, dayIndex),
-      masteryThreshold: 0.85,
-      estimatedMinutes: kind.key === "mission" ? 55 : kind.key === "input" ? 45 : 35
-    };
-    sections.push(section);
-    return id;
-  });
-  return {
-    week: week.week,
-    phase: week.phase,
-    level: week.level,
-    title: week.title,
-    canDo: week.functions,
-    sectionIds: moduleSections,
-    readingAssignments: readings
-  };
-});
-
-const course = {
-  schemaVersion: 1,
-  id: "espanol-pan-hispanic-academy",
-  title: "OSAPHLA",
-  subtitle: "Open Source Accessible Pan-Hispanic Language Academy",
-  description: "An open-source, accessible, 36-week, 180-section, offline-first Spanish course targeting an ILR 2 core with ILR 2+/2+/2 stretch preparation.",
+const shared = {
   target: "ILR 2 core; ILR 2+/2+/2 stretch preparation",
-  disclaimer: "Course scores and speaking feedback are formative and do not constitute an official ILR rating.",
-  modules,
-  sections,
-  readingAssignments,
-  generatedAt: new Date().toISOString()
+  disclaimer: {
+    es: "Course scores and speaking feedback are formative and do not constitute an official ILR rating.",
+    en: "Las puntuaciones y la retroalimentación oral son formativas y no constituyen una calificación ILR oficial."
+  }
 };
 
-await mkdir(OUT, { recursive: true });
-await writeFile(resolve(OUT, "course.json"), `${JSON.stringify(course, null, 2)}\n`);
-console.log(`Generated ${modules.length} weeks, ${sections.length} sections, ${sections.reduce((n, s) => n + s.questions.length, 0)} questions, and ${readingAssignments.length} reading assignments.`);
+const englishCopy = {
+  operationalObjective: "Operational objective", languageSystem: "Language system", soundAndDelivery: "Sound and delivery", corePrinciple: "Core principle",
+  objectiveBody: (items) => `By the end of this section you can ${items.join(", ")}. The focus is useful performance, not isolated terminology.`,
+  corePrincipleBody: "Notice meaning first, then form. Retrieve the new language aloud, compare it with the model, and repair one feature at a time.",
+  formAndMeaning: "Form and meaning", modelSet: "Model set", contrastivePractice: "Contrastive practice", productionCheck: "Production check",
+  contrastivePracticeBody: "Change the person, time, number, or level of formality in each model. Preserve the communicative purpose while the grammar changes.",
+  productionCheckBody: (items) => `Say one original sentence for each function: ${items.join("; ")}. Then write it and compare the spoken and written forms.`,
+  readForSituation: "Read for the situation", readForEvidence: "Read again for evidence", readingActivities: "Reading activities", retell: "Retell",
+  readForEvidenceBody: "Identify who acts, what changes, when it happens, and which words establish the relationship between events.",
+  retellBody: "Without looking back, give the main idea, three supporting details, and one reasonable inference in Spanish.",
+  culturalLens: "Cultural lens", singleStory: "Avoid the single-story trap", languageVariation: "Language variation", reflection: "Reflection",
+  singleStoryBody: "Treat country, region, age, relationship, and setting as variables. Describe the evidence you have without turning one example into a universal rule.",
+  languageVariationBody: "Recognize regional choices and ask what a form means locally. Use the neutral course model for production until the situation gives you a reason to adapt.",
+  reflectionBody: "Compare this context with one you know. Name one similarity, one difference, and one question that would prevent an assumption.",
+  missionBrief: "Mission brief", preparation: "Preparation", performance: "Performance", afterAction: "After-action review",
+  preparationBody: "Select ten useful words, three linking expressions, and two repair phrases. Plan points rather than a memorized paragraph.",
+  performanceBody: "Complete the task once for fluency, review the evidence, then repeat it for greater clarity and accuracy.",
+  afterActionBody: "Record what succeeded, what blocked communication, and the single change that will matter most on the next attempt.",
+  weekTitle: (week, title) => `Week ${week}: ${title}`, modelLanguage: "Model language", checkReadiness: "Check your readiness",
+  readinessItems: ["Explain the core idea.", "Produce an original example.", "Complete the section assessment at 85% or higher."],
+  multipleChoicePrompt: (meaning) => `Choose the best Spanish expression for “${meaning}”.`,
+  vocabularyRationale: (target, meaning) => `“${target}” means “${meaning}” in this section's context.`,
+  clozePrompt: (meaning) => `Complete in Spanish: ${meaning} → ____`, targetRationale: (target) => `The target expression is “${target}”.`,
+  extendedTargets: (items) => [`Por ejemplo, ${items[0].charAt(0).toLowerCase()}${items[0].slice(1)}`, `En este contexto, ${items[1].charAt(0).toLowerCase()}${items[1].slice(1)}`, `Según la situación, ${items[2].charAt(0).toLowerCase()}${items[2].slice(1)}`],
+  extendedMeanings: (items) => [`For example, ${items[0].charAt(0).toLowerCase()}${items[0].slice(1)}`, `In this context, ${items[1].charAt(0).toLowerCase()}${items[1].slice(1)}`, `According to the situation, ${items[2].charAt(0).toLowerCase()}${items[2].slice(1)}`],
+  orderingPrompt: (meaning) => `English meaning: “${meaning}” Put the Spanish words and punctuation in a natural order.`,
+  orderingRationale: (target, meaning) => `A natural order is: ${target} It means: ${meaning}`
+};
+
+const spanishCopy = {
+  operationalObjective: "Objetivo operativo", languageSystem: "Sistema lingüístico", soundAndDelivery: "Sonido y producción", corePrinciple: "Principio central",
+  objectiveBody: (items) => `Al terminar esta sección podrás ${items.join(", ")}. El objetivo es el desempeño útil, no la terminología aislada.`,
+  corePrincipleBody: "Observa primero el significado y después la forma. Recupera el inglés en voz alta, compáralo con el modelo y corrige un rasgo a la vez.",
+  formAndMeaning: "Forma y significado", modelSet: "Conjunto de modelos", contrastivePractice: "Práctica contrastiva", productionCheck: "Comprobación de producción",
+  contrastivePracticeBody: "Cambia la persona, el tiempo, el número o el grado de formalidad de cada modelo sin perder su propósito comunicativo.",
+  productionCheckBody: (items) => `Di una oración original para cada función: ${items.join("; ")}. Después escríbela y compara las formas oral y escrita.`,
+  readForSituation: "Lee para entender la situación", readForEvidence: "Lee de nuevo para buscar evidencia", readingActivities: "Actividades de lectura", retell: "Reconstrucción",
+  readForEvidenceBody: "Identifica quién actúa, qué cambia, cuándo ocurre y qué palabras establecen la relación entre los acontecimientos.",
+  retellBody: "Sin mirar el texto, expresa la idea principal, tres detalles y una inferencia razonable en inglés.",
+  culturalLens: "Lente cultural", singleStory: "Evita una sola historia", languageVariation: "Variación lingüística", reflection: "Reflexión",
+  singleStoryBody: "Considera país, región, edad, relación y situación como variables. Describe la evidencia sin convertir un ejemplo en regla universal.",
+  languageVariationBody: "Reconoce variantes y pregunta qué significa una forma localmente. Usa el modelo estadounidense del curso hasta que la situación justifique adaptarlo.",
+  reflectionBody: "Compara este contexto con uno que conozcas. Indica una semejanza, una diferencia y una pregunta que evite una suposición.",
+  missionBrief: "Instrucciones de la misión", preparation: "Preparación", performance: "Ejecución", afterAction: "Revisión posterior",
+  preparationBody: "Selecciona diez palabras útiles, tres conectores y dos frases de reparación. Planifica ideas, no un párrafo memorizado.",
+  performanceBody: "Completa la tarea una vez para ganar fluidez, revisa la evidencia y repítela con más claridad y precisión.",
+  afterActionBody: "Registra qué funcionó, qué bloqueó la comunicación y cuál será el cambio más importante para el próximo intento.",
+  weekTitle: (week, title) => `Semana ${week}: ${title}`, modelLanguage: "Lenguaje modelo", checkReadiness: "Comprueba tu preparación",
+  readinessItems: ["Explica la idea central.", "Produce un ejemplo original.", "Completa la evaluación con un 85 % o más."],
+  multipleChoicePrompt: (meaning) => `Elige la mejor expresión en inglés para “${meaning}”.`,
+  vocabularyRationale: (target, meaning) => `“${target}” significa “${meaning}” en el contexto de esta sección.`,
+  clozePrompt: (meaning) => `Completa en inglés: ${meaning} → ____`, targetRationale: (target) => `La expresión meta es “${target}”.`,
+  extendedTargets: (items) => [`For example, ${items[0].charAt(0).toLowerCase()}${items[0].slice(1)}`, `In this context, ${items[1].charAt(0).toLowerCase()}${items[1].slice(1)}`, `According to the situation, ${items[2].charAt(0).toLowerCase()}${items[2].slice(1)}`],
+  extendedMeanings: (items) => [`Por ejemplo: ${items[0].charAt(0).toLowerCase()}${items[0].slice(1)}`, `En este contexto: ${items[1].charAt(0).toLowerCase()}${items[1].slice(1)}`, `Según la situación: ${items[2].charAt(0).toLowerCase()}${items[2].slice(1)}`],
+  orderingPrompt: (meaning) => `Significado en español: “${meaning}” Ordena las palabras y la puntuación en inglés.`,
+  orderingRationale: (target, meaning) => `Un orden natural es: ${target} Significa: ${meaning}`
+};
+
+const configs = {
+  es: {
+    slug: "es", id: "espanol-pan-hispanic-academy", targetLocale: "es-419", instructionLocale: "en-US", flags: ["🇲🇽", "🇪🇸", "🇵🇪", "🇨🇴", "🇦🇷"],
+    title: "OSAPHLA · Spanish", subtitle: "Spanish for English speakers", description: "An accessible, 36-week, 180-section, offline-first Spanish course targeting an ILR 2 core with ILR 2+/2+/2 stretch preparation.",
+    weeks: spanishBlueprint.map((week, index) => ({ ...week, vocabulary: week.vocabulary.map((item) => ({ ...item, target: item.es, meaning: meaningPrompt({ target: item.es, meaning: item.en }, "es") })), modelTranslations: SPANISH_MODEL_TRANSLATIONS[index], readingTranslation: SPANISH_READING_TRANSLATIONS[index] })),
+    sectionKinds: spanishSectionKinds, copy: englishCopy,
+    readingFocuses: [
+      { focus: "Main idea", instructions: "Read once for the overall situation. Read again and state the main idea in one sentence without translating every word.", prompts: ["Who or what is this passage mainly about?", "What is the central action or situation?", "Summarize the passage in one English sentence, then try one Spanish sentence."] },
+      { focus: "Evidence and detail", instructions: "Read for evidence. Locate the exact words that establish people, actions, place, time, and change.", prompts: ["Identify three details stated directly in the passage.", "Which words establish when or where the situation occurs?", "What reasonable inference can you make, and which detail supports it?"] },
+      { focus: "Language and retelling", instructions: "Notice reusable language, then retell the passage from memory. Preserve the meaning even if your wording changes.", prompts: ["Choose three useful words or phrases and explain them in context.", "Retell the events in order without looking back.", "Change one person, time, or place and retell the adapted version."] }
+    ],
+    readingLabel: (number) => `Reading activity ${number}`
+  },
+  en: {
+    slug: "en", id: "english-for-spanish-speakers", targetLocale: "en-US", instructionLocale: "es-419", flags: ["🇺🇸", "🇬🇧"],
+    title: "OSAPHLA · English", subtitle: "Inglés para hispanohablantes", description: "Un curso de inglés accesible, sin conexión, de 36 semanas y 180 secciones, con núcleo ILR 2 y preparación avanzada ILR 2+/2+/2.",
+    weeks: englishBlueprint, sectionKinds: englishSectionKinds, copy: spanishCopy,
+    readingFocuses: [
+      { focus: "Idea principal", instructions: "Lee una vez para entender la situación general. Lee de nuevo y expresa la idea principal sin traducir cada palabra.", prompts: ["¿De quién o de qué trata principalmente?", "¿Cuál es la acción o situación central?", "Resume el texto en una oración en español y después intenta una en inglés."] },
+      { focus: "Evidencia y detalle", instructions: "Busca las palabras exactas que establecen personas, acciones, lugar, tiempo y cambio.", prompts: ["Identifica tres detalles expresados directamente.", "¿Qué palabras establecen cuándo o dónde ocurre?", "¿Qué inferencia razonable puedes hacer y qué detalle la respalda?"] },
+      { focus: "Lenguaje y reconstrucción", instructions: "Observa expresiones reutilizables y reconstruye el texto de memoria sin cambiar su significado.", prompts: ["Elige tres expresiones útiles y explícalas en contexto.", "Cuenta los acontecimientos en orden sin mirar.", "Cambia una persona, un momento o un lugar y cuenta la versión adaptada."] }
+    ],
+    readingLabel: (number) => `Actividad de lectura ${number}`
+  }
+};
+
+async function buildCourse(config) {
+  const readingAssignments = Array.from({ length: 88 }, (_, index) => ({ id: `reading-${String(index + 1).padStart(2, "0")}`, label: config.readingLabel(index + 1) }));
+  const sections = [];
+  const modules = config.weeks.map((week) => {
+    const inputSectionId = `w${String(week.week).padStart(2, "0")}-input`;
+    const readings = readingSlice(readingAssignments, week.week, config.weeks.length).map((assignment, index) => Object.assign(assignment, { title: `${week.title}: ${config.readingFocuses[index].focus}`, week: week.week, sectionId: inputSectionId, passage: week.reading, passageTranslation: week.readingTranslation, ...config.readingFocuses[index] }));
+    const moduleSections = config.sectionKinds.map((kind, dayIndex) => {
+      const number = (week.week - 1) * 5 + dayIndex + 1;
+      const id = `w${String(week.week).padStart(2, "0")}-${kind.key}`;
+      const content = contentFor(kind.key, week, readings, config);
+      const section = {
+        id, number, week: week.week, day: dayIndex + 1, phase: week.phase, level: week.level, kind: kind.key,
+        title: `${kind.label}: ${week.title}`, subtitle: kind.purpose, objectives: week.functions, grammar: week.grammar, pronunciation: week.pronunciation,
+        content, vocabulary: week.vocabulary.map(({ target, meaning }) => ({ target, meaning })), modelSentences: week.models, modelTranslations: week.modelTranslations,
+        reading: kind.key === "input" ? week.reading : undefined, readingTranslation: kind.key === "input" ? week.readingTranslation : undefined,
+        culture: kind.key === "culture" ? week.culture : undefined, mission: kind.key === "mission" ? week.mission : undefined,
+        readingAssignments: kind.key === "input" ? readings : [], slides: slidesFor(kind, week, content, config),
+        media: { adaptive: true, audio: `media/${config.slug}/${id}/narration.mp3`, video: `media/${config.slug}/${id}/lesson.mp4`, captions: `media/${config.slug}/${id}/captions.vtt`, transcript: content.map((block) => `${block.heading}. ${block.body}${block.translation ? ` ${block.translation}` : ""}`).join("\n\n") },
+        questions: questionBank(id, week, dayIndex, config), masteryThreshold: 0.85, estimatedMinutes: kind.key === "mission" ? 55 : kind.key === "input" ? 45 : 35
+      };
+      sections.push(section); return id;
+    });
+    return { week: week.week, phase: week.phase, level: week.level, title: week.title, canDo: week.functions, sectionIds: moduleSections, readingAssignments: readings };
+  });
+  const course = { schemaVersion: 2, slug: config.slug, id: config.id, title: config.title, subtitle: config.subtitle, description: config.description, targetLocale: config.targetLocale, instructionLocale: config.instructionLocale, flags: config.flags, target: shared.target, disclaimer: shared.disclaimer[config.slug], modules, sections, readingAssignments };
+  const directory = resolve(OUT, config.slug); await mkdir(directory, { recursive: true });
+  await writeFile(resolve(directory, "course.json"), `${JSON.stringify(course, null, 2)}\n`);
+  console.log(`Generated ${config.slug}: ${modules.length} weeks, ${sections.length} sections, ${sections.reduce((n, section) => n + section.questions.length, 0)} questions, and ${readingAssignments.length} reading assignments.`);
+}
+
+const requested = process.argv.includes("--course") ? process.argv[process.argv.indexOf("--course") + 1] : "all";
+if (!["es", "en", "all"].includes(requested)) throw new Error(`Unknown course: ${requested}`);
+for (const config of Object.values(configs).filter((item) => requested === "all" || item.slug === requested)) await buildCourse(config);

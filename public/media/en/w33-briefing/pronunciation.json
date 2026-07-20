@@ -1,0 +1,465 @@
+{
+  "profile": "bella",
+  "utterances": [
+    {
+      "file": "00.wav",
+      "text": "Semana 33: Historia, sociedad y perspectivas. resumir un desarrollo histórico distinguir hecho de interpretación comparar perspectivas",
+      "sentences": [
+        {
+          "text": "Semana 33: Historia, sociedad y perspectivas.",
+          "segments": [
+            {
+              "text": "Semana 33: Historia, sociedad y perspectivas.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "semˈana tɾˌeɪntaitɾˈes: istˈoɾja, sˌosjeðˈað i pˌeɾspektˈiβas."
+        },
+        {
+          "text": "resumir un desarrollo histórico distinguir hecho de interpretación comparar perspectivas",
+          "segments": [
+            {
+              "text": "resumir un desarrollo histórico distinguir hecho de interpretación comparar perspectivas",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "rˌesumˈiɾ ˈun dˌesarˈojjo istˈoɾiko ðˌistiŋɡˈiɾ ˈetʃo ðe ˌinteɾpɾˌetasjˈon kˌompaɾˈaɾ pˌeɾspektˈiβas"
+        }
+      ]
+    },
+    {
+      "file": "01.wav",
+      "text": "Objetivo operativo. Al terminar esta sección podrás resumir un desarrollo histórico, distinguir hecho de interpretación, comparar perspectivas. El objetivo es el desempeño útil, no la terminología aislada.",
+      "sentences": [
+        {
+          "text": "Objetivo operativo.",
+          "segments": [
+            {
+              "text": "Objetivo operativo.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˌoβxetˈiβo ˌopeɾatˈiβo."
+        },
+        {
+          "text": "Al terminar esta sección podrás resumir un desarrollo histórico, distinguir hecho de interpretación, comparar perspectivas.",
+          "segments": [
+            {
+              "text": "Al terminar esta sección podrás resumir un desarrollo histórico, distinguir hecho de interpretación, comparar perspectivas.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "al tˌeɾminˈaɾ ˈesta seksjˈom poðɾˈas rˌesumˈiɾ ˈun dˌesarˈojjo istˈoɾiko, dˌistiŋɡˈiɾ ˈetʃo ðe ˌinteɾpɾˌetasjˈon, kˌompaɾˈaɾ pˌeɾspektˈiβas."
+        },
+        {
+          "text": "El objetivo es el desempeño útil, no la terminología aislada.",
+          "segments": [
+            {
+              "text": "El objetivo es el desempeño útil, no la terminología aislada.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "el ˌoβxetˈiβo ˈes el ðˌesempˈeɲo ˈutil, nˈo la tˌeɾminˌoloxˈia aɪslˈaða."
+        }
+      ]
+    },
+    {
+      "file": "02.wav",
+      "text": "Sistema lingüístico. Past perfect; evidencia reportada; although/even though; causa, consecuencia, concesión y contraargumento.",
+      "sentences": [
+        {
+          "text": "Sistema lingüístico.",
+          "segments": [
+            {
+              "text": "Sistema lingüístico.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "sistˈema lˌiŋɡuˈistiko."
+        },
+        {
+          "text": "Past perfect; evidencia reportada; although/even though; causa, consecuencia, concesión y contraargumento.",
+          "segments": [
+            {
+              "text": "Past perfect",
+              "lang": "en-us"
+            },
+            {
+              "text": "; evidencia reportada; ",
+              "lang": "es-419"
+            },
+            {
+              "text": "although",
+              "lang": "en-us"
+            },
+            {
+              "text": "/",
+              "lang": "es-419"
+            },
+            {
+              "text": "even though",
+              "lang": "en-us"
+            },
+            {
+              "text": "; causa, consecuencia, concesión y contraargumento.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "pˈæst pˈɜːfɛkt ; ˌeβiðˈɛnsja rˌepoɾtˈaða; ɔːlðˈoʊ bˈara ˈiːvən ðˌoʊ ; kˈaʊsa, kˌonsekwˈɛnsja, kˌonsesjˈon i kˌontɾaˌaɾɣumˈɛnto."
+        }
+      ]
+    },
+    {
+      "file": "03.wav",
+      "text": "Sonido y producción. Entonación de párrafo para afirmación, evidencia, matiz y conclusión.",
+      "sentences": [
+        {
+          "text": "Sonido y producción.",
+          "segments": [
+            {
+              "text": "Sonido y producción.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "sonˈiðo i pɾˌoðuksjˈon."
+        },
+        {
+          "text": "Entonación de párrafo para afirmación, evidencia, matiz y conclusión.",
+          "segments": [
+            {
+              "text": "Entonación de párrafo para afirmación, evidencia, matiz y conclusión.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˌentonasjˈon de pˈarafo pˌaɾa ˌafiɾmasjˈon, ˌeβiðˈɛnsja, matˈis i kˌonklusjˈon."
+        }
+      ]
+    },
+    {
+      "file": "04.wav",
+      "text": "Principio central. Observa primero el significado y después la forma. Recupera el inglés en voz alta, compáralo con el modelo y corrige un rasgo a la vez.",
+      "sentences": [
+        {
+          "text": "Principio central.",
+          "segments": [
+            {
+              "text": "Principio central.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "pɾinsˈipjo sentɾˈal."
+        },
+        {
+          "text": "Observa primero el significado y después la forma.",
+          "segments": [
+            {
+              "text": "Observa primero el significado y después la forma.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "oβsˈeɾβa pɾimˈeɾo el sˌiɡnifikˈaðo i ðespwˈes la fˈoɾma."
+        },
+        {
+          "text": "Recupera el inglés en voz alta, compáralo con el modelo y corrige un rasgo a la vez.",
+          "segments": [
+            {
+              "text": "Recupera el inglés en voz alta, compáralo con el modelo y corrige un rasgo a la vez.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "rˌekupˈeɾa el iŋɡlˈes em bˈos ˈalta, kompˈaɾalo kon el moðˈelo i korˈixe ˈun rˈasɣo a la βˈes."
+        }
+      ]
+    },
+    {
+      "file": "05.wav",
+      "text": "Lenguaje modelo. The source says that the reform expanded rights. — La fuente dice que la reforma amplió derechos. Others argue that inequality continued. — Otros sostienen que continuó la desigualdad. Many people had already emigrated when the government changed. — Muchas personas ya habían emigrado cuando cambió el gobierno. Although the facts are clear, their meaning is debated. — Aunque los hechos están claros, se debate su significado. The testimony offers a personal perspective. — El testimonio ofrece una perspectiva personal.",
+      "sentences": [
+        {
+          "text": "Lenguaje modelo.",
+          "segments": [
+            {
+              "text": "Lenguaje modelo.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "leŋɡwˈaxe moðˈelo."
+        },
+        {
+          "text": "The source says that the reform expanded rights.",
+          "segments": [
+            {
+              "text": "The source says that the reform expanded rights.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðə sˈɔːɹs sˈɛz ðætðə ɹᵻfˈɔːɹm ɛkspˈændᵻd ɹˈaɪts."
+        },
+        {
+          "text": "— La fuente dice que la reforma amplió derechos.",
+          "segments": [
+            {
+              "text": "— La fuente dice que la reforma amplió derechos.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— la fwˈɛnte ðˈise ke la refˈoɾma ˌampliˈo ðeɾˈetʃos."
+        },
+        {
+          "text": "Others argue that inequality continued.",
+          "segments": [
+            {
+              "text": "Others argue that inequality continued.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ˈʌðɚz ˈɑːɹɡjuː ðæt ɪniːkwˈɔlᵻɾi kəntˈɪnjuːd."
+        },
+        {
+          "text": "— Otros sostienen que continuó la desigualdad.",
+          "segments": [
+            {
+              "text": "— Otros sostienen que continuó la desigualdad.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— ˈotɾos sostjˈenen ke kˌontinwˈo la ðˌesiɣwalðˈad."
+        },
+        {
+          "text": "Many people had already emigrated when the government changed.",
+          "segments": [
+            {
+              "text": "Many people had already emigrated when the government changed.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "mˈɛni pˈiːpəl hæd ɔːlɹˌɛdi ˈɛmɪɡɹˌeɪɾᵻd wɛn ðə ɡˈʌvɚnmənt tʃˈeɪndʒd."
+        },
+        {
+          "text": "— Muchas personas ya habían emigrado cuando cambió el gobierno.",
+          "segments": [
+            {
+              "text": "— Muchas personas ya habían emigrado cuando cambió el gobierno.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— mˈutʃas peɾsˈonas ʝˈa aβˈian ˌemiɣɾˈaðo kwˌando kambjˈo el ɣoβjˈeɾno."
+        },
+        {
+          "text": "Although the facts are clear, their meaning is debated.",
+          "segments": [
+            {
+              "text": "Although the facts are clear, their meaning is debated.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɔːlðˈoʊ ðə fˈækts ɑːɹ klˈɪɹ, ðɛɹ mˈiːnɪŋ ɪz dᵻbˈeɪɾᵻd."
+        },
+        {
+          "text": "— Aunque los hechos están claros, se debate su significado.",
+          "segments": [
+            {
+              "text": "— Aunque los hechos están claros, se debate su significado.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— ˌaʊnke los ˈetʃos estˈan klˈaɾos, se ðeβˈate su sˌiɡnifikˈaðo."
+        },
+        {
+          "text": "The testimony offers a personal perspective.",
+          "segments": [
+            {
+              "text": "The testimony offers a personal perspective.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðə tˈɛstᵻməni ˈɔfɚz ɐ pˈɜːsənəl pɚspˈɛktɪv."
+        },
+        {
+          "text": "— El testimonio ofrece una perspectiva personal.",
+          "segments": [
+            {
+              "text": "— El testimonio ofrece una perspectiva personal.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— el tˌestimˈonjo ofɾˈese ˈuna pˌeɾspektˈiβa pˌeɾsonˈal."
+        }
+      ]
+    },
+    {
+      "file": "06.wav",
+      "text": "Comprueba tu preparación. Explica la idea central. Produce un ejemplo original. Completa la evaluación con un 85 % o más.",
+      "sentences": [
+        {
+          "text": "Comprueba tu preparación.",
+          "segments": [
+            {
+              "text": "Comprueba tu preparación.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kˌompɾuˈeβa tu pɾˌepaɾasjˈon."
+        },
+        {
+          "text": "Explica la idea central.",
+          "segments": [
+            {
+              "text": "Explica la idea central.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "eksplˈika la iðˈea sentɾˈal."
+        },
+        {
+          "text": "Produce un ejemplo original.",
+          "segments": [
+            {
+              "text": "Produce un ejemplo original.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "pɾoðˈuse ˈun exˈemplo ˌoɾixinˈal."
+        },
+        {
+          "text": "Completa la evaluación con un 85 % o más.",
+          "segments": [
+            {
+              "text": "Completa la evaluación con un 85 % o más.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "komplˈeta la ˌeβaluasjˈon kon ˈun otʃˌɛntaisˈinko poɾsjˈɛnto o mˈas."
+        }
+      ]
+    },
+    {
+      "file": "vocab-00.wav",
+      "text": "a source",
+      "sentences": [
+        {
+          "text": "a source",
+          "segments": [
+            {
+              "text": "a source",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɐ sˈɔːɹs"
+        }
+      ]
+    },
+    {
+      "file": "vocab-01.wav",
+      "text": "evidence",
+      "sentences": [
+        {
+          "text": "evidence",
+          "segments": [
+            {
+              "text": "evidence",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ˈɛvɪdəns"
+        }
+      ]
+    },
+    {
+      "file": "vocab-02.wav",
+      "text": "a claim",
+      "sentences": [
+        {
+          "text": "a claim",
+          "segments": [
+            {
+              "text": "a claim",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɐ klˈeɪm"
+        }
+      ]
+    },
+    {
+      "file": "vocab-03.wav",
+      "text": "a perspective",
+      "sentences": [
+        {
+          "text": "a perspective",
+          "segments": [
+            {
+              "text": "a perspective",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɐ pɚspˈɛktɪv"
+        }
+      ]
+    },
+    {
+      "file": "vocab-04.wav",
+      "text": "although",
+      "sentences": [
+        {
+          "text": "although",
+          "segments": [
+            {
+              "text": "although",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɔːlðˈoʊ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-05.wav",
+      "text": "therefore",
+      "sentences": [
+        {
+          "text": "therefore",
+          "segments": [
+            {
+              "text": "therefore",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðˈɛɹfɔːɹ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-06.wav",
+      "text": "to argue",
+      "sentences": [
+        {
+          "text": "to argue",
+          "segments": [
+            {
+              "text": "to argue",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tʊ ˈɑːɹɡjuː"
+        }
+      ]
+    },
+    {
+      "file": "vocab-07.wav",
+      "text": "to interpret",
+      "sentences": [
+        {
+          "text": "to interpret",
+          "segments": [
+            {
+              "text": "to interpret",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tʊ ɪntˈɜːpɹɪt"
+        }
+      ]
+    }
+  ]
+}

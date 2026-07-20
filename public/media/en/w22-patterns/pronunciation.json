@@ -1,0 +1,541 @@
+{
+  "profile": "michael",
+  "utterances": [
+    {
+      "file": "00.wav",
+      "text": "Semana 22: Referencia, reflexivos y verbos frasales. informar accidentes dar instrucciones concisas mantener referencias claras",
+      "sentences": [
+        {
+          "text": "Semana 22: Referencia, reflexivos y verbos frasales.",
+          "segments": [
+            {
+              "text": "Semana 22: Referencia, reflexivos y verbos frasales.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "semˈana βˌeɪntiðˈos: rˌefeɾˈɛnsja, rˌefleksˈiβos i βˈeɾβos fɾasˈales."
+        },
+        {
+          "text": "informar accidentes dar instrucciones concisas mantener referencias claras",
+          "segments": [
+            {
+              "text": "informar accidentes dar instrucciones concisas mantener referencias claras",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˌinfoɾmˈaɾ ˌaksiðˈɛntes ðˈaɾ ˌinstɾuksjˈones konsˈisas mˌantenˈeɾ rˌefeɾˈɛnsjas klˈaɾas"
+        }
+      ]
+    },
+    {
+      "file": "01.wav",
+      "text": "Forma y significado. Pronombres reflexivos y recíprocos; referencia clara; posición de objetos con verbos frasales separables; one/ones.",
+      "sentences": [
+        {
+          "text": "Forma y significado.",
+          "segments": [
+            {
+              "text": "Forma y significado.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "fˈoɾma i sˌiɡnifikˈaðo."
+        },
+        {
+          "text": "Pronombres reflexivos y recíprocos; referencia clara; posición de objetos con verbos frasales separables; one/ones.",
+          "segments": [
+            {
+              "text": "Pronombres reflexivos y recíprocos; referencia clara; posición de objetos con verbos frasales separables; ",
+              "lang": "es-419"
+            },
+            {
+              "text": "one",
+              "lang": "en-us"
+            },
+            {
+              "text": "/",
+              "lang": "es-419"
+            },
+            {
+              "text": "ones",
+              "lang": "en-us"
+            },
+            {
+              "text": ".",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "pɾonˈombɾes rˌefleksˈiβos i resˈipɾokos; rˌefeɾˈɛnsja klˈaɾa; pˌosisjˈon de oβxˈetos kom bˈeɾβos fɾasˈales sˌepaɾˈaβles; wˌʌn bˈara wˌʌnz ."
+        }
+      ]
+    },
+    {
+      "file": "02.wav",
+      "text": "Conjunto de modelos. I deleted the file by accident. Please turn it off. They helped each other. Explain it to her before the meeting. We recovered the copy ourselves. Borré el archivo por accidente. Apágalo, por favor. Se ayudaron mutuamente. Explícaselo antes de la reunión. Recuperamos la copia nosotros mismos.",
+      "sentences": [
+        {
+          "text": "Conjunto de modelos.",
+          "segments": [
+            {
+              "text": "Conjunto de modelos.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "koŋxˈunto ðe moðˈelos."
+        },
+        {
+          "text": "I deleted the file by accident.",
+          "segments": [
+            {
+              "text": "I deleted the file by accident.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "aɪ dᵻlˈiːɾᵻd ðə fˈaɪl baɪ ˈæksɪdənt."
+        },
+        {
+          "text": "Please turn it off.",
+          "segments": [
+            {
+              "text": "Please turn it off.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "plˈiːz tˈɜːn ɪɾ ˈɔf."
+        },
+        {
+          "text": "They helped each other.",
+          "segments": [
+            {
+              "text": "They helped each other.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðeɪ hˈɛlpt ˈiːtʃ ˈʌðɚ."
+        },
+        {
+          "text": "Explain it to her before the meeting.",
+          "segments": [
+            {
+              "text": "Explain it to her before the meeting.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɛksplˈeɪn ɪt tə hɜː bᵻfˌɔːɹ ðə mˈiːɾɪŋ."
+        },
+        {
+          "text": "We recovered the copy ourselves.",
+          "segments": [
+            {
+              "text": "We recovered the copy ourselves.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wiː ɹᵻkˈʌvɚd ðə kˈɑːpi aʊɚsˈɛlvz."
+        },
+        {
+          "text": "Borré el archivo por accidente.",
+          "segments": [
+            {
+              "text": "Borré el archivo por accidente.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "borˈe el aɾtʃˈiβo poɾ ˌaksiðˈɛnte."
+        },
+        {
+          "text": "Apágalo, por favor.",
+          "segments": [
+            {
+              "text": "Apágalo, por favor.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "apˈaɣalo, poɾ faβˈoɾ."
+        },
+        {
+          "text": "Se ayudaron mutuamente.",
+          "segments": [
+            {
+              "text": "Se ayudaron mutuamente.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "se ˌaʝuðˈaɾon mˈutwamˈente."
+        },
+        {
+          "text": "Explícaselo antes de la reunión.",
+          "segments": [
+            {
+              "text": "Explícaselo antes de la reunión.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "eksplˈikasˌelo ˈantes ðe la reʊnjˈon."
+        },
+        {
+          "text": "Recuperamos la copia nosotros mismos.",
+          "segments": [
+            {
+              "text": "Recuperamos la copia nosotros mismos.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "rˌekupeɾˈamos la kˈopja nosˈotɾos mˈismos."
+        }
+      ]
+    },
+    {
+      "file": "03.wav",
+      "text": "Práctica contrastiva. Cambia la persona, el tiempo, el número o el grado de formalidad de cada modelo sin perder su propósito comunicativo.",
+      "sentences": [
+        {
+          "text": "Práctica contrastiva.",
+          "segments": [
+            {
+              "text": "Práctica contrastiva.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "pɾˈaktika kˌontɾastˈiβa."
+        },
+        {
+          "text": "Cambia la persona, el tiempo, el número o el grado de formalidad de cada modelo sin perder su propósito comunicativo.",
+          "segments": [
+            {
+              "text": "Cambia la persona, el tiempo, el número o el grado de formalidad de cada modelo sin perder su propósito comunicativo.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kˈambja la peɾsˈona, el tjˈempo, el nˈumeɾo o el ɣɾˈaðo ðe fˌoɾmaliðˈad ðe kˈaða moðˈelo sim peɾðˈeɾ su pɾopˈosito kˌomunˌikatˈiβo."
+        }
+      ]
+    },
+    {
+      "file": "04.wav",
+      "text": "Comprobación de producción. Di una oración original para cada función: informar accidentes; dar instrucciones concisas; mantener referencias claras. Después escríbela y compara las formas oral y escrita.",
+      "sentences": [
+        {
+          "text": "Comprobación de producción.",
+          "segments": [
+            {
+              "text": "Comprobación de producción.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kˌompɾoβasjˈon de pɾˌoðuksjˈon."
+        },
+        {
+          "text": "Di una oración original para cada función: informar accidentes; dar instrucciones concisas; mantener referencias claras.",
+          "segments": [
+            {
+              "text": "Di una oración original para cada función: informar accidentes; dar instrucciones concisas; mantener referencias claras.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "dˈi ˈuna ˌoɾasjˈon ˌoɾixinˈal pˌaɾa kˈaða funsjˈon: ˌinfoɾmˈaɾ ˌaksiðˈɛntes; dˈaɾ ˌinstɾuksjˈones konsˈisas; mˌantenˈeɾ rˌefeɾˈɛnsjas klˈaɾas."
+        },
+        {
+          "text": "Después escríbela y compara las formas oral y escrita.",
+          "segments": [
+            {
+              "text": "Después escríbela y compara las formas oral y escrita.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "despwˈes eskɾˈiβela i kompˈaɾa las fˈoɾmas oɾˈal i eskɾˈita."
+        }
+      ]
+    },
+    {
+      "file": "05.wav",
+      "text": "Lenguaje modelo. I deleted the file by accident. — Borré el archivo por accidente. Please turn it off. — Apágalo, por favor. They helped each other. — Se ayudaron mutuamente. Explain it to her before the meeting. — Explícaselo antes de la reunión. We recovered the copy ourselves. — Recuperamos la copia nosotros mismos.",
+      "sentences": [
+        {
+          "text": "Lenguaje modelo.",
+          "segments": [
+            {
+              "text": "Lenguaje modelo.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "leŋɡwˈaxe moðˈelo."
+        },
+        {
+          "text": "I deleted the file by accident.",
+          "segments": [
+            {
+              "text": "I deleted the file by accident.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "aɪ dᵻlˈiːɾᵻd ðə fˈaɪl baɪ ˈæksɪdənt."
+        },
+        {
+          "text": "— Borré el archivo por accidente.",
+          "segments": [
+            {
+              "text": "— Borré el archivo por accidente.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— borˈe el aɾtʃˈiβo poɾ ˌaksiðˈɛnte."
+        },
+        {
+          "text": "Please turn it off.",
+          "segments": [
+            {
+              "text": "Please turn it off.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "plˈiːz tˈɜːn ɪɾ ˈɔf."
+        },
+        {
+          "text": "— Apágalo, por favor.",
+          "segments": [
+            {
+              "text": "— Apágalo, por favor.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— apˈaɣalo, poɾ faβˈoɾ."
+        },
+        {
+          "text": "They helped each other.",
+          "segments": [
+            {
+              "text": "They helped each other.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðeɪ hˈɛlpt ˈiːtʃ ˈʌðɚ."
+        },
+        {
+          "text": "— Se ayudaron mutuamente.",
+          "segments": [
+            {
+              "text": "— Se ayudaron mutuamente.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— se ˌaʝuðˈaɾon mˈutwamˈente."
+        },
+        {
+          "text": "Explain it to her before the meeting.",
+          "segments": [
+            {
+              "text": "Explain it to her before the meeting.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɛksplˈeɪn ɪt tə hɜː bᵻfˌɔːɹ ðə mˈiːɾɪŋ."
+        },
+        {
+          "text": "— Explícaselo antes de la reunión.",
+          "segments": [
+            {
+              "text": "— Explícaselo antes de la reunión.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— eksplˈikasˌelo ˈantes ðe la reʊnjˈon."
+        },
+        {
+          "text": "We recovered the copy ourselves.",
+          "segments": [
+            {
+              "text": "We recovered the copy ourselves.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wiː ɹᵻkˈʌvɚd ðə kˈɑːpi aʊɚsˈɛlvz."
+        },
+        {
+          "text": "— Recuperamos la copia nosotros mismos.",
+          "segments": [
+            {
+              "text": "— Recuperamos la copia nosotros mismos.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— rˌekupeɾˈamos la kˈopja nosˈotɾos mˈismos."
+        }
+      ]
+    },
+    {
+      "file": "06.wav",
+      "text": "Comprueba tu preparación. Explica la idea central. Produce un ejemplo original. Completa la evaluación con un 85 % o más.",
+      "sentences": [
+        {
+          "text": "Comprueba tu preparación.",
+          "segments": [
+            {
+              "text": "Comprueba tu preparación.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kˌompɾuˈeβa tu pɾˌepaɾasjˈon."
+        },
+        {
+          "text": "Explica la idea central.",
+          "segments": [
+            {
+              "text": "Explica la idea central.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "eksplˈika la iðˈea sentɾˈal."
+        },
+        {
+          "text": "Produce un ejemplo original.",
+          "segments": [
+            {
+              "text": "Produce un ejemplo original.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "pɾoðˈuse ˈun exˈemplo ˌoɾixinˈal."
+        },
+        {
+          "text": "Completa la evaluación con un 85 % o más.",
+          "segments": [
+            {
+              "text": "Completa la evaluación con un 85 % o más.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "komplˈeta la ˌeβaluasjˈon kon ˈun otʃˌɛntaisˈinko poɾsjˈɛnto o mˈas."
+        }
+      ]
+    },
+    {
+      "file": "vocab-00.wav",
+      "text": "to turn off",
+      "sentences": [
+        {
+          "text": "to turn off",
+          "segments": [
+            {
+              "text": "to turn off",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tə tˈɜːn ˈɔf"
+        }
+      ]
+    },
+    {
+      "file": "vocab-01.wav",
+      "text": "to pick up",
+      "sentences": [
+        {
+          "text": "to pick up",
+          "segments": [
+            {
+              "text": "to pick up",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tə pˈɪk ˈʌp"
+        }
+      ]
+    },
+    {
+      "file": "vocab-02.wav",
+      "text": "to look for",
+      "sentences": [
+        {
+          "text": "to look for",
+          "segments": [
+            {
+              "text": "to look for",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tə lˈʊk fɔːɹ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-03.wav",
+      "text": "by accident",
+      "sentences": [
+        {
+          "text": "by accident",
+          "segments": [
+            {
+              "text": "by accident",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "baɪ ˈæksɪdənt"
+        }
+      ]
+    },
+    {
+      "file": "vocab-04.wav",
+      "text": "myself",
+      "sentences": [
+        {
+          "text": "myself",
+          "segments": [
+            {
+              "text": "myself",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "maɪsˈɛlf"
+        }
+      ]
+    },
+    {
+      "file": "vocab-05.wav",
+      "text": "each other",
+      "sentences": [
+        {
+          "text": "each other",
+          "segments": [
+            {
+              "text": "each other",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ˈiːtʃ ˈʌðɚ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-06.wav",
+      "text": "a file",
+      "sentences": [
+        {
+          "text": "a file",
+          "segments": [
+            {
+              "text": "a file",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɐ fˈaɪl"
+        }
+      ]
+    },
+    {
+      "file": "vocab-07.wav",
+      "text": "a copy",
+      "sentences": [
+        {
+          "text": "a copy",
+          "segments": [
+            {
+              "text": "a copy",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɐ kˈɑːpi"
+        }
+      ]
+    }
+  ]
+}

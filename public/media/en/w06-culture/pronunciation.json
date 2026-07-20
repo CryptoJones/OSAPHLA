@@ -1,0 +1,455 @@
+{
+  "profile": "michael",
+  "utterances": [
+    {
+      "file": "00.wav",
+      "text": "Semana 6: Presente simple y hábitos. describir hábitos preguntar por rutinas decir con qué frecuencia ocurre algo",
+      "sentences": [
+        {
+          "text": "Semana 6: Presente simple y hábitos.",
+          "segments": [
+            {
+              "text": "Semana 6: Presente simple y hábitos.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "semˈana sˈeɪs: pɾesˈɛnte sˈimple i ˈaβitos."
+        },
+        {
+          "text": "describir hábitos preguntar por rutinas decir con qué frecuencia ocurre algo",
+          "segments": [
+            {
+              "text": "describir hábitos preguntar por rutinas decir con qué frecuencia ocurre algo",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "dˌeskɾiβˈiɾ ˈaβitos pɾˌeɣuntˈaɾ poɾ rutˈinas ðesˈiɾ kon kˈe fɾekwˈɛnsja okˈure ˈalɣo"
+        }
+      ]
+    },
+    {
+      "file": "01.wav",
+      "text": "Lente cultural. Los horarios laborales, escolares y de comidas varían entre regiones, hogares y sectores.",
+      "sentences": [
+        {
+          "text": "Lente cultural.",
+          "segments": [
+            {
+              "text": "Lente cultural.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "lˈɛnte kˌultuɾˈal."
+        },
+        {
+          "text": "Los horarios laborales, escolares y de comidas varían entre regiones, hogares y sectores.",
+          "segments": [
+            {
+              "text": "Los horarios laborales, escolares y de comidas varían entre regiones, hogares y sectores.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "los oɾˈaɾjos lˌaβoɾˈales, ˌeskolˈaɾes i ðe komˈiðas βaɾˈian ˌentɾe rexjˈones, oɣˈaɾes i sektˈoɾes."
+        }
+      ]
+    },
+    {
+      "file": "02.wav",
+      "text": "Evita una sola historia. Considera país, región, edad, relación y situación como variables. Describe la evidencia sin convertir un ejemplo en regla universal.",
+      "sentences": [
+        {
+          "text": "Evita una sola historia.",
+          "segments": [
+            {
+              "text": "Evita una sola historia.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "eβˈita ˈuna sˈola istˈoɾja."
+        },
+        {
+          "text": "Considera país, región, edad, relación y situación como variables.",
+          "segments": [
+            {
+              "text": "Considera país, región, edad, relación y situación como variables.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kˌonsiðˈeɾa paˈis, rexjˈon, eðˈad, rˌelasjˈon i sˌitwasjˈon kˌomo βaɾjˈaβles."
+        },
+        {
+          "text": "Describe la evidencia sin convertir un ejemplo en regla universal.",
+          "segments": [
+            {
+              "text": "Describe la evidencia sin convertir un ejemplo en regla universal.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "deskɾˈiβe la ˌeβiðˈɛnsja sin kˌombeɾtˈiɾ ˈun exˈemplo en rˈeɣla ˌuniβeɾsˈal."
+        }
+      ]
+    },
+    {
+      "file": "03.wav",
+      "text": "Variación lingüística. Reconoce variantes y pregunta qué significa una forma localmente. Usa el modelo estadounidense del curso hasta que la situación justifique adaptarlo.",
+      "sentences": [
+        {
+          "text": "Variación lingüística.",
+          "segments": [
+            {
+              "text": "Variación lingüística.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "bˌaɾjasjˈon lˌiŋɡuˈistika."
+        },
+        {
+          "text": "Reconoce variantes y pregunta qué significa una forma localmente.",
+          "segments": [
+            {
+              "text": "Reconoce variantes y pregunta qué significa una forma localmente.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "rˌekonˈose βaɾjˈantes i pɾeɣˈunta kˈe sˌiɡnifˈika ˈuna fˈoɾma lokˈalmˈente."
+        },
+        {
+          "text": "Usa el modelo estadounidense del curso hasta que la situación justifique adaptarlo.",
+          "segments": [
+            {
+              "text": "Usa el modelo estadounidense del curso hasta que la situación justifique adaptarlo.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˈusa el moðˈelo ˌestaðˌowniðˈɛnse ðel kˈuɾso ˌasta ke la sˌitwasjˈon xˌustifˈike ˌaðapːtˈaɾlo."
+        }
+      ]
+    },
+    {
+      "file": "04.wav",
+      "text": "Reflexión. Compara este contexto con uno que conozcas. Indica una semejanza, una diferencia y una pregunta que evite una suposición.",
+      "sentences": [
+        {
+          "text": "Reflexión.",
+          "segments": [
+            {
+              "text": "Reflexión.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "rˌefleksjˈon."
+        },
+        {
+          "text": "Compara este contexto con uno que conozcas.",
+          "segments": [
+            {
+              "text": "Compara este contexto con uno que conozcas.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kompˈaɾa ˈeste kontˈeksto kon ˈuno ke konˈoskas."
+        },
+        {
+          "text": "Indica una semejanza, una diferencia y una pregunta que evite una suposición.",
+          "segments": [
+            {
+              "text": "Indica una semejanza, una diferencia y una pregunta que evite una suposición.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "indˈika ˈuna sˌemexˈansa, ˈuna ðˌifeɾˈɛnsja i ˈuna pɾeɣˈunta ke eβˈite ˈuna sˌuposisjˈon."
+        }
+      ]
+    },
+    {
+      "file": "05.wav",
+      "text": "Lenguaje modelo. I work in the morning and study at night. — Trabajo por la mañana y estudio por la noche. Where do you live? — ¿Dónde vives? We eat together on Fridays. — Comemos juntos los viernes. She writes in her journal every day. — Ella escribe en su diario todos los días. I sometimes drink coffee after lunch. — A veces tomo café después del almuerzo.",
+      "sentences": [
+        {
+          "text": "Lenguaje modelo.",
+          "segments": [
+            {
+              "text": "Lenguaje modelo.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "leŋɡwˈaxe moðˈelo."
+        },
+        {
+          "text": "I work in the morning and study at night.",
+          "segments": [
+            {
+              "text": "I work in the morning and study at night.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "aɪ wˈɜːk ɪnðə mˈɔːɹnɪŋ ænd stˈʌdi æt nˈaɪt."
+        },
+        {
+          "text": "— Trabajo por la mañana y estudio por la noche.",
+          "segments": [
+            {
+              "text": "— Trabajo por la mañana y estudio por la noche.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— tɾaβˈaxo poɾ la maɲˈana i estˈuðjo poɾ la nˈotʃe."
+        },
+        {
+          "text": "Where do you live?",
+          "segments": [
+            {
+              "text": "Where do you live?",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wˌɛɹ dˈuː juː lˈɪv?"
+        },
+        {
+          "text": "— ¿Dónde vives?",
+          "segments": [
+            {
+              "text": "— ¿Dónde vives?",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— dˈonde βˈiβes?"
+        },
+        {
+          "text": "We eat together on Fridays.",
+          "segments": [
+            {
+              "text": "We eat together on Fridays.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wiː ˈiːt təɡˌɛðɚɹ ˌɔn fɹˈaɪdeɪz."
+        },
+        {
+          "text": "— Comemos juntos los viernes.",
+          "segments": [
+            {
+              "text": "— Comemos juntos los viernes.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— komˈemos xˈuntos los βjˈeɾnes."
+        },
+        {
+          "text": "She writes in her journal every day.",
+          "segments": [
+            {
+              "text": "She writes in her journal every day.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ʃiː ɹˈaɪts ɪn hɜː dʒˈɜːnəl ˈɛvɹi dˈeɪ."
+        },
+        {
+          "text": "— Ella escribe en su diario todos los días.",
+          "segments": [
+            {
+              "text": "— Ella escribe en su diario todos los días.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— ˈejja eskɾˈiβe en su ðjˈaɾjo tˈoðos los ðˈias."
+        },
+        {
+          "text": "I sometimes drink coffee after lunch.",
+          "segments": [
+            {
+              "text": "I sometimes drink coffee after lunch.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "aɪ sˈʌmtaɪmz dɹˈɪŋk kˈɔfi ˈæftɚ lˈʌntʃ."
+        },
+        {
+          "text": "— A veces tomo café después del almuerzo.",
+          "segments": [
+            {
+              "text": "— A veces tomo café después del almuerzo.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— a βˈeses tˈomo kafˈe ðespwˈes ðel almwˈeɾso."
+        }
+      ]
+    },
+    {
+      "file": "06.wav",
+      "text": "Comprueba tu preparación. Explica la idea central. Produce un ejemplo original. Completa la evaluación con un 85 % o más.",
+      "sentences": [
+        {
+          "text": "Comprueba tu preparación.",
+          "segments": [
+            {
+              "text": "Comprueba tu preparación.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kˌompɾuˈeβa tu pɾˌepaɾasjˈon."
+        },
+        {
+          "text": "Explica la idea central.",
+          "segments": [
+            {
+              "text": "Explica la idea central.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "eksplˈika la iðˈea sentɾˈal."
+        },
+        {
+          "text": "Produce un ejemplo original.",
+          "segments": [
+            {
+              "text": "Produce un ejemplo original.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "pɾoðˈuse ˈun exˈemplo ˌoɾixinˈal."
+        },
+        {
+          "text": "Completa la evaluación con un 85 % o más.",
+          "segments": [
+            {
+              "text": "Completa la evaluación con un 85 % o más.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "komplˈeta la ˌeβaluasjˈon kon ˈun otʃˌɛntaisˈinko poɾsjˈɛnto o mˈas."
+        }
+      ]
+    },
+    {
+      "file": "vocab-00.wav",
+      "text": "to work",
+      "sentences": [
+        {
+          "text": "to work",
+          "segments": [
+            {
+              "text": "to work",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tə wˈɜːk"
+        }
+      ]
+    },
+    {
+      "file": "vocab-01.wav",
+      "text": "to study",
+      "sentences": [
+        {
+          "text": "to study",
+          "segments": [
+            {
+              "text": "to study",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tə stˈʌdi"
+        }
+      ]
+    },
+    {
+      "file": "vocab-02.wav",
+      "text": "to eat",
+      "sentences": [
+        {
+          "text": "to eat",
+          "segments": [
+            {
+              "text": "to eat",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tʊ ˈiːt"
+        }
+      ]
+    },
+    {
+      "file": "vocab-03.wav",
+      "text": "to drink",
+      "sentences": [
+        {
+          "text": "to drink",
+          "segments": [
+            {
+              "text": "to drink",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tə dɹˈɪŋk"
+        }
+      ]
+    },
+    {
+      "file": "vocab-04.wav",
+      "text": "to live",
+      "sentences": [
+        {
+          "text": "to live",
+          "segments": [
+            {
+              "text": "to live",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tə lˈɪv"
+        }
+      ]
+    },
+    {
+      "file": "vocab-05.wav",
+      "text": "to write",
+      "sentences": [
+        {
+          "text": "to write",
+          "segments": [
+            {
+              "text": "to write",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tə ɹˈaɪt"
+        }
+      ]
+    },
+    {
+      "file": "vocab-06.wav",
+      "text": "always",
+      "sentences": [
+        {
+          "text": "always",
+          "segments": [
+            {
+              "text": "always",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ˈɔːlweɪz"
+        }
+      ]
+    },
+    {
+      "file": "vocab-07.wav",
+      "text": "sometimes",
+      "sentences": [
+        {
+          "text": "sometimes",
+          "segments": [
+            {
+              "text": "sometimes",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "sˈʌmtaɪmz"
+        }
+      ]
+    }
+  ]
+}

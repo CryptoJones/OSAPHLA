@@ -5,8 +5,10 @@ import { promisify } from "node:util";
 
 const execFile = promisify(execFileCallback);
 const ROOT = resolve(import.meta.dirname, "..");
-const course = JSON.parse(await readFile(resolve(ROOT, "src/data/course.json"), "utf8"));
-const voiceManifest = JSON.parse(await readFile(resolve(ROOT, "public/media/voice-manifest.json"), "utf8"));
+const courseSlug = process.argv.includes("--course") ? process.argv[process.argv.indexOf("--course") + 1] : "es";
+if (!["es", "en"].includes(courseSlug)) throw new Error(`Unknown course: ${courseSlug}. Use --course es or --course en.`);
+const course = JSON.parse(await readFile(resolve(ROOT, `src/data/${courseSlug}/course.json`), "utf8"));
+const voiceManifest = JSON.parse(await readFile(resolve(ROOT, `public/media/${courseSlug}/voice-manifest.json`), "utf8"));
 const requested = process.argv.includes("--section") ? process.argv[process.argv.indexOf("--section") + 1] : null;
 const selectedSections = requested ? course.sections.filter((section) => section.id === requested) : course.sections;
 if (!selectedSections.length) throw new Error(`Unknown section: ${requested}`);
@@ -15,9 +17,12 @@ let totalSeconds = 0;
 let totalBytes = 0;
 let pronunciationUtterances = 0;
 let mixedLanguageSentences = 0;
-const profileCounts = { dora: 0, y1: 0, y3: 0, santa: 0, e: 0 };
+const voiceProfiles = courseSlug === "es" ? ["dora", "y1", "y3", "santa", "e"] : ["heart", "bella", "sky", "michael", "liam"];
+const profileCounts = Object.fromEntries(voiceProfiles.map((profile) => [profile, 0]));
+const expectedPipelineVersion = courseSlug === "es" ? 3 : 7;
+const expectedManifestVersion = courseSlug === "es" ? 2 : 3;
 const technicalTerms = ["-aba", "-ar", "-er", "-ía", "-ir", "a/e/i/o/u", "acabar de", "antes de", "antes de que", "a menos que", "cuando", "cuyo", "dar", "deber", "después de", "decir", "distinción", "doblar", "el que", "es la", "estar", "gustar", "haber", "hacer", "hay", "ir", "le", "leísmo", "les", "lo que", "nosotros", "para", "para que", "pero", "poder", "por", "que", "quien", "querer", "quisiera", "saber", "se", "seguir", "ser", "si", "seseo", "son las", "tener", "tú", "usted", "ustedes", "venir", "vos", "voseo", "vosotros", "yeísmo"];
-const spanishTerms = [...new Set([...technicalTerms, ...course.sections.flatMap((section) => section.vocabulary.map((entry) => entry.es))])];
+const spanishTerms = [...new Set([...technicalTerms, ...(courseSlug === "es" ? course.sections.flatMap((section) => section.vocabulary.map((entry) => entry.target)) : [])])];
 const termPatterns = spanishTerms.map((term) => ({ term, pattern: new RegExp(`(?<!\\p{L})${term.replace(/[.*+?^${}()|[\]\\]/g, "\\$&").replaceAll(" ", "\\s+")}(?!\\p{L})`, "iu") }));
 
 async function countFile(path, label) {
@@ -28,8 +33,12 @@ async function countFile(path, label) {
   } catch { failures.push(`${label} is missing`); }
 }
 
+function sentenceTexts(value) { return (value || "").split(/(?<=[.!?])\s+/).map((item) => item.trim()).filter(Boolean); }
+
 for (const section of selectedSections) {
-  const directory = resolve(ROOT, "public/media", section.id);
+  const expectedEnglishSentences = new Set(courseSlug === "en" ? [...section.modelSentences.flatMap(sentenceTexts), ...sentenceTexts(section.reading)] : []);
+  const auditedEnglishSentences = new Set();
+  const directory = resolve(ROOT, "public/media", courseSlug, section.id);
   const files = ["lesson.mp4", "narration.mp3", "captions.vtt", "transcript.txt", "voice.json", "pronunciation.json"];
   for (const file of files) {
     await countFile(resolve(directory, file), `${section.id}/${file}`);
@@ -51,7 +60,7 @@ for (const section of selectedSections) {
   try {
     const voice = JSON.parse(await readFile(resolve(directory, "voice.json"), "utf8"));
     const expected = voiceManifest.assignments[section.id];
-    if (voice.pipelineVersion !== 3) failures.push(`${section.id}/voice.json is not pronunciation pipeline 3`);
+    if (voice.pipelineVersion !== expectedPipelineVersion) failures.push(`${section.id}/voice.json is not pronunciation pipeline ${expectedPipelineVersion}`);
     if (voice.profile !== expected) failures.push(`${section.id} voice ${voice.profile} does not match manifest ${expected}`);
     if (voice.languageRouting !== "phoneme-level es-419/en-us code-switching") failures.push(`${section.id} does not use phoneme-level language routing`);
     if (voice.profile in profileCounts) profileCounts[voice.profile] += 1;
@@ -65,23 +74,37 @@ for (const section of selectedSections) {
       for (const sentence of utterance.sentences || []) {
         if (!sentence.phonemes) failures.push(`${section.id} has an empty phoneme sequence`);
         const languages = new Set((sentence.segments || []).map((segment) => segment.lang));
+        const isEnglishTargetSentence = courseSlug === "en" && expectedEnglishSentences.has(sentence.text);
+        if (isEnglishTargetSentence) {
+          auditedEnglishSentences.add(sentence.text);
+          if ([...languages].some((language) => language !== "en-us")) failures.push(`${section.id} does not route the complete English target sentence through English phonemes: ${sentence.text}`);
+        } else if (courseSlug === "en" && (sentence.segments || []).some((segment) => segment.lang === "en-us" && segment.text.trim().toLocaleLowerCase() === "a")) {
+          failures.push(`${section.id} ambiguously routes the Spanish preposition “a” through English phonemes: ${sentence.text}`);
+        }
         if (languages.size > 1) mixedLanguageSentences += 1;
         if (![...languages].every((language) => language === "en-us" || language === "es-419")) failures.push(`${section.id} has an invalid language segment`);
         for (const segment of sentence.segments || []) {
           if (segment.lang !== "en-us") continue;
           const misplaced = termPatterns.find(({ pattern }) => pattern.test(segment.text));
           if (misplaced) failures.push(`${section.id} routes Spanish term “${misplaced.term}” through English: ${sentence.text}`);
-          if (/[áéíóúñü¿¡]/iu.test(segment.text)) failures.push(`${section.id} routes marked Spanish text through English: ${sentence.text}`);
+          if (!isEnglishTargetSentence && /[áéíóúñü¿¡]/iu.test(segment.text)) failures.push(`${section.id} routes marked Spanish text through English: ${sentence.text}`);
         }
         if (/ˈʌstᵻd/u.test(sentence.phonemes)) failures.push(`${section.id} contains the rejected English phonemes for usted`);
       }
     }
+    if (courseSlug === "en") {
+      for (const utterance of (audit.utterances || []).slice(-section.vocabulary.length)) {
+        if ((utterance.sentences || []).some((sentence) => (sentence.segments || []).some((segment) => segment.lang !== "en-us"))) failures.push(`${section.id} routes English vocabulary through Spanish phonemes`);
+      }
+      for (const target of expectedEnglishSentences) if (!auditedEnglishSentences.has(target)) failures.push(`${section.id} pronunciation audit is missing English target sentence: ${target}`);
+    }
   } catch (error) { failures.push(`${section.id} pronunciation metadata could not be validated: ${error.message}`); }
 }
 
-if (!requested && JSON.stringify(profileCounts) !== JSON.stringify({ dora: 36, y1: 36, y3: 36, santa: 36, e: 36 })) failures.push(`voice distribution is not balanced: ${JSON.stringify(profileCounts)}`);
-if (voiceManifest.version !== 2) failures.push("voice manifest is not pronunciation pipeline version 2");
-if (mixedLanguageSentences === 0) failures.push("no mixed-language sentences were audited");
+const balancedCounts = Object.fromEntries(voiceProfiles.map((profile) => [profile, 36]));
+if (!requested && JSON.stringify(profileCounts) !== JSON.stringify(balancedCounts)) failures.push(`voice distribution is not balanced: ${JSON.stringify(profileCounts)}`);
+if (voiceManifest.version !== expectedManifestVersion) failures.push(`voice manifest is not version ${expectedManifestVersion}`);
+if (courseSlug === "es" && mixedLanguageSentences === 0) failures.push("no mixed-language sentences were audited");
 
 if (failures.length) {
   console.error(failures.slice(0, 30).join("\n"));

@@ -21,13 +21,13 @@ export default defineConfig({
       manifest: {
         name: "Open Source Accessible Pan-Hispanic Language Academy",
         short_name: "OSAPHLA",
-        description: "An open-source, accessible, offline-first Pan-Hispanic Spanish language academy.",
+        description: "An open-source, accessible, offline-first academy for learning Spanish or English.",
         theme_color: "#071417",
         background_color: "#071417",
         display: "standalone",
-        start_url: "/",
+        start_url: ".",
         icons: [
-          { src: "/icons/icon.svg", sizes: "any", type: "image/svg+xml", purpose: "any maskable" }
+          { src: "icons/icon.svg", sizes: "any", type: "image/svg+xml", purpose: "any maskable" }
         ]
       },
       workbox: {
@@ -37,7 +37,7 @@ export default defineConfig({
           {
             urlPattern: ({ request }) => request.destination === "audio" || request.destination === "video",
             handler: "NetworkFirst",
-            options: { cacheName: "espanol-media-v2", networkTimeoutSeconds: 2, rangeRequests: true, expiration: { maxEntries: 420 } }
+            options: { cacheName: "osaphla-media-v3", networkTimeoutSeconds: 2, rangeRequests: true, expiration: { maxEntries: 7000 } }
           }
         ]
       }

@@ -6,8 +6,8 @@ env.useBrowserCache = true;
 // The pipeline overload union is intentionally hidden behind a worker-local callable.
 let transcriber: any = null;
 
-self.onmessage = async (event: MessageEvent<{ id: string; audio: Float32Array }>) => {
-  const { id, audio } = event.data;
+self.onmessage = async (event: MessageEvent<{ id: string; audio: Float32Array; language: "spanish" | "english" }>) => {
+  const { id, audio, language } = event.data;
   try {
     self.postMessage({ id, status: "loading", message: "Loading the private on-device speech model…" });
     // "gpu" in navigator only means the WebGPU API is exposed, not that it works reliably --
@@ -18,7 +18,7 @@ self.onmessage = async (event: MessageEvent<{ id: string; audio: Float32Array }>
       dtype: "q8"
     });
     self.postMessage({ id, status: "transcribing", message: "Transcribing locally…" });
-    const result = await transcriber(audio, { language: "spanish", task: "transcribe" }) as { text?: string };
+    const result = await transcriber(audio, { language, task: "transcribe" }) as { text?: string };
     self.postMessage({ id, status: "complete", text: result.text?.trim() ?? "" });
   } catch (error) {
     self.postMessage({ id, status: "error", message: error instanceof Error ? error.message : "Speech analysis failed." });

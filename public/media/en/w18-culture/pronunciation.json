@@ -1,0 +1,455 @@
+{
+  "profile": "michael",
+  "utterances": [
+    {
+      "file": "00.wav",
+      "text": "Semana 18: Pasado irregular y resultados. informar descubrimientos e intentos distinguir intención de resultado resumir un viaje",
+      "sentences": [
+        {
+          "text": "Semana 18: Pasado irregular y resultados.",
+          "segments": [
+            {
+              "text": "Semana 18: Pasado irregular y resultados.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "semˈana ðjˌɛsiˈotʃo: pasˈaðo ˌireɣulˈaɾ i rˌesultˈaðos."
+        },
+        {
+          "text": "informar descubrimientos e intentos distinguir intención de resultado resumir un viaje",
+          "segments": [
+            {
+              "text": "informar descubrimientos e intentos distinguir intención de resultado resumir un viaje",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˌinfoɾmˈaɾ ðˌeskuβɾimjˈɛntos e intˈɛntos ðˌistiŋɡˈiɾ ˌintensjˈon de rˌesultˈaðo rˌesumˈiɾ ˈum bjˈaxe"
+        }
+      ]
+    },
+    {
+      "file": "01.wav",
+      "text": "Lente cultural. Las anécdotas personales pueden crear conexión, pero no sustituyen evidencia general.",
+      "sentences": [
+        {
+          "text": "Lente cultural.",
+          "segments": [
+            {
+              "text": "Lente cultural.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "lˈɛnte kˌultuɾˈal."
+        },
+        {
+          "text": "Las anécdotas personales pueden crear conexión, pero no sustituyen evidencia general.",
+          "segments": [
+            {
+              "text": "Las anécdotas personales pueden crear conexión, pero no sustituyen evidencia general.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "las anˈekðotas pˌeɾsonˈales pwˈeðen kɾeˈaɾ kˌoneksjˈon, pˌeɾo nˈo sˌustitˈuʝen ˌeβiðˈɛnsja xˌeneɾˈal."
+        }
+      ]
+    },
+    {
+      "file": "02.wav",
+      "text": "Evita una sola historia. Considera país, región, edad, relación y situación como variables. Describe la evidencia sin convertir un ejemplo en regla universal.",
+      "sentences": [
+        {
+          "text": "Evita una sola historia.",
+          "segments": [
+            {
+              "text": "Evita una sola historia.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "eβˈita ˈuna sˈola istˈoɾja."
+        },
+        {
+          "text": "Considera país, región, edad, relación y situación como variables.",
+          "segments": [
+            {
+              "text": "Considera país, región, edad, relación y situación como variables.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kˌonsiðˈeɾa paˈis, rexjˈon, eðˈad, rˌelasjˈon i sˌitwasjˈon kˌomo βaɾjˈaβles."
+        },
+        {
+          "text": "Describe la evidencia sin convertir un ejemplo en regla universal.",
+          "segments": [
+            {
+              "text": "Describe la evidencia sin convertir un ejemplo en regla universal.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "deskɾˈiβe la ˌeβiðˈɛnsja sin kˌombeɾtˈiɾ ˈun exˈemplo en rˈeɣla ˌuniβeɾsˈal."
+        }
+      ]
+    },
+    {
+      "file": "03.wav",
+      "text": "Variación lingüística. Reconoce variantes y pregunta qué significa una forma localmente. Usa el modelo estadounidense del curso hasta que la situación justifique adaptarlo.",
+      "sentences": [
+        {
+          "text": "Variación lingüística.",
+          "segments": [
+            {
+              "text": "Variación lingüística.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "bˌaɾjasjˈon lˌiŋɡuˈistika."
+        },
+        {
+          "text": "Reconoce variantes y pregunta qué significa una forma localmente.",
+          "segments": [
+            {
+              "text": "Reconoce variantes y pregunta qué significa una forma localmente.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "rˌekonˈose βaɾjˈantes i pɾeɣˈunta kˈe sˌiɡnifˈika ˈuna fˈoɾma lokˈalmˈente."
+        },
+        {
+          "text": "Usa el modelo estadounidense del curso hasta que la situación justifique adaptarlo.",
+          "segments": [
+            {
+              "text": "Usa el modelo estadounidense del curso hasta que la situación justifique adaptarlo.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˈusa el moðˈelo ˌestaðˌowniðˈɛnse ðel kˈuɾso ˌasta ke la sˌitwasjˈon xˌustifˈike ˌaðapːtˈaɾlo."
+        }
+      ]
+    },
+    {
+      "file": "04.wav",
+      "text": "Reflexión. Compara este contexto con uno que conozcas. Indica una semejanza, una diferencia y una pregunta que evite una suposición.",
+      "sentences": [
+        {
+          "text": "Reflexión.",
+          "segments": [
+            {
+              "text": "Reflexión.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "rˌefleksjˈon."
+        },
+        {
+          "text": "Compara este contexto con uno que conozcas.",
+          "segments": [
+            {
+              "text": "Compara este contexto con uno que conozcas.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kompˈaɾa ˈeste kontˈeksto kon ˈuno ke konˈoskas."
+        },
+        {
+          "text": "Indica una semejanza, una diferencia y una pregunta que evite una suposición.",
+          "segments": [
+            {
+              "text": "Indica una semejanza, una diferencia y una pregunta que evite una suposición.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "indˈika ˈuna sˌemexˈansa, ˈuna ðˌifeɾˈɛnsja i ˈuna pɾeɣˈunta ke eβˈite ˈuna sˌuposisjˈon."
+        }
+      ]
+    },
+    {
+      "file": "05.wav",
+      "text": "Lenguaje modelo. I couldn't enter because I lost the key. — No pude entrar porque perdí la llave. We went to town by another road. — Fuimos al pueblo por otra carretera. We met the new mayor there. — Allí conocimos a la nueva alcaldesa. I learned the truth that afternoon. — Supe la verdad esa tarde. They wanted to help but didn't have time. — Querían ayudar, pero no tenían tiempo.",
+      "sentences": [
+        {
+          "text": "Lenguaje modelo.",
+          "segments": [
+            {
+              "text": "Lenguaje modelo.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "leŋɡwˈaxe moðˈelo."
+        },
+        {
+          "text": "I couldn't enter because I lost the key.",
+          "segments": [
+            {
+              "text": "I couldn't enter because I lost the key.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "aɪ kˌʊdənt ˈɛntɚ bɪkˈʌz aɪ lˈɔst ðə kˈiː."
+        },
+        {
+          "text": "— No pude entrar porque perdí la llave.",
+          "segments": [
+            {
+              "text": "— No pude entrar porque perdí la llave.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— nˈo pˈuðe entɾˈaɾ pˌoɾke peɾðˈi la ʝˈaβe."
+        },
+        {
+          "text": "We went to town by another road.",
+          "segments": [
+            {
+              "text": "We went to town by another road.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wiː wɛnt tə tˈaʊn baɪ ɐnˈʌðɚ ɹˈoʊd."
+        },
+        {
+          "text": "— Fuimos al pueblo por otra carretera.",
+          "segments": [
+            {
+              "text": "— Fuimos al pueblo por otra carretera.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— fwˈimos al pwˈeβlo poɾ ˈotɾa kˌaretˈeɾa."
+        },
+        {
+          "text": "We met the new mayor there.",
+          "segments": [
+            {
+              "text": "We met the new mayor there.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wiː mˈɛt ðə nˈuː mˈeɪɚ ðˈɛɹ."
+        },
+        {
+          "text": "— Allí conocimos a la nueva alcaldesa.",
+          "segments": [
+            {
+              "text": "— Allí conocimos a la nueva alcaldesa.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— ajjˈi kˌonosˈimos a la nwˈeβa ˌalkalðˈesa."
+        },
+        {
+          "text": "I learned the truth that afternoon.",
+          "segments": [
+            {
+              "text": "I learned the truth that afternoon.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "aɪ lˈɜːnd ðə tɹˈuːθ ðæt ˌæftɚnˈuːn."
+        },
+        {
+          "text": "— Supe la verdad esa tarde.",
+          "segments": [
+            {
+              "text": "— Supe la verdad esa tarde.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— sˈupe la βeɾðˈað ˈesa tˈaɾðe."
+        },
+        {
+          "text": "They wanted to help but didn't have time.",
+          "segments": [
+            {
+              "text": "They wanted to help but didn't have time.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðeɪ wˈɔntᵻd tə hˈɛlp bˌʌt dˈɪdnt hæv tˈaɪm."
+        },
+        {
+          "text": "— Querían ayudar, pero no tenían tiempo.",
+          "segments": [
+            {
+              "text": "— Querían ayudar, pero no tenían tiempo.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— keɾˈian ˌaʝuðˈaɾ, pˌeɾo nˈo tenˈian tjˈempo."
+        }
+      ]
+    },
+    {
+      "file": "06.wav",
+      "text": "Comprueba tu preparación. Explica la idea central. Produce un ejemplo original. Completa la evaluación con un 85 % o más.",
+      "sentences": [
+        {
+          "text": "Comprueba tu preparación.",
+          "segments": [
+            {
+              "text": "Comprueba tu preparación.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kˌompɾuˈeβa tu pɾˌepaɾasjˈon."
+        },
+        {
+          "text": "Explica la idea central.",
+          "segments": [
+            {
+              "text": "Explica la idea central.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "eksplˈika la iðˈea sentɾˈal."
+        },
+        {
+          "text": "Produce un ejemplo original.",
+          "segments": [
+            {
+              "text": "Produce un ejemplo original.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "pɾoðˈuse ˈun exˈemplo ˌoɾixinˈal."
+        },
+        {
+          "text": "Completa la evaluación con un 85 % o más.",
+          "segments": [
+            {
+              "text": "Completa la evaluación con un 85 % o más.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "komplˈeta la ˌeβaluasjˈon kon ˈun otʃˌɛntaisˈinko poɾsjˈɛnto o mˈas."
+        }
+      ]
+    },
+    {
+      "file": "vocab-00.wav",
+      "text": "to go",
+      "sentences": [
+        {
+          "text": "to go",
+          "segments": [
+            {
+              "text": "to go",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tə ɡˈoʊ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-01.wav",
+      "text": "to see",
+      "sentences": [
+        {
+          "text": "to see",
+          "segments": [
+            {
+              "text": "to see",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tə sˈiː"
+        }
+      ]
+    },
+    {
+      "file": "vocab-02.wav",
+      "text": "to find",
+      "sentences": [
+        {
+          "text": "to find",
+          "segments": [
+            {
+              "text": "to find",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tə fˈaɪnd"
+        }
+      ]
+    },
+    {
+      "file": "vocab-03.wav",
+      "text": "to know",
+      "sentences": [
+        {
+          "text": "to know",
+          "segments": [
+            {
+              "text": "to know",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tə nˈoʊ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-04.wav",
+      "text": "to lose",
+      "sentences": [
+        {
+          "text": "to lose",
+          "segments": [
+            {
+              "text": "to lose",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tə lˈuːz"
+        }
+      ]
+    },
+    {
+      "file": "vocab-05.wav",
+      "text": "to take",
+      "sentences": [
+        {
+          "text": "to take",
+          "segments": [
+            {
+              "text": "to take",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tə tˈeɪk"
+        }
+      ]
+    },
+    {
+      "file": "vocab-06.wav",
+      "text": "to come",
+      "sentences": [
+        {
+          "text": "to come",
+          "segments": [
+            {
+              "text": "to come",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tə kˈʌm"
+        }
+      ]
+    },
+    {
+      "file": "vocab-07.wav",
+      "text": "to learn",
+      "sentences": [
+        {
+          "text": "to learn",
+          "segments": [
+            {
+              "text": "to learn",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tə lˈɜːn"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,497 @@
+{
+  "profile": "bella",
+  "utterances": [
+    {
+      "file": "00.wav",
+      "text": "Semana 25: Futuro, probabilidad y pronósticos. hacer pronósticos expresar compromisos calibrar probabilidad",
+      "sentences": [
+        {
+          "text": "Semana 25: Futuro, probabilidad y pronósticos.",
+          "segments": [
+            {
+              "text": "Semana 25: Futuro, probabilidad y pronósticos.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "semˈana βˌeɪntisˈinko: futˈuɾo, pɾˌoβaβˌiliðˈað i pɾonˈostikos."
+        },
+        {
+          "text": "hacer pronósticos expresar compromisos calibrar probabilidad",
+          "segments": [
+            {
+              "text": "hacer pronósticos expresar compromisos calibrar probabilidad",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "asˈeɾ pɾonˈostikos ˌekspɾesˈaɾ kˌompɾomˈisos kˌaliβɾˈaɾ pɾˌoβaβˌiliðˈad"
+        }
+      ]
+    },
+    {
+      "file": "01.wav",
+      "text": "Objetivo operativo. Al terminar esta sección podrás hacer pronósticos, expresar compromisos, calibrar probabilidad. El objetivo es el desempeño útil, no la terminología aislada.",
+      "sentences": [
+        {
+          "text": "Objetivo operativo.",
+          "segments": [
+            {
+              "text": "Objetivo operativo.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˌoβxetˈiβo ˌopeɾatˈiβo."
+        },
+        {
+          "text": "Al terminar esta sección podrás hacer pronósticos, expresar compromisos, calibrar probabilidad.",
+          "segments": [
+            {
+              "text": "Al terminar esta sección podrás hacer pronósticos, expresar compromisos, calibrar probabilidad.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "al tˌeɾminˈaɾ ˈesta seksjˈom poðɾˈas asˈeɾ pɾonˈostikos, ˌekspɾesˈaɾ kˌompɾomˈisos, kˌaliβɾˈaɾ pɾˌoβaβˌiliðˈad."
+        },
+        {
+          "text": "El objetivo es el desempeño útil, no la terminología aislada.",
+          "segments": [
+            {
+              "text": "El objetivo es el desempeño útil, no la terminología aislada.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "el ˌoβxetˈiβo ˈes el ðˌesempˈeɲo ˈutil, nˈo la tˌeɾminˌoloxˈia aɪslˈaða."
+        }
+      ]
+    },
+    {
+      "file": "02.wav",
+      "text": "Sistema lingüístico. Will, going to, presente continuo y presente simple para futuro; may/might/must para probabilidad.",
+      "sentences": [
+        {
+          "text": "Sistema lingüístico.",
+          "segments": [
+            {
+              "text": "Sistema lingüístico.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "sistˈema lˌiŋɡuˈistiko."
+        },
+        {
+          "text": "Will, going to, presente continuo y presente simple para futuro; may/might/must para probabilidad.",
+          "segments": [
+            {
+              "text": "Will",
+              "lang": "en-us"
+            },
+            {
+              "text": ", ",
+              "lang": "es-419"
+            },
+            {
+              "text": "going to",
+              "lang": "en-us"
+            },
+            {
+              "text": ", presente continuo y presente simple para futuro; ",
+              "lang": "es-419"
+            },
+            {
+              "text": "may",
+              "lang": "en-us"
+            },
+            {
+              "text": "/",
+              "lang": "es-419"
+            },
+            {
+              "text": "might",
+              "lang": "en-us"
+            },
+            {
+              "text": "/",
+              "lang": "es-419"
+            },
+            {
+              "text": "must",
+              "lang": "en-us"
+            },
+            {
+              "text": " para probabilidad.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "wˈɪl , ɡˈoʊɪŋ tuː , pɾesˈɛnte kontˈinwo i pɾesˈɛnte sˈimple pˌaɾa futˈuɾo; mˈeɪ bˈara mˈaɪt bˈara mˈʌst pˌaɾa pɾˌoβaβˌiliðˈad."
+        }
+      ]
+    },
+    {
+      "file": "03.wav",
+      "text": "Sonido y producción. Contracciones de will; foco que distingue plan, predicción y compromiso; formas débiles de might.",
+      "sentences": [
+        {
+          "text": "Sonido y producción.",
+          "segments": [
+            {
+              "text": "Sonido y producción.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "sonˈiðo i pɾˌoðuksjˈon."
+        },
+        {
+          "text": "Contracciones de will; foco que distingue plan, predicción y compromiso; formas débiles de might.",
+          "segments": [
+            {
+              "text": "Contracciones de ",
+              "lang": "es-419"
+            },
+            {
+              "text": "will",
+              "lang": "en-us"
+            },
+            {
+              "text": "; foco que distingue plan, predicción y compromiso; formas débiles de ",
+              "lang": "es-419"
+            },
+            {
+              "text": "might",
+              "lang": "en-us"
+            },
+            {
+              "text": ".",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kˌontɾaksjˈones ðˈe wˈɪl ; fˈoko ke ðistˈiŋɡe plˈan, pɾˌeðiksjˈon i kˌompɾomˈiso; fˈoɾmas ðˈeβiles ðˈe mˈaɪt ."
+        }
+      ]
+    },
+    {
+      "file": "04.wav",
+      "text": "Principio central. Observa primero el significado y después la forma. Recupera el inglés en voz alta, compáralo con el modelo y corrige un rasgo a la vez.",
+      "sentences": [
+        {
+          "text": "Principio central.",
+          "segments": [
+            {
+              "text": "Principio central.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "pɾinsˈipjo sentɾˈal."
+        },
+        {
+          "text": "Observa primero el significado y después la forma.",
+          "segments": [
+            {
+              "text": "Observa primero el significado y después la forma.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "oβsˈeɾβa pɾimˈeɾo el sˌiɡnifikˈaðo i ðespwˈes la fˈoɾma."
+        },
+        {
+          "text": "Recupera el inglés en voz alta, compáralo con el modelo y corrige un rasgo a la vez.",
+          "segments": [
+            {
+              "text": "Recupera el inglés en voz alta, compáralo con el modelo y corrige un rasgo a la vez.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "rˌekupˈeɾa el iŋɡlˈes em bˈos ˈalta, kompˈaɾalo kon el moðˈelo i korˈixe ˈun rˈasɣo a la βˈes."
+        }
+      ]
+    },
+    {
+      "file": "05.wav",
+      "text": "Lenguaje modelo. The urban population will increase. — La población urbana aumentará. We'll continue measuring the results. — Seguiremos midiendo los resultados. Marta might be at home now. — Marta quizá esté en casa ahora. When the study ends, we'll publish the data. — Cuando termine el estudio, publicaremos los datos. There will be new options in five years. — Habrá nuevas opciones en cinco años.",
+      "sentences": [
+        {
+          "text": "Lenguaje modelo.",
+          "segments": [
+            {
+              "text": "Lenguaje modelo.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "leŋɡwˈaxe moðˈelo."
+        },
+        {
+          "text": "The urban population will increase.",
+          "segments": [
+            {
+              "text": "The urban population will increase.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðɪ ˈɜːbən pˌɑːpjʊlˈeɪʃən wɪl ɪŋkɹˈiːs."
+        },
+        {
+          "text": "— La población urbana aumentará.",
+          "segments": [
+            {
+              "text": "— La población urbana aumentará.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— la pˌoβlasjˈon uɾβˈana ˌaʊmentaɾˈa."
+        },
+        {
+          "text": "We'll continue measuring the results.",
+          "segments": [
+            {
+              "text": "We'll continue measuring the results.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wiːl kəntˈɪnjuː mˈɛʒɚɹɪŋ ðə ɹɪzˈʌlts."
+        },
+        {
+          "text": "— Seguiremos midiendo los resultados.",
+          "segments": [
+            {
+              "text": "— Seguiremos midiendo los resultados.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— sˌeɣiɾˈemos miðjˈɛndo los rˌesultˈaðos."
+        },
+        {
+          "text": "Marta might be at home now.",
+          "segments": [
+            {
+              "text": "Marta might be at home now.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "mˈɑːɹɾə mˌaɪt biː æt hˈoʊm nˈaʊ."
+        },
+        {
+          "text": "— Marta quizá esté en casa ahora.",
+          "segments": [
+            {
+              "text": "— Marta quizá esté en casa ahora.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— mˈaɾta kisˈa estˈe en kˈasa aˈoɾa."
+        },
+        {
+          "text": "When the study ends, we'll publish the data.",
+          "segments": [
+            {
+              "text": "When the study ends, we'll publish the data.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wˌɛn ðə stˈʌdi ˈɛndz, wiːl pˈʌblɪʃ ðə dˈeɪɾə."
+        },
+        {
+          "text": "— Cuando termine el estudio, publicaremos los datos.",
+          "segments": [
+            {
+              "text": "— Cuando termine el estudio, publicaremos los datos.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— kwˌando teɾmˈine el estˈuðjo, pˌuβlikaɾˈemos los ðˈatos."
+        },
+        {
+          "text": "There will be new options in five years.",
+          "segments": [
+            {
+              "text": "There will be new options in five years.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðɛɹ wɪl biː nˈuː ˈɑːpʃənz ɪn fˈaɪv jˈɪɹz."
+        },
+        {
+          "text": "— Habrá nuevas opciones en cinco años.",
+          "segments": [
+            {
+              "text": "— Habrá nuevas opciones en cinco años.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— aβɾˈa nwˈeβas opsjˈones en sˈinko ˈaɲos."
+        }
+      ]
+    },
+    {
+      "file": "06.wav",
+      "text": "Comprueba tu preparación. Explica la idea central. Produce un ejemplo original. Completa la evaluación con un 85 % o más.",
+      "sentences": [
+        {
+          "text": "Comprueba tu preparación.",
+          "segments": [
+            {
+              "text": "Comprueba tu preparación.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kˌompɾuˈeβa tu pɾˌepaɾasjˈon."
+        },
+        {
+          "text": "Explica la idea central.",
+          "segments": [
+            {
+              "text": "Explica la idea central.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "eksplˈika la iðˈea sentɾˈal."
+        },
+        {
+          "text": "Produce un ejemplo original.",
+          "segments": [
+            {
+              "text": "Produce un ejemplo original.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "pɾoðˈuse ˈun exˈemplo ˌoɾixinˈal."
+        },
+        {
+          "text": "Completa la evaluación con un 85 % o más.",
+          "segments": [
+            {
+              "text": "Completa la evaluación con un 85 % o más.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "komplˈeta la ˌeβaluasjˈon kon ˈun otʃˌɛntaisˈinko poɾsjˈɛnto o mˈas."
+        }
+      ]
+    },
+    {
+      "file": "vocab-00.wav",
+      "text": "a forecast",
+      "sentences": [
+        {
+          "text": "a forecast",
+          "segments": [
+            {
+              "text": "a forecast",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɐ fˈɔːɹkæst"
+        }
+      ]
+    },
+    {
+      "file": "vocab-01.wav",
+      "text": "probably",
+      "sentences": [
+        {
+          "text": "probably",
+          "segments": [
+            {
+              "text": "probably",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "pɹˈɑːbəbli"
+        }
+      ]
+    },
+    {
+      "file": "vocab-02.wav",
+      "text": "possibly",
+      "sentences": [
+        {
+          "text": "possibly",
+          "segments": [
+            {
+              "text": "possibly",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "pˈɑːsᵻbli"
+        }
+      ]
+    },
+    {
+      "file": "vocab-03.wav",
+      "text": "to increase",
+      "sentences": [
+        {
+          "text": "to increase",
+          "segments": [
+            {
+              "text": "to increase",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tʊ ɪŋkɹˈiːs"
+        }
+      ]
+    },
+    {
+      "file": "vocab-04.wav",
+      "text": "to decrease",
+      "sentences": [
+        {
+          "text": "to decrease",
+          "segments": [
+            {
+              "text": "to decrease",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tə dˈiːkɹiːs"
+        }
+      ]
+    },
+    {
+      "file": "vocab-05.wav",
+      "text": "to continue",
+      "sentences": [
+        {
+          "text": "to continue",
+          "segments": [
+            {
+              "text": "to continue",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tə kəntˈɪnjuː"
+        }
+      ]
+    },
+    {
+      "file": "vocab-06.wav",
+      "text": "a commitment",
+      "sentences": [
+        {
+          "text": "a commitment",
+          "segments": [
+            {
+              "text": "a commitment",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɐ kəmˈɪtmənt"
+        }
+      ]
+    },
+    {
+      "file": "vocab-07.wav",
+      "text": "evidence",
+      "sentences": [
+        {
+          "text": "evidence",
+          "segments": [
+            {
+              "text": "evidence",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ˈɛvɪdəns"
+        }
+      ]
+    }
+  ]
+}

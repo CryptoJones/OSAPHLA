@@ -4,6 +4,8 @@ Accessibility is part of lesson behavior, not a separate skin.
 
 ## Presentation
 
+- New learners choose a course from a bilingual, keyboard-operable screen. The
+  first-run settings prompt and controls use the learner's native language.
 - The visual-comfort lab uses real course content and is always available again.
 - Every theme must pass WCAG 2.2 AA contrast. The high-contrast profiles target AAA
   text contrast.

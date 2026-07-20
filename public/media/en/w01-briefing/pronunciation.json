@@ -1,0 +1,461 @@
+{
+  "profile": "heart",
+  "utterances": [
+    {
+      "file": "00.wav",
+      "text": "Semana 1: Cómo funciona el inglés. deletrear un nombre reconocer la sílaba acentuada seguir una rutina sostenible de estudio",
+      "sentences": [
+        {
+          "text": "Semana 1: Cómo funciona el inglés.",
+          "segments": [
+            {
+              "text": "Semana 1: Cómo funciona el inglés.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "semˈana ˈuno: kˈomo funsjˈona el iŋɡlˈes."
+        },
+        {
+          "text": "deletrear un nombre reconocer la sílaba acentuada seguir una rutina sostenible de estudio",
+          "segments": [
+            {
+              "text": "deletrear un nombre reconocer la sílaba acentuada seguir una rutina sostenible de estudio",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "dˌeletɾeˈaɾ ˈun nˈombɾe rˌekonosˈeɾ la sˈilaβa ˌasentwˈaða seɣˈiɾ ˈuna rutˈina sˌostenˈiβle ðe estˈuðjo"
+        }
+      ]
+    },
+    {
+      "file": "01.wav",
+      "text": "Objetivo operativo. Al terminar esta sección podrás deletrear un nombre, reconocer la sílaba acentuada, seguir una rutina sostenible de estudio. El objetivo es el desempeño útil, no la terminología aislada.",
+      "sentences": [
+        {
+          "text": "Objetivo operativo.",
+          "segments": [
+            {
+              "text": "Objetivo operativo.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˌoβxetˈiβo ˌopeɾatˈiβo."
+        },
+        {
+          "text": "Al terminar esta sección podrás deletrear un nombre, reconocer la sílaba acentuada, seguir una rutina sostenible de estudio.",
+          "segments": [
+            {
+              "text": "Al terminar esta sección podrás deletrear un nombre, reconocer la sílaba acentuada, seguir una rutina sostenible de estudio.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "al tˌeɾminˈaɾ ˈesta seksjˈom poðɾˈas ðˌeletɾeˈaɾ ˈun nˈombɾe, rˌekonosˈeɾ la sˈilaβa ˌasentwˈaða, seɣˈiɾ ˈuna rutˈina sˌostenˈiβle ðe estˈuðjo."
+        },
+        {
+          "text": "El objetivo es el desempeño útil, no la terminología aislada.",
+          "segments": [
+            {
+              "text": "El objetivo es el desempeño útil, no la terminología aislada.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "el ˌoβxetˈiβo ˈes el ðˌesempˈeɲo ˈutil, nˈo la tˌeɾminˌoloxˈia aɪslˈaða."
+        }
+      ]
+    },
+    {
+      "file": "02.wav",
+      "text": "Sistema lingüístico. Relación entre sonidos y letras, nombres de las letras, sílabas, acento de palabra, schwa y puntuación básica.",
+      "sentences": [
+        {
+          "text": "Sistema lingüístico.",
+          "segments": [
+            {
+              "text": "Sistema lingüístico.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "sistˈema lˌiŋɡuˈistiko."
+        },
+        {
+          "text": "Relación entre sonidos y letras, nombres de las letras, sílabas, acento de palabra, schwa y puntuación básica.",
+          "segments": [
+            {
+              "text": "Relación entre sonidos y letras, nombres de las letras, sílabas, acento de palabra, ",
+              "lang": "es-419"
+            },
+            {
+              "text": "schwa",
+              "lang": "en-us"
+            },
+            {
+              "text": " y puntuación básica.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "rˌelasjˈon ˌentɾe sonˈiðos i lˈetɾas, nˈombɾes ðe las lˈetɾas, sˈilaβas, asˈɛnto ðe palˈaβɾa, ʃwˈɑː i pˌuntwasjˈom bˈasika."
+        }
+      ]
+    },
+    {
+      "file": "03.wav",
+      "text": "Sonido y producción. Contraste entre vocales tensas y laxas; schwa en sílabas no acentuadas; ritmo basado en acentos.",
+      "sentences": [
+        {
+          "text": "Sonido y producción.",
+          "segments": [
+            {
+              "text": "Sonido y producción.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "sonˈiðo i pɾˌoðuksjˈon."
+        },
+        {
+          "text": "Contraste entre vocales tensas y laxas; schwa en sílabas no acentuadas; ritmo basado en acentos.",
+          "segments": [
+            {
+              "text": "Contraste entre vocales tensas y laxas; ",
+              "lang": "es-419"
+            },
+            {
+              "text": "schwa",
+              "lang": "en-us"
+            },
+            {
+              "text": " en sílabas no acentuadas; ritmo basado en acentos.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kontɾˈaste ˌentɾe βokˈales tˈɛnsas i lˈaksas; ʃwˈɑː en sˈilaβas nˈo ˌasentwˈaðas; rˈitmo βasˈaðo en asˈɛntos."
+        }
+      ]
+    },
+    {
+      "file": "04.wav",
+      "text": "Principio central. Observa primero el significado y después la forma. Recupera el inglés en voz alta, compáralo con el modelo y corrige un rasgo a la vez.",
+      "sentences": [
+        {
+          "text": "Principio central.",
+          "segments": [
+            {
+              "text": "Principio central.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "pɾinsˈipjo sentɾˈal."
+        },
+        {
+          "text": "Observa primero el significado y después la forma.",
+          "segments": [
+            {
+              "text": "Observa primero el significado y después la forma.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "oβsˈeɾβa pɾimˈeɾo el sˌiɡnifikˈaðo i ðespwˈes la fˈoɾma."
+        },
+        {
+          "text": "Recupera el inglés en voz alta, compáralo con el modelo y corrige un rasgo a la vez.",
+          "segments": [
+            {
+              "text": "Recupera el inglés en voz alta, compáralo con el modelo y corrige un rasgo a la vez.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "rˌekupˈeɾa el iŋɡlˈes em bˈos ˈalta, kompˈaɾalo kon el moðˈelo i korˈixe ˈun rˈasɣo a la βˈes."
+        }
+      ]
+    },
+    {
+      "file": "05.wav",
+      "text": "Lenguaje modelo. My name has five letters. — Mi nombre tiene cinco letras. The letter H has two common names around the world. — La letra H tiene dos nombres comunes en el mundo. I listen and repeat each word. — Escucho y repito cada palabra. Which syllable is stressed? — ¿Qué sílaba lleva el acento? Short, frequent practice works best. — La práctica breve y frecuente funciona mejor.",
+      "sentences": [
+        {
+          "text": "Lenguaje modelo.",
+          "segments": [
+            {
+              "text": "Lenguaje modelo.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "leŋɡwˈaxe moðˈelo."
+        },
+        {
+          "text": "My name has five letters.",
+          "segments": [
+            {
+              "text": "My name has five letters.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "maɪ nˈeɪm hɐz fˈaɪv lˈɛɾɚz."
+        },
+        {
+          "text": "— Mi nombre tiene cinco letras.",
+          "segments": [
+            {
+              "text": "— Mi nombre tiene cinco letras.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— mi nˈombɾe tjˈene sˈinko lˈetɾas."
+        },
+        {
+          "text": "The letter H has two common names around the world.",
+          "segments": [
+            {
+              "text": "The letter H has two common names around the world.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðə lˈɛɾɚɹ ˈeɪtʃ hɐz tˈuː kˈɑːmən nˈeɪmz ɚɹˈaʊnd ðə wˈɜːld."
+        },
+        {
+          "text": "— La letra H tiene dos nombres comunes en el mundo.",
+          "segments": [
+            {
+              "text": "— La letra H tiene dos nombres comunes en el mundo.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— la lˈetɾa ˈatʃe tjˈene ðˈos nˈombɾes komˈunes en el mˈundo."
+        },
+        {
+          "text": "I listen and repeat each word.",
+          "segments": [
+            {
+              "text": "I listen and repeat each word.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "aɪ lˈɪsən ænd ɹᵻpˈiːt ˈiːtʃ wˈɜːd."
+        },
+        {
+          "text": "— Escucho y repito cada palabra.",
+          "segments": [
+            {
+              "text": "— Escucho y repito cada palabra.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— eskˈutʃo i repˈito kˈaða palˈaβɾa."
+        },
+        {
+          "text": "Which syllable is stressed?",
+          "segments": [
+            {
+              "text": "Which syllable is stressed?",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wˌɪtʃ sˈɪləbəl ɪz stɹˈɛst?"
+        },
+        {
+          "text": "— ¿Qué sílaba lleva el acento?",
+          "segments": [
+            {
+              "text": "— ¿Qué sílaba lleva el acento?",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— kˈe sˈilaβa ʝˈeβa el asˈɛnto?"
+        },
+        {
+          "text": "Short, frequent practice works best.",
+          "segments": [
+            {
+              "text": "Short, frequent practice works best.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ʃˈɔːɹt, fɹˈiːkwənt pɹˈæktɪs wˈɜːks bˈɛst."
+        },
+        {
+          "text": "— La práctica breve y frecuente funciona mejor.",
+          "segments": [
+            {
+              "text": "— La práctica breve y frecuente funciona mejor.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— la pɾˈaktika βɾˈeβe i fɾekwˈɛnte funsjˈona mexˈoɾ."
+        }
+      ]
+    },
+    {
+      "file": "06.wav",
+      "text": "Comprueba tu preparación. Explica la idea central. Produce un ejemplo original. Completa la evaluación con un 85 % o más.",
+      "sentences": [
+        {
+          "text": "Comprueba tu preparación.",
+          "segments": [
+            {
+              "text": "Comprueba tu preparación.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kˌompɾuˈeβa tu pɾˌepaɾasjˈon."
+        },
+        {
+          "text": "Explica la idea central.",
+          "segments": [
+            {
+              "text": "Explica la idea central.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "eksplˈika la iðˈea sentɾˈal."
+        },
+        {
+          "text": "Produce un ejemplo original.",
+          "segments": [
+            {
+              "text": "Produce un ejemplo original.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "pɾoðˈuse ˈun exˈemplo ˌoɾixinˈal."
+        },
+        {
+          "text": "Completa la evaluación con un 85 % o más.",
+          "segments": [
+            {
+              "text": "Completa la evaluación con un 85 % o más.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "komplˈeta la ˌeβaluasjˈon kon ˈun otʃˌɛntaisˈinko poɾsjˈɛnto o mˈas."
+        }
+      ]
+    },
+    {
+      "file": "vocab-00.wav",
+      "text": "the alphabet",
+      "sentences": [
+        {
+          "text": "the alphabet",
+          "segments": [
+            {
+              "text": "the alphabet",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðɪ ˈælfəbˌɛt"
+        }
+      ]
+    },
+    {
+      "file": "vocab-01.wav",
+      "text": "a letter",
+      "sentences": [
+        {
+          "text": "a letter",
+          "segments": [
+            {
+              "text": "a letter",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɐ lˈɛɾɚ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-02.wav",
+      "text": "a sound",
+      "sentences": [
+        {
+          "text": "a sound",
+          "segments": [
+            {
+              "text": "a sound",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɐ sˈaʊnd"
+        }
+      ]
+    },
+    {
+      "file": "vocab-03.wav",
+      "text": "a word",
+      "sentences": [
+        {
+          "text": "a word",
+          "segments": [
+            {
+              "text": "a word",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɐ wˈɜːd"
+        }
+      ]
+    },
+    {
+      "file": "vocab-04.wav",
+      "text": "a syllable",
+      "sentences": [
+        {
+          "text": "a syllable",
+          "segments": [
+            {
+              "text": "a syllable",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɐ sˈɪləbəl"
+        }
+      ]
+    },
+    {
+      "file": "vocab-05.wav",
+      "text": "stress",
+      "sentences": [
+        {
+          "text": "stress",
+          "segments": [
+            {
+              "text": "stress",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "stɹˈɛs"
+        }
+      ]
+    },
+    {
+      "file": "vocab-06.wav",
+      "text": "to listen",
+      "sentences": [
+        {
+          "text": "to listen",
+          "segments": [
+            {
+              "text": "to listen",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tə lˈɪsən"
+        }
+      ]
+    },
+    {
+      "file": "vocab-07.wav",
+      "text": "to repeat",
+      "sentences": [
+        {
+          "text": "to repeat",
+          "segments": [
+            {
+              "text": "to repeat",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tə ɹᵻpˈiːt"
+        }
+      ]
+    }
+  ]
+}

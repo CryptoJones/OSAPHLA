@@ -1,8 +1,12 @@
 import type { ClozeQuestion, OrderingQuestion, Question } from "../types";
 
 export function normalizeAnswer(value: string, preserveAccents = true) {
-  const normalized = value.normalize("NFC").trim().replace(/\s+/g, " ").toLocaleLowerCase("es");
+  const normalized = value.normalize("NFC").trim().replace(/[’‘]/g, "'").replace(/\s+/g, " ").toLocaleLowerCase("es");
   return preserveAccents ? normalized : normalized.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+}
+
+function normalizeCloze(value: string, preserveAccents = true) {
+  return normalizeAnswer(value, preserveAccents).replace(/^[¿¡]\s*/, "").replace(/[.!?]\s*$/, "");
 }
 
 export function isCorrect(question: Question, answer: string | string[]): { correct: boolean; accentWarning?: boolean } {
@@ -12,10 +16,10 @@ export function isCorrect(question: Question, answer: string | string[]): { corr
     return { correct: question.answers.some((valid) => valid.length === value.length && valid.every((token, index) => token === value[index])) };
   }
   const typed = Array.isArray(answer) ? answer.join(" ") : answer;
-  const exact = question.accepted.some((accepted) => normalizeAnswer(accepted) === normalizeAnswer(typed));
+  const exact = question.accepted.some((accepted) => normalizeCloze(accepted) === normalizeCloze(typed));
   if (exact) return { correct: true };
   if (question.accentPolicy === "warn") {
-    const accentOnly = question.accepted.some((accepted) => normalizeAnswer(accepted, false) === normalizeAnswer(typed, false));
+    const accentOnly = question.accepted.some((accepted) => normalizeCloze(accepted, false) === normalizeCloze(typed, false));
     if (accentOnly) return { correct: true, accentWarning: true };
   }
   return { correct: false };
