@@ -14,7 +14,7 @@ export function Assessment({ course, section, onComplete }: { course: Course; se
   const correct = results.filter((result) => result.correct).length;
   const score = questions.length ? correct / questions.length : 0;
 
-  function answer(id: string, value: string | string[]) { if (!submitted) setAnswers((current) => ({ ...current, [id]: value })); }
+  function answer(id: string, value: string | string[], locked: boolean) { if (!locked) setAnswers((current) => ({ ...current, [id]: value })); }
   async function submit(event: React.FormEvent) {
     event.preventDefault();
     if (Object.keys(answers).length < questions.length) { document.getElementById("assessment-status")?.focus(); return; }
@@ -22,7 +22,9 @@ export function Assessment({ course, section, onComplete }: { course: Course; se
     await recordAttempt({ courseSlug: course.slug, sectionId: section.id, startedAt, completedAt: new Date().toISOString(), score: calculated, questionIds: questions.map((question) => question.id), answers }, section.masteryThreshold);
     setSubmitted(true); onComplete();
   }
-  function retry() { setAttemptSeed(Date.now()); setAnswers({}); setSubmitted(false); setStartedAt(new Date().toISOString()); }
+  // Correct answers lock in on grading; incorrect ones stay editable so a retry only
+  // requires fixing what was wrong, not re-answering the whole set from scratch.
+  function newSet() { setAttemptSeed(Date.now()); setAnswers({}); setSubmitted(false); setStartedAt(new Date().toISOString()); }
 
   return <section className="assessment" aria-labelledby="assessment-title">
     <header><p className="eyebrow">{spanish ? "Obligatorio después de cada sección" : "Required after every section"}</p><h2 id="assessment-title">{spanish ? "Comprobación de dominio" : "Mastery check"}</h2><p>{spanish ? "Doce reactivos: cuatro de opción múltiple, cuatro de espacios en blanco y cuatro de ordenación. Meta: 85 %." : "Twelve items: four multiple choice, four fill in the blank, and four ordering. Target: 85%."}</p></header>
@@ -31,12 +33,15 @@ export function Assessment({ course, section, onComplete }: { course: Course; se
     </div>
     <form onSubmit={(event) => void submit(event)}>
       <ol className="question-list">
-        {questions.map((question, index) => <li key={question.id} className={submitted ? (results[index].correct ? "correct" : "incorrect") : ""}>
-          <QuestionInput question={question} value={answers[question.id]} onChange={(value) => answer(question.id, value)} disabled={submitted} number={index + 1} targetLang={course.targetLocale.slice(0, 2)} spanish={spanish} />
+        {questions.map((question, index) => { const locked = submitted && results[index].correct; return <li key={question.id} className={submitted ? (results[index].correct ? "correct" : "incorrect") : ""}>
+          <QuestionInput question={question} value={answers[question.id]} onChange={(value) => answer(question.id, value, locked)} disabled={locked} number={index + 1} targetLang={course.targetLocale.slice(0, 2)} spanish={spanish} />
           {submitted && <div className="feedback" role="note"><strong>{results[index].correct ? (spanish ? "Correcto." : "Correct.") : (spanish ? "Corrige esto." : "Repair this.")}</strong> {question.rationale}{results[index].accentWarning && (spanish ? " La respuesta comunica la palabra, pero debes restaurar el acento escrito." : " Your answer communicated the word, but restore the written accent.")}</div>}
-        </li>)}
+        </li>; })}
       </ol>
-      <div className="button-row">{!submitted ? <button className="button primary" type="submit">{spanish ? "Calificar intento" : "Score this attempt"}</button> : <button className="button primary" type="button" onClick={retry}>{spanish ? "Intentar otro conjunto" : "Try a new balanced set"}</button>}</div>
+      <div className="button-row">
+        {(!submitted || score < 1) && <button className="button primary" type="submit">{submitted ? (spanish ? "Revisar correcciones" : "Check corrections") : (spanish ? "Calificar intento" : "Score this attempt")}</button>}
+        {submitted && <button className="button" type="button" onClick={newSet}>{spanish ? "Empezar un conjunto nuevo" : "Start a new set"}</button>}
+      </div>
     </form>
   </section>;
 }

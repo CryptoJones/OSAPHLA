@@ -76,6 +76,15 @@ function CourseExperience({ course }: { course: Course }) {
   </CourseProvider>;
 }
 
+function ScrollToTop() {
+  const { pathname } = useLocation();
+  // React Router (non-data-router API) does not restore scroll on navigation, so any
+  // navigate() from a scrolled-down page (e.g. the onboarding "Save" button, several
+  // screens tall) leaves the newly rendered page scrolled to wherever the old one was.
+  useEffect(() => { window.scrollTo({ top: 0, behavior: "instant" }); }, [pathname]);
+  return null;
+}
+
 function LegacyLessonRedirect() {
   const { sectionId } = useParams();
   return <Navigate to={`/es/lesson/${sectionId ?? "w01-briefing"}`} replace />;
@@ -89,7 +98,7 @@ function LegacyRedirect({ destination }: { destination: string }) {
 export default function App() {
   const { ready } = useTheme();
   if (!ready) return <div className="loading" role="status"><span lang="en">Loading…</span><span aria-hidden="true"> / </span><span lang="es">Cargando…</span></div>;
-  return <BrowserRouter basename={import.meta.env.BASE_URL.replace(/\/$/, "")}><Routes>
+  return <BrowserRouter basename={import.meta.env.BASE_URL.replace(/\/$/, "")}><ScrollToTop /><Routes>
     <Route path="/" element={<CourseChooser />} />
     <Route path="/choose" element={<CourseChooser force />} />
     <Route path="/es/*" element={<CourseExperience course={spanish} />} />
