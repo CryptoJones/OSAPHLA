@@ -15,7 +15,7 @@ export function LessonPage({ course, progress, onProgress }: { course: Course; p
   const section = course.sections.find((item) => item.id === sectionId);
   const pronunciation = useRef<HTMLAudioElement | null>(null);
   const [pronunciationNotice, setPronunciationNotice] = useState("");
-  useEffect(() => { if (section) void markStarted(course.slug, section.id).then(onProgress); window.scrollTo({ top: 0, behavior: "instant" }); }, [section?.id, course.slug]);
+  useEffect(() => { if (section) void markStarted(course.slug, section.id).then(onProgress); }, [section?.id, course.slug]);
   useEffect(() => () => { pronunciation.current?.pause(); }, []);
   if (!section) return <Navigate to={path("course")} replace />;
   const previous = course.sections[section.number - 2];
