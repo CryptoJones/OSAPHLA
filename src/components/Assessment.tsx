@@ -32,10 +32,6 @@ export function Assessment({ course, section, onComplete }: { course: Course; se
 
   return <section className="assessment" aria-labelledby="assessment-title">
     <header><p className="eyebrow">{spanish ? "Obligatorio después de cada sección" : "Required after every section"}</p><h2 id="assessment-title">{spanish ? "Comprobación de dominio" : "Mastery check"}</h2><p>{spanish ? "Doce reactivos: cuatro de opción múltiple, cuatro de espacios en blanco y cuatro de ordenación. Meta: 85 %." : "Twelve items: four multiple choice, four fill in the blank, and four ordering. Target: 85%."}</p></header>
-    <div id="assessment-status" className={`assessment-status ${submitted ? (score >= section.masteryThreshold ? "pass" : "review") : ""}`} role="status" tabIndex={-1}>
-      {submitted ? <><strong>{Math.round(score * 100)}%</strong><span>{score >= section.masteryThreshold ? (spanish ? "Sección dominada. Conserva la evidencia, no solo la puntuación." : "Section mastered. Keep the evidence, not just the score.") : (spanish ? "Revisa las explicaciones e intenta otro conjunto equilibrado." : "Review the explanations and try a new balanced set.")}</span></> : <><strong>{Object.keys(answers).length}/{questions.length}</strong><span>{spanish ? "respuestas completadas" : "responses completed"}</span></>}
-    </div>
-    {submitted && score >= section.masteryThreshold && <Link className="continue-cta" to={next ? path(`lesson/${next.id}`) : path()}>{next ? (spanish ? `Continuar a la sección ${next.number} →` : `Continue to section ${next.number} →`) : (spanish ? "Inicio final →" : "Final dashboard →")}</Link>}
     <form onSubmit={(event) => void submit(event)}>
       <ol className="question-list">
         {questions.map((question, index) => { const locked = submitted && results[index].correct; return <li key={question.id} className={submitted ? (results[index].correct ? "correct" : "incorrect") : ""}>
@@ -43,6 +39,10 @@ export function Assessment({ course, section, onComplete }: { course: Course; se
           {submitted && <div className="feedback" role="note"><strong>{results[index].correct ? (spanish ? "Correcto." : "Correct.") : (spanish ? "Corrige esto." : "Repair this.")}</strong> {question.rationale}{results[index].accentWarning && (spanish ? " La respuesta comunica la palabra, pero debes restaurar el acento escrito." : " Your answer communicated the word, but restore the written accent.")}</div>}
         </li>; })}
       </ol>
+      <div id="assessment-status" className={`assessment-status ${submitted ? (score >= section.masteryThreshold ? "pass" : "review") : ""}`} role="status" tabIndex={-1}>
+        {submitted ? <><strong>{Math.round(score * 100)}%</strong><span>{score >= section.masteryThreshold ? (spanish ? "Sección dominada. Conserva la evidencia, no solo la puntuación." : "Section mastered. Keep the evidence, not just the score.") : (spanish ? "Revisa las explicaciones e intenta otro conjunto equilibrado." : "Review the explanations and try a new balanced set.")}</span></> : <><strong>{Object.keys(answers).length}/{questions.length}</strong><span>{spanish ? "respuestas completadas" : "responses completed"}</span></>}
+      </div>
+      {submitted && score >= section.masteryThreshold && <Link className="continue-cta" to={next ? path(`lesson/${next.id}`) : path()}>{next ? (spanish ? `Continuar a la sección ${next.number} →` : `Continue to section ${next.number} →`) : (spanish ? "Inicio final →" : "Final dashboard →")}</Link>}
       <div className="button-row">
         {!submitted && <button className="button primary" type="submit">{spanish ? "Calificar intento" : "Score this attempt"}</button>}
         {submitted && score < 1 && <button className={`button ${score < section.masteryThreshold ? "primary" : ""}`} type="submit">{spanish ? "Revisar correcciones" : "Check corrections"}</button>}
