@@ -1,0 +1,455 @@
+{
+  "profile": "heart",
+  "utterances": [
+    {
+      "file": "00.wav",
+      "text": "Semana 16: Tiempo, naturaleza y planes. entender un pronóstico describir terreno cambiar planes por las condiciones",
+      "sentences": [
+        {
+          "text": "Semana 16: Tiempo, naturaleza y planes.",
+          "segments": [
+            {
+              "text": "Semana 16: Tiempo, naturaleza y planes.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "semˈana ðjˌɛsisˈeɪs: tjˈempo, nˌatuɾalˈesa i plˈanes."
+        },
+        {
+          "text": "entender un pronóstico describir terreno cambiar planes por las condiciones",
+          "segments": [
+            {
+              "text": "entender un pronóstico describir terreno cambiar planes por las condiciones",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˌentendˈeɾ ˈum pɾonˈostiko ðˌeskɾiβˈiɾ terˈeno kambjˈaɾ plˈanes poɾ las kˌondisjˈones"
+        }
+      ]
+    },
+    {
+      "file": "01.wav",
+      "text": "Lente cultural. Los climas del mundo angloparlante van del Caribe al Ártico y exigen evitar imágenes simplificadas.",
+      "sentences": [
+        {
+          "text": "Lente cultural.",
+          "segments": [
+            {
+              "text": "Lente cultural.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "lˈɛnte kˌultuɾˈal."
+        },
+        {
+          "text": "Los climas del mundo angloparlante van del Caribe al Ártico y exigen evitar imágenes simplificadas.",
+          "segments": [
+            {
+              "text": "Los climas del mundo angloparlante van del Caribe al Ártico y exigen evitar imágenes simplificadas.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "los klˈimas ðel mˈundo ˌaŋɡlopaɾlˈante βˈan del kaɾˈiβe al ˈaɾtiko i eksˈixen ˌeβitˈaɾ imˈaxenes sˌimplifikˈaðas."
+        }
+      ]
+    },
+    {
+      "file": "02.wav",
+      "text": "Evita una sola historia. Considera país, región, edad, relación y situación como variables. Describe la evidencia sin convertir un ejemplo en regla universal.",
+      "sentences": [
+        {
+          "text": "Evita una sola historia.",
+          "segments": [
+            {
+              "text": "Evita una sola historia.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "eβˈita ˈuna sˈola istˈoɾja."
+        },
+        {
+          "text": "Considera país, región, edad, relación y situación como variables.",
+          "segments": [
+            {
+              "text": "Considera país, región, edad, relación y situación como variables.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kˌonsiðˈeɾa paˈis, rexjˈon, eðˈad, rˌelasjˈon i sˌitwasjˈon kˌomo βaɾjˈaβles."
+        },
+        {
+          "text": "Describe la evidencia sin convertir un ejemplo en regla universal.",
+          "segments": [
+            {
+              "text": "Describe la evidencia sin convertir un ejemplo en regla universal.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "deskɾˈiβe la ˌeβiðˈɛnsja sin kˌombeɾtˈiɾ ˈun exˈemplo en rˈeɣla ˌuniβeɾsˈal."
+        }
+      ]
+    },
+    {
+      "file": "03.wav",
+      "text": "Variación lingüística. Reconoce variantes y pregunta qué significa una forma localmente. Usa el modelo estadounidense del curso hasta que la situación justifique adaptarlo.",
+      "sentences": [
+        {
+          "text": "Variación lingüística.",
+          "segments": [
+            {
+              "text": "Variación lingüística.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "bˌaɾjasjˈon lˌiŋɡuˈistika."
+        },
+        {
+          "text": "Reconoce variantes y pregunta qué significa una forma localmente.",
+          "segments": [
+            {
+              "text": "Reconoce variantes y pregunta qué significa una forma localmente.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "rˌekonˈose βaɾjˈantes i pɾeɣˈunta kˈe sˌiɡnifˈika ˈuna fˈoɾma lokˈalmˈente."
+        },
+        {
+          "text": "Usa el modelo estadounidense del curso hasta que la situación justifique adaptarlo.",
+          "segments": [
+            {
+              "text": "Usa el modelo estadounidense del curso hasta que la situación justifique adaptarlo.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˈusa el moðˈelo ˌestaðˌowniðˈɛnse ðel kˈuɾso ˌasta ke la sˌitwasjˈon xˌustifˈike ˌaðapːtˈaɾlo."
+        }
+      ]
+    },
+    {
+      "file": "04.wav",
+      "text": "Reflexión. Compara este contexto con uno que conozcas. Indica una semejanza, una diferencia y una pregunta que evite una suposición.",
+      "sentences": [
+        {
+          "text": "Reflexión.",
+          "segments": [
+            {
+              "text": "Reflexión.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "rˌefleksjˈon."
+        },
+        {
+          "text": "Compara este contexto con uno que conozcas.",
+          "segments": [
+            {
+              "text": "Compara este contexto con uno que conozcas.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kompˈaɾa ˈeste kontˈeksto kon ˈuno ke konˈoskas."
+        },
+        {
+          "text": "Indica una semejanza, una diferencia y una pregunta que evite una suposición.",
+          "segments": [
+            {
+              "text": "Indica una semejanza, una diferencia y una pregunta que evite una suposición.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "indˈika ˈuna sˌemexˈansa, ˈuna ðˌifeɾˈɛnsja i ˈuna pɾeɣˈunta ke eβˈite ˈuna sˌuposisjˈon."
+        }
+      ]
+    },
+    {
+      "file": "05.wav",
+      "text": "Lenguaje modelo. It's going to rain on the coast tomorrow. — Mañana va a llover en la costa. It's windy in the mountains. — Hace viento en las montañas. If the weather changes, we'll return early. — Si cambia el tiempo, regresaremos temprano. Fires are not allowed in the forest. — No se permiten fogatas en el bosque. We're protecting a water source. — Estamos protegiendo una fuente de agua.",
+      "sentences": [
+        {
+          "text": "Lenguaje modelo.",
+          "segments": [
+            {
+              "text": "Lenguaje modelo.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "leŋɡwˈaxe moðˈelo."
+        },
+        {
+          "text": "It's going to rain on the coast tomorrow.",
+          "segments": [
+            {
+              "text": "It's going to rain on the coast tomorrow.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɪts ɡˌoʊɪŋ tə ɹˈeɪn ɔnðə kˈoʊst təmˈɑːɹoʊ."
+        },
+        {
+          "text": "— Mañana va a llover en la costa.",
+          "segments": [
+            {
+              "text": "— Mañana va a llover en la costa.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— maɲˈana βˈa a ʝoβˈeɾ en la kˈosta."
+        },
+        {
+          "text": "It's windy in the mountains.",
+          "segments": [
+            {
+              "text": "It's windy in the mountains.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɪts wˈɪndi ɪnðə mˈaʊntɪnz."
+        },
+        {
+          "text": "— Hace viento en las montañas.",
+          "segments": [
+            {
+              "text": "— Hace viento en las montañas.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— ˈase βjˈɛnto en las montˈaɲas."
+        },
+        {
+          "text": "If the weather changes, we'll return early.",
+          "segments": [
+            {
+              "text": "If the weather changes, we'll return early.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɪf ðə wˈɛðɚ tʃˈeɪndʒᵻz, wiːl ɹᵻtˈɜːn ˈɜːli."
+        },
+        {
+          "text": "— Si cambia el tiempo, regresaremos temprano.",
+          "segments": [
+            {
+              "text": "— Si cambia el tiempo, regresaremos temprano.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— si kˈambja el tjˈempo, rˌeɣɾesaɾˈemos tempɾˈano."
+        },
+        {
+          "text": "Fires are not allowed in the forest.",
+          "segments": [
+            {
+              "text": "Fires are not allowed in the forest.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "fˈaɪɚz ɑːɹ nˌɑːt ɐlˈaʊd ɪnðə fˈɔːɹɪst."
+        },
+        {
+          "text": "— No se permiten fogatas en el bosque.",
+          "segments": [
+            {
+              "text": "— No se permiten fogatas en el bosque.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— nˈo se peɾmˈiten foɣˈatas en el βˈoske."
+        },
+        {
+          "text": "We're protecting a water source.",
+          "segments": [
+            {
+              "text": "We're protecting a water source.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wɪɹ pɹətˈɛktɪŋ ɐ wˈɔːɾɚ sˈɔːɹs."
+        },
+        {
+          "text": "— Estamos protegiendo una fuente de agua.",
+          "segments": [
+            {
+              "text": "— Estamos protegiendo una fuente de agua.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— estˈamos pɾˌotexjˈɛndo ˈuna fwˈɛnte ðe ˈaɣwa."
+        }
+      ]
+    },
+    {
+      "file": "06.wav",
+      "text": "Comprueba tu preparación. Explica la idea central. Produce un ejemplo original. Completa la evaluación con un 85 % o más.",
+      "sentences": [
+        {
+          "text": "Comprueba tu preparación.",
+          "segments": [
+            {
+              "text": "Comprueba tu preparación.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kˌompɾuˈeβa tu pɾˌepaɾasjˈon."
+        },
+        {
+          "text": "Explica la idea central.",
+          "segments": [
+            {
+              "text": "Explica la idea central.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "eksplˈika la iðˈea sentɾˈal."
+        },
+        {
+          "text": "Produce un ejemplo original.",
+          "segments": [
+            {
+              "text": "Produce un ejemplo original.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "pɾoðˈuse ˈun exˈemplo ˌoɾixinˈal."
+        },
+        {
+          "text": "Completa la evaluación con un 85 % o más.",
+          "segments": [
+            {
+              "text": "Completa la evaluación con un 85 % o más.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "komplˈeta la ˌeβaluasjˈon kon ˈun otʃˌɛntaisˈinko poɾsjˈɛnto o mˈas."
+        }
+      ]
+    },
+    {
+      "file": "vocab-00.wav",
+      "text": "rain",
+      "sentences": [
+        {
+          "text": "rain",
+          "segments": [
+            {
+              "text": "rain",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɹˈeɪn"
+        }
+      ]
+    },
+    {
+      "file": "vocab-01.wav",
+      "text": "wind",
+      "sentences": [
+        {
+          "text": "wind",
+          "segments": [
+            {
+              "text": "wind",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wˈɪnd"
+        }
+      ]
+    },
+    {
+      "file": "vocab-02.wav",
+      "text": "a forecast",
+      "sentences": [
+        {
+          "text": "a forecast",
+          "segments": [
+            {
+              "text": "a forecast",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɐ fˈɔːɹkæst"
+        }
+      ]
+    },
+    {
+      "file": "vocab-03.wav",
+      "text": "a mountain",
+      "sentences": [
+        {
+          "text": "a mountain",
+          "segments": [
+            {
+              "text": "a mountain",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɐ mˈaʊntɪn"
+        }
+      ]
+    },
+    {
+      "file": "vocab-04.wav",
+      "text": "a coast",
+      "sentences": [
+        {
+          "text": "a coast",
+          "segments": [
+            {
+              "text": "a coast",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɐ kˈoʊst"
+        }
+      ]
+    },
+    {
+      "file": "vocab-05.wav",
+      "text": "a trail",
+      "sentences": [
+        {
+          "text": "a trail",
+          "segments": [
+            {
+              "text": "a trail",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɐ tɹˈeɪl"
+        }
+      ]
+    },
+    {
+      "file": "vocab-06.wav",
+      "text": "safe",
+      "sentences": [
+        {
+          "text": "safe",
+          "segments": [
+            {
+              "text": "safe",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "sˈeɪf"
+        }
+      ]
+    },
+    {
+      "file": "vocab-07.wav",
+      "text": "to change",
+      "sentences": [
+        {
+          "text": "to change",
+          "segments": [
+            {
+              "text": "to change",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tə tʃˈeɪndʒ"
+        }
+      ]
+    }
+  ]
+}

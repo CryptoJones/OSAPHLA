@@ -1,0 +1,477 @@
+{
+  "profile": "sky",
+  "utterances": [
+    {
+      "file": "00.wav",
+      "text": "Semana 18: Pasado irregular y resultados. informar descubrimientos e intentos distinguir intención de resultado resumir un viaje",
+      "sentences": [
+        {
+          "text": "Semana 18: Pasado irregular y resultados.",
+          "segments": [
+            {
+              "text": "Semana 18: Pasado irregular y resultados.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "semˈana ðjˌɛsiˈotʃo: pasˈaðo ˌireɣulˈaɾ i rˌesultˈaðos."
+        },
+        {
+          "text": "informar descubrimientos e intentos distinguir intención de resultado resumir un viaje",
+          "segments": [
+            {
+              "text": "informar descubrimientos e intentos distinguir intención de resultado resumir un viaje",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˌinfoɾmˈaɾ ðˌeskuβɾimjˈɛntos e intˈɛntos ðˌistiŋɡˈiɾ ˌintensjˈon de rˌesultˈaðo rˌesumˈiɾ ˈum bjˈaxe"
+        }
+      ]
+    },
+    {
+      "file": "01.wav",
+      "text": "Objetivo operativo. Al terminar esta sección podrás informar descubrimientos e intentos, distinguir intención de resultado, resumir un viaje. El objetivo es el desempeño útil, no la terminología aislada.",
+      "sentences": [
+        {
+          "text": "Objetivo operativo.",
+          "segments": [
+            {
+              "text": "Objetivo operativo.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˌoβxetˈiβo ˌopeɾatˈiβo."
+        },
+        {
+          "text": "Al terminar esta sección podrás informar descubrimientos e intentos, distinguir intención de resultado, resumir un viaje.",
+          "segments": [
+            {
+              "text": "Al terminar esta sección podrás informar descubrimientos e intentos, distinguir intención de resultado, resumir un viaje.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "al tˌeɾminˈaɾ ˈesta seksjˈom poðɾˈas ˌinfoɾmˈaɾ ðˌeskuβɾimjˈɛntos e intˈɛntos, dˌistiŋɡˈiɾ ˌintensjˈon de rˌesultˈaðo, rˌesumˈiɾ ˈum bjˈaxe."
+        },
+        {
+          "text": "El objetivo es el desempeño útil, no la terminología aislada.",
+          "segments": [
+            {
+              "text": "El objetivo es el desempeño útil, no la terminología aislada.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "el ˌoβxetˈiβo ˈes el ðˌesempˈeɲo ˈutil, nˈo la tˌeɾminˌoloxˈia aɪslˈaða."
+        }
+      ]
+    },
+    {
+      "file": "02.wav",
+      "text": "Sistema lingüístico. Pasados irregulares frecuentes; did en preguntas y negación; could/couldn't; intención frente a resultado.",
+      "sentences": [
+        {
+          "text": "Sistema lingüístico.",
+          "segments": [
+            {
+              "text": "Sistema lingüístico.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "sistˈema lˌiŋɡuˈistiko."
+        },
+        {
+          "text": "Pasados irregulares frecuentes; did en preguntas y negación; could/couldn't; intención frente a resultado.",
+          "segments": [
+            {
+              "text": "Pasados irregulares frecuentes; ",
+              "lang": "es-419"
+            },
+            {
+              "text": "did",
+              "lang": "en-us"
+            },
+            {
+              "text": " en preguntas y negación; ",
+              "lang": "es-419"
+            },
+            {
+              "text": "could",
+              "lang": "en-us"
+            },
+            {
+              "text": "/",
+              "lang": "es-419"
+            },
+            {
+              "text": "couldn't",
+              "lang": "en-us"
+            },
+            {
+              "text": "; intención frente a resultado.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "pasˈaðos ˌireɣulˈaɾes fɾekwˈɛntes; dˈɪd em pɾeɣˈuntas i nˌeɣasjˈon; kˈʊd bˈara kˈʊdənt ; ˌintensjˈom fɾˈɛnte a rˌesultˈaðo."
+        }
+      ]
+    },
+    {
+      "file": "03.wav",
+      "text": "Sonido y producción. Formas cortas irregulares; contraste entre went y want; agrupación rítmica de preguntas con did.",
+      "sentences": [
+        {
+          "text": "Sonido y producción.",
+          "segments": [
+            {
+              "text": "Sonido y producción.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "sonˈiðo i pɾˌoðuksjˈon."
+        },
+        {
+          "text": "Formas cortas irregulares; contraste entre went y want; agrupación rítmica de preguntas con did.",
+          "segments": [
+            {
+              "text": "Formas cortas irregulares; contraste entre went y want; agrupación rítmica de preguntas con ",
+              "lang": "es-419"
+            },
+            {
+              "text": "did",
+              "lang": "en-us"
+            },
+            {
+              "text": ".",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "fˈoɾmas kˈoɾtas ˌireɣulˈaɾes; kontɾˈaste ˌentɾe wˈɛnt i wˈant; ˌaɣɾupasjˈon rˈitmika ðe pɾeɣˈuntas kˈon dˈɪd ."
+        }
+      ]
+    },
+    {
+      "file": "04.wav",
+      "text": "Principio central. Observa primero el significado y después la forma. Recupera el inglés en voz alta, compáralo con el modelo y corrige un rasgo a la vez.",
+      "sentences": [
+        {
+          "text": "Principio central.",
+          "segments": [
+            {
+              "text": "Principio central.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "pɾinsˈipjo sentɾˈal."
+        },
+        {
+          "text": "Observa primero el significado y después la forma.",
+          "segments": [
+            {
+              "text": "Observa primero el significado y después la forma.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "oβsˈeɾβa pɾimˈeɾo el sˌiɡnifikˈaðo i ðespwˈes la fˈoɾma."
+        },
+        {
+          "text": "Recupera el inglés en voz alta, compáralo con el modelo y corrige un rasgo a la vez.",
+          "segments": [
+            {
+              "text": "Recupera el inglés en voz alta, compáralo con el modelo y corrige un rasgo a la vez.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "rˌekupˈeɾa el iŋɡlˈes em bˈos ˈalta, kompˈaɾalo kon el moðˈelo i korˈixe ˈun rˈasɣo a la βˈes."
+        }
+      ]
+    },
+    {
+      "file": "05.wav",
+      "text": "Lenguaje modelo. I couldn't enter because I lost the key. — No pude entrar porque perdí la llave. We went to town by another road. — Fuimos al pueblo por otra carretera. We met the new mayor there. — Allí conocimos a la nueva alcaldesa. I learned the truth that afternoon. — Supe la verdad esa tarde. They wanted to help but didn't have time. — Querían ayudar, pero no tenían tiempo.",
+      "sentences": [
+        {
+          "text": "Lenguaje modelo.",
+          "segments": [
+            {
+              "text": "Lenguaje modelo.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "leŋɡwˈaxe moðˈelo."
+        },
+        {
+          "text": "I couldn't enter because I lost the key.",
+          "segments": [
+            {
+              "text": "I couldn't enter because I lost the key.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "aɪ kˌʊdənt ˈɛntɚ bɪkˈʌz aɪ lˈɔst ðə kˈiː."
+        },
+        {
+          "text": "— No pude entrar porque perdí la llave.",
+          "segments": [
+            {
+              "text": "— No pude entrar porque perdí la llave.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— nˈo pˈuðe entɾˈaɾ pˌoɾke peɾðˈi la ʝˈaβe."
+        },
+        {
+          "text": "We went to town by another road.",
+          "segments": [
+            {
+              "text": "We went to town by another road.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wiː wɛnt tə tˈaʊn baɪ ɐnˈʌðɚ ɹˈoʊd."
+        },
+        {
+          "text": "— Fuimos al pueblo por otra carretera.",
+          "segments": [
+            {
+              "text": "— Fuimos al pueblo por otra carretera.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— fwˈimos al pwˈeβlo poɾ ˈotɾa kˌaretˈeɾa."
+        },
+        {
+          "text": "We met the new mayor there.",
+          "segments": [
+            {
+              "text": "We met the new mayor there.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wiː mˈɛt ðə nˈuː mˈeɪɚ ðˈɛɹ."
+        },
+        {
+          "text": "— Allí conocimos a la nueva alcaldesa.",
+          "segments": [
+            {
+              "text": "— Allí conocimos a la nueva alcaldesa.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— ajjˈi kˌonosˈimos a la nwˈeβa ˌalkalðˈesa."
+        },
+        {
+          "text": "I learned the truth that afternoon.",
+          "segments": [
+            {
+              "text": "I learned the truth that afternoon.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "aɪ lˈɜːnd ðə tɹˈuːθ ðæt ˌæftɚnˈuːn."
+        },
+        {
+          "text": "— Supe la verdad esa tarde.",
+          "segments": [
+            {
+              "text": "— Supe la verdad esa tarde.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— sˈupe la βeɾðˈað ˈesa tˈaɾðe."
+        },
+        {
+          "text": "They wanted to help but didn't have time.",
+          "segments": [
+            {
+              "text": "They wanted to help but didn't have time.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðeɪ wˈɔntᵻd tə hˈɛlp bˌʌt dˈɪdnt hæv tˈaɪm."
+        },
+        {
+          "text": "— Querían ayudar, pero no tenían tiempo.",
+          "segments": [
+            {
+              "text": "— Querían ayudar, pero no tenían tiempo.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— keɾˈian ˌaʝuðˈaɾ, pˌeɾo nˈo tenˈian tjˈempo."
+        }
+      ]
+    },
+    {
+      "file": "06.wav",
+      "text": "Comprueba tu preparación. Explica la idea central. Produce un ejemplo original. Completa la evaluación con un 85 % o más.",
+      "sentences": [
+        {
+          "text": "Comprueba tu preparación.",
+          "segments": [
+            {
+              "text": "Comprueba tu preparación.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kˌompɾuˈeβa tu pɾˌepaɾasjˈon."
+        },
+        {
+          "text": "Explica la idea central.",
+          "segments": [
+            {
+              "text": "Explica la idea central.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "eksplˈika la iðˈea sentɾˈal."
+        },
+        {
+          "text": "Produce un ejemplo original.",
+          "segments": [
+            {
+              "text": "Produce un ejemplo original.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "pɾoðˈuse ˈun exˈemplo ˌoɾixinˈal."
+        },
+        {
+          "text": "Completa la evaluación con un 85 % o más.",
+          "segments": [
+            {
+              "text": "Completa la evaluación con un 85 % o más.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "komplˈeta la ˌeβaluasjˈon kon ˈun otʃˌɛntaisˈinko poɾsjˈɛnto o mˈas."
+        }
+      ]
+    },
+    {
+      "file": "vocab-00.wav",
+      "text": "to go",
+      "sentences": [
+        {
+          "text": "to go",
+          "segments": [
+            {
+              "text": "to go",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tə ɡˈoʊ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-01.wav",
+      "text": "to see",
+      "sentences": [
+        {
+          "text": "to see",
+          "segments": [
+            {
+              "text": "to see",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tə sˈiː"
+        }
+      ]
+    },
+    {
+      "file": "vocab-02.wav",
+      "text": "to find",
+      "sentences": [
+        {
+          "text": "to find",
+          "segments": [
+            {
+              "text": "to find",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tə fˈaɪnd"
+        }
+      ]
+    },
+    {
+      "file": "vocab-03.wav",
+      "text": "to know",
+      "sentences": [
+        {
+          "text": "to know",
+          "segments": [
+            {
+              "text": "to know",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tə nˈoʊ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-04.wav",
+      "text": "to lose",
+      "sentences": [
+        {
+          "text": "to lose",
+          "segments": [
+            {
+              "text": "to lose",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tə lˈuːz"
+        }
+      ]
+    },
+    {
+      "file": "vocab-05.wav",
+      "text": "to take",
+      "sentences": [
+        {
+          "text": "to take",
+          "segments": [
+            {
+              "text": "to take",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tə tˈeɪk"
+        }
+      ]
+    },
+    {
+      "file": "vocab-06.wav",
+      "text": "to come",
+      "sentences": [
+        {
+          "text": "to come",
+          "segments": [
+            {
+              "text": "to come",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tə kˈʌm"
+        }
+      ]
+    },
+    {
+      "file": "vocab-07.wav",
+      "text": "to learn",
+      "sentences": [
+        {
+          "text": "to learn",
+          "segments": [
+            {
+              "text": "to learn",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tə lˈɜːn"
+        }
+      ]
+    }
+  ]
+}

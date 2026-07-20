@@ -1,0 +1,509 @@
+{
+  "profile": "liam",
+  "utterances": [
+    {
+      "file": "00.wav",
+      "text": "Semana 13: Ciudad, direcciones y servicios. pedir y dar direcciones identificar servicios públicos confirmar una ruta",
+      "sentences": [
+        {
+          "text": "Semana 13: Ciudad, direcciones y servicios.",
+          "segments": [
+            {
+              "text": "Semana 13: Ciudad, direcciones y servicios.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "semˈana tɾˈese: sjuðˈad, dˌiɾeksjˈones i seɾβˈisjos."
+        },
+        {
+          "text": "pedir y dar direcciones identificar servicios públicos confirmar una ruta",
+          "segments": [
+            {
+              "text": "pedir y dar direcciones identificar servicios públicos confirmar una ruta",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "peðˈiɾ i ðˈaɾ ðˌiɾeksjˈones ˌiðentˌifikˈaɾ seɾβˈisjos pˈuβlikos kˌonfiɾmˈaɾ ˈuna rˈuta"
+        }
+      ]
+    },
+    {
+      "file": "01.wav",
+      "text": "Objetivo operativo. Al terminar esta sección podrás pedir y dar direcciones, identificar servicios públicos, confirmar una ruta. El objetivo es el desempeño útil, no la terminología aislada.",
+      "sentences": [
+        {
+          "text": "Objetivo operativo.",
+          "segments": [
+            {
+              "text": "Objetivo operativo.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˌoβxetˈiβo ˌopeɾatˈiβo."
+        },
+        {
+          "text": "Al terminar esta sección podrás pedir y dar direcciones, identificar servicios públicos, confirmar una ruta.",
+          "segments": [
+            {
+              "text": "Al terminar esta sección podrás pedir y dar direcciones, identificar servicios públicos, confirmar una ruta.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "al tˌeɾminˈaɾ ˈesta seksjˈom poðɾˈas peðˈiɾ i ðˈaɾ ðˌiɾeksjˈones, ˌiðentˌifikˈaɾ seɾβˈisjos pˈuβlikos, kˌonfiɾmˈaɾ ˈuna rˈuta."
+        },
+        {
+          "text": "El objetivo es el desempeño útil, no la terminología aislada.",
+          "segments": [
+            {
+              "text": "El objetivo es el desempeño útil, no la terminología aislada.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "el ˌoβxetˈiβo ˈes el ðˌesempˈeɲo ˈutil, nˈo la tˌeɾminˌoloxˈia aɪslˈaða."
+        }
+      ]
+    },
+    {
+      "file": "02.wav",
+      "text": "Sistema lingüístico. Imperativos; preposiciones de movimiento y lugar; how do I get to; secuencias con first, then y after.",
+      "sentences": [
+        {
+          "text": "Sistema lingüístico.",
+          "segments": [
+            {
+              "text": "Sistema lingüístico.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "sistˈema lˌiŋɡuˈistiko."
+        },
+        {
+          "text": "Imperativos; preposiciones de movimiento y lugar; how do I get to; secuencias con first, then y after.",
+          "segments": [
+            {
+              "text": "Imperativos; preposiciones de movimiento y lugar; ",
+              "lang": "es-419"
+            },
+            {
+              "text": "how",
+              "lang": "en-us"
+            },
+            {
+              "text": " ",
+              "lang": "es-419"
+            },
+            {
+              "text": "do",
+              "lang": "en-us"
+            },
+            {
+              "text": " I get ",
+              "lang": "es-419"
+            },
+            {
+              "text": "to",
+              "lang": "en-us"
+            },
+            {
+              "text": "; secuencias con ",
+              "lang": "es-419"
+            },
+            {
+              "text": "first",
+              "lang": "en-us"
+            },
+            {
+              "text": ", ",
+              "lang": "es-419"
+            },
+            {
+              "text": "then",
+              "lang": "en-us"
+            },
+            {
+              "text": " y ",
+              "lang": "es-419"
+            },
+            {
+              "text": "after",
+              "lang": "en-us"
+            },
+            {
+              "text": ".",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˌimpeɾatˈiβos; pɾˌeposisjˈones ðe mˌoβimjˈɛnto i luɣˈaɾ; hˈaʊ dˈuː ˈi xˈet tuː ; sekwˈɛnsjas kˈon fˈɜːst , ðˈɛn i ˈæftɚ ."
+        }
+      ]
+    },
+    {
+      "file": "03.wav",
+      "text": "Sonido y producción. Contraste entre right y light; consonantes finales en left y next; agrupación de instrucciones.",
+      "sentences": [
+        {
+          "text": "Sonido y producción.",
+          "segments": [
+            {
+              "text": "Sonido y producción.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "sonˈiðo i pɾˌoðuksjˈon."
+        },
+        {
+          "text": "Contraste entre right y light; consonantes finales en left y next; agrupación de instrucciones.",
+          "segments": [
+            {
+              "text": "Contraste entre ",
+              "lang": "es-419"
+            },
+            {
+              "text": "right",
+              "lang": "en-us"
+            },
+            {
+              "text": " y light; consonantes finales en ",
+              "lang": "es-419"
+            },
+            {
+              "text": "left",
+              "lang": "en-us"
+            },
+            {
+              "text": " y next; agrupación de instrucciones.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kontɾˈaste ˈɛntɾe ɹˈaɪt i lˈiɣt; kˌonsonˈantes finˈales ˈen lˈɛft i nˈekst; ˌaɣɾupasjˈon de ˌinstɾuksjˈones."
+        }
+      ]
+    },
+    {
+      "file": "04.wav",
+      "text": "Principio central. Observa primero el significado y después la forma. Recupera el inglés en voz alta, compáralo con el modelo y corrige un rasgo a la vez.",
+      "sentences": [
+        {
+          "text": "Principio central.",
+          "segments": [
+            {
+              "text": "Principio central.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "pɾinsˈipjo sentɾˈal."
+        },
+        {
+          "text": "Observa primero el significado y después la forma.",
+          "segments": [
+            {
+              "text": "Observa primero el significado y después la forma.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "oβsˈeɾβa pɾimˈeɾo el sˌiɡnifikˈaðo i ðespwˈes la fˈoɾma."
+        },
+        {
+          "text": "Recupera el inglés en voz alta, compáralo con el modelo y corrige un rasgo a la vez.",
+          "segments": [
+            {
+              "text": "Recupera el inglés en voz alta, compáralo con el modelo y corrige un rasgo a la vez.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "rˌekupˈeɾa el iŋɡlˈes em bˈos ˈalta, kompˈaɾalo kon el moðˈelo i korˈixe ˈun rˈasɣo a la βˈes."
+        }
+      ]
+    },
+    {
+      "file": "05.wav",
+      "text": "Lenguaje modelo. Go straight to the square. — Sigue derecho hasta la plaza. Turn left at the second corner. — Gira a la izquierda en la segunda esquina. Am I going the right way to city hall? — ¿Voy bien hacia el ayuntamiento? We got lost near the station. — Nos perdimos cerca de la estación. The bank is across from the post office. — El banco está enfrente del correo.",
+      "sentences": [
+        {
+          "text": "Lenguaje modelo.",
+          "segments": [
+            {
+              "text": "Lenguaje modelo.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "leŋɡwˈaxe moðˈelo."
+        },
+        {
+          "text": "Go straight to the square.",
+          "segments": [
+            {
+              "text": "Go straight to the square.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɡˌoʊ stɹˈeɪt tə ðə skwˈɛɹ."
+        },
+        {
+          "text": "— Sigue derecho hasta la plaza.",
+          "segments": [
+            {
+              "text": "— Sigue derecho hasta la plaza.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— sˈiɣe ðeɾˈetʃo ˌasta la plˈasa."
+        },
+        {
+          "text": "Turn left at the second corner.",
+          "segments": [
+            {
+              "text": "Turn left at the second corner.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tˈɜːn lˈɛft æt ðə sˈɛkənd kˈɔːɹnɚ."
+        },
+        {
+          "text": "— Gira a la izquierda en la segunda esquina.",
+          "segments": [
+            {
+              "text": "— Gira a la izquierda en la segunda esquina.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— xˈiɾa a la iskjˈeɾða en la seɣˈunda eskˈina."
+        },
+        {
+          "text": "Am I going the right way to city hall?",
+          "segments": [
+            {
+              "text": "Am I going the right way to city hall?",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "æm aɪ ɡˌoʊɪŋ ðə ɹˈaɪt wˈeɪ tə sˈɪɾi hˈɔːl?"
+        },
+        {
+          "text": "— ¿Voy bien hacia el ayuntamiento?",
+          "segments": [
+            {
+              "text": "— ¿Voy bien hacia el ayuntamiento?",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— bˈoɪ βjˈen ˌasja el ˌaʝuntamjˈɛnto?"
+        },
+        {
+          "text": "We got lost near the station.",
+          "segments": [
+            {
+              "text": "We got lost near the station.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wiː ɡɑːt lˈɔst nˌɪɹ ðə stˈeɪʃən."
+        },
+        {
+          "text": "— Nos perdimos cerca de la estación.",
+          "segments": [
+            {
+              "text": "— Nos perdimos cerca de la estación.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— nos peɾðˈimos sˈeɾka ðe la ˌestasjˈon."
+        },
+        {
+          "text": "The bank is across from the post office.",
+          "segments": [
+            {
+              "text": "The bank is across from the post office.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðə bˈæŋk ɪz əkɹˌɑːs fɹʌmðə pˈoʊst ˈɑːfɪs."
+        },
+        {
+          "text": "— El banco está enfrente del correo.",
+          "segments": [
+            {
+              "text": "— El banco está enfrente del correo.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— el βˈanko estˈa emfɾˈɛnte ðel korˈeo."
+        }
+      ]
+    },
+    {
+      "file": "06.wav",
+      "text": "Comprueba tu preparación. Explica la idea central. Produce un ejemplo original. Completa la evaluación con un 85 % o más.",
+      "sentences": [
+        {
+          "text": "Comprueba tu preparación.",
+          "segments": [
+            {
+              "text": "Comprueba tu preparación.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kˌompɾuˈeβa tu pɾˌepaɾasjˈon."
+        },
+        {
+          "text": "Explica la idea central.",
+          "segments": [
+            {
+              "text": "Explica la idea central.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "eksplˈika la iðˈea sentɾˈal."
+        },
+        {
+          "text": "Produce un ejemplo original.",
+          "segments": [
+            {
+              "text": "Produce un ejemplo original.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "pɾoðˈuse ˈun exˈemplo ˌoɾixinˈal."
+        },
+        {
+          "text": "Completa la evaluación con un 85 % o más.",
+          "segments": [
+            {
+              "text": "Completa la evaluación con un 85 % o más.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "komplˈeta la ˌeβaluasjˈon kon ˈun otʃˌɛntaisˈinko poɾsjˈɛnto o mˈas."
+        }
+      ]
+    },
+    {
+      "file": "vocab-00.wav",
+      "text": "a street",
+      "sentences": [
+        {
+          "text": "a street",
+          "segments": [
+            {
+              "text": "a street",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɐ stɹˈiːt"
+        }
+      ]
+    },
+    {
+      "file": "vocab-01.wav",
+      "text": "a corner",
+      "sentences": [
+        {
+          "text": "a corner",
+          "segments": [
+            {
+              "text": "a corner",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɐ kˈɔːɹnɚ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-02.wav",
+      "text": "straight",
+      "sentences": [
+        {
+          "text": "straight",
+          "segments": [
+            {
+              "text": "straight",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "stɹˈeɪt"
+        }
+      ]
+    },
+    {
+      "file": "vocab-03.wav",
+      "text": "right",
+      "sentences": [
+        {
+          "text": "right",
+          "segments": [
+            {
+              "text": "right",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɹˈaɪt"
+        }
+      ]
+    },
+    {
+      "file": "vocab-04.wav",
+      "text": "left",
+      "sentences": [
+        {
+          "text": "left",
+          "segments": [
+            {
+              "text": "left",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "lˈɛft"
+        }
+      ]
+    },
+    {
+      "file": "vocab-05.wav",
+      "text": "to turn",
+      "sentences": [
+        {
+          "text": "to turn",
+          "segments": [
+            {
+              "text": "to turn",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tə tˈɜːn"
+        }
+      ]
+    },
+    {
+      "file": "vocab-06.wav",
+      "text": "to continue",
+      "sentences": [
+        {
+          "text": "to continue",
+          "segments": [
+            {
+              "text": "to continue",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tə kəntˈɪnjuː"
+        }
+      ]
+    },
+    {
+      "file": "vocab-07.wav",
+      "text": "to get lost",
+      "sentences": [
+        {
+          "text": "to get lost",
+          "segments": [
+            {
+              "text": "to get lost",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tə ɡɛt lˈɔst"
+        }
+      ]
+    }
+  ]
+}

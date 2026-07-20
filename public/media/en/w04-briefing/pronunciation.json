@@ -1,0 +1,465 @@
+{
+  "profile": "michael",
+  "utterances": [
+    {
+      "file": "00.wav",
+      "text": "Semana 4: Identidad, origen, números y hora. decir origen y profesión intercambiar números de contacto decir fechas y horas",
+      "sentences": [
+        {
+          "text": "Semana 4: Identidad, origen, números y hora.",
+          "segments": [
+            {
+              "text": "Semana 4: Identidad, origen, números y hora.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "semˈana kwˈatɾo: ˌiðentiðˈad, oɾˈixen, nˈumeɾos i ˈoɾa."
+        },
+        {
+          "text": "decir origen y profesión intercambiar números de contacto decir fechas y horas",
+          "segments": [
+            {
+              "text": "decir origen y profesión intercambiar números de contacto decir fechas y horas",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "desˈiɾ oɾˈixen i pɾˌofesjˈon ˌinteɾkambjˈaɾ nˈumeɾos ðe kontˈakto ðesˈiɾ fˈetʃas i ˈoɾas"
+        }
+      ]
+    },
+    {
+      "file": "01.wav",
+      "text": "Objetivo operativo. Al terminar esta sección podrás decir origen y profesión, intercambiar números de contacto, decir fechas y horas. El objetivo es el desempeño útil, no la terminología aislada.",
+      "sentences": [
+        {
+          "text": "Objetivo operativo.",
+          "segments": [
+            {
+              "text": "Objetivo operativo.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˌoβxetˈiβo ˌopeɾatˈiβo."
+        },
+        {
+          "text": "Al terminar esta sección podrás decir origen y profesión, intercambiar números de contacto, decir fechas y horas.",
+          "segments": [
+            {
+              "text": "Al terminar esta sección podrás decir origen y profesión, intercambiar números de contacto, decir fechas y horas.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "al tˌeɾminˈaɾ ˈesta seksjˈom poðɾˈas ðesˈiɾ oɾˈixen i pɾˌofesjˈon, ˌinteɾkambjˈaɾ nˈumeɾos ðe kontˈakto, desˈiɾ fˈetʃas i ˈoɾas."
+        },
+        {
+          "text": "El objetivo es el desempeño útil, no la terminología aislada.",
+          "segments": [
+            {
+              "text": "El objetivo es el desempeño útil, no la terminología aislada.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "el ˌoβxetˈiβo ˈes el ðˌesempˈeɲo ˈutil, nˈo la tˌeɾminˌoloxˈia aɪslˈaða."
+        }
+      ]
+    },
+    {
+      "file": "02.wav",
+      "text": "Sistema lingüístico. Be para identidad y origen; adjetivos posesivos; números cardinales; fechas y hora.",
+      "sentences": [
+        {
+          "text": "Sistema lingüístico.",
+          "segments": [
+            {
+              "text": "Sistema lingüístico.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "sistˈema lˌiŋɡuˈistiko."
+        },
+        {
+          "text": "Be para identidad y origen; adjetivos posesivos; números cardinales; fechas y hora.",
+          "segments": [
+            {
+              "text": "Be",
+              "lang": "en-us"
+            },
+            {
+              "text": " para identidad y origen; adjetivos posesivos; números cardinales; fechas y hora.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "bˈiː pˌaɾa ˌiðentiðˈað i oɾˈixen; ˌaðxetˈiβos pˌosesˈiβos; nˈumeɾos kˌaɾðinˈales; fˈetʃas i ˈoɾa."
+        }
+      ]
+    },
+    {
+      "file": "03.wav",
+      "text": "Sonido y producción. Números terminados en -teen y -ty; acento contrastivo; grupos rítmicos en teléfonos y fechas.",
+      "sentences": [
+        {
+          "text": "Sonido y producción.",
+          "segments": [
+            {
+              "text": "Sonido y producción.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "sonˈiðo i pɾˌoðuksjˈon."
+        },
+        {
+          "text": "Números terminados en -teen y -ty; acento contrastivo; grupos rítmicos en teléfonos y fechas.",
+          "segments": [
+            {
+              "text": "Números terminados en ",
+              "lang": "es-419"
+            },
+            {
+              "text": "-teen",
+              "lang": "en-us"
+            },
+            {
+              "text": " y ",
+              "lang": "es-419"
+            },
+            {
+              "text": "-ty",
+              "lang": "en-us"
+            },
+            {
+              "text": "; acento contrastivo; grupos rítmicos en teléfonos y fechas.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "nˈumeɾos tˌeɾminˈaðos ˈen tˈiːn i tˈaɪ ; asˈɛnto kˌontɾastˈiβo; ɡɾˈupos rˈitmikos en telˈefonos i fˈetʃas."
+        }
+      ]
+    },
+    {
+      "file": "04.wav",
+      "text": "Principio central. Observa primero el significado y después la forma. Recupera el inglés en voz alta, compáralo con el modelo y corrige un rasgo a la vez.",
+      "sentences": [
+        {
+          "text": "Principio central.",
+          "segments": [
+            {
+              "text": "Principio central.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "pɾinsˈipjo sentɾˈal."
+        },
+        {
+          "text": "Observa primero el significado y después la forma.",
+          "segments": [
+            {
+              "text": "Observa primero el significado y después la forma.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "oβsˈeɾβa pɾimˈeɾo el sˌiɡnifikˈaðo i ðespwˈes la fˈoɾma."
+        },
+        {
+          "text": "Recupera el inglés en voz alta, compáralo con el modelo y corrige un rasgo a la vez.",
+          "segments": [
+            {
+              "text": "Recupera el inglés en voz alta, compáralo con el modelo y corrige un rasgo a la vez.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "rˌekupˈeɾa el iŋɡlˈes em bˈos ˈalta, kompˈaɾalo kon el moðˈelo i korˈixe ˈun rˈasɣo a la βˈes."
+        }
+      ]
+    },
+    {
+      "file": "05.wav",
+      "text": "Lenguaje modelo. I'm from Mexico. — Soy de México. My last name is Clark. — Mi apellido es Clark. Today is July nineteenth. — Hoy es diecinueve de julio. It's three fifteen. — Son las tres y quince. What time is the meeting? — ¿A qué hora es la reunión?",
+      "sentences": [
+        {
+          "text": "Lenguaje modelo.",
+          "segments": [
+            {
+              "text": "Lenguaje modelo.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "leŋɡwˈaxe moðˈelo."
+        },
+        {
+          "text": "I'm from Mexico.",
+          "segments": [
+            {
+              "text": "I'm from Mexico.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "aɪm fɹʌm mˈɛksɪkˌoʊ."
+        },
+        {
+          "text": "— Soy de México.",
+          "segments": [
+            {
+              "text": "— Soy de México.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— sˈoɪ ðe mˈɛxiko."
+        },
+        {
+          "text": "My last name is Clark.",
+          "segments": [
+            {
+              "text": "My last name is Clark.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "maɪ lˈæst nˈeɪm ɪz klˈɑːɹk."
+        },
+        {
+          "text": "— Mi apellido es Clark.",
+          "segments": [
+            {
+              "text": "— Mi apellido es Clark.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— mi ˌapejjˈiðo ˈes klˈaɾk."
+        },
+        {
+          "text": "Today is July nineteenth.",
+          "segments": [
+            {
+              "text": "Today is July nineteenth.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tədˈeɪ ɪz dʒuːlˈaɪ nˈaɪntiːnθ."
+        },
+        {
+          "text": "— Hoy es diecinueve de julio.",
+          "segments": [
+            {
+              "text": "— Hoy es diecinueve de julio.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— ˈoɪ ˈes ðjˌesinwˈeβe ðe xˈuljo."
+        },
+        {
+          "text": "It's three fifteen.",
+          "segments": [
+            {
+              "text": "It's three fifteen.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɪts θɹˈiː fˈɪftiːn."
+        },
+        {
+          "text": "— Son las tres y quince.",
+          "segments": [
+            {
+              "text": "— Son las tres y quince.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— sˈon las tɾˈes i kˈinse."
+        },
+        {
+          "text": "What time is the meeting?",
+          "segments": [
+            {
+              "text": "What time is the meeting?",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wˌʌt tˈaɪm ɪz ðə mˈiːɾɪŋ?"
+        },
+        {
+          "text": "— ¿A qué hora es la reunión?",
+          "segments": [
+            {
+              "text": "— ¿A qué hora es la reunión?",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— a kˈe ˈoɾa ˈes la reʊnjˈon?"
+        }
+      ]
+    },
+    {
+      "file": "06.wav",
+      "text": "Comprueba tu preparación. Explica la idea central. Produce un ejemplo original. Completa la evaluación con un 85 % o más.",
+      "sentences": [
+        {
+          "text": "Comprueba tu preparación.",
+          "segments": [
+            {
+              "text": "Comprueba tu preparación.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kˌompɾuˈeβa tu pɾˌepaɾasjˈon."
+        },
+        {
+          "text": "Explica la idea central.",
+          "segments": [
+            {
+              "text": "Explica la idea central.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "eksplˈika la iðˈea sentɾˈal."
+        },
+        {
+          "text": "Produce un ejemplo original.",
+          "segments": [
+            {
+              "text": "Produce un ejemplo original.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "pɾoðˈuse ˈun exˈemplo ˌoɾixinˈal."
+        },
+        {
+          "text": "Completa la evaluación con un 85 % o más.",
+          "segments": [
+            {
+              "text": "Completa la evaluación con un 85 % o más.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "komplˈeta la ˌeβaluasjˈon kon ˈun otʃˌɛntaisˈinko poɾsjˈɛnto o mˈas."
+        }
+      ]
+    },
+    {
+      "file": "vocab-00.wav",
+      "text": "a first name",
+      "sentences": [
+        {
+          "text": "a first name",
+          "segments": [
+            {
+              "text": "a first name",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɐ fˈɜːst nˈeɪm"
+        }
+      ]
+    },
+    {
+      "file": "vocab-01.wav",
+      "text": "a last name",
+      "sentences": [
+        {
+          "text": "a last name",
+          "segments": [
+            {
+              "text": "a last name",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɐ lˈæst nˈeɪm"
+        }
+      ]
+    },
+    {
+      "file": "vocab-02.wav",
+      "text": "a country",
+      "sentences": [
+        {
+          "text": "a country",
+          "segments": [
+            {
+              "text": "a country",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɐ kˈʌntɹi"
+        }
+      ]
+    },
+    {
+      "file": "vocab-03.wav",
+      "text": "a city",
+      "sentences": [
+        {
+          "text": "a city",
+          "segments": [
+            {
+              "text": "a city",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɐ sˈɪɾi"
+        }
+      ]
+    },
+    {
+      "file": "vocab-04.wav",
+      "text": "a number",
+      "sentences": [
+        {
+          "text": "a number",
+          "segments": [
+            {
+              "text": "a number",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɐ nˈʌmbɚ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-05.wav",
+      "text": "a date",
+      "sentences": [
+        {
+          "text": "a date",
+          "segments": [
+            {
+              "text": "a date",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɐ dˈeɪt"
+        }
+      ]
+    },
+    {
+      "file": "vocab-06.wav",
+      "text": "the time",
+      "sentences": [
+        {
+          "text": "the time",
+          "segments": [
+            {
+              "text": "the time",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðə tˈaɪm"
+        }
+      ]
+    },
+    {
+      "file": "vocab-07.wav",
+      "text": "today",
+      "sentences": [
+        {
+          "text": "today",
+          "segments": [
+            {
+              "text": "today",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tədˈeɪ"
+        }
+      ]
+    }
+  ]
+}

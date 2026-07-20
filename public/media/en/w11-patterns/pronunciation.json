@@ -1,0 +1,573 @@
+{
+  "profile": "bella",
+  "utterances": [
+    {
+      "file": "00.wav",
+      "text": "Semana 11: Comida, cantidades y restaurantes. comprar alimentos pedir una comida explicar necesidades alimentarias",
+      "sentences": [
+        {
+          "text": "Semana 11: Comida, cantidades y restaurantes.",
+          "segments": [
+            {
+              "text": "Semana 11: Comida, cantidades y restaurantes.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "semˈana ˈonse: komˈiða, kˌantiðˈaðes i rˌestaʊɾˈantes."
+        },
+        {
+          "text": "comprar alimentos pedir una comida explicar necesidades alimentarias",
+          "segments": [
+            {
+              "text": "comprar alimentos pedir una comida explicar necesidades alimentarias",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kompɾˈaɾ ˌalimˈɛntos peðˈiɾ ˈuna komˈiða ˌeksplikˈaɾ nˌesesiðˈaðes ˌalimentˈaɾjas"
+        }
+      ]
+    },
+    {
+      "file": "01.wav",
+      "text": "Forma y significado. Sustantivos contables y no contables; some/any, much/many; objetos directos; peticiones con could y would like.",
+      "sentences": [
+        {
+          "text": "Forma y significado.",
+          "segments": [
+            {
+              "text": "Forma y significado.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "fˈoɾma i sˌiɡnifikˈaðo."
+        },
+        {
+          "text": "Sustantivos contables y no contables; some/any, much/many; objetos directos; peticiones con could y would like.",
+          "segments": [
+            {
+              "text": "Sustantivos contables y no contables; ",
+              "lang": "es-419"
+            },
+            {
+              "text": "some",
+              "lang": "en-us"
+            },
+            {
+              "text": "/",
+              "lang": "es-419"
+            },
+            {
+              "text": "any",
+              "lang": "en-us"
+            },
+            {
+              "text": ", ",
+              "lang": "es-419"
+            },
+            {
+              "text": "much",
+              "lang": "en-us"
+            },
+            {
+              "text": "/",
+              "lang": "es-419"
+            },
+            {
+              "text": "many",
+              "lang": "en-us"
+            },
+            {
+              "text": "; objetos directos; peticiones con ",
+              "lang": "es-419"
+            },
+            {
+              "text": "could",
+              "lang": "en-us"
+            },
+            {
+              "text": " y ",
+              "lang": "es-419"
+            },
+            {
+              "text": "would like",
+              "lang": "en-us"
+            },
+            {
+              "text": ".",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "sˌustantˈiβos kontˈaβles i nˈo kontˈaβles; sˌʌm bˈara ˌɛni , mˈʌtʃ bˈara mˈɛni ; oβxˈetos ðiɾˈektos; pˌetisjˈones kˈon kˈʊd i wʊd lˈaɪk ."
+        }
+      ]
+    },
+    {
+      "file": "02.wav",
+      "text": "Conjunto de modelos. I'd like to try the daily special. How much is a pound of tomatoes? I'd like soup without meat. The server brings us the check. Excuse me, I ordered water, not soda. Quisiera probar el plato del día. ¿Cuánto cuesta una libra de tomates? Quisiera una sopa sin carne. La persona que atiende nos trae la cuenta. Disculpe, pedí agua, no refresco.",
+      "sentences": [
+        {
+          "text": "Conjunto de modelos.",
+          "segments": [
+            {
+              "text": "Conjunto de modelos.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "koŋxˈunto ðe moðˈelos."
+        },
+        {
+          "text": "I'd like to try the daily special.",
+          "segments": [
+            {
+              "text": "I'd like to try the daily special.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "aɪd lˈaɪk tə tɹˈaɪ ðə dˈeɪli spˈɛʃəl."
+        },
+        {
+          "text": "How much is a pound of tomatoes?",
+          "segments": [
+            {
+              "text": "How much is a pound of tomatoes?",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "hˌaʊ mˈʌtʃ ɪz ɐ pˈaʊnd ʌv təmˈeɪɾoʊz?"
+        },
+        {
+          "text": "I'd like soup without meat.",
+          "segments": [
+            {
+              "text": "I'd like soup without meat.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "aɪd lˈaɪk sˈuːp wɪðˌaʊt mˈiːt."
+        },
+        {
+          "text": "The server brings us the check.",
+          "segments": [
+            {
+              "text": "The server brings us the check.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðə sˈɜːvɚ bɹˈɪŋz ˌʌs ðə tʃˈɛk."
+        },
+        {
+          "text": "Excuse me, I ordered water, not soda.",
+          "segments": [
+            {
+              "text": "Excuse me, I ordered water, not soda.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɛkskjˈuːs mˌiː, aɪ ˈɔːɹdɚd wˈɔːɾɚ, nˌɑːt sˈoʊdə."
+        },
+        {
+          "text": "Quisiera probar el plato del día.",
+          "segments": [
+            {
+              "text": "Quisiera probar el plato del día.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kisjˈeɾa pɾoβˈaɾ el plˈato ðel ðˈia."
+        },
+        {
+          "text": "¿Cuánto cuesta una libra de tomates?",
+          "segments": [
+            {
+              "text": "¿Cuánto cuesta una libra de tomates?",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kwˈanto kwˈesta ˈuna lˈiβɾa ðe tomˈates?"
+        },
+        {
+          "text": "Quisiera una sopa sin carne.",
+          "segments": [
+            {
+              "text": "Quisiera una sopa sin carne.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kisjˈeɾa ˈuna sˈopa sin kˈaɾne."
+        },
+        {
+          "text": "La persona que atiende nos trae la cuenta.",
+          "segments": [
+            {
+              "text": "La persona que atiende nos trae la cuenta.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "la peɾsˈona ke atjˈɛnde nos tɾˈae la kwˈɛnta."
+        },
+        {
+          "text": "Disculpe, pedí agua, no refresco.",
+          "segments": [
+            {
+              "text": "Disculpe, pedí agua, no refresco.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "diskˈulpe, peðˈi ˈaɣwa, nˈo refɾˈesko."
+        }
+      ]
+    },
+    {
+      "file": "03.wav",
+      "text": "Práctica contrastiva. Cambia la persona, el tiempo, el número o el grado de formalidad de cada modelo sin perder su propósito comunicativo.",
+      "sentences": [
+        {
+          "text": "Práctica contrastiva.",
+          "segments": [
+            {
+              "text": "Práctica contrastiva.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "pɾˈaktika kˌontɾastˈiβa."
+        },
+        {
+          "text": "Cambia la persona, el tiempo, el número o el grado de formalidad de cada modelo sin perder su propósito comunicativo.",
+          "segments": [
+            {
+              "text": "Cambia la persona, el tiempo, el número o el grado de formalidad de cada modelo sin perder su propósito comunicativo.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kˈambja la peɾsˈona, el tjˈempo, el nˈumeɾo o el ɣɾˈaðo ðe fˌoɾmaliðˈad ðe kˈaða moðˈelo sim peɾðˈeɾ su pɾopˈosito kˌomunˌikatˈiβo."
+        }
+      ]
+    },
+    {
+      "file": "04.wav",
+      "text": "Comprobación de producción. Di una oración original para cada función: comprar alimentos; pedir una comida; explicar necesidades alimentarias. Después escríbela y compara las formas oral y escrita.",
+      "sentences": [
+        {
+          "text": "Comprobación de producción.",
+          "segments": [
+            {
+              "text": "Comprobación de producción.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kˌompɾoβasjˈon de pɾˌoðuksjˈon."
+        },
+        {
+          "text": "Di una oración original para cada función: comprar alimentos; pedir una comida; explicar necesidades alimentarias.",
+          "segments": [
+            {
+              "text": "Di una oración original para cada función: comprar alimentos; pedir una comida; explicar necesidades alimentarias.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "dˈi ˈuna ˌoɾasjˈon ˌoɾixinˈal pˌaɾa kˈaða funsjˈon: kompɾˈaɾ ˌalimˈɛntos; peðˈiɾ ˈuna komˈiða; ˌeksplikˈaɾ nˌesesiðˈaðes ˌalimentˈaɾjas."
+        },
+        {
+          "text": "Después escríbela y compara las formas oral y escrita.",
+          "segments": [
+            {
+              "text": "Después escríbela y compara las formas oral y escrita.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "despwˈes eskɾˈiβela i kompˈaɾa las fˈoɾmas oɾˈal i eskɾˈita."
+        }
+      ]
+    },
+    {
+      "file": "05.wav",
+      "text": "Lenguaje modelo. I'd like to try the daily special. — Quisiera probar el plato del día. How much is a pound of tomatoes? — ¿Cuánto cuesta una libra de tomates? I'd like soup without meat. — Quisiera una sopa sin carne. The server brings us the check. — La persona que atiende nos trae la cuenta. Excuse me, I ordered water, not soda. — Disculpe, pedí agua, no refresco.",
+      "sentences": [
+        {
+          "text": "Lenguaje modelo.",
+          "segments": [
+            {
+              "text": "Lenguaje modelo.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "leŋɡwˈaxe moðˈelo."
+        },
+        {
+          "text": "I'd like to try the daily special.",
+          "segments": [
+            {
+              "text": "I'd like to try the daily special.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "aɪd lˈaɪk tə tɹˈaɪ ðə dˈeɪli spˈɛʃəl."
+        },
+        {
+          "text": "— Quisiera probar el plato del día.",
+          "segments": [
+            {
+              "text": "— Quisiera probar el plato del día.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— kisjˈeɾa pɾoβˈaɾ el plˈato ðel ðˈia."
+        },
+        {
+          "text": "How much is a pound of tomatoes?",
+          "segments": [
+            {
+              "text": "How much is a pound of tomatoes?",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "hˌaʊ mˈʌtʃ ɪz ɐ pˈaʊnd ʌv təmˈeɪɾoʊz?"
+        },
+        {
+          "text": "— ¿Cuánto cuesta una libra de tomates?",
+          "segments": [
+            {
+              "text": "— ¿Cuánto cuesta una libra de tomates?",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— kwˈanto kwˈesta ˈuna lˈiβɾa ðe tomˈates?"
+        },
+        {
+          "text": "I'd like soup without meat.",
+          "segments": [
+            {
+              "text": "I'd like soup without meat.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "aɪd lˈaɪk sˈuːp wɪðˌaʊt mˈiːt."
+        },
+        {
+          "text": "— Quisiera una sopa sin carne.",
+          "segments": [
+            {
+              "text": "— Quisiera una sopa sin carne.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— kisjˈeɾa ˈuna sˈopa sin kˈaɾne."
+        },
+        {
+          "text": "The server brings us the check.",
+          "segments": [
+            {
+              "text": "The server brings us the check.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðə sˈɜːvɚ bɹˈɪŋz ˌʌs ðə tʃˈɛk."
+        },
+        {
+          "text": "— La persona que atiende nos trae la cuenta.",
+          "segments": [
+            {
+              "text": "— La persona que atiende nos trae la cuenta.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— la peɾsˈona ke atjˈɛnde nos tɾˈae la kwˈɛnta."
+        },
+        {
+          "text": "Excuse me, I ordered water, not soda.",
+          "segments": [
+            {
+              "text": "Excuse me, I ordered water, not soda.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɛkskjˈuːs mˌiː, aɪ ˈɔːɹdɚd wˈɔːɾɚ, nˌɑːt sˈoʊdə."
+        },
+        {
+          "text": "— Disculpe, pedí agua, no refresco.",
+          "segments": [
+            {
+              "text": "— Disculpe, pedí agua, no refresco.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— diskˈulpe, peðˈi ˈaɣwa, nˈo refɾˈesko."
+        }
+      ]
+    },
+    {
+      "file": "06.wav",
+      "text": "Comprueba tu preparación. Explica la idea central. Produce un ejemplo original. Completa la evaluación con un 85 % o más.",
+      "sentences": [
+        {
+          "text": "Comprueba tu preparación.",
+          "segments": [
+            {
+              "text": "Comprueba tu preparación.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kˌompɾuˈeβa tu pɾˌepaɾasjˈon."
+        },
+        {
+          "text": "Explica la idea central.",
+          "segments": [
+            {
+              "text": "Explica la idea central.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "eksplˈika la iðˈea sentɾˈal."
+        },
+        {
+          "text": "Produce un ejemplo original.",
+          "segments": [
+            {
+              "text": "Produce un ejemplo original.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "pɾoðˈuse ˈun exˈemplo ˌoɾixinˈal."
+        },
+        {
+          "text": "Completa la evaluación con un 85 % o más.",
+          "segments": [
+            {
+              "text": "Completa la evaluación con un 85 % o más.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "komplˈeta la ˌeβaluasjˈon kon ˈun otʃˌɛntaisˈinko poɾsjˈɛnto o mˈas."
+        }
+      ]
+    },
+    {
+      "file": "vocab-00.wav",
+      "text": "a market",
+      "sentences": [
+        {
+          "text": "a market",
+          "segments": [
+            {
+              "text": "a market",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɐ mˈɑːɹkɪt"
+        }
+      ]
+    },
+    {
+      "file": "vocab-01.wav",
+      "text": "the check",
+      "sentences": [
+        {
+          "text": "the check",
+          "segments": [
+            {
+              "text": "the check",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðə tʃˈɛk"
+        }
+      ]
+    },
+    {
+      "file": "vocab-02.wav",
+      "text": "a dish",
+      "sentences": [
+        {
+          "text": "a dish",
+          "segments": [
+            {
+              "text": "a dish",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɐ dˈɪʃ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-03.wav",
+      "text": "a drink",
+      "sentences": [
+        {
+          "text": "a drink",
+          "segments": [
+            {
+              "text": "a drink",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɐ dɹˈɪŋk"
+        }
+      ]
+    },
+    {
+      "file": "vocab-04.wav",
+      "text": "a pound",
+      "sentences": [
+        {
+          "text": "a pound",
+          "segments": [
+            {
+              "text": "a pound",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɐ pˈaʊnd"
+        }
+      ]
+    },
+    {
+      "file": "vocab-05.wav",
+      "text": "without",
+      "sentences": [
+        {
+          "text": "without",
+          "segments": [
+            {
+              "text": "without",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wɪðˈaʊt"
+        }
+      ]
+    },
+    {
+      "file": "vocab-06.wav",
+      "text": "I would like",
+      "sentences": [
+        {
+          "text": "I would like",
+          "segments": [
+            {
+              "text": "I would like",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "aɪ wʊd lˈaɪk"
+        }
+      ]
+    },
+    {
+      "file": "vocab-07.wav",
+      "text": "to try",
+      "sentences": [
+        {
+          "text": "to try",
+          "segments": [
+            {
+              "text": "to try",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tə tɹˈaɪ"
+        }
+      ]
+    }
+  ]
+}

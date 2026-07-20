@@ -1,0 +1,455 @@
+{
+  "profile": "sky",
+  "utterances": [
+    {
+      "file": "00.wav",
+      "text": "Semana 27: Obligación, recomendación y postura. recomendar una acción expresar reacción distinguir obligación de consejo",
+      "sentences": [
+        {
+          "text": "Semana 27: Obligación, recomendación y postura.",
+          "segments": [
+            {
+              "text": "Semana 27: Obligación, recomendación y postura.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "semˈana βˌeɪntisjˈete: ˌoβliɣasjˈon, rˌekomˌendasjˈon i postˈuɾa."
+        },
+        {
+          "text": "recomendar una acción expresar reacción distinguir obligación de consejo",
+          "segments": [
+            {
+              "text": "recomendar una acción expresar reacción distinguir obligación de consejo",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "rˌekomendˈaɾ ˈuna aksjˈon ˌekspɾesˈaɾ rˌeaksjˈon dˌistiŋɡˈiɾ ˌoβliɣasjˈon de konsˈexo"
+        }
+      ]
+    },
+    {
+      "file": "01.wav",
+      "text": "Lee para entender la situación. Residents demand that the city repair the bridge. The engineer recommends closing it temporarily and hopes the work will end before the rainy season. Los residentes exigen que la ciudad repare el puente. La ingeniera recomienda cerrarlo temporalmente y espera que el trabajo termine antes de la temporada de lluvias.",
+      "sentences": [
+        {
+          "text": "Lee para entender la situación.",
+          "segments": [
+            {
+              "text": "Lee para entender la situación.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "lˈee pˌaɾa ˌentendˈeɾ la sˌitwasjˈon."
+        },
+        {
+          "text": "Residents demand that the city repair the bridge.",
+          "segments": [
+            {
+              "text": "Residents demand that the city repair the bridge.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɹˈɛzᵻdənts dᵻmˈænd ðætðə sˈɪɾi ɹᵻpˈɛɹ ðə bɹˈɪdʒ."
+        },
+        {
+          "text": "The engineer recommends closing it temporarily and hopes the work will end before the rainy season.",
+          "segments": [
+            {
+              "text": "The engineer recommends closing it temporarily and hopes the work will end before the rainy season.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðɪ ˌɛndʒɪnˈɪɹ ɹˌɛkəmˈɛndz klˈoʊzɪŋ ɪt tˌɛmpɚɹˈɛɹᵻli ænd hˈoʊps ðə wˈɜːk wɪl ˈɛnd bᵻfˌɔːɹ ðə ɹˈeɪni sˈiːzən."
+        },
+        {
+          "text": "Los residentes exigen que la ciudad repare el puente.",
+          "segments": [
+            {
+              "text": "Los residentes exigen que la ciudad repare el puente.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "los rˌesiðˈɛntes eksˈixen ke la sjuðˈad repˈaɾe el pwˈɛnte."
+        },
+        {
+          "text": "La ingeniera recomienda cerrarlo temporalmente y espera que el trabajo termine antes de la temporada de lluvias.",
+          "segments": [
+            {
+              "text": "La ingeniera recomienda cerrarlo temporalmente y espera que el trabajo termine antes de la temporada de lluvias.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "la ˌiŋxenjˈeɾa rˌekomjˈɛnda serˈaɾlo tˌempoɾˈalmˈente i espˈeɾa ke el tɾaβˈaxo teɾmˈine ˈantes ðe la tˌempoɾˈaða ðe ʝˈuβjas."
+        }
+      ]
+    },
+    {
+      "file": "02.wav",
+      "text": "Lee de nuevo para buscar evidencia. Identifica quién actúa, qué cambia, cuándo ocurre y qué palabras establecen la relación entre los acontecimientos.",
+      "sentences": [
+        {
+          "text": "Lee de nuevo para buscar evidencia.",
+          "segments": [
+            {
+              "text": "Lee de nuevo para buscar evidencia.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "lˈee ðe nwˈeβo pˌaɾa βuskˈaɾ ˌeβiðˈɛnsja."
+        },
+        {
+          "text": "Identifica quién actúa, qué cambia, cuándo ocurre y qué palabras establecen la relación entre los acontecimientos.",
+          "segments": [
+            {
+              "text": "Identifica quién actúa, qué cambia, cuándo ocurre y qué palabras establecen la relación entre los acontecimientos.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˌiðentifˈika kjˈen aktˈua, kˈe kˈambja, kwˈando okˈure i kˈe palˈaβɾas ˌestaβlˈesen la rˌelasjˈon ˌentɾe los ˌakontˌesimjˈɛntos."
+        }
+      ]
+    },
+    {
+      "file": "03.wav",
+      "text": "Actividades de lectura. Actividad de lectura 64; Actividad de lectura 65; Actividad de lectura 66",
+      "sentences": [
+        {
+          "text": "Actividades de lectura.",
+          "segments": [
+            {
+              "text": "Actividades de lectura.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˌaktiβiðˈaðes ðe lektˈuɾa."
+        },
+        {
+          "text": "Actividad de lectura 64; Actividad de lectura 65; Actividad de lectura 66",
+          "segments": [
+            {
+              "text": "Actividad de lectura 64; Actividad de lectura 65; Actividad de lectura 66",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˌaktiβiðˈad ðe lektˈuɾa sɛsˌɛntaikwˈatɾo; ˌaktiβiðˈad ðe lektˈuɾa sɛsˌɛntaisˈinko; ˌaktiβiðˈad ðe lektˈuɾa sɛsˌɛntaisˈeɪs"
+        }
+      ]
+    },
+    {
+      "file": "04.wav",
+      "text": "Reconstrucción. Sin mirar el texto, expresa la idea principal, tres detalles y una inferencia razonable en inglés.",
+      "sentences": [
+        {
+          "text": "Reconstrucción.",
+          "segments": [
+            {
+              "text": "Reconstrucción.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "rˌekonstɾuksjˈon."
+        },
+        {
+          "text": "Sin mirar el texto, expresa la idea principal, tres detalles y una inferencia razonable en inglés.",
+          "segments": [
+            {
+              "text": "Sin mirar el texto, expresa la idea principal, tres detalles y una inferencia razonable en inglés.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "sin miɾˈaɾ el tˈeksto, ekspɾˈesa la iðˈea pɾˌinsipˈal, tɾˈes ðetˈajjes i ˈuna ˌinfeɾˈɛnsja rˌasonˈaβle en iŋɡlˈes."
+        }
+      ]
+    },
+    {
+      "file": "05.wav",
+      "text": "Lenguaje modelo. I recommend that you review the data. — Recomiendo que revises los datos. Residents have to participate. — Los residentes tienen que participar. I'm glad you're here. — Me alegra que estés aquí. The director asked us to arrive early. — La directora nos pidió llegar temprano. They might find a fair solution. — Quizá encuentren una solución justa.",
+      "sentences": [
+        {
+          "text": "Lenguaje modelo.",
+          "segments": [
+            {
+              "text": "Lenguaje modelo.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "leŋɡwˈaxe moðˈelo."
+        },
+        {
+          "text": "I recommend that you review the data.",
+          "segments": [
+            {
+              "text": "I recommend that you review the data.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "aɪ ɹˌɛkəmˈɛnd ðæt juː ɹᵻvjˈuː ðə dˈeɪɾə."
+        },
+        {
+          "text": "— Recomiendo que revises los datos.",
+          "segments": [
+            {
+              "text": "— Recomiendo que revises los datos.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— rˌekomjˈɛndo ke reβˈises los ðˈatos."
+        },
+        {
+          "text": "Residents have to participate.",
+          "segments": [
+            {
+              "text": "Residents have to participate.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɹˈɛzᵻdənts hæv tə pɑːɹtˈɪsᵻpˌeɪt."
+        },
+        {
+          "text": "— Los residentes tienen que participar.",
+          "segments": [
+            {
+              "text": "— Los residentes tienen que participar.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— los rˌesiðˈɛntes tjˈenen ke pˌaɾtisipˈaɾ."
+        },
+        {
+          "text": "I'm glad you're here.",
+          "segments": [
+            {
+              "text": "I'm glad you're here.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "aɪm ɡlˈæd jʊɹ hˈɪɹ."
+        },
+        {
+          "text": "— Me alegra que estés aquí.",
+          "segments": [
+            {
+              "text": "— Me alegra que estés aquí.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— me alˈeɣɾa ke estˈes akˈi."
+        },
+        {
+          "text": "The director asked us to arrive early.",
+          "segments": [
+            {
+              "text": "The director asked us to arrive early.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðə dᵻɹˈɛktɚɹ ˈæskt ˌʌs tʊ ɚɹˈaɪv ˈɜːli."
+        },
+        {
+          "text": "— La directora nos pidió llegar temprano.",
+          "segments": [
+            {
+              "text": "— La directora nos pidió llegar temprano.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— la ðˌiɾektˈoɾa nos piðjˈo ʝeɣˈaɾ tempɾˈano."
+        },
+        {
+          "text": "They might find a fair solution.",
+          "segments": [
+            {
+              "text": "They might find a fair solution.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðeɪ mˌaɪt fˈaɪnd ɐ fˈɛɹ səlˈuːʃən."
+        },
+        {
+          "text": "— Quizá encuentren una solución justa.",
+          "segments": [
+            {
+              "text": "— Quizá encuentren una solución justa.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— kisˈa enkwˈɛntɾen ˈuna sˌolusjˈon xˈusta."
+        }
+      ]
+    },
+    {
+      "file": "06.wav",
+      "text": "Comprueba tu preparación. Explica la idea central. Produce un ejemplo original. Completa la evaluación con un 85 % o más.",
+      "sentences": [
+        {
+          "text": "Comprueba tu preparación.",
+          "segments": [
+            {
+              "text": "Comprueba tu preparación.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kˌompɾuˈeβa tu pɾˌepaɾasjˈon."
+        },
+        {
+          "text": "Explica la idea central.",
+          "segments": [
+            {
+              "text": "Explica la idea central.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "eksplˈika la iðˈea sentɾˈal."
+        },
+        {
+          "text": "Produce un ejemplo original.",
+          "segments": [
+            {
+              "text": "Produce un ejemplo original.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "pɾoðˈuse ˈun exˈemplo ˌoɾixinˈal."
+        },
+        {
+          "text": "Completa la evaluación con un 85 % o más.",
+          "segments": [
+            {
+              "text": "Completa la evaluación con un 85 % o más.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "komplˈeta la ˌeβaluasjˈon kon ˈun otʃˌɛntaisˈinko poɾsjˈɛnto o mˈas."
+        }
+      ]
+    },
+    {
+      "file": "vocab-00.wav",
+      "text": "to recommend",
+      "sentences": [
+        {
+          "text": "to recommend",
+          "segments": [
+            {
+              "text": "to recommend",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tə ɹˌɛkəmˈɛnd"
+        }
+      ]
+    },
+    {
+      "file": "vocab-01.wav",
+      "text": "necessary",
+      "sentences": [
+        {
+          "text": "necessary",
+          "segments": [
+            {
+              "text": "necessary",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "nˈɛsᵻsɚɹi"
+        }
+      ]
+    },
+    {
+      "file": "vocab-02.wav",
+      "text": "required",
+      "sentences": [
+        {
+          "text": "required",
+          "segments": [
+            {
+              "text": "required",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɹᵻkwˈaɪɚd"
+        }
+      ]
+    },
+    {
+      "file": "vocab-03.wav",
+      "text": "possible",
+      "sentences": [
+        {
+          "text": "possible",
+          "segments": [
+            {
+              "text": "possible",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "pˈɑːsᵻbəl"
+        }
+      ]
+    },
+    {
+      "file": "vocab-04.wav",
+      "text": "a rule",
+      "sentences": [
+        {
+          "text": "a rule",
+          "segments": [
+            {
+              "text": "a rule",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɐ ɹˈuːl"
+        }
+      ]
+    },
+    {
+      "file": "vocab-05.wav",
+      "text": "advice",
+      "sentences": [
+        {
+          "text": "advice",
+          "segments": [
+            {
+              "text": "advice",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɐdvˈaɪs"
+        }
+      ]
+    },
+    {
+      "file": "vocab-06.wav",
+      "text": "permission",
+      "sentences": [
+        {
+          "text": "permission",
+          "segments": [
+            {
+              "text": "permission",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "pɚmˈɪʃən"
+        }
+      ]
+    },
+    {
+      "file": "vocab-07.wav",
+      "text": "a solution",
+      "sentences": [
+        {
+          "text": "a solution",
+          "segments": [
+            {
+              "text": "a solution",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɐ səlˈuːʃən"
+        }
+      ]
+    }
+  ]
+}

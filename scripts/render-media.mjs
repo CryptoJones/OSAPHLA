@@ -7,7 +7,9 @@ import { chromium } from "playwright";
 
 const execFile = promisify(execFileCallback);
 const ROOT = resolve(import.meta.dirname, "..");
-const course = JSON.parse(await readFile(resolve(ROOT, "src/data/course.json"), "utf8"));
+const courseSlug = process.argv.includes("--course") ? process.argv[process.argv.indexOf("--course") + 1] : "es";
+if (!["es", "en"].includes(courseSlug)) throw new Error(`Unknown course: ${courseSlug}. Use --course es or --course en.`);
+const course = JSON.parse(await readFile(resolve(ROOT, `src/data/${courseSlug}/course.json`), "utf8"));
 const requested = process.argv.includes("--section") ? process.argv[process.argv.indexOf("--section") + 1] : null;
 const requestedKind = process.argv.includes("--kind") ? process.argv[process.argv.indexOf("--kind") + 1] : null;
 const force = process.argv.includes("--force");
@@ -16,9 +18,13 @@ const jobs = Math.max(1, Math.min(4, Number(process.argv.includes("--jobs") ? pr
 const chrome = process.env.CHROME || "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome";
 const voiceOverride = process.argv.includes("--voice") ? process.argv[process.argv.indexOf("--voice") + 1] : null;
 const manifestOnly = process.argv.includes("--manifest-only");
-const voiceProfiles = ["dora", "y1", "y3", "santa", "e"];
-const voiceLabels = { dora: "Original Dora", y1: "Younger Dora Y1", y3: "Younger Dora Y3", santa: "Original Santa", e: "Dora/Santa E" };
-const spanishTerms = [...new Set(course.sections.flatMap((section) => (section.vocabulary || []).map((entry) => entry.es)))];
+const voiceConfigs = {
+  es: { profiles: ["dora", "y1", "y3", "santa", "e"], labels: { dora: "Original Dora", y1: "Younger Dora Y1", y3: "Younger Dora Y3", santa: "Original Santa", e: "Dora/Santa E" }, pipelineVersion: 3, manifestVersion: 2 },
+  en: { profiles: ["heart", "bella", "sky", "michael", "liam"], labels: { heart: "American Heart", bella: "American Bella", sky: "American Sky", michael: "American Michael", liam: "American Liam" }, pipelineVersion: 7, manifestVersion: 3 }
+};
+const voiceConfig = voiceConfigs[courseSlug];
+const voiceProfiles = voiceConfig.profiles;
+const voiceLabels = voiceConfig.labels;
 const themes = {
   "contrast-dark": { bg: "#000000", panel: "#101010", text: "#ffffff", muted: "#e6e6e6", accent: "#5effc1", second: "#ffe45c", border: "#ffffff" },
   "contrast-light": { bg: "#ffffff", panel: "#f4f4f4", text: "#070707", muted: "#292929", accent: "#004c3f", second: "#6a4300", border: "#111111" },
@@ -70,23 +76,24 @@ function slideHtml(slide, index, total) {
   return `<!doctype html><meta charset="utf-8"><style>
   *{box-sizing:border-box}body{margin:0;width:1280px;height:720px;overflow:hidden;background:${palette.bg};color:${palette.text};font-family:Arial,sans-serif;padding:74px 86px;display:flex;flex-direction:column;justify-content:center;border:14px solid ${palette.panel}}
   body:after{content:"";position:absolute;right:-90px;bottom:-110px;width:340px;height:340px;border:58px solid ${palette.accent}14;border-radius:50%}small{position:absolute;right:52px;top:40px;color:${palette.muted};font-size:20px;letter-spacing:2px}.kicker{color:${palette.accent};text-transform:uppercase;letter-spacing:4px;font-weight:800;font-size:20px;border-left:7px solid ${palette.accent};padding-left:18px}h1{font-size:66px;line-height:1.05;max-width:880px;margin:22px 0;color:${palette.text}}p,li{font-size:31px;line-height:1.45;max-width:980px}li{margin:12px 0}footer{position:absolute;left:86px;bottom:38px;color:${palette.second};font-weight:700;font-size:18px;letter-spacing:2px}</style>
-  <small>${String(index + 1).padStart(2,"0")} / ${String(total).padStart(2,"0")}</small>${slide.kicker ? `<div class="kicker">${escapeHtml(slide.kicker)}</div>` : ""}<h1>${escapeHtml(slide.title)}</h1>${body}<footer>OSAPHLA · OPEN SOURCE ACCESSIBLE PAN-HISPANIC LANGUAGE ACADEMY</footer>`;
+  <small>${String(index + 1).padStart(2,"0")} / ${String(total).padStart(2,"0")}</small>${slide.kicker ? `<div class="kicker">${escapeHtml(slide.kicker)}</div>` : ""}<h1>${escapeHtml(slide.title)}</h1>${body}<footer>OSAPHLA · OPEN SOURCE ACCESSIBLE LANGUAGE ACADEMY</footer>`;
 }
 
 function timestamp(seconds) {
   const hours = Math.floor(seconds / 3600); const minutes = Math.floor(seconds % 3600 / 60); const secs = seconds % 60;
   return `${String(hours).padStart(2,"0")}:${String(minutes).padStart(2,"0")}:${secs.toFixed(3).padStart(6,"0")}`;
 }
+function sentenceTerms(value) { return value.split(/(?<=[.!?])\s+/).map((item) => item.trim()).filter(Boolean); }
 
 async function renderSection(context, section, profile, kokoroPython) {
-  const destination = resolve(ROOT, `public/media/${section.id}`);
+  const destination = resolve(ROOT, `public/media/${courseSlug}/${section.id}`);
   await mkdir(destination, { recursive: true });
   await mkdir(`${destination}/slides`, { recursive: true });
   await mkdir(`${destination}/vocabulary`, { recursive: true });
   const exists = await access(`${destination}/lesson.mp4`).then(() => true).catch(() => false);
   const metadata = await readFile(`${destination}/voice.json`, "utf8").then(JSON.parse).catch(() => null);
-  if (!force && exists && metadata?.pipelineVersion === 3 && metadata?.profile === profile) { console.log(`skip ${section.id} (${profile})`); return; }
-  const work = await mkdtemp(join(tmpdir(), `espanol-${section.id}-`));
+  if (!force && exists && metadata?.pipelineVersion === voiceConfig.pipelineVersion && metadata?.profile === profile) { console.log(`skip ${courseSlug}/${section.id} (${profile})`); return; }
+  const work = await mkdtemp(join(tmpdir(), `osaphla-${courseSlug}-${section.id}-`));
   const visualConcat = [];
   const audioConcat = [];
   const captions = ["WEBVTT", ""];
@@ -102,12 +109,13 @@ async function renderSection(context, section, profile, kokoroPython) {
       utterances.push({ file: `${String(index).padStart(2,"0")}.wav`, text: `${slide.title}. ${slide.body.join(" ")}` });
     }
     for (let index = 0; index < section.vocabulary.length; index += 1) {
-      utterances.push({ file: `vocab-${String(index).padStart(2,"0")}.wav`, text: section.vocabulary[index].es });
+      utterances.push({ file: `vocab-${String(index).padStart(2,"0")}.wav`, text: section.vocabulary[index].target, language: course.targetLocale.toLowerCase() });
     }
     const utterancePath = join(work, "utterances.json");
     const pronunciationAuditPath = join(work, "pronunciation.json");
-    await writeFile(utterancePath, JSON.stringify({ spanishTerms, utterances }));
-    await run(kokoroPython, [resolve(ROOT, "scripts/kokoro-course-tts.py"), "--profile", profile, "--input-json", utterancePath, "--output-dir", work, "--audit-json", pronunciationAuditPath]);
+    const targetTerms = [...new Set([...(section.vocabulary || []).map((entry) => entry.target), ...(section.modelSentences || []).flatMap(sentenceTerms), ...(section.reading ? sentenceTerms(section.reading) : [])])];
+    await writeFile(utterancePath, JSON.stringify({ courseSlug, targetTerms, utterances }));
+    await run(kokoroPython, [resolve(ROOT, "scripts/kokoro-course-tts.py"), "--course", courseSlug, "--profile", profile, "--input-json", utterancePath, "--output-dir", work, "--audit-json", pronunciationAuditPath]);
     for (let index = 0; index < section.slides.length; index += 1) {
       const stem = join(work, String(index).padStart(2,"0"));
       const speech = utterances[index].text;
@@ -130,18 +138,18 @@ async function renderSection(context, section, profile, kokoroPython) {
     await writeFile(`${destination}/captions.vtt`, captions.join("\n"));
     await writeFile(`${destination}/transcript.txt`, `${section.media.transcript}\n`);
     await writeFile(`${destination}/pronunciation.json`, await readFile(pronunciationAuditPath));
-    await writeFile(`${destination}/voice.json`, `${JSON.stringify({ pipelineVersion: 3, profile, label: voiceLabels[profile], assignment: "balanced-seeded-v1", languageRouting: "phoneme-level es-419/en-us code-switching", sourceRate: 24000, deliveryRate: 48000, codec: "AAC 192 kbps stereo", adaptiveSlideAudio: "MP3 192 kbps stereo", vocabularyAudio: "MP3 192 kbps stereo" }, null, 2)}\n`);
-    console.log(`rendered ${section.id}: ${clock.toFixed(1)}s, ${section.slides.length} beats, voice=${profile}, theme=${theme}`);
+    await writeFile(`${destination}/voice.json`, `${JSON.stringify({ pipelineVersion: voiceConfig.pipelineVersion, courseSlug, profile, label: voiceLabels[profile], assignment: "balanced-seeded-v1", languageRouting: "phoneme-level es-419/en-us code-switching", sourceRate: 24000, deliveryRate: 48000, codec: "AAC 192 kbps stereo", adaptiveSlideAudio: "MP3 192 kbps stereo", vocabularyAudio: "MP3 192 kbps stereo" }, null, 2)}\n`);
+    console.log(`rendered ${courseSlug}/${section.id}: ${clock.toFixed(1)}s, ${section.slides.length} beats, voice=${profile}, theme=${theme}`);
   } finally { await closeWithTimeout(() => page.close(), `page ${section.id}`); await rm(work, { recursive: true, force: true }); }
 }
 
 const selected = course.sections.filter((section) => (!requested || section.id === requested) && (!requestedKind || section.kind === requestedKind));
 if (!selected.length) throw new Error(`No sections match section=${requested || "any"}, kind=${requestedKind || "any"}.`);
 if (voiceOverride && !voiceProfiles.includes(voiceOverride)) throw new Error(`Unknown voice profile: ${voiceOverride}`);
-await mkdir(resolve(ROOT, "public/media"), { recursive: true });
-await writeFile(resolve(ROOT, "public/media/voice-manifest.json"), `${JSON.stringify({ version: 2, strategy: "balanced-seeded", languageRouting: "phoneme-level es-419/en-us code-switching", profiles: voiceLabels, counts: Object.fromEntries(voiceProfiles.map((profile) => [profile, course.sections.filter((section) => assignedVoice.get(section.id) === profile).length])), assignments: Object.fromEntries(course.sections.map((section) => [section.id, assignedVoice.get(section.id)])) }, null, 2)}\n`);
+await mkdir(resolve(ROOT, `public/media/${courseSlug}`), { recursive: true });
+await writeFile(resolve(ROOT, `public/media/${courseSlug}/voice-manifest.json`), `${JSON.stringify({ version: voiceConfig.manifestVersion, courseSlug, strategy: "balanced-seeded", languageRouting: "phoneme-level es-419/en-us code-switching", profiles: voiceLabels, counts: Object.fromEntries(voiceProfiles.map((profile) => [profile, course.sections.filter((section) => assignedVoice.get(section.id) === profile).length])), assignments: Object.fromEntries(course.sections.map((section) => [section.id, assignedVoice.get(section.id)])) }, null, 2)}\n`);
 if (manifestOnly) {
-  console.log("VOICE MANIFEST COMPLETE: 180 stable, balanced assignments.");
+  console.log(`VOICE MANIFEST COMPLETE ${courseSlug}: 180 stable, balanced assignments.`);
   process.exit(0);
 }
 const kokoroPython = await firstExecutable([process.env.KOKORO_PYTHON, "/Users/akclark/source/repos/systems-design/pipeline/.venv/bin/python", "/Users/akclark/source/repos/intro-statistics/pipeline/.venv/bin/python"]);

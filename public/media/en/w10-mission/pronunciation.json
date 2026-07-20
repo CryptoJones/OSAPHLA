@@ -1,0 +1,435 @@
+{
+  "profile": "sky",
+  "utterances": [
+    {
+      "file": "00.wav",
+      "text": "Semana 10: Gustos, preferencias y ocio. expresar gustos invitar y sugerir comparar actividades",
+      "sentences": [
+        {
+          "text": "Semana 10: Gustos, preferencias y ocio.",
+          "segments": [
+            {
+              "text": "Semana 10: Gustos, preferencias y ocio.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "semˈana ðjˈɛs: ɡˈustos, pɾˌefeɾˈɛnsjas i ˈosjo."
+        },
+        {
+          "text": "expresar gustos invitar y sugerir comparar actividades",
+          "segments": [
+            {
+              "text": "expresar gustos invitar y sugerir comparar actividades",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˌekspɾesˈaɾ ɣˈustos ˌimbitˈaɾ i sˌuxeɾˈiɾ kˌompaɾˈaɾ ˌaktiβiðˈaðes"
+        }
+      ]
+    },
+    {
+      "file": "01.wav",
+      "text": "Instrucciones de la misión. Planifica una tarde libre para tres personas con preferencias y restricciones diferentes.",
+      "sentences": [
+        {
+          "text": "Instrucciones de la misión.",
+          "segments": [
+            {
+              "text": "Instrucciones de la misión.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˌinstɾuksjˈones ðe la misjˈon."
+        },
+        {
+          "text": "Planifica una tarde libre para tres personas con preferencias y restricciones diferentes.",
+          "segments": [
+            {
+              "text": "Planifica una tarde libre para tres personas con preferencias y restricciones diferentes.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "plˌanifˈika ˈuna tˈaɾðe lˈiβɾe pˌaɾa tɾˈes peɾsˈonas kom pɾˌefeɾˈɛnsjas i rˌestɾiksjˈones ðˌifeɾˈɛntes."
+        }
+      ]
+    },
+    {
+      "file": "02.wav",
+      "text": "Preparación. Selecciona diez palabras útiles, tres conectores y dos frases de reparación. Planifica ideas, no un párrafo memorizado.",
+      "sentences": [
+        {
+          "text": "Preparación.",
+          "segments": [
+            {
+              "text": "Preparación.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "pɾˌepaɾasjˈon."
+        },
+        {
+          "text": "Selecciona diez palabras útiles, tres conectores y dos frases de reparación.",
+          "segments": [
+            {
+              "text": "Selecciona diez palabras útiles, tres conectores y dos frases de reparación.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "sˌeleksjˈona ðjˈes palˈaβɾas ˈutiles, tɾˈes kˌonektˈoɾes i ðˈos fɾˈases ðe rˌepaɾasjˈon."
+        },
+        {
+          "text": "Planifica ideas, no un párrafo memorizado.",
+          "segments": [
+            {
+              "text": "Planifica ideas, no un párrafo memorizado.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "plˌanifˈika iðˈeas, nˈo ˈum pˈarafo mˌemoɾisˈaðo."
+        }
+      ]
+    },
+    {
+      "file": "03.wav",
+      "text": "Ejecución. Completa la tarea una vez para ganar fluidez, revisa la evidencia y repítela con más claridad y precisión.",
+      "sentences": [
+        {
+          "text": "Ejecución.",
+          "segments": [
+            {
+              "text": "Ejecución.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˌexekusjˈon."
+        },
+        {
+          "text": "Completa la tarea una vez para ganar fluidez, revisa la evidencia y repítela con más claridad y precisión.",
+          "segments": [
+            {
+              "text": "Completa la tarea una vez para ganar fluidez, revisa la evidencia y repítela con más claridad y precisión.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "komplˈeta la taɾˈea ˈuna βˈes pˌaɾa ɣanˈaɾ fluiðˈes, reβˈisa la ˌeβiðˈɛnsja i repˈitela kon mˈas klˌaɾiðˈað i pɾˌesisjˈon."
+        }
+      ]
+    },
+    {
+      "file": "04.wav",
+      "text": "Revisión posterior. Registra qué funcionó, qué bloqueó la comunicación y cuál será el cambio más importante para el próximo intento.",
+      "sentences": [
+        {
+          "text": "Revisión posterior.",
+          "segments": [
+            {
+              "text": "Revisión posterior.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "rˌeβisjˈom pˌosteɾjˈoɾ."
+        },
+        {
+          "text": "Registra qué funcionó, qué bloqueó la comunicación y cuál será el cambio más importante para el próximo intento.",
+          "segments": [
+            {
+              "text": "Registra qué funcionó, qué bloqueó la comunicación y cuál será el cambio más importante para el próximo intento.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "rexˈistɾa kˈe fˌunsjonˈo, kˈe βlˌokeˈo la kˌomunˌikasjˈon i kwˈal seɾˈa el kˈambjo mˈas ˌimpoɾtˈante pˌaɾa el pɾˈoksimo intˈɛnto."
+        }
+      ]
+    },
+    {
+      "file": "05.wav",
+      "text": "Lenguaje modelo. I like listening to live music. — Me gusta escuchar música en vivo. Tom is interested in documentaries. — A Tom le interesan los documentales. Would you rather go out or stay home? — ¿Prefieres salir o quedarte en casa? We love playing together. — Nos encanta jugar juntos. Hiking is quieter than soccer. — El senderismo es más tranquilo que el fútbol.",
+      "sentences": [
+        {
+          "text": "Lenguaje modelo.",
+          "segments": [
+            {
+              "text": "Lenguaje modelo.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "leŋɡwˈaxe moðˈelo."
+        },
+        {
+          "text": "I like listening to live music.",
+          "segments": [
+            {
+              "text": "I like listening to live music.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "aɪ lˈaɪk lˈɪsənɪŋ tə lˈɪv mjˈuːzɪk."
+        },
+        {
+          "text": "— Me gusta escuchar música en vivo.",
+          "segments": [
+            {
+              "text": "— Me gusta escuchar música en vivo.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— me ɣˈusta ˌeskutʃˈaɾ mˈusika em bˈiβo."
+        },
+        {
+          "text": "Tom is interested in documentaries.",
+          "segments": [
+            {
+              "text": "Tom is interested in documentaries.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tˈɑːm ɪz ˈɪntɹɛstᵻd ɪn dˌɑːkjuːmˈɛntɚɹiz."
+        },
+        {
+          "text": "— A Tom le interesan los documentales.",
+          "segments": [
+            {
+              "text": "— A Tom le interesan los documentales.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— a tˈom le ˌinteɾˈesan los ðˌokumentˈales."
+        },
+        {
+          "text": "Would you rather go out or stay home?",
+          "segments": [
+            {
+              "text": "Would you rather go out or stay home?",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wʊd juː ɹˈæðɚ ɡˌoʊ ˈaʊt ɔːɹ stˈeɪ hˈoʊm?"
+        },
+        {
+          "text": "— ¿Prefieres salir o quedarte en casa?",
+          "segments": [
+            {
+              "text": "— ¿Prefieres salir o quedarte en casa?",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— pɾefjˈeɾes salˈiɾ o keðˈaɾte en kˈasa?"
+        },
+        {
+          "text": "We love playing together.",
+          "segments": [
+            {
+              "text": "We love playing together.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wiː lˈʌv plˈeɪɪŋ təɡˈɛðɚ."
+        },
+        {
+          "text": "— Nos encanta jugar juntos.",
+          "segments": [
+            {
+              "text": "— Nos encanta jugar juntos.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— nos enkˈanta xuɣˈaɾ xˈuntos."
+        },
+        {
+          "text": "Hiking is quieter than soccer.",
+          "segments": [
+            {
+              "text": "Hiking is quieter than soccer.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "hˈaɪkɪŋ ɪz kwˈaɪəɾɚ ðɐn sˈɑːkɚ."
+        },
+        {
+          "text": "— El senderismo es más tranquilo que el fútbol.",
+          "segments": [
+            {
+              "text": "— El senderismo es más tranquilo que el fútbol.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— el sˌendeɾˈismo ˈes mˈas tɾankˈilo ke el fˈutβol."
+        }
+      ]
+    },
+    {
+      "file": "06.wav",
+      "text": "Comprueba tu preparación. Explica la idea central. Produce un ejemplo original. Completa la evaluación con un 85 % o más.",
+      "sentences": [
+        {
+          "text": "Comprueba tu preparación.",
+          "segments": [
+            {
+              "text": "Comprueba tu preparación.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kˌompɾuˈeβa tu pɾˌepaɾasjˈon."
+        },
+        {
+          "text": "Explica la idea central.",
+          "segments": [
+            {
+              "text": "Explica la idea central.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "eksplˈika la iðˈea sentɾˈal."
+        },
+        {
+          "text": "Produce un ejemplo original.",
+          "segments": [
+            {
+              "text": "Produce un ejemplo original.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "pɾoðˈuse ˈun exˈemplo ˌoɾixinˈal."
+        },
+        {
+          "text": "Completa la evaluación con un 85 % o más.",
+          "segments": [
+            {
+              "text": "Completa la evaluación con un 85 % o más.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "komplˈeta la ˌeβaluasjˈon kon ˈun otʃˌɛntaisˈinko poɾsjˈɛnto o mˈas."
+        }
+      ]
+    },
+    {
+      "file": "vocab-00.wav",
+      "text": "to like",
+      "sentences": [
+        {
+          "text": "to like",
+          "segments": [
+            {
+              "text": "to like",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tə lˈaɪk"
+        }
+      ]
+    },
+    {
+      "file": "vocab-01.wav",
+      "text": "to love",
+      "sentences": [
+        {
+          "text": "to love",
+          "segments": [
+            {
+              "text": "to love",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tə lˈʌv"
+        }
+      ]
+    },
+    {
+      "file": "vocab-02.wav",
+      "text": "to prefer",
+      "sentences": [
+        {
+          "text": "to prefer",
+          "segments": [
+            {
+              "text": "to prefer",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tə pɹɪfˈɜː"
+        }
+      ]
+    },
+    {
+      "file": "vocab-03.wav",
+      "text": "a movie",
+      "sentences": [
+        {
+          "text": "a movie",
+          "segments": [
+            {
+              "text": "a movie",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɐ mˈuːvi"
+        }
+      ]
+    },
+    {
+      "file": "vocab-04.wav",
+      "text": "music",
+      "sentences": [
+        {
+          "text": "music",
+          "segments": [
+            {
+              "text": "music",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "mjˈuːzɪk"
+        }
+      ]
+    },
+    {
+      "file": "vocab-05.wav",
+      "text": "a sport",
+      "sentences": [
+        {
+          "text": "a sport",
+          "segments": [
+            {
+              "text": "a sport",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɐ spˈɔːɹt"
+        }
+      ]
+    },
+    {
+      "file": "vocab-06.wav",
+      "text": "together",
+      "sentences": [
+        {
+          "text": "together",
+          "segments": [
+            {
+              "text": "together",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "təɡˈɛðɚ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-07.wav",
+      "text": "free time",
+      "sentences": [
+        {
+          "text": "free time",
+          "segments": [
+            {
+              "text": "free time",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "fɹˈiː tˈaɪm"
+        }
+      ]
+    }
+  ]
+}

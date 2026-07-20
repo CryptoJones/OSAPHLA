@@ -1,0 +1,475 @@
+{
+  "profile": "heart",
+  "utterances": [
+    {
+      "file": "00.wav",
+      "text": "Semana 33: Historia, sociedad y perspectivas. resumir un desarrollo histórico distinguir hecho de interpretación comparar perspectivas",
+      "sentences": [
+        {
+          "text": "Semana 33: Historia, sociedad y perspectivas.",
+          "segments": [
+            {
+              "text": "Semana 33: Historia, sociedad y perspectivas.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "semˈana tɾˌeɪntaitɾˈes: istˈoɾja, sˌosjeðˈað i pˌeɾspektˈiβas."
+        },
+        {
+          "text": "resumir un desarrollo histórico distinguir hecho de interpretación comparar perspectivas",
+          "segments": [
+            {
+              "text": "resumir un desarrollo histórico distinguir hecho de interpretación comparar perspectivas",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "rˌesumˈiɾ ˈun dˌesarˈojjo istˈoɾiko ðˌistiŋɡˈiɾ ˈetʃo ðe ˌinteɾpɾˌetasjˈon kˌompaɾˈaɾ pˌeɾspektˈiβas"
+        }
+      ]
+    },
+    {
+      "file": "01.wav",
+      "text": "Lee para entender la situación. Two sources describe the same protest. The newspaper emphasizes political change, while a testimony remembers everyday fear. Each perspective contributes different evidence. Dos fuentes describen la misma protesta. El periódico enfatiza el cambio político, mientras un testimonio recuerda el miedo cotidiano. Cada perspectiva aporta evidencia diferente.",
+      "sentences": [
+        {
+          "text": "Lee para entender la situación.",
+          "segments": [
+            {
+              "text": "Lee para entender la situación.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "lˈee pˌaɾa ˌentendˈeɾ la sˌitwasjˈon."
+        },
+        {
+          "text": "Two sources describe the same protest.",
+          "segments": [
+            {
+              "text": "Two sources describe the same protest.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tˈuː sˈɔːɹsᵻz dᵻskɹˈaɪb ðə sˈeɪm pɹˈoʊtɛst."
+        },
+        {
+          "text": "The newspaper emphasizes political change, while a testimony remembers everyday fear.",
+          "segments": [
+            {
+              "text": "The newspaper emphasizes political change, while a testimony remembers everyday fear.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðə nˈuːzpeɪpɚɹ ˈɛmfɐsˌaɪzᵻz pəlˈɪɾɪkəl tʃˈeɪndʒ, wˌaɪl ɐ tˈɛstᵻməni ɹᵻmˈɛmbɚz ˈɛvɹɪdˌeɪ fˈɪɹ."
+        },
+        {
+          "text": "Each perspective contributes different evidence.",
+          "segments": [
+            {
+              "text": "Each perspective contributes different evidence.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ˈiːtʃ pɚspˈɛktɪv kəntɹˈɪbjuːts dˈɪfɹənt ˈɛvɪdəns."
+        },
+        {
+          "text": "Dos fuentes describen la misma protesta.",
+          "segments": [
+            {
+              "text": "Dos fuentes describen la misma protesta.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "dˈos fwˈɛntes ðeskɾˈiβen la mˈisma pɾotˈesta."
+        },
+        {
+          "text": "El periódico enfatiza el cambio político, mientras un testimonio recuerda el miedo cotidiano.",
+          "segments": [
+            {
+              "text": "El periódico enfatiza el cambio político, mientras un testimonio recuerda el miedo cotidiano.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "el peɾjˈoðiko ˌenfatˈisa el kˈambjo polˈitiko, mjˌentɾas ˈun tˌestimˈonjo rekwˈeɾða el mjˈeðo kˌotiðjˈano."
+        },
+        {
+          "text": "Cada perspectiva aporta evidencia diferente.",
+          "segments": [
+            {
+              "text": "Cada perspectiva aporta evidencia diferente.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kˈaða pˌeɾspektˈiβa apˈoɾta ˌeβiðˈɛnsja ðˌifeɾˈɛnte."
+        }
+      ]
+    },
+    {
+      "file": "02.wav",
+      "text": "Lee de nuevo para buscar evidencia. Identifica quién actúa, qué cambia, cuándo ocurre y qué palabras establecen la relación entre los acontecimientos.",
+      "sentences": [
+        {
+          "text": "Lee de nuevo para buscar evidencia.",
+          "segments": [
+            {
+              "text": "Lee de nuevo para buscar evidencia.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "lˈee ðe nwˈeβo pˌaɾa βuskˈaɾ ˌeβiðˈɛnsja."
+        },
+        {
+          "text": "Identifica quién actúa, qué cambia, cuándo ocurre y qué palabras establecen la relación entre los acontecimientos.",
+          "segments": [
+            {
+              "text": "Identifica quién actúa, qué cambia, cuándo ocurre y qué palabras establecen la relación entre los acontecimientos.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˌiðentifˈika kjˈen aktˈua, kˈe kˈambja, kwˈando okˈure i kˈe palˈaβɾas ˌestaβlˈesen la rˌelasjˈon ˌentɾe los ˌakontˌesimjˈɛntos."
+        }
+      ]
+    },
+    {
+      "file": "03.wav",
+      "text": "Actividades de lectura. Actividad de lectura 79; Actividad de lectura 80",
+      "sentences": [
+        {
+          "text": "Actividades de lectura.",
+          "segments": [
+            {
+              "text": "Actividades de lectura.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˌaktiβiðˈaðes ðe lektˈuɾa."
+        },
+        {
+          "text": "Actividad de lectura 79; Actividad de lectura 80",
+          "segments": [
+            {
+              "text": "Actividad de lectura 79; Actividad de lectura 80",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˌaktiβiðˈad ðe lektˈuɾa sɛtˌɛntainwˈeβe; ˌaktiβiðˈad ðe lektˈuɾa otʃˈɛnta"
+        }
+      ]
+    },
+    {
+      "file": "04.wav",
+      "text": "Reconstrucción. Sin mirar el texto, expresa la idea principal, tres detalles y una inferencia razonable en inglés.",
+      "sentences": [
+        {
+          "text": "Reconstrucción.",
+          "segments": [
+            {
+              "text": "Reconstrucción.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "rˌekonstɾuksjˈon."
+        },
+        {
+          "text": "Sin mirar el texto, expresa la idea principal, tres detalles y una inferencia razonable en inglés.",
+          "segments": [
+            {
+              "text": "Sin mirar el texto, expresa la idea principal, tres detalles y una inferencia razonable en inglés.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "sin miɾˈaɾ el tˈeksto, ekspɾˈesa la iðˈea pɾˌinsipˈal, tɾˈes ðetˈajjes i ˈuna ˌinfeɾˈɛnsja rˌasonˈaβle en iŋɡlˈes."
+        }
+      ]
+    },
+    {
+      "file": "05.wav",
+      "text": "Lenguaje modelo. The source says that the reform expanded rights. — La fuente dice que la reforma amplió derechos. Others argue that inequality continued. — Otros sostienen que continuó la desigualdad. Many people had already emigrated when the government changed. — Muchas personas ya habían emigrado cuando cambió el gobierno. Although the facts are clear, their meaning is debated. — Aunque los hechos están claros, se debate su significado. The testimony offers a personal perspective. — El testimonio ofrece una perspectiva personal.",
+      "sentences": [
+        {
+          "text": "Lenguaje modelo.",
+          "segments": [
+            {
+              "text": "Lenguaje modelo.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "leŋɡwˈaxe moðˈelo."
+        },
+        {
+          "text": "The source says that the reform expanded rights.",
+          "segments": [
+            {
+              "text": "The source says that the reform expanded rights.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðə sˈɔːɹs sˈɛz ðætðə ɹᵻfˈɔːɹm ɛkspˈændᵻd ɹˈaɪts."
+        },
+        {
+          "text": "— La fuente dice que la reforma amplió derechos.",
+          "segments": [
+            {
+              "text": "— La fuente dice que la reforma amplió derechos.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— la fwˈɛnte ðˈise ke la refˈoɾma ˌampliˈo ðeɾˈetʃos."
+        },
+        {
+          "text": "Others argue that inequality continued.",
+          "segments": [
+            {
+              "text": "Others argue that inequality continued.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ˈʌðɚz ˈɑːɹɡjuː ðæt ɪniːkwˈɔlᵻɾi kəntˈɪnjuːd."
+        },
+        {
+          "text": "— Otros sostienen que continuó la desigualdad.",
+          "segments": [
+            {
+              "text": "— Otros sostienen que continuó la desigualdad.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— ˈotɾos sostjˈenen ke kˌontinwˈo la ðˌesiɣwalðˈad."
+        },
+        {
+          "text": "Many people had already emigrated when the government changed.",
+          "segments": [
+            {
+              "text": "Many people had already emigrated when the government changed.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "mˈɛni pˈiːpəl hæd ɔːlɹˌɛdi ˈɛmɪɡɹˌeɪɾᵻd wɛn ðə ɡˈʌvɚnmənt tʃˈeɪndʒd."
+        },
+        {
+          "text": "— Muchas personas ya habían emigrado cuando cambió el gobierno.",
+          "segments": [
+            {
+              "text": "— Muchas personas ya habían emigrado cuando cambió el gobierno.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— mˈutʃas peɾsˈonas ʝˈa aβˈian ˌemiɣɾˈaðo kwˌando kambjˈo el ɣoβjˈeɾno."
+        },
+        {
+          "text": "Although the facts are clear, their meaning is debated.",
+          "segments": [
+            {
+              "text": "Although the facts are clear, their meaning is debated.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɔːlðˈoʊ ðə fˈækts ɑːɹ klˈɪɹ, ðɛɹ mˈiːnɪŋ ɪz dᵻbˈeɪɾᵻd."
+        },
+        {
+          "text": "— Aunque los hechos están claros, se debate su significado.",
+          "segments": [
+            {
+              "text": "— Aunque los hechos están claros, se debate su significado.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— ˌaʊnke los ˈetʃos estˈan klˈaɾos, se ðeβˈate su sˌiɡnifikˈaðo."
+        },
+        {
+          "text": "The testimony offers a personal perspective.",
+          "segments": [
+            {
+              "text": "The testimony offers a personal perspective.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðə tˈɛstᵻməni ˈɔfɚz ɐ pˈɜːsənəl pɚspˈɛktɪv."
+        },
+        {
+          "text": "— El testimonio ofrece una perspectiva personal.",
+          "segments": [
+            {
+              "text": "— El testimonio ofrece una perspectiva personal.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— el tˌestimˈonjo ofɾˈese ˈuna pˌeɾspektˈiβa pˌeɾsonˈal."
+        }
+      ]
+    },
+    {
+      "file": "06.wav",
+      "text": "Comprueba tu preparación. Explica la idea central. Produce un ejemplo original. Completa la evaluación con un 85 % o más.",
+      "sentences": [
+        {
+          "text": "Comprueba tu preparación.",
+          "segments": [
+            {
+              "text": "Comprueba tu preparación.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kˌompɾuˈeβa tu pɾˌepaɾasjˈon."
+        },
+        {
+          "text": "Explica la idea central.",
+          "segments": [
+            {
+              "text": "Explica la idea central.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "eksplˈika la iðˈea sentɾˈal."
+        },
+        {
+          "text": "Produce un ejemplo original.",
+          "segments": [
+            {
+              "text": "Produce un ejemplo original.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "pɾoðˈuse ˈun exˈemplo ˌoɾixinˈal."
+        },
+        {
+          "text": "Completa la evaluación con un 85 % o más.",
+          "segments": [
+            {
+              "text": "Completa la evaluación con un 85 % o más.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "komplˈeta la ˌeβaluasjˈon kon ˈun otʃˌɛntaisˈinko poɾsjˈɛnto o mˈas."
+        }
+      ]
+    },
+    {
+      "file": "vocab-00.wav",
+      "text": "a source",
+      "sentences": [
+        {
+          "text": "a source",
+          "segments": [
+            {
+              "text": "a source",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɐ sˈɔːɹs"
+        }
+      ]
+    },
+    {
+      "file": "vocab-01.wav",
+      "text": "evidence",
+      "sentences": [
+        {
+          "text": "evidence",
+          "segments": [
+            {
+              "text": "evidence",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ˈɛvɪdəns"
+        }
+      ]
+    },
+    {
+      "file": "vocab-02.wav",
+      "text": "a claim",
+      "sentences": [
+        {
+          "text": "a claim",
+          "segments": [
+            {
+              "text": "a claim",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɐ klˈeɪm"
+        }
+      ]
+    },
+    {
+      "file": "vocab-03.wav",
+      "text": "a perspective",
+      "sentences": [
+        {
+          "text": "a perspective",
+          "segments": [
+            {
+              "text": "a perspective",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɐ pɚspˈɛktɪv"
+        }
+      ]
+    },
+    {
+      "file": "vocab-04.wav",
+      "text": "although",
+      "sentences": [
+        {
+          "text": "although",
+          "segments": [
+            {
+              "text": "although",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɔːlðˈoʊ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-05.wav",
+      "text": "therefore",
+      "sentences": [
+        {
+          "text": "therefore",
+          "segments": [
+            {
+              "text": "therefore",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðˈɛɹfɔːɹ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-06.wav",
+      "text": "to argue",
+      "sentences": [
+        {
+          "text": "to argue",
+          "segments": [
+            {
+              "text": "to argue",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tʊ ˈɑːɹɡjuː"
+        }
+      ]
+    },
+    {
+      "file": "vocab-07.wav",
+      "text": "to interpret",
+      "sentences": [
+        {
+          "text": "to interpret",
+          "segments": [
+            {
+              "text": "to interpret",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tʊ ɪntˈɜːpɹɪt"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,549 @@
+{
+  "profile": "heart",
+  "utterances": [
+    {
+      "file": "00.wav",
+      "text": "Semana 21: Objetos, destinatarios y orden. seguir quién recibe qué evitar repetición innecesaria aclarar una transacción",
+      "sentences": [
+        {
+          "text": "Semana 21: Objetos, destinatarios y orden.",
+          "segments": [
+            {
+              "text": "Semana 21: Objetos, destinatarios y orden.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "semˈana βˌeɪntiˈuno: oβxˈetos, dˌestinatˈaɾjos i ˈoɾðen."
+        },
+        {
+          "text": "seguir quién recibe qué evitar repetición innecesaria aclarar una transacción",
+          "segments": [
+            {
+              "text": "seguir quién recibe qué evitar repetición innecesaria aclarar una transacción",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "seɣˈiɾ kjˈen resˈiβe kˈe ˌeβitˈaɾ rˌepetisjˈon ˌinnesesˈaɾja ˌaklaɾˈaɾ ˈuna tɾˌansaksjˈon"
+        }
+      ]
+    },
+    {
+      "file": "01.wav",
+      "text": "Forma y significado. Pronombres objeto; verbos con objeto directo e indirecto; give/send/show; orden de complementos y preposiciones.",
+      "sentences": [
+        {
+          "text": "Forma y significado.",
+          "segments": [
+            {
+              "text": "Forma y significado.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "fˈoɾma i sˌiɡnifikˈaðo."
+        },
+        {
+          "text": "Pronombres objeto; verbos con objeto directo e indirecto; give/send/show; orden de complementos y preposiciones.",
+          "segments": [
+            {
+              "text": "Pronombres objeto; verbos con objeto directo e indirecto; ",
+              "lang": "es-419"
+            },
+            {
+              "text": "give",
+              "lang": "en-us"
+            },
+            {
+              "text": "/",
+              "lang": "es-419"
+            },
+            {
+              "text": "send",
+              "lang": "en-us"
+            },
+            {
+              "text": "/",
+              "lang": "es-419"
+            },
+            {
+              "text": "show",
+              "lang": "en-us"
+            },
+            {
+              "text": "; orden de complementos y preposiciones.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "pɾonˈombɾes oβxˈeto; bˈeɾβos kon oβxˈeto ðiɾˈekto e ˌindiɾˈekto; ɡˈɪv bˈara sˈɛnd bˈara ʃˈoʊ ; ˈoɾðen de kˌomplemˈɛntos i pɾˌeposisjˈones."
+        }
+      ]
+    },
+    {
+      "file": "02.wav",
+      "text": "Conjunto de modelos. I sent her the message this morning. Someone else received the package. Can you show it to me? I didn't explain the change to them. Return the documents to the manager. Le envié el mensaje esta mañana. Otra persona recibió el paquete. ¿Puedes mostrármelo? No les expliqué el cambio. Devuelve los documentos a la gerente.",
+      "sentences": [
+        {
+          "text": "Conjunto de modelos.",
+          "segments": [
+            {
+              "text": "Conjunto de modelos.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "koŋxˈunto ðe moðˈelos."
+        },
+        {
+          "text": "I sent her the message this morning.",
+          "segments": [
+            {
+              "text": "I sent her the message this morning.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "aɪ sˈɛnt hɜː ðə mˈɛsɪdʒ ðɪs mˈɔːɹnɪŋ."
+        },
+        {
+          "text": "Someone else received the package.",
+          "segments": [
+            {
+              "text": "Someone else received the package.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "sˈʌmwʌn ˈɛls ɹᵻsˈiːvd ðə pˈækɪdʒ."
+        },
+        {
+          "text": "Can you show it to me?",
+          "segments": [
+            {
+              "text": "Can you show it to me?",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "kæn juː ʃˈoʊ ɪt tə mˌiː?"
+        },
+        {
+          "text": "I didn't explain the change to them.",
+          "segments": [
+            {
+              "text": "I didn't explain the change to them.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "aɪ dˈɪdnt ɛksplˈeɪn ðə tʃˈeɪndʒ tə ðˌɛm."
+        },
+        {
+          "text": "Return the documents to the manager.",
+          "segments": [
+            {
+              "text": "Return the documents to the manager.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɹᵻtˈɜːn ðə dˈɑːkjuːmənts tə ðə mˈænɪdʒɚ."
+        },
+        {
+          "text": "Le envié el mensaje esta mañana.",
+          "segments": [
+            {
+              "text": "Le envié el mensaje esta mañana.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "le embjˈe el mensˈaxe ˈesta maɲˈana."
+        },
+        {
+          "text": "Otra persona recibió el paquete.",
+          "segments": [
+            {
+              "text": "Otra persona recibió el paquete.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˈotɾa peɾsˈona rˌesiβjˈo el pakˈete."
+        },
+        {
+          "text": "¿Puedes mostrármelo?",
+          "segments": [
+            {
+              "text": "¿Puedes mostrármelo?",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "pwˈeðes mostɾˈaɾmelo?"
+        },
+        {
+          "text": "No les expliqué el cambio.",
+          "segments": [
+            {
+              "text": "No les expliqué el cambio.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "nˈo les ˌeksplikˈe el kˈambjo."
+        },
+        {
+          "text": "Devuelve los documentos a la gerente.",
+          "segments": [
+            {
+              "text": "Devuelve los documentos a la gerente.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "deβwˈelβe los ðˌokumˈɛntos a la xeɾˈɛnte."
+        }
+      ]
+    },
+    {
+      "file": "03.wav",
+      "text": "Práctica contrastiva. Cambia la persona, el tiempo, el número o el grado de formalidad de cada modelo sin perder su propósito comunicativo.",
+      "sentences": [
+        {
+          "text": "Práctica contrastiva.",
+          "segments": [
+            {
+              "text": "Práctica contrastiva.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "pɾˈaktika kˌontɾastˈiβa."
+        },
+        {
+          "text": "Cambia la persona, el tiempo, el número o el grado de formalidad de cada modelo sin perder su propósito comunicativo.",
+          "segments": [
+            {
+              "text": "Cambia la persona, el tiempo, el número o el grado de formalidad de cada modelo sin perder su propósito comunicativo.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kˈambja la peɾsˈona, el tjˈempo, el nˈumeɾo o el ɣɾˈaðo ðe fˌoɾmaliðˈad ðe kˈaða moðˈelo sim peɾðˈeɾ su pɾopˈosito kˌomunˌikatˈiβo."
+        }
+      ]
+    },
+    {
+      "file": "04.wav",
+      "text": "Comprobación de producción. Di una oración original para cada función: seguir quién recibe qué; evitar repetición innecesaria; aclarar una transacción. Después escríbela y compara las formas oral y escrita.",
+      "sentences": [
+        {
+          "text": "Comprobación de producción.",
+          "segments": [
+            {
+              "text": "Comprobación de producción.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kˌompɾoβasjˈon de pɾˌoðuksjˈon."
+        },
+        {
+          "text": "Di una oración original para cada función: seguir quién recibe qué; evitar repetición innecesaria; aclarar una transacción.",
+          "segments": [
+            {
+              "text": "Di una oración original para cada función: seguir quién recibe qué; evitar repetición innecesaria; aclarar una transacción.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "dˈi ˈuna ˌoɾasjˈon ˌoɾixinˈal pˌaɾa kˈaða funsjˈon: seɣˈiɾ kjˈen resˈiβe kˈe; ˌeβitˈaɾ rˌepetisjˈon ˌinnesesˈaɾja; ˌaklaɾˈaɾ ˈuna tɾˌansaksjˈon."
+        },
+        {
+          "text": "Después escríbela y compara las formas oral y escrita.",
+          "segments": [
+            {
+              "text": "Después escríbela y compara las formas oral y escrita.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "despwˈes eskɾˈiβela i kompˈaɾa las fˈoɾmas oɾˈal i eskɾˈita."
+        }
+      ]
+    },
+    {
+      "file": "05.wav",
+      "text": "Lenguaje modelo. I sent her the message this morning. — Le envié el mensaje esta mañana. Someone else received the package. — Otra persona recibió el paquete. Can you show it to me? — ¿Puedes mostrármelo? I didn't explain the change to them. — No les expliqué el cambio. Return the documents to the manager. — Devuelve los documentos a la gerente.",
+      "sentences": [
+        {
+          "text": "Lenguaje modelo.",
+          "segments": [
+            {
+              "text": "Lenguaje modelo.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "leŋɡwˈaxe moðˈelo."
+        },
+        {
+          "text": "I sent her the message this morning.",
+          "segments": [
+            {
+              "text": "I sent her the message this morning.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "aɪ sˈɛnt hɜː ðə mˈɛsɪdʒ ðɪs mˈɔːɹnɪŋ."
+        },
+        {
+          "text": "— Le envié el mensaje esta mañana.",
+          "segments": [
+            {
+              "text": "— Le envié el mensaje esta mañana.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— le embjˈe el mensˈaxe ˈesta maɲˈana."
+        },
+        {
+          "text": "Someone else received the package.",
+          "segments": [
+            {
+              "text": "Someone else received the package.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "sˈʌmwʌn ˈɛls ɹᵻsˈiːvd ðə pˈækɪdʒ."
+        },
+        {
+          "text": "— Otra persona recibió el paquete.",
+          "segments": [
+            {
+              "text": "— Otra persona recibió el paquete.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— ˈotɾa peɾsˈona rˌesiβjˈo el pakˈete."
+        },
+        {
+          "text": "Can you show it to me?",
+          "segments": [
+            {
+              "text": "Can you show it to me?",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "kæn juː ʃˈoʊ ɪt tə mˌiː?"
+        },
+        {
+          "text": "— ¿Puedes mostrármelo?",
+          "segments": [
+            {
+              "text": "— ¿Puedes mostrármelo?",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— pwˈeðes mostɾˈaɾmelo?"
+        },
+        {
+          "text": "I didn't explain the change to them.",
+          "segments": [
+            {
+              "text": "I didn't explain the change to them.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "aɪ dˈɪdnt ɛksplˈeɪn ðə tʃˈeɪndʒ tə ðˌɛm."
+        },
+        {
+          "text": "— No les expliqué el cambio.",
+          "segments": [
+            {
+              "text": "— No les expliqué el cambio.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— nˈo les ˌeksplikˈe el kˈambjo."
+        },
+        {
+          "text": "Return the documents to the manager.",
+          "segments": [
+            {
+              "text": "Return the documents to the manager.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɹᵻtˈɜːn ðə dˈɑːkjuːmənts tə ðə mˈænɪdʒɚ."
+        },
+        {
+          "text": "— Devuelve los documentos a la gerente.",
+          "segments": [
+            {
+              "text": "— Devuelve los documentos a la gerente.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— deβwˈelβe los ðˌokumˈɛntos a la xeɾˈɛnte."
+        }
+      ]
+    },
+    {
+      "file": "06.wav",
+      "text": "Comprueba tu preparación. Explica la idea central. Produce un ejemplo original. Completa la evaluación con un 85 % o más.",
+      "sentences": [
+        {
+          "text": "Comprueba tu preparación.",
+          "segments": [
+            {
+              "text": "Comprueba tu preparación.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kˌompɾuˈeβa tu pɾˌepaɾasjˈon."
+        },
+        {
+          "text": "Explica la idea central.",
+          "segments": [
+            {
+              "text": "Explica la idea central.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "eksplˈika la iðˈea sentɾˈal."
+        },
+        {
+          "text": "Produce un ejemplo original.",
+          "segments": [
+            {
+              "text": "Produce un ejemplo original.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "pɾoðˈuse ˈun exˈemplo ˌoɾixinˈal."
+        },
+        {
+          "text": "Completa la evaluación con un 85 % o más.",
+          "segments": [
+            {
+              "text": "Completa la evaluación con un 85 % o más.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "komplˈeta la ˌeβaluasjˈon kon ˈun otʃˌɛntaisˈinko poɾsjˈɛnto o mˈas."
+        }
+      ]
+    },
+    {
+      "file": "vocab-00.wav",
+      "text": "to send",
+      "sentences": [
+        {
+          "text": "to send",
+          "segments": [
+            {
+              "text": "to send",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tə sˈɛnd"
+        }
+      ]
+    },
+    {
+      "file": "vocab-01.wav",
+      "text": "to receive",
+      "sentences": [
+        {
+          "text": "to receive",
+          "segments": [
+            {
+              "text": "to receive",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tə ɹᵻsˈiːv"
+        }
+      ]
+    },
+    {
+      "file": "vocab-02.wav",
+      "text": "to show",
+      "sentences": [
+        {
+          "text": "to show",
+          "segments": [
+            {
+              "text": "to show",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tə ʃˈoʊ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-03.wav",
+      "text": "to give",
+      "sentences": [
+        {
+          "text": "to give",
+          "segments": [
+            {
+              "text": "to give",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tə ɡˈɪv"
+        }
+      ]
+    },
+    {
+      "file": "vocab-04.wav",
+      "text": "a package",
+      "sentences": [
+        {
+          "text": "a package",
+          "segments": [
+            {
+              "text": "a package",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɐ pˈækɪdʒ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-05.wav",
+      "text": "a message",
+      "sentences": [
+        {
+          "text": "a message",
+          "segments": [
+            {
+              "text": "a message",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɐ mˈɛsɪdʒ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-06.wav",
+      "text": "a recipient",
+      "sentences": [
+        {
+          "text": "a recipient",
+          "segments": [
+            {
+              "text": "a recipient",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɐ ɹᵻsˈɪpiənt"
+        }
+      ]
+    },
+    {
+      "file": "vocab-07.wav",
+      "text": "to return",
+      "sentences": [
+        {
+          "text": "to return",
+          "segments": [
+            {
+              "text": "to return",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tə ɹᵻtˈɜːn"
+        }
+      ]
+    }
+  ]
+}

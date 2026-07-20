@@ -1,0 +1,549 @@
+{
+  "profile": "bella",
+  "utterances": [
+    {
+      "file": "00.wav",
+      "text": "Semana 30: Pasiva, procesos y causativos. explicar un proceso informar acción institucional decidir si el agente importa",
+      "sentences": [
+        {
+          "text": "Semana 30: Pasiva, procesos y causativos.",
+          "segments": [
+            {
+              "text": "Semana 30: Pasiva, procesos y causativos.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "semˈana tɾˈeɪnta: pasˈiβa, pɾosˈesos i kˌaʊsatˈiβos."
+        },
+        {
+          "text": "explicar un proceso informar acción institucional decidir si el agente importa",
+          "segments": [
+            {
+              "text": "explicar un proceso informar acción institucional decidir si el agente importa",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˌeksplikˈaɾ ˈum pɾosˈeso ˌinfoɾmˈaɾ aksjˈon ˌinstitˌusjonˈal ðˌesiðˈiɾ si el axˈɛnte impˈoɾta"
+        }
+      ]
+    },
+    {
+      "file": "01.wav",
+      "text": "Forma y significado. Voz pasiva en varios tiempos; by para agente; have/get something done; construcciones impersonales.",
+      "sentences": [
+        {
+          "text": "Forma y significado.",
+          "segments": [
+            {
+              "text": "Forma y significado.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "fˈoɾma i sˌiɡnifikˈaðo."
+        },
+        {
+          "text": "Voz pasiva en varios tiempos; by para agente; have/get something done; construcciones impersonales.",
+          "segments": [
+            {
+              "text": "Voz pasiva en varios tiempos; ",
+              "lang": "es-419"
+            },
+            {
+              "text": "by",
+              "lang": "en-us"
+            },
+            {
+              "text": " para agente; ",
+              "lang": "es-419"
+            },
+            {
+              "text": "have",
+              "lang": "en-us"
+            },
+            {
+              "text": "/",
+              "lang": "es-419"
+            },
+            {
+              "text": "get something done",
+              "lang": "en-us"
+            },
+            {
+              "text": "; construcciones impersonales.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "bˈos pasˈiβa em bˈaɾjos tjˈempos; bˈaɪ pˌaɾa axˈɛnte; hˈæv bˈara ɡɛt sˈʌmθɪŋ dˈʌn ; kˌonstɾuksjˈones ˌimpeɾsonˈales."
+        }
+      ]
+    },
+    {
+      "file": "02.wav",
+      "text": "Conjunto de modelos. The measure was approved by the council. The results were published yesterday. We're having the system repaired. The service was closed because of funding cuts. Identification is required to enter. La medida fue aprobada por el consejo. Los resultados se publicaron ayer. Estamos haciendo reparar el sistema. El servicio se cerró por recortes de fondos. Se requiere identificación para entrar.",
+      "sentences": [
+        {
+          "text": "Conjunto de modelos.",
+          "segments": [
+            {
+              "text": "Conjunto de modelos.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "koŋxˈunto ðe moðˈelos."
+        },
+        {
+          "text": "The measure was approved by the council.",
+          "segments": [
+            {
+              "text": "The measure was approved by the council.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðə mˈɛʒɚ wʌz ɐpɹˈuːvd baɪ ðə kˈaʊnsəl."
+        },
+        {
+          "text": "The results were published yesterday.",
+          "segments": [
+            {
+              "text": "The results were published yesterday.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðə ɹɪzˈʌlts wɜː pˈʌblɪʃt jˈɛstɚdˌeɪ."
+        },
+        {
+          "text": "We're having the system repaired.",
+          "segments": [
+            {
+              "text": "We're having the system repaired.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wɪɹ hˌævɪŋ ðə sˈɪstəm ɹᵻpˈɛɹd."
+        },
+        {
+          "text": "The service was closed because of funding cuts.",
+          "segments": [
+            {
+              "text": "The service was closed because of funding cuts.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðə sˈɜːvɪs wʌz klˈoʊzd bɪkˈʌz ʌv fˈʌndɪŋ kˈʌts."
+        },
+        {
+          "text": "Identification is required to enter.",
+          "segments": [
+            {
+              "text": "Identification is required to enter.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "aɪdˈɛntɪfɪkˈeɪʃən ɪz ɹᵻkwˈaɪɚd tʊ ˈɛntɚ."
+        },
+        {
+          "text": "La medida fue aprobada por el consejo.",
+          "segments": [
+            {
+              "text": "La medida fue aprobada por el consejo.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "la meðˈiða fwˈe ˌapɾoβˈaða poɾ el konsˈexo."
+        },
+        {
+          "text": "Los resultados se publicaron ayer.",
+          "segments": [
+            {
+              "text": "Los resultados se publicaron ayer.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "los rˌesultˈaðos se pˌuβlikˈaɾon aʝˈeɾ."
+        },
+        {
+          "text": "Estamos haciendo reparar el sistema.",
+          "segments": [
+            {
+              "text": "Estamos haciendo reparar el sistema.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "estˈamos asjˈɛndo rˌepaɾˈaɾ el sistˈema."
+        },
+        {
+          "text": "El servicio se cerró por recortes de fondos.",
+          "segments": [
+            {
+              "text": "El servicio se cerró por recortes de fondos.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "el seɾβˈisjo se serˈo poɾ rekˈoɾtes ðe fˈondos."
+        },
+        {
+          "text": "Se requiere identificación para entrar.",
+          "segments": [
+            {
+              "text": "Se requiere identificación para entrar.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "se rekjˈeɾe ˌiðentˌifikasjˈom pˌaɾa entɾˈaɾ."
+        }
+      ]
+    },
+    {
+      "file": "03.wav",
+      "text": "Práctica contrastiva. Cambia la persona, el tiempo, el número o el grado de formalidad de cada modelo sin perder su propósito comunicativo.",
+      "sentences": [
+        {
+          "text": "Práctica contrastiva.",
+          "segments": [
+            {
+              "text": "Práctica contrastiva.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "pɾˈaktika kˌontɾastˈiβa."
+        },
+        {
+          "text": "Cambia la persona, el tiempo, el número o el grado de formalidad de cada modelo sin perder su propósito comunicativo.",
+          "segments": [
+            {
+              "text": "Cambia la persona, el tiempo, el número o el grado de formalidad de cada modelo sin perder su propósito comunicativo.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kˈambja la peɾsˈona, el tjˈempo, el nˈumeɾo o el ɣɾˈaðo ðe fˌoɾmaliðˈad ðe kˈaða moðˈelo sim peɾðˈeɾ su pɾopˈosito kˌomunˌikatˈiβo."
+        }
+      ]
+    },
+    {
+      "file": "04.wav",
+      "text": "Comprobación de producción. Di una oración original para cada función: explicar un proceso; informar acción institucional; decidir si el agente importa. Después escríbela y compara las formas oral y escrita.",
+      "sentences": [
+        {
+          "text": "Comprobación de producción.",
+          "segments": [
+            {
+              "text": "Comprobación de producción.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kˌompɾoβasjˈon de pɾˌoðuksjˈon."
+        },
+        {
+          "text": "Di una oración original para cada función: explicar un proceso; informar acción institucional; decidir si el agente importa.",
+          "segments": [
+            {
+              "text": "Di una oración original para cada función: explicar un proceso; informar acción institucional; decidir si el agente importa.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "dˈi ˈuna ˌoɾasjˈon ˌoɾixinˈal pˌaɾa kˈaða funsjˈon: ˌeksplikˈaɾ ˈum pɾosˈeso; ˌinfoɾmˈaɾ aksjˈon ˌinstitˌusjonˈal; dˌesiðˈiɾ si el axˈɛnte impˈoɾta."
+        },
+        {
+          "text": "Después escríbela y compara las formas oral y escrita.",
+          "segments": [
+            {
+              "text": "Después escríbela y compara las formas oral y escrita.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "despwˈes eskɾˈiβela i kompˈaɾa las fˈoɾmas oɾˈal i eskɾˈita."
+        }
+      ]
+    },
+    {
+      "file": "05.wav",
+      "text": "Lenguaje modelo. The measure was approved by the council. — La medida fue aprobada por el consejo. The results were published yesterday. — Los resultados se publicaron ayer. We're having the system repaired. — Estamos haciendo reparar el sistema. The service was closed because of funding cuts. — El servicio se cerró por recortes de fondos. Identification is required to enter. — Se requiere identificación para entrar.",
+      "sentences": [
+        {
+          "text": "Lenguaje modelo.",
+          "segments": [
+            {
+              "text": "Lenguaje modelo.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "leŋɡwˈaxe moðˈelo."
+        },
+        {
+          "text": "The measure was approved by the council.",
+          "segments": [
+            {
+              "text": "The measure was approved by the council.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðə mˈɛʒɚ wʌz ɐpɹˈuːvd baɪ ðə kˈaʊnsəl."
+        },
+        {
+          "text": "— La medida fue aprobada por el consejo.",
+          "segments": [
+            {
+              "text": "— La medida fue aprobada por el consejo.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— la meðˈiða fwˈe ˌapɾoβˈaða poɾ el konsˈexo."
+        },
+        {
+          "text": "The results were published yesterday.",
+          "segments": [
+            {
+              "text": "The results were published yesterday.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðə ɹɪzˈʌlts wɜː pˈʌblɪʃt jˈɛstɚdˌeɪ."
+        },
+        {
+          "text": "— Los resultados se publicaron ayer.",
+          "segments": [
+            {
+              "text": "— Los resultados se publicaron ayer.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— los rˌesultˈaðos se pˌuβlikˈaɾon aʝˈeɾ."
+        },
+        {
+          "text": "We're having the system repaired.",
+          "segments": [
+            {
+              "text": "We're having the system repaired.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wɪɹ hˌævɪŋ ðə sˈɪstəm ɹᵻpˈɛɹd."
+        },
+        {
+          "text": "— Estamos haciendo reparar el sistema.",
+          "segments": [
+            {
+              "text": "— Estamos haciendo reparar el sistema.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— estˈamos asjˈɛndo rˌepaɾˈaɾ el sistˈema."
+        },
+        {
+          "text": "The service was closed because of funding cuts.",
+          "segments": [
+            {
+              "text": "The service was closed because of funding cuts.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðə sˈɜːvɪs wʌz klˈoʊzd bɪkˈʌz ʌv fˈʌndɪŋ kˈʌts."
+        },
+        {
+          "text": "— El servicio se cerró por recortes de fondos.",
+          "segments": [
+            {
+              "text": "— El servicio se cerró por recortes de fondos.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— el seɾβˈisjo se serˈo poɾ rekˈoɾtes ðe fˈondos."
+        },
+        {
+          "text": "Identification is required to enter.",
+          "segments": [
+            {
+              "text": "Identification is required to enter.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "aɪdˈɛntɪfɪkˈeɪʃən ɪz ɹᵻkwˈaɪɚd tʊ ˈɛntɚ."
+        },
+        {
+          "text": "— Se requiere identificación para entrar.",
+          "segments": [
+            {
+              "text": "— Se requiere identificación para entrar.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— se rekjˈeɾe ˌiðentˌifikasjˈom pˌaɾa entɾˈaɾ."
+        }
+      ]
+    },
+    {
+      "file": "06.wav",
+      "text": "Comprueba tu preparación. Explica la idea central. Produce un ejemplo original. Completa la evaluación con un 85 % o más.",
+      "sentences": [
+        {
+          "text": "Comprueba tu preparación.",
+          "segments": [
+            {
+              "text": "Comprueba tu preparación.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kˌompɾuˈeβa tu pɾˌepaɾasjˈon."
+        },
+        {
+          "text": "Explica la idea central.",
+          "segments": [
+            {
+              "text": "Explica la idea central.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "eksplˈika la iðˈea sentɾˈal."
+        },
+        {
+          "text": "Produce un ejemplo original.",
+          "segments": [
+            {
+              "text": "Produce un ejemplo original.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "pɾoðˈuse ˈun exˈemplo ˌoɾixinˈal."
+        },
+        {
+          "text": "Completa la evaluación con un 85 % o más.",
+          "segments": [
+            {
+              "text": "Completa la evaluación con un 85 % o más.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "komplˈeta la ˌeβaluasjˈon kon ˈun otʃˌɛntaisˈinko poɾsjˈɛnto o mˈas."
+        }
+      ]
+    },
+    {
+      "file": "vocab-00.wav",
+      "text": "to approve",
+      "sentences": [
+        {
+          "text": "to approve",
+          "segments": [
+            {
+              "text": "to approve",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tʊ ɐpɹˈuːv"
+        }
+      ]
+    },
+    {
+      "file": "vocab-01.wav",
+      "text": "to publish",
+      "sentences": [
+        {
+          "text": "to publish",
+          "segments": [
+            {
+              "text": "to publish",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tə pˈʌblɪʃ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-02.wav",
+      "text": "to require",
+      "sentences": [
+        {
+          "text": "to require",
+          "segments": [
+            {
+              "text": "to require",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tə ɹᵻkwˈaɪɚ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-03.wav",
+      "text": "to affect",
+      "sentences": [
+        {
+          "text": "to affect",
+          "segments": [
+            {
+              "text": "to affect",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tʊ ɐfˈɛkt"
+        }
+      ]
+    },
+    {
+      "file": "vocab-04.wav",
+      "text": "a process",
+      "sentences": [
+        {
+          "text": "a process",
+          "segments": [
+            {
+              "text": "a process",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɐ pɹˈɑːsɛs"
+        }
+      ]
+    },
+    {
+      "file": "vocab-05.wav",
+      "text": "a result",
+      "sentences": [
+        {
+          "text": "a result",
+          "segments": [
+            {
+              "text": "a result",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɐ ɹɪzˈʌlt"
+        }
+      ]
+    },
+    {
+      "file": "vocab-06.wav",
+      "text": "by",
+      "sentences": [
+        {
+          "text": "by",
+          "segments": [
+            {
+              "text": "by",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "bˈaɪ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-07.wav",
+      "text": "to repair",
+      "sentences": [
+        {
+          "text": "to repair",
+          "segments": [
+            {
+              "text": "to repair",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tə ɹᵻpˈɛɹ"
+        }
+      ]
+    }
+  ]
+}

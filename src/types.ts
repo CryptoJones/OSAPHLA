@@ -1,6 +1,7 @@
 export type ThemeId = "system" | "contrast-dark" | "contrast-light" | "low-glare" | "warm-paper" | "monochrome" | "midnight-blue" | "lavender-dusk" | "ocean-light" | "rose-clay" | "amber-night" | "slate-light" | "cream-ink" | "forest-night" | "burgundy-night" | "cobalt-light" | "soft-gray" | "black-amber" | "deep-ocean" | "cyberdeck" | "wcag-navy-coral" | "wcag-blue-orange-dark" | "wcag-plum-apricot" | "wcag-violet-cyan";
 
 export interface AccessibilitySettings {
+  selectedCourse: CourseSlug;
   theme: ThemeId;
   font: "system" | "hyperlegible" | "serif" | "mono";
   textScale: number;
@@ -17,7 +18,10 @@ export interface AccessibilitySettings {
   onboardingComplete: boolean;
 }
 
-export interface VocabularyItem { es: string; en: string }
+export type CourseSlug = "es" | "en";
+export type CourseLocale = "es-419" | "en-US";
+
+export interface VocabularyItem { target: string; meaning: string }
 export interface ReadingAssignment {
   id: string; label: string; title: string; week: number; sectionId: string;
   passage: string; passageTranslation: string; focus: string; instructions: string; prompts: string[];
@@ -27,7 +31,7 @@ export interface Slide { title: string; kicker?: string; body: string[] }
 
 export interface QuestionBase { id: string; prompt: string; rationale: string; objective?: string }
 export interface MultipleChoiceQuestion extends QuestionBase { type: "multipleChoice"; choices: string[]; answer: string }
-export interface ClozeQuestion extends QuestionBase { type: "cloze"; answer: string; accepted: string[]; accentPolicy: "warn" | "required" }
+export interface ClozeQuestion extends QuestionBase { type: "cloze"; answer: string; accepted: string[]; accentPolicy: "warn" | "required" | "english" }
 export interface OrderingQuestion extends QuestionBase { type: "ordering"; tokens: string[]; answers: string[][] }
 export type Question = MultipleChoiceQuestion | ClozeQuestion | OrderingQuestion;
 
@@ -45,22 +49,23 @@ export interface CourseModule {
 }
 
 export interface Course {
-  schemaVersion: number; id: string; title: string; subtitle: string; description: string; target: string;
+  schemaVersion: 2; slug: CourseSlug; id: string; title: string; subtitle: string; description: string;
+  targetLocale: CourseLocale; instructionLocale: CourseLocale; flags: string[]; target: string;
   disclaimer: string; modules: CourseModule[]; sections: Section[];
-  readingAssignments: ReadingAssignment[]; generatedAt: string;
+  readingAssignments: ReadingAssignment[];
 }
 
 export interface SectionProgress {
-  sectionId: string; status: "not-started" | "in-progress" | "mastered"; bestScore: number;
+  courseSlug: CourseSlug; sectionId: string; status: "not-started" | "in-progress" | "mastered"; bestScore: number;
   attempts: number; completedAt?: string; updatedAt: string;
 }
 
 export interface Attempt {
-  id?: number; sectionId: string; startedAt: string; completedAt: string; score: number;
+  id?: number; courseSlug: CourseSlug; sectionId: string; startedAt: string; completedAt: string; score: number;
   questionIds: string[]; answers: Record<string, string | string[]>;
 }
 
 export interface ReviewCard {
-  id: string; sectionId: string; prompt: string; answer: string; intervalDays: number;
+  id: string; courseSlug: CourseSlug; sectionId: string; prompt: string; answer: string; intervalDays: number;
   ease: number; repetitions: number; dueAt: string;
 }

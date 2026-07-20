@@ -1,0 +1,435 @@
+{
+  "profile": "liam",
+  "utterances": [
+    {
+      "file": "00.wav",
+      "text": "Semana 5: Lugar, existencia y preposiciones. ubicar un lugar describir un estado temporal decir qué servicios existen",
+      "sentences": [
+        {
+          "text": "Semana 5: Lugar, existencia y preposiciones.",
+          "segments": [
+            {
+              "text": "Semana 5: Lugar, existencia y preposiciones.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "semˈana sˈinko: luɣˈaɾ, ˌeksistˈɛnsja i pɾˌeposisjˈones."
+        },
+        {
+          "text": "ubicar un lugar describir un estado temporal decir qué servicios existen",
+          "segments": [
+            {
+              "text": "ubicar un lugar describir un estado temporal decir qué servicios existen",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˌuβikˈaɾ ˈun luɣˈaɾ ðˌeskɾiβˈiɾ ˈun estˈaðo tˌempoɾˈal ðesˈiɾ kˈe seɾβˈisjos eksˈisten"
+        }
+      ]
+    },
+    {
+      "file": "01.wav",
+      "text": "Instrucciones de la misión. Guía a una persona por un edificio e informa qué servicios están abiertos o cerrados.",
+      "sentences": [
+        {
+          "text": "Instrucciones de la misión.",
+          "segments": [
+            {
+              "text": "Instrucciones de la misión.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˌinstɾuksjˈones ðe la misjˈon."
+        },
+        {
+          "text": "Guía a una persona por un edificio e informa qué servicios están abiertos o cerrados.",
+          "segments": [
+            {
+              "text": "Guía a una persona por un edificio e informa qué servicios están abiertos o cerrados.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ɡˈia a ˈuna peɾsˈona poɾ ˈun ˌeðifˈisjo e infˈoɾma kˈe seɾβˈisjos estˈan aβjˈeɾtos o serˈaðos."
+        }
+      ]
+    },
+    {
+      "file": "02.wav",
+      "text": "Preparación. Selecciona diez palabras útiles, tres conectores y dos frases de reparación. Planifica ideas, no un párrafo memorizado.",
+      "sentences": [
+        {
+          "text": "Preparación.",
+          "segments": [
+            {
+              "text": "Preparación.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "pɾˌepaɾasjˈon."
+        },
+        {
+          "text": "Selecciona diez palabras útiles, tres conectores y dos frases de reparación.",
+          "segments": [
+            {
+              "text": "Selecciona diez palabras útiles, tres conectores y dos frases de reparación.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "sˌeleksjˈona ðjˈes palˈaβɾas ˈutiles, tɾˈes kˌonektˈoɾes i ðˈos fɾˈases ðe rˌepaɾasjˈon."
+        },
+        {
+          "text": "Planifica ideas, no un párrafo memorizado.",
+          "segments": [
+            {
+              "text": "Planifica ideas, no un párrafo memorizado.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "plˌanifˈika iðˈeas, nˈo ˈum pˈarafo mˌemoɾisˈaðo."
+        }
+      ]
+    },
+    {
+      "file": "03.wav",
+      "text": "Ejecución. Completa la tarea una vez para ganar fluidez, revisa la evidencia y repítela con más claridad y precisión.",
+      "sentences": [
+        {
+          "text": "Ejecución.",
+          "segments": [
+            {
+              "text": "Ejecución.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˌexekusjˈon."
+        },
+        {
+          "text": "Completa la tarea una vez para ganar fluidez, revisa la evidencia y repítela con más claridad y precisión.",
+          "segments": [
+            {
+              "text": "Completa la tarea una vez para ganar fluidez, revisa la evidencia y repítela con más claridad y precisión.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "komplˈeta la taɾˈea ˈuna βˈes pˌaɾa ɣanˈaɾ fluiðˈes, reβˈisa la ˌeβiðˈɛnsja i repˈitela kon mˈas klˌaɾiðˈað i pɾˌesisjˈon."
+        }
+      ]
+    },
+    {
+      "file": "04.wav",
+      "text": "Revisión posterior. Registra qué funcionó, qué bloqueó la comunicación y cuál será el cambio más importante para el próximo intento.",
+      "sentences": [
+        {
+          "text": "Revisión posterior.",
+          "segments": [
+            {
+              "text": "Revisión posterior.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "rˌeβisjˈom pˌosteɾjˈoɾ."
+        },
+        {
+          "text": "Registra qué funcionó, qué bloqueó la comunicación y cuál será el cambio más importante para el próximo intento.",
+          "segments": [
+            {
+              "text": "Registra qué funcionó, qué bloqueó la comunicación y cuál será el cambio más importante para el próximo intento.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "rexˈistɾa kˈe fˌunsjonˈo, kˈe βlˌokeˈo la kˌomunˌikasjˈon i kwˈal seɾˈa el kˈambjo mˈas ˌimpoɾtˈante pˌaɾa el pɾˈoksimo intˈɛnto."
+        }
+      ]
+    },
+    {
+      "file": "05.wav",
+      "text": "Lenguaje modelo. The pharmacy is near the square. — La farmacia está cerca de la plaza. There's a bank in front of the hotel. — Hay un banco delante del hotel. The museum is closed today. — El museo está cerrado hoy. Where are the restrooms? — ¿Dónde están los baños? The meeting is in the blue room. — La reunión es en la sala azul.",
+      "sentences": [
+        {
+          "text": "Lenguaje modelo.",
+          "segments": [
+            {
+              "text": "Lenguaje modelo.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "leŋɡwˈaxe moðˈelo."
+        },
+        {
+          "text": "The pharmacy is near the square.",
+          "segments": [
+            {
+              "text": "The pharmacy is near the square.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðə fˈɑːɹməsi ɪz nˌɪɹ ðə skwˈɛɹ."
+        },
+        {
+          "text": "— La farmacia está cerca de la plaza.",
+          "segments": [
+            {
+              "text": "— La farmacia está cerca de la plaza.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— la faɾmˈasja estˈa sˈeɾka ðe la plˈasa."
+        },
+        {
+          "text": "There's a bank in front of the hotel.",
+          "segments": [
+            {
+              "text": "There's a bank in front of the hotel.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðɛɹz ɐ bˈæŋk ɪn fɹˈʌnt ʌvðə hoʊtˈɛl."
+        },
+        {
+          "text": "— Hay un banco delante del hotel.",
+          "segments": [
+            {
+              "text": "— Hay un banco delante del hotel.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— ˈaɪ ˈum bˈanko ðelˈante ðel otˈel."
+        },
+        {
+          "text": "The museum is closed today.",
+          "segments": [
+            {
+              "text": "The museum is closed today.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðə mjuːzˈiəm ɪz klˈoʊzd tədˈeɪ."
+        },
+        {
+          "text": "— El museo está cerrado hoy.",
+          "segments": [
+            {
+              "text": "— El museo está cerrado hoy.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— el musˈeo estˈa serˈaðo ˈoɪ."
+        },
+        {
+          "text": "Where are the restrooms?",
+          "segments": [
+            {
+              "text": "Where are the restrooms?",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wˌɛɹ ɑːɹ ðə ɹˈɛstɹuːmz?"
+        },
+        {
+          "text": "— ¿Dónde están los baños?",
+          "segments": [
+            {
+              "text": "— ¿Dónde están los baños?",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— dˈonde estˈan los βˈaɲos?"
+        },
+        {
+          "text": "The meeting is in the blue room.",
+          "segments": [
+            {
+              "text": "The meeting is in the blue room.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðə mˈiːɾɪŋ ɪz ɪnðə blˈuː ɹˈuːm."
+        },
+        {
+          "text": "— La reunión es en la sala azul.",
+          "segments": [
+            {
+              "text": "— La reunión es en la sala azul.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— la reʊnjˈon ˈes en la sˈala asˈul."
+        }
+      ]
+    },
+    {
+      "file": "06.wav",
+      "text": "Comprueba tu preparación. Explica la idea central. Produce un ejemplo original. Completa la evaluación con un 85 % o más.",
+      "sentences": [
+        {
+          "text": "Comprueba tu preparación.",
+          "segments": [
+            {
+              "text": "Comprueba tu preparación.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kˌompɾuˈeβa tu pɾˌepaɾasjˈon."
+        },
+        {
+          "text": "Explica la idea central.",
+          "segments": [
+            {
+              "text": "Explica la idea central.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "eksplˈika la iðˈea sentɾˈal."
+        },
+        {
+          "text": "Produce un ejemplo original.",
+          "segments": [
+            {
+              "text": "Produce un ejemplo original.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "pɾoðˈuse ˈun exˈemplo ˌoɾixinˈal."
+        },
+        {
+          "text": "Completa la evaluación con un 85 % o más.",
+          "segments": [
+            {
+              "text": "Completa la evaluación con un 85 % o más.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "komplˈeta la ˌeβaluasjˈon kon ˈun otʃˌɛntaisˈinko poɾsjˈɛnto o mˈas."
+        }
+      ]
+    },
+    {
+      "file": "vocab-00.wav",
+      "text": "here",
+      "sentences": [
+        {
+          "text": "here",
+          "segments": [
+            {
+              "text": "here",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "hˈɪɹ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-01.wav",
+      "text": "there",
+      "sentences": [
+        {
+          "text": "there",
+          "segments": [
+            {
+              "text": "there",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðˈɛɹ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-02.wav",
+      "text": "near",
+      "sentences": [
+        {
+          "text": "near",
+          "segments": [
+            {
+              "text": "near",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "nˈɪɹ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-03.wav",
+      "text": "far",
+      "sentences": [
+        {
+          "text": "far",
+          "segments": [
+            {
+              "text": "far",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "fˈɑːɹ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-04.wav",
+      "text": "open",
+      "sentences": [
+        {
+          "text": "open",
+          "segments": [
+            {
+              "text": "open",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ˈoʊpən"
+        }
+      ]
+    },
+    {
+      "file": "vocab-05.wav",
+      "text": "closed",
+      "sentences": [
+        {
+          "text": "closed",
+          "segments": [
+            {
+              "text": "closed",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "klˈoʊzd"
+        }
+      ]
+    },
+    {
+      "file": "vocab-06.wav",
+      "text": "in front of",
+      "sentences": [
+        {
+          "text": "in front of",
+          "segments": [
+            {
+              "text": "in front of",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɪn fɹˈʌnt ʌv"
+        }
+      ]
+    },
+    {
+      "file": "vocab-07.wav",
+      "text": "behind",
+      "sentences": [
+        {
+          "text": "behind",
+          "segments": [
+            {
+              "text": "behind",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "bᵻhˈaɪnd"
+        }
+      ]
+    }
+  ]
+}

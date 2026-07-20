@@ -1,0 +1,541 @@
+{
+  "profile": "michael",
+  "utterances": [
+    {
+      "file": "00.wav",
+      "text": "Semana 9: Rutinas y presente continuo. ordenar una rutina decir qué ocurre ahora comparar horarios",
+      "sentences": [
+        {
+          "text": "Semana 9: Rutinas y presente continuo.",
+          "segments": [
+            {
+              "text": "Semana 9: Rutinas y presente continuo.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "semˈana nwˈeβe: rutˈinas i pɾesˈɛnte kontˈinwo."
+        },
+        {
+          "text": "ordenar una rutina decir qué ocurre ahora comparar horarios",
+          "segments": [
+            {
+              "text": "ordenar una rutina decir qué ocurre ahora comparar horarios",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˌoɾðenˈaɾ ˈuna rutˈina ðesˈiɾ kˈe okˈure aˈoɾa kˌompaɾˈaɾ oɾˈaɾjos"
+        }
+      ]
+    },
+    {
+      "file": "01.wav",
+      "text": "Forma y significado. Verbos de rutina; presente continuo; contraste presente simple/continuo; before y after.",
+      "sentences": [
+        {
+          "text": "Forma y significado.",
+          "segments": [
+            {
+              "text": "Forma y significado.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "fˈoɾma i sˌiɡnifikˈaðo."
+        },
+        {
+          "text": "Verbos de rutina; presente continuo; contraste presente simple/continuo; before y after.",
+          "segments": [
+            {
+              "text": "Verbos de rutina; presente continuo; contraste presente simple/continuo; ",
+              "lang": "es-419"
+            },
+            {
+              "text": "before",
+              "lang": "en-us"
+            },
+            {
+              "text": " y ",
+              "lang": "es-419"
+            },
+            {
+              "text": "after",
+              "lang": "en-us"
+            },
+            {
+              "text": ".",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "bˈeɾβos ðe rutˈina; pɾesˈɛnte kontˈinwo; kontɾˈaste pɾesˈɛnte sˈimple βˈara kontˈinwo; bᵻfˈɔːɹ i ˈæftɚ ."
+        }
+      ]
+    },
+    {
+      "file": "02.wav",
+      "text": "Conjunto de modelos. I get up at six thirty. After I get dressed, I make breakfast. I'm waiting for the train now. The children go to bed early. What time do you wake up? Me levanto a las seis y media. Después de vestirme, preparo el desayuno. Ahora estoy esperando el tren. Los niños se acuestan temprano. ¿A qué hora te despiertas?",
+      "sentences": [
+        {
+          "text": "Conjunto de modelos.",
+          "segments": [
+            {
+              "text": "Conjunto de modelos.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "koŋxˈunto ðe moðˈelos."
+        },
+        {
+          "text": "I get up at six thirty.",
+          "segments": [
+            {
+              "text": "I get up at six thirty.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "aɪ ɡɛt ˌʌp æt sˈɪks θˈɜːɾi."
+        },
+        {
+          "text": "After I get dressed, I make breakfast.",
+          "segments": [
+            {
+              "text": "After I get dressed, I make breakfast.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ˈæftɚɹ aɪ ɡɛt dɹˈɛst, aɪ mˌeɪk bɹˈɛkfəst."
+        },
+        {
+          "text": "I'm waiting for the train now.",
+          "segments": [
+            {
+              "text": "I'm waiting for the train now.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "aɪm wˈeɪɾɪŋ fɚðə tɹˈeɪn nˈaʊ."
+        },
+        {
+          "text": "The children go to bed early.",
+          "segments": [
+            {
+              "text": "The children go to bed early.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðə tʃˈɪldɹən ɡˌoʊ tə bˈɛd ˈɜːli."
+        },
+        {
+          "text": "What time do you wake up?",
+          "segments": [
+            {
+              "text": "What time do you wake up?",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wˌʌt tˈaɪm dˈuː juː wˈeɪk ˈʌp?"
+        },
+        {
+          "text": "Me levanto a las seis y media.",
+          "segments": [
+            {
+              "text": "Me levanto a las seis y media.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "me leβˈanto a las sˈeɪs i mˈeðja."
+        },
+        {
+          "text": "Después de vestirme, preparo el desayuno.",
+          "segments": [
+            {
+              "text": "Después de vestirme, preparo el desayuno.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "despwˈes ðe βestˈiɾme, pɾepˈaɾo el ðˌesaʝˈuno."
+        },
+        {
+          "text": "Ahora estoy esperando el tren.",
+          "segments": [
+            {
+              "text": "Ahora estoy esperando el tren.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "aˈoɾa estˈoɪ ˌespeɾˈando el tɾˈen."
+        },
+        {
+          "text": "Los niños se acuestan temprano.",
+          "segments": [
+            {
+              "text": "Los niños se acuestan temprano.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "los nˈiɲos se akwˈestan tempɾˈano."
+        },
+        {
+          "text": "¿A qué hora te despiertas?",
+          "segments": [
+            {
+              "text": "¿A qué hora te despiertas?",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "a kˈe ˈoɾa te ðespjˈeɾtas?"
+        }
+      ]
+    },
+    {
+      "file": "03.wav",
+      "text": "Práctica contrastiva. Cambia la persona, el tiempo, el número o el grado de formalidad de cada modelo sin perder su propósito comunicativo.",
+      "sentences": [
+        {
+          "text": "Práctica contrastiva.",
+          "segments": [
+            {
+              "text": "Práctica contrastiva.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "pɾˈaktika kˌontɾastˈiβa."
+        },
+        {
+          "text": "Cambia la persona, el tiempo, el número o el grado de formalidad de cada modelo sin perder su propósito comunicativo.",
+          "segments": [
+            {
+              "text": "Cambia la persona, el tiempo, el número o el grado de formalidad de cada modelo sin perder su propósito comunicativo.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kˈambja la peɾsˈona, el tjˈempo, el nˈumeɾo o el ɣɾˈaðo ðe fˌoɾmaliðˈad ðe kˈaða moðˈelo sim peɾðˈeɾ su pɾopˈosito kˌomunˌikatˈiβo."
+        }
+      ]
+    },
+    {
+      "file": "04.wav",
+      "text": "Comprobación de producción. Di una oración original para cada función: ordenar una rutina; decir qué ocurre ahora; comparar horarios. Después escríbela y compara las formas oral y escrita.",
+      "sentences": [
+        {
+          "text": "Comprobación de producción.",
+          "segments": [
+            {
+              "text": "Comprobación de producción.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kˌompɾoβasjˈon de pɾˌoðuksjˈon."
+        },
+        {
+          "text": "Di una oración original para cada función: ordenar una rutina; decir qué ocurre ahora; comparar horarios.",
+          "segments": [
+            {
+              "text": "Di una oración original para cada función: ordenar una rutina; decir qué ocurre ahora; comparar horarios.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "dˈi ˈuna ˌoɾasjˈon ˌoɾixinˈal pˌaɾa kˈaða funsjˈon: ˌoɾðenˈaɾ ˈuna rutˈina; desˈiɾ kˈe okˈure aˈoɾa; kˌompaɾˈaɾ oɾˈaɾjos."
+        },
+        {
+          "text": "Después escríbela y compara las formas oral y escrita.",
+          "segments": [
+            {
+              "text": "Después escríbela y compara las formas oral y escrita.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "despwˈes eskɾˈiβela i kompˈaɾa las fˈoɾmas oɾˈal i eskɾˈita."
+        }
+      ]
+    },
+    {
+      "file": "05.wav",
+      "text": "Lenguaje modelo. I get up at six thirty. — Me levanto a las seis y media. After I get dressed, I make breakfast. — Después de vestirme, preparo el desayuno. I'm waiting for the train now. — Ahora estoy esperando el tren. The children go to bed early. — Los niños se acuestan temprano. What time do you wake up? — ¿A qué hora te despiertas?",
+      "sentences": [
+        {
+          "text": "Lenguaje modelo.",
+          "segments": [
+            {
+              "text": "Lenguaje modelo.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "leŋɡwˈaxe moðˈelo."
+        },
+        {
+          "text": "I get up at six thirty.",
+          "segments": [
+            {
+              "text": "I get up at six thirty.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "aɪ ɡɛt ˌʌp æt sˈɪks θˈɜːɾi."
+        },
+        {
+          "text": "— Me levanto a las seis y media.",
+          "segments": [
+            {
+              "text": "— Me levanto a las seis y media.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— me leβˈanto a las sˈeɪs i mˈeðja."
+        },
+        {
+          "text": "After I get dressed, I make breakfast.",
+          "segments": [
+            {
+              "text": "After I get dressed, I make breakfast.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ˈæftɚɹ aɪ ɡɛt dɹˈɛst, aɪ mˌeɪk bɹˈɛkfəst."
+        },
+        {
+          "text": "— Después de vestirme, preparo el desayuno.",
+          "segments": [
+            {
+              "text": "— Después de vestirme, preparo el desayuno.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— despwˈes ðe βestˈiɾme, pɾepˈaɾo el ðˌesaʝˈuno."
+        },
+        {
+          "text": "I'm waiting for the train now.",
+          "segments": [
+            {
+              "text": "I'm waiting for the train now.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "aɪm wˈeɪɾɪŋ fɚðə tɹˈeɪn nˈaʊ."
+        },
+        {
+          "text": "— Ahora estoy esperando el tren.",
+          "segments": [
+            {
+              "text": "— Ahora estoy esperando el tren.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— aˈoɾa estˈoɪ ˌespeɾˈando el tɾˈen."
+        },
+        {
+          "text": "The children go to bed early.",
+          "segments": [
+            {
+              "text": "The children go to bed early.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðə tʃˈɪldɹən ɡˌoʊ tə bˈɛd ˈɜːli."
+        },
+        {
+          "text": "— Los niños se acuestan temprano.",
+          "segments": [
+            {
+              "text": "— Los niños se acuestan temprano.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— los nˈiɲos se akwˈestan tempɾˈano."
+        },
+        {
+          "text": "What time do you wake up?",
+          "segments": [
+            {
+              "text": "What time do you wake up?",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wˌʌt tˈaɪm dˈuː juː wˈeɪk ˈʌp?"
+        },
+        {
+          "text": "— ¿A qué hora te despiertas?",
+          "segments": [
+            {
+              "text": "— ¿A qué hora te despiertas?",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— a kˈe ˈoɾa te ðespjˈeɾtas?"
+        }
+      ]
+    },
+    {
+      "file": "06.wav",
+      "text": "Comprueba tu preparación. Explica la idea central. Produce un ejemplo original. Completa la evaluación con un 85 % o más.",
+      "sentences": [
+        {
+          "text": "Comprueba tu preparación.",
+          "segments": [
+            {
+              "text": "Comprueba tu preparación.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kˌompɾuˈeβa tu pɾˌepaɾasjˈon."
+        },
+        {
+          "text": "Explica la idea central.",
+          "segments": [
+            {
+              "text": "Explica la idea central.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "eksplˈika la iðˈea sentɾˈal."
+        },
+        {
+          "text": "Produce un ejemplo original.",
+          "segments": [
+            {
+              "text": "Produce un ejemplo original.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "pɾoðˈuse ˈun exˈemplo ˌoɾixinˈal."
+        },
+        {
+          "text": "Completa la evaluación con un 85 % o más.",
+          "segments": [
+            {
+              "text": "Completa la evaluación con un 85 % o más.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "komplˈeta la ˌeβaluasjˈon kon ˈun otʃˌɛntaisˈinko poɾsjˈɛnto o mˈas."
+        }
+      ]
+    },
+    {
+      "file": "vocab-00.wav",
+      "text": "to wake up",
+      "sentences": [
+        {
+          "text": "to wake up",
+          "segments": [
+            {
+              "text": "to wake up",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tə wˈeɪk ˈʌp"
+        }
+      ]
+    },
+    {
+      "file": "vocab-01.wav",
+      "text": "to get up",
+      "sentences": [
+        {
+          "text": "to get up",
+          "segments": [
+            {
+              "text": "to get up",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tə ɡɛt ˈʌp"
+        }
+      ]
+    },
+    {
+      "file": "vocab-02.wav",
+      "text": "to shower",
+      "sentences": [
+        {
+          "text": "to shower",
+          "segments": [
+            {
+              "text": "to shower",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tə ʃˈaʊɚ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-03.wav",
+      "text": "to get dressed",
+      "sentences": [
+        {
+          "text": "to get dressed",
+          "segments": [
+            {
+              "text": "to get dressed",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tə ɡɛt dɹˈɛst"
+        }
+      ]
+    },
+    {
+      "file": "vocab-04.wav",
+      "text": "to go to bed",
+      "sentences": [
+        {
+          "text": "to go to bed",
+          "segments": [
+            {
+              "text": "to go to bed",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tə ɡˌoʊ tə bˈɛd"
+        }
+      ]
+    },
+    {
+      "file": "vocab-05.wav",
+      "text": "early",
+      "sentences": [
+        {
+          "text": "early",
+          "segments": [
+            {
+              "text": "early",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ˈɜːli"
+        }
+      ]
+    },
+    {
+      "file": "vocab-06.wav",
+      "text": "late",
+      "sentences": [
+        {
+          "text": "late",
+          "segments": [
+            {
+              "text": "late",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "lˈeɪt"
+        }
+      ]
+    },
+    {
+      "file": "vocab-07.wav",
+      "text": "now",
+      "sentences": [
+        {
+          "text": "now",
+          "segments": [
+            {
+              "text": "now",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "nˈaʊ"
+        }
+      ]
+    }
+  ]
+}

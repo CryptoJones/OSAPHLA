@@ -1,0 +1,525 @@
+{
+  "profile": "bella",
+  "utterances": [
+    {
+      "file": "00.wav",
+      "text": "Semana 36: Proyecto de campo integrado. manejar una situación desconocida informar y persuadir crear un plan de mantenimiento",
+      "sentences": [
+        {
+          "text": "Semana 36: Proyecto de campo integrado.",
+          "segments": [
+            {
+              "text": "Semana 36: Proyecto de campo integrado.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "semˈana tɾˌeɪntaisˈeɪs: pɾoʝˈekto ðe kˈampo ˌinteɣɾˈaðo."
+        },
+        {
+          "text": "manejar una situación desconocida informar y persuadir crear un plan de mantenimiento",
+          "segments": [
+            {
+              "text": "manejar una situación desconocida informar y persuadir crear un plan de mantenimiento",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "mˌanexˈaɾ ˈuna sˌitwasjˈon dˌeskonosˈiða ˌinfoɾmˈaɾ i pˌeɾswaðˈiɾ kɾeˈaɾ ˈum plˈan de mˌantenimjˈɛnto"
+        }
+      ]
+    },
+    {
+      "file": "01.wav",
+      "text": "Forma y significado. Control integrado de estructuras del curso con prioridad en los errores que afectan la comunicación.",
+      "sentences": [
+        {
+          "text": "Forma y significado.",
+          "segments": [
+            {
+              "text": "Forma y significado.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "fˈoɾma i sˌiɡnifikˈaðo."
+        },
+        {
+          "text": "Control integrado de estructuras del curso con prioridad en los errores que afectan la comunicación.",
+          "segments": [
+            {
+              "text": "Control integrado de estructuras del curso con prioridad en los errores que afectan la comunicación.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kontɾˈol ˌinteɣɾˈaðo ðe ˌestɾuktˈuɾas ðel kˈuɾso kom pɾiˌoɾiðˈað en los erˈoɾes ke afˈektan la kˌomunˌikasjˈon."
+        }
+      ]
+    },
+    {
+      "file": "02.wav",
+      "text": "Conjunto de modelos. Let me clarify what I understood. We must verify the source before acting. I can summarize both positions and defend my recommendation. I adapt my register without imitating an accent. My maintenance plan combines reading, listening, speaking, and writing. Permíteme aclarar lo que entendí. Debemos verificar la fuente antes de actuar. Puedo resumir ambas posiciones y defender mi recomendación. Adapto mi registro sin imitar un acento. Mi plan de mantenimiento combina lectura, escucha, conversación y escritura.",
+      "sentences": [
+        {
+          "text": "Conjunto de modelos.",
+          "segments": [
+            {
+              "text": "Conjunto de modelos.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "koŋxˈunto ðe moðˈelos."
+        },
+        {
+          "text": "Let me clarify what I understood.",
+          "segments": [
+            {
+              "text": "Let me clarify what I understood.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "lˈɛt mˌiː klˈæɹᵻfˌaɪ wʌt aɪ ˌʌndɚstˈʊd."
+        },
+        {
+          "text": "We must verify the source before acting.",
+          "segments": [
+            {
+              "text": "We must verify the source before acting.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wiː mˈʌst vˈɛɹᵻfˌaɪ ðə sˈɔːɹs bᵻfˌɔːɹ ˈæktɪŋ."
+        },
+        {
+          "text": "I can summarize both positions and defend my recommendation.",
+          "segments": [
+            {
+              "text": "I can summarize both positions and defend my recommendation.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "aɪ kæn sˈʌmɚɹˌaɪz bˈoʊθ pəzˈɪʃənz ænd dᵻfˈɛnd maɪ ɹˌɛkəmɛndˈeɪʃən."
+        },
+        {
+          "text": "I adapt my register without imitating an accent.",
+          "segments": [
+            {
+              "text": "I adapt my register without imitating an accent.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "aɪ ɐdˈæpt maɪ ɹˈɛdʒɪstɚ wɪðˌaʊt ˈɪmᵻtˌeɪɾɪŋ ɐn ˈæksənt."
+        },
+        {
+          "text": "My maintenance plan combines reading, listening, speaking, and writing.",
+          "segments": [
+            {
+              "text": "My maintenance plan combines reading, listening, speaking, and writing.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "maɪ mˈeɪntənəns plˈæn kəmbˈaɪnz ɹˈiːdɪŋ, lˈɪsənɪŋ, spˈiːkɪŋ, ænd ɹˈaɪɾɪŋ."
+        },
+        {
+          "text": "Permíteme aclarar lo que entendí.",
+          "segments": [
+            {
+              "text": "Permíteme aclarar lo que entendí.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "peɾmˈiteme ˌaklaɾˈaɾ lo ke ˌentendˈi."
+        },
+        {
+          "text": "Debemos verificar la fuente antes de actuar.",
+          "segments": [
+            {
+              "text": "Debemos verificar la fuente antes de actuar.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "deβˈemos βˌeɾifikˈaɾ la fwˈɛnte ˈantes ðe aktwˈaɾ."
+        },
+        {
+          "text": "Puedo resumir ambas posiciones y defender mi recomendación.",
+          "segments": [
+            {
+              "text": "Puedo resumir ambas posiciones y defender mi recomendación.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "pwˈeðo rˌesumˈiɾ ˈambas pˌosisjˈones i ðˌefendˈeɾ mi rˌekomˌendasjˈon."
+        },
+        {
+          "text": "Adapto mi registro sin imitar un acento.",
+          "segments": [
+            {
+              "text": "Adapto mi registro sin imitar un acento.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "aðˈapːto mi rexˈistɾo sin ˌimitˈaɾ ˈun asˈɛnto."
+        },
+        {
+          "text": "Mi plan de mantenimiento combina lectura, escucha, conversación y escritura.",
+          "segments": [
+            {
+              "text": "Mi plan de mantenimiento combina lectura, escucha, conversación y escritura.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "mi plˈan de mˌantenimjˈɛnto kombˈina lektˈuɾa, eskˈutʃa, kˌombeɾsasjˈon i ˌeskɾitˈuɾa."
+        }
+      ]
+    },
+    {
+      "file": "03.wav",
+      "text": "Práctica contrastiva. Cambia la persona, el tiempo, el número o el grado de formalidad de cada modelo sin perder su propósito comunicativo.",
+      "sentences": [
+        {
+          "text": "Práctica contrastiva.",
+          "segments": [
+            {
+              "text": "Práctica contrastiva.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "pɾˈaktika kˌontɾastˈiβa."
+        },
+        {
+          "text": "Cambia la persona, el tiempo, el número o el grado de formalidad de cada modelo sin perder su propósito comunicativo.",
+          "segments": [
+            {
+              "text": "Cambia la persona, el tiempo, el número o el grado de formalidad de cada modelo sin perder su propósito comunicativo.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kˈambja la peɾsˈona, el tjˈempo, el nˈumeɾo o el ɣɾˈaðo ðe fˌoɾmaliðˈad ðe kˈaða moðˈelo sim peɾðˈeɾ su pɾopˈosito kˌomunˌikatˈiβo."
+        }
+      ]
+    },
+    {
+      "file": "04.wav",
+      "text": "Comprobación de producción. Di una oración original para cada función: manejar una situación desconocida; informar y persuadir; crear un plan de mantenimiento. Después escríbela y compara las formas oral y escrita.",
+      "sentences": [
+        {
+          "text": "Comprobación de producción.",
+          "segments": [
+            {
+              "text": "Comprobación de producción.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kˌompɾoβasjˈon de pɾˌoðuksjˈon."
+        },
+        {
+          "text": "Di una oración original para cada función: manejar una situación desconocida; informar y persuadir; crear un plan de mantenimiento.",
+          "segments": [
+            {
+              "text": "Di una oración original para cada función: manejar una situación desconocida; informar y persuadir; crear un plan de mantenimiento.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "dˈi ˈuna ˌoɾasjˈon ˌoɾixinˈal pˌaɾa kˈaða funsjˈon: mˌanexˈaɾ ˈuna sˌitwasjˈon dˌeskonosˈiða; ˌinfoɾmˈaɾ i pˌeɾswaðˈiɾ; kɾeˈaɾ ˈum plˈan de mˌantenimjˈɛnto."
+        },
+        {
+          "text": "Después escríbela y compara las formas oral y escrita.",
+          "segments": [
+            {
+              "text": "Después escríbela y compara las formas oral y escrita.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "despwˈes eskɾˈiβela i kompˈaɾa las fˈoɾmas oɾˈal i eskɾˈita."
+        }
+      ]
+    },
+    {
+      "file": "05.wav",
+      "text": "Lenguaje modelo. Let me clarify what I understood. — Permíteme aclarar lo que entendí. We must verify the source before acting. — Debemos verificar la fuente antes de actuar. I can summarize both positions and defend my recommendation. — Puedo resumir ambas posiciones y defender mi recomendación. I adapt my register without imitating an accent. — Adapto mi registro sin imitar un acento. My maintenance plan combines reading, listening, speaking, and writing. — Mi plan de mantenimiento combina lectura, escucha, conversación y escritura.",
+      "sentences": [
+        {
+          "text": "Lenguaje modelo.",
+          "segments": [
+            {
+              "text": "Lenguaje modelo.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "leŋɡwˈaxe moðˈelo."
+        },
+        {
+          "text": "Let me clarify what I understood.",
+          "segments": [
+            {
+              "text": "Let me clarify what I understood.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "lˈɛt mˌiː klˈæɹᵻfˌaɪ wʌt aɪ ˌʌndɚstˈʊd."
+        },
+        {
+          "text": "— Permíteme aclarar lo que entendí.",
+          "segments": [
+            {
+              "text": "— Permíteme aclarar lo que entendí.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— peɾmˈiteme ˌaklaɾˈaɾ lo ke ˌentendˈi."
+        },
+        {
+          "text": "We must verify the source before acting.",
+          "segments": [
+            {
+              "text": "We must verify the source before acting.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wiː mˈʌst vˈɛɹᵻfˌaɪ ðə sˈɔːɹs bᵻfˌɔːɹ ˈæktɪŋ."
+        },
+        {
+          "text": "— Debemos verificar la fuente antes de actuar.",
+          "segments": [
+            {
+              "text": "— Debemos verificar la fuente antes de actuar.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— deβˈemos βˌeɾifikˈaɾ la fwˈɛnte ˈantes ðe aktwˈaɾ."
+        },
+        {
+          "text": "I can summarize both positions and defend my recommendation.",
+          "segments": [
+            {
+              "text": "I can summarize both positions and defend my recommendation.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "aɪ kæn sˈʌmɚɹˌaɪz bˈoʊθ pəzˈɪʃənz ænd dᵻfˈɛnd maɪ ɹˌɛkəmɛndˈeɪʃən."
+        },
+        {
+          "text": "— Puedo resumir ambas posiciones y defender mi recomendación.",
+          "segments": [
+            {
+              "text": "— Puedo resumir ambas posiciones y defender mi recomendación.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— pwˈeðo rˌesumˈiɾ ˈambas pˌosisjˈones i ðˌefendˈeɾ mi rˌekomˌendasjˈon."
+        },
+        {
+          "text": "I adapt my register without imitating an accent.",
+          "segments": [
+            {
+              "text": "I adapt my register without imitating an accent.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "aɪ ɐdˈæpt maɪ ɹˈɛdʒɪstɚ wɪðˌaʊt ˈɪmᵻtˌeɪɾɪŋ ɐn ˈæksənt."
+        },
+        {
+          "text": "— Adapto mi registro sin imitar un acento.",
+          "segments": [
+            {
+              "text": "— Adapto mi registro sin imitar un acento.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— aðˈapːto mi rexˈistɾo sin ˌimitˈaɾ ˈun asˈɛnto."
+        },
+        {
+          "text": "My maintenance plan combines reading, listening, speaking, and writing.",
+          "segments": [
+            {
+              "text": "My maintenance plan combines reading, listening, speaking, and writing.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "maɪ mˈeɪntənəns plˈæn kəmbˈaɪnz ɹˈiːdɪŋ, lˈɪsənɪŋ, spˈiːkɪŋ, ænd ɹˈaɪɾɪŋ."
+        },
+        {
+          "text": "— Mi plan de mantenimiento combina lectura, escucha, conversación y escritura.",
+          "segments": [
+            {
+              "text": "— Mi plan de mantenimiento combina lectura, escucha, conversación y escritura.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— mi plˈan de mˌantenimjˈɛnto kombˈina lektˈuɾa, eskˈutʃa, kˌombeɾsasjˈon i ˌeskɾitˈuɾa."
+        }
+      ]
+    },
+    {
+      "file": "06.wav",
+      "text": "Comprueba tu preparación. Explica la idea central. Produce un ejemplo original. Completa la evaluación con un 85 % o más.",
+      "sentences": [
+        {
+          "text": "Comprueba tu preparación.",
+          "segments": [
+            {
+              "text": "Comprueba tu preparación.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kˌompɾuˈeβa tu pɾˌepaɾasjˈon."
+        },
+        {
+          "text": "Explica la idea central.",
+          "segments": [
+            {
+              "text": "Explica la idea central.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "eksplˈika la iðˈea sentɾˈal."
+        },
+        {
+          "text": "Produce un ejemplo original.",
+          "segments": [
+            {
+              "text": "Produce un ejemplo original.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "pɾoðˈuse ˈun exˈemplo ˌoɾixinˈal."
+        },
+        {
+          "text": "Completa la evaluación con un 85 % o más.",
+          "segments": [
+            {
+              "text": "Completa la evaluación con un 85 % o más.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "komplˈeta la ˌeβaluasjˈon kon ˈun otʃˌɛntaisˈinko poɾsjˈɛnto o mˈas."
+        }
+      ]
+    },
+    {
+      "file": "vocab-00.wav",
+      "text": "to clarify",
+      "sentences": [
+        {
+          "text": "to clarify",
+          "segments": [
+            {
+              "text": "to clarify",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tə klˈæɹᵻfˌaɪ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-01.wav",
+      "text": "to verify",
+      "sentences": [
+        {
+          "text": "to verify",
+          "segments": [
+            {
+              "text": "to verify",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tə vˈɛɹᵻfˌaɪ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-02.wav",
+      "text": "to summarize",
+      "sentences": [
+        {
+          "text": "to summarize",
+          "segments": [
+            {
+              "text": "to summarize",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tə sˈʌmɚɹˌaɪz"
+        }
+      ]
+    },
+    {
+      "file": "vocab-03.wav",
+      "text": "to persuade",
+      "sentences": [
+        {
+          "text": "to persuade",
+          "segments": [
+            {
+              "text": "to persuade",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tə pɚswˈeɪd"
+        }
+      ]
+    },
+    {
+      "file": "vocab-04.wav",
+      "text": "to adapt",
+      "sentences": [
+        {
+          "text": "to adapt",
+          "segments": [
+            {
+              "text": "to adapt",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tʊ ɐdˈæpt"
+        }
+      ]
+    },
+    {
+      "file": "vocab-05.wav",
+      "text": "a source",
+      "sentences": [
+        {
+          "text": "a source",
+          "segments": [
+            {
+              "text": "a source",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɐ sˈɔːɹs"
+        }
+      ]
+    },
+    {
+      "file": "vocab-06.wav",
+      "text": "a strength",
+      "sentences": [
+        {
+          "text": "a strength",
+          "segments": [
+            {
+              "text": "a strength",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɐ stɹˈɛŋθ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-07.wav",
+      "text": "a maintenance plan",
+      "sentences": [
+        {
+          "text": "a maintenance plan",
+          "segments": [
+            {
+              "text": "a maintenance plan",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɐ mˈeɪntənəns plˈæn"
+        }
+      ]
+    }
+  ]
+}

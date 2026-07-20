@@ -12,6 +12,16 @@ describe("answer engine", () => {
   it("normalizes Unicode, case, and whitespace", () => expect(normalizeAnswer("  CANCIÓN  ")).toBe("canción"));
   it("warns but accepts missing accents during early sections", () => expect(isCorrect(questions[8], "cancion")).toEqual({ correct: true, accentWarning: true }));
   it("requires accents when configured", () => expect(isCorrect(questions[9], "cancion").correct).toBe(false));
+  it("preserves meaningful English apostrophes", () => {
+    const question: Question = { id: "english", type: "cloze", prompt: "p", answer: "can't", accepted: ["can't"], accentPolicy: "english", rationale: "r" };
+    expect(isCorrect(question, "can't").correct).toBe(true);
+    expect(isCorrect(question, "can’t").correct).toBe(true);
+    expect(isCorrect(question, "cant").correct).toBe(false);
+  });
+  it("does not require sentence-edge punctuation in a cloze response", () => {
+    const question: Question = { id: "punctuation", type: "cloze", prompt: "p", answer: "What is your name?", accepted: ["What is your name?"], accentPolicy: "english", rationale: "r" };
+    expect(isCorrect(question, "what is your name").correct).toBe(true);
+  });
   it("requires the complete ordering", () => {
     expect(isCorrect(questions[16], ["Me","gusta","leer","."]).correct).toBe(true);
     expect(isCorrect(questions[16], ["Me","leer","gusta","."]).correct).toBe(false);

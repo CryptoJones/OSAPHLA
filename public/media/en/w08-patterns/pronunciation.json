@@ -1,0 +1,533 @@
+{
+  "profile": "sky",
+  "utterances": [
+    {
+      "file": "00.wav",
+      "text": "Semana 8: Familia, descripción y posesión. describir personas y relaciones expresar posesión identificar a una persona con precisión",
+      "sentences": [
+        {
+          "text": "Semana 8: Familia, descripción y posesión.",
+          "segments": [
+            {
+              "text": "Semana 8: Familia, descripción y posesión.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "semˈana ˈotʃo: famˈilja, dˌeskɾipsjˈon i pˌosesjˈon."
+        },
+        {
+          "text": "describir personas y relaciones expresar posesión identificar a una persona con precisión",
+          "segments": [
+            {
+              "text": "describir personas y relaciones expresar posesión identificar a una persona con precisión",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "dˌeskɾiβˈiɾ peɾsˈonas i rˌelasjˈones ˌekspɾesˈaɾ pˌosesjˈon ˌiðentˌifikˈaɾ a ˈuna peɾsˈona kom pɾˌesisjˈon"
+        }
+      ]
+    },
+    {
+      "file": "01.wav",
+      "text": "Forma y significado. Adjetivos sin concordancia de género; orden adjetivo-sustantivo; have; posesivos y genitivo con apóstrofo.",
+      "sentences": [
+        {
+          "text": "Forma y significado.",
+          "segments": [
+            {
+              "text": "Forma y significado.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "fˈoɾma i sˌiɡnifikˈaðo."
+        },
+        {
+          "text": "Adjetivos sin concordancia de género; orden adjetivo-sustantivo; have; posesivos y genitivo con apóstrofo.",
+          "segments": [
+            {
+              "text": "Adjetivos sin concordancia de género; orden adjetivo-sustantivo; ",
+              "lang": "es-419"
+            },
+            {
+              "text": "have",
+              "lang": "en-us"
+            },
+            {
+              "text": "; posesivos y genitivo con apóstrofo.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˌaðxetˈiβos sin kˌonkoɾðˈansja ðe xˈeneɾo; ˈoɾðen ˌaðxetˈiβosˌustantˈiβo; hˈæv ; pˌosesˈiβos i xˌenitˈiβo kon apˈostɾofo."
+        }
+      ]
+    },
+    {
+      "file": "02.wav",
+      "text": "Conjunto de modelos. My older sister is very kind. I know Elena's parents. Our family lives in three cities. Is this portrait yours? I have two brothers and a cousin. Mi hermana mayor es muy amable. Conozco a los padres de Elena. Nuestra familia vive en tres ciudades. ¿Es tuyo este retrato? Tengo dos hermanos y una prima o un primo.",
+      "sentences": [
+        {
+          "text": "Conjunto de modelos.",
+          "segments": [
+            {
+              "text": "Conjunto de modelos.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "koŋxˈunto ðe moðˈelos."
+        },
+        {
+          "text": "My older sister is very kind.",
+          "segments": [
+            {
+              "text": "My older sister is very kind.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "maɪ ˈoʊldɚ sˈɪstɚɹ ɪz vˈɛɹi kˈaɪnd."
+        },
+        {
+          "text": "I know Elena's parents.",
+          "segments": [
+            {
+              "text": "I know Elena's parents.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "aɪ nˈoʊ ᵻlˈiːnəz pˈɛɹənts."
+        },
+        {
+          "text": "Our family lives in three cities.",
+          "segments": [
+            {
+              "text": "Our family lives in three cities.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ˌaʊɚ fˈæmɪli lˈaɪvz ɪn θɹˈiː sˈɪɾiz."
+        },
+        {
+          "text": "Is this portrait yours?",
+          "segments": [
+            {
+              "text": "Is this portrait yours?",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɪz ðɪs pˈɔːɹtɹɪt jˈɔːɹz?"
+        },
+        {
+          "text": "I have two brothers and a cousin.",
+          "segments": [
+            {
+              "text": "I have two brothers and a cousin.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "aɪ hæv tˈuː bɹˈʌðɚz ænd ɐ kˈʌzən."
+        },
+        {
+          "text": "Mi hermana mayor es muy amable.",
+          "segments": [
+            {
+              "text": "Mi hermana mayor es muy amable.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "mi eɾmˈana maʝˈoɾ ˈes mˈuj amˈaβle."
+        },
+        {
+          "text": "Conozco a los padres de Elena.",
+          "segments": [
+            {
+              "text": "Conozco a los padres de Elena.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "konˈosko a los pˈaðɾes ðe elˈena."
+        },
+        {
+          "text": "Nuestra familia vive en tres ciudades.",
+          "segments": [
+            {
+              "text": "Nuestra familia vive en tres ciudades.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "nwˌestɾa famˈilja βˈiβe en tɾˈes sjuðˈaðes."
+        },
+        {
+          "text": "¿Es tuyo este retrato?",
+          "segments": [
+            {
+              "text": "¿Es tuyo este retrato?",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˈes tˈuʝo ˈeste retɾˈato?"
+        },
+        {
+          "text": "Tengo dos hermanos y una prima o un primo.",
+          "segments": [
+            {
+              "text": "Tengo dos hermanos y una prima o un primo.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "tˈɛŋɡo ðˈos eɾmˈanos i ˈuna pɾˈima o ˈum pɾˈimo."
+        }
+      ]
+    },
+    {
+      "file": "03.wav",
+      "text": "Práctica contrastiva. Cambia la persona, el tiempo, el número o el grado de formalidad de cada modelo sin perder su propósito comunicativo.",
+      "sentences": [
+        {
+          "text": "Práctica contrastiva.",
+          "segments": [
+            {
+              "text": "Práctica contrastiva.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "pɾˈaktika kˌontɾastˈiβa."
+        },
+        {
+          "text": "Cambia la persona, el tiempo, el número o el grado de formalidad de cada modelo sin perder su propósito comunicativo.",
+          "segments": [
+            {
+              "text": "Cambia la persona, el tiempo, el número o el grado de formalidad de cada modelo sin perder su propósito comunicativo.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kˈambja la peɾsˈona, el tjˈempo, el nˈumeɾo o el ɣɾˈaðo ðe fˌoɾmaliðˈad ðe kˈaða moðˈelo sim peɾðˈeɾ su pɾopˈosito kˌomunˌikatˈiβo."
+        }
+      ]
+    },
+    {
+      "file": "04.wav",
+      "text": "Comprobación de producción. Di una oración original para cada función: describir personas y relaciones; expresar posesión; identificar a una persona con precisión. Después escríbela y compara las formas oral y escrita.",
+      "sentences": [
+        {
+          "text": "Comprobación de producción.",
+          "segments": [
+            {
+              "text": "Comprobación de producción.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kˌompɾoβasjˈon de pɾˌoðuksjˈon."
+        },
+        {
+          "text": "Di una oración original para cada función: describir personas y relaciones; expresar posesión; identificar a una persona con precisión.",
+          "segments": [
+            {
+              "text": "Di una oración original para cada función: describir personas y relaciones; expresar posesión; identificar a una persona con precisión.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "dˈi ˈuna ˌoɾasjˈon ˌoɾixinˈal pˌaɾa kˈaða funsjˈon: dˌeskɾiβˈiɾ peɾsˈonas i rˌelasjˈones; ˌekspɾesˈaɾ pˌosesjˈon; ˌiðentˌifikˈaɾ a ˈuna peɾsˈona kom pɾˌesisjˈon."
+        },
+        {
+          "text": "Después escríbela y compara las formas oral y escrita.",
+          "segments": [
+            {
+              "text": "Después escríbela y compara las formas oral y escrita.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "despwˈes eskɾˈiβela i kompˈaɾa las fˈoɾmas oɾˈal i eskɾˈita."
+        }
+      ]
+    },
+    {
+      "file": "05.wav",
+      "text": "Lenguaje modelo. My older sister is very kind. — Mi hermana mayor es muy amable. I know Elena's parents. — Conozco a los padres de Elena. Our family lives in three cities. — Nuestra familia vive en tres ciudades. Is this portrait yours? — ¿Es tuyo este retrato? I have two brothers and a cousin. — Tengo dos hermanos y una prima o un primo.",
+      "sentences": [
+        {
+          "text": "Lenguaje modelo.",
+          "segments": [
+            {
+              "text": "Lenguaje modelo.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "leŋɡwˈaxe moðˈelo."
+        },
+        {
+          "text": "My older sister is very kind.",
+          "segments": [
+            {
+              "text": "My older sister is very kind.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "maɪ ˈoʊldɚ sˈɪstɚɹ ɪz vˈɛɹi kˈaɪnd."
+        },
+        {
+          "text": "— Mi hermana mayor es muy amable.",
+          "segments": [
+            {
+              "text": "— Mi hermana mayor es muy amable.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— mi eɾmˈana maʝˈoɾ ˈes mˈuj amˈaβle."
+        },
+        {
+          "text": "I know Elena's parents.",
+          "segments": [
+            {
+              "text": "I know Elena's parents.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "aɪ nˈoʊ ᵻlˈiːnəz pˈɛɹənts."
+        },
+        {
+          "text": "— Conozco a los padres de Elena.",
+          "segments": [
+            {
+              "text": "— Conozco a los padres de Elena.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— konˈosko a los pˈaðɾes ðe elˈena."
+        },
+        {
+          "text": "Our family lives in three cities.",
+          "segments": [
+            {
+              "text": "Our family lives in three cities.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ˌaʊɚ fˈæmɪli lˈaɪvz ɪn θɹˈiː sˈɪɾiz."
+        },
+        {
+          "text": "— Nuestra familia vive en tres ciudades.",
+          "segments": [
+            {
+              "text": "— Nuestra familia vive en tres ciudades.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— nwˌestɾa famˈilja βˈiβe en tɾˈes sjuðˈaðes."
+        },
+        {
+          "text": "Is this portrait yours?",
+          "segments": [
+            {
+              "text": "Is this portrait yours?",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɪz ðɪs pˈɔːɹtɹɪt jˈɔːɹz?"
+        },
+        {
+          "text": "— ¿Es tuyo este retrato?",
+          "segments": [
+            {
+              "text": "— ¿Es tuyo este retrato?",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— ˈes tˈuʝo ˈeste retɾˈato?"
+        },
+        {
+          "text": "I have two brothers and a cousin.",
+          "segments": [
+            {
+              "text": "I have two brothers and a cousin.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "aɪ hæv tˈuː bɹˈʌðɚz ænd ɐ kˈʌzən."
+        },
+        {
+          "text": "— Tengo dos hermanos y una prima o un primo.",
+          "segments": [
+            {
+              "text": "— Tengo dos hermanos y una prima o un primo.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— tˈɛŋɡo ðˈos eɾmˈanos i ˈuna pɾˈima o ˈum pɾˈimo."
+        }
+      ]
+    },
+    {
+      "file": "06.wav",
+      "text": "Comprueba tu preparación. Explica la idea central. Produce un ejemplo original. Completa la evaluación con un 85 % o más.",
+      "sentences": [
+        {
+          "text": "Comprueba tu preparación.",
+          "segments": [
+            {
+              "text": "Comprueba tu preparación.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kˌompɾuˈeβa tu pɾˌepaɾasjˈon."
+        },
+        {
+          "text": "Explica la idea central.",
+          "segments": [
+            {
+              "text": "Explica la idea central.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "eksplˈika la iðˈea sentɾˈal."
+        },
+        {
+          "text": "Produce un ejemplo original.",
+          "segments": [
+            {
+              "text": "Produce un ejemplo original.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "pɾoðˈuse ˈun exˈemplo ˌoɾixinˈal."
+        },
+        {
+          "text": "Completa la evaluación con un 85 % o más.",
+          "segments": [
+            {
+              "text": "Completa la evaluación con un 85 % o más.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "komplˈeta la ˌeβaluasjˈon kon ˈun otʃˌɛntaisˈinko poɾsjˈɛnto o mˈas."
+        }
+      ]
+    },
+    {
+      "file": "vocab-00.wav",
+      "text": "family",
+      "sentences": [
+        {
+          "text": "family",
+          "segments": [
+            {
+              "text": "family",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "fˈæmɪli"
+        }
+      ]
+    },
+    {
+      "file": "vocab-01.wav",
+      "text": "mother",
+      "sentences": [
+        {
+          "text": "mother",
+          "segments": [
+            {
+              "text": "mother",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "mˈʌðɚ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-02.wav",
+      "text": "father",
+      "sentences": [
+        {
+          "text": "father",
+          "segments": [
+            {
+              "text": "father",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "fˈɑːðɚ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-03.wav",
+      "text": "sister",
+      "sentences": [
+        {
+          "text": "sister",
+          "segments": [
+            {
+              "text": "sister",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "sˈɪstɚ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-04.wav",
+      "text": "friend",
+      "sentences": [
+        {
+          "text": "friend",
+          "segments": [
+            {
+              "text": "friend",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "fɹˈɛnd"
+        }
+      ]
+    },
+    {
+      "file": "vocab-05.wav",
+      "text": "young",
+      "sentences": [
+        {
+          "text": "young",
+          "segments": [
+            {
+              "text": "young",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "jˈʌŋ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-06.wav",
+      "text": "older",
+      "sentences": [
+        {
+          "text": "older",
+          "segments": [
+            {
+              "text": "older",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ˈoʊldɚ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-07.wav",
+      "text": "kind",
+      "sentences": [
+        {
+          "text": "kind",
+          "segments": [
+            {
+              "text": "kind",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "kˈaɪnd"
+        }
+      ]
+    }
+  ]
+}

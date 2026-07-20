@@ -1,0 +1,469 @@
+{
+  "profile": "heart",
+  "utterances": [
+    {
+      "file": "00.wav",
+      "text": "Semana 17: Pasado simple: acciones terminadas. informar qué ocurrió ordenar acciones terminadas hacer preguntas de seguimiento",
+      "sentences": [
+        {
+          "text": "Semana 17: Pasado simple: acciones terminadas.",
+          "segments": [
+            {
+              "text": "Semana 17: Pasado simple: acciones terminadas.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "semˈana ðjˌɛsisjˈete: pasˈaðo sˈimple: aksjˈones tˌeɾminˈaðas."
+        },
+        {
+          "text": "informar qué ocurrió ordenar acciones terminadas hacer preguntas de seguimiento",
+          "segments": [
+            {
+              "text": "informar qué ocurrió ordenar acciones terminadas hacer preguntas de seguimiento",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˌinfoɾmˈaɾ kˈe ˌokuriˈo ˌoɾðenˈaɾ aksjˈones tˌeɾminˈaðas asˈeɾ pɾeɣˈuntas ðe sˌeɣimjˈɛnto"
+        }
+      ]
+    },
+    {
+      "file": "01.wav",
+      "text": "Objetivo operativo. Al terminar esta sección podrás informar qué ocurrió, ordenar acciones terminadas, hacer preguntas de seguimiento. El objetivo es el desempeño útil, no la terminología aislada.",
+      "sentences": [
+        {
+          "text": "Objetivo operativo.",
+          "segments": [
+            {
+              "text": "Objetivo operativo.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˌoβxetˈiβo ˌopeɾatˈiβo."
+        },
+        {
+          "text": "Al terminar esta sección podrás informar qué ocurrió, ordenar acciones terminadas, hacer preguntas de seguimiento.",
+          "segments": [
+            {
+              "text": "Al terminar esta sección podrás informar qué ocurrió, ordenar acciones terminadas, hacer preguntas de seguimiento.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "al tˌeɾminˈaɾ ˈesta seksjˈom poðɾˈas ˌinfoɾmˈaɾ kˈe ˌokuriˈo, ˌoɾðenˈaɾ aksjˈones tˌeɾminˈaðas, asˈeɾ pɾeɣˈuntas ðe sˌeɣimjˈɛnto."
+        },
+        {
+          "text": "El objetivo es el desempeño útil, no la terminología aislada.",
+          "segments": [
+            {
+              "text": "El objetivo es el desempeño útil, no la terminología aislada.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "el ˌoβxetˈiβo ˈes el ðˌesempˈeɲo ˈutil, nˈo la tˌeɾminˌoloxˈia aɪslˈaða."
+        }
+      ]
+    },
+    {
+      "file": "02.wav",
+      "text": "Sistema lingüístico. Pasado regular; terminaciones -ed; marcadores temporales; preguntas y negación con did.",
+      "sentences": [
+        {
+          "text": "Sistema lingüístico.",
+          "segments": [
+            {
+              "text": "Sistema lingüístico.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "sistˈema lˌiŋɡuˈistiko."
+        },
+        {
+          "text": "Pasado regular; terminaciones -ed; marcadores temporales; preguntas y negación con did.",
+          "segments": [
+            {
+              "text": "Pasado regular; terminaciones ",
+              "lang": "es-419"
+            },
+            {
+              "text": "-ed",
+              "lang": "en-us"
+            },
+            {
+              "text": "; marcadores temporales; preguntas y negación con ",
+              "lang": "es-419"
+            },
+            {
+              "text": "did",
+              "lang": "en-us"
+            },
+            {
+              "text": ".",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "pasˈaðo rˌeɣulˈaɾ; tˌeɾminasjˈones ˈɛd ; mˌaɾkaðˈoɾes tˌempoɾˈales; pɾeɣˈuntas i nˌeɣasjˈon kˈon dˈɪd ."
+        }
+      ]
+    },
+    {
+      "file": "03.wav",
+      "text": "Sonido y producción. Terminaciones -ed /t/, /d/ y /ɪd/; conservación de consonantes finales en cadenas de eventos.",
+      "sentences": [
+        {
+          "text": "Sonido y producción.",
+          "segments": [
+            {
+              "text": "Sonido y producción.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "sonˈiðo i pɾˌoðuksjˈon."
+        },
+        {
+          "text": "Terminaciones -ed /t/, /d/ y /ɪd/; conservación de consonantes finales en cadenas de eventos.",
+          "segments": [
+            {
+              "text": "Terminaciones ",
+              "lang": "es-419"
+            },
+            {
+              "text": "-ed",
+              "lang": "en-us"
+            },
+            {
+              "text": " /t/, /d/ y /ɪd/; conservación de consonantes finales en cadenas de eventos.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "tˌeɾminasjˈones ˈɛd bˈara tˈe βˈara, bˈara ðˈe βˈara i βˈara (en)smˌɔːlkˌapˌaɪ(esla)dˈe βˈara; kˌonseɾβasjˈon de kˌonsonˈantes finˈales en kaðˈenas ðe eβˈɛntos."
+        }
+      ]
+    },
+    {
+      "file": "04.wav",
+      "text": "Principio central. Observa primero el significado y después la forma. Recupera el inglés en voz alta, compáralo con el modelo y corrige un rasgo a la vez.",
+      "sentences": [
+        {
+          "text": "Principio central.",
+          "segments": [
+            {
+              "text": "Principio central.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "pɾinsˈipjo sentɾˈal."
+        },
+        {
+          "text": "Observa primero el significado y después la forma.",
+          "segments": [
+            {
+              "text": "Observa primero el significado y después la forma.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "oβsˈeɾβa pɾimˈeɾo el sˌiɡnifikˈaðo i ðespwˈes la fˈoɾma."
+        },
+        {
+          "text": "Recupera el inglés en voz alta, compáralo con el modelo y corrige un rasgo a la vez.",
+          "segments": [
+            {
+              "text": "Recupera el inglés en voz alta, compáralo con el modelo y corrige un rasgo a la vez.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "rˌekupˈeɾa el iŋɡlˈes em bˈos ˈalta, kompˈaɾalo kon el moðˈelo i korˈixe ˈun rˈasɣo a la βˈes."
+        }
+      ]
+    },
+    {
+      "file": "05.wav",
+      "text": "Lenguaje modelo. I arrived at the office early yesterday. — Ayer llegué temprano a la oficina. First, we reviewed the report. — Primero revisamos el informe. Then they called the supervisor. — Después llamaron a la supervisora. What happened afterward? — ¿Qué ocurrió luego? The meeting ended at six. — La reunión terminó a las seis.",
+      "sentences": [
+        {
+          "text": "Lenguaje modelo.",
+          "segments": [
+            {
+              "text": "Lenguaje modelo.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "leŋɡwˈaxe moðˈelo."
+        },
+        {
+          "text": "I arrived at the office early yesterday.",
+          "segments": [
+            {
+              "text": "I arrived at the office early yesterday.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "aɪ ɚɹˈaɪvd æt ðɪ ˈɑːfɪs ˈɜːli jˈɛstɚdˌeɪ."
+        },
+        {
+          "text": "— Ayer llegué temprano a la oficina.",
+          "segments": [
+            {
+              "text": "— Ayer llegué temprano a la oficina.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— aʝˈeɾ ʝeɣˈe tempɾˈano a la ˌofisˈina."
+        },
+        {
+          "text": "First, we reviewed the report.",
+          "segments": [
+            {
+              "text": "First, we reviewed the report.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "fˈɜːst, wiː ɹᵻvjˈuːd ðə ɹᵻpˈɔːɹt."
+        },
+        {
+          "text": "— Primero revisamos el informe.",
+          "segments": [
+            {
+              "text": "— Primero revisamos el informe.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— pɾimˈeɾo rˌeβisˈamos el infˈoɾme."
+        },
+        {
+          "text": "Then they called the supervisor.",
+          "segments": [
+            {
+              "text": "Then they called the supervisor.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðˈɛn ðeɪ kˈɔːld ðə sˈuːpɚvˌaɪzɚ."
+        },
+        {
+          "text": "— Después llamaron a la supervisora.",
+          "segments": [
+            {
+              "text": "— Después llamaron a la supervisora.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— despwˈes ʝamˈaɾon a la sˌupeɾβisˈoɾa."
+        },
+        {
+          "text": "What happened afterward?",
+          "segments": [
+            {
+              "text": "What happened afterward?",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wˌʌt hˈæpənd ˈæftɚwɚd?"
+        },
+        {
+          "text": "— ¿Qué ocurrió luego?",
+          "segments": [
+            {
+              "text": "— ¿Qué ocurrió luego?",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— kˈe ˌokuriˈo luˈeɣo?"
+        },
+        {
+          "text": "The meeting ended at six.",
+          "segments": [
+            {
+              "text": "The meeting ended at six.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðə mˈiːɾɪŋ ˈɛndᵻd æt sˈɪks."
+        },
+        {
+          "text": "— La reunión terminó a las seis.",
+          "segments": [
+            {
+              "text": "— La reunión terminó a las seis.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— la reʊnjˈon tˌeɾminˈo a las sˈeɪs."
+        }
+      ]
+    },
+    {
+      "file": "06.wav",
+      "text": "Comprueba tu preparación. Explica la idea central. Produce un ejemplo original. Completa la evaluación con un 85 % o más.",
+      "sentences": [
+        {
+          "text": "Comprueba tu preparación.",
+          "segments": [
+            {
+              "text": "Comprueba tu preparación.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kˌompɾuˈeβa tu pɾˌepaɾasjˈon."
+        },
+        {
+          "text": "Explica la idea central.",
+          "segments": [
+            {
+              "text": "Explica la idea central.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "eksplˈika la iðˈea sentɾˈal."
+        },
+        {
+          "text": "Produce un ejemplo original.",
+          "segments": [
+            {
+              "text": "Produce un ejemplo original.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "pɾoðˈuse ˈun exˈemplo ˌoɾixinˈal."
+        },
+        {
+          "text": "Completa la evaluación con un 85 % o más.",
+          "segments": [
+            {
+              "text": "Completa la evaluación con un 85 % o más.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "komplˈeta la ˌeβaluasjˈon kon ˈun otʃˌɛntaisˈinko poɾsjˈɛnto o mˈas."
+        }
+      ]
+    },
+    {
+      "file": "vocab-00.wav",
+      "text": "yesterday",
+      "sentences": [
+        {
+          "text": "yesterday",
+          "segments": [
+            {
+              "text": "yesterday",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "jˈɛstɚdˌeɪ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-01.wav",
+      "text": "to arrive",
+      "sentences": [
+        {
+          "text": "to arrive",
+          "segments": [
+            {
+              "text": "to arrive",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tʊ ɚɹˈaɪv"
+        }
+      ]
+    },
+    {
+      "file": "vocab-02.wav",
+      "text": "to review",
+      "sentences": [
+        {
+          "text": "to review",
+          "segments": [
+            {
+              "text": "to review",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tə ɹᵻvjˈuː"
+        }
+      ]
+    },
+    {
+      "file": "vocab-03.wav",
+      "text": "to call",
+      "sentences": [
+        {
+          "text": "to call",
+          "segments": [
+            {
+              "text": "to call",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tə kˈɔːl"
+        }
+      ]
+    },
+    {
+      "file": "vocab-04.wav",
+      "text": "to finish",
+      "sentences": [
+        {
+          "text": "to finish",
+          "segments": [
+            {
+              "text": "to finish",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tə fˈɪnɪʃ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-05.wav",
+      "text": "first",
+      "sentences": [
+        {
+          "text": "first",
+          "segments": [
+            {
+              "text": "first",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "fˈɜːst"
+        }
+      ]
+    },
+    {
+      "file": "vocab-06.wav",
+      "text": "then",
+      "sentences": [
+        {
+          "text": "then",
+          "segments": [
+            {
+              "text": "then",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðˈɛn"
+        }
+      ]
+    },
+    {
+      "file": "vocab-07.wav",
+      "text": "afterward",
+      "sentences": [
+        {
+          "text": "afterward",
+          "segments": [
+            {
+              "text": "afterward",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ˈæftɚwɚd"
+        }
+      ]
+    }
+  ]
+}

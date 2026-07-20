@@ -1,0 +1,549 @@
+{
+  "profile": "bella",
+  "utterances": [
+    {
+      "file": "00.wav",
+      "text": "Semana 16: Tiempo, naturaleza y planes. entender un pronóstico describir terreno cambiar planes por las condiciones",
+      "sentences": [
+        {
+          "text": "Semana 16: Tiempo, naturaleza y planes.",
+          "segments": [
+            {
+              "text": "Semana 16: Tiempo, naturaleza y planes.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "semˈana ðjˌɛsisˈeɪs: tjˈempo, nˌatuɾalˈesa i plˈanes."
+        },
+        {
+          "text": "entender un pronóstico describir terreno cambiar planes por las condiciones",
+          "segments": [
+            {
+              "text": "entender un pronóstico describir terreno cambiar planes por las condiciones",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˌentendˈeɾ ˈum pɾonˈostiko ðˌeskɾiβˈiɾ terˈeno kambjˈaɾ plˈanes poɾ las kˌondisjˈones"
+        }
+      ]
+    },
+    {
+      "file": "01.wav",
+      "text": "Forma y significado. Expresiones meteorológicas; will y going to; presente continuo para planes; primer condicional con if.",
+      "sentences": [
+        {
+          "text": "Forma y significado.",
+          "segments": [
+            {
+              "text": "Forma y significado.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "fˈoɾma i sˌiɡnifikˈaðo."
+        },
+        {
+          "text": "Expresiones meteorológicas; will y going to; presente continuo para planes; primer condicional con if.",
+          "segments": [
+            {
+              "text": "Expresiones meteorológicas; ",
+              "lang": "es-419"
+            },
+            {
+              "text": "will",
+              "lang": "en-us"
+            },
+            {
+              "text": " y ",
+              "lang": "es-419"
+            },
+            {
+              "text": "going to",
+              "lang": "en-us"
+            },
+            {
+              "text": "; presente continuo para planes; primer condicional con ",
+              "lang": "es-419"
+            },
+            {
+              "text": "if",
+              "lang": "en-us"
+            },
+            {
+              "text": ".",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˌekspɾesjˈones mˌeteˌoɾolˈoxikas; wˈɪl i ɡˈoʊɪŋ tuː ; pɾesˈɛnte kontˈinwo pˌaɾa plˈanes; pɾimˈeɾ kˌondisjonˈal kˈon ɪf ."
+        }
+      ]
+    },
+    {
+      "file": "02.wav",
+      "text": "Conjunto de modelos. It's going to rain on the coast tomorrow. It's windy in the mountains. If the weather changes, we'll return early. Fires are not allowed in the forest. We're protecting a water source. Mañana va a llover en la costa. Hace viento en las montañas. Si cambia el tiempo, regresaremos temprano. No se permiten fogatas en el bosque. Estamos protegiendo una fuente de agua.",
+      "sentences": [
+        {
+          "text": "Conjunto de modelos.",
+          "segments": [
+            {
+              "text": "Conjunto de modelos.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "koŋxˈunto ðe moðˈelos."
+        },
+        {
+          "text": "It's going to rain on the coast tomorrow.",
+          "segments": [
+            {
+              "text": "It's going to rain on the coast tomorrow.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɪts ɡˌoʊɪŋ tə ɹˈeɪn ɔnðə kˈoʊst təmˈɑːɹoʊ."
+        },
+        {
+          "text": "It's windy in the mountains.",
+          "segments": [
+            {
+              "text": "It's windy in the mountains.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɪts wˈɪndi ɪnðə mˈaʊntɪnz."
+        },
+        {
+          "text": "If the weather changes, we'll return early.",
+          "segments": [
+            {
+              "text": "If the weather changes, we'll return early.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɪf ðə wˈɛðɚ tʃˈeɪndʒᵻz, wiːl ɹᵻtˈɜːn ˈɜːli."
+        },
+        {
+          "text": "Fires are not allowed in the forest.",
+          "segments": [
+            {
+              "text": "Fires are not allowed in the forest.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "fˈaɪɚz ɑːɹ nˌɑːt ɐlˈaʊd ɪnðə fˈɔːɹɪst."
+        },
+        {
+          "text": "We're protecting a water source.",
+          "segments": [
+            {
+              "text": "We're protecting a water source.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wɪɹ pɹətˈɛktɪŋ ɐ wˈɔːɾɚ sˈɔːɹs."
+        },
+        {
+          "text": "Mañana va a llover en la costa.",
+          "segments": [
+            {
+              "text": "Mañana va a llover en la costa.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "maɲˈana βˈa a ʝoβˈeɾ en la kˈosta."
+        },
+        {
+          "text": "Hace viento en las montañas.",
+          "segments": [
+            {
+              "text": "Hace viento en las montañas.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˈase βjˈɛnto en las montˈaɲas."
+        },
+        {
+          "text": "Si cambia el tiempo, regresaremos temprano.",
+          "segments": [
+            {
+              "text": "Si cambia el tiempo, regresaremos temprano.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "si kˈambja el tjˈempo, rˌeɣɾesaɾˈemos tempɾˈano."
+        },
+        {
+          "text": "No se permiten fogatas en el bosque.",
+          "segments": [
+            {
+              "text": "No se permiten fogatas en el bosque.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "nˈo se peɾmˈiten foɣˈatas en el βˈoske."
+        },
+        {
+          "text": "Estamos protegiendo una fuente de agua.",
+          "segments": [
+            {
+              "text": "Estamos protegiendo una fuente de agua.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "estˈamos pɾˌotexjˈɛndo ˈuna fwˈɛnte ðe ˈaɣwa."
+        }
+      ]
+    },
+    {
+      "file": "03.wav",
+      "text": "Práctica contrastiva. Cambia la persona, el tiempo, el número o el grado de formalidad de cada modelo sin perder su propósito comunicativo.",
+      "sentences": [
+        {
+          "text": "Práctica contrastiva.",
+          "segments": [
+            {
+              "text": "Práctica contrastiva.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "pɾˈaktika kˌontɾastˈiβa."
+        },
+        {
+          "text": "Cambia la persona, el tiempo, el número o el grado de formalidad de cada modelo sin perder su propósito comunicativo.",
+          "segments": [
+            {
+              "text": "Cambia la persona, el tiempo, el número o el grado de formalidad de cada modelo sin perder su propósito comunicativo.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kˈambja la peɾsˈona, el tjˈempo, el nˈumeɾo o el ɣɾˈaðo ðe fˌoɾmaliðˈad ðe kˈaða moðˈelo sim peɾðˈeɾ su pɾopˈosito kˌomunˌikatˈiβo."
+        }
+      ]
+    },
+    {
+      "file": "04.wav",
+      "text": "Comprobación de producción. Di una oración original para cada función: entender un pronóstico; describir terreno; cambiar planes por las condiciones. Después escríbela y compara las formas oral y escrita.",
+      "sentences": [
+        {
+          "text": "Comprobación de producción.",
+          "segments": [
+            {
+              "text": "Comprobación de producción.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kˌompɾoβasjˈon de pɾˌoðuksjˈon."
+        },
+        {
+          "text": "Di una oración original para cada función: entender un pronóstico; describir terreno; cambiar planes por las condiciones.",
+          "segments": [
+            {
+              "text": "Di una oración original para cada función: entender un pronóstico; describir terreno; cambiar planes por las condiciones.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "dˈi ˈuna ˌoɾasjˈon ˌoɾixinˈal pˌaɾa kˈaða funsjˈon: ˌentendˈeɾ ˈum pɾonˈostiko; dˌeskɾiβˈiɾ terˈeno; kambjˈaɾ plˈanes poɾ las kˌondisjˈones."
+        },
+        {
+          "text": "Después escríbela y compara las formas oral y escrita.",
+          "segments": [
+            {
+              "text": "Después escríbela y compara las formas oral y escrita.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "despwˈes eskɾˈiβela i kompˈaɾa las fˈoɾmas oɾˈal i eskɾˈita."
+        }
+      ]
+    },
+    {
+      "file": "05.wav",
+      "text": "Lenguaje modelo. It's going to rain on the coast tomorrow. — Mañana va a llover en la costa. It's windy in the mountains. — Hace viento en las montañas. If the weather changes, we'll return early. — Si cambia el tiempo, regresaremos temprano. Fires are not allowed in the forest. — No se permiten fogatas en el bosque. We're protecting a water source. — Estamos protegiendo una fuente de agua.",
+      "sentences": [
+        {
+          "text": "Lenguaje modelo.",
+          "segments": [
+            {
+              "text": "Lenguaje modelo.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "leŋɡwˈaxe moðˈelo."
+        },
+        {
+          "text": "It's going to rain on the coast tomorrow.",
+          "segments": [
+            {
+              "text": "It's going to rain on the coast tomorrow.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɪts ɡˌoʊɪŋ tə ɹˈeɪn ɔnðə kˈoʊst təmˈɑːɹoʊ."
+        },
+        {
+          "text": "— Mañana va a llover en la costa.",
+          "segments": [
+            {
+              "text": "— Mañana va a llover en la costa.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— maɲˈana βˈa a ʝoβˈeɾ en la kˈosta."
+        },
+        {
+          "text": "It's windy in the mountains.",
+          "segments": [
+            {
+              "text": "It's windy in the mountains.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɪts wˈɪndi ɪnðə mˈaʊntɪnz."
+        },
+        {
+          "text": "— Hace viento en las montañas.",
+          "segments": [
+            {
+              "text": "— Hace viento en las montañas.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— ˈase βjˈɛnto en las montˈaɲas."
+        },
+        {
+          "text": "If the weather changes, we'll return early.",
+          "segments": [
+            {
+              "text": "If the weather changes, we'll return early.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɪf ðə wˈɛðɚ tʃˈeɪndʒᵻz, wiːl ɹᵻtˈɜːn ˈɜːli."
+        },
+        {
+          "text": "— Si cambia el tiempo, regresaremos temprano.",
+          "segments": [
+            {
+              "text": "— Si cambia el tiempo, regresaremos temprano.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— si kˈambja el tjˈempo, rˌeɣɾesaɾˈemos tempɾˈano."
+        },
+        {
+          "text": "Fires are not allowed in the forest.",
+          "segments": [
+            {
+              "text": "Fires are not allowed in the forest.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "fˈaɪɚz ɑːɹ nˌɑːt ɐlˈaʊd ɪnðə fˈɔːɹɪst."
+        },
+        {
+          "text": "— No se permiten fogatas en el bosque.",
+          "segments": [
+            {
+              "text": "— No se permiten fogatas en el bosque.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— nˈo se peɾmˈiten foɣˈatas en el βˈoske."
+        },
+        {
+          "text": "We're protecting a water source.",
+          "segments": [
+            {
+              "text": "We're protecting a water source.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wɪɹ pɹətˈɛktɪŋ ɐ wˈɔːɾɚ sˈɔːɹs."
+        },
+        {
+          "text": "— Estamos protegiendo una fuente de agua.",
+          "segments": [
+            {
+              "text": "— Estamos protegiendo una fuente de agua.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— estˈamos pɾˌotexjˈɛndo ˈuna fwˈɛnte ðe ˈaɣwa."
+        }
+      ]
+    },
+    {
+      "file": "06.wav",
+      "text": "Comprueba tu preparación. Explica la idea central. Produce un ejemplo original. Completa la evaluación con un 85 % o más.",
+      "sentences": [
+        {
+          "text": "Comprueba tu preparación.",
+          "segments": [
+            {
+              "text": "Comprueba tu preparación.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kˌompɾuˈeβa tu pɾˌepaɾasjˈon."
+        },
+        {
+          "text": "Explica la idea central.",
+          "segments": [
+            {
+              "text": "Explica la idea central.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "eksplˈika la iðˈea sentɾˈal."
+        },
+        {
+          "text": "Produce un ejemplo original.",
+          "segments": [
+            {
+              "text": "Produce un ejemplo original.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "pɾoðˈuse ˈun exˈemplo ˌoɾixinˈal."
+        },
+        {
+          "text": "Completa la evaluación con un 85 % o más.",
+          "segments": [
+            {
+              "text": "Completa la evaluación con un 85 % o más.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "komplˈeta la ˌeβaluasjˈon kon ˈun otʃˌɛntaisˈinko poɾsjˈɛnto o mˈas."
+        }
+      ]
+    },
+    {
+      "file": "vocab-00.wav",
+      "text": "rain",
+      "sentences": [
+        {
+          "text": "rain",
+          "segments": [
+            {
+              "text": "rain",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɹˈeɪn"
+        }
+      ]
+    },
+    {
+      "file": "vocab-01.wav",
+      "text": "wind",
+      "sentences": [
+        {
+          "text": "wind",
+          "segments": [
+            {
+              "text": "wind",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wˈɪnd"
+        }
+      ]
+    },
+    {
+      "file": "vocab-02.wav",
+      "text": "a forecast",
+      "sentences": [
+        {
+          "text": "a forecast",
+          "segments": [
+            {
+              "text": "a forecast",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɐ fˈɔːɹkæst"
+        }
+      ]
+    },
+    {
+      "file": "vocab-03.wav",
+      "text": "a mountain",
+      "sentences": [
+        {
+          "text": "a mountain",
+          "segments": [
+            {
+              "text": "a mountain",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɐ mˈaʊntɪn"
+        }
+      ]
+    },
+    {
+      "file": "vocab-04.wav",
+      "text": "a coast",
+      "sentences": [
+        {
+          "text": "a coast",
+          "segments": [
+            {
+              "text": "a coast",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɐ kˈoʊst"
+        }
+      ]
+    },
+    {
+      "file": "vocab-05.wav",
+      "text": "a trail",
+      "sentences": [
+        {
+          "text": "a trail",
+          "segments": [
+            {
+              "text": "a trail",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɐ tɹˈeɪl"
+        }
+      ]
+    },
+    {
+      "file": "vocab-06.wav",
+      "text": "safe",
+      "sentences": [
+        {
+          "text": "safe",
+          "segments": [
+            {
+              "text": "safe",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "sˈeɪf"
+        }
+      ]
+    },
+    {
+      "file": "vocab-07.wav",
+      "text": "to change",
+      "sentences": [
+        {
+          "text": "to change",
+          "segments": [
+            {
+              "text": "to change",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tə tʃˈeɪndʒ"
+        }
+      ]
+    }
+  ]
+}

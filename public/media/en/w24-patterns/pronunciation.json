@@ -1,0 +1,557 @@
+{
+  "profile": "bella",
+  "utterances": [
+    {
+      "file": "00.wav",
+      "text": "Semana 24: Procedimientos, consejos y obligación. dar un procedimiento seguro ofrecer consejos distinguir petición de orden",
+      "sentences": [
+        {
+          "text": "Semana 24: Procedimientos, consejos y obligación.",
+          "segments": [
+            {
+              "text": "Semana 24: Procedimientos, consejos y obligación.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "semˈana βˌeɪntikwˈatɾo: pɾˌoseðimjˈɛntos, konsˈexos i ˌoβliɣasjˈon."
+        },
+        {
+          "text": "dar un procedimiento seguro ofrecer consejos distinguir petición de orden",
+          "segments": [
+            {
+              "text": "dar un procedimiento seguro ofrecer consejos distinguir petición de orden",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "dˈaɾ ˈum pɾˌoseðimjˈɛnto seɣˈuɾo ˌofɾesˈeɾ konsˈexos ðˌistiŋɡˈiɾ pˌetisjˈon de ˈoɾðen"
+        }
+      ]
+    },
+    {
+      "file": "01.wav",
+      "text": "Forma y significado. Imperativos; should, must, have to y need to; secuencias; peticiones mitigadas y prohibiciones.",
+      "sentences": [
+        {
+          "text": "Forma y significado.",
+          "segments": [
+            {
+              "text": "Forma y significado.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "fˈoɾma i sˌiɡnifikˈaðo."
+        },
+        {
+          "text": "Imperativos; should, must, have to y need to; secuencias; peticiones mitigadas y prohibiciones.",
+          "segments": [
+            {
+              "text": "Imperativos; ",
+              "lang": "es-419"
+            },
+            {
+              "text": "should",
+              "lang": "en-us"
+            },
+            {
+              "text": ", ",
+              "lang": "es-419"
+            },
+            {
+              "text": "must",
+              "lang": "en-us"
+            },
+            {
+              "text": ", ",
+              "lang": "es-419"
+            },
+            {
+              "text": "have to",
+              "lang": "en-us"
+            },
+            {
+              "text": " y need ",
+              "lang": "es-419"
+            },
+            {
+              "text": "to",
+              "lang": "en-us"
+            },
+            {
+              "text": "; secuencias; peticiones mitigadas y prohibiciones.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˌimpeɾatˈiβos; ʃˈʊd , mˈʌst , hˈæv tuː i neˈed tuː ; sekwˈɛnsjas; pˌetisjˈones mˌitiɣˈaðas i pɾˌoiβisjˈones."
+        }
+      ]
+    },
+    {
+      "file": "02.wav",
+      "text": "Conjunto de modelos. Turn off the equipment before opening it. Don't share that password. Make sure you save a copy. Let's check the data again. You should avoid this road at night. Apaga el equipo antes de abrirlo. No compartas esa contraseña. Asegúrate de guardar una copia. Revisemos los datos otra vez. Conviene evitar esta carretera de noche.",
+      "sentences": [
+        {
+          "text": "Conjunto de modelos.",
+          "segments": [
+            {
+              "text": "Conjunto de modelos.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "koŋxˈunto ðe moðˈelos."
+        },
+        {
+          "text": "Turn off the equipment before opening it.",
+          "segments": [
+            {
+              "text": "Turn off the equipment before opening it.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tˈɜːn ˈɔf ðɪ ɪkwˈɪpmənt bᵻfˌɔːɹ ˈoʊpənɪŋ ɪt."
+        },
+        {
+          "text": "Don't share that password.",
+          "segments": [
+            {
+              "text": "Don't share that password.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "dˈoʊnt ʃˈɛɹ ðæt pˈæswɜːd."
+        },
+        {
+          "text": "Make sure you save a copy.",
+          "segments": [
+            {
+              "text": "Make sure you save a copy.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "mˌeɪk ʃˈʊɹ juː sˈeɪv ɐ kˈɑːpi."
+        },
+        {
+          "text": "Let's check the data again.",
+          "segments": [
+            {
+              "text": "Let's check the data again.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "lˈɛts tʃˈɛk ðə dˈeɪɾə ɐɡˈɛn."
+        },
+        {
+          "text": "You should avoid this road at night.",
+          "segments": [
+            {
+              "text": "You should avoid this road at night.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "juː ʃˌʊd ɐvˈɔɪd ðɪs ɹˈoʊd æt nˈaɪt."
+        },
+        {
+          "text": "Apaga el equipo antes de abrirlo.",
+          "segments": [
+            {
+              "text": "Apaga el equipo antes de abrirlo.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "apˈaɣa el ekˈipo ˈantes ðe aβɾˈiɾlo."
+        },
+        {
+          "text": "No compartas esa contraseña.",
+          "segments": [
+            {
+              "text": "No compartas esa contraseña.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "nˈo kompˈaɾtas ˈesa kˌontɾasˈeɲa."
+        },
+        {
+          "text": "Asegúrate de guardar una copia.",
+          "segments": [
+            {
+              "text": "Asegúrate de guardar una copia.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˌaseɣˈuɾate ðe ɣwaɾðˈaɾ ˈuna kˈopja."
+        },
+        {
+          "text": "Revisemos los datos otra vez.",
+          "segments": [
+            {
+              "text": "Revisemos los datos otra vez.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "rˌeβisˈemos los ðˈatos ˈotɾa βˈes."
+        },
+        {
+          "text": "Conviene evitar esta carretera de noche.",
+          "segments": [
+            {
+              "text": "Conviene evitar esta carretera de noche.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kombjˈene ˌeβitˈaɾ ˈesta kˌaretˈeɾa ðe nˈotʃe."
+        }
+      ]
+    },
+    {
+      "file": "03.wav",
+      "text": "Práctica contrastiva. Cambia la persona, el tiempo, el número o el grado de formalidad de cada modelo sin perder su propósito comunicativo.",
+      "sentences": [
+        {
+          "text": "Práctica contrastiva.",
+          "segments": [
+            {
+              "text": "Práctica contrastiva.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "pɾˈaktika kˌontɾastˈiβa."
+        },
+        {
+          "text": "Cambia la persona, el tiempo, el número o el grado de formalidad de cada modelo sin perder su propósito comunicativo.",
+          "segments": [
+            {
+              "text": "Cambia la persona, el tiempo, el número o el grado de formalidad de cada modelo sin perder su propósito comunicativo.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kˈambja la peɾsˈona, el tjˈempo, el nˈumeɾo o el ɣɾˈaðo ðe fˌoɾmaliðˈad ðe kˈaða moðˈelo sim peɾðˈeɾ su pɾopˈosito kˌomunˌikatˈiβo."
+        }
+      ]
+    },
+    {
+      "file": "04.wav",
+      "text": "Comprobación de producción. Di una oración original para cada función: dar un procedimiento seguro; ofrecer consejos; distinguir petición de orden. Después escríbela y compara las formas oral y escrita.",
+      "sentences": [
+        {
+          "text": "Comprobación de producción.",
+          "segments": [
+            {
+              "text": "Comprobación de producción.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kˌompɾoβasjˈon de pɾˌoðuksjˈon."
+        },
+        {
+          "text": "Di una oración original para cada función: dar un procedimiento seguro; ofrecer consejos; distinguir petición de orden.",
+          "segments": [
+            {
+              "text": "Di una oración original para cada función: dar un procedimiento seguro; ofrecer consejos; distinguir petición de orden.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "dˈi ˈuna ˌoɾasjˈon ˌoɾixinˈal pˌaɾa kˈaða funsjˈon: dˈaɾ ˈum pɾˌoseðimjˈɛnto seɣˈuɾo; ˌofɾesˈeɾ konsˈexos; dˌistiŋɡˈiɾ pˌetisjˈon de ˈoɾðen."
+        },
+        {
+          "text": "Después escríbela y compara las formas oral y escrita.",
+          "segments": [
+            {
+              "text": "Después escríbela y compara las formas oral y escrita.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "despwˈes eskɾˈiβela i kompˈaɾa las fˈoɾmas oɾˈal i eskɾˈita."
+        }
+      ]
+    },
+    {
+      "file": "05.wav",
+      "text": "Lenguaje modelo. Turn off the equipment before opening it. — Apaga el equipo antes de abrirlo. Don't share that password. — No compartas esa contraseña. Make sure you save a copy. — Asegúrate de guardar una copia. Let's check the data again. — Revisemos los datos otra vez. You should avoid this road at night. — Conviene evitar esta carretera de noche.",
+      "sentences": [
+        {
+          "text": "Lenguaje modelo.",
+          "segments": [
+            {
+              "text": "Lenguaje modelo.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "leŋɡwˈaxe moðˈelo."
+        },
+        {
+          "text": "Turn off the equipment before opening it.",
+          "segments": [
+            {
+              "text": "Turn off the equipment before opening it.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tˈɜːn ˈɔf ðɪ ɪkwˈɪpmənt bᵻfˌɔːɹ ˈoʊpənɪŋ ɪt."
+        },
+        {
+          "text": "— Apaga el equipo antes de abrirlo.",
+          "segments": [
+            {
+              "text": "— Apaga el equipo antes de abrirlo.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— apˈaɣa el ekˈipo ˈantes ðe aβɾˈiɾlo."
+        },
+        {
+          "text": "Don't share that password.",
+          "segments": [
+            {
+              "text": "Don't share that password.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "dˈoʊnt ʃˈɛɹ ðæt pˈæswɜːd."
+        },
+        {
+          "text": "— No compartas esa contraseña.",
+          "segments": [
+            {
+              "text": "— No compartas esa contraseña.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— nˈo kompˈaɾtas ˈesa kˌontɾasˈeɲa."
+        },
+        {
+          "text": "Make sure you save a copy.",
+          "segments": [
+            {
+              "text": "Make sure you save a copy.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "mˌeɪk ʃˈʊɹ juː sˈeɪv ɐ kˈɑːpi."
+        },
+        {
+          "text": "— Asegúrate de guardar una copia.",
+          "segments": [
+            {
+              "text": "— Asegúrate de guardar una copia.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— ˌaseɣˈuɾate ðe ɣwaɾðˈaɾ ˈuna kˈopja."
+        },
+        {
+          "text": "Let's check the data again.",
+          "segments": [
+            {
+              "text": "Let's check the data again.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "lˈɛts tʃˈɛk ðə dˈeɪɾə ɐɡˈɛn."
+        },
+        {
+          "text": "— Revisemos los datos otra vez.",
+          "segments": [
+            {
+              "text": "— Revisemos los datos otra vez.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— rˌeβisˈemos los ðˈatos ˈotɾa βˈes."
+        },
+        {
+          "text": "You should avoid this road at night.",
+          "segments": [
+            {
+              "text": "You should avoid this road at night.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "juː ʃˌʊd ɐvˈɔɪd ðɪs ɹˈoʊd æt nˈaɪt."
+        },
+        {
+          "text": "— Conviene evitar esta carretera de noche.",
+          "segments": [
+            {
+              "text": "— Conviene evitar esta carretera de noche.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— kombjˈene ˌeβitˈaɾ ˈesta kˌaretˈeɾa ðe nˈotʃe."
+        }
+      ]
+    },
+    {
+      "file": "06.wav",
+      "text": "Comprueba tu preparación. Explica la idea central. Produce un ejemplo original. Completa la evaluación con un 85 % o más.",
+      "sentences": [
+        {
+          "text": "Comprueba tu preparación.",
+          "segments": [
+            {
+              "text": "Comprueba tu preparación.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kˌompɾuˈeβa tu pɾˌepaɾasjˈon."
+        },
+        {
+          "text": "Explica la idea central.",
+          "segments": [
+            {
+              "text": "Explica la idea central.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "eksplˈika la iðˈea sentɾˈal."
+        },
+        {
+          "text": "Produce un ejemplo original.",
+          "segments": [
+            {
+              "text": "Produce un ejemplo original.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "pɾoðˈuse ˈun exˈemplo ˌoɾixinˈal."
+        },
+        {
+          "text": "Completa la evaluación con un 85 % o más.",
+          "segments": [
+            {
+              "text": "Completa la evaluación con un 85 % o más.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "komplˈeta la ˌeβaluasjˈon kon ˈun otʃˌɛntaisˈinko poɾsjˈɛnto o mˈas."
+        }
+      ]
+    },
+    {
+      "file": "vocab-00.wav",
+      "text": "to turn off",
+      "sentences": [
+        {
+          "text": "to turn off",
+          "segments": [
+            {
+              "text": "to turn off",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tə tˈɜːn ˈɔf"
+        }
+      ]
+    },
+    {
+      "file": "vocab-01.wav",
+      "text": "to save",
+      "sentences": [
+        {
+          "text": "to save",
+          "segments": [
+            {
+              "text": "to save",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tə sˈeɪv"
+        }
+      ]
+    },
+    {
+      "file": "vocab-02.wav",
+      "text": "to check",
+      "sentences": [
+        {
+          "text": "to check",
+          "segments": [
+            {
+              "text": "to check",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tə tʃˈɛk"
+        }
+      ]
+    },
+    {
+      "file": "vocab-03.wav",
+      "text": "a password",
+      "sentences": [
+        {
+          "text": "a password",
+          "segments": [
+            {
+              "text": "a password",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɐ pˈæswɜːd"
+        }
+      ]
+    },
+    {
+      "file": "vocab-04.wav",
+      "text": "a step",
+      "sentences": [
+        {
+          "text": "a step",
+          "segments": [
+            {
+              "text": "a step",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɐ stˈɛp"
+        }
+      ]
+    },
+    {
+      "file": "vocab-05.wav",
+      "text": "carefully",
+      "sentences": [
+        {
+          "text": "carefully",
+          "segments": [
+            {
+              "text": "carefully",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "kˈɛɹfəli"
+        }
+      ]
+    },
+    {
+      "file": "vocab-06.wav",
+      "text": "must",
+      "sentences": [
+        {
+          "text": "must",
+          "segments": [
+            {
+              "text": "must",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "mˈʌst"
+        }
+      ]
+    },
+    {
+      "file": "vocab-07.wav",
+      "text": "should",
+      "sentences": [
+        {
+          "text": "should",
+          "segments": [
+            {
+              "text": "should",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ʃˈʊd"
+        }
+      ]
+    }
+  ]
+}

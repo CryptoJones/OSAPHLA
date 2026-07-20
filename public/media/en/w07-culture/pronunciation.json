@@ -1,0 +1,475 @@
+{
+  "profile": "michael",
+  "utterances": [
+    {
+      "file": "00.wav",
+      "text": "Semana 7: Preguntas, modales y reparación. pedir información específica expresar capacidad e intención reparar un malentendido",
+      "sentences": [
+        {
+          "text": "Semana 7: Preguntas, modales y reparación.",
+          "segments": [
+            {
+              "text": "Semana 7: Preguntas, modales y reparación.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "semˈana sjˈete: pɾeɣˈuntas, moðˈales i rˌepaɾasjˈon."
+        },
+        {
+          "text": "pedir información específica expresar capacidad e intención reparar un malentendido",
+          "segments": [
+            {
+              "text": "pedir información específica expresar capacidad e intención reparar un malentendido",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "peðˈiɾ ˌinfoɾmasjˈon ˌespesˈifika ˌekspɾesˈaɾ kˌapasiðˈað e ˌintensjˈon rˌepaɾˈaɾ ˈun mˌalentendˈiðo"
+        }
+      ]
+    },
+    {
+      "file": "01.wav",
+      "text": "Lente cultural. La franqueza, los atenuantes y la cortesía en servicios dependen del contexto y no de una regla nacional única.",
+      "sentences": [
+        {
+          "text": "Lente cultural.",
+          "segments": [
+            {
+              "text": "Lente cultural.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "lˈɛnte kˌultuɾˈal."
+        },
+        {
+          "text": "La franqueza, los atenuantes y la cortesía en servicios dependen del contexto y no de una regla nacional única.",
+          "segments": [
+            {
+              "text": "La franqueza, los atenuantes y la cortesía en servicios dependen del contexto y no de una regla nacional única.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "la fɾankˈesa, los ˌatenwˈantes i la kˌoɾtesˈia en seɾβˈisjos ðepˈɛnden del kontˈeksto i nˈo ðe ˈuna rˈeɣla nˌasjonˈal ˈunika."
+        }
+      ]
+    },
+    {
+      "file": "02.wav",
+      "text": "Evita una sola historia. Considera país, región, edad, relación y situación como variables. Describe la evidencia sin convertir un ejemplo en regla universal.",
+      "sentences": [
+        {
+          "text": "Evita una sola historia.",
+          "segments": [
+            {
+              "text": "Evita una sola historia.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "eβˈita ˈuna sˈola istˈoɾja."
+        },
+        {
+          "text": "Considera país, región, edad, relación y situación como variables.",
+          "segments": [
+            {
+              "text": "Considera país, región, edad, relación y situación como variables.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kˌonsiðˈeɾa paˈis, rexjˈon, eðˈad, rˌelasjˈon i sˌitwasjˈon kˌomo βaɾjˈaβles."
+        },
+        {
+          "text": "Describe la evidencia sin convertir un ejemplo en regla universal.",
+          "segments": [
+            {
+              "text": "Describe la evidencia sin convertir un ejemplo en regla universal.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "deskɾˈiβe la ˌeβiðˈɛnsja sin kˌombeɾtˈiɾ ˈun exˈemplo en rˈeɣla ˌuniβeɾsˈal."
+        }
+      ]
+    },
+    {
+      "file": "03.wav",
+      "text": "Variación lingüística. Reconoce variantes y pregunta qué significa una forma localmente. Usa el modelo estadounidense del curso hasta que la situación justifique adaptarlo.",
+      "sentences": [
+        {
+          "text": "Variación lingüística.",
+          "segments": [
+            {
+              "text": "Variación lingüística.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "bˌaɾjasjˈon lˌiŋɡuˈistika."
+        },
+        {
+          "text": "Reconoce variantes y pregunta qué significa una forma localmente.",
+          "segments": [
+            {
+              "text": "Reconoce variantes y pregunta qué significa una forma localmente.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "rˌekonˈose βaɾjˈantes i pɾeɣˈunta kˈe sˌiɡnifˈika ˈuna fˈoɾma lokˈalmˈente."
+        },
+        {
+          "text": "Usa el modelo estadounidense del curso hasta que la situación justifique adaptarlo.",
+          "segments": [
+            {
+              "text": "Usa el modelo estadounidense del curso hasta que la situación justifique adaptarlo.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˈusa el moðˈelo ˌestaðˌowniðˈɛnse ðel kˈuɾso ˌasta ke la sˌitwasjˈon xˌustifˈike ˌaðapːtˈaɾlo."
+        }
+      ]
+    },
+    {
+      "file": "04.wav",
+      "text": "Reflexión. Compara este contexto con uno que conozcas. Indica una semejanza, una diferencia y una pregunta que evite una suposición.",
+      "sentences": [
+        {
+          "text": "Reflexión.",
+          "segments": [
+            {
+              "text": "Reflexión.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "rˌefleksjˈon."
+        },
+        {
+          "text": "Compara este contexto con uno que conozcas.",
+          "segments": [
+            {
+              "text": "Compara este contexto con uno que conozcas.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kompˈaɾa ˈeste kontˈeksto kon ˈuno ke konˈoskas."
+        },
+        {
+          "text": "Indica una semejanza, una diferencia y una pregunta que evite una suposición.",
+          "segments": [
+            {
+              "text": "Indica una semejanza, una diferencia y una pregunta que evite una suposición.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "indˈika ˈuna sˌemexˈansa, ˈuna ðˌifeɾˈɛnsja i ˈuna pɾeɣˈunta ke eβˈite ˈuna sˌuposisjˈon."
+        }
+      ]
+    },
+    {
+      "file": "05.wav",
+      "text": "Lenguaje modelo. What do you want to do today? — ¿Qué quieres hacer hoy? When does the bus arrive? — ¿Cuándo llega el autobús? I don't know. Can you repeat that? — No sé. ¿Puedes repetir eso? I have to make a call. — Tengo que hacer una llamada. Why did you say that? — ¿Por qué dijiste eso?",
+      "sentences": [
+        {
+          "text": "Lenguaje modelo.",
+          "segments": [
+            {
+              "text": "Lenguaje modelo.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "leŋɡwˈaxe moðˈelo."
+        },
+        {
+          "text": "What do you want to do today?",
+          "segments": [
+            {
+              "text": "What do you want to do today?",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wˌʌt dˈuː juː wˈɔnt tə dˈuː tədˈeɪ?"
+        },
+        {
+          "text": "— ¿Qué quieres hacer hoy?",
+          "segments": [
+            {
+              "text": "— ¿Qué quieres hacer hoy?",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— kˈe kjˈeɾes asˈeɾ ˈoɪ?"
+        },
+        {
+          "text": "When does the bus arrive?",
+          "segments": [
+            {
+              "text": "When does the bus arrive?",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wˌɛn dˈʌz ðə bˈʌs ɚɹˈaɪv?"
+        },
+        {
+          "text": "— ¿Cuándo llega el autobús?",
+          "segments": [
+            {
+              "text": "— ¿Cuándo llega el autobús?",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— kwˈando ʝˈeɣa el ˌaʊtoβˈus?"
+        },
+        {
+          "text": "I don't know.",
+          "segments": [
+            {
+              "text": "I don't know.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "aɪ dˈoʊnt nˈoʊ."
+        },
+        {
+          "text": "Can you repeat that?",
+          "segments": [
+            {
+              "text": "Can you repeat that?",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "kæn juː ɹᵻpˈiːt ðˈæt?"
+        },
+        {
+          "text": "— No sé.",
+          "segments": [
+            {
+              "text": "— No sé.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— nˈo sˈe."
+        },
+        {
+          "text": "¿Puedes repetir eso?",
+          "segments": [
+            {
+              "text": "¿Puedes repetir eso?",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "pwˈeðes rˌepetˈiɾ ˈeso?"
+        },
+        {
+          "text": "I have to make a call.",
+          "segments": [
+            {
+              "text": "I have to make a call.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "aɪ hæv tə mˌeɪk ɐ kˈɔːl."
+        },
+        {
+          "text": "— Tengo que hacer una llamada.",
+          "segments": [
+            {
+              "text": "— Tengo que hacer una llamada.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— tˈɛŋɡo ke asˈeɾ ˈuna ʝamˈaða."
+        },
+        {
+          "text": "Why did you say that?",
+          "segments": [
+            {
+              "text": "Why did you say that?",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wˌaɪ dˈɪd juː sˈeɪ ðˈæt?"
+        },
+        {
+          "text": "— ¿Por qué dijiste eso?",
+          "segments": [
+            {
+              "text": "— ¿Por qué dijiste eso?",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— poɾ kˈe ðixˈiste ˈeso?"
+        }
+      ]
+    },
+    {
+      "file": "06.wav",
+      "text": "Comprueba tu preparación. Explica la idea central. Produce un ejemplo original. Completa la evaluación con un 85 % o más.",
+      "sentences": [
+        {
+          "text": "Comprueba tu preparación.",
+          "segments": [
+            {
+              "text": "Comprueba tu preparación.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kˌompɾuˈeβa tu pɾˌepaɾasjˈon."
+        },
+        {
+          "text": "Explica la idea central.",
+          "segments": [
+            {
+              "text": "Explica la idea central.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "eksplˈika la iðˈea sentɾˈal."
+        },
+        {
+          "text": "Produce un ejemplo original.",
+          "segments": [
+            {
+              "text": "Produce un ejemplo original.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "pɾoðˈuse ˈun exˈemplo ˌoɾixinˈal."
+        },
+        {
+          "text": "Completa la evaluación con un 85 % o más.",
+          "segments": [
+            {
+              "text": "Completa la evaluación con un 85 % o más.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "komplˈeta la ˌeβaluasjˈon kon ˈun otʃˌɛntaisˈinko poɾsjˈɛnto o mˈas."
+        }
+      ]
+    },
+    {
+      "file": "vocab-00.wav",
+      "text": "what",
+      "sentences": [
+        {
+          "text": "what",
+          "segments": [
+            {
+              "text": "what",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wˌʌt"
+        }
+      ]
+    },
+    {
+      "file": "vocab-01.wav",
+      "text": "who",
+      "sentences": [
+        {
+          "text": "who",
+          "segments": [
+            {
+              "text": "who",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "hˈuː"
+        }
+      ]
+    },
+    {
+      "file": "vocab-02.wav",
+      "text": "when",
+      "sentences": [
+        {
+          "text": "when",
+          "segments": [
+            {
+              "text": "when",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wˌɛn"
+        }
+      ]
+    },
+    {
+      "file": "vocab-03.wav",
+      "text": "where",
+      "sentences": [
+        {
+          "text": "where",
+          "segments": [
+            {
+              "text": "where",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wˈɛɹ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-04.wav",
+      "text": "why",
+      "sentences": [
+        {
+          "text": "why",
+          "segments": [
+            {
+              "text": "why",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wˈaɪ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-05.wav",
+      "text": "how",
+      "sentences": [
+        {
+          "text": "how",
+          "segments": [
+            {
+              "text": "how",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "hˈaʊ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-06.wav",
+      "text": "can",
+      "sentences": [
+        {
+          "text": "can",
+          "segments": [
+            {
+              "text": "can",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "kˈæn"
+        }
+      ]
+    },
+    {
+      "file": "vocab-07.wav",
+      "text": "to want",
+      "sentences": [
+        {
+          "text": "to want",
+          "segments": [
+            {
+              "text": "to want",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tə wˈɔnt"
+        }
+      ]
+    }
+  ]
+}

@@ -15,4 +15,6 @@ models/
 .DS_Store
 *.log
 *.tsbuildinfo
+__pycache__/
+*.pyc
 coverage-report.json

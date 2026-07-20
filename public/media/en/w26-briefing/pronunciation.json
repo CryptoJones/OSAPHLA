@@ -1,0 +1,469 @@
+{
+  "profile": "heart",
+  "utterances": [
+    {
+      "file": "00.wav",
+      "text": "Semana 26: Condicionales, cortesía e hipótesis. hacer una petición con tacto evaluar opciones expresar consecuencias hipotéticas",
+      "sentences": [
+        {
+          "text": "Semana 26: Condicionales, cortesía e hipótesis.",
+          "segments": [
+            {
+              "text": "Semana 26: Condicionales, cortesía e hipótesis.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "semˈana βˌeɪntisˈeɪs: kˌondisjonˈales, kˌoɾtesˈia e ipˈotesis."
+        },
+        {
+          "text": "hacer una petición con tacto evaluar opciones expresar consecuencias hipotéticas",
+          "segments": [
+            {
+              "text": "hacer una petición con tacto evaluar opciones expresar consecuencias hipotéticas",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "asˈeɾ ˈuna pˌetisjˈon kon tˈakto ˌeβaluˈaɾ opsjˈones ˌekspɾesˈaɾ kˌonsekwˈɛnsjas ˌipotˈetikas"
+        }
+      ]
+    },
+    {
+      "file": "01.wav",
+      "text": "Objetivo operativo. Al terminar esta sección podrás hacer una petición con tacto, evaluar opciones, expresar consecuencias hipotéticas. El objetivo es el desempeño útil, no la terminología aislada.",
+      "sentences": [
+        {
+          "text": "Objetivo operativo.",
+          "segments": [
+            {
+              "text": "Objetivo operativo.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˌoβxetˈiβo ˌopeɾatˈiβo."
+        },
+        {
+          "text": "Al terminar esta sección podrás hacer una petición con tacto, evaluar opciones, expresar consecuencias hipotéticas.",
+          "segments": [
+            {
+              "text": "Al terminar esta sección podrás hacer una petición con tacto, evaluar opciones, expresar consecuencias hipotéticas.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "al tˌeɾminˈaɾ ˈesta seksjˈom poðɾˈas asˈeɾ ˈuna pˌetisjˈon kon tˈakto, ˌeβaluˈaɾ opsjˈones, ˌekspɾesˈaɾ kˌonsekwˈɛnsjas ˌipotˈetikas."
+        },
+        {
+          "text": "El objetivo es el desempeño útil, no la terminología aislada.",
+          "segments": [
+            {
+              "text": "El objetivo es el desempeño útil, no la terminología aislada.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "el ˌoβxetˈiβo ˈes el ðˌesempˈeɲo ˈutil, nˈo la tˌeɾminˌoloxˈia aɪslˈaða."
+        }
+      ]
+    },
+    {
+      "file": "02.wav",
+      "text": "Sistema lingüístico. Condicional cero, primero y segundo; would/could para cortesía; consecuencias reales e hipotéticas.",
+      "sentences": [
+        {
+          "text": "Sistema lingüístico.",
+          "segments": [
+            {
+              "text": "Sistema lingüístico.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "sistˈema lˌiŋɡuˈistiko."
+        },
+        {
+          "text": "Condicional cero, primero y segundo; would/could para cortesía; consecuencias reales e hipotéticas.",
+          "segments": [
+            {
+              "text": "Condicional cero, primero y segundo; ",
+              "lang": "es-419"
+            },
+            {
+              "text": "would",
+              "lang": "en-us"
+            },
+            {
+              "text": "/",
+              "lang": "es-419"
+            },
+            {
+              "text": "could",
+              "lang": "en-us"
+            },
+            {
+              "text": " para cortesía; consecuencias reales e hipotéticas.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kˌondisjonˈal sˈeɾo, pɾimˈeɾo i seɣˈundo; wˈʊd bˈara kˈʊd pˌaɾa kˌoɾtesˈia; kˌonsekwˈɛnsjas reˈales e ˌipotˈetikas."
+        }
+      ]
+    },
+    {
+      "file": "03.wav",
+      "text": "Sonido y producción. Contracciones con would; pausa entre condición y resultado; entonación cortés.",
+      "sentences": [
+        {
+          "text": "Sonido y producción.",
+          "segments": [
+            {
+              "text": "Sonido y producción.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "sonˈiðo i pɾˌoðuksjˈon."
+        },
+        {
+          "text": "Contracciones con would; pausa entre condición y resultado; entonación cortés.",
+          "segments": [
+            {
+              "text": "Contracciones con ",
+              "lang": "es-419"
+            },
+            {
+              "text": "would",
+              "lang": "en-us"
+            },
+            {
+              "text": "; pausa entre condición y resultado; entonación cortés.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kˌontɾaksjˈones kˈon wˈʊd ; pˈaʊsa ˌentɾe kˌondisjˈon i rˌesultˈaðo; ˌentonasjˈon koɾtˈes."
+        }
+      ]
+    },
+    {
+      "file": "04.wav",
+      "text": "Principio central. Observa primero el significado y después la forma. Recupera el inglés en voz alta, compáralo con el modelo y corrige un rasgo a la vez.",
+      "sentences": [
+        {
+          "text": "Principio central.",
+          "segments": [
+            {
+              "text": "Principio central.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "pɾinsˈipjo sentɾˈal."
+        },
+        {
+          "text": "Observa primero el significado y después la forma.",
+          "segments": [
+            {
+              "text": "Observa primero el significado y después la forma.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "oβsˈeɾβa pɾimˈeɾo el sˌiɡnifikˈaðo i ðespwˈes la fˈoɾma."
+        },
+        {
+          "text": "Recupera el inglés en voz alta, compáralo con el modelo y corrige un rasgo a la vez.",
+          "segments": [
+            {
+              "text": "Recupera el inglés en voz alta, compáralo con el modelo y corrige un rasgo a la vez.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "rˌekupˈeɾa el iŋɡlˈes em bˈos ˈalta, kompˈaɾalo kon el moðˈelo i korˈixe ˈun rˈasɣo a la βˈes."
+        }
+      ]
+    },
+    {
+      "file": "05.wav",
+      "text": "Lenguaje modelo. I would choose the second option. — Elegiría la segunda opción. Could you send me the details? — ¿Podrías enviarme los detalles? The change would reduce the risk. — El cambio reduciría el riesgo. If we waited, we would have more evidence. — Si esperáramos, tendríamos más evidencia. On the other hand, that plan would cost too much. — Por otra parte, ese plan costaría demasiado.",
+      "sentences": [
+        {
+          "text": "Lenguaje modelo.",
+          "segments": [
+            {
+              "text": "Lenguaje modelo.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "leŋɡwˈaxe moðˈelo."
+        },
+        {
+          "text": "I would choose the second option.",
+          "segments": [
+            {
+              "text": "I would choose the second option.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "aɪ wʊd tʃˈuːz ðə sˈɛkənd ˈɑːpʃən."
+        },
+        {
+          "text": "— Elegiría la segunda opción.",
+          "segments": [
+            {
+              "text": "— Elegiría la segunda opción.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— ˌelexiɾˈia la seɣˈunda opsjˈon."
+        },
+        {
+          "text": "Could you send me the details?",
+          "segments": [
+            {
+              "text": "Could you send me the details?",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "kʊd juː sˈɛnd mˌiː ðə diːtˈeɪlz?"
+        },
+        {
+          "text": "— ¿Podrías enviarme los detalles?",
+          "segments": [
+            {
+              "text": "— ¿Podrías enviarme los detalles?",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— poðɾˈias embjˈaɾme los ðetˈajjes?"
+        },
+        {
+          "text": "The change would reduce the risk.",
+          "segments": [
+            {
+              "text": "The change would reduce the risk.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðə tʃˈeɪndʒ wʊd ɹᵻdˈuːs ðə ɹˈɪsk."
+        },
+        {
+          "text": "— El cambio reduciría el riesgo.",
+          "segments": [
+            {
+              "text": "— El cambio reduciría el riesgo.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— el kˈambjo rˌeðusiɾˈia el riˈesɣo."
+        },
+        {
+          "text": "If we waited, we would have more evidence.",
+          "segments": [
+            {
+              "text": "If we waited, we would have more evidence.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɪf wiː wˈeɪɾᵻd, wiː wʊdhɐv mˈɔːɹ ˈɛvɪdəns."
+        },
+        {
+          "text": "— Si esperáramos, tendríamos más evidencia.",
+          "segments": [
+            {
+              "text": "— Si esperáramos, tendríamos más evidencia.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— si ˌespeɾˈaɾamos, tendɾˈiamos mˈas ˌeβiðˈɛnsja."
+        },
+        {
+          "text": "On the other hand, that plan would cost too much.",
+          "segments": [
+            {
+              "text": "On the other hand, that plan would cost too much.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɔnðɪ ˈʌðɚ hˈænd, ðæt plˈæn wʊd kˈɔst tˈuː mʌtʃ."
+        },
+        {
+          "text": "— Por otra parte, ese plan costaría demasiado.",
+          "segments": [
+            {
+              "text": "— Por otra parte, ese plan costaría demasiado.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— poɾ ˈotɾa pˈaɾte, ˈese plˈan kˌostaɾˈia ðˌemasjˈaðo."
+        }
+      ]
+    },
+    {
+      "file": "06.wav",
+      "text": "Comprueba tu preparación. Explica la idea central. Produce un ejemplo original. Completa la evaluación con un 85 % o más.",
+      "sentences": [
+        {
+          "text": "Comprueba tu preparación.",
+          "segments": [
+            {
+              "text": "Comprueba tu preparación.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kˌompɾuˈeβa tu pɾˌepaɾasjˈon."
+        },
+        {
+          "text": "Explica la idea central.",
+          "segments": [
+            {
+              "text": "Explica la idea central.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "eksplˈika la iðˈea sentɾˈal."
+        },
+        {
+          "text": "Produce un ejemplo original.",
+          "segments": [
+            {
+              "text": "Produce un ejemplo original.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "pɾoðˈuse ˈun exˈemplo ˌoɾixinˈal."
+        },
+        {
+          "text": "Completa la evaluación con un 85 % o más.",
+          "segments": [
+            {
+              "text": "Completa la evaluación con un 85 % o más.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "komplˈeta la ˌeβaluasjˈon kon ˈun otʃˌɛntaisˈinko poɾsjˈɛnto o mˈas."
+        }
+      ]
+    },
+    {
+      "file": "vocab-00.wav",
+      "text": "if",
+      "sentences": [
+        {
+          "text": "if",
+          "segments": [
+            {
+              "text": "if",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɪf"
+        }
+      ]
+    },
+    {
+      "file": "vocab-01.wav",
+      "text": "unless",
+      "sentences": [
+        {
+          "text": "unless",
+          "segments": [
+            {
+              "text": "unless",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ʌnlˈɛs"
+        }
+      ]
+    },
+    {
+      "file": "vocab-02.wav",
+      "text": "would",
+      "sentences": [
+        {
+          "text": "would",
+          "segments": [
+            {
+              "text": "would",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wˈʊd"
+        }
+      ]
+    },
+    {
+      "file": "vocab-03.wav",
+      "text": "could",
+      "sentences": [
+        {
+          "text": "could",
+          "segments": [
+            {
+              "text": "could",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "kˈʊd"
+        }
+      ]
+    },
+    {
+      "file": "vocab-04.wav",
+      "text": "an option",
+      "sentences": [
+        {
+          "text": "an option",
+          "segments": [
+            {
+              "text": "an option",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɐn ˈɑːpʃən"
+        }
+      ]
+    },
+    {
+      "file": "vocab-05.wav",
+      "text": "a risk",
+      "sentences": [
+        {
+          "text": "a risk",
+          "segments": [
+            {
+              "text": "a risk",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɐ ɹˈɪsk"
+        }
+      ]
+    },
+    {
+      "file": "vocab-06.wav",
+      "text": "a consequence",
+      "sentences": [
+        {
+          "text": "a consequence",
+          "segments": [
+            {
+              "text": "a consequence",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɐ kˈɑːnsɪkwəns"
+        }
+      ]
+    },
+    {
+      "file": "vocab-07.wav",
+      "text": "on the other hand",
+      "sentences": [
+        {
+          "text": "on the other hand",
+          "segments": [
+            {
+              "text": "on the other hand",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɔnðɪ ˈʌðɚ hˈænd"
+        }
+      ]
+    }
+  ]
+}

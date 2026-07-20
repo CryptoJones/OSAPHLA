@@ -1,0 +1,573 @@
+{
+  "profile": "liam",
+  "utterances": [
+    {
+      "file": "00.wav",
+      "text": "Semana 3: Objetos, artículos y plurales. identificar objetos preguntar qué es algo seguir instrucciones sencillas",
+      "sentences": [
+        {
+          "text": "Semana 3: Objetos, artículos y plurales.",
+          "segments": [
+            {
+              "text": "Semana 3: Objetos, artículos y plurales.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "semˈana tɾˈes: oβxˈetos, aɾtˈikulos i pluɾˈales."
+        },
+        {
+          "text": "identificar objetos preguntar qué es algo seguir instrucciones sencillas",
+          "segments": [
+            {
+              "text": "identificar objetos preguntar qué es algo seguir instrucciones sencillas",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˌiðentˌifikˈaɾ oβxˈetos pɾˌeɣuntˈaɾ kˈe ˈes ˈalɣo seɣˈiɾ ˌinstɾuksjˈones sensˈijjas"
+        }
+      ]
+    },
+    {
+      "file": "01.wav",
+      "text": "Forma y significado. Artículos a, an y the; plurales regulares e irregulares; this/that/these/those; instrucciones de clase.",
+      "sentences": [
+        {
+          "text": "Forma y significado.",
+          "segments": [
+            {
+              "text": "Forma y significado.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "fˈoɾma i sˌiɡnifikˈaðo."
+        },
+        {
+          "text": "Artículos a, an y the; plurales regulares e irregulares; this/that/these/those; instrucciones de clase.",
+          "segments": [
+            {
+              "text": "Artículos ",
+              "lang": "es-419"
+            },
+            {
+              "text": "a, an",
+              "lang": "en-us"
+            },
+            {
+              "text": " y ",
+              "lang": "es-419"
+            },
+            {
+              "text": "the",
+              "lang": "en-us"
+            },
+            {
+              "text": "; plurales regulares e irregulares; ",
+              "lang": "es-419"
+            },
+            {
+              "text": "this",
+              "lang": "en-us"
+            },
+            {
+              "text": "/",
+              "lang": "es-419"
+            },
+            {
+              "text": "that",
+              "lang": "en-us"
+            },
+            {
+              "text": "/",
+              "lang": "es-419"
+            },
+            {
+              "text": "these",
+              "lang": "en-us"
+            },
+            {
+              "text": "/",
+              "lang": "es-419"
+            },
+            {
+              "text": "those",
+              "lang": "en-us"
+            },
+            {
+              "text": "; instrucciones de clase.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "aɾtˈikulos ˈeɪ, æn i ðə ; pluɾˈales rˌeɣulˈaɾes e ˌireɣulˈaɾes; ðˈɪs bˈara ðˈæt bˈara ðˈiːz bˈara ðˈoʊz ; ˌinstɾuksjˈones ðe klˈase."
+        }
+      ]
+    },
+    {
+      "file": "02.wav",
+      "text": "Conjunto de modelos. There is a book on the table. What is this? It's an important question. Open your notebooks, please. The answers are on page ten. Hay un libro sobre la mesa. ¿Qué es esto? Es una pregunta importante. Abran sus cuadernos, por favor. Las respuestas están en la página diez.",
+      "sentences": [
+        {
+          "text": "Conjunto de modelos.",
+          "segments": [
+            {
+              "text": "Conjunto de modelos.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "koŋxˈunto ðe moðˈelos."
+        },
+        {
+          "text": "There is a book on the table.",
+          "segments": [
+            {
+              "text": "There is a book on the table.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðɛɹ ɪz ɐ bˈʊk ɔnðə tˈeɪbəl."
+        },
+        {
+          "text": "What is this?",
+          "segments": [
+            {
+              "text": "What is this?",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wˌʌt ɪz ðˈɪs?"
+        },
+        {
+          "text": "It's an important question.",
+          "segments": [
+            {
+              "text": "It's an important question.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɪts ɐn ɪmpˈɔːɹtənt kwˈɛstʃən."
+        },
+        {
+          "text": "Open your notebooks, please.",
+          "segments": [
+            {
+              "text": "Open your notebooks, please.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ˈoʊpən jʊɹ nˈoʊtbʊks, plˈiːz."
+        },
+        {
+          "text": "The answers are on page ten.",
+          "segments": [
+            {
+              "text": "The answers are on page ten.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðɪ ˈænsɚz ɑːɹ ˌɔn pˈeɪdʒ tˈɛn."
+        },
+        {
+          "text": "Hay un libro sobre la mesa.",
+          "segments": [
+            {
+              "text": "Hay un libro sobre la mesa.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˈaɪ ˈun lˈiβɾo sˌoβɾe la mˈesa."
+        },
+        {
+          "text": "¿Qué es esto?",
+          "segments": [
+            {
+              "text": "¿Qué es esto?",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kˈe ˈes ˈesto?"
+        },
+        {
+          "text": "Es una pregunta importante.",
+          "segments": [
+            {
+              "text": "Es una pregunta importante.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˈes ˈuna pɾeɣˈunta ˌimpoɾtˈante."
+        },
+        {
+          "text": "Abran sus cuadernos, por favor.",
+          "segments": [
+            {
+              "text": "Abran sus cuadernos, por favor.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˈaβɾan sus kwaðˈeɾnos, poɾ faβˈoɾ."
+        },
+        {
+          "text": "Las respuestas están en la página diez.",
+          "segments": [
+            {
+              "text": "Las respuestas están en la página diez.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "las respwˈestas estˈan en la pˈaxina ðjˈes."
+        }
+      ]
+    },
+    {
+      "file": "03.wav",
+      "text": "Práctica contrastiva. Cambia la persona, el tiempo, el número o el grado de formalidad de cada modelo sin perder su propósito comunicativo.",
+      "sentences": [
+        {
+          "text": "Práctica contrastiva.",
+          "segments": [
+            {
+              "text": "Práctica contrastiva.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "pɾˈaktika kˌontɾastˈiβa."
+        },
+        {
+          "text": "Cambia la persona, el tiempo, el número o el grado de formalidad de cada modelo sin perder su propósito comunicativo.",
+          "segments": [
+            {
+              "text": "Cambia la persona, el tiempo, el número o el grado de formalidad de cada modelo sin perder su propósito comunicativo.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kˈambja la peɾsˈona, el tjˈempo, el nˈumeɾo o el ɣɾˈaðo ðe fˌoɾmaliðˈad ðe kˈaða moðˈelo sim peɾðˈeɾ su pɾopˈosito kˌomunˌikatˈiβo."
+        }
+      ]
+    },
+    {
+      "file": "04.wav",
+      "text": "Comprobación de producción. Di una oración original para cada función: identificar objetos; preguntar qué es algo; seguir instrucciones sencillas. Después escríbela y compara las formas oral y escrita.",
+      "sentences": [
+        {
+          "text": "Comprobación de producción.",
+          "segments": [
+            {
+              "text": "Comprobación de producción.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kˌompɾoβasjˈon de pɾˌoðuksjˈon."
+        },
+        {
+          "text": "Di una oración original para cada función: identificar objetos; preguntar qué es algo; seguir instrucciones sencillas.",
+          "segments": [
+            {
+              "text": "Di una oración original para cada función: identificar objetos; preguntar qué es algo; seguir instrucciones sencillas.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "dˈi ˈuna ˌoɾasjˈon ˌoɾixinˈal pˌaɾa kˈaða funsjˈon: ˌiðentˌifikˈaɾ oβxˈetos; pɾˌeɣuntˈaɾ kˈe ˈes ˈalɣo; seɣˈiɾ ˌinstɾuksjˈones sensˈijjas."
+        },
+        {
+          "text": "Después escríbela y compara las formas oral y escrita.",
+          "segments": [
+            {
+              "text": "Después escríbela y compara las formas oral y escrita.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "despwˈes eskɾˈiβela i kompˈaɾa las fˈoɾmas oɾˈal i eskɾˈita."
+        }
+      ]
+    },
+    {
+      "file": "05.wav",
+      "text": "Lenguaje modelo. There is a book on the table. — Hay un libro sobre la mesa. What is this? — ¿Qué es esto? It's an important question. — Es una pregunta importante. Open your notebooks, please. — Abran sus cuadernos, por favor. The answers are on page ten. — Las respuestas están en la página diez.",
+      "sentences": [
+        {
+          "text": "Lenguaje modelo.",
+          "segments": [
+            {
+              "text": "Lenguaje modelo.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "leŋɡwˈaxe moðˈelo."
+        },
+        {
+          "text": "There is a book on the table.",
+          "segments": [
+            {
+              "text": "There is a book on the table.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðɛɹ ɪz ɐ bˈʊk ɔnðə tˈeɪbəl."
+        },
+        {
+          "text": "— Hay un libro sobre la mesa.",
+          "segments": [
+            {
+              "text": "— Hay un libro sobre la mesa.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— ˈaɪ ˈun lˈiβɾo sˌoβɾe la mˈesa."
+        },
+        {
+          "text": "What is this?",
+          "segments": [
+            {
+              "text": "What is this?",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wˌʌt ɪz ðˈɪs?"
+        },
+        {
+          "text": "— ¿Qué es esto?",
+          "segments": [
+            {
+              "text": "— ¿Qué es esto?",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— kˈe ˈes ˈesto?"
+        },
+        {
+          "text": "It's an important question.",
+          "segments": [
+            {
+              "text": "It's an important question.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɪts ɐn ɪmpˈɔːɹtənt kwˈɛstʃən."
+        },
+        {
+          "text": "— Es una pregunta importante.",
+          "segments": [
+            {
+              "text": "— Es una pregunta importante.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— ˈes ˈuna pɾeɣˈunta ˌimpoɾtˈante."
+        },
+        {
+          "text": "Open your notebooks, please.",
+          "segments": [
+            {
+              "text": "Open your notebooks, please.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ˈoʊpən jʊɹ nˈoʊtbʊks, plˈiːz."
+        },
+        {
+          "text": "— Abran sus cuadernos, por favor.",
+          "segments": [
+            {
+              "text": "— Abran sus cuadernos, por favor.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— ˈaβɾan sus kwaðˈeɾnos, poɾ faβˈoɾ."
+        },
+        {
+          "text": "The answers are on page ten.",
+          "segments": [
+            {
+              "text": "The answers are on page ten.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðɪ ˈænsɚz ɑːɹ ˌɔn pˈeɪdʒ tˈɛn."
+        },
+        {
+          "text": "— Las respuestas están en la página diez.",
+          "segments": [
+            {
+              "text": "— Las respuestas están en la página diez.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— las respwˈestas estˈan en la pˈaxina ðjˈes."
+        }
+      ]
+    },
+    {
+      "file": "06.wav",
+      "text": "Comprueba tu preparación. Explica la idea central. Produce un ejemplo original. Completa la evaluación con un 85 % o más.",
+      "sentences": [
+        {
+          "text": "Comprueba tu preparación.",
+          "segments": [
+            {
+              "text": "Comprueba tu preparación.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kˌompɾuˈeβa tu pɾˌepaɾasjˈon."
+        },
+        {
+          "text": "Explica la idea central.",
+          "segments": [
+            {
+              "text": "Explica la idea central.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "eksplˈika la iðˈea sentɾˈal."
+        },
+        {
+          "text": "Produce un ejemplo original.",
+          "segments": [
+            {
+              "text": "Produce un ejemplo original.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "pɾoðˈuse ˈun exˈemplo ˌoɾixinˈal."
+        },
+        {
+          "text": "Completa la evaluación con un 85 % o más.",
+          "segments": [
+            {
+              "text": "Completa la evaluación con un 85 % o más.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "komplˈeta la ˌeβaluasjˈon kon ˈun otʃˌɛntaisˈinko poɾsjˈɛnto o mˈas."
+        }
+      ]
+    },
+    {
+      "file": "vocab-00.wav",
+      "text": "a book",
+      "sentences": [
+        {
+          "text": "a book",
+          "segments": [
+            {
+              "text": "a book",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɐ bˈʊk"
+        }
+      ]
+    },
+    {
+      "file": "vocab-01.wav",
+      "text": "a table",
+      "sentences": [
+        {
+          "text": "a table",
+          "segments": [
+            {
+              "text": "a table",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɐ tˈeɪbəl"
+        }
+      ]
+    },
+    {
+      "file": "vocab-02.wav",
+      "text": "a chair",
+      "sentences": [
+        {
+          "text": "a chair",
+          "segments": [
+            {
+              "text": "a chair",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɐ tʃˈɛɹ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-03.wav",
+      "text": "a notebook",
+      "sentences": [
+        {
+          "text": "a notebook",
+          "segments": [
+            {
+              "text": "a notebook",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɐ nˈoʊtbʊk"
+        }
+      ]
+    },
+    {
+      "file": "vocab-04.wav",
+      "text": "a question",
+      "sentences": [
+        {
+          "text": "a question",
+          "segments": [
+            {
+              "text": "a question",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɐ kwˈɛstʃən"
+        }
+      ]
+    },
+    {
+      "file": "vocab-05.wav",
+      "text": "an answer",
+      "sentences": [
+        {
+          "text": "an answer",
+          "segments": [
+            {
+              "text": "an answer",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɐn ˈænsɚ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-06.wav",
+      "text": "to open",
+      "sentences": [
+        {
+          "text": "to open",
+          "segments": [
+            {
+              "text": "to open",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tʊ ˈoʊpən"
+        }
+      ]
+    },
+    {
+      "file": "vocab-07.wav",
+      "text": "to close",
+      "sentences": [
+        {
+          "text": "to close",
+          "segments": [
+            {
+              "text": "to close",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tə klˈoʊz"
+        }
+      ]
+    }
+  ]
+}

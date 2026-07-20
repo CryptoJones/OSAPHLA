@@ -1,0 +1,533 @@
+{
+  "profile": "michael",
+  "utterances": [
+    {
+      "file": "00.wav",
+      "text": "Semana 1: Cómo funciona el inglés. deletrear un nombre reconocer la sílaba acentuada seguir una rutina sostenible de estudio",
+      "sentences": [
+        {
+          "text": "Semana 1: Cómo funciona el inglés.",
+          "segments": [
+            {
+              "text": "Semana 1: Cómo funciona el inglés.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "semˈana ˈuno: kˈomo funsjˈona el iŋɡlˈes."
+        },
+        {
+          "text": "deletrear un nombre reconocer la sílaba acentuada seguir una rutina sostenible de estudio",
+          "segments": [
+            {
+              "text": "deletrear un nombre reconocer la sílaba acentuada seguir una rutina sostenible de estudio",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "dˌeletɾeˈaɾ ˈun nˈombɾe rˌekonosˈeɾ la sˈilaβa ˌasentwˈaða seɣˈiɾ ˈuna rutˈina sˌostenˈiβle ðe estˈuðjo"
+        }
+      ]
+    },
+    {
+      "file": "01.wav",
+      "text": "Forma y significado. Relación entre sonidos y letras, nombres de las letras, sílabas, acento de palabra, schwa y puntuación básica.",
+      "sentences": [
+        {
+          "text": "Forma y significado.",
+          "segments": [
+            {
+              "text": "Forma y significado.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "fˈoɾma i sˌiɡnifikˈaðo."
+        },
+        {
+          "text": "Relación entre sonidos y letras, nombres de las letras, sílabas, acento de palabra, schwa y puntuación básica.",
+          "segments": [
+            {
+              "text": "Relación entre sonidos y letras, nombres de las letras, sílabas, acento de palabra, ",
+              "lang": "es-419"
+            },
+            {
+              "text": "schwa",
+              "lang": "en-us"
+            },
+            {
+              "text": " y puntuación básica.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "rˌelasjˈon ˌentɾe sonˈiðos i lˈetɾas, nˈombɾes ðe las lˈetɾas, sˈilaβas, asˈɛnto ðe palˈaβɾa, ʃwˈɑː i pˌuntwasjˈom bˈasika."
+        }
+      ]
+    },
+    {
+      "file": "02.wav",
+      "text": "Conjunto de modelos. My name has five letters. The letter H has two common names around the world. I listen and repeat each word. Which syllable is stressed? Short, frequent practice works best. Mi nombre tiene cinco letras. La letra H tiene dos nombres comunes en el mundo. Escucho y repito cada palabra. ¿Qué sílaba lleva el acento? La práctica breve y frecuente funciona mejor.",
+      "sentences": [
+        {
+          "text": "Conjunto de modelos.",
+          "segments": [
+            {
+              "text": "Conjunto de modelos.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "koŋxˈunto ðe moðˈelos."
+        },
+        {
+          "text": "My name has five letters.",
+          "segments": [
+            {
+              "text": "My name has five letters.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "maɪ nˈeɪm hɐz fˈaɪv lˈɛɾɚz."
+        },
+        {
+          "text": "The letter H has two common names around the world.",
+          "segments": [
+            {
+              "text": "The letter H has two common names around the world.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðə lˈɛɾɚɹ ˈeɪtʃ hɐz tˈuː kˈɑːmən nˈeɪmz ɚɹˈaʊnd ðə wˈɜːld."
+        },
+        {
+          "text": "I listen and repeat each word.",
+          "segments": [
+            {
+              "text": "I listen and repeat each word.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "aɪ lˈɪsən ænd ɹᵻpˈiːt ˈiːtʃ wˈɜːd."
+        },
+        {
+          "text": "Which syllable is stressed?",
+          "segments": [
+            {
+              "text": "Which syllable is stressed?",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wˌɪtʃ sˈɪləbəl ɪz stɹˈɛst?"
+        },
+        {
+          "text": "Short, frequent practice works best.",
+          "segments": [
+            {
+              "text": "Short, frequent practice works best.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ʃˈɔːɹt, fɹˈiːkwənt pɹˈæktɪs wˈɜːks bˈɛst."
+        },
+        {
+          "text": "Mi nombre tiene cinco letras.",
+          "segments": [
+            {
+              "text": "Mi nombre tiene cinco letras.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "mi nˈombɾe tjˈene sˈinko lˈetɾas."
+        },
+        {
+          "text": "La letra H tiene dos nombres comunes en el mundo.",
+          "segments": [
+            {
+              "text": "La letra H tiene dos nombres comunes en el mundo.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "la lˈetɾa ˈatʃe tjˈene ðˈos nˈombɾes komˈunes en el mˈundo."
+        },
+        {
+          "text": "Escucho y repito cada palabra.",
+          "segments": [
+            {
+              "text": "Escucho y repito cada palabra.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "eskˈutʃo i repˈito kˈaða palˈaβɾa."
+        },
+        {
+          "text": "¿Qué sílaba lleva el acento?",
+          "segments": [
+            {
+              "text": "¿Qué sílaba lleva el acento?",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kˈe sˈilaβa ʝˈeβa el asˈɛnto?"
+        },
+        {
+          "text": "La práctica breve y frecuente funciona mejor.",
+          "segments": [
+            {
+              "text": "La práctica breve y frecuente funciona mejor.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "la pɾˈaktika βɾˈeβe i fɾekwˈɛnte funsjˈona mexˈoɾ."
+        }
+      ]
+    },
+    {
+      "file": "03.wav",
+      "text": "Práctica contrastiva. Cambia la persona, el tiempo, el número o el grado de formalidad de cada modelo sin perder su propósito comunicativo.",
+      "sentences": [
+        {
+          "text": "Práctica contrastiva.",
+          "segments": [
+            {
+              "text": "Práctica contrastiva.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "pɾˈaktika kˌontɾastˈiβa."
+        },
+        {
+          "text": "Cambia la persona, el tiempo, el número o el grado de formalidad de cada modelo sin perder su propósito comunicativo.",
+          "segments": [
+            {
+              "text": "Cambia la persona, el tiempo, el número o el grado de formalidad de cada modelo sin perder su propósito comunicativo.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kˈambja la peɾsˈona, el tjˈempo, el nˈumeɾo o el ɣɾˈaðo ðe fˌoɾmaliðˈad ðe kˈaða moðˈelo sim peɾðˈeɾ su pɾopˈosito kˌomunˌikatˈiβo."
+        }
+      ]
+    },
+    {
+      "file": "04.wav",
+      "text": "Comprobación de producción. Di una oración original para cada función: deletrear un nombre; reconocer la sílaba acentuada; seguir una rutina sostenible de estudio. Después escríbela y compara las formas oral y escrita.",
+      "sentences": [
+        {
+          "text": "Comprobación de producción.",
+          "segments": [
+            {
+              "text": "Comprobación de producción.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kˌompɾoβasjˈon de pɾˌoðuksjˈon."
+        },
+        {
+          "text": "Di una oración original para cada función: deletrear un nombre; reconocer la sílaba acentuada; seguir una rutina sostenible de estudio.",
+          "segments": [
+            {
+              "text": "Di una oración original para cada función: deletrear un nombre; reconocer la sílaba acentuada; seguir una rutina sostenible de estudio.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "dˈi ˈuna ˌoɾasjˈon ˌoɾixinˈal pˌaɾa kˈaða funsjˈon: dˌeletɾeˈaɾ ˈun nˈombɾe; rˌekonosˈeɾ la sˈilaβa ˌasentwˈaða; seɣˈiɾ ˈuna rutˈina sˌostenˈiβle ðe estˈuðjo."
+        },
+        {
+          "text": "Después escríbela y compara las formas oral y escrita.",
+          "segments": [
+            {
+              "text": "Después escríbela y compara las formas oral y escrita.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "despwˈes eskɾˈiβela i kompˈaɾa las fˈoɾmas oɾˈal i eskɾˈita."
+        }
+      ]
+    },
+    {
+      "file": "05.wav",
+      "text": "Lenguaje modelo. My name has five letters. — Mi nombre tiene cinco letras. The letter H has two common names around the world. — La letra H tiene dos nombres comunes en el mundo. I listen and repeat each word. — Escucho y repito cada palabra. Which syllable is stressed? — ¿Qué sílaba lleva el acento? Short, frequent practice works best. — La práctica breve y frecuente funciona mejor.",
+      "sentences": [
+        {
+          "text": "Lenguaje modelo.",
+          "segments": [
+            {
+              "text": "Lenguaje modelo.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "leŋɡwˈaxe moðˈelo."
+        },
+        {
+          "text": "My name has five letters.",
+          "segments": [
+            {
+              "text": "My name has five letters.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "maɪ nˈeɪm hɐz fˈaɪv lˈɛɾɚz."
+        },
+        {
+          "text": "— Mi nombre tiene cinco letras.",
+          "segments": [
+            {
+              "text": "— Mi nombre tiene cinco letras.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— mi nˈombɾe tjˈene sˈinko lˈetɾas."
+        },
+        {
+          "text": "The letter H has two common names around the world.",
+          "segments": [
+            {
+              "text": "The letter H has two common names around the world.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðə lˈɛɾɚɹ ˈeɪtʃ hɐz tˈuː kˈɑːmən nˈeɪmz ɚɹˈaʊnd ðə wˈɜːld."
+        },
+        {
+          "text": "— La letra H tiene dos nombres comunes en el mundo.",
+          "segments": [
+            {
+              "text": "— La letra H tiene dos nombres comunes en el mundo.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— la lˈetɾa ˈatʃe tjˈene ðˈos nˈombɾes komˈunes en el mˈundo."
+        },
+        {
+          "text": "I listen and repeat each word.",
+          "segments": [
+            {
+              "text": "I listen and repeat each word.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "aɪ lˈɪsən ænd ɹᵻpˈiːt ˈiːtʃ wˈɜːd."
+        },
+        {
+          "text": "— Escucho y repito cada palabra.",
+          "segments": [
+            {
+              "text": "— Escucho y repito cada palabra.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— eskˈutʃo i repˈito kˈaða palˈaβɾa."
+        },
+        {
+          "text": "Which syllable is stressed?",
+          "segments": [
+            {
+              "text": "Which syllable is stressed?",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wˌɪtʃ sˈɪləbəl ɪz stɹˈɛst?"
+        },
+        {
+          "text": "— ¿Qué sílaba lleva el acento?",
+          "segments": [
+            {
+              "text": "— ¿Qué sílaba lleva el acento?",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— kˈe sˈilaβa ʝˈeβa el asˈɛnto?"
+        },
+        {
+          "text": "Short, frequent practice works best.",
+          "segments": [
+            {
+              "text": "Short, frequent practice works best.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ʃˈɔːɹt, fɹˈiːkwənt pɹˈæktɪs wˈɜːks bˈɛst."
+        },
+        {
+          "text": "— La práctica breve y frecuente funciona mejor.",
+          "segments": [
+            {
+              "text": "— La práctica breve y frecuente funciona mejor.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— la pɾˈaktika βɾˈeβe i fɾekwˈɛnte funsjˈona mexˈoɾ."
+        }
+      ]
+    },
+    {
+      "file": "06.wav",
+      "text": "Comprueba tu preparación. Explica la idea central. Produce un ejemplo original. Completa la evaluación con un 85 % o más.",
+      "sentences": [
+        {
+          "text": "Comprueba tu preparación.",
+          "segments": [
+            {
+              "text": "Comprueba tu preparación.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kˌompɾuˈeβa tu pɾˌepaɾasjˈon."
+        },
+        {
+          "text": "Explica la idea central.",
+          "segments": [
+            {
+              "text": "Explica la idea central.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "eksplˈika la iðˈea sentɾˈal."
+        },
+        {
+          "text": "Produce un ejemplo original.",
+          "segments": [
+            {
+              "text": "Produce un ejemplo original.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "pɾoðˈuse ˈun exˈemplo ˌoɾixinˈal."
+        },
+        {
+          "text": "Completa la evaluación con un 85 % o más.",
+          "segments": [
+            {
+              "text": "Completa la evaluación con un 85 % o más.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "komplˈeta la ˌeβaluasjˈon kon ˈun otʃˌɛntaisˈinko poɾsjˈɛnto o mˈas."
+        }
+      ]
+    },
+    {
+      "file": "vocab-00.wav",
+      "text": "the alphabet",
+      "sentences": [
+        {
+          "text": "the alphabet",
+          "segments": [
+            {
+              "text": "the alphabet",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðɪ ˈælfəbˌɛt"
+        }
+      ]
+    },
+    {
+      "file": "vocab-01.wav",
+      "text": "a letter",
+      "sentences": [
+        {
+          "text": "a letter",
+          "segments": [
+            {
+              "text": "a letter",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɐ lˈɛɾɚ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-02.wav",
+      "text": "a sound",
+      "sentences": [
+        {
+          "text": "a sound",
+          "segments": [
+            {
+              "text": "a sound",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɐ sˈaʊnd"
+        }
+      ]
+    },
+    {
+      "file": "vocab-03.wav",
+      "text": "a word",
+      "sentences": [
+        {
+          "text": "a word",
+          "segments": [
+            {
+              "text": "a word",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɐ wˈɜːd"
+        }
+      ]
+    },
+    {
+      "file": "vocab-04.wav",
+      "text": "a syllable",
+      "sentences": [
+        {
+          "text": "a syllable",
+          "segments": [
+            {
+              "text": "a syllable",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɐ sˈɪləbəl"
+        }
+      ]
+    },
+    {
+      "file": "vocab-05.wav",
+      "text": "stress",
+      "sentences": [
+        {
+          "text": "stress",
+          "segments": [
+            {
+              "text": "stress",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "stɹˈɛs"
+        }
+      ]
+    },
+    {
+      "file": "vocab-06.wav",
+      "text": "to listen",
+      "sentences": [
+        {
+          "text": "to listen",
+          "segments": [
+            {
+              "text": "to listen",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tə lˈɪsən"
+        }
+      ]
+    },
+    {
+      "file": "vocab-07.wav",
+      "text": "to repeat",
+      "sentences": [
+        {
+          "text": "to repeat",
+          "segments": [
+            {
+              "text": "to repeat",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tə ɹᵻpˈiːt"
+        }
+      ]
+    }
+  ]
+}

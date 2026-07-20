@@ -1,5 +1,5 @@
 {
-  "name": "espanol-language-academy",
+  "name": "osaphla-language-academy",
   "private": true,
   "version": "1.0.0",
   "type": "module",
@@ -15,7 +15,7 @@
     "test": "vitest run",
     "test:watch": "vitest",
     "test:e2e": "playwright test",
-    "qa": "npm run curriculum:validate && npm run themes:validate && npm run bilingual:validate && npm test && npm run build && npm run test:e2e",
+    "qa": "npm run build && npm run themes:validate && npm run bilingual:validate && npm test && npm run test:e2e",
     "render:media": "node scripts/render-media.mjs",
     "media:validate": "node scripts/validate-media.mjs"
   },

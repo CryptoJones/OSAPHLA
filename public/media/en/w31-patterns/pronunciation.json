@@ -1,0 +1,541 @@
+{
+  "profile": "sky",
+  "utterances": [
+    {
+      "file": "00.wav",
+      "text": "Semana 31: Comparación, registro y lenguaje idiomático. hacer una comparación matizada elogiar o criticar adecuadamente interpretar lenguaje idiomático",
+      "sentences": [
+        {
+          "text": "Semana 31: Comparación, registro y lenguaje idiomático.",
+          "segments": [
+            {
+              "text": "Semana 31: Comparación, registro y lenguaje idiomático.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "semˈana tɾˌeɪntaiˈuno: kˌompaɾasjˈon, rexˈistɾo i leŋɡwˈaxe ˌiðjomˈatiko."
+        },
+        {
+          "text": "hacer una comparación matizada elogiar o criticar adecuadamente interpretar lenguaje idiomático",
+          "segments": [
+            {
+              "text": "hacer una comparación matizada elogiar o criticar adecuadamente interpretar lenguaje idiomático",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "asˈeɾ ˈuna kˌompaɾasjˈon mˌatisˈaða ˌeloxjˈaɾ o kɾˌitikˈaɾ ˌaðekwˈaðamˈente ˌinteɾpɾetˈaɾ leŋɡwˈaxe ˌiðjomˈatiko"
+        }
+      ]
+    },
+    {
+      "file": "01.wav",
+      "text": "Forma y significado. Comparativos avanzados; superlativos; intensificadores; colocaciones; verbos frasales y expresiones idiomáticas con límites de registro.",
+      "sentences": [
+        {
+          "text": "Forma y significado.",
+          "segments": [
+            {
+              "text": "Forma y significado.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "fˈoɾma i sˌiɡnifikˈaðo."
+        },
+        {
+          "text": "Comparativos avanzados; superlativos; intensificadores; colocaciones; verbos frasales y expresiones idiomáticas con límites de registro.",
+          "segments": [
+            {
+              "text": "Comparativos avanzados; superlativos; intensificadores; colocaciones; verbos frasales y expresiones idiomáticas con límites de registro.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kˌompaɾatˈiβos ˌaβansˈaðos; sˌupeɾlatˈiβos; ˌintensˌifikaðˈoɾes; kˌolokasjˈones; bˈeɾβos fɾasˈales i ˌekspɾesjˈones ˌiðjomˈatikas kon lˈimites ðe rexˈistɾo."
+        }
+      ]
+    },
+    {
+      "file": "02.wav",
+      "text": "Conjunto de modelos. The second option is far more viable. The least clear report was the first one. The project is working out well. That figure should be treated cautiously. The analysis was right, but evidence is still missing. La segunda opción es mucho más viable. El informe menos claro fue el primero. El proyecto está saliendo bien. Esa cifra debe tratarse con cautela. El análisis fue correcto, pero todavía falta evidencia.",
+      "sentences": [
+        {
+          "text": "Conjunto de modelos.",
+          "segments": [
+            {
+              "text": "Conjunto de modelos.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "koŋxˈunto ðe moðˈelos."
+        },
+        {
+          "text": "The second option is far more viable.",
+          "segments": [
+            {
+              "text": "The second option is far more viable.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðə sˈɛkənd ˈɑːpʃən ɪz fˈɑːɹmˌɔːɹ vˈaɪəbəl."
+        },
+        {
+          "text": "The least clear report was the first one.",
+          "segments": [
+            {
+              "text": "The least clear report was the first one.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðə lˈiːst klˈɪɹ ɹᵻpˈɔːɹt wʌzðə fˈɜːst wˌʌn."
+        },
+        {
+          "text": "The project is working out well.",
+          "segments": [
+            {
+              "text": "The project is working out well.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðə pɹˈɑːdʒɛkt ɪz wˈɜːkɪŋ ˈaʊt wˈɛl."
+        },
+        {
+          "text": "That figure should be treated cautiously.",
+          "segments": [
+            {
+              "text": "That figure should be treated cautiously.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðæt fˈɪɡjɚ ʃˌʊd biː tɹˈiːɾᵻd kˈɔːʃəsli."
+        },
+        {
+          "text": "The analysis was right, but evidence is still missing.",
+          "segments": [
+            {
+              "text": "The analysis was right, but evidence is still missing.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðɪ ɐnˈæləsˌɪs wʌz ɹˈaɪt, bˌʌt ˈɛvɪdəns ɪz stˈɪl mˈɪsɪŋ."
+        },
+        {
+          "text": "La segunda opción es mucho más viable.",
+          "segments": [
+            {
+              "text": "La segunda opción es mucho más ",
+              "lang": "es-419"
+            },
+            {
+              "text": "viable",
+              "lang": "en-us"
+            },
+            {
+              "text": ".",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "la seɣˈunda opsjˈon ˈes mˈutʃo mˈas vˈaɪəbəl ."
+        },
+        {
+          "text": "El informe menos claro fue el primero.",
+          "segments": [
+            {
+              "text": "El informe menos claro fue el primero.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "el infˈoɾme mˈenos klˈaɾo fwˈe el pɾimˈeɾo."
+        },
+        {
+          "text": "El proyecto está saliendo bien.",
+          "segments": [
+            {
+              "text": "El proyecto está saliendo bien.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "el pɾoʝˈekto estˈa saljˈɛndo βjˈen."
+        },
+        {
+          "text": "Esa cifra debe tratarse con cautela.",
+          "segments": [
+            {
+              "text": "Esa cifra debe tratarse con cautela.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˈesa sˈifɾa ðˈeβe tɾatˈaɾse kon kaʊtˈela."
+        },
+        {
+          "text": "El análisis fue correcto, pero todavía falta evidencia.",
+          "segments": [
+            {
+              "text": "El análisis fue correcto, pero todavía falta evidencia.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "el anˈalisis fwˈe korˈekto, pˌeɾo tˌoðaβˈia fˈalta ˌeβiðˈɛnsja."
+        }
+      ]
+    },
+    {
+      "file": "03.wav",
+      "text": "Práctica contrastiva. Cambia la persona, el tiempo, el número o el grado de formalidad de cada modelo sin perder su propósito comunicativo.",
+      "sentences": [
+        {
+          "text": "Práctica contrastiva.",
+          "segments": [
+            {
+              "text": "Práctica contrastiva.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "pɾˈaktika kˌontɾastˈiβa."
+        },
+        {
+          "text": "Cambia la persona, el tiempo, el número o el grado de formalidad de cada modelo sin perder su propósito comunicativo.",
+          "segments": [
+            {
+              "text": "Cambia la persona, el tiempo, el número o el grado de formalidad de cada modelo sin perder su propósito comunicativo.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kˈambja la peɾsˈona, el tjˈempo, el nˈumeɾo o el ɣɾˈaðo ðe fˌoɾmaliðˈad ðe kˈaða moðˈelo sim peɾðˈeɾ su pɾopˈosito kˌomunˌikatˈiβo."
+        }
+      ]
+    },
+    {
+      "file": "04.wav",
+      "text": "Comprobación de producción. Di una oración original para cada función: hacer una comparación matizada; elogiar o criticar adecuadamente; interpretar lenguaje idiomático. Después escríbela y compara las formas oral y escrita.",
+      "sentences": [
+        {
+          "text": "Comprobación de producción.",
+          "segments": [
+            {
+              "text": "Comprobación de producción.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kˌompɾoβasjˈon de pɾˌoðuksjˈon."
+        },
+        {
+          "text": "Di una oración original para cada función: hacer una comparación matizada; elogiar o criticar adecuadamente; interpretar lenguaje idiomático.",
+          "segments": [
+            {
+              "text": "Di una oración original para cada función: hacer una comparación matizada; elogiar o criticar adecuadamente; interpretar lenguaje idiomático.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "dˈi ˈuna ˌoɾasjˈon ˌoɾixinˈal pˌaɾa kˈaða funsjˈon: asˈeɾ ˈuna kˌompaɾasjˈon mˌatisˈaða; ˌeloxjˈaɾ o kɾˌitikˈaɾ ˌaðekwˈaðamˈente; ˌinteɾpɾetˈaɾ leŋɡwˈaxe ˌiðjomˈatiko."
+        },
+        {
+          "text": "Después escríbela y compara las formas oral y escrita.",
+          "segments": [
+            {
+              "text": "Después escríbela y compara las formas oral y escrita.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "despwˈes eskɾˈiβela i kompˈaɾa las fˈoɾmas oɾˈal i eskɾˈita."
+        }
+      ]
+    },
+    {
+      "file": "05.wav",
+      "text": "Lenguaje modelo. The second option is far more viable. — La segunda opción es mucho más viable. The least clear report was the first one. — El informe menos claro fue el primero. The project is working out well. — El proyecto está saliendo bien. That figure should be treated cautiously. — Esa cifra debe tratarse con cautela. The analysis was right, but evidence is still missing. — El análisis fue correcto, pero todavía falta evidencia.",
+      "sentences": [
+        {
+          "text": "Lenguaje modelo.",
+          "segments": [
+            {
+              "text": "Lenguaje modelo.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "leŋɡwˈaxe moðˈelo."
+        },
+        {
+          "text": "The second option is far more viable.",
+          "segments": [
+            {
+              "text": "The second option is far more viable.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðə sˈɛkənd ˈɑːpʃən ɪz fˈɑːɹmˌɔːɹ vˈaɪəbəl."
+        },
+        {
+          "text": "— La segunda opción es mucho más viable.",
+          "segments": [
+            {
+              "text": "— La segunda opción es mucho más ",
+              "lang": "es-419"
+            },
+            {
+              "text": "viable",
+              "lang": "en-us"
+            },
+            {
+              "text": ".",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— la seɣˈunda opsjˈon ˈes mˈutʃo mˈas vˈaɪəbəl ."
+        },
+        {
+          "text": "The least clear report was the first one.",
+          "segments": [
+            {
+              "text": "The least clear report was the first one.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðə lˈiːst klˈɪɹ ɹᵻpˈɔːɹt wʌzðə fˈɜːst wˌʌn."
+        },
+        {
+          "text": "— El informe menos claro fue el primero.",
+          "segments": [
+            {
+              "text": "— El informe menos claro fue el primero.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— el infˈoɾme mˈenos klˈaɾo fwˈe el pɾimˈeɾo."
+        },
+        {
+          "text": "The project is working out well.",
+          "segments": [
+            {
+              "text": "The project is working out well.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðə pɹˈɑːdʒɛkt ɪz wˈɜːkɪŋ ˈaʊt wˈɛl."
+        },
+        {
+          "text": "— El proyecto está saliendo bien.",
+          "segments": [
+            {
+              "text": "— El proyecto está saliendo bien.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— el pɾoʝˈekto estˈa saljˈɛndo βjˈen."
+        },
+        {
+          "text": "That figure should be treated cautiously.",
+          "segments": [
+            {
+              "text": "That figure should be treated cautiously.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðæt fˈɪɡjɚ ʃˌʊd biː tɹˈiːɾᵻd kˈɔːʃəsli."
+        },
+        {
+          "text": "— Esa cifra debe tratarse con cautela.",
+          "segments": [
+            {
+              "text": "— Esa cifra debe tratarse con cautela.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— ˈesa sˈifɾa ðˈeβe tɾatˈaɾse kon kaʊtˈela."
+        },
+        {
+          "text": "The analysis was right, but evidence is still missing.",
+          "segments": [
+            {
+              "text": "The analysis was right, but evidence is still missing.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðɪ ɐnˈæləsˌɪs wʌz ɹˈaɪt, bˌʌt ˈɛvɪdəns ɪz stˈɪl mˈɪsɪŋ."
+        },
+        {
+          "text": "— El análisis fue correcto, pero todavía falta evidencia.",
+          "segments": [
+            {
+              "text": "— El análisis fue correcto, pero todavía falta evidencia.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— el anˈalisis fwˈe korˈekto, pˌeɾo tˌoðaβˈia fˈalta ˌeβiðˈɛnsja."
+        }
+      ]
+    },
+    {
+      "file": "06.wav",
+      "text": "Comprueba tu preparación. Explica la idea central. Produce un ejemplo original. Completa la evaluación con un 85 % o más.",
+      "sentences": [
+        {
+          "text": "Comprueba tu preparación.",
+          "segments": [
+            {
+              "text": "Comprueba tu preparación.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kˌompɾuˈeβa tu pɾˌepaɾasjˈon."
+        },
+        {
+          "text": "Explica la idea central.",
+          "segments": [
+            {
+              "text": "Explica la idea central.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "eksplˈika la iðˈea sentɾˈal."
+        },
+        {
+          "text": "Produce un ejemplo original.",
+          "segments": [
+            {
+              "text": "Produce un ejemplo original.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "pɾoðˈuse ˈun exˈemplo ˌoɾixinˈal."
+        },
+        {
+          "text": "Completa la evaluación con un 85 % o más.",
+          "segments": [
+            {
+              "text": "Completa la evaluación con un 85 % o más.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "komplˈeta la ˌeβaluasjˈon kon ˈun otʃˌɛntaisˈinko poɾsjˈɛnto o mˈas."
+        }
+      ]
+    },
+    {
+      "file": "vocab-00.wav",
+      "text": "viable",
+      "sentences": [
+        {
+          "text": "viable",
+          "segments": [
+            {
+              "text": "viable",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "vˈaɪəbəl"
+        }
+      ]
+    },
+    {
+      "file": "vocab-01.wav",
+      "text": "efficient",
+      "sentences": [
+        {
+          "text": "efficient",
+          "segments": [
+            {
+              "text": "efficient",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɪfˈɪʃənt"
+        }
+      ]
+    },
+    {
+      "file": "vocab-02.wav",
+      "text": "reliable",
+      "sentences": [
+        {
+          "text": "reliable",
+          "segments": [
+            {
+              "text": "reliable",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɹᵻlˈaɪəbəl"
+        }
+      ]
+    },
+    {
+      "file": "vocab-03.wav",
+      "text": "slightly",
+      "sentences": [
+        {
+          "text": "slightly",
+          "segments": [
+            {
+              "text": "slightly",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "slˈaɪtli"
+        }
+      ]
+    },
+    {
+      "file": "vocab-04.wav",
+      "text": "far more",
+      "sentences": [
+        {
+          "text": "far more",
+          "segments": [
+            {
+              "text": "far more",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "fˈɑːɹmˌɔːɹ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-05.wav",
+      "text": "to work out",
+      "sentences": [
+        {
+          "text": "to work out",
+          "segments": [
+            {
+              "text": "to work out",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tə wˈɜːk ˈaʊt"
+        }
+      ]
+    },
+    {
+      "file": "vocab-06.wav",
+      "text": "to point out",
+      "sentences": [
+        {
+          "text": "to point out",
+          "segments": [
+            {
+              "text": "to point out",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tə pˈɔɪnt ˈaʊt"
+        }
+      ]
+    },
+    {
+      "file": "vocab-07.wav",
+      "text": "cautiously",
+      "sentences": [
+        {
+          "text": "cautiously",
+          "segments": [
+            {
+              "text": "cautiously",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "kˈɔːʃəsli"
+        }
+      ]
+    }
+  ]
+}

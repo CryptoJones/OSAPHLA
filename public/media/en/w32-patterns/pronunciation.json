@@ -1,0 +1,529 @@
+{
+  "profile": "heart",
+  "utterances": [
+    {
+      "file": "00.wav",
+      "text": "Semana 32: Trabajo, tecnología y comunicación formal. resumir una reunión escribir un mensaje profesional explicar un problema técnico",
+      "sentences": [
+        {
+          "text": "Semana 32: Trabajo, tecnología y comunicación formal.",
+          "segments": [
+            {
+              "text": "Semana 32: Trabajo, tecnología y comunicación formal.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "semˈana tɾˌeɪntaiðˈos: tɾaβˈaxo, tˌeknoloxˈia i kˌomunˌikasjˈon foɾmˈal."
+        },
+        {
+          "text": "resumir una reunión escribir un mensaje profesional explicar un problema técnico",
+          "segments": [
+            {
+              "text": "resumir una reunión escribir un mensaje profesional explicar un problema técnico",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "rˌesumˈiɾ ˈuna reʊnjˈon ˌeskɾiβˈiɾ ˈun mensˈaxe pɾˌofesjonˈal ˌeksplikˈaɾ ˈum pɾoβlˈema tˈekniko"
+        }
+      ]
+    },
+    {
+      "file": "01.wav",
+      "text": "Forma y significado. Reported speech; estilo formal; conectores; correos profesionales; lenguaje nominal y solución de problemas técnicos.",
+      "sentences": [
+        {
+          "text": "Forma y significado.",
+          "segments": [
+            {
+              "text": "Forma y significado.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "fˈoɾma i sˌiɡnifikˈaðo."
+        },
+        {
+          "text": "Reported speech; estilo formal; conectores; correos profesionales; lenguaje nominal y solución de problemas técnicos.",
+          "segments": [
+            {
+              "text": "Reported speech",
+              "lang": "en-us"
+            },
+            {
+              "text": "; estilo formal; conectores; correos profesionales; lenguaje nominal y solución de problemas técnicos.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ɹᵻpˈɔːɹɾᵻd spˈiːtʃ ; estˈilo foɾmˈal; kˌonektˈoɾes; korˈeos pɾˌofesjonˈales; leŋɡwˈaxe nˌominˈal i sˌolusjˈon de pɾoβlˈemas tˈeknikos."
+        }
+      ]
+    },
+    {
+      "file": "02.wav",
+      "text": "Conjunto de modelos. According to the technician, the network is working. We communicate through a secure channel. The director said they would extend the deadline. The requested report is attached. Regarding the incident, two details are missing. Según el técnico, la red está funcionando. Nos comunicamos por un canal seguro. La directora dijo que ampliarían el plazo. Se adjunta el informe solicitado. Con respecto al incidente, faltan dos datos.",
+      "sentences": [
+        {
+          "text": "Conjunto de modelos.",
+          "segments": [
+            {
+              "text": "Conjunto de modelos.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "koŋxˈunto ðe moðˈelos."
+        },
+        {
+          "text": "According to the technician, the network is working.",
+          "segments": [
+            {
+              "text": "According to the technician, the network is working.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɐkˈɔːɹdɪŋ tə ðə tɛknˈɪʃən, ðə nˈɛtwɜːk ɪz wˈɜːkɪŋ."
+        },
+        {
+          "text": "We communicate through a secure channel.",
+          "segments": [
+            {
+              "text": "We communicate through a secure channel.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wiː kəmjˈuːnᵻkˌeɪt θɹuː ɐ sᵻkjˈʊɹ tʃˈænəl."
+        },
+        {
+          "text": "The director said they would extend the deadline.",
+          "segments": [
+            {
+              "text": "The director said they would extend the deadline.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðə dᵻɹˈɛktɚ sˈɛd ðeɪ wʊd ɛkstˈɛnd ðə dˈɛdlaɪn."
+        },
+        {
+          "text": "The requested report is attached.",
+          "segments": [
+            {
+              "text": "The requested report is attached.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðə ɹᵻkwˈɛstᵻd ɹᵻpˈɔːɹt ɪz ɐtˈætʃt."
+        },
+        {
+          "text": "Regarding the incident, two details are missing.",
+          "segments": [
+            {
+              "text": "Regarding the incident, two details are missing.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɹᵻɡˈɑːɹdɪŋ ðɪ ˈɪnsɪdənt, tˈuː diːtˈeɪlz ɑːɹ mˈɪsɪŋ."
+        },
+        {
+          "text": "Según el técnico, la red está funcionando.",
+          "segments": [
+            {
+              "text": "Según el técnico, la red está funcionando.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "seɣˈun el tˈekniko, la rˈeð estˈa fˌunsjonˈando."
+        },
+        {
+          "text": "Nos comunicamos por un canal seguro.",
+          "segments": [
+            {
+              "text": "Nos comunicamos por un canal seguro.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "nos kˌomunikˈamos poɾ ˈun kanˈal seɣˈuɾo."
+        },
+        {
+          "text": "La directora dijo que ampliarían el plazo.",
+          "segments": [
+            {
+              "text": "La directora dijo que ampliarían el plazo.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "la ðˌiɾektˈoɾa ðˈixo ke ˌampliaɾˈian el plˈaso."
+        },
+        {
+          "text": "Se adjunta el informe solicitado.",
+          "segments": [
+            {
+              "text": "Se adjunta el informe solicitado.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "se aðxˈunta el infˈoɾme sˌolisitˈaðo."
+        },
+        {
+          "text": "Con respecto al incidente, faltan dos datos.",
+          "segments": [
+            {
+              "text": "Con respecto al incidente, faltan dos datos.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kon respˈekto al ˌinsiðˈɛnte, fˈaltan dˈos ðˈatos."
+        }
+      ]
+    },
+    {
+      "file": "03.wav",
+      "text": "Práctica contrastiva. Cambia la persona, el tiempo, el número o el grado de formalidad de cada modelo sin perder su propósito comunicativo.",
+      "sentences": [
+        {
+          "text": "Práctica contrastiva.",
+          "segments": [
+            {
+              "text": "Práctica contrastiva.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "pɾˈaktika kˌontɾastˈiβa."
+        },
+        {
+          "text": "Cambia la persona, el tiempo, el número o el grado de formalidad de cada modelo sin perder su propósito comunicativo.",
+          "segments": [
+            {
+              "text": "Cambia la persona, el tiempo, el número o el grado de formalidad de cada modelo sin perder su propósito comunicativo.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kˈambja la peɾsˈona, el tjˈempo, el nˈumeɾo o el ɣɾˈaðo ðe fˌoɾmaliðˈad ðe kˈaða moðˈelo sim peɾðˈeɾ su pɾopˈosito kˌomunˌikatˈiβo."
+        }
+      ]
+    },
+    {
+      "file": "04.wav",
+      "text": "Comprobación de producción. Di una oración original para cada función: resumir una reunión; escribir un mensaje profesional; explicar un problema técnico. Después escríbela y compara las formas oral y escrita.",
+      "sentences": [
+        {
+          "text": "Comprobación de producción.",
+          "segments": [
+            {
+              "text": "Comprobación de producción.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kˌompɾoβasjˈon de pɾˌoðuksjˈon."
+        },
+        {
+          "text": "Di una oración original para cada función: resumir una reunión; escribir un mensaje profesional; explicar un problema técnico.",
+          "segments": [
+            {
+              "text": "Di una oración original para cada función: resumir una reunión; escribir un mensaje profesional; explicar un problema técnico.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "dˈi ˈuna ˌoɾasjˈon ˌoɾixinˈal pˌaɾa kˈaða funsjˈon: rˌesumˈiɾ ˈuna reʊnjˈon; ˌeskɾiβˈiɾ ˈun mensˈaxe pɾˌofesjonˈal; ˌeksplikˈaɾ ˈum pɾoβlˈema tˈekniko."
+        },
+        {
+          "text": "Después escríbela y compara las formas oral y escrita.",
+          "segments": [
+            {
+              "text": "Después escríbela y compara las formas oral y escrita.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "despwˈes eskɾˈiβela i kompˈaɾa las fˈoɾmas oɾˈal i eskɾˈita."
+        }
+      ]
+    },
+    {
+      "file": "05.wav",
+      "text": "Lenguaje modelo. According to the technician, the network is working. — Según el técnico, la red está funcionando. We communicate through a secure channel. — Nos comunicamos por un canal seguro. The director said they would extend the deadline. — La directora dijo que ampliarían el plazo. The requested report is attached. — Se adjunta el informe solicitado. Regarding the incident, two details are missing. — Con respecto al incidente, faltan dos datos.",
+      "sentences": [
+        {
+          "text": "Lenguaje modelo.",
+          "segments": [
+            {
+              "text": "Lenguaje modelo.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "leŋɡwˈaxe moðˈelo."
+        },
+        {
+          "text": "According to the technician, the network is working.",
+          "segments": [
+            {
+              "text": "According to the technician, the network is working.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɐkˈɔːɹdɪŋ tə ðə tɛknˈɪʃən, ðə nˈɛtwɜːk ɪz wˈɜːkɪŋ."
+        },
+        {
+          "text": "— Según el técnico, la red está funcionando.",
+          "segments": [
+            {
+              "text": "— Según el técnico, la red está funcionando.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— seɣˈun el tˈekniko, la rˈeð estˈa fˌunsjonˈando."
+        },
+        {
+          "text": "We communicate through a secure channel.",
+          "segments": [
+            {
+              "text": "We communicate through a secure channel.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wiː kəmjˈuːnᵻkˌeɪt θɹuː ɐ sᵻkjˈʊɹ tʃˈænəl."
+        },
+        {
+          "text": "— Nos comunicamos por un canal seguro.",
+          "segments": [
+            {
+              "text": "— Nos comunicamos por un canal seguro.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— nos kˌomunikˈamos poɾ ˈun kanˈal seɣˈuɾo."
+        },
+        {
+          "text": "The director said they would extend the deadline.",
+          "segments": [
+            {
+              "text": "The director said they would extend the deadline.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðə dᵻɹˈɛktɚ sˈɛd ðeɪ wʊd ɛkstˈɛnd ðə dˈɛdlaɪn."
+        },
+        {
+          "text": "— La directora dijo que ampliarían el plazo.",
+          "segments": [
+            {
+              "text": "— La directora dijo que ampliarían el plazo.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— la ðˌiɾektˈoɾa ðˈixo ke ˌampliaɾˈian el plˈaso."
+        },
+        {
+          "text": "The requested report is attached.",
+          "segments": [
+            {
+              "text": "The requested report is attached.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðə ɹᵻkwˈɛstᵻd ɹᵻpˈɔːɹt ɪz ɐtˈætʃt."
+        },
+        {
+          "text": "— Se adjunta el informe solicitado.",
+          "segments": [
+            {
+              "text": "— Se adjunta el informe solicitado.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— se aðxˈunta el infˈoɾme sˌolisitˈaðo."
+        },
+        {
+          "text": "Regarding the incident, two details are missing.",
+          "segments": [
+            {
+              "text": "Regarding the incident, two details are missing.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɹᵻɡˈɑːɹdɪŋ ðɪ ˈɪnsɪdənt, tˈuː diːtˈeɪlz ɑːɹ mˈɪsɪŋ."
+        },
+        {
+          "text": "— Con respecto al incidente, faltan dos datos.",
+          "segments": [
+            {
+              "text": "— Con respecto al incidente, faltan dos datos.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— kon respˈekto al ˌinsiðˈɛnte, fˈaltan dˈos ðˈatos."
+        }
+      ]
+    },
+    {
+      "file": "06.wav",
+      "text": "Comprueba tu preparación. Explica la idea central. Produce un ejemplo original. Completa la evaluación con un 85 % o más.",
+      "sentences": [
+        {
+          "text": "Comprueba tu preparación.",
+          "segments": [
+            {
+              "text": "Comprueba tu preparación.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kˌompɾuˈeβa tu pɾˌepaɾasjˈon."
+        },
+        {
+          "text": "Explica la idea central.",
+          "segments": [
+            {
+              "text": "Explica la idea central.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "eksplˈika la iðˈea sentɾˈal."
+        },
+        {
+          "text": "Produce un ejemplo original.",
+          "segments": [
+            {
+              "text": "Produce un ejemplo original.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "pɾoðˈuse ˈun exˈemplo ˌoɾixinˈal."
+        },
+        {
+          "text": "Completa la evaluación con un 85 % o más.",
+          "segments": [
+            {
+              "text": "Completa la evaluación con un 85 % o más.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "komplˈeta la ˌeβaluasjˈon kon ˈun otʃˌɛntaisˈinko poɾsjˈɛnto o mˈas."
+        }
+      ]
+    },
+    {
+      "file": "vocab-00.wav",
+      "text": "an outage",
+      "sentences": [
+        {
+          "text": "an outage",
+          "segments": [
+            {
+              "text": "an outage",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɐn ˈaʊɾɪdʒ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-01.wav",
+      "text": "a network",
+      "sentences": [
+        {
+          "text": "a network",
+          "segments": [
+            {
+              "text": "a network",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɐ nˈɛtwɜːk"
+        }
+      ]
+    },
+    {
+      "file": "vocab-02.wav",
+      "text": "a deadline",
+      "sentences": [
+        {
+          "text": "a deadline",
+          "segments": [
+            {
+              "text": "a deadline",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɐ dˈɛdlaɪn"
+        }
+      ]
+    },
+    {
+      "file": "vocab-03.wav",
+      "text": "an attachment",
+      "sentences": [
+        {
+          "text": "an attachment",
+          "segments": [
+            {
+              "text": "an attachment",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɐn ɐtˈætʃmənt"
+        }
+      ]
+    },
+    {
+      "file": "vocab-04.wav",
+      "text": "according to",
+      "sentences": [
+        {
+          "text": "according to",
+          "segments": [
+            {
+              "text": "according to",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɐkˈɔːɹdɪŋ tuː"
+        }
+      ]
+    },
+    {
+      "file": "vocab-05.wav",
+      "text": "regarding",
+      "sentences": [
+        {
+          "text": "regarding",
+          "segments": [
+            {
+              "text": "regarding",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɹᵻɡˈɑːɹdɪŋ"
+        }
+      ]
+    },
+    {
+      "file": "vocab-06.wav",
+      "text": "to report",
+      "sentences": [
+        {
+          "text": "to report",
+          "segments": [
+            {
+              "text": "to report",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tə ɹᵻpˈɔːɹt"
+        }
+      ]
+    },
+    {
+      "file": "vocab-07.wav",
+      "text": "to recommend",
+      "sentences": [
+        {
+          "text": "to recommend",
+          "segments": [
+            {
+              "text": "to recommend",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "tə ɹˌɛkəmˈɛnd"
+        }
+      ]
+    }
+  ]
+}
