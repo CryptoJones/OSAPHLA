@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
 import { BrowserRouter, Link, NavLink, Navigate, Route, Routes, useLocation, useParams } from "react-router-dom";
+import packageJson from "../package.json";
 import spanishJson from "./data/es/course.json";
 import englishJson from "./data/en/course.json";
 import { CourseProvider, useCourse } from "./course";
@@ -44,7 +45,7 @@ function Layout({ children }: { children: React.ReactNode }) {
   return <div className="app-shell" data-course={course.slug}>
     <a className="skip-link" href="#main-content">{course.instructionLocale === "es-419" ? "Saltar al contenido de la lección" : "Skip to lesson content"}</a>
     <header className="site-header">
-      <NavLink to={path()} className="brand" aria-label={`${course.title} ${copy.dashboard}`}><span>OSAPHLA</span><small>{course.subtitle}</small></NavLink>
+      <NavLink to={path()} className="brand" aria-label={`${course.title} ${copy.dashboard}`}><span>OSAPHLA <span className="version-tag">[{packageJson.version}]</span></span><small>{course.subtitle}</small></NavLink>
       <nav aria-label={course.instructionLocale === "es-419" ? "Navegación principal" : "Primary navigation"}>
         <NavLink to={path()} end>{copy.dashboard}</NavLink><NavLink to={path("course")}>{copy.course}</NavLink><NavLink to={path("readers")}>{copy.readers}</NavLink><NavLink to={path("settings")}>{copy.display}</NavLink>
       </nav>
