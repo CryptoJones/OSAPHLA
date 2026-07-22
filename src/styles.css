@@ -71,7 +71,7 @@ button:disabled { opacity:.5; cursor:not-allowed; }
 .visually-hidden,.sr-only { position:absolute!important;width:1px!important;height:1px!important;padding:0!important;margin:-1px!important;overflow:hidden!important;clip:rect(0,0,0,0)!important;white-space:nowrap!important;border:0!important; }
 .loading { min-height:100vh; display:grid; place-items:center; font-size:1.3rem; }
 .course-chooser { min-height:100vh; display:grid; align-content:center; gap:clamp(2rem,6vw,5rem); width:min(1100px,100%); margin:auto; padding:clamp(1rem,6vw,5rem); }
-.course-chooser header { text-align:center; justify-self:center; }.course-chooser header h1 { max-width:22ch; }.course-chooser header p { margin-inline:auto; font-size:clamp(1rem,2vw,1.25rem); color:var(--muted); }
+.course-chooser header { text-align:center; justify-self:center; }.course-chooser header h1 { max-width:22ch; }.course-chooser header p { margin-inline:auto; font-size:clamp(2rem,7vw,4.8rem); max-width:22ch; color:var(--muted); }
 .course-choice-grid { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:clamp(1rem,4vw,2.5rem); }
 .course-choice { min-width:0; min-height:16rem; display:flex; flex-direction:column; align-items:center; justify-content:center; gap:.6rem; padding:clamp(1.25rem,5vw,3rem); color:var(--text); text-align:center; text-decoration:none; background:var(--surface); border:3px solid var(--border); box-shadow:var(--shadow); }
 .course-choice:hover { border-color:var(--accent); background:var(--surface-2); }.course-choice strong { font-size:clamp(1.8rem,5vw,3rem); }.course-choice>span:last-child { color:var(--muted); }
