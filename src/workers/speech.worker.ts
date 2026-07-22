@@ -9,7 +9,7 @@ let transcriber: any = null;
 self.onmessage = async (event: MessageEvent<{ id: string; audio: Float32Array; language: "spanish" | "english" }>) => {
   const { id, audio, language } = event.data;
   try {
-    self.postMessage({ id, status: "loading", message: "Loading the private on-device speech model…" });
+    self.postMessage({ id, status: "loading", message: "Downloading or loading the cached on-device speech model…" });
     // "gpu" in navigator only means the WebGPU API is exposed, not that it works reliably --
     // ONNX Runtime Web's WebGPU backend crashed the whole tab on real hardware (2026-07-19).
     // WASM is slower but doesn't take the GPU process down with it.
