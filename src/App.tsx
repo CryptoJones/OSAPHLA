@@ -30,11 +30,11 @@ function CourseChooser({ force = false }: { force?: boolean }) {
     <div className="course-choice-grid">
       <Link className="course-choice" to={destination("en")} onClick={() => update({ selectedCourse: "en" })} aria-label="Learn English, Inglés para hispanohablantes">
         <span className="course-flags" aria-hidden="true">{english.flags.join(" ")}</span>
-        <strong lang="en">English</strong><span lang="es">Inglés para hispanohablantes</span>
+        <strong lang="es">Inglés</strong><span lang="es">Inglés para hispanohablantes</span>
       </Link>
       <Link className="course-choice" to={destination("es")} onClick={() => update({ selectedCourse: "es" })} aria-label="Aprender español, Spanish for English speakers">
         <span className="course-flags" aria-hidden="true">{spanish.flags.join(" ")}</span>
-        <strong lang="es">Español</strong><span lang="en">Spanish for English speakers</span>
+        <strong lang="en">Spanish</strong><span lang="en">Spanish for English speakers</span>
       </Link>
     </div>
   </main>;
