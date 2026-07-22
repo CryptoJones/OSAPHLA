@@ -1,4 +1,5 @@
 import Dexie, { type EntityTable } from "dexie";
+import { z } from "zod";
 import type { AccessibilitySettings, Attempt, CourseSlug, ReviewCard, SectionProgress } from "../types";
 
 interface SettingRow { key: "accessibility"; value: AccessibilitySettings }
@@ -71,6 +72,51 @@ export async function saveSettings(value: AccessibilitySettings) {
 
 const progressKey = (courseSlug: CourseSlug, sectionId: string) => `${courseSlug}:${sectionId}`;
 
+const isoDate = z.string().datetime({ offset: true });
+const theme = z.enum(["system", "contrast-dark", "contrast-light", "low-glare", "warm-paper", "monochrome", "midnight-blue", "lavender-dusk", "ocean-light", "rose-clay", "amber-night", "slate-light", "cream-ink", "forest-night", "burgundy-night", "cobalt-light", "soft-gray", "black-amber", "deep-ocean", "cyberdeck", "wcag-navy-coral", "wcag-blue-orange-dark", "wcag-plum-apricot", "wcag-violet-cyan"]);
+const legacySettingsValue = z.object({
+  theme, font: z.enum(["system", "hyperlegible", "serif", "mono"]), textScale: z.number().min(100).max(250), fontWeight: z.number().min(400).max(800),
+  lineHeight: z.number().min(1.3).max(2.2), letterSpacing: z.number().min(0).max(0.15), wordSpacing: z.number().min(0).max(0.3), readingWidth: z.number().min(40).max(90),
+  density: z.enum(["comfortable", "compact"]), focusWidth: z.number().min(2).max(8), cursor: z.enum(["standard", "large"]),
+  reducedMotion: z.boolean(), hideDecoration: z.boolean(), onboardingComplete: z.boolean()
+}).strict();
+const settingsValue = legacySettingsValue.extend({ selectedCourse: z.enum(["es", "en"]) });
+const legacySettingsRow = z.object({ key: z.literal("accessibility"), value: legacySettingsValue }).strict();
+const settingsRow = z.object({ key: z.literal("accessibility"), value: settingsValue }).strict();
+const legacyProgressRow = z.object({
+  sectionId: z.string().min(1), status: z.enum(["not-started", "in-progress", "mastered"]), bestScore: z.number().min(0).max(1), attempts: z.number().int().nonnegative(),
+  completedAt: isoDate.optional(), updatedAt: isoDate
+}).strict();
+const courseProgressRow = legacyProgressRow.extend({ key: z.string().min(1), courseSlug: z.enum(["es", "en"]) }).superRefine((row, context) => {
+  if (row.key !== progressKey(row.courseSlug, row.sectionId)) context.addIssue({ code: "custom", path: ["key"], message: "must match courseSlug and sectionId" });
+});
+const answerValue = z.union([z.string(), z.array(z.string())]);
+const legacyAttempt = z.object({
+  id: z.number().int().positive().optional(), sectionId: z.string().min(1), startedAt: isoDate, completedAt: isoDate, score: z.number().min(0).max(1),
+  questionIds: z.array(z.string().min(1)), answers: z.record(z.string(), answerValue)
+}).strict();
+const courseAttempt = legacyAttempt.extend({ courseSlug: z.enum(["es", "en"]) });
+const legacyReview = z.object({
+  id: z.string().min(1), sectionId: z.string().min(1), prompt: z.string(), answer: z.string(), intervalDays: z.number().int().positive(),
+  ease: z.number().min(1.3), repetitions: z.number().int().nonnegative(), dueAt: isoDate
+}).strict();
+const courseReview = legacyReview.extend({ key: z.string().min(1), courseSlug: z.enum(["es", "en"]) }).superRefine((row, context) => {
+  if (row.key !== progressKey(row.courseSlug, row.id)) context.addIssue({ code: "custom", path: ["key"], message: "must match courseSlug and id" });
+});
+const legacyBackup = z.object({
+  schemaVersion: z.literal(1), exportedAt: isoDate, settings: z.array(legacySettingsRow), progress: z.array(legacyProgressRow), attempts: z.array(legacyAttempt), reviews: z.array(legacyReview)
+}).strict();
+const currentBackup = z.object({
+  schemaVersion: z.literal(2), exportedAt: isoDate, settings: z.array(settingsRow), progress: z.array(courseProgressRow), attempts: z.array(courseAttempt), reviews: z.array(courseReview)
+}).strict();
+const backupSchema = z.discriminatedUnion("schemaVersion", [legacyBackup, currentBackup]);
+
+function invalidBackup(error: z.ZodError) {
+  const issue = error.issues[0];
+  const path = issue.path.reduce<string>((result, part) => typeof part === "number" ? `${result}[${part}]` : `${result}${result ? "." : ""}${String(part)}`, "") || "backup";
+  return new Error(`Invalid academy backup at ${path}: ${issue.message}. Existing learning data was not changed.`);
+}
+
 export async function courseProgress(courseSlug: CourseSlug) {
   return db.courseProgress.where("courseSlug").equals(courseSlug).toArray();
 }
@@ -113,13 +159,22 @@ export async function exportLearningData() {
 }
 
 export async function importLearningData(raw: unknown) {
-  const input = raw as Record<string, unknown>;
-  if (![1, 2].includes(Number(input?.schemaVersion)) || !Array.isArray(input.progress)) throw new Error("Unsupported or invalid academy backup.");
-  const legacy = Number(input.schemaVersion) === 1;
-  const settings = Array.isArray(input.settings) ? input.settings as SettingRow[] : [];
-  const progress = (input.progress as Array<Record<string, unknown>>).map((row) => legacy ? { ...row, key: `es:${row.sectionId}`, courseSlug: "es" } : row) as unknown as CourseProgressRow[];
-  const attempts = (Array.isArray(input.attempts) ? input.attempts : []).map((row) => legacy ? { ...(row as object), courseSlug: "es" } : row) as Attempt[];
-  const reviews = (Array.isArray(input.reviews) ? input.reviews : []).map((row) => legacy ? { ...(row as Record<string, unknown>), key: `es:${(row as Record<string, unknown>).id}`, courseSlug: "es" } : row) as unknown as CourseReviewRow[];
+  const result = backupSchema.safeParse(raw);
+  if (!result.success) throw invalidBackup(result.error);
+  const input = result.data;
+  const legacy = input.schemaVersion === 1;
+  const settings = (legacy
+    ? input.settings.map((row) => ({ ...row, value: { selectedCourse: "es" as const, ...row.value } }))
+    : input.settings) as SettingRow[];
+  const progress = (legacy
+    ? input.progress.map((row) => ({ ...row, key: progressKey("es", row.sectionId), courseSlug: "es" as const }))
+    : input.progress) as CourseProgressRow[];
+  const attempts = (legacy
+    ? input.attempts.map((row) => ({ ...row, courseSlug: "es" as const }))
+    : input.attempts) as Attempt[];
+  const reviews = (legacy
+    ? input.reviews.map((row) => ({ ...row, key: progressKey("es", row.id), courseSlug: "es" as const }))
+    : input.reviews) as CourseReviewRow[];
   await db.transaction("rw", db.settings, db.courseProgress, db.courseAttempts, db.courseReviews, async () => {
     await Promise.all([db.settings.clear(), db.courseProgress.clear(), db.courseAttempts.clear(), db.courseReviews.clear()]);
     await db.settings.bulkPut(settings);
