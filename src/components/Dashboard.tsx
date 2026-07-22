@@ -10,6 +10,7 @@ export function Dashboard({ course, progress }: { course: Course; progress: Reco
   const next = course.sections.find((section) => progress[section.id]?.status !== "mastered") ?? course.sections[0];
   const percent = Math.round((mastered / course.sections.length) * 100);
   const currentWeek = next.week;
+  const currentModule = course.modules.find((module) => module.week === currentWeek);
 
   return <div className="page dashboard-page">
     <section className="hero" aria-labelledby="hero-title">
@@ -31,7 +32,7 @@ export function Dashboard({ course, progress }: { course: Course; progress: Reco
     </section>
 
     <section aria-labelledby="now-title">
-      <p className="eyebrow">{spanish ? "Siguiente recomendación" : "Recommended next"}</p><h2 id="now-title">{spanish ? "Semana" : "Week"} {currentWeek}: {course.modules[currentWeek - 1].title}</h2>
+      <p className="eyebrow">{spanish ? "Siguiente recomendación" : "Recommended next"}</p><h2 id="now-title">{spanish ? "Semana" : "Week"} {currentWeek}{currentModule ? `: ${currentModule.title}` : ""}</h2>
       <article className="next-card"><div><span className="badge">{spanish ? "Sección" : "Section"} {next.number} · {next.level}</span><h3>{next.title}</h3><p>{next.objectives.join(" · ")}</p></div><Link className="button primary" to={path(`lesson/${next.id}`)}>{spanish ? "Abrir sección" : "Open section"}</Link></article>
     </section>
 
