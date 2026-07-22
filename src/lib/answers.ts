@@ -1,4 +1,4 @@
-import type { ClozeQuestion, OrderingQuestion, Question } from "../types";
+import type { Question } from "../types";
 
 export function normalizeAnswer(value: string, preserveAccents = true) {
   const normalized = value.normalize("NFC").trim().replace(/[’‘]/g, "'").replace(/\s+/g, " ").toLocaleLowerCase("es");
@@ -38,6 +38,3 @@ function hash(value: string) {
   for (const char of value) result = Math.imul(result ^ char.charCodeAt(0), 16777619);
   return result >>> 0;
 }
-
-export function orderingLabel(question: OrderingQuestion) { return question.answers[0].join(" "); }
-export function clozeHint(question: ClozeQuestion) { return `${question.answer.split(/\s+/).length} word${question.answer.includes(" ") ? "s" : ""}`; }
