@@ -167,7 +167,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Model language. La medida fue aprobada por el consejo. — The measure was approved by the council. Se publicaron los resultados ayer. — The results were published yesterday. Trabajamos para mejorar el acceso. — We work to improve access. El servicio cerró por falta de fondos. — The service closed because of a lack of funding. Se requiere identificación para entrar. — Identification is required to enter.",
+      "text": "Model language. Voy a explicar el funcionamiento de un servicio público. — I am going to explain how a public service works. Explico por qué cambió. — I explain why it changed. Digo quién resulta afectado. — I say who is affected. Uso ejemplos claros para los ciudadanos. — I use clear examples for citizens. Termino con un resumen breve. — I finish with a brief summary.",
       "sentences": [
         {
           "text": "Model language.",
@@ -180,104 +180,104 @@
           "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
         },
         {
-          "text": "La medida fue aprobada por el consejo.",
+          "text": "Voy a explicar el funcionamiento de un servicio público.",
           "segments": [
             {
-              "text": "La medida fue aprobada por el consejo.",
+              "text": "Voy a explicar el funcionamiento de un servicio público.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la meðˈiða fwˈe ˌapɾoβˈaða poɾ el konsˈexo."
+          "phonemes": "bˈoɪ a ˌeksplikˈaɾ el fˌunsjonamjˈɛnto ðe ˈun seɾβˈisjo pˈuβliko."
         },
         {
-          "text": "— The measure was approved by the council.",
+          "text": "— I am going to explain how a public service works.",
           "segments": [
             {
-              "text": "— The measure was approved by the council.",
+              "text": "— I am going to explain how a public service works.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ðə mˈɛʒɚ wʌz ɐpɹˈuːvd baɪ ðə kˈaʊnsəl."
+          "phonemes": "— aɪɐm ɡˌoʊɪŋ tʊ ɛksplˈeɪn hˌaʊ ɐ pˈʌblɪk sˈɜːvɪs wˈɜːks."
         },
         {
-          "text": "Se publicaron los resultados ayer.",
+          "text": "Explico por qué cambió.",
           "segments": [
             {
-              "text": "Se publicaron los resultados ayer.",
+              "text": "Explico por qué cambió.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "se pˌuβlikˈaɾon los rˌesultˈaðos aʝˈeɾ."
+          "phonemes": "eksplˈiko poɾ kˈe kambjˈo."
         },
         {
-          "text": "— The results were published yesterday.",
+          "text": "— I explain why it changed.",
           "segments": [
             {
-              "text": "— The results were published yesterday.",
+              "text": "— I explain why it changed.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ðə ɹɪzˈʌlts wɜː pˈʌblɪʃt jˈɛstɚdˌeɪ."
+          "phonemes": "— aɪ ɛksplˈeɪn wˌaɪ ɪt tʃˈeɪndʒd."
         },
         {
-          "text": "Trabajamos para mejorar el acceso.",
+          "text": "Digo quién resulta afectado.",
           "segments": [
             {
-              "text": "Trabajamos para mejorar el acceso.",
+              "text": "Digo quién resulta afectado.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "tɾˌaβaxˈamos pˌaɾa mˌexoɾˈaɾ el aksˈeso."
+          "phonemes": "dˈiɣo kjˈen resˈulta ˌafektˈaðo."
         },
         {
-          "text": "— We work to improve access.",
+          "text": "— I say who is affected.",
           "segments": [
             {
-              "text": "— We work to improve access.",
+              "text": "— I say who is affected.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— wiː wˈɜːk tʊ ɪmpɹˈuːv ˈæksɛs."
+          "phonemes": "— aɪ sˈeɪ hˌuː ɪz ɐfˈɛktᵻd."
         },
         {
-          "text": "El servicio cerró por falta de fondos.",
+          "text": "Uso ejemplos claros para los ciudadanos.",
           "segments": [
             {
-              "text": "El servicio cerró por falta de fondos.",
+              "text": "Uso ejemplos claros para los ciudadanos.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el seɾβˈisjo serˈo poɾ fˈalta ðe fˈondos."
+          "phonemes": "ˈuso exˈemplos klˈaɾos pˌaɾa los sjˌuðaðˈanos."
         },
         {
-          "text": "— The service closed because of a lack of funding.",
+          "text": "— I use clear examples for citizens.",
           "segments": [
             {
-              "text": "— The service closed because of a lack of funding.",
+              "text": "— I use clear examples for citizens.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ðə sˈɜːvɪs klˈoʊzd bɪkˈʌz əvə lˈæk ʌv fˈʌndɪŋ."
+          "phonemes": "— aɪ jˈuːz klˈɪɹ ɛɡzˈæmpəlz fɔːɹ sˈɪɾɪzənz."
         },
         {
-          "text": "Se requiere identificación para entrar.",
+          "text": "Termino con un resumen breve.",
           "segments": [
             {
-              "text": "Se requiere identificación para entrar.",
+              "text": "Termino con un resumen breve.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "se rekjˈeɾe ˌiðentˌifikasjˈom pˌaɾa entɾˈaɾ."
+          "phonemes": "teɾmˈino kon ˈun resˈumem bɾˈeβe."
         },
         {
-          "text": "— Identification is required to enter.",
+          "text": "— I finish with a brief summary.",
           "segments": [
             {
-              "text": "— Identification is required to enter.",
+              "text": "— I finish with a brief summary.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— aɪdˈɛntɪfɪkˈeɪʃən ɪz ɹᵻkwˈaɪɚd tʊ ˈɛntɚ."
+          "phonemes": "— aɪ fˈɪnɪʃ wɪð ɐ bɹˈiːf sˈʌmɚɹi."
         }
       ]
     },
@@ -329,129 +329,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "por causa de",
+      "text": "explicar",
       "sentences": [
         {
-          "text": "por causa de",
+          "text": "explicar",
           "segments": [
             {
-              "text": "por causa de",
+              "text": "explicar",
               "lang": "es-419"
             }
           ],
-          "phonemes": "poɾ kˈaʊsa ðˈe"
+          "phonemes": "ˌeksplikˈaɾ"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "para lograr",
+      "text": "el funcionamiento",
       "sentences": [
         {
-          "text": "para lograr",
+          "text": "el funcionamiento",
           "segments": [
             {
-              "text": "para lograr",
+              "text": "el funcionamiento",
               "lang": "es-419"
             }
           ],
-          "phonemes": "pˌaɾa loɣɾˈaɾ"
+          "phonemes": "el fˌunsjonamjˈɛnto"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "por medio de",
+      "text": "por qué",
       "sentences": [
         {
-          "text": "por medio de",
+          "text": "por qué",
           "segments": [
             {
-              "text": "por medio de",
+              "text": "por qué",
               "lang": "es-419"
             }
           ],
-          "phonemes": "poɾ mˈeðjo ðˈe"
+          "phonemes": "poɾ kˈe"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "la medida",
+      "text": "cambiar",
       "sentences": [
         {
-          "text": "la medida",
+          "text": "cambiar",
           "segments": [
             {
-              "text": "la medida",
+              "text": "cambiar",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la meðˈiða"
+          "phonemes": "kambjˈaɾ"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "aprobar",
+      "text": "afectar",
       "sentences": [
         {
-          "text": "aprobar",
+          "text": "afectar",
           "segments": [
             {
-              "text": "aprobar",
+              "text": "afectar",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˌapɾoβˈaɾ"
+          "phonemes": "ˌafektˈaɾ"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "publicar",
+      "text": "quién",
       "sentences": [
         {
-          "text": "publicar",
+          "text": "quién",
           "segments": [
             {
-              "text": "publicar",
+              "text": "quién",
               "lang": "es-419"
             }
           ],
-          "phonemes": "pˌuβlikˈaɾ"
+          "phonemes": "kjˈen"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "se requiere",
+      "text": "el ciudadano",
       "sentences": [
         {
-          "text": "se requiere",
+          "text": "el ciudadano",
           "segments": [
             {
-              "text": "se requiere",
+              "text": "el ciudadano",
               "lang": "es-419"
             }
           ],
-          "phonemes": "se rekjˈeɾe"
+          "phonemes": "el sjˌuðaðˈano"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "se permite",
+      "text": "el servicio público",
       "sentences": [
         {
-          "text": "se permite",
+          "text": "el servicio público",
           "segments": [
             {
-              "text": "se permite",
+              "text": "el servicio público",
               "lang": "es-419"
             }
           ],
-          "phonemes": "se peɾmˈite"
+          "phonemes": "el seɾβˈisjo pˈuβliko"
         }
       ]
     }

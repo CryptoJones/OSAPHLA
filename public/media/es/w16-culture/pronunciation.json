@@ -163,7 +163,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Model language. Mañana va a llover en la costa. — It is going to rain on the coast tomorrow. Hace viento en las zonas altas. — It is windy in the highlands. Si cambia el tiempo, regresamos temprano. — If the weather changes, we will return early. Se prohíbe encender fuego en el bosque. — Lighting fires in the forest is prohibited. Estamos protegiendo una fuente de agua. — We are protecting a water source.",
+      "text": "Model language. El clima del mundo hispanohablante es muy diverso. — The climate of the Spanish-speaking world is very diverse. Va del Caribe hasta la Patagonia. — It ranges from the Caribbean to Patagonia. El ecoturismo depende de la biodiversidad local. — Ecotourism depends on local biodiversity. Es fácil caer en una imagen simplificada. — It's easy to fall into an oversimplified image. Mejor evitar generalizar sobre un continente entero. — Better to avoid generalizing about an entire continent.",
       "sentences": [
         {
           "text": "Model language.",
@@ -176,104 +176,104 @@
           "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
         },
         {
-          "text": "Mañana va a llover en la costa.",
+          "text": "El clima del mundo hispanohablante es muy diverso.",
           "segments": [
             {
-              "text": "Mañana va a llover en la costa.",
+              "text": "El clima del mundo hispanohablante es muy diverso.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "maɲˈana βˈa a ʝoβˈeɾ en la kˈosta."
+          "phonemes": "el klˈima ðel mˈundo ˌispanˌoaβlˈante ˈes mˈuj ðiβˈeɾso."
         },
         {
-          "text": "— It is going to rain on the coast tomorrow.",
+          "text": "— The climate of the Spanish-speaking world is very diverse.",
           "segments": [
             {
-              "text": "— It is going to rain on the coast tomorrow.",
+              "text": "— The climate of the Spanish-speaking world is very diverse.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ɪɾ ɪz ɡˌoʊɪŋ tə ɹˈeɪn ɔnðə kˈoʊst təmˈɑːɹoʊ."
+          "phonemes": "— ðə klˈaɪmət ʌvðə spˈænɪʃspˈiːkɪŋ wˈɜːld ɪz vˈɛɹi daɪvˈɜːs."
         },
         {
-          "text": "Hace viento en las zonas altas.",
+          "text": "Va del Caribe hasta la Patagonia.",
           "segments": [
             {
-              "text": "Hace viento en las zonas altas.",
+              "text": "Va del Caribe hasta la Patagonia.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˈase βjˈɛnto en las sˈonas ˈaltas."
+          "phonemes": "bˈa ðel kaɾˈiβe ˌasta la pˌataɣˈonja."
         },
         {
-          "text": "— It is windy in the highlands.",
+          "text": "— It ranges from the Caribbean to Patagonia.",
           "segments": [
             {
-              "text": "— It is windy in the highlands.",
+              "text": "— It ranges from the Caribbean to Patagonia.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ɪɾ ɪz wˈɪndi ɪnðə hˈaɪləndz."
+          "phonemes": "— ɪt ɹˈeɪndʒᵻz fɹʌmðə kˌæɹəbˈiən tə pætˈæɡənˌiə."
         },
         {
-          "text": "Si cambia el tiempo, regresamos temprano.",
+          "text": "El ecoturismo depende de la biodiversidad local.",
           "segments": [
             {
-              "text": "Si cambia el tiempo, regresamos temprano.",
+              "text": "El ecoturismo depende de la biodiversidad local.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "si kˈambja el tjˈempo, rˌeɣɾesˈamos tempɾˈano."
+          "phonemes": "el ˌekotuɾˈismo ðepˈɛnde ðe la βjˌoðiβˌeɾsiðˈad lokˈal."
         },
         {
-          "text": "— If the weather changes, we will return early.",
+          "text": "— Ecotourism depends on local biodiversity.",
           "segments": [
             {
-              "text": "— If the weather changes, we will return early.",
+              "text": "— Ecotourism depends on local biodiversity.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ɪf ðə wˈɛðɚ tʃˈeɪndʒᵻz, wiː wɪl ɹᵻtˈɜːn ˈɜːli."
+          "phonemes": "— ˈɛkətˌʊɹɹɪzəm dᵻpˈɛndz ˌɔn lˈoʊkəl bˌaɪoʊdaɪvˈɜːsᵻɾi."
         },
         {
-          "text": "Se prohíbe encender fuego en el bosque.",
+          "text": "Es fácil caer en una imagen simplificada.",
           "segments": [
             {
-              "text": "Se prohíbe encender fuego en el bosque.",
+              "text": "Es fácil caer en una imagen simplificada.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "se pɾoˈiβe ˌensendˈeɾ fwˈeɣo en el βˈoske."
+          "phonemes": "ˈes fˈasil kaˈeɾ en ˈuna imˈaxen sˌimplifikˈaða."
         },
         {
-          "text": "— Lighting fires in the forest is prohibited.",
+          "text": "— It's easy to fall into an oversimplified image.",
           "segments": [
             {
-              "text": "— Lighting fires in the forest is prohibited.",
+              "text": "— It's easy to fall into an oversimplified image.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— lˈaɪɾɪŋ fˈaɪɚz ɪnðə fˈɔːɹɪst ɪz pɹəhˈɪbɪɾᵻd."
+          "phonemes": "— ɪts ˈiːzi tə fˈɔːl ˌɪntʊ ɐn ˌoʊvɚsˈɪmplᵻfˌaɪd ˈɪmɪdʒ."
         },
         {
-          "text": "Estamos protegiendo una fuente de agua.",
+          "text": "Mejor evitar generalizar sobre un continente entero.",
           "segments": [
             {
-              "text": "Estamos protegiendo una fuente de agua.",
+              "text": "Mejor evitar generalizar sobre un continente entero.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "estˈamos pɾˌotexjˈɛndo ˈuna fwˈɛnte ðe ˈaɣwa."
+          "phonemes": "mexˈoɾ ˌeβitˈaɾ xˌeneɾˌalisˈaɾ sˌoβɾe ˈun kˌontinˈɛnte entˈeɾo."
         },
         {
-          "text": "— We are protecting a water source.",
+          "text": "— Better to avoid generalizing about an entire continent.",
           "segments": [
             {
-              "text": "— We are protecting a water source.",
+              "text": "— Better to avoid generalizing about an entire continent.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— wiː ɑːɹ pɹətˈɛktɪŋ ɐ wˈɔːɾɚ sˈɔːɹs."
+          "phonemes": "— bˈɛɾɚ tʊ ɐvˈɔɪd dʒˈɛnɚɹəlˌaɪzɪŋ ɐbˌaʊt ɐn ɛntˈaɪɚ kˈɑːntɪnənt."
         }
       ]
     },
@@ -325,129 +325,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "el tiempo",
+      "text": "el clima",
       "sentences": [
         {
-          "text": "el tiempo",
+          "text": "el clima",
           "segments": [
             {
-              "text": "el tiempo",
+              "text": "el clima",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el tjˈempo"
+          "phonemes": "el klˈima"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "la lluvia",
+      "text": "diverso",
       "sentences": [
         {
-          "text": "la lluvia",
+          "text": "diverso",
           "segments": [
             {
-              "text": "la lluvia",
+              "text": "diverso",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la ʝˈuβja"
+          "phonemes": "diβˈeɾso"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "el viento",
+      "text": "el ecoturismo",
       "sentences": [
         {
-          "text": "el viento",
+          "text": "el ecoturismo",
           "segments": [
             {
-              "text": "el viento",
+              "text": "el ecoturismo",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el βjˈɛnto"
+          "phonemes": "el ˌekotuɾˈismo"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "la montaña",
+      "text": "la biodiversidad",
       "sentences": [
         {
-          "text": "la montaña",
+          "text": "la biodiversidad",
           "segments": [
             {
-              "text": "la montaña",
+              "text": "la biodiversidad",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la montˈaɲa"
+          "phonemes": "la βjˌoðiβˌeɾsiðˈad"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "el bosque",
+      "text": "la imagen simplificada",
       "sentences": [
         {
-          "text": "el bosque",
+          "text": "la imagen simplificada",
           "segments": [
             {
-              "text": "el bosque",
+              "text": "la imagen simplificada",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el βˈoske"
+          "phonemes": "la imˈaxen sˌimplifikˈaða"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "la costa",
+      "text": "generalizar",
       "sentences": [
         {
-          "text": "la costa",
+          "text": "generalizar",
           "segments": [
             {
-              "text": "la costa",
+              "text": "generalizar",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la kˈosta"
+          "phonemes": "xˌeneɾˌalisˈaɾ"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "la sequía",
+      "text": "el hemisferio",
       "sentences": [
         {
-          "text": "la sequía",
+          "text": "el hemisferio",
           "segments": [
             {
-              "text": "la sequía",
+              "text": "el hemisferio",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la sekˈia"
+          "phonemes": "el ˌemisfˈeɾjo"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "proteger",
+      "text": "extremo",
       "sentences": [
         {
-          "text": "proteger",
+          "text": "extremo",
           "segments": [
             {
-              "text": "proteger",
+              "text": "extremo",
               "lang": "es-419"
             }
           ],
-          "phonemes": "pɾˌotexˈeɾ"
+          "phonemes": "ekstɾˈemo"
         }
       ]
     }

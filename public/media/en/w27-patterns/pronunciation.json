@@ -29,7 +29,7 @@
     },
     {
       "file": "01.wav",
-      "text": "Forma y significado. Must, have to, should, ought to, may y might; verbo base en recomendaciones formales; grados de certeza y fuerza.",
+      "text": "Forma y significado. Aplicación de la forma. Después de recommend/require/it's necessary that, usa el verbo en su forma base (I recommend that he review); should/ought to dan consejo y may/might expresan posibilidad.",
       "sentences": [
         {
           "text": "Forma y significado.",
@@ -42,22 +42,36 @@
           "phonemes": "fˈoɾma i sˌiɡnifikˈaðo."
         },
         {
-          "text": "Must, have to, should, ought to, may y might; verbo base en recomendaciones formales; grados de certeza y fuerza.",
+          "text": "Aplicación de la forma.",
           "segments": [
             {
-              "text": "Must",
-              "lang": "en-us"
-            },
+              "text": "Aplicación de la forma.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˌaplikasjˈon de la fˈoɾma."
+        },
+        {
+          "text": "Después de recommend/require/it's necessary that, usa el verbo en su forma base (I recommend that he review); should/ought to dan consejo y may/might expresan posibilidad.",
+          "segments": [
             {
-              "text": ", ",
+              "text": "Después de recommend/require/",
               "lang": "es-419"
             },
             {
-              "text": "have to",
+              "text": "it's necessary that",
               "lang": "en-us"
             },
             {
-              "text": ", ",
+              "text": ", usa el verbo en su forma base (",
+              "lang": "es-419"
+            },
+            {
+              "text": "I recommend that",
+              "lang": "en-us"
+            },
+            {
+              "text": " he review); ",
               "lang": "es-419"
             },
             {
@@ -65,7 +79,7 @@
               "lang": "en-us"
             },
             {
-              "text": ", ",
+              "text": "/",
               "lang": "es-419"
             },
             {
@@ -73,7 +87,7 @@
               "lang": "en-us"
             },
             {
-              "text": ", ",
+              "text": " dan consejo y ",
               "lang": "es-419"
             },
             {
@@ -81,7 +95,7 @@
               "lang": "en-us"
             },
             {
-              "text": " y ",
+              "text": "/",
               "lang": "es-419"
             },
             {
@@ -89,17 +103,17 @@
               "lang": "en-us"
             },
             {
-              "text": "; verbo base en recomendaciones formales; grados de certeza y fuerza.",
+              "text": " expresan posibilidad.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "mˈʌst , hˈæv tuː , ʃˈʊd , ˈɔːt tuː , mˈeɪ i mˈaɪt ; bˈeɾβo βˈase en rˌekomˌendasjˈones foɾmˈales; ɡɾˈaðos ðe seɾtˈesa i fwˈeɾsa."
+          "phonemes": "despwˈes ðe rˌekommˈɛnd βˈara rekˈiɾe βˈara ɪts nˈɛsᵻsɚɹi ðˈæt , ˈusa el βˈeɾβo en su fˈoɾma βˈase ( aɪ ɹˌɛkəmˈɛnd ðˈæt ˈe reβjˈew); ʃˈʊd bˈara ˈɔːt tuː dˈan konsˈexo i mˈeɪ bˈara mˈaɪt ekspɾˈesam pˌosiβˌiliðˈad."
         }
       ]
     },
     {
       "file": "02.wav",
-      "text": "Conjunto de modelos. I recommend that you review the data. Residents have to participate. I'm glad you're here. The director asked us to arrive early. They might find a fair solution. Recomiendo que revises los datos. Los residentes tienen que participar. Me alegra que estés aquí. La directora nos pidió llegar temprano. Quizá encuentren una solución justa.",
+      "text": "Conjunto de modelos. I recommend that you review the data. It's necessary that residents participate. I'm glad you're here. The director asked that we arrive early. They might find a fair solution. Recomiendo que revises los datos. Es necesario que los residentes participen. Me alegra que estés aquí. La directora pidió que llegáramos temprano. Quizá encuentren una solución justa.",
       "sentences": [
         {
           "text": "Conjunto de modelos.",
@@ -122,14 +136,14 @@
           "phonemes": "aɪ ɹˌɛkəmˈɛnd ðæt juː ɹᵻvjˈuː ðə dˈeɪɾə."
         },
         {
-          "text": "Residents have to participate.",
+          "text": "It's necessary that residents participate.",
           "segments": [
             {
-              "text": "Residents have to participate.",
+              "text": "It's necessary that residents participate.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɹˈɛzᵻdənts hæv tə pɑːɹtˈɪsᵻpˌeɪt."
+          "phonemes": "ɪts nˈɛsᵻsɚɹi ðæt ɹˈɛzᵻdənts pɑːɹtˈɪsᵻpˌeɪt."
         },
         {
           "text": "I'm glad you're here.",
@@ -142,14 +156,14 @@
           "phonemes": "aɪm ɡlˈæd jʊɹ hˈɪɹ."
         },
         {
-          "text": "The director asked us to arrive early.",
+          "text": "The director asked that we arrive early.",
           "segments": [
             {
-              "text": "The director asked us to arrive early.",
+              "text": "The director asked that we arrive early.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə dᵻɹˈɛktɚɹ ˈæskt ˌʌs tʊ ɚɹˈaɪv ˈɜːli."
+          "phonemes": "ðə dᵻɹˈɛktɚɹ ˈæskt ðæt wiː ɚɹˈaɪv ˈɜːli."
         },
         {
           "text": "They might find a fair solution.",
@@ -172,14 +186,14 @@
           "phonemes": "rˌekomjˈɛndo ke reβˈises los ðˈatos."
         },
         {
-          "text": "Los residentes tienen que participar.",
+          "text": "Es necesario que los residentes participen.",
           "segments": [
             {
-              "text": "Los residentes tienen que participar.",
+              "text": "Es necesario que los residentes participen.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "los rˌesiðˈɛntes tjˈenen ke pˌaɾtisipˈaɾ."
+          "phonemes": "ˈes nˌesesˈaɾjo ke los rˌesiðˈɛntes pˌaɾtisˈipen."
         },
         {
           "text": "Me alegra que estés aquí.",
@@ -192,14 +206,14 @@
           "phonemes": "me alˈeɣɾa ke estˈes akˈi."
         },
         {
-          "text": "La directora nos pidió llegar temprano.",
+          "text": "La directora pidió que llegáramos temprano.",
           "segments": [
             {
-              "text": "La directora nos pidió llegar temprano.",
+              "text": "La directora pidió que llegáramos temprano.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la ðˌiɾektˈoɾa nos piðjˈo ʝeɣˈaɾ tempɾˈano."
+          "phonemes": "la ðˌiɾektˈoɾa piðjˈo ke ʝeɣˈaɾamos tempɾˈano."
         },
         {
           "text": "Quizá encuentren una solución justa.",
@@ -277,7 +291,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Lenguaje modelo. I recommend that you review the data. — Recomiendo que revises los datos. Residents have to participate. — Los residentes tienen que participar. I'm glad you're here. — Me alegra que estés aquí. The director asked us to arrive early. — La directora nos pidió llegar temprano. They might find a fair solution. — Quizá encuentren una solución justa.",
+      "text": "Lenguaje modelo. I recommend that you review the data. — Recomiendo que revises los datos. It's necessary that residents participate. — Es necesario que los residentes participen. I'm glad you're here. — Me alegra que estés aquí. The director asked that we arrive early. — La directora pidió que llegáramos temprano. They might find a fair solution. — Quizá encuentren una solución justa.",
       "sentences": [
         {
           "text": "Lenguaje modelo.",
@@ -310,24 +324,24 @@
           "phonemes": "— rˌekomjˈɛndo ke reβˈises los ðˈatos."
         },
         {
-          "text": "Residents have to participate.",
+          "text": "It's necessary that residents participate.",
           "segments": [
             {
-              "text": "Residents have to participate.",
+              "text": "It's necessary that residents participate.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɹˈɛzᵻdənts hæv tə pɑːɹtˈɪsᵻpˌeɪt."
+          "phonemes": "ɪts nˈɛsᵻsɚɹi ðæt ɹˈɛzᵻdənts pɑːɹtˈɪsᵻpˌeɪt."
         },
         {
-          "text": "— Los residentes tienen que participar.",
+          "text": "— Es necesario que los residentes participen.",
           "segments": [
             {
-              "text": "— Los residentes tienen que participar.",
+              "text": "— Es necesario que los residentes participen.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— los rˌesiðˈɛntes tjˈenen ke pˌaɾtisipˈaɾ."
+          "phonemes": "— ˈes nˌesesˈaɾjo ke los rˌesiðˈɛntes pˌaɾtisˈipen."
         },
         {
           "text": "I'm glad you're here.",
@@ -350,24 +364,24 @@
           "phonemes": "— me alˈeɣɾa ke estˈes akˈi."
         },
         {
-          "text": "The director asked us to arrive early.",
+          "text": "The director asked that we arrive early.",
           "segments": [
             {
-              "text": "The director asked us to arrive early.",
+              "text": "The director asked that we arrive early.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə dᵻɹˈɛktɚɹ ˈæskt ˌʌs tʊ ɚɹˈaɪv ˈɜːli."
+          "phonemes": "ðə dᵻɹˈɛktɚɹ ˈæskt ðæt wiː ɚɹˈaɪv ˈɜːli."
         },
         {
-          "text": "— La directora nos pidió llegar temprano.",
+          "text": "— La directora pidió que llegáramos temprano.",
           "segments": [
             {
-              "text": "— La directora nos pidió llegar temprano.",
+              "text": "— La directora pidió que llegáramos temprano.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— la ðˌiɾektˈoɾa nos piðjˈo ʝeɣˈaɾ tempɾˈano."
+          "phonemes": "— la ðˌiɾektˈoɾa piðjˈo ke ʝeɣˈaɾamos tempɾˈano."
         },
         {
           "text": "They might find a fair solution.",
@@ -439,129 +453,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "to recommend",
+      "text": "I recommend that",
       "sentences": [
         {
-          "text": "to recommend",
+          "text": "I recommend that",
           "segments": [
             {
-              "text": "to recommend",
+              "text": "I recommend that",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə ɹˌɛkəmˈɛnd"
+          "phonemes": "aɪ ɹˌɛkəmˈɛnd ðˈæt"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "necessary",
+      "text": "it's necessary that",
       "sentences": [
         {
-          "text": "necessary",
+          "text": "it's necessary that",
           "segments": [
             {
-              "text": "necessary",
+              "text": "it's necessary that",
               "lang": "en-us"
             }
           ],
-          "phonemes": "nˈɛsᵻsɚɹi"
+          "phonemes": "ɪts nˈɛsᵻsɚɹi ðˈæt"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "required",
+      "text": "the base verb",
       "sentences": [
         {
-          "text": "required",
+          "text": "the base verb",
           "segments": [
             {
-              "text": "required",
+              "text": "the base verb",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɹᵻkwˈaɪɚd"
+          "phonemes": "ðə bˈeɪs vˈɜːb"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "possible",
+      "text": "a formal recommendation",
       "sentences": [
         {
-          "text": "possible",
+          "text": "a formal recommendation",
           "segments": [
             {
-              "text": "possible",
+              "text": "a formal recommendation",
               "lang": "en-us"
             }
           ],
-          "phonemes": "pˈɑːsᵻbəl"
+          "phonemes": "ɐ fˈɔːɹməl ɹˌɛkəmɛndˈeɪʃən"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "a rule",
+      "text": "should",
       "sentences": [
         {
-          "text": "a rule",
+          "text": "should",
           "segments": [
             {
-              "text": "a rule",
+              "text": "should",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ ɹˈuːl"
+          "phonemes": "ʃˈʊd"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "advice",
+      "text": "ought to",
       "sentences": [
         {
-          "text": "advice",
+          "text": "ought to",
           "segments": [
             {
-              "text": "advice",
+              "text": "ought to",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐdvˈaɪs"
+          "phonemes": "ˈɔːt tuː"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "permission",
+      "text": "may (permission)",
       "sentences": [
         {
-          "text": "permission",
+          "text": "may (permission)",
           "segments": [
             {
-              "text": "permission",
+              "text": "may (permission)",
               "lang": "en-us"
             }
           ],
-          "phonemes": "pɚmˈɪʃən"
+          "phonemes": "mˈeɪ (pɚmˈɪʃən)"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "a solution",
+      "text": "might (possibility)",
       "sentences": [
         {
-          "text": "a solution",
+          "text": "might (possibility)",
           "segments": [
             {
-              "text": "a solution",
+              "text": "might (possibility)",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ səlˈuːʃən"
+          "phonemes": "mˈaɪt (pˌɑːsəbˈɪlᵻɾi)"
         }
       ]
     }

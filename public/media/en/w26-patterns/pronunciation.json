@@ -29,7 +29,7 @@
     },
     {
       "file": "01.wav",
-      "text": "Forma y significado. Condicional cero, primero y segundo; would/could para cortesía; consecuencias reales e hipotéticas.",
+      "text": "Forma y significado. Aplicación de la forma. Would + verbo base forma el condicional; could suaviza una petición; el discurso indirecto cambia will por would.",
       "sentences": [
         {
           "text": "Forma y significado.",
@@ -42,18 +42,24 @@
           "phonemes": "fˈoɾma i sˌiɡnifikˈaðo."
         },
         {
-          "text": "Condicional cero, primero y segundo; would/could para cortesía; consecuencias reales e hipotéticas.",
+          "text": "Aplicación de la forma.",
           "segments": [
             {
-              "text": "Condicional cero, primero y segundo; ",
+              "text": "Aplicación de la forma.",
               "lang": "es-419"
-            },
+            }
+          ],
+          "phonemes": "ˌaplikasjˈon de la fˈoɾma."
+        },
+        {
+          "text": "Would + verbo base forma el condicional; could suaviza una petición; el discurso indirecto cambia will por would.",
+          "segments": [
             {
-              "text": "would",
+              "text": "Would",
               "lang": "en-us"
             },
             {
-              "text": "/",
+              "text": " + verbo base forma el condicional; ",
               "lang": "es-419"
             },
             {
@@ -61,17 +67,33 @@
               "lang": "en-us"
             },
             {
-              "text": " para cortesía; consecuencias reales e hipotéticas.",
+              "text": " suaviza una petición; el discurso indirecto cambia ",
+              "lang": "es-419"
+            },
+            {
+              "text": "will",
+              "lang": "en-us"
+            },
+            {
+              "text": " por ",
+              "lang": "es-419"
+            },
+            {
+              "text": "would",
+              "lang": "en-us"
+            },
+            {
+              "text": ".",
               "lang": "es-419"
             }
           ],
-          "phonemes": "kˌondisjonˈal sˈeɾo, pɾimˈeɾo i seɣˈundo; wˈʊd bˈara kˈʊd pˌaɾa kˌoɾtesˈia; kˌonsekwˈɛnsjas reˈales e ˌipotˈetikas."
+          "phonemes": "wˈʊd mˈas βˈeɾβo βˈase fˈoɾma el kˌondisjonˈal; kˈʊd swaβˈisa ˈuna pˌetisjˈon; el ðiskˈuɾso ˌindiɾˈekto kˈambja wˈɪl pˈoɾ wˈʊd ."
         }
       ]
     },
     {
       "file": "02.wav",
-      "text": "Conjunto de modelos. I would choose the second option. Could you send me the details? The change would reduce the risk. If we waited, we would have more evidence. On the other hand, that plan would cost too much. Elegiría la segunda opción. ¿Podrías enviarme los detalles? El cambio reduciría el riesgo. Si esperáramos, tendríamos más evidencia. Por otra parte, ese plan costaría demasiado.",
+      "text": "Conjunto de modelos. I would do the same. I would have more time if I worked less. Could you help me, please? He said he would come tomorrow. I would say yes, but I'm not sure. Yo haría lo mismo. Tendría más tiempo si trabajara menos. ¿Podrías ayudarme, por favor? Dijo que vendría mañana. Diría que sí, pero no estoy seguro.",
       "sentences": [
         {
           "text": "Conjunto de modelos.",
@@ -84,104 +106,104 @@
           "phonemes": "koŋxˈunto ðe moðˈelos."
         },
         {
-          "text": "I would choose the second option.",
+          "text": "I would do the same.",
           "segments": [
             {
-              "text": "I would choose the second option.",
+              "text": "I would do the same.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪ wʊd tʃˈuːz ðə sˈɛkənd ˈɑːpʃən."
+          "phonemes": "aɪ wʊd dˈuː ðə sˈeɪm."
         },
         {
-          "text": "Could you send me the details?",
+          "text": "I would have more time if I worked less.",
           "segments": [
             {
-              "text": "Could you send me the details?",
+              "text": "I would have more time if I worked less.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "kʊd juː sˈɛnd mˌiː ðə diːtˈeɪlz?"
+          "phonemes": "aɪ wʊdhɐv mˈɔːɹ tˈaɪm ɪf aɪ wˈɜːkt lˈɛs."
         },
         {
-          "text": "The change would reduce the risk.",
+          "text": "Could you help me, please?",
           "segments": [
             {
-              "text": "The change would reduce the risk.",
+              "text": "Could you help me, please?",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə tʃˈeɪndʒ wʊd ɹᵻdˈuːs ðə ɹˈɪsk."
+          "phonemes": "kʊd juː hˈɛlp mˌiː, plˈiːz?"
         },
         {
-          "text": "If we waited, we would have more evidence.",
+          "text": "He said he would come tomorrow.",
           "segments": [
             {
-              "text": "If we waited, we would have more evidence.",
+              "text": "He said he would come tomorrow.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɪf wiː wˈeɪɾᵻd, wiː wʊdhɐv mˈɔːɹ ˈɛvɪdəns."
+          "phonemes": "hiː sˈɛd hiː wʊd kˈʌm təmˈɑːɹoʊ."
         },
         {
-          "text": "On the other hand, that plan would cost too much.",
+          "text": "I would say yes, but I'm not sure.",
           "segments": [
             {
-              "text": "On the other hand, that plan would cost too much.",
+              "text": "I would say yes, but I'm not sure.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɔnðɪ ˈʌðɚ hˈænd, ðæt plˈæn wʊd kˈɔst tˈuː mʌtʃ."
+          "phonemes": "aɪ wʊd sˈeɪ jˈɛs, bˌʌt aɪm nˌɑːt ʃˈʊɹ."
         },
         {
-          "text": "Elegiría la segunda opción.",
+          "text": "Yo haría lo mismo.",
           "segments": [
             {
-              "text": "Elegiría la segunda opción.",
+              "text": "Yo haría lo mismo.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˌelexiɾˈia la seɣˈunda opsjˈon."
+          "phonemes": "ʝˈo aɾˈia lo mˈismo."
         },
         {
-          "text": "¿Podrías enviarme los detalles?",
+          "text": "Tendría más tiempo si trabajara menos.",
           "segments": [
             {
-              "text": "¿Podrías enviarme los detalles?",
+              "text": "Tendría más tiempo si trabajara menos.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "poðɾˈias embjˈaɾme los ðetˈajjes?"
+          "phonemes": "tendɾˈia mˈas tjˈempo si tɾˌaβaxˈaɾa mˈenos."
         },
         {
-          "text": "El cambio reduciría el riesgo.",
+          "text": "¿Podrías ayudarme, por favor?",
           "segments": [
             {
-              "text": "El cambio reduciría el riesgo.",
+              "text": "¿Podrías ayudarme, por favor?",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el kˈambjo rˌeðusiɾˈia el riˈesɣo."
+          "phonemes": "poðɾˈias ˌaʝuðˈaɾme, poɾ faβˈoɾ?"
         },
         {
-          "text": "Si esperáramos, tendríamos más evidencia.",
+          "text": "Dijo que vendría mañana.",
           "segments": [
             {
-              "text": "Si esperáramos, tendríamos más evidencia.",
+              "text": "Dijo que vendría mañana.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "si ˌespeɾˈaɾamos, tendɾˈiamos mˈas ˌeβiðˈɛnsja."
+          "phonemes": "dˈixo ke βendɾˈia maɲˈana."
         },
         {
-          "text": "Por otra parte, ese plan costaría demasiado.",
+          "text": "Diría que sí, pero no estoy seguro.",
           "segments": [
             {
-              "text": "Por otra parte, ese plan costaría demasiado.",
+              "text": "Diría que sí, pero no estoy seguro.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "poɾ ˈotɾa pˈaɾte, ˈese plˈan kˌostaɾˈia ðˌemasjˈaðo."
+          "phonemes": "diɾˈia ke sˈi, pˌeɾo nˈo estˈoɪ seɣˈuɾo."
         }
       ]
     },
@@ -249,7 +271,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Lenguaje modelo. I would choose the second option. — Elegiría la segunda opción. Could you send me the details? — ¿Podrías enviarme los detalles? The change would reduce the risk. — El cambio reduciría el riesgo. If we waited, we would have more evidence. — Si esperáramos, tendríamos más evidencia. On the other hand, that plan would cost too much. — Por otra parte, ese plan costaría demasiado.",
+      "text": "Lenguaje modelo. I would do the same. — Yo haría lo mismo. I would have more time if I worked less. — Tendría más tiempo si trabajara menos. Could you help me, please? — ¿Podrías ayudarme, por favor? He said he would come tomorrow. — Dijo que vendría mañana. I would say yes, but I'm not sure. — Diría que sí, pero no estoy seguro.",
       "sentences": [
         {
           "text": "Lenguaje modelo.",
@@ -262,104 +284,104 @@
           "phonemes": "leŋɡwˈaxe moðˈelo."
         },
         {
-          "text": "I would choose the second option.",
+          "text": "I would do the same.",
           "segments": [
             {
-              "text": "I would choose the second option.",
+              "text": "I would do the same.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪ wʊd tʃˈuːz ðə sˈɛkənd ˈɑːpʃən."
+          "phonemes": "aɪ wʊd dˈuː ðə sˈeɪm."
         },
         {
-          "text": "— Elegiría la segunda opción.",
+          "text": "— Yo haría lo mismo.",
           "segments": [
             {
-              "text": "— Elegiría la segunda opción.",
+              "text": "— Yo haría lo mismo.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— ˌelexiɾˈia la seɣˈunda opsjˈon."
+          "phonemes": "— ʝˈo aɾˈia lo mˈismo."
         },
         {
-          "text": "Could you send me the details?",
+          "text": "I would have more time if I worked less.",
           "segments": [
             {
-              "text": "Could you send me the details?",
+              "text": "I would have more time if I worked less.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "kʊd juː sˈɛnd mˌiː ðə diːtˈeɪlz?"
+          "phonemes": "aɪ wʊdhɐv mˈɔːɹ tˈaɪm ɪf aɪ wˈɜːkt lˈɛs."
         },
         {
-          "text": "— ¿Podrías enviarme los detalles?",
+          "text": "— Tendría más tiempo si trabajara menos.",
           "segments": [
             {
-              "text": "— ¿Podrías enviarme los detalles?",
+              "text": "— Tendría más tiempo si trabajara menos.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— poðɾˈias embjˈaɾme los ðetˈajjes?"
+          "phonemes": "— tendɾˈia mˈas tjˈempo si tɾˌaβaxˈaɾa mˈenos."
         },
         {
-          "text": "The change would reduce the risk.",
+          "text": "Could you help me, please?",
           "segments": [
             {
-              "text": "The change would reduce the risk.",
+              "text": "Could you help me, please?",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə tʃˈeɪndʒ wʊd ɹᵻdˈuːs ðə ɹˈɪsk."
+          "phonemes": "kʊd juː hˈɛlp mˌiː, plˈiːz?"
         },
         {
-          "text": "— El cambio reduciría el riesgo.",
+          "text": "— ¿Podrías ayudarme, por favor?",
           "segments": [
             {
-              "text": "— El cambio reduciría el riesgo.",
+              "text": "— ¿Podrías ayudarme, por favor?",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— el kˈambjo rˌeðusiɾˈia el riˈesɣo."
+          "phonemes": "— poðɾˈias ˌaʝuðˈaɾme, poɾ faβˈoɾ?"
         },
         {
-          "text": "If we waited, we would have more evidence.",
+          "text": "He said he would come tomorrow.",
           "segments": [
             {
-              "text": "If we waited, we would have more evidence.",
+              "text": "He said he would come tomorrow.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɪf wiː wˈeɪɾᵻd, wiː wʊdhɐv mˈɔːɹ ˈɛvɪdəns."
+          "phonemes": "hiː sˈɛd hiː wʊd kˈʌm təmˈɑːɹoʊ."
         },
         {
-          "text": "— Si esperáramos, tendríamos más evidencia.",
+          "text": "— Dijo que vendría mañana.",
           "segments": [
             {
-              "text": "— Si esperáramos, tendríamos más evidencia.",
+              "text": "— Dijo que vendría mañana.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— si ˌespeɾˈaɾamos, tendɾˈiamos mˈas ˌeβiðˈɛnsja."
+          "phonemes": "— dˈixo ke βendɾˈia maɲˈana."
         },
         {
-          "text": "On the other hand, that plan would cost too much.",
+          "text": "I would say yes, but I'm not sure.",
           "segments": [
             {
-              "text": "On the other hand, that plan would cost too much.",
+              "text": "I would say yes, but I'm not sure.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɔnðɪ ˈʌðɚ hˈænd, ðæt plˈæn wʊd kˈɔst tˈuː mʌtʃ."
+          "phonemes": "aɪ wʊd sˈeɪ jˈɛs, bˌʌt aɪm nˌɑːt ʃˈʊɹ."
         },
         {
-          "text": "— Por otra parte, ese plan costaría demasiado.",
+          "text": "— Diría que sí, pero no estoy seguro.",
           "segments": [
             {
-              "text": "— Por otra parte, ese plan costaría demasiado.",
+              "text": "— Diría que sí, pero no estoy seguro.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— poɾ ˈotɾa pˈaɾte, ˈese plˈan kˌostaɾˈia ðˌemasjˈaðo."
+          "phonemes": "— diɾˈia ke sˈi, pˌeɾo nˈo estˈoɪ seɣˈuɾo."
         }
       ]
     },
@@ -411,129 +433,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "if",
+      "text": "I would",
       "sentences": [
         {
-          "text": "if",
+          "text": "I would",
           "segments": [
             {
-              "text": "if",
+              "text": "I would",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɪf"
+          "phonemes": "aɪ wˈʊd"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "unless",
+      "text": "I would have",
       "sentences": [
         {
-          "text": "unless",
+          "text": "I would have",
           "segments": [
             {
-              "text": "unless",
+              "text": "I would have",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ʌnlˈɛs"
+          "phonemes": "aɪ wˈʊdhæv"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "would",
+      "text": "could you...?",
       "sentences": [
         {
-          "text": "would",
+          "text": "could you...?",
           "segments": [
             {
-              "text": "would",
+              "text": "could you...?",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wˈʊd"
+          "phonemes": "kˈʊd juː...?"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "could",
+      "text": "he said he would",
       "sentences": [
         {
-          "text": "could",
+          "text": "he said he would",
           "segments": [
             {
-              "text": "could",
+              "text": "he said he would",
               "lang": "en-us"
             }
           ],
-          "phonemes": "kˈʊd"
+          "phonemes": "hiː sˈɛd hiː wˈʊd"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "an option",
+      "text": "a hypothetical result",
       "sentences": [
         {
-          "text": "an option",
+          "text": "a hypothetical result",
           "segments": [
             {
-              "text": "an option",
+              "text": "a hypothetical result",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐn ˈɑːpʃən"
+          "phonemes": "ɐ hˌaɪpəθˈɛɾɪkəl ɹɪzˈʌlt"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "a risk",
+      "text": "a polite request",
       "sentences": [
         {
-          "text": "a risk",
+          "text": "a polite request",
           "segments": [
             {
-              "text": "a risk",
+              "text": "a polite request",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ ɹˈɪsk"
+          "phonemes": "ɐ pəlˈaɪt ɹᵻkwˈɛst"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "a consequence",
+      "text": "an irregular stem",
       "sentences": [
         {
-          "text": "a consequence",
+          "text": "an irregular stem",
           "segments": [
             {
-              "text": "a consequence",
+              "text": "an irregular stem",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ kˈɑːnsɪkwəns"
+          "phonemes": "ɐn ɪɹˈɛɡjʊlɚ stˈɛm"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "on the other hand",
+      "text": "reported speech",
       "sentences": [
         {
-          "text": "on the other hand",
+          "text": "reported speech",
           "segments": [
             {
-              "text": "on the other hand",
+              "text": "reported speech",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɔnðɪ ˈʌðɚ hˈænd"
+          "phonemes": "ɹᵻpˈɔːɹɾᵻd spˈiːtʃ"
         }
       ]
     }

@@ -29,7 +29,7 @@
     },
     {
       "file": "01.wav",
-      "text": "Form and meaning. Tú, usted, ustedes, and nosotros commands; pronoun placement; negative commands; deber and conviene.",
+      "text": "Form and meaning. Applying the form. Tú commands use the usted-form for negative (no compartas) but a special affirmative form; usted/ustedes commands use the opposite-vowel ending; nosotros commands mean let's.",
       "sentences": [
         {
           "text": "Form and meaning.",
@@ -42,14 +42,24 @@
           "phonemes": "fˈɔːɹm ænd mˈiːnɪŋ."
         },
         {
-          "text": "Tú, usted, ustedes, and nosotros commands; pronoun placement; negative commands; deber and conviene.",
+          "text": "Applying the form.",
+          "segments": [
+            {
+              "text": "Applying the form.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɐplˈaɪɪŋ ðə fˈɔːɹm."
+        },
+        {
+          "text": "Tú commands use the usted-form for negative (no compartas) but a special affirmative form; usted/ustedes commands use the opposite-vowel ending; nosotros commands mean let's.",
           "segments": [
             {
               "text": "Tú",
               "lang": "es-419"
             },
             {
-              "text": ", ",
+              "text": " commands use the ",
               "lang": "en-us"
             },
             {
@@ -57,7 +67,23 @@
               "lang": "es-419"
             },
             {
-              "text": ", ",
+              "text": "-form for negative (",
+              "lang": "en-us"
+            },
+            {
+              "text": "no compartas",
+              "lang": "es-419"
+            },
+            {
+              "text": ") but a special affirmative form; ",
+              "lang": "en-us"
+            },
+            {
+              "text": "usted",
+              "lang": "es-419"
+            },
+            {
+              "text": "/",
               "lang": "en-us"
             },
             {
@@ -65,7 +91,7 @@
               "lang": "es-419"
             },
             {
-              "text": ", and ",
+              "text": " commands use the opposite-vowel ending; ",
               "lang": "en-us"
             },
             {
@@ -73,25 +99,17 @@
               "lang": "es-419"
             },
             {
-              "text": " commands; pronoun placement; negative commands; ",
-              "lang": "en-us"
-            },
-            {
-              "text": "deber",
-              "lang": "es-419"
-            },
-            {
-              "text": " and conviene.",
+              "text": " commands mean let's.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tˈu , ustˈed , ustˈeðes , ænd nosˈotɾos kəmˈændz; pɹˈoʊnaʊn plˈeɪsmənt; nˈɛɡətˌɪv kəmˈændz; deβˈeɾ ænd kənvˈiən."
+          "phonemes": "tˈu kəmˈændz jˈuːs ðə ustˈed fˈɔːɹm fɔːɹ nˈɛɡətˌɪv ( nˈo kompˈaɾtas ) bˌʌt ɐ spˈɛʃəl ɐfˈɜːmətˌɪv fˈɔːɹm; ustˈed slˈæʃ ustˈeðes kəmˈændz jˈuːs ðɪ ˈɑːpəzˌɪtvˈaʊəl ˈɛndɪŋ; nosˈotɾos kəmˈændz mˈiːn lˈɛts."
         }
       ]
     },
     {
       "file": "02.wav",
-      "text": "Model set. Apague el equipo antes de abrirlo. No compartas esa contraseña. Asegúrense de guardar una copia. Comprobemos los datos otra vez. Conviene evitar este camino de noche. Turn off the equipment before opening it. Do not share that password. Make sure you save a copy. Let's check the data again. It is advisable to avoid this road at night.",
+      "text": "Model set. Apaga la luz, por favor. Apague el sistema con cuidado. Apaguen todos los equipos. Apaguemos las pantallas antes de salir. No compartas la contraseña. Turn off the light, please. Turn off the system carefully. Turn off all the equipment. Let's turn off the screens before leaving. Don't share the password.",
       "sentences": [
         {
           "text": "Model set.",
@@ -104,104 +122,104 @@
           "phonemes": "mˈɑːdəl sˈɛt."
         },
         {
-          "text": "Apague el equipo antes de abrirlo.",
+          "text": "Apaga la luz, por favor.",
           "segments": [
             {
-              "text": "Apague el equipo antes de abrirlo.",
+              "text": "Apaga la luz, por favor.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "apˈaɣe el ekˈipo ˈantes ðe aβɾˈiɾlo."
+          "phonemes": "apˈaɣa la lˈus, poɾ faβˈoɾ."
         },
         {
-          "text": "No compartas esa contraseña.",
+          "text": "Apague el sistema con cuidado.",
           "segments": [
             {
-              "text": "No compartas esa contraseña.",
+              "text": "Apague el sistema con cuidado.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "nˈo kompˈaɾtas ˈesa kˌontɾasˈeɲa."
+          "phonemes": "apˈaɣe el sistˈema kon kwiðˈaðo."
         },
         {
-          "text": "Asegúrense de guardar una copia.",
+          "text": "Apaguen todos los equipos.",
           "segments": [
             {
-              "text": "Asegúrense de guardar una copia.",
+              "text": "Apaguen todos los equipos.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˌaseɣˈuɾense ðe ɣwaɾðˈaɾ ˈuna kˈopja."
+          "phonemes": "apˈaɣen tˈoðos los ekˈipos."
         },
         {
-          "text": "Comprobemos los datos otra vez.",
+          "text": "Apaguemos las pantallas antes de salir.",
           "segments": [
             {
-              "text": "Comprobemos los datos otra vez.",
+              "text": "Apaguemos las pantallas antes de salir.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "kˌompɾoβˈemos los ðˈatos ˈotɾa βˈes."
+          "phonemes": "ˌapaɣˈemos las pantˈajjas ˈantes ðe salˈiɾ."
         },
         {
-          "text": "Conviene evitar este camino de noche.",
+          "text": "No compartas la contraseña.",
           "segments": [
             {
-              "text": "Conviene evitar este camino de noche.",
+              "text": "No compartas la contraseña.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "kombjˈene ˌeβitˈaɾ ˈeste kamˈino ðe nˈotʃe."
+          "phonemes": "nˈo kompˈaɾtas la kˌontɾasˈeɲa."
         },
         {
-          "text": "Turn off the equipment before opening it.",
+          "text": "Turn off the light, please.",
           "segments": [
             {
-              "text": "Turn off the equipment before opening it.",
+              "text": "Turn off the light, please.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tˈɜːn ˈɔf ðɪ ɪkwˈɪpmənt bᵻfˌɔːɹ ˈoʊpənɪŋ ɪt."
+          "phonemes": "tˈɜːn ˈɔf ðə lˈaɪt, plˈiːz."
         },
         {
-          "text": "Do not share that password.",
+          "text": "Turn off the system carefully.",
           "segments": [
             {
-              "text": "Do not share that password.",
+              "text": "Turn off the system carefully.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "duːnˌɑːt ʃˈɛɹ ðæt pˈæswɜːd."
+          "phonemes": "tˈɜːn ˈɔf ðə sˈɪstəm kˈɛɹfəli."
         },
         {
-          "text": "Make sure you save a copy.",
+          "text": "Turn off all the equipment.",
           "segments": [
             {
-              "text": "Make sure you save a copy.",
+              "text": "Turn off all the equipment.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "mˌeɪk ʃˈʊɹ juː sˈeɪv ɐ kˈɑːpi."
+          "phonemes": "tˈɜːn ˈɔf ˈɔːl ðɪ ɪkwˈɪpmənt."
         },
         {
-          "text": "Let's check the data again.",
+          "text": "Let's turn off the screens before leaving.",
           "segments": [
             {
-              "text": "Let's check the data again.",
+              "text": "Let's turn off the screens before leaving.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "lˈɛts tʃˈɛk ðə dˈeɪɾə ɐɡˈɛn."
+          "phonemes": "lˈɛts tˈɜːn ˈɔf ðə skɹˈiːnz bᵻfˌɔːɹ lˈiːvɪŋ."
         },
         {
-          "text": "It is advisable to avoid this road at night.",
+          "text": "Don't share the password.",
           "segments": [
             {
-              "text": "It is advisable to avoid this road at night.",
+              "text": "Don't share the password.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɪɾ ɪz ɐdvˈaɪzəbəl tʊ ɐvˈɔɪd ðɪs ɹˈoʊd æt nˈaɪt."
+          "phonemes": "dˈoʊnt ʃˈɛɹ ðə pˈæswɜːd."
         }
       ]
     },
@@ -279,7 +297,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Model language. Apague el equipo antes de abrirlo. — Turn off the equipment before opening it. No compartas esa contraseña. — Do not share that password. Asegúrense de guardar una copia. — Make sure you save a copy. Comprobemos los datos otra vez. — Let's check the data again. Conviene evitar este camino de noche. — It is advisable to avoid this road at night.",
+      "text": "Model language. Apaga la luz, por favor. — Turn off the light, please. Apague el sistema con cuidado. — Turn off the system carefully. Apaguen todos los equipos. — Turn off all the equipment. Apaguemos las pantallas antes de salir. — Let's turn off the screens before leaving. No compartas la contraseña. — Don't share the password.",
       "sentences": [
         {
           "text": "Model language.",
@@ -292,104 +310,104 @@
           "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
         },
         {
-          "text": "Apague el equipo antes de abrirlo.",
+          "text": "Apaga la luz, por favor.",
           "segments": [
             {
-              "text": "Apague el equipo antes de abrirlo.",
+              "text": "Apaga la luz, por favor.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "apˈaɣe el ekˈipo ˈantes ðe aβɾˈiɾlo."
+          "phonemes": "apˈaɣa la lˈus, poɾ faβˈoɾ."
         },
         {
-          "text": "— Turn off the equipment before opening it.",
+          "text": "— Turn off the light, please.",
           "segments": [
             {
-              "text": "— Turn off the equipment before opening it.",
+              "text": "— Turn off the light, please.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— tˈɜːn ˈɔf ðɪ ɪkwˈɪpmənt bᵻfˌɔːɹ ˈoʊpənɪŋ ɪt."
+          "phonemes": "— tˈɜːn ˈɔf ðə lˈaɪt, plˈiːz."
         },
         {
-          "text": "No compartas esa contraseña.",
+          "text": "Apague el sistema con cuidado.",
           "segments": [
             {
-              "text": "No compartas esa contraseña.",
+              "text": "Apague el sistema con cuidado.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "nˈo kompˈaɾtas ˈesa kˌontɾasˈeɲa."
+          "phonemes": "apˈaɣe el sistˈema kon kwiðˈaðo."
         },
         {
-          "text": "— Do not share that password.",
+          "text": "— Turn off the system carefully.",
           "segments": [
             {
-              "text": "— Do not share that password.",
+              "text": "— Turn off the system carefully.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— duːnˌɑːt ʃˈɛɹ ðæt pˈæswɜːd."
+          "phonemes": "— tˈɜːn ˈɔf ðə sˈɪstəm kˈɛɹfəli."
         },
         {
-          "text": "Asegúrense de guardar una copia.",
+          "text": "Apaguen todos los equipos.",
           "segments": [
             {
-              "text": "Asegúrense de guardar una copia.",
+              "text": "Apaguen todos los equipos.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˌaseɣˈuɾense ðe ɣwaɾðˈaɾ ˈuna kˈopja."
+          "phonemes": "apˈaɣen tˈoðos los ekˈipos."
         },
         {
-          "text": "— Make sure you save a copy.",
+          "text": "— Turn off all the equipment.",
           "segments": [
             {
-              "text": "— Make sure you save a copy.",
+              "text": "— Turn off all the equipment.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— mˌeɪk ʃˈʊɹ juː sˈeɪv ɐ kˈɑːpi."
+          "phonemes": "— tˈɜːn ˈɔf ˈɔːl ðɪ ɪkwˈɪpmənt."
         },
         {
-          "text": "Comprobemos los datos otra vez.",
+          "text": "Apaguemos las pantallas antes de salir.",
           "segments": [
             {
-              "text": "Comprobemos los datos otra vez.",
+              "text": "Apaguemos las pantallas antes de salir.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "kˌompɾoβˈemos los ðˈatos ˈotɾa βˈes."
+          "phonemes": "ˌapaɣˈemos las pantˈajjas ˈantes ðe salˈiɾ."
         },
         {
-          "text": "— Let's check the data again.",
+          "text": "— Let's turn off the screens before leaving.",
           "segments": [
             {
-              "text": "— Let's check the data again.",
+              "text": "— Let's turn off the screens before leaving.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— lˈɛts tʃˈɛk ðə dˈeɪɾə ɐɡˈɛn."
+          "phonemes": "— lˈɛts tˈɜːn ˈɔf ðə skɹˈiːnz bᵻfˌɔːɹ lˈiːvɪŋ."
         },
         {
-          "text": "Conviene evitar este camino de noche.",
+          "text": "No compartas la contraseña.",
           "segments": [
             {
-              "text": "Conviene evitar este camino de noche.",
+              "text": "No compartas la contraseña.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "kombjˈene ˌeβitˈaɾ ˈeste kamˈino ðe nˈotʃe."
+          "phonemes": "nˈo kompˈaɾtas la kˌontɾasˈeɲa."
         },
         {
-          "text": "— It is advisable to avoid this road at night.",
+          "text": "— Don't share the password.",
           "segments": [
             {
-              "text": "— It is advisable to avoid this road at night.",
+              "text": "— Don't share the password.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ɪɾ ɪz ɐdvˈaɪzəbəl tʊ ɐvˈɔɪd ðɪs ɹˈoʊd æt nˈaɪt."
+          "phonemes": "— dˈoʊnt ʃˈɛɹ ðə pˈæswɜːd."
         }
       ]
     },
@@ -441,129 +459,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "apagar",
+      "text": "apaga",
       "sentences": [
         {
-          "text": "apagar",
+          "text": "apaga",
           "segments": [
             {
-              "text": "apagar",
+              "text": "apaga",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˌapaɣˈaɾ"
+          "phonemes": "apˈaɣa"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "encender",
+      "text": "apague",
       "sentences": [
         {
-          "text": "encender",
+          "text": "apague",
           "segments": [
             {
-              "text": "encender",
+              "text": "apague",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˌensendˈeɾ"
+          "phonemes": "apˈaɣe"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "comprobar",
+      "text": "apaguen",
       "sentences": [
         {
-          "text": "comprobar",
+          "text": "apaguen",
           "segments": [
             {
-              "text": "comprobar",
+              "text": "apaguen",
               "lang": "es-419"
             }
           ],
-          "phonemes": "kˌompɾoβˈaɾ"
+          "phonemes": "apˈaɣen"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "guardar",
+      "text": "apaguemos",
       "sentences": [
         {
-          "text": "guardar",
+          "text": "apaguemos",
           "segments": [
             {
-              "text": "guardar",
+              "text": "apaguemos",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ɡwaɾðˈaɾ"
+          "phonemes": "ˌapaɣˈemos"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "evitar",
+      "text": "no compartas",
       "sentences": [
         {
-          "text": "evitar",
+          "text": "no compartas",
           "segments": [
             {
-              "text": "evitar",
+              "text": "no compartas",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˌeβitˈaɾ"
+          "phonemes": "nˈo kompˈaɾtas"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "asegurarse",
+      "text": "el mandato",
       "sentences": [
         {
-          "text": "asegurarse",
+          "text": "el mandato",
           "segments": [
             {
-              "text": "asegurarse",
+              "text": "el mandato",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˌaseɣuɾˈaɾse"
+          "phonemes": "el mandˈato"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "el paso",
+      "text": "afirmativo",
       "sentences": [
         {
-          "text": "el paso",
+          "text": "afirmativo",
           "segments": [
             {
-              "text": "el paso",
+              "text": "afirmativo",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el pˈaso"
+          "phonemes": "ˌafiɾmatˈiβo"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "la instrucción",
+      "text": "negativo",
       "sentences": [
         {
-          "text": "la instrucción",
+          "text": "negativo",
           "segments": [
             {
-              "text": "la instrucción",
+              "text": "negativo",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la ˌinstɾuksjˈon"
+          "phonemes": "nˌeɣatˈiβo"
         }
       ]
     }

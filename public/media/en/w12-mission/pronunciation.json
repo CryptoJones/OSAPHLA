@@ -143,7 +143,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Lenguaje modelo. Do you have this shirt in another size? — ¿Tiene esta camisa en otra talla? Those shoes fit well. — Esos zapatos quedan bien. That jacket is too expensive. — Esa chaqueta es demasiado cara. I want to return this item. — Quiero devolver este artículo. The price includes tax. — El precio incluye el impuesto.",
+      "text": "Lenguaje modelo. I'm going to choose clothing for a formal event. — Voy a elegir ropa para un evento formal. I negotiate the exchange of the wrong size. — Negocio el cambio de una talla incorrecta. I explain the problem kindly. — Explico el problema amablemente. The store accepts the exchange. — La tienda acepta el cambio. I don't insist more than necessary. — No insisto más de lo necesario.",
       "sentences": [
         {
           "text": "Lenguaje modelo.",
@@ -156,104 +156,104 @@
           "phonemes": "leŋɡwˈaxe moðˈelo."
         },
         {
-          "text": "Do you have this shirt in another size?",
+          "text": "I'm going to choose clothing for a formal event.",
           "segments": [
             {
-              "text": "Do you have this shirt in another size?",
+              "text": "I'm going to choose clothing for a formal event.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "dˈuː juː hæv ðɪs ʃˈɜːt ɪn ɐnˈʌðɚ sˈaɪz?"
+          "phonemes": "aɪm ɡˌoʊɪŋ tə tʃˈuːz klˈoʊðɪŋ fɚɹə fˈɔːɹməl ᵻvˈɛnt."
         },
         {
-          "text": "— ¿Tiene esta camisa en otra talla?",
+          "text": "— Voy a elegir ropa para un evento formal.",
           "segments": [
             {
-              "text": "— ¿Tiene esta camisa en otra talla?",
+              "text": "— Voy a elegir ropa para un evento formal.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— tjˈene ˈesta kamˈisa en ˈotɾa tˈajja?"
+          "phonemes": "— bˈoɪ a ˌelexˈiɾ rˈopa pˌaɾa ˈun eβˈɛnto foɾmˈal."
         },
         {
-          "text": "Those shoes fit well.",
+          "text": "I negotiate the exchange of the wrong size.",
           "segments": [
             {
-              "text": "Those shoes fit well.",
+              "text": "I negotiate the exchange of the wrong size.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðoʊz ʃˈuːz fˈɪt wˈɛl."
+          "phonemes": "aɪ nᵻɡˈoʊʃɪˌeɪt ðɪ ɛkstʃˈeɪndʒ ʌvðə ɹˈɔŋ sˈaɪz."
         },
         {
-          "text": "— Esos zapatos quedan bien.",
+          "text": "— Negocio el cambio de una talla incorrecta.",
           "segments": [
             {
-              "text": "— Esos zapatos quedan bien.",
+              "text": "— Negocio el cambio de una talla incorrecta.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— ˈesos sapˈatos kˈeðam bjˈen."
+          "phonemes": "— neɣˈosjo el kˈambjo ðe ˈuna tˈajja ˌinkorˈekta."
         },
         {
-          "text": "That jacket is too expensive.",
+          "text": "I explain the problem kindly.",
           "segments": [
             {
-              "text": "That jacket is too expensive.",
+              "text": "I explain the problem kindly.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðæt dʒˈækɪt ɪz tˈuː ɛkspˈɛnsɪv."
+          "phonemes": "aɪ ɛksplˈeɪn ðə pɹˈɑːbləm kˈaɪndli."
         },
         {
-          "text": "— Esa chaqueta es demasiado cara.",
+          "text": "— Explico el problema amablemente.",
           "segments": [
             {
-              "text": "— Esa chaqueta es demasiado cara.",
+              "text": "— Explico el problema amablemente.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— ˈesa tʃakˈeta ˈes ðˌemasjˈaðo kˈaɾa."
+          "phonemes": "— eksplˈiko el pɾoβlˈema amˈaβlemˈente."
         },
         {
-          "text": "I want to return this item.",
+          "text": "The store accepts the exchange.",
           "segments": [
             {
-              "text": "I want to return this item.",
+              "text": "The store accepts the exchange.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪ wˈɔnt tə ɹᵻtˈɜːn ðɪs ˈaɪɾəm."
+          "phonemes": "ðə stˈɔːɹ ɐksˈɛpts ðɪ ɛkstʃˈeɪndʒ."
         },
         {
-          "text": "— Quiero devolver este artículo.",
+          "text": "— La tienda acepta el cambio.",
           "segments": [
             {
-              "text": "— Quiero devolver este artículo.",
+              "text": "— La tienda acepta el cambio.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— kjˈeɾo ðˌeβolβˈeɾ ˈeste aɾtˈikulo."
+          "phonemes": "— la tjˈɛnda asˈepːta el kˈambjo."
         },
         {
-          "text": "The price includes tax.",
+          "text": "I don't insist more than necessary.",
           "segments": [
             {
-              "text": "The price includes tax.",
+              "text": "I don't insist more than necessary.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə pɹˈaɪs ɪŋklˈuːdz tˈæks."
+          "phonemes": "aɪ dˈoʊnt ɪnsˈɪst mˈɔːɹ ðɐn nˈɛsᵻsɚɹi."
         },
         {
-          "text": "— El precio incluye el impuesto.",
+          "text": "— No insisto más de lo necesario.",
           "segments": [
             {
-              "text": "— El precio incluye el impuesto.",
+              "text": "— No insisto más de lo necesario.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— el pɾˈesjo inklˈuʝe el impwˈesto."
+          "phonemes": "— nˈo insˈisto mˈas ðe lo nˌesesˈaɾjo."
         }
       ]
     },
@@ -305,129 +305,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "a store",
+      "text": "to choose",
       "sentences": [
         {
-          "text": "a store",
+          "text": "to choose",
           "segments": [
             {
-              "text": "a store",
+              "text": "to choose",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ stˈɔːɹ"
+          "phonemes": "tə tʃˈuːz"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "a size",
+      "text": "a formal event",
       "sentences": [
         {
-          "text": "a size",
+          "text": "a formal event",
           "segments": [
             {
-              "text": "a size",
+              "text": "a formal event",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ sˈaɪz"
+          "phonemes": "ɐ fˈɔːɹməl ᵻvˈɛnt"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "a price",
+      "text": "to negotiate",
       "sentences": [
         {
-          "text": "a price",
+          "text": "to negotiate",
           "segments": [
             {
-              "text": "a price",
+              "text": "to negotiate",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ pɹˈaɪs"
+          "phonemes": "tə nᵻɡˈoʊʃɪˌeɪt"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "cheap",
+      "text": "an exchange",
       "sentences": [
         {
-          "text": "cheap",
+          "text": "an exchange",
           "segments": [
             {
-              "text": "cheap",
+              "text": "an exchange",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tʃˈiːp"
+          "phonemes": "ɐn ɛkstʃˈeɪndʒ"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "expensive",
+      "text": "the wrong size",
       "sentences": [
         {
-          "text": "expensive",
+          "text": "the wrong size",
           "segments": [
             {
-              "text": "expensive",
+              "text": "the wrong size",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɛkspˈɛnsɪv"
+          "phonemes": "ðə ɹˈɔŋ sˈaɪz"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "this",
+      "text": "kindly",
       "sentences": [
         {
-          "text": "this",
+          "text": "kindly",
           "segments": [
             {
-              "text": "this",
+              "text": "kindly",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðˈɪs"
+          "phonemes": "kˈaɪndli"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "that",
+      "text": "to insist",
       "sentences": [
         {
-          "text": "that",
+          "text": "to insist",
           "segments": [
             {
-              "text": "that",
+              "text": "to insist",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðˈæt"
+          "phonemes": "tʊ ɪnsˈɪst"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "to return",
+      "text": "to accept",
       "sentences": [
         {
-          "text": "to return",
+          "text": "to accept",
           "segments": [
             {
-              "text": "to return",
+              "text": "to accept",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə ɹᵻtˈɜːn"
+          "phonemes": "tʊ ɐksˈɛpt"
         }
       ]
     }

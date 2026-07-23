@@ -163,7 +163,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Model language. Apague el equipo antes de abrirlo. — Turn off the equipment before opening it. No compartas esa contraseña. — Do not share that password. Asegúrense de guardar una copia. — Make sure you save a copy. Comprobemos los datos otra vez. — Let's check the data again. Conviene evitar este camino de noche. — It is advisable to avoid this road at night.",
+      "text": "Model language. La jerarquía influye en cómo se da una instrucción. — Hierarchy influences how an instruction is given. La formalidad esperada cambia según el lugar de trabajo. — Expected formality changes by workplace. Los servicios públicos suelen ser más formales. — Public services tend to be more formal. La cortesía puede mitigar una orden directa. — Courtesy can soften a direct order. Cada contexto profesional tiene su propio tono. — Each professional context has its own tone.",
       "sentences": [
         {
           "text": "Model language.",
@@ -176,104 +176,104 @@
           "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
         },
         {
-          "text": "Apague el equipo antes de abrirlo.",
+          "text": "La jerarquía influye en cómo se da una instrucción.",
           "segments": [
             {
-              "text": "Apague el equipo antes de abrirlo.",
+              "text": "La jerarquía influye en cómo se da una instrucción.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "apˈaɣe el ekˈipo ˈantes ðe aβɾˈiɾlo."
+          "phonemes": "la xˌeɾaɾkˈia imflˈuʝe en kˈomo se ðˈa ˈuna ˌinstɾuksjˈon."
         },
         {
-          "text": "— Turn off the equipment before opening it.",
+          "text": "— Hierarchy influences how an instruction is given.",
           "segments": [
             {
-              "text": "— Turn off the equipment before opening it.",
+              "text": "— Hierarchy influences how an instruction is given.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— tˈɜːn ˈɔf ðɪ ɪkwˈɪpmənt bᵻfˌɔːɹ ˈoʊpənɪŋ ɪt."
+          "phonemes": "— hˈaɪɚɹɑːɹki ˈɪnfluːənsᵻz hˌaʊ ɐn ɪnstɹˈʌkʃən ɪz ɡˈɪvən."
         },
         {
-          "text": "No compartas esa contraseña.",
+          "text": "La formalidad esperada cambia según el lugar de trabajo.",
           "segments": [
             {
-              "text": "No compartas esa contraseña.",
+              "text": "La formalidad esperada cambia según el lugar de trabajo.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "nˈo kompˈaɾtas ˈesa kˌontɾasˈeɲa."
+          "phonemes": "la fˌoɾmaliðˈað ˌespeɾˈaða kˈambja seɣˈun el luɣˈaɾ ðe tɾaβˈaxo."
         },
         {
-          "text": "— Do not share that password.",
+          "text": "— Expected formality changes by workplace.",
           "segments": [
             {
-              "text": "— Do not share that password.",
+              "text": "— Expected formality changes by workplace.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— duːnˌɑːt ʃˈɛɹ ðæt pˈæswɜːd."
+          "phonemes": "— ɛkspˈɛktᵻd fɔːɹmˈælᵻɾi tʃˈeɪndʒᵻz baɪ wˈɜːkpleɪs."
         },
         {
-          "text": "Asegúrense de guardar una copia.",
+          "text": "Los servicios públicos suelen ser más formales.",
           "segments": [
             {
-              "text": "Asegúrense de guardar una copia.",
+              "text": "Los servicios públicos suelen ser más formales.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˌaseɣˈuɾense ðe ɣwaɾðˈaɾ ˈuna kˈopja."
+          "phonemes": "los seɾβˈisjos pˈuβlikos swˈelen sˈer mˈas foɾmˈales."
         },
         {
-          "text": "— Make sure you save a copy.",
+          "text": "— Public services tend to be more formal.",
           "segments": [
             {
-              "text": "— Make sure you save a copy.",
+              "text": "— Public services tend to be more formal.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— mˌeɪk ʃˈʊɹ juː sˈeɪv ɐ kˈɑːpi."
+          "phonemes": "— pˈʌblɪk sˈɜːvɪsᵻz tˈɛnd təbi mˈɔːɹ fˈɔːɹməl."
         },
         {
-          "text": "Comprobemos los datos otra vez.",
+          "text": "La cortesía puede mitigar una orden directa.",
           "segments": [
             {
-              "text": "Comprobemos los datos otra vez.",
+              "text": "La cortesía puede mitigar una orden directa.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "kˌompɾoβˈemos los ðˈatos ˈotɾa βˈes."
+          "phonemes": "la kˌoɾtesˈia pwˈeðe mˌitiɣˈaɾ ˈuna ˈoɾðen diɾˈekta."
         },
         {
-          "text": "— Let's check the data again.",
+          "text": "— Courtesy can soften a direct order.",
           "segments": [
             {
-              "text": "— Let's check the data again.",
+              "text": "— Courtesy can soften a direct order.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— lˈɛts tʃˈɛk ðə dˈeɪɾə ɐɡˈɛn."
+          "phonemes": "— kˈɜːɾəsi kæn sˈɔfən ɐ dᵻɹˈɛkt ˈɔːɹdɚ."
         },
         {
-          "text": "Conviene evitar este camino de noche.",
+          "text": "Cada contexto profesional tiene su propio tono.",
           "segments": [
             {
-              "text": "Conviene evitar este camino de noche.",
+              "text": "Cada contexto profesional tiene su propio tono.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "kombjˈene ˌeβitˈaɾ ˈeste kamˈino ðe nˈotʃe."
+          "phonemes": "kˈaða kontˈeksto pɾˌofesjonˈal tjˈene su pɾˈopjo tˈono."
         },
         {
-          "text": "— It is advisable to avoid this road at night.",
+          "text": "— Each professional context has its own tone.",
           "segments": [
             {
-              "text": "— It is advisable to avoid this road at night.",
+              "text": "— Each professional context has its own tone.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ɪɾ ɪz ɐdvˈaɪzəbəl tʊ ɐvˈɔɪd ðɪs ɹˈoʊd æt nˈaɪt."
+          "phonemes": "— ˈiːtʃ pɹəfˈɛʃənəl kˈɑːntɛkst hɐz ɪts ˈoʊn tˈoʊn."
         }
       ]
     },
@@ -325,129 +325,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "apagar",
+      "text": "la jerarquía",
       "sentences": [
         {
-          "text": "apagar",
+          "text": "la jerarquía",
           "segments": [
             {
-              "text": "apagar",
+              "text": "la jerarquía",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˌapaɣˈaɾ"
+          "phonemes": "la xˌeɾaɾkˈia"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "encender",
+      "text": "la formalidad",
       "sentences": [
         {
-          "text": "encender",
+          "text": "la formalidad",
           "segments": [
             {
-              "text": "encender",
+              "text": "la formalidad",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˌensendˈeɾ"
+          "phonemes": "la fˌoɾmaliðˈad"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "comprobar",
+      "text": "el lugar de trabajo",
       "sentences": [
         {
-          "text": "comprobar",
+          "text": "el lugar de trabajo",
           "segments": [
             {
-              "text": "comprobar",
+              "text": "el lugar de trabajo",
               "lang": "es-419"
             }
           ],
-          "phonemes": "kˌompɾoβˈaɾ"
+          "phonemes": "el luɣˈaɾ ðe tɾaβˈaxo"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "guardar",
+      "text": "el servicio público",
       "sentences": [
         {
-          "text": "guardar",
+          "text": "el servicio público",
           "segments": [
             {
-              "text": "guardar",
+              "text": "el servicio público",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ɡwaɾðˈaɾ"
+          "phonemes": "el seɾβˈisjo pˈuβliko"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "evitar",
+      "text": "mitigar",
       "sentences": [
         {
-          "text": "evitar",
+          "text": "mitigar",
           "segments": [
             {
-              "text": "evitar",
+              "text": "mitigar",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˌeβitˈaɾ"
+          "phonemes": "mˌitiɣˈaɾ"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "asegurarse",
+      "text": "influir",
       "sentences": [
         {
-          "text": "asegurarse",
+          "text": "influir",
           "segments": [
             {
-              "text": "asegurarse",
+              "text": "influir",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˌaseɣuɾˈaɾse"
+          "phonemes": "ˌimfluˈiɾ"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "el paso",
+      "text": "la cortesía",
       "sentences": [
         {
-          "text": "el paso",
+          "text": "la cortesía",
           "segments": [
             {
-              "text": "el paso",
+              "text": "la cortesía",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el pˈaso"
+          "phonemes": "la kˌoɾtesˈia"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "la instrucción",
+      "text": "profesional",
       "sentences": [
         {
-          "text": "la instrucción",
+          "text": "profesional",
           "segments": [
             {
-              "text": "la instrucción",
+              "text": "profesional",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la ˌinstɾuksjˈon"
+          "phonemes": "pɾˌofesjonˈal"
         }
       ]
     }

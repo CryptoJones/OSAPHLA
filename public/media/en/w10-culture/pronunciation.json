@@ -163,7 +163,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Lenguaje modelo. I like listening to live music. — Me gusta escuchar música en vivo. Tom is interested in documentaries. — A Tom le interesan los documentales. Would you rather go out or stay home? — ¿Prefieres salir o quedarte en casa? We love playing together. — Nos encanta jugar juntos. Hiking is quieter than soccer. — El senderismo es más tranquilo que el fútbol.",
+      "text": "Lenguaje modelo. Soccer is very popular in many countries. — El fútbol es muy popular en muchos países. Access to green space isn't equal for everyone. — El acceso a espacios verdes no es igual para todos. Income shapes leisure choices. — Los ingresos moldean las opciones de ocio. Every country has distinct hobbies. — Cada país tiene aficiones distintas. Music also varies a lot by region. — La música también varía mucho según la región.",
       "sentences": [
         {
           "text": "Lenguaje modelo.",
@@ -176,104 +176,112 @@
           "phonemes": "leŋɡwˈaxe moðˈelo."
         },
         {
-          "text": "I like listening to live music.",
+          "text": "Soccer is very popular in many countries.",
           "segments": [
             {
-              "text": "I like listening to live music.",
+              "text": "Soccer is very popular in many countries.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪ lˈaɪk lˈɪsənɪŋ tə lˈɪv mjˈuːzɪk."
+          "phonemes": "sˈɑːkɚɹ ɪz vˈɛɹi pˈɑːpjʊlɚɹ ɪn mˈɛni kˈʌntɹiz."
         },
         {
-          "text": "— Me gusta escuchar música en vivo.",
+          "text": "— El fútbol es muy popular en muchos países.",
           "segments": [
             {
-              "text": "— Me gusta escuchar música en vivo.",
+              "text": "— El fútbol es muy ",
+              "lang": "es-419"
+            },
+            {
+              "text": "popular",
+              "lang": "en-us"
+            },
+            {
+              "text": " en muchos países.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— me ɣˈusta ˌeskutʃˈaɾ mˈusika em bˈiβo."
+          "phonemes": "— el fˈutβol ˈes mˈuj pˈɑːpjʊlɚ en mˈutʃos paˈises."
         },
         {
-          "text": "Tom is interested in documentaries.",
+          "text": "Access to green space isn't equal for everyone.",
           "segments": [
             {
-              "text": "Tom is interested in documentaries.",
+              "text": "Access to green space isn't equal for everyone.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tˈɑːm ɪz ˈɪntɹɛstᵻd ɪn dˌɑːkjuːmˈɛntɚɹiz."
+          "phonemes": "ˈæksɛs tə ɡɹˈiːn spˈeɪs ˌɪzənt ˈiːkwəl fɔːɹ ˈɛvɹɪwˌʌn."
         },
         {
-          "text": "— A Tom le interesan los documentales.",
+          "text": "— El acceso a espacios verdes no es igual para todos.",
           "segments": [
             {
-              "text": "— A Tom le interesan los documentales.",
+              "text": "— El acceso a espacios verdes no es igual para todos.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— a tˈom le ˌinteɾˈesan los ðˌokumentˈales."
+          "phonemes": "— el aksˈeso a espˈasjos βˈeɾðes nˈo ˈes iɣwˈal pˌaɾa tˈoðos."
         },
         {
-          "text": "Would you rather go out or stay home?",
+          "text": "Income shapes leisure choices.",
           "segments": [
             {
-              "text": "Would you rather go out or stay home?",
+              "text": "Income shapes leisure choices.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wʊd juː ɹˈæðɚ ɡˌoʊ ˈaʊt ɔːɹ stˈeɪ hˈoʊm?"
+          "phonemes": "ˈɪŋkʌm ʃˈeɪps lˈiːʒɚ tʃˈɔɪsᵻz."
         },
         {
-          "text": "— ¿Prefieres salir o quedarte en casa?",
+          "text": "— Los ingresos moldean las opciones de ocio.",
           "segments": [
             {
-              "text": "— ¿Prefieres salir o quedarte en casa?",
+              "text": "— Los ingresos moldean las opciones de ocio.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— pɾefjˈeɾes salˈiɾ o keðˈaɾte en kˈasa?"
+          "phonemes": "— los iŋɡɾˈesos molðˈean las opsjˈones ðe ˈosjo."
         },
         {
-          "text": "We love playing together.",
+          "text": "Every country has distinct hobbies.",
           "segments": [
             {
-              "text": "We love playing together.",
+              "text": "Every country has distinct hobbies.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wiː lˈʌv plˈeɪɪŋ təɡˈɛðɚ."
+          "phonemes": "ˈɛvɹi kˈʌntɹi hɐz dɪstˈɪŋkt hˈɑːbɪz."
         },
         {
-          "text": "— Nos encanta jugar juntos.",
+          "text": "— Cada país tiene aficiones distintas.",
           "segments": [
             {
-              "text": "— Nos encanta jugar juntos.",
+              "text": "— Cada país tiene aficiones distintas.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— nos enkˈanta xuɣˈaɾ xˈuntos."
+          "phonemes": "— kˈaða paˈis tjˈene ˌafisjˈones ðistˈintas."
         },
         {
-          "text": "Hiking is quieter than soccer.",
+          "text": "Music also varies a lot by region.",
           "segments": [
             {
-              "text": "Hiking is quieter than soccer.",
+              "text": "Music also varies a lot by region.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "hˈaɪkɪŋ ɪz kwˈaɪəɾɚ ðɐn sˈɑːkɚ."
+          "phonemes": "mjˈuːzɪk ˈɔːlsoʊ vˈɛɹiz ɐ lˈɑːt baɪ ɹˈiːdʒən."
         },
         {
-          "text": "— El senderismo es más tranquilo que el fútbol.",
+          "text": "— La música también varía mucho según la región.",
           "segments": [
             {
-              "text": "— El senderismo es más tranquilo que el fútbol.",
+              "text": "— La música también varía mucho según la región.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— el sˌendeɾˈismo ˈes mˈas tɾankˈilo ke el fˈutβol."
+          "phonemes": "— la mˈusika tambjˈem baɾˈia mˈutʃo seɣˈun la rexjˈon."
         }
       ]
     },
@@ -325,129 +333,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "to like",
+      "text": "soccer",
       "sentences": [
         {
-          "text": "to like",
+          "text": "soccer",
           "segments": [
             {
-              "text": "to like",
+              "text": "soccer",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə lˈaɪk"
+          "phonemes": "sˈɑːkɚ"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "to love",
+      "text": "green space",
       "sentences": [
         {
-          "text": "to love",
+          "text": "green space",
           "segments": [
             {
-              "text": "to love",
+              "text": "green space",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə lˈʌv"
+          "phonemes": "ɡɹˈiːn spˈeɪs"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "to prefer",
+      "text": "access",
       "sentences": [
         {
-          "text": "to prefer",
+          "text": "access",
           "segments": [
             {
-              "text": "to prefer",
+              "text": "access",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə pɹɪfˈɜː"
+          "phonemes": "ˈæksɛs"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "a movie",
+      "text": "economic",
       "sentences": [
         {
-          "text": "a movie",
+          "text": "economic",
           "segments": [
             {
-              "text": "a movie",
+              "text": "economic",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ mˈuːvi"
+          "phonemes": "ˌiːkənˈɑːmɪk"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "music",
+      "text": "to shape",
       "sentences": [
         {
-          "text": "music",
+          "text": "to shape",
           "segments": [
             {
-              "text": "music",
+              "text": "to shape",
               "lang": "en-us"
             }
           ],
-          "phonemes": "mjˈuːzɪk"
+          "phonemes": "tə ʃˈeɪp"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "a sport",
+      "text": "distinct",
       "sentences": [
         {
-          "text": "a sport",
+          "text": "distinct",
           "segments": [
             {
-              "text": "a sport",
+              "text": "distinct",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ spˈɔːɹt"
+          "phonemes": "dɪstˈɪŋkt"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "together",
+      "text": "a hobby",
       "sentences": [
         {
-          "text": "together",
+          "text": "a hobby",
           "segments": [
             {
-              "text": "together",
+              "text": "a hobby",
               "lang": "en-us"
             }
           ],
-          "phonemes": "təɡˈɛðɚ"
+          "phonemes": "ɐ hˈɑːbi"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "free time",
+      "text": "popular",
       "sentences": [
         {
-          "text": "free time",
+          "text": "popular",
           "segments": [
             {
-              "text": "free time",
+              "text": "popular",
               "lang": "en-us"
             }
           ],
-          "phonemes": "fɹˈiː tˈaɪm"
+          "phonemes": "pˈɑːpjʊlɚ"
         }
       ]
     }

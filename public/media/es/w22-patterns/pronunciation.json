@@ -37,7 +37,7 @@
     },
     {
       "file": "01.wav",
-      "text": "Form and meaning. Double-object order; le/les to se; redundant indirect objects; accidental se; discourse reference.",
+      "text": "Form and meaning. Applying the form. Accidental se constructions use se + indirect pronoun + verb + subject to show something happened unintentionally: se me rompió el vaso.",
       "sentences": [
         {
           "text": "Form and meaning.",
@@ -50,52 +50,50 @@
           "phonemes": "fˈɔːɹm ænd mˈiːnɪŋ."
         },
         {
-          "text": "Double-object order; le/les to se; redundant indirect objects; accidental se; discourse reference.",
+          "text": "Applying the form.",
           "segments": [
             {
-              "text": "Double-object order; ",
-              "lang": "en-us"
-            },
-            {
-              "text": "le",
-              "lang": "es-419"
-            },
-            {
-              "text": "/",
-              "lang": "en-us"
-            },
-            {
-              "text": "les",
-              "lang": "es-419"
-            },
-            {
-              "text": " to ",
-              "lang": "en-us"
-            },
-            {
-              "text": "se",
-              "lang": "es-419"
-            },
-            {
-              "text": "; redundant indirect objects; accidental ",
-              "lang": "en-us"
-            },
-            {
-              "text": "se",
-              "lang": "es-419"
-            },
-            {
-              "text": "; discourse reference.",
+              "text": "Applying the form.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "dˈʌbəlˈɑːbdʒɛkt ˈɔːɹdɚ; lˈe slˈæʃ lˈes tuː sˈe ; ɹᵻdˈʌndənt ˌɪndɚɹˈɛkt ˈɑːbdʒɛkts; ˌæksɪdˈɛntəl sˈe ; dˈɪskɔːɹs ɹˈɛfɹəns."
+          "phonemes": "ɐplˈaɪɪŋ ðə fˈɔːɹm."
+        },
+        {
+          "text": "Accidental se constructions use se + indirect pronoun + verb + subject to show something happened unintentionally: se me rompió el vaso.",
+          "segments": [
+            {
+              "text": "Accidental ",
+              "lang": "en-us"
+            },
+            {
+              "text": "se",
+              "lang": "es-419"
+            },
+            {
+              "text": " constructions use ",
+              "lang": "en-us"
+            },
+            {
+              "text": "se",
+              "lang": "es-419"
+            },
+            {
+              "text": " + indirect pronoun + verb + subject to show something happened unintentionally: ",
+              "lang": "en-us"
+            },
+            {
+              "text": "se me rompió el vaso.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˌæksɪdˈɛntəl sˈe kənstɹˈʌkʃənz jˈuːs sˈe plˈʌs ˌɪndɚɹˈɛkt pɹˈoʊnaʊn plˈʌs vˈɜːb plˈʌs sˈʌbdʒɛkt tə ʃˈoʊ sˈʌmθɪŋ hˈæpənd ˌʌnɪntˈɛnʃənəli: se me rompjˈo el βˈaso."
         }
       ]
     },
     {
       "file": "02.wav",
-      "text": "Model set. Se me perdieron las llaves. El informe se lo mandé a Clara. A ellos se les olvidó la cita. Explícaselo antes de la reunión. No se nos cayó el equipo; falló el soporte. I lost my keys. I sent the report to Clara. They forgot the appointment. Explain it to him or her before the meeting. We did not drop the equipment; the support failed.",
+      "text": "Model set. Se me rompió el vaso. Se te olvidó la cita. Se le perdieron las llaves. Se nos cayó el papel. No fue mi culpa; se rompió solo. I broke the glass (accidentally). You forgot the appointment. He or she lost the keys. We dropped the paper. It wasn't my fault; it broke on its own.",
       "sentences": [
         {
           "text": "Model set.",
@@ -108,104 +106,104 @@
           "phonemes": "mˈɑːdəl sˈɛt."
         },
         {
-          "text": "Se me perdieron las llaves.",
+          "text": "Se me rompió el vaso.",
           "segments": [
             {
-              "text": "Se me perdieron las llaves.",
+              "text": "Se me rompió el vaso.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "se me peɾðjˈeɾon las ʝˈaβes."
+          "phonemes": "se me rompjˈo el βˈaso."
         },
         {
-          "text": "El informe se lo mandé a Clara.",
+          "text": "Se te olvidó la cita.",
           "segments": [
             {
-              "text": "El informe se lo mandé a Clara.",
+              "text": "Se te olvidó la cita.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el infˈoɾme se lo mandˈe a klˈaɾa."
+          "phonemes": "se te ˌolβiðˈo la sˈita."
         },
         {
-          "text": "A ellos se les olvidó la cita.",
+          "text": "Se le perdieron las llaves.",
           "segments": [
             {
-              "text": "A ellos se les olvidó la cita.",
+              "text": "Se le perdieron las llaves.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "a ˈejjos se les ˌolβiðˈo la sˈita."
+          "phonemes": "se le peɾðjˈeɾon las ʝˈaβes."
         },
         {
-          "text": "Explícaselo antes de la reunión.",
+          "text": "Se nos cayó el papel.",
           "segments": [
             {
-              "text": "Explícaselo antes de la reunión.",
+              "text": "Se nos cayó el papel.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "eksplˈikasˌelo ˈantes ðe la reʊnjˈon."
+          "phonemes": "se nos kaʝˈo el papˈel."
         },
         {
-          "text": "No se nos cayó el equipo; falló el soporte.",
+          "text": "No fue mi culpa; se rompió solo.",
           "segments": [
             {
-              "text": "No se nos cayó el equipo; falló el soporte.",
+              "text": "No fue mi culpa; se rompió solo.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "nˈo se nos kaʝˈo el ekˈipo; fajjˈo el sopˈoɾte."
+          "phonemes": "nˈo fwˈe mi kˈulpa; se rompjˈo sˈolo."
         },
         {
-          "text": "I lost my keys.",
+          "text": "I broke the glass (accidentally).",
           "segments": [
             {
-              "text": "I lost my keys.",
+              "text": "I broke the glass (accidentally).",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪ lˈɔst maɪ kˈiːz."
+          "phonemes": "aɪ bɹˈoʊk ðə ɡlˈæs (ˌæksɪdˈɛntəli)."
         },
         {
-          "text": "I sent the report to Clara.",
+          "text": "You forgot the appointment.",
           "segments": [
             {
-              "text": "I sent the report to Clara.",
+              "text": "You forgot the appointment.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪ sˈɛnt ðə ɹᵻpˈɔːɹt tə klˈɑːɹɹə."
+          "phonemes": "juː fɚɡˈɑːt ðɪ ɐpˈɔɪntmənt."
         },
         {
-          "text": "They forgot the appointment.",
+          "text": "He or she lost the keys.",
           "segments": [
             {
-              "text": "They forgot the appointment.",
+              "text": "He or she lost the keys.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðeɪ fɚɡˈɑːt ðɪ ɐpˈɔɪntmənt."
+          "phonemes": "hiː ɔːɹ ʃiː lˈɔst ðə kˈiːz."
         },
         {
-          "text": "Explain it to him or her before the meeting.",
+          "text": "We dropped the paper.",
           "segments": [
             {
-              "text": "Explain it to him or her before the meeting.",
+              "text": "We dropped the paper.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɛksplˈeɪn ɪt tə hˌɪm ɔːɹ hɜː bᵻfˌɔːɹ ðə mˈiːɾɪŋ."
+          "phonemes": "wiː dɹˈɑːpt ðə pˈeɪpɚ."
         },
         {
-          "text": "We did not drop the equipment; the support failed.",
+          "text": "It wasn't my fault; it broke on its own.",
           "segments": [
             {
-              "text": "We did not drop the equipment; the support failed.",
+              "text": "It wasn't my fault; it broke on its own.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wiː dɪdnˌɑːt dɹˈɑːp ðɪ ɪkwˈɪpmənt; ðə səpˈɔːɹt fˈeɪld."
+          "phonemes": "ɪt wˈʌznt maɪ fˈɔlt; ɪt bɹˈoʊk ˌɔn ɪts ˈoʊn."
         }
       ]
     },
@@ -283,7 +281,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Model language. Se me perdieron las llaves. — I lost my keys. El informe se lo mandé a Clara. — I sent the report to Clara. A ellos se les olvidó la cita. — They forgot the appointment. Explícaselo antes de la reunión. — Explain it to him or her before the meeting. No se nos cayó el equipo; falló el soporte. — We did not drop the equipment; the support failed.",
+      "text": "Model language. Se me rompió el vaso. — I broke the glass (accidentally). Se te olvidó la cita. — You forgot the appointment. Se le perdieron las llaves. — He or she lost the keys. Se nos cayó el papel. — We dropped the paper. No fue mi culpa; se rompió solo. — It wasn't my fault; it broke on its own.",
       "sentences": [
         {
           "text": "Model language.",
@@ -296,104 +294,104 @@
           "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
         },
         {
-          "text": "Se me perdieron las llaves.",
+          "text": "Se me rompió el vaso.",
           "segments": [
             {
-              "text": "Se me perdieron las llaves.",
+              "text": "Se me rompió el vaso.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "se me peɾðjˈeɾon las ʝˈaβes."
+          "phonemes": "se me rompjˈo el βˈaso."
         },
         {
-          "text": "— I lost my keys.",
+          "text": "— I broke the glass (accidentally).",
           "segments": [
             {
-              "text": "— I lost my keys.",
+              "text": "— I broke the glass (accidentally).",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— aɪ lˈɔst maɪ kˈiːz."
+          "phonemes": "— aɪ bɹˈoʊk ðə ɡlˈæs (ˌæksɪdˈɛntəli)."
         },
         {
-          "text": "El informe se lo mandé a Clara.",
+          "text": "Se te olvidó la cita.",
           "segments": [
             {
-              "text": "El informe se lo mandé a Clara.",
+              "text": "Se te olvidó la cita.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el infˈoɾme se lo mandˈe a klˈaɾa."
+          "phonemes": "se te ˌolβiðˈo la sˈita."
         },
         {
-          "text": "— I sent the report to Clara.",
+          "text": "— You forgot the appointment.",
           "segments": [
             {
-              "text": "— I sent the report to Clara.",
+              "text": "— You forgot the appointment.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— aɪ sˈɛnt ðə ɹᵻpˈɔːɹt tə klˈɑːɹɹə."
+          "phonemes": "— juː fɚɡˈɑːt ðɪ ɐpˈɔɪntmənt."
         },
         {
-          "text": "A ellos se les olvidó la cita.",
+          "text": "Se le perdieron las llaves.",
           "segments": [
             {
-              "text": "A ellos se les olvidó la cita.",
+              "text": "Se le perdieron las llaves.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "a ˈejjos se les ˌolβiðˈo la sˈita."
+          "phonemes": "se le peɾðjˈeɾon las ʝˈaβes."
         },
         {
-          "text": "— They forgot the appointment.",
+          "text": "— He or she lost the keys.",
           "segments": [
             {
-              "text": "— They forgot the appointment.",
+              "text": "— He or she lost the keys.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ðeɪ fɚɡˈɑːt ðɪ ɐpˈɔɪntmənt."
+          "phonemes": "— hiː ɔːɹ ʃiː lˈɔst ðə kˈiːz."
         },
         {
-          "text": "Explícaselo antes de la reunión.",
+          "text": "Se nos cayó el papel.",
           "segments": [
             {
-              "text": "Explícaselo antes de la reunión.",
+              "text": "Se nos cayó el papel.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "eksplˈikasˌelo ˈantes ðe la reʊnjˈon."
+          "phonemes": "se nos kaʝˈo el papˈel."
         },
         {
-          "text": "— Explain it to him or her before the meeting.",
+          "text": "— We dropped the paper.",
           "segments": [
             {
-              "text": "— Explain it to him or her before the meeting.",
+              "text": "— We dropped the paper.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ɛksplˈeɪn ɪt tə hˌɪm ɔːɹ hɜː bᵻfˌɔːɹ ðə mˈiːɾɪŋ."
+          "phonemes": "— wiː dɹˈɑːpt ðə pˈeɪpɚ."
         },
         {
-          "text": "No se nos cayó el equipo; falló el soporte.",
+          "text": "No fue mi culpa; se rompió solo.",
           "segments": [
             {
-              "text": "No se nos cayó el equipo; falló el soporte.",
+              "text": "No fue mi culpa; se rompió solo.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "nˈo se nos kaʝˈo el ekˈipo; fajjˈo el sopˈoɾte."
+          "phonemes": "nˈo fwˈe mi kˈulpa; se rompjˈo sˈolo."
         },
         {
-          "text": "— We did not drop the equipment; the support failed.",
+          "text": "— It wasn't my fault; it broke on its own.",
           "segments": [
             {
-              "text": "— We did not drop the equipment; the support failed.",
+              "text": "— It wasn't my fault; it broke on its own.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— wiː dɪdnˌɑːt dɹˈɑːp ðɪ ɪkwˈɪpmənt; ðə səpˈɔːɹt fˈeɪld."
+          "phonemes": "— ɪt wˈʌznt maɪ fˈɔlt; ɪt bɹˈoʊk ˌɔn ɪts ˈoʊn."
         }
       ]
     },
@@ -445,129 +443,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "romperse",
+      "text": "se me",
       "sentences": [
         {
-          "text": "romperse",
+          "text": "se me",
           "segments": [
             {
-              "text": "romperse",
+              "text": "se me",
               "lang": "es-419"
             }
           ],
-          "phonemes": "rompˈeɾse"
+          "phonemes": "se mˈe"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "perderse",
+      "text": "se te",
       "sentences": [
         {
-          "text": "perderse",
+          "text": "se te",
           "segments": [
             {
-              "text": "perderse",
+              "text": "se te",
               "lang": "es-419"
             }
           ],
-          "phonemes": "peɾðˈeɾse"
+          "phonemes": "se tˈe"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "olvidarse",
+      "text": "se le",
       "sentences": [
         {
-          "text": "olvidarse",
+          "text": "se le",
           "segments": [
             {
-              "text": "olvidarse",
+              "text": "se le",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˌolβiðˈaɾse"
+          "phonemes": "se lˈe"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "caerse",
+      "text": "se nos",
       "sentences": [
         {
-          "text": "caerse",
+          "text": "se nos",
           "segments": [
             {
-              "text": "caerse",
+              "text": "se nos",
               "lang": "es-419"
             }
           ],
-          "phonemes": "kaˈeɾse"
+          "phonemes": "se nˈos"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "la llave",
+      "text": "olvidársele a alguien",
       "sentences": [
         {
-          "text": "la llave",
+          "text": "olvidársele a alguien",
           "segments": [
             {
-              "text": "la llave",
+              "text": "olvidársele a alguien",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la ʝˈaβe"
+          "phonemes": "ˌolβiðˈaɾsele a ˈalɣjen"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "el archivo",
+      "text": "romperse algo",
       "sentences": [
         {
-          "text": "el archivo",
+          "text": "romperse algo",
           "segments": [
             {
-              "text": "el archivo",
+              "text": "romperse algo",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el aɾtʃˈiβo"
+          "phonemes": "rompˈeɾse ˈalɣo"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "la culpa",
+      "text": "el objeto perdido",
       "sentences": [
         {
-          "text": "la culpa",
+          "text": "el objeto perdido",
           "segments": [
             {
-              "text": "la culpa",
+              "text": "el objeto perdido",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la kˈulpa"
+          "phonemes": "el oβxˈeto peɾðˈiðo"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "la solución",
+      "text": "intencional",
       "sentences": [
         {
-          "text": "la solución",
+          "text": "intencional",
           "segments": [
             {
-              "text": "la solución",
+              "text": "intencional",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la sˌolusjˈon"
+          "phonemes": "ˌintensjonˈal"
         }
       ]
     }

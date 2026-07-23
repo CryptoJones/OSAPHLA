@@ -143,7 +143,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Model language. No pude entrar porque perdí la llave. — I couldn't get in because I lost the key. Fuimos al pueblo por otra carretera. — We went to the town by another road. Allí conocimos al nuevo alcalde. — There we met the new mayor. Supe la verdad esa misma tarde. — I learned the truth that same afternoon. Quiso ayudar, pero no tuvo tiempo. — He or she wanted to help but did not have time.",
+      "text": "Model language. Voy a explicar un plan fallido. — I am going to explain a failed plan. Describo el descubrimiento inesperado. — I describe the unexpected discovery. Al final, la situación se resolvió bien. — In the end, the situation resolved well. No logramos todo lo planeado. — We didn't achieve everything planned. La resolución final fue positiva. — The final resolution was positive.",
       "sentences": [
         {
           "text": "Model language.",
@@ -156,104 +156,104 @@
           "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
         },
         {
-          "text": "No pude entrar porque perdí la llave.",
+          "text": "Voy a explicar un plan fallido.",
           "segments": [
             {
-              "text": "No pude entrar porque perdí la llave.",
+              "text": "Voy a explicar un plan fallido.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "nˈo pˈuðe entɾˈaɾ pˌoɾke peɾðˈi la ʝˈaβe."
+          "phonemes": "bˈoɪ a ˌeksplikˈaɾ ˈum plˈan fajjˈiðo."
         },
         {
-          "text": "— I couldn't get in because I lost the key.",
+          "text": "— I am going to explain a failed plan.",
           "segments": [
             {
-              "text": "— I couldn't get in because I lost the key.",
+              "text": "— I am going to explain a failed plan.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— aɪ kˌʊdənt ɡɛt ɪn bɪkˈʌz aɪ lˈɔst ðə kˈiː."
+          "phonemes": "— aɪɐm ɡˌoʊɪŋ tʊ ɛksplˈeɪn ɐ fˈeɪld plˈæn."
         },
         {
-          "text": "Fuimos al pueblo por otra carretera.",
+          "text": "Describo el descubrimiento inesperado.",
           "segments": [
             {
-              "text": "Fuimos al pueblo por otra carretera.",
+              "text": "Describo el descubrimiento inesperado.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "fwˈimos al pwˈeβlo poɾ ˈotɾa kˌaretˈeɾa."
+          "phonemes": "deskɾˈiβo el ðˌeskuβɾimjˈɛnto ˌinespeɾˈaðo."
         },
         {
-          "text": "— We went to the town by another road.",
+          "text": "— I describe the unexpected discovery.",
           "segments": [
             {
-              "text": "— We went to the town by another road.",
+              "text": "— I describe the unexpected discovery.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— wiː wɛnt tə ðə tˈaʊn baɪ ɐnˈʌðɚ ɹˈoʊd."
+          "phonemes": "— aɪ dᵻskɹˈaɪb ðɪ ˌʌnɛkspˈɛktᵻd dɪskˈʌvɚɹi."
         },
         {
-          "text": "Allí conocimos al nuevo alcalde.",
+          "text": "Al final, la situación se resolvió bien.",
           "segments": [
             {
-              "text": "Allí conocimos al nuevo alcalde.",
+              "text": "Al final, la situación se resolvió bien.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ajjˈi kˌonosˈimos al nwˈeβo alkˈalðe."
+          "phonemes": "al finˈal, la sˌitwasjˈon se rˌesolβjˈo βjˈen."
         },
         {
-          "text": "— There we met the new mayor.",
+          "text": "— In the end, the situation resolved well.",
           "segments": [
             {
-              "text": "— There we met the new mayor.",
+              "text": "— In the end, the situation resolved well.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ðɛɹ wiː mˈɛt ðə nˈuː mˈeɪɚ."
+          "phonemes": "— ɪnðɪ ˈɛnd, ðə sˌɪtʃuːˈeɪʃən ɹᵻzˈɑːlvd wˈɛl."
         },
         {
-          "text": "Supe la verdad esa misma tarde.",
+          "text": "No logramos todo lo planeado.",
           "segments": [
             {
-              "text": "Supe la verdad esa misma tarde.",
+              "text": "No logramos todo lo planeado.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "sˈupe la βeɾðˈað ˈesa mˈisma tˈaɾðe."
+          "phonemes": "nˈo loɣɾˈamos tˈoðo lo plˌaneˈaðo."
         },
         {
-          "text": "— I learned the truth that same afternoon.",
+          "text": "— We didn't achieve everything planned.",
           "segments": [
             {
-              "text": "— I learned the truth that same afternoon.",
+              "text": "— We didn't achieve everything planned.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— aɪ lˈɜːnd ðə tɹˈuːθ ðæt sˈeɪm ˌæftɚnˈuːn."
+          "phonemes": "— wiː dˈɪdnt ɐtʃˈiːv ˈɛvɹɪθˌɪŋ plˈænd."
         },
         {
-          "text": "Quiso ayudar, pero no tuvo tiempo.",
+          "text": "La resolución final fue positiva.",
           "segments": [
             {
-              "text": "Quiso ayudar, pero no tuvo tiempo.",
+              "text": "La resolución final fue positiva.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "kˈiso ˌaʝuðˈaɾ, pˌeɾo nˈo tˈuβo tjˈempo."
+          "phonemes": "la rˌesolusjˈon finˈal fwˈe pˌositˈiβa."
         },
         {
-          "text": "— He or she wanted to help but did not have time.",
+          "text": "— The final resolution was positive.",
           "segments": [
             {
-              "text": "— He or she wanted to help but did not have time.",
+              "text": "— The final resolution was positive.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— hiː ɔːɹ ʃiː wˈɔntᵻd tə hˈɛlp bˌʌt dɪdnˌɑːt hæv tˈaɪm."
+          "phonemes": "— ðə fˈaɪnəl ɹˌɛzəlˈuːʃən wʌz pˈɑːzᵻtˌɪv."
         }
       ]
     },
@@ -305,129 +305,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "pude",
+      "text": "el plan fallido",
       "sentences": [
         {
-          "text": "pude",
+          "text": "el plan fallido",
           "segments": [
             {
-              "text": "pude",
+              "text": "el plan fallido",
               "lang": "es-419"
             }
           ],
-          "phonemes": "pˈuðe"
+          "phonemes": "el plˈan fajjˈiðo"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "quise",
+      "text": "el descubrimiento",
       "sentences": [
         {
-          "text": "quise",
+          "text": "el descubrimiento",
           "segments": [
             {
-              "text": "quise",
+              "text": "el descubrimiento",
               "lang": "es-419"
             }
           ],
-          "phonemes": "kˈise"
+          "phonemes": "el ðˌeskuβɾimjˈɛnto"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "supe",
+      "text": "inesperado",
       "sentences": [
         {
-          "text": "supe",
+          "text": "inesperado",
           "segments": [
             {
-              "text": "supe",
+              "text": "inesperado",
               "lang": "es-419"
             }
           ],
-          "phonemes": "sˈupe"
+          "phonemes": "ˌinespeɾˈaðo"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "tuve",
+      "text": "la resolución",
       "sentences": [
         {
-          "text": "tuve",
+          "text": "la resolución",
           "segments": [
             {
-              "text": "tuve",
+              "text": "la resolución",
               "lang": "es-419"
             }
           ],
-          "phonemes": "tˈuβe"
+          "phonemes": "la rˌesolusjˈon"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "hice",
+      "text": "explicar",
       "sentences": [
         {
-          "text": "hice",
+          "text": "explicar",
           "segments": [
             {
-              "text": "hice",
+              "text": "explicar",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˈise"
+          "phonemes": "ˌeksplikˈaɾ"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "vine",
+      "text": "resultar",
       "sentences": [
         {
-          "text": "vine",
+          "text": "resultar",
           "segments": [
             {
-              "text": "vine",
+              "text": "resultar",
               "lang": "es-419"
             }
           ],
-          "phonemes": "bˈine"
+          "phonemes": "rˌesultˈaɾ"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "fui",
+      "text": "al final",
       "sentences": [
         {
-          "text": "fui",
+          "text": "al final",
           "segments": [
             {
-              "text": "fui",
+              "text": "al final",
               "lang": "es-419"
             }
           ],
-          "phonemes": "fwˈi"
+          "phonemes": "al finˈal"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "dije",
+      "text": "lograr",
       "sentences": [
         {
-          "text": "dije",
+          "text": "lograr",
           "segments": [
             {
-              "text": "dije",
+              "text": "lograr",
               "lang": "es-419"
             }
           ],
-          "phonemes": "dˈixe"
+          "phonemes": "loɣɾˈaɾ"
         }
       ]
     }

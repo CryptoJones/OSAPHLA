@@ -143,7 +143,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Lenguaje modelo. According to the technician, the network is working. — Según el técnico, la red está funcionando. We communicate through a secure channel. — Nos comunicamos por un canal seguro. The director said they would extend the deadline. — La directora dijo que ampliarían el plazo. The requested report is attached. — Se adjunta el informe solicitado. Regarding the incident, two details are missing. — Con respecto al incidente, faltan dos datos.",
+      "text": "Lenguaje modelo. I'm going to inform my supervisor about the incident. — Voy a informar a mi supervisora sobre el incidente. I summarize each person's statement. — Resumo las declaraciones de cada persona. I explain everything in detail. — Explico todo detalladamente. I propose the next step. — Propongo el próximo paso. I finish with an open question. — Termino con una pregunta abierta.",
       "sentences": [
         {
           "text": "Lenguaje modelo.",
@@ -156,104 +156,104 @@
           "phonemes": "leŋɡwˈaxe moðˈelo."
         },
         {
-          "text": "According to the technician, the network is working.",
+          "text": "I'm going to inform my supervisor about the incident.",
           "segments": [
             {
-              "text": "According to the technician, the network is working.",
+              "text": "I'm going to inform my supervisor about the incident.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐkˈɔːɹdɪŋ tə ðə tɛknˈɪʃən, ðə nˈɛtwɜːk ɪz wˈɜːkɪŋ."
+          "phonemes": "aɪm ɡˌoʊɪŋ tʊ ɪnfˈɔːɹm maɪ sˈuːpɚvˌaɪzɚɹ ɐbˌaʊt ðɪ ˈɪnsɪdənt."
         },
         {
-          "text": "— Según el técnico, la red está funcionando.",
+          "text": "— Voy a informar a mi supervisora sobre el incidente.",
           "segments": [
             {
-              "text": "— Según el técnico, la red está funcionando.",
+              "text": "— Voy a informar a mi supervisora sobre el incidente.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— seɣˈun el tˈekniko, la rˈeð estˈa fˌunsjonˈando."
+          "phonemes": "— bˈoɪ a ˌinfoɾmˈaɾ a mi sˌupeɾβisˈoɾa sˌoβɾe el ˌinsiðˈɛnte."
         },
         {
-          "text": "We communicate through a secure channel.",
+          "text": "I summarize each person's statement.",
           "segments": [
             {
-              "text": "We communicate through a secure channel.",
+              "text": "I summarize each person's statement.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wiː kəmjˈuːnᵻkˌeɪt θɹuː ɐ sᵻkjˈʊɹ tʃˈænəl."
+          "phonemes": "aɪ sˈʌmɚɹˌaɪz ˈiːtʃ pˈɜːsənz stˈeɪtmənt."
         },
         {
-          "text": "— Nos comunicamos por un canal seguro.",
+          "text": "— Resumo las declaraciones de cada persona.",
           "segments": [
             {
-              "text": "— Nos comunicamos por un canal seguro.",
+              "text": "— Resumo las declaraciones de cada persona.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— nos kˌomunikˈamos poɾ ˈun kanˈal seɣˈuɾo."
+          "phonemes": "— resˈumo las ðˌeklaɾasjˈones ðe kˈaða peɾsˈona."
         },
         {
-          "text": "The director said they would extend the deadline.",
+          "text": "I explain everything in detail.",
           "segments": [
             {
-              "text": "The director said they would extend the deadline.",
+              "text": "I explain everything in detail.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə dᵻɹˈɛktɚ sˈɛd ðeɪ wʊd ɛkstˈɛnd ðə dˈɛdlaɪn."
+          "phonemes": "aɪ ɛksplˈeɪn ˈɛvɹɪθˌɪŋ ɪn diːtˈeɪl."
         },
         {
-          "text": "— La directora dijo que ampliarían el plazo.",
+          "text": "— Explico todo detalladamente.",
           "segments": [
             {
-              "text": "— La directora dijo que ampliarían el plazo.",
+              "text": "— Explico todo detalladamente.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— la ðˌiɾektˈoɾa ðˈixo ke ˌampliaɾˈian el plˈaso."
+          "phonemes": "— eksplˈiko tˈoðo ðˌetajjˈaðamˈente."
         },
         {
-          "text": "The requested report is attached.",
+          "text": "I propose the next step.",
           "segments": [
             {
-              "text": "The requested report is attached.",
+              "text": "I propose the next step.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə ɹᵻkwˈɛstᵻd ɹᵻpˈɔːɹt ɪz ɐtˈætʃt."
+          "phonemes": "aɪ pɹəpˈoʊz ðə nˈɛkst stˈɛp."
         },
         {
-          "text": "— Se adjunta el informe solicitado.",
+          "text": "— Propongo el próximo paso.",
           "segments": [
             {
-              "text": "— Se adjunta el informe solicitado.",
+              "text": "— Propongo el próximo paso.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— se aðxˈunta el infˈoɾme sˌolisitˈaðo."
+          "phonemes": "— pɾopˈoŋɡo el pɾˈoksimo pˈaso."
         },
         {
-          "text": "Regarding the incident, two details are missing.",
+          "text": "I finish with an open question.",
           "segments": [
             {
-              "text": "Regarding the incident, two details are missing.",
+              "text": "I finish with an open question.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɹᵻɡˈɑːɹdɪŋ ðɪ ˈɪnsɪdənt, tˈuː diːtˈeɪlz ɑːɹ mˈɪsɪŋ."
+          "phonemes": "aɪ fˈɪnɪʃ wɪð ɐn ˈoʊpən kwˈɛstʃən."
         },
         {
-          "text": "— Con respecto al incidente, faltan dos datos.",
+          "text": "— Termino con una pregunta abierta.",
           "segments": [
             {
-              "text": "— Con respecto al incidente, faltan dos datos.",
+              "text": "— Termino con una pregunta abierta.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— kon respˈekto al ˌinsiðˈɛnte, fˈaltan dˈos ðˈatos."
+          "phonemes": "— teɾmˈino kon ˈuna pɾeɣˈunta aβjˈeɾta."
         }
       ]
     },
@@ -305,129 +305,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "an outage",
+      "text": "to summarize",
       "sentences": [
         {
-          "text": "an outage",
+          "text": "to summarize",
           "segments": [
             {
-              "text": "an outage",
+              "text": "to summarize",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐn ˈaʊɾɪdʒ"
+          "phonemes": "tə sˈʌmɚɹˌaɪz"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "a network",
+      "text": "a statement",
       "sentences": [
         {
-          "text": "a network",
+          "text": "a statement",
           "segments": [
             {
-              "text": "a network",
+              "text": "a statement",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ nˈɛtwɜːk"
+          "phonemes": "ɐ stˈeɪtmənt"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "a deadline",
+      "text": "next step",
       "sentences": [
         {
-          "text": "a deadline",
+          "text": "next step",
           "segments": [
             {
-              "text": "a deadline",
+              "text": "next step",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ dˈɛdlaɪn"
+          "phonemes": "nˈɛkst stˈɛp"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "an attachment",
+      "text": "to propose",
       "sentences": [
         {
-          "text": "an attachment",
+          "text": "to propose",
           "segments": [
             {
-              "text": "an attachment",
+              "text": "to propose",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐn ɐtˈætʃmənt"
+          "phonemes": "tə pɹəpˈoʊz"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "according to",
+      "text": "a supervisor",
       "sentences": [
         {
-          "text": "according to",
+          "text": "a supervisor",
           "segments": [
             {
-              "text": "according to",
+              "text": "a supervisor",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐkˈɔːɹdɪŋ tuː"
+          "phonemes": "ɐ sˈuːpɚvˌaɪzɚ"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "regarding",
+      "text": "in detail",
       "sentences": [
         {
-          "text": "regarding",
+          "text": "in detail",
           "segments": [
             {
-              "text": "regarding",
+              "text": "in detail",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɹᵻɡˈɑːɹdɪŋ"
+          "phonemes": "ɪn diːtˈeɪl"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "to report",
+      "text": "an incident",
       "sentences": [
         {
-          "text": "to report",
+          "text": "an incident",
           "segments": [
             {
-              "text": "to report",
+              "text": "an incident",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə ɹᵻpˈɔːɹt"
+          "phonemes": "ɐn ˈɪnsɪdənt"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "to recommend",
+      "text": "an open question",
       "sentences": [
         {
-          "text": "to recommend",
+          "text": "an open question",
           "segments": [
             {
-              "text": "to recommend",
+              "text": "an open question",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə ɹˌɛkəmˈɛnd"
+          "phonemes": "ɐn ˈoʊpən kwˈɛstʃən"
         }
       ]
     }

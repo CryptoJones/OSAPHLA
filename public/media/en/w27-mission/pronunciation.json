@@ -143,7 +143,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Lenguaje modelo. I recommend that you review the data. — Recomiendo que revises los datos. Residents have to participate. — Los residentes tienen que participar. I'm glad you're here. — Me alegra que estés aquí. The director asked us to arrive early. — La directora nos pidió llegar temprano. They might find a fair solution. — Quizá encuentren una solución justa.",
+      "text": "Lenguaje modelo. I'm going to respond to a community problem. — Voy a responder a un problema comunitario. I listen to each neighbor and stakeholder. — Escucho a cada vecino y cada parte interesada. I consider three different perspectives. — Considero tres perspectivas distintas. I propose a solution that balances the interests. — Propongo una solución que equilibre los intereses. We look for common ground. — Buscamos un punto en común.",
       "sentences": [
         {
           "text": "Lenguaje modelo.",
@@ -156,104 +156,104 @@
           "phonemes": "leŋɡwˈaxe moðˈelo."
         },
         {
-          "text": "I recommend that you review the data.",
+          "text": "I'm going to respond to a community problem.",
           "segments": [
             {
-              "text": "I recommend that you review the data.",
+              "text": "I'm going to respond to a community problem.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪ ɹˌɛkəmˈɛnd ðæt juː ɹᵻvjˈuː ðə dˈeɪɾə."
+          "phonemes": "aɪm ɡˌoʊɪŋ tə ɹᵻspˈɑːnd tʊ ɐ kəmjˈuːnᵻɾi pɹˈɑːbləm."
         },
         {
-          "text": "— Recomiendo que revises los datos.",
+          "text": "— Voy a responder a un problema comunitario.",
           "segments": [
             {
-              "text": "— Recomiendo que revises los datos.",
+              "text": "— Voy a responder a un problema comunitario.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— rˌekomjˈɛndo ke reβˈises los ðˈatos."
+          "phonemes": "— bˈoɪ a rˌespondˈeɾ a ˈum pɾoβlˈema kˌomunitˈaɾjo."
         },
         {
-          "text": "Residents have to participate.",
+          "text": "I listen to each neighbor and stakeholder.",
           "segments": [
             {
-              "text": "Residents have to participate.",
+              "text": "I listen to each neighbor and stakeholder.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɹˈɛzᵻdənts hæv tə pɑːɹtˈɪsᵻpˌeɪt."
+          "phonemes": "aɪ lˈɪsən tʊ ˈiːtʃ nˈeɪbɚ ænd stˈeɪkhoʊldɚ."
         },
         {
-          "text": "— Los residentes tienen que participar.",
+          "text": "— Escucho a cada vecino y cada parte interesada.",
           "segments": [
             {
-              "text": "— Los residentes tienen que participar.",
+              "text": "— Escucho a cada vecino y cada parte interesada.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— los rˌesiðˈɛntes tjˈenen ke pˌaɾtisipˈaɾ."
+          "phonemes": "— eskˈutʃo a kˈaða βesˈino i kˈaða pˈaɾte ˌinteɾesˈaða."
         },
         {
-          "text": "I'm glad you're here.",
+          "text": "I consider three different perspectives.",
           "segments": [
             {
-              "text": "I'm glad you're here.",
+              "text": "I consider three different perspectives.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪm ɡlˈæd jʊɹ hˈɪɹ."
+          "phonemes": "aɪ kənsˈɪdɚ θɹˈiː dˈɪfɹənt pɚspˈɛktɪvz."
         },
         {
-          "text": "— Me alegra que estés aquí.",
+          "text": "— Considero tres perspectivas distintas.",
           "segments": [
             {
-              "text": "— Me alegra que estés aquí.",
+              "text": "— Considero tres perspectivas distintas.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— me alˈeɣɾa ke estˈes akˈi."
+          "phonemes": "— kˌonsiðˈeɾo tɾˈes pˌeɾspektˈiβas ðistˈintas."
         },
         {
-          "text": "The director asked us to arrive early.",
+          "text": "I propose a solution that balances the interests.",
           "segments": [
             {
-              "text": "The director asked us to arrive early.",
+              "text": "I propose a solution that balances the interests.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə dᵻɹˈɛktɚɹ ˈæskt ˌʌs tʊ ɚɹˈaɪv ˈɜːli."
+          "phonemes": "aɪ pɹəpˈoʊz ɐ səlˈuːʃən ðæt bˈælənsᵻz ðɪ ˈɪntɹɛsts."
         },
         {
-          "text": "— La directora nos pidió llegar temprano.",
+          "text": "— Propongo una solución que equilibre los intereses.",
           "segments": [
             {
-              "text": "— La directora nos pidió llegar temprano.",
+              "text": "— Propongo una solución que equilibre los intereses.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— la ðˌiɾektˈoɾa nos piðjˈo ʝeɣˈaɾ tempɾˈano."
+          "phonemes": "— pɾopˈoŋɡo ˈuna sˌolusjˈon ke ˌekilˈiβɾe los ˌinteɾˈeses."
         },
         {
-          "text": "They might find a fair solution.",
+          "text": "We look for common ground.",
           "segments": [
             {
-              "text": "They might find a fair solution.",
+              "text": "We look for common ground.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðeɪ mˌaɪt fˈaɪnd ɐ fˈɛɹ səlˈuːʃən."
+          "phonemes": "wiː lˈʊk fɔːɹ kˈɑːmən ɡɹˈaʊnd."
         },
         {
-          "text": "— Quizá encuentren una solución justa.",
+          "text": "— Buscamos un punto en común.",
           "segments": [
             {
-              "text": "— Quizá encuentren una solución justa.",
+              "text": "— Buscamos un punto en común.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— kisˈa enkwˈɛntɾen ˈuna sˌolusjˈon xˈusta."
+          "phonemes": "— buskˈamos ˈum pˈunto en komˈun."
         }
       ]
     },
@@ -305,129 +305,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "to recommend",
+      "text": "community problem",
       "sentences": [
         {
-          "text": "to recommend",
+          "text": "community problem",
           "segments": [
             {
-              "text": "to recommend",
+              "text": "community problem",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə ɹˌɛkəmˈɛnd"
+          "phonemes": "kəmjˈuːnᵻɾi pɹˈɑːbləm"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "necessary",
+      "text": "a neighbor",
       "sentences": [
         {
-          "text": "necessary",
+          "text": "a neighbor",
           "segments": [
             {
-              "text": "necessary",
+              "text": "a neighbor",
               "lang": "en-us"
             }
           ],
-          "phonemes": "nˈɛsᵻsɚɹi"
+          "phonemes": "ɐ nˈeɪbɚ"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "required",
+      "text": "a stakeholder",
       "sentences": [
         {
-          "text": "required",
+          "text": "a stakeholder",
           "segments": [
             {
-              "text": "required",
+              "text": "a stakeholder",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɹᵻkwˈaɪɚd"
+          "phonemes": "ɐ stˈeɪkhoʊldɚ"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "possible",
+      "text": "to propose",
       "sentences": [
         {
-          "text": "possible",
+          "text": "to propose",
           "segments": [
             {
-              "text": "possible",
+              "text": "to propose",
               "lang": "en-us"
             }
           ],
-          "phonemes": "pˈɑːsᵻbəl"
+          "phonemes": "tə pɹəpˈoʊz"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "a rule",
+      "text": "three perspectives",
       "sentences": [
         {
-          "text": "a rule",
+          "text": "three perspectives",
           "segments": [
             {
-              "text": "a rule",
+              "text": "three perspectives",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ ɹˈuːl"
+          "phonemes": "θɹˈiː pɚspˈɛktɪvz"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "advice",
+      "text": "to consider",
       "sentences": [
         {
-          "text": "advice",
+          "text": "to consider",
           "segments": [
             {
-              "text": "advice",
+              "text": "to consider",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐdvˈaɪs"
+          "phonemes": "tə kənsˈɪdɚ"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "permission",
+      "text": "to balance",
       "sentences": [
         {
-          "text": "permission",
+          "text": "to balance",
           "segments": [
             {
-              "text": "permission",
+              "text": "to balance",
               "lang": "en-us"
             }
           ],
-          "phonemes": "pɚmˈɪʃən"
+          "phonemes": "tə bˈæləns"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "a solution",
+      "text": "common ground",
       "sentences": [
         {
-          "text": "a solution",
+          "text": "common ground",
           "segments": [
             {
-              "text": "a solution",
+              "text": "common ground",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ səlˈuːʃən"
+          "phonemes": "kˈɑːmən ɡɹˈaʊnd"
         }
       ]
     }

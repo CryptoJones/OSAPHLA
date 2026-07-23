@@ -183,7 +183,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Model language. Permítame aclarar lo que entendí. — Allow me to clarify what I understood. Antes de actuar, debemos comprobar la fuente. — Before acting, we must verify the source. Puedo resumir las dos posturas y justificar mi recomendación. — I can summarize both positions and justify my recommendation. Me adapto al registro sin imitar un acento. — I adapt to the register without imitating an accent. Mi plan de mantenimiento combina lectura, escucha, conversación y escritura. — My maintenance plan combines reading, listening, conversation, and writing.",
+      "text": "Model language. Al terminar el curso, la meta no es saber cada palabra. — When the course ends, the goal is not to know every word. La meta es comprender y actuar. — The goal is to understand and act. También es reparar errores con calma. — It's also to repair mistakes calmly. Seguir aprendiendo es parte del proceso. — Continuing to learn is part of the process. La competencia se mantiene con contacto frecuente. — Proficiency is maintained through frequent contact.",
       "sentences": [
         {
           "text": "Model language.",
@@ -196,104 +196,104 @@
           "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
         },
         {
-          "text": "Permítame aclarar lo que entendí.",
+          "text": "Al terminar el curso, la meta no es saber cada palabra.",
           "segments": [
             {
-              "text": "Permítame aclarar lo que entendí.",
+              "text": "Al terminar el curso, la meta no es saber cada palabra.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "peɾmˈitame ˌaklaɾˈaɾ lo ke ˌentendˈi."
+          "phonemes": "al tˌeɾminˈaɾ el kˈuɾso, la mˈeta nˈo ˈes saβˈeɾ kˈaða palˈaβɾa."
         },
         {
-          "text": "— Allow me to clarify what I understood.",
+          "text": "— When the course ends, the goal is not to know every word.",
           "segments": [
             {
-              "text": "— Allow me to clarify what I understood.",
+              "text": "— When the course ends, the goal is not to know every word.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ɐlˈaʊ mˌiː tə klˈæɹᵻfˌaɪ wʌt aɪ ˌʌndɚstˈʊd."
+          "phonemes": "— wˌɛn ðə kˈɔːɹs ˈɛndz, ðə ɡˈoʊl ɪz nˌɑːt tə nˈoʊ ˈɛvɹi wˈɜːd."
         },
         {
-          "text": "Antes de actuar, debemos comprobar la fuente.",
+          "text": "La meta es comprender y actuar.",
           "segments": [
             {
-              "text": "Antes de actuar, debemos comprobar la fuente.",
+              "text": "La meta es comprender y actuar.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˈantes ðe aktwˈaɾ, deβˈemos kˌompɾoβˈaɾ la fwˈɛnte."
+          "phonemes": "la mˈeta ˈes kˌompɾendˈeɾ i aktwˈaɾ."
         },
         {
-          "text": "— Before acting, we must verify the source.",
+          "text": "— The goal is to understand and act.",
           "segments": [
             {
-              "text": "— Before acting, we must verify the source.",
+              "text": "— The goal is to understand and act.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— bᵻfˌɔːɹ ˈæktɪŋ, wiː mˈʌst vˈɛɹᵻfˌaɪ ðə sˈɔːɹs."
+          "phonemes": "— ðə ɡˈoʊl ɪz tʊ ˌʌndɚstˈænd ænd ˈækt."
         },
         {
-          "text": "Puedo resumir las dos posturas y justificar mi recomendación.",
+          "text": "También es reparar errores con calma.",
           "segments": [
             {
-              "text": "Puedo resumir las dos posturas y justificar mi recomendación.",
+              "text": "También es reparar errores con calma.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "pwˈeðo rˌesumˈiɾ las ðˈos postˈuɾas i xˌustifikˈaɾ mi rˌekomˌendasjˈon."
+          "phonemes": "tambjˈen ˈes rˌepaɾˈaɾ erˈoɾes kon kˈalma."
         },
         {
-          "text": "— I can summarize both positions and justify my recommendation.",
+          "text": "— It's also to repair mistakes calmly.",
           "segments": [
             {
-              "text": "— I can summarize both positions and justify my recommendation.",
+              "text": "— It's also to repair mistakes calmly.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— aɪ kæn sˈʌmɚɹˌaɪz bˈoʊθ pəzˈɪʃənz ænd dʒˈʌstᵻfˌaɪ maɪ ɹˌɛkəmɛndˈeɪʃən."
+          "phonemes": "— ɪts ˈɔːlsoʊ tə ɹᵻpˈɛɹ mɪstˈeɪks kˈɑːmli."
         },
         {
-          "text": "Me adapto al registro sin imitar un acento.",
+          "text": "Seguir aprendiendo es parte del proceso.",
           "segments": [
             {
-              "text": "Me adapto al registro sin imitar un acento.",
+              "text": "Seguir aprendiendo es parte del proceso.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "me aðˈapːto al rexˈistɾo sin ˌimitˈaɾ ˈun asˈɛnto."
+          "phonemes": "seɣˈiɾ ˌapɾendjˈɛndo ˈes pˈaɾte ðel pɾosˈeso."
         },
         {
-          "text": "— I adapt to the register without imitating an accent.",
+          "text": "— Continuing to learn is part of the process.",
           "segments": [
             {
-              "text": "— I adapt to the register without imitating an accent.",
+              "text": "— Continuing to learn is part of the process.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— aɪ ɐdˈæpt tə ðə ɹˈɛdʒɪstɚ wɪðˌaʊt ˈɪmᵻtˌeɪɾɪŋ ɐn ˈæksənt."
+          "phonemes": "— kəntˈɪnjuːɪŋ tə lˈɜːn ɪz pˈɑːɹt ʌvðə pɹˈɑːsɛs."
         },
         {
-          "text": "Mi plan de mantenimiento combina lectura, escucha, conversación y escritura.",
+          "text": "La competencia se mantiene con contacto frecuente.",
           "segments": [
             {
-              "text": "Mi plan de mantenimiento combina lectura, escucha, conversación y escritura.",
+              "text": "La competencia se mantiene con contacto frecuente.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "mi plˈan de mˌantenimjˈɛnto kombˈina lektˈuɾa, eskˈutʃa, kˌombeɾsasjˈon i ˌeskɾitˈuɾa."
+          "phonemes": "la kˌompetˈɛnsja se mantjˈene kon kontˈakto fɾekwˈɛnte."
         },
         {
-          "text": "— My maintenance plan combines reading, listening, conversation, and writing.",
+          "text": "— Proficiency is maintained through frequent contact.",
           "segments": [
             {
-              "text": "— My maintenance plan combines reading, listening, conversation, and writing.",
+              "text": "— Proficiency is maintained through frequent contact.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— maɪ mˈeɪntənəns plˈæn kəmbˈaɪnz ɹˈiːdɪŋ, lˈɪsənɪŋ, kɑːnvɚsˈeɪʃən, ænd ɹˈaɪɾɪŋ."
+          "phonemes": "— pɹəfˈɪʃənsi ɪz meɪntˈeɪnd θɹuː fɹˈiːkwənt kˈɑːntækt."
         }
       ]
     },
@@ -345,129 +345,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "aclarar",
+      "text": "la meta",
       "sentences": [
         {
-          "text": "aclarar",
+          "text": "la meta",
           "segments": [
             {
-              "text": "aclarar",
+              "text": "la meta",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˌaklaɾˈaɾ"
+          "phonemes": "la mˈeta"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "comprobar",
+      "text": "la palabra",
       "sentences": [
         {
-          "text": "comprobar",
+          "text": "la palabra",
           "segments": [
             {
-              "text": "comprobar",
+              "text": "la palabra",
               "lang": "es-419"
             }
           ],
-          "phonemes": "kˌompɾoβˈaɾ"
+          "phonemes": "la palˈaβɾa"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "negociar",
+      "text": "actuar",
       "sentences": [
         {
-          "text": "negociar",
+          "text": "actuar",
           "segments": [
             {
-              "text": "negociar",
+              "text": "actuar",
               "lang": "es-419"
             }
           ],
-          "phonemes": "nˌeɣosjˈaɾ"
+          "phonemes": "aktwˈaɾ"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "resumir",
+      "text": "reparar errores",
       "sentences": [
         {
-          "text": "resumir",
+          "text": "reparar errores",
           "segments": [
             {
-              "text": "resumir",
+              "text": "reparar errores",
               "lang": "es-419"
             }
           ],
-          "phonemes": "rˌesumˈiɾ"
+          "phonemes": "rˌepaɾˈaɾ erˈoɾes"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "justificar",
+      "text": "seguir aprendiendo",
       "sentences": [
         {
-          "text": "justificar",
+          "text": "seguir aprendiendo",
           "segments": [
             {
-              "text": "justificar",
+              "text": "seguir aprendiendo",
               "lang": "es-419"
             }
           ],
-          "phonemes": "xˌustifikˈaɾ"
+          "phonemes": "seɣˈiɾ ˌapɾendjˈɛndo"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "adaptarse",
+      "text": "el contacto frecuente",
       "sentences": [
         {
-          "text": "adaptarse",
+          "text": "el contacto frecuente",
           "segments": [
             {
-              "text": "adaptarse",
+              "text": "el contacto frecuente",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˌaðapːtˈaɾse"
+          "phonemes": "el kontˈakto fɾekwˈɛnte"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "la competencia",
+      "text": "la tarea exigente",
       "sentences": [
         {
-          "text": "la competencia",
+          "text": "la tarea exigente",
           "segments": [
             {
-              "text": "la competencia",
+              "text": "la tarea exigente",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la kˌompetˈɛnsja"
+          "phonemes": "la taɾˈea ˌeksixˈɛnte"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "el mantenimiento",
+      "text": "mantenerse",
       "sentences": [
         {
-          "text": "el mantenimiento",
+          "text": "mantenerse",
           "segments": [
             {
-              "text": "el mantenimiento",
+              "text": "mantenerse",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el mˌantenimjˈɛnto"
+          "phonemes": "mˌantenˈeɾse"
         }
       ]
     }

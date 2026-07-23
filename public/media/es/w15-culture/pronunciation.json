@@ -163,7 +163,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Model language. Me duele mucho la cabeza. — My head hurts a lot. Tengo fiebre desde ayer. — I have had a fever since yesterday. ¿Es alérgico a algún medicamento? — Are you allergic to any medication? Llame a una ambulancia. — Call an ambulance. Se cayó y se lastimó el brazo. — He or she fell and hurt an arm.",
+      "text": "Model language. No todas las clínicas aceptan seguro médico. — Not every clinic accepts health insurance. El sistema de salud varía por país. — The healthcare system varies by country. Algunos servicios son gratuitos; otros son privados. — Some services are free; others are private. Acceder a atención pública puede tardar más. — Accessing public care can take longer. La formalidad esperada cambia según el lugar. — Expected formality changes by place.",
       "sentences": [
         {
           "text": "Model language.",
@@ -176,104 +176,104 @@
           "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
         },
         {
-          "text": "Me duele mucho la cabeza.",
+          "text": "No todas las clínicas aceptan seguro médico.",
           "segments": [
             {
-              "text": "Me duele mucho la cabeza.",
+              "text": "No todas las clínicas aceptan seguro médico.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "me dwˈele mˈutʃo la kaβˈesa."
+          "phonemes": "nˈo tˈoðas las klˈinikas asˈepːtan seɣˈuɾo mˈeðiko."
         },
         {
-          "text": "— My head hurts a lot.",
+          "text": "— Not every clinic accepts health insurance.",
           "segments": [
             {
-              "text": "— My head hurts a lot.",
+              "text": "— Not every clinic accepts health insurance.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— maɪ hˈɛd hˈɜːts ɐ lˈɑːt."
+          "phonemes": "— nˌɑːt ˈɛvɹi klˈɪnɪk ɐksˈɛpts hˈɛlθ ɪnʃˈʊɹɹəns."
         },
         {
-          "text": "Tengo fiebre desde ayer.",
+          "text": "El sistema de salud varía por país.",
           "segments": [
             {
-              "text": "Tengo fiebre desde ayer.",
+              "text": "El sistema de salud varía por país.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "tˈɛŋɡo fjˈeβɾe ðˌesðe aʝˈeɾ."
+          "phonemes": "el sistˈema ðe salˈud βaɾˈia poɾ paˈis."
         },
         {
-          "text": "— I have had a fever since yesterday.",
+          "text": "— The healthcare system varies by country.",
           "segments": [
             {
-              "text": "— I have had a fever since yesterday.",
+              "text": "— The healthcare system varies by country.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— aɪ hæv hæd ɐ fˈiːvɚ sˈɪns jˈɛstɚdˌeɪ."
+          "phonemes": "— ðə hˈɛlθkɛɹ sˈɪstəm vˈɛɹiz baɪ kˈʌntɹi."
         },
         {
-          "text": "¿Es alérgico a algún medicamento?",
+          "text": "Algunos servicios son gratuitos; otros son privados.",
           "segments": [
             {
-              "text": "¿Es alérgico a algún medicamento?",
+              "text": "Algunos servicios son gratuitos; otros son privados.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˈes alˈeɾxiko a alɣˈun mˌeðikamˈɛnto?"
+          "phonemes": "alɣˈunos seɾβˈisjos sˈoŋ ɡɾatwˈitos; ˈotɾos sˈom pɾiβˈaðos."
         },
         {
-          "text": "— Are you allergic to any medication?",
+          "text": "— Some services are free; others are private.",
           "segments": [
             {
-              "text": "— Are you allergic to any medication?",
+              "text": "— Some services are free; others are private.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ɑːɹ juː ɐlˈɜːdʒɪk tʊ ˌɛni mˌɛdɪkˈeɪʃən?"
+          "phonemes": "— sˌʌm sˈɜːvɪsᵻz ɑːɹ fɹˈiː; ˈʌðɚz ɑːɹ pɹˈaɪvət."
         },
         {
-          "text": "Llame a una ambulancia.",
+          "text": "Acceder a atención pública puede tardar más.",
           "segments": [
             {
-              "text": "Llame a una ambulancia.",
+              "text": "Acceder a atención pública puede tardar más.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ʝˈame a ˈuna ˌambulˈansja."
+          "phonemes": "ˌakseðˈeɾ a ˌatensjˈom pˈuβlika pwˈeðe taɾðˈaɾ mˈas."
         },
         {
-          "text": "— Call an ambulance.",
+          "text": "— Accessing public care can take longer.",
           "segments": [
             {
-              "text": "— Call an ambulance.",
+              "text": "— Accessing public care can take longer.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— kˈɔːl ɐn ˈæmbjʊləns."
+          "phonemes": "— ˈæksɛsɪŋ pˈʌblɪk kˈɛɹ kæn tˈeɪk lˈɔŋɡɚ."
         },
         {
-          "text": "Se cayó y se lastimó el brazo.",
+          "text": "La formalidad esperada cambia según el lugar.",
           "segments": [
             {
-              "text": "Se cayó y se lastimó el brazo.",
+              "text": "La formalidad esperada cambia según el lugar.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "se kaʝˈo i se lˌastimˈo el βɾˈaso."
+          "phonemes": "la fˌoɾmaliðˈað ˌespeɾˈaða kˈambja seɣˈun el luɣˈaɾ."
         },
         {
-          "text": "— He or she fell and hurt an arm.",
+          "text": "— Expected formality changes by place.",
           "segments": [
             {
-              "text": "— He or she fell and hurt an arm.",
+              "text": "— Expected formality changes by place.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— hiː ɔːɹ ʃiː fˈɛl ænd hˈɜːt ɐn ˈɑːɹm."
+          "phonemes": "— ɛkspˈɛktᵻd fɔːɹmˈælᵻɾi tʃˈeɪndʒᵻz baɪ plˈeɪs."
         }
       ]
     },
@@ -325,129 +325,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "la salud",
+      "text": "la clínica",
       "sentences": [
         {
-          "text": "la salud",
+          "text": "la clínica",
           "segments": [
             {
-              "text": "la salud",
+              "text": "la clínica",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la salˈud"
+          "phonemes": "la klˈinika"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "el dolor",
+      "text": "el seguro médico",
       "sentences": [
         {
-          "text": "el dolor",
+          "text": "el seguro médico",
           "segments": [
             {
-              "text": "el dolor",
+              "text": "el seguro médico",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el ðolˈoɾ"
+          "phonemes": "el seɣˈuɾo mˈeðiko"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "la cabeza",
+      "text": "la expectativa de formalidad",
       "sentences": [
         {
-          "text": "la cabeza",
+          "text": "la expectativa de formalidad",
           "segments": [
             {
-              "text": "la cabeza",
+              "text": "la expectativa de formalidad",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la kaβˈesa"
+          "phonemes": "la ˌekspektatˈiβa ðe fˌoɾmaliðˈad"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "el brazo",
+      "text": "el sistema de salud",
       "sentences": [
         {
-          "text": "el brazo",
+          "text": "el sistema de salud",
           "segments": [
             {
-              "text": "el brazo",
+              "text": "el sistema de salud",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el βɾˈaso"
+          "phonemes": "el sistˈema ðe salˈud"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "la fiebre",
+      "text": "acceder a",
       "sentences": [
         {
-          "text": "la fiebre",
+          "text": "acceder a",
           "segments": [
             {
-              "text": "la fiebre",
+              "text": "acceder a",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la fjˈeβɾe"
+          "phonemes": "ˌakseðˈeɾ ˈa"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "la farmacia",
+      "text": "gratuito",
       "sentences": [
         {
-          "text": "la farmacia",
+          "text": "gratuito",
           "segments": [
             {
-              "text": "la farmacia",
+              "text": "gratuito",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la faɾmˈasja"
+          "phonemes": "ɡɾatwˈito"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "la emergencia",
+      "text": "privado",
       "sentences": [
         {
-          "text": "la emergencia",
+          "text": "privado",
           "segments": [
             {
-              "text": "la emergencia",
+              "text": "privado",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la ˌemeɾxˈɛnsja"
+          "phonemes": "pɾiβˈaðo"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "ayuda",
+      "text": "público",
       "sentences": [
         {
-          "text": "ayuda",
+          "text": "público",
           "segments": [
             {
-              "text": "ayuda",
+              "text": "público",
               "lang": "es-419"
             }
           ],
-          "phonemes": "aʝˈuða"
+          "phonemes": "pˈuβliko"
         }
       ]
     }

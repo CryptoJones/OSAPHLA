@@ -163,7 +163,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Lenguaje modelo. The second option is far more viable. — La segunda opción es mucho más viable. The least clear report was the first one. — El informe menos claro fue el primero. The project is working out well. — El proyecto está saliendo bien. That figure should be treated cautiously. — Esa cifra debe tratarse con cautela. The analysis was right, but evidence is still missing. — El análisis fue correcto, pero todavía falta evidencia.",
+      "text": "Lenguaje modelo. Each region has its own idioms. — Cada región tiene sus propios modismos. Register determines whether an idiom is appropriate. — El registro determina si un modismo es apropiado. You have to recognize an idiom before producing it. — Hay que reconocer un modismo antes de producirlo. It's not advisable to use them indiscriminately. — No conviene usarlos indiscriminadamente. The meaning depends on the appropriate context. — El significado depende del contexto adecuado.",
       "sentences": [
         {
           "text": "Lenguaje modelo.",
@@ -176,112 +176,104 @@
           "phonemes": "leŋɡwˈaxe moðˈelo."
         },
         {
-          "text": "The second option is far more viable.",
+          "text": "Each region has its own idioms.",
           "segments": [
             {
-              "text": "The second option is far more viable.",
+              "text": "Each region has its own idioms.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə sˈɛkənd ˈɑːpʃən ɪz fˈɑːɹmˌɔːɹ vˈaɪəbəl."
+          "phonemes": "ˈiːtʃ ɹˈiːdʒən hɐz ɪts ˈoʊn ˈɪdɪəmz."
         },
         {
-          "text": "— La segunda opción es mucho más viable.",
+          "text": "— Cada región tiene sus propios modismos.",
           "segments": [
             {
-              "text": "— La segunda opción es mucho más ",
-              "lang": "es-419"
-            },
-            {
-              "text": "viable",
-              "lang": "en-us"
-            },
-            {
-              "text": ".",
+              "text": "— Cada región tiene sus propios modismos.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— la seɣˈunda opsjˈon ˈes mˈutʃo mˈas vˈaɪəbəl ."
+          "phonemes": "— kˈaða rexjˈon tjˈene sus pɾˈopjos moðˈismos."
         },
         {
-          "text": "The least clear report was the first one.",
+          "text": "Register determines whether an idiom is appropriate.",
           "segments": [
             {
-              "text": "The least clear report was the first one.",
+              "text": "Register determines whether an idiom is appropriate.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə lˈiːst klˈɪɹ ɹᵻpˈɔːɹt wʌzðə fˈɜːst wˌʌn."
+          "phonemes": "ɹˈɛdʒɪstɚ dɪtˈɜːmɪnz wˈɛðɚɹ ɐn ˈɪdɪəm ɪz ɐpɹˈoʊpɹɪət."
         },
         {
-          "text": "— El informe menos claro fue el primero.",
+          "text": "— El registro determina si un modismo es apropiado.",
           "segments": [
             {
-              "text": "— El informe menos claro fue el primero.",
+              "text": "— El registro determina si un modismo es apropiado.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— el infˈoɾme mˈenos klˈaɾo fwˈe el pɾimˈeɾo."
+          "phonemes": "— el rexˈistɾo ðˌeteɾmˈina si ˈun moðˈismo ˈes ˌapɾopjˈaðo."
         },
         {
-          "text": "The project is working out well.",
+          "text": "You have to recognize an idiom before producing it.",
           "segments": [
             {
-              "text": "The project is working out well.",
+              "text": "You have to recognize an idiom before producing it.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə pɹˈɑːdʒɛkt ɪz wˈɜːkɪŋ ˈaʊt wˈɛl."
+          "phonemes": "juː hæv tə ɹˈɛkəɡnˌaɪz ɐn ˈɪdɪəm bᵻfˌɔːɹ pɹədˈuːsɪŋ ɪt."
         },
         {
-          "text": "— El proyecto está saliendo bien.",
+          "text": "— Hay que reconocer un modismo antes de producirlo.",
           "segments": [
             {
-              "text": "— El proyecto está saliendo bien.",
+              "text": "— Hay que reconocer un modismo antes de producirlo.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— el pɾoʝˈekto estˈa saljˈɛndo βjˈen."
+          "phonemes": "— ˈaɪ ke rˌekonosˈeɾ ˈun moðˈismo ˈantes ðe pɾˌoðusˈiɾlo."
         },
         {
-          "text": "That figure should be treated cautiously.",
+          "text": "It's not advisable to use them indiscriminately.",
           "segments": [
             {
-              "text": "That figure should be treated cautiously.",
+              "text": "It's not advisable to use them indiscriminately.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðæt fˈɪɡjɚ ʃˌʊd biː tɹˈiːɾᵻd kˈɔːʃəsli."
+          "phonemes": "ɪts nˌɑːt ɐdvˈaɪzəbəl tə jˈuːz ðˌɛm ˌɪndɪskɹˈɪmᵻnətli."
         },
         {
-          "text": "— Esa cifra debe tratarse con cautela.",
+          "text": "— No conviene usarlos indiscriminadamente.",
           "segments": [
             {
-              "text": "— Esa cifra debe tratarse con cautela.",
+              "text": "— No conviene usarlos indiscriminadamente.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— ˈesa sˈifɾa ðˈeβe tɾatˈaɾse kon kaʊtˈela."
+          "phonemes": "— nˈo kombjˈene usˈaɾlos ˌindiskɾˌiminˈaðamˈente."
         },
         {
-          "text": "The analysis was right, but evidence is still missing.",
+          "text": "The meaning depends on the appropriate context.",
           "segments": [
             {
-              "text": "The analysis was right, but evidence is still missing.",
+              "text": "The meaning depends on the appropriate context.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðɪ ɐnˈæləsˌɪs wʌz ɹˈaɪt, bˌʌt ˈɛvɪdəns ɪz stˈɪl mˈɪsɪŋ."
+          "phonemes": "ðə mˈiːnɪŋ dᵻpˈɛndz ɔnðɪ ɐpɹˈoʊpɹɪət kˈɑːntɛkst."
         },
         {
-          "text": "— El análisis fue correcto, pero todavía falta evidencia.",
+          "text": "— El significado depende del contexto adecuado.",
           "segments": [
             {
-              "text": "— El análisis fue correcto, pero todavía falta evidencia.",
+              "text": "— El significado depende del contexto adecuado.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— el anˈalisis fwˈe korˈekto, pˌeɾo tˌoðaβˈia fˈalta ˌeβiðˈɛnsja."
+          "phonemes": "— el sˌiɡnifikˈaðo ðepˈɛnde ðel kontˈeksto ˌaðekwˈaðo."
         }
       ]
     },
@@ -333,129 +325,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "viable",
+      "text": "a region",
       "sentences": [
         {
-          "text": "viable",
+          "text": "a region",
           "segments": [
             {
-              "text": "viable",
+              "text": "a region",
               "lang": "en-us"
             }
           ],
-          "phonemes": "vˈaɪəbəl"
+          "phonemes": "ɐ ɹˈiːdʒən"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "efficient",
+      "text": "register",
       "sentences": [
         {
-          "text": "efficient",
+          "text": "register",
           "segments": [
             {
-              "text": "efficient",
+              "text": "register",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɪfˈɪʃənt"
+          "phonemes": "ɹˈɛdʒɪstɚ"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "reliable",
+      "text": "to recognize",
       "sentences": [
         {
-          "text": "reliable",
+          "text": "to recognize",
           "segments": [
             {
-              "text": "reliable",
+              "text": "to recognize",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɹᵻlˈaɪəbəl"
+          "phonemes": "tə ɹˈɛkəɡnˌaɪz"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "slightly",
+      "text": "to produce",
       "sentences": [
         {
-          "text": "slightly",
+          "text": "to produce",
           "segments": [
             {
-              "text": "slightly",
+              "text": "to produce",
               "lang": "en-us"
             }
           ],
-          "phonemes": "slˈaɪtli"
+          "phonemes": "tə pɹədˈuːs"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "far more",
+      "text": "indiscriminately",
       "sentences": [
         {
-          "text": "far more",
+          "text": "indiscriminately",
           "segments": [
             {
-              "text": "far more",
+              "text": "indiscriminately",
               "lang": "en-us"
             }
           ],
-          "phonemes": "fˈɑːɹmˌɔːɹ"
+          "phonemes": "ˌɪndɪskɹˈɪmᵻnətli"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "to work out",
+      "text": "appropriate context",
       "sentences": [
         {
-          "text": "to work out",
+          "text": "appropriate context",
           "segments": [
             {
-              "text": "to work out",
+              "text": "appropriate context",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə wˈɜːk ˈaʊt"
+          "phonemes": "ɐpɹˈoʊpɹɪət kˈɑːntɛkst"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "to point out",
+      "text": "limited",
       "sentences": [
         {
-          "text": "to point out",
+          "text": "limited",
           "segments": [
             {
-              "text": "to point out",
+              "text": "limited",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə pˈɔɪnt ˈaʊt"
+          "phonemes": "lˈɪmɪɾᵻd"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "cautiously",
+      "text": "to understand",
       "sentences": [
         {
-          "text": "cautiously",
+          "text": "to understand",
           "segments": [
             {
-              "text": "cautiously",
+              "text": "to understand",
               "lang": "en-us"
             }
           ],
-          "phonemes": "kˈɔːʃəsli"
+          "phonemes": "tʊ ˌʌndɚstˈænd"
         }
       ]
     }

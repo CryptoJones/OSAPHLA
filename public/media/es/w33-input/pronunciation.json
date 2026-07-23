@@ -183,7 +183,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Model language. La fuente afirma que la reforma amplió derechos. — The source states that the reform expanded rights. Otros sostienen que la desigualdad continuó. — Others maintain that inequality continued. Cuando cambió el gobierno, muchas personas ya habían emigrado. — When the government changed, many people had already emigrated. Aunque existe consenso sobre los hechos, su significado se debate. — Although there is consensus about the facts, their meaning is debated. El testimonio aporta una perspectiva personal. — The testimony provides a personal perspective.",
+      "text": "Model language. Dos fuentes describen la misma protesta. — Two sources describe the same protest. El periódico destaca el cambio político. — The newspaper highlights the political change. Un testimonio recuerda el miedo cotidiano. — A testimony remembers the everyday fear. Cada fuente aporta un dato distinto. — Each source contributes a different piece of information. Juntas dan una imagen más completa. — Together they give a more complete picture.",
       "sentences": [
         {
           "text": "Model language.",
@@ -196,104 +196,104 @@
           "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
         },
         {
-          "text": "La fuente afirma que la reforma amplió derechos.",
+          "text": "Dos fuentes describen la misma protesta.",
           "segments": [
             {
-              "text": "La fuente afirma que la reforma amplió derechos.",
+              "text": "Dos fuentes describen la misma protesta.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la fwˈɛnte afˈiɾma ke la refˈoɾma ˌampliˈo ðeɾˈetʃos."
+          "phonemes": "dˈos fwˈɛntes ðeskɾˈiβen la mˈisma pɾotˈesta."
         },
         {
-          "text": "— The source states that the reform expanded rights.",
+          "text": "— Two sources describe the same protest.",
           "segments": [
             {
-              "text": "— The source states that the reform expanded rights.",
+              "text": "— Two sources describe the same protest.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ðə sˈɔːɹs stˈeɪts ðætðə ɹᵻfˈɔːɹm ɛkspˈændᵻd ɹˈaɪts."
+          "phonemes": "— tˈuː sˈɔːɹsᵻz dᵻskɹˈaɪb ðə sˈeɪm pɹˈoʊtɛst."
         },
         {
-          "text": "Otros sostienen que la desigualdad continuó.",
+          "text": "El periódico destaca el cambio político.",
           "segments": [
             {
-              "text": "Otros sostienen que la desigualdad continuó.",
+              "text": "El periódico destaca el cambio político.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˈotɾos sostjˈenen ke la ðˌesiɣwalðˈad kˌontinwˈo."
+          "phonemes": "el peɾjˈoðiko ðestˈaka el kˈambjo polˈitiko."
         },
         {
-          "text": "— Others maintain that inequality continued.",
+          "text": "— The newspaper highlights the political change.",
           "segments": [
             {
-              "text": "— Others maintain that inequality continued.",
+              "text": "— The newspaper highlights the political change.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ˈʌðɚz meɪntˈeɪn ðæt ɪniːkwˈɔlᵻɾi kəntˈɪnjuːd."
+          "phonemes": "— ðə nˈuːzpeɪpɚ hˈaɪlaɪts ðə pəlˈɪɾɪkəl tʃˈeɪndʒ."
         },
         {
-          "text": "Cuando cambió el gobierno, muchas personas ya habían emigrado.",
+          "text": "Un testimonio recuerda el miedo cotidiano.",
           "segments": [
             {
-              "text": "Cuando cambió el gobierno, muchas personas ya habían emigrado.",
+              "text": "Un testimonio recuerda el miedo cotidiano.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "kwˌando kambjˈo el ɣoβjˈeɾno, mˈutʃas peɾsˈonas ʝˈa aβˈian ˌemiɣɾˈaðo."
+          "phonemes": "ˈun tˌestimˈonjo rekwˈeɾða el mjˈeðo kˌotiðjˈano."
         },
         {
-          "text": "— When the government changed, many people had already emigrated.",
+          "text": "— A testimony remembers the everyday fear.",
           "segments": [
             {
-              "text": "— When the government changed, many people had already emigrated.",
+              "text": "— A testimony remembers the everyday fear.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— wˌɛn ðə ɡˈʌvɚnmənt tʃˈeɪndʒd, mˈɛni pˈiːpəl hæd ɔːlɹˌɛdi ˈɛmɪɡɹˌeɪɾᵻd."
+          "phonemes": "— ɐ tˈɛstᵻməni ɹᵻmˈɛmbɚz ðɪ ˈɛvɹɪdˌeɪ fˈɪɹ."
         },
         {
-          "text": "Aunque existe consenso sobre los hechos, su significado se debate.",
+          "text": "Cada fuente aporta un dato distinto.",
           "segments": [
             {
-              "text": "Aunque existe consenso sobre los hechos, su significado se debate.",
+              "text": "Cada fuente aporta un dato distinto.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˌaʊnke eksˈiste konsˈɛnso sˌoβɾe los ˈetʃos, su sˌiɡnifikˈaðo se ðeβˈate."
+          "phonemes": "kˈaða fwˈɛnte apˈoɾta ˈun dˈato ðistˈinto."
         },
         {
-          "text": "— Although there is consensus about the facts, their meaning is debated.",
+          "text": "— Each source contributes a different piece of information.",
           "segments": [
             {
-              "text": "— Although there is consensus about the facts, their meaning is debated.",
+              "text": "— Each source contributes a different piece of information.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ɔːlðˈoʊ ðɛɹ ɪz kənsˈɛnsəs ɐbˌaʊt ðə fˈækts, ðɛɹ mˈiːnɪŋ ɪz dᵻbˈeɪɾᵻd."
+          "phonemes": "— ˈiːtʃ sˈɔːɹs kəntɹˈɪbjuːts ɐ dˈɪfɹənt pˈiːs ʌv ˌɪnfɚmˈeɪʃən."
         },
         {
-          "text": "El testimonio aporta una perspectiva personal.",
+          "text": "Juntas dan una imagen más completa.",
           "segments": [
             {
-              "text": "El testimonio aporta una perspectiva personal.",
+              "text": "Juntas dan una imagen más completa.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el tˌestimˈonjo apˈoɾta ˈuna pˌeɾspektˈiβa pˌeɾsonˈal."
+          "phonemes": "xˈuntas ðˈan ˈuna imˈaxen mˈas komplˈeta."
         },
         {
-          "text": "— The testimony provides a personal perspective.",
+          "text": "— Together they give a more complete picture.",
           "segments": [
             {
-              "text": "— The testimony provides a personal perspective.",
+              "text": "— Together they give a more complete picture.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ðə tˈɛstᵻməni pɹəvˈaɪdz ɐ pˈɜːsənəl pɚspˈɛktɪv."
+          "phonemes": "— təɡˌɛðɚ ðeɪ ɡˈɪv ɐ mˈɔːɹ kəmplˈiːt pˈɪktʃɚ."
         }
       ]
     },
@@ -345,129 +345,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "la fuente",
+      "text": "la protesta",
       "sentences": [
         {
-          "text": "la fuente",
+          "text": "la protesta",
           "segments": [
             {
-              "text": "la fuente",
+              "text": "la protesta",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la fwˈɛnte"
+          "phonemes": "la pɾotˈesta"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "la evidencia",
+      "text": "el periódico",
       "sentences": [
         {
-          "text": "la evidencia",
+          "text": "el periódico",
           "segments": [
             {
-              "text": "la evidencia",
+              "text": "el periódico",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la ˌeβiðˈɛnsja"
+          "phonemes": "el peɾjˈoðiko"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "el testimonio",
+      "text": "destacar",
       "sentences": [
         {
-          "text": "el testimonio",
+          "text": "destacar",
           "segments": [
             {
-              "text": "el testimonio",
+              "text": "destacar",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el tˌestimˈonjo"
+          "phonemes": "dˌestakˈaɾ"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "la memoria",
+      "text": "recordar",
       "sentences": [
         {
-          "text": "la memoria",
+          "text": "recordar",
           "segments": [
             {
-              "text": "la memoria",
+              "text": "recordar",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la memˈoɾja"
+          "phonemes": "rˌekoɾðˈaɾ"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "la desigualdad",
+      "text": "cotidiano",
       "sentences": [
         {
-          "text": "la desigualdad",
+          "text": "cotidiano",
           "segments": [
             {
-              "text": "la desigualdad",
+              "text": "cotidiano",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la ðˌesiɣwalðˈad"
+          "phonemes": "kˌotiðjˈano"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "la migración",
+      "text": "aportar",
       "sentences": [
         {
-          "text": "la migración",
+          "text": "aportar",
           "segments": [
             {
-              "text": "la migración",
+              "text": "aportar",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la mˌiɣɾasjˈon"
+          "phonemes": "ˌapoɾtˈaɾ"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "aunque",
+      "text": "distinto",
       "sentences": [
         {
-          "text": "aunque",
+          "text": "distinto",
           "segments": [
             {
-              "text": "aunque",
+              "text": "distinto",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˈaʊnke"
+          "phonemes": "distˈinto"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "debido a",
+      "text": "el dato",
       "sentences": [
         {
-          "text": "debido a",
+          "text": "el dato",
           "segments": [
             {
-              "text": "debido a",
+              "text": "el dato",
               "lang": "es-419"
             }
           ],
-          "phonemes": "deβˈiðo ˈa"
+          "phonemes": "el ðˈato"
         }
       ]
     }

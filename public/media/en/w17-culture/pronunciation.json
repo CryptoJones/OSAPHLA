@@ -163,7 +163,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Lenguaje modelo. I arrived at the office early yesterday. — Ayer llegué temprano a la oficina. First, we reviewed the report. — Primero revisamos el informe. Then they called the supervisor. — Después llamaron a la supervisora. What happened afterward? — ¿Qué ocurrió luego? The meeting ended at six. — La reunión terminó a las seis.",
+      "text": "Lenguaje modelo. Oral storytelling organizes facts differently than the news. — La narración oral organiza los hechos de forma distinta a las noticias. A good headline summarizes the main event. — Un buen titular resume el evento principal. Chronology helps people understand what happened first. — La cronología ayuda a entender qué ocurrió primero. Each point of view changes the account. — Cada punto de vista cambia el relato. It's useful to recount facts in order. — Es útil relatar los hechos en orden.",
       "sentences": [
         {
           "text": "Lenguaje modelo.",
@@ -176,104 +176,104 @@
           "phonemes": "leŋɡwˈaxe moðˈelo."
         },
         {
-          "text": "I arrived at the office early yesterday.",
+          "text": "Oral storytelling organizes facts differently than the news.",
           "segments": [
             {
-              "text": "I arrived at the office early yesterday.",
+              "text": "Oral storytelling organizes facts differently than the news.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪ ɚɹˈaɪvd æt ðɪ ˈɑːfɪs ˈɜːli jˈɛstɚdˌeɪ."
+          "phonemes": "ˈɔːɹəl stˈɔːɹɪtˌɛlɪŋ ˈɔːɹɡənˌaɪzᵻz fˈækts dˈɪfɹəntli ðɐn ðə nˈuːz."
         },
         {
-          "text": "— Ayer llegué temprano a la oficina.",
+          "text": "— La narración oral organiza los hechos de forma distinta a las noticias.",
           "segments": [
             {
-              "text": "— Ayer llegué temprano a la oficina.",
+              "text": "— La narración oral organiza los hechos de forma distinta a las noticias.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— aʝˈeɾ ʝeɣˈe tempɾˈano a la ˌofisˈina."
+          "phonemes": "— la nˌarasjˈon oɾˈal ˌoɾɣanˈisa los ˈetʃos ðe fˈoɾma ðistˈinta a las notˈisjas."
         },
         {
-          "text": "First, we reviewed the report.",
+          "text": "A good headline summarizes the main event.",
           "segments": [
             {
-              "text": "First, we reviewed the report.",
+              "text": "A good headline summarizes the main event.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "fˈɜːst, wiː ɹᵻvjˈuːd ðə ɹᵻpˈɔːɹt."
+          "phonemes": "ɐ ɡˈʊd hˈɛdlaɪn sˈʌmɚɹˌaɪzᵻz ðə mˈeɪn ᵻvˈɛnt."
         },
         {
-          "text": "— Primero revisamos el informe.",
+          "text": "— Un buen titular resume el evento principal.",
           "segments": [
             {
-              "text": "— Primero revisamos el informe.",
+              "text": "— Un buen titular resume el evento principal.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— pɾimˈeɾo rˌeβisˈamos el infˈoɾme."
+          "phonemes": "— ˈum bwˈen tˌitulˈaɾ resˈume el eβˈɛnto pɾˌinsipˈal."
         },
         {
-          "text": "Then they called the supervisor.",
+          "text": "Chronology helps people understand what happened first.",
           "segments": [
             {
-              "text": "Then they called the supervisor.",
+              "text": "Chronology helps people understand what happened first.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðˈɛn ðeɪ kˈɔːld ðə sˈuːpɚvˌaɪzɚ."
+          "phonemes": "kɹənˈɑːlədʒi hˈɛlps pˈiːpəl ˌʌndɚstˈænd wʌt hˈæpənd fˈɜːst."
         },
         {
-          "text": "— Después llamaron a la supervisora.",
+          "text": "— La cronología ayuda a entender qué ocurrió primero.",
           "segments": [
             {
-              "text": "— Después llamaron a la supervisora.",
+              "text": "— La cronología ayuda a entender qué ocurrió primero.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— despwˈes ʝamˈaɾon a la sˌupeɾβisˈoɾa."
+          "phonemes": "— la kɾˌonoloxˈia aʝˈuða a ˌentendˈeɾ kˈe ˌokuriˈo pɾimˈeɾo."
         },
         {
-          "text": "What happened afterward?",
+          "text": "Each point of view changes the account.",
           "segments": [
             {
-              "text": "What happened afterward?",
+              "text": "Each point of view changes the account.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wˌʌt hˈæpənd ˈæftɚwɚd?"
+          "phonemes": "ˈiːtʃ pˈɔɪnt ʌv vjˈuː tʃˈeɪndʒᵻz ðɪ ɐkˈaʊnt."
         },
         {
-          "text": "— ¿Qué ocurrió luego?",
+          "text": "— Cada punto de vista cambia el relato.",
           "segments": [
             {
-              "text": "— ¿Qué ocurrió luego?",
+              "text": "— Cada punto de vista cambia el relato.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— kˈe ˌokuriˈo luˈeɣo?"
+          "phonemes": "— kˈaða pˈunto ðe βˈista kˈambja el relˈato."
         },
         {
-          "text": "The meeting ended at six.",
+          "text": "It's useful to recount facts in order.",
           "segments": [
             {
-              "text": "The meeting ended at six.",
+              "text": "It's useful to recount facts in order.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə mˈiːɾɪŋ ˈɛndᵻd æt sˈɪks."
+          "phonemes": "ɪts jˈuːsfəl tə ɹᵻkˈaʊnt fˈækts ɪn ˈɔːɹdɚ."
         },
         {
-          "text": "— La reunión terminó a las seis.",
+          "text": "— Es útil relatar los hechos en orden.",
           "segments": [
             {
-              "text": "— La reunión terminó a las seis.",
+              "text": "— Es útil relatar los hechos en orden.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— la reʊnjˈon tˌeɾminˈo a las sˈeɪs."
+          "phonemes": "— ˈes ˈutil rˌelatˈaɾ los ˈetʃos en ˈoɾðen."
         }
       ]
     },
@@ -325,129 +325,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "yesterday",
+      "text": "oral storytelling",
       "sentences": [
         {
-          "text": "yesterday",
+          "text": "oral storytelling",
           "segments": [
             {
-              "text": "yesterday",
+              "text": "oral storytelling",
               "lang": "en-us"
             }
           ],
-          "phonemes": "jˈɛstɚdˌeɪ"
+          "phonemes": "ˈɔːɹəl stˈɔːɹɪtˌɛlɪŋ"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "to arrive",
+      "text": "a news headline",
       "sentences": [
         {
-          "text": "to arrive",
+          "text": "a news headline",
           "segments": [
             {
-              "text": "to arrive",
+              "text": "a news headline",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tʊ ɚɹˈaɪv"
+          "phonemes": "ɐ nˈuːz hˈɛdlaɪn"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "to review",
+      "text": "chronology",
       "sentences": [
         {
-          "text": "to review",
+          "text": "chronology",
           "segments": [
             {
-              "text": "to review",
+              "text": "chronology",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə ɹᵻvjˈuː"
+          "phonemes": "kɹənˈɑːlədʒi"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "to call",
+      "text": "temporal order",
       "sentences": [
         {
-          "text": "to call",
+          "text": "temporal order",
           "segments": [
             {
-              "text": "to call",
+              "text": "temporal order",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə kˈɔːl"
+          "phonemes": "tˈɛmpɚɹəl ˈɔːɹdɚ"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "to finish",
+      "text": "a point of view",
       "sentences": [
         {
-          "text": "to finish",
+          "text": "a point of view",
           "segments": [
             {
-              "text": "to finish",
+              "text": "a point of view",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə fˈɪnɪʃ"
+          "phonemes": "ɐ pˈɔɪnt ʌv vjˈuː"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "first",
+      "text": "to recount",
       "sentences": [
         {
-          "text": "first",
+          "text": "to recount",
           "segments": [
             {
-              "text": "first",
+              "text": "to recount",
               "lang": "en-us"
             }
           ],
-          "phonemes": "fˈɜːst"
+          "phonemes": "tə ɹᵻkˈaʊnt"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "then",
+      "text": "an event",
       "sentences": [
         {
-          "text": "then",
+          "text": "an event",
           "segments": [
             {
-              "text": "then",
+              "text": "an event",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðˈɛn"
+          "phonemes": "ɐn ᵻvˈɛnt"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "afterward",
+      "text": "to summarize",
       "sentences": [
         {
-          "text": "afterward",
+          "text": "to summarize",
           "segments": [
             {
-              "text": "afterward",
+              "text": "to summarize",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ˈæftɚwɚd"
+          "phonemes": "tə sˈʌmɚɹˌaɪz"
         }
       ]
     }

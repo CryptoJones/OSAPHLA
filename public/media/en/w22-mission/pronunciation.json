@@ -143,7 +143,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Lenguaje modelo. I deleted the file by accident. — Borré el archivo por accidente. Please turn it off. — Apágalo, por favor. They helped each other. — Se ayudaron mutuamente. Explain it to her before the meeting. — Explícaselo antes de la reunión. We recovered the copy ourselves. — Recuperamos la copia nosotros mismos.",
+      "text": "Lenguaje modelo. I'm going to report three mishaps accurately. — Voy a informar tres percances con precisión. I assign a follow-up task to each person. — Asigno una tarea de seguimiento a cada persona. I avoid ambiguous references. — Evito referencias ambiguas. I use clear language. — Uso un lenguaje claro. Each person knows exactly what to do. — Cada persona sabe exactamente qué hacer.",
       "sentences": [
         {
           "text": "Lenguaje modelo.",
@@ -156,104 +156,104 @@
           "phonemes": "leŋɡwˈaxe moðˈelo."
         },
         {
-          "text": "I deleted the file by accident.",
+          "text": "I'm going to report three mishaps accurately.",
           "segments": [
             {
-              "text": "I deleted the file by accident.",
+              "text": "I'm going to report three mishaps accurately.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪ dᵻlˈiːɾᵻd ðə fˈaɪl baɪ ˈæksɪdənt."
+          "phonemes": "aɪm ɡˌoʊɪŋ tə ɹᵻpˈɔːɹt θɹˈiː mˈɪshæps ˈækjʊɹətli."
         },
         {
-          "text": "— Borré el archivo por accidente.",
+          "text": "— Voy a informar tres percances con precisión.",
           "segments": [
             {
-              "text": "— Borré el archivo por accidente.",
+              "text": "— Voy a informar tres percances con precisión.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— borˈe el aɾtʃˈiβo poɾ ˌaksiðˈɛnte."
+          "phonemes": "— bˈoɪ a ˌinfoɾmˈaɾ tɾˈes peɾkˈanses kom pɾˌesisjˈon."
         },
         {
-          "text": "Please turn it off.",
+          "text": "I assign a follow-up task to each person.",
           "segments": [
             {
-              "text": "Please turn it off.",
+              "text": "I assign a follow-up task to each person.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "plˈiːz tˈɜːn ɪɾ ˈɔf."
+          "phonemes": "aɪ ɐsˈaɪn ɐ fˈɑːloʊˌʌp tˈæsk tʊ ˈiːtʃ pˈɜːsən."
         },
         {
-          "text": "— Apágalo, por favor.",
+          "text": "— Asigno una tarea de seguimiento a cada persona.",
           "segments": [
             {
-              "text": "— Apágalo, por favor.",
+              "text": "— Asigno una tarea de seguimiento a cada persona.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— apˈaɣalo, poɾ faβˈoɾ."
+          "phonemes": "— asˈiɡno ˈuna taɾˈea ðe sˌeɣimjˈɛnto a kˈaða peɾsˈona."
         },
         {
-          "text": "They helped each other.",
+          "text": "I avoid ambiguous references.",
           "segments": [
             {
-              "text": "They helped each other.",
+              "text": "I avoid ambiguous references.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðeɪ hˈɛlpt ˈiːtʃ ˈʌðɚ."
+          "phonemes": "aɪ ɐvˈɔɪd æmbˈɪɡjuːəs ɹˈɛfɹənsᵻz."
         },
         {
-          "text": "— Se ayudaron mutuamente.",
+          "text": "— Evito referencias ambiguas.",
           "segments": [
             {
-              "text": "— Se ayudaron mutuamente.",
+              "text": "— Evito referencias ambiguas.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— se ˌaʝuðˈaɾon mˈutwamˈente."
+          "phonemes": "— eβˈito rˌefeɾˈɛnsjas ambˈiɣwas."
         },
         {
-          "text": "Explain it to her before the meeting.",
+          "text": "I use clear language.",
           "segments": [
             {
-              "text": "Explain it to her before the meeting.",
+              "text": "I use clear language.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɛksplˈeɪn ɪt tə hɜː bᵻfˌɔːɹ ðə mˈiːɾɪŋ."
+          "phonemes": "aɪ jˈuːz klˈɪɹ lˈæŋɡwɪdʒ."
         },
         {
-          "text": "— Explícaselo antes de la reunión.",
+          "text": "— Uso un lenguaje claro.",
           "segments": [
             {
-              "text": "— Explícaselo antes de la reunión.",
+              "text": "— Uso un lenguaje claro.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— eksplˈikasˌelo ˈantes ðe la reʊnjˈon."
+          "phonemes": "— ˈuso ˈun leŋɡwˈaxe klˈaɾo."
         },
         {
-          "text": "We recovered the copy ourselves.",
+          "text": "Each person knows exactly what to do.",
           "segments": [
             {
-              "text": "We recovered the copy ourselves.",
+              "text": "Each person knows exactly what to do.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wiː ɹᵻkˈʌvɚd ðə kˈɑːpi aʊɚsˈɛlvz."
+          "phonemes": "ˈiːtʃ pˈɜːsən nˈoʊz ɛɡzˈæktli wʌt tə dˈuː."
         },
         {
-          "text": "— Recuperamos la copia nosotros mismos.",
+          "text": "— Cada persona sabe exactamente qué hacer.",
           "segments": [
             {
-              "text": "— Recuperamos la copia nosotros mismos.",
+              "text": "— Cada persona sabe exactamente qué hacer.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— rˌekupeɾˈamos la kˈopja nosˈotɾos mˈismos."
+          "phonemes": "— kˈaða peɾsˈona sˈaβe eksˈaktamˈente kˈe asˈeɾ."
         }
       ]
     },
@@ -305,129 +305,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "to turn off",
+      "text": "a mishap",
       "sentences": [
         {
-          "text": "to turn off",
+          "text": "a mishap",
           "segments": [
             {
-              "text": "to turn off",
+              "text": "a mishap",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə tˈɜːn ˈɔf"
+          "phonemes": "ɐ mˈɪshæp"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "to pick up",
+      "text": "to assign",
       "sentences": [
         {
-          "text": "to pick up",
+          "text": "to assign",
           "segments": [
             {
-              "text": "to pick up",
+              "text": "to assign",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə pˈɪk ˈʌp"
+          "phonemes": "tʊ ɐsˈaɪn"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "to look for",
+      "text": "a follow-up task",
       "sentences": [
         {
-          "text": "to look for",
+          "text": "a follow-up task",
           "segments": [
             {
-              "text": "to look for",
+              "text": "a follow-up task",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə lˈʊk fɔːɹ"
+          "phonemes": "ɐ fˈɑːloʊˌʌp tˈæsk"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "by accident",
+      "text": "ambiguous",
       "sentences": [
         {
-          "text": "by accident",
+          "text": "ambiguous",
           "segments": [
             {
-              "text": "by accident",
+              "text": "ambiguous",
               "lang": "en-us"
             }
           ],
-          "phonemes": "baɪ ˈæksɪdənt"
+          "phonemes": "æmbˈɪɡjuːəs"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "myself",
+      "text": "a reference",
       "sentences": [
         {
-          "text": "myself",
+          "text": "a reference",
           "segments": [
             {
-              "text": "myself",
+              "text": "a reference",
               "lang": "en-us"
             }
           ],
-          "phonemes": "maɪsˈɛlf"
+          "phonemes": "ɐ ɹˈɛfɹəns"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "each other",
+      "text": "clear",
       "sentences": [
         {
-          "text": "each other",
+          "text": "clear",
           "segments": [
             {
-              "text": "each other",
+              "text": "clear",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ˈiːtʃ ˈʌðɚ"
+          "phonemes": "klˈɪɹ"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "a file",
+      "text": "three",
       "sentences": [
         {
-          "text": "a file",
+          "text": "three",
           "segments": [
             {
-              "text": "a file",
+              "text": "three",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ fˈaɪl"
+          "phonemes": "θɹˈiː"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "a copy",
+      "text": "to avoid",
       "sentences": [
         {
-          "text": "a copy",
+          "text": "to avoid",
           "segments": [
             {
-              "text": "a copy",
+              "text": "to avoid",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ kˈɑːpi"
+          "phonemes": "tʊ ɐvˈɔɪd"
         }
       ]
     }

@@ -183,7 +183,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Model language. No pude entrar porque perdí la llave. — I couldn't get in because I lost the key. Fuimos al pueblo por otra carretera. — We went to the town by another road. Allí conocimos al nuevo alcalde. — There we met the new mayor. Supe la verdad esa misma tarde. — I learned the truth that same afternoon. Quiso ayudar, pero no tuvo tiempo. — He or she wanted to help but did not have time.",
+      "text": "Model language. El equipo quiso cruzar el puente. — The team wanted to cross the bridge. No pudo cruzar por la tormenta. — It couldn't cross because of the storm. Fue por otra carretera. — It went by another road. Allí supo que la tormenta dañó el camino. — There it found out the storm had damaged the road. Finalmente tuvo que regresar. — In the end it had to return.",
       "sentences": [
         {
           "text": "Model language.",
@@ -196,104 +196,104 @@
           "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
         },
         {
-          "text": "No pude entrar porque perdí la llave.",
+          "text": "El equipo quiso cruzar el puente.",
           "segments": [
             {
-              "text": "No pude entrar porque perdí la llave.",
+              "text": "El equipo quiso cruzar el puente.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "nˈo pˈuðe entɾˈaɾ pˌoɾke peɾðˈi la ʝˈaβe."
+          "phonemes": "el ekˈipo kˈiso kɾusˈaɾ el pwˈɛnte."
         },
         {
-          "text": "— I couldn't get in because I lost the key.",
+          "text": "— The team wanted to cross the bridge.",
           "segments": [
             {
-              "text": "— I couldn't get in because I lost the key.",
+              "text": "— The team wanted to cross the bridge.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— aɪ kˌʊdənt ɡɛt ɪn bɪkˈʌz aɪ lˈɔst ðə kˈiː."
+          "phonemes": "— ðə tˈiːm wˈɔntᵻd tə kɹˈɔs ðə bɹˈɪdʒ."
         },
         {
-          "text": "Fuimos al pueblo por otra carretera.",
+          "text": "No pudo cruzar por la tormenta.",
           "segments": [
             {
-              "text": "Fuimos al pueblo por otra carretera.",
+              "text": "No pudo cruzar por la tormenta.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "fwˈimos al pwˈeβlo poɾ ˈotɾa kˌaretˈeɾa."
+          "phonemes": "nˈo pˈuðo kɾusˈaɾ poɾ la toɾmˈɛnta."
         },
         {
-          "text": "— We went to the town by another road.",
+          "text": "— It couldn't cross because of the storm.",
           "segments": [
             {
-              "text": "— We went to the town by another road.",
+              "text": "— It couldn't cross because of the storm.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— wiː wɛnt tə ðə tˈaʊn baɪ ɐnˈʌðɚ ɹˈoʊd."
+          "phonemes": "— ɪt kˌʊdənt kɹˈɔs bɪkˈʌz ʌvðə stˈɔːɹm."
         },
         {
-          "text": "Allí conocimos al nuevo alcalde.",
+          "text": "Fue por otra carretera.",
           "segments": [
             {
-              "text": "Allí conocimos al nuevo alcalde.",
+              "text": "Fue por otra carretera.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ajjˈi kˌonosˈimos al nwˈeβo alkˈalðe."
+          "phonemes": "fwˈe poɾ ˈotɾa kˌaretˈeɾa."
         },
         {
-          "text": "— There we met the new mayor.",
+          "text": "— It went by another road.",
           "segments": [
             {
-              "text": "— There we met the new mayor.",
+              "text": "— It went by another road.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ðɛɹ wiː mˈɛt ðə nˈuː mˈeɪɚ."
+          "phonemes": "— ɪt wɛnt baɪ ɐnˈʌðɚ ɹˈoʊd."
         },
         {
-          "text": "Supe la verdad esa misma tarde.",
+          "text": "Allí supo que la tormenta dañó el camino.",
           "segments": [
             {
-              "text": "Supe la verdad esa misma tarde.",
+              "text": "Allí supo que la tormenta dañó el camino.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "sˈupe la βeɾðˈað ˈesa mˈisma tˈaɾðe."
+          "phonemes": "ajjˈi sˈupo ke la toɾmˈɛnta ðaɲˈo el kamˈino."
         },
         {
-          "text": "— I learned the truth that same afternoon.",
+          "text": "— There it found out the storm had damaged the road.",
           "segments": [
             {
-              "text": "— I learned the truth that same afternoon.",
+              "text": "— There it found out the storm had damaged the road.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— aɪ lˈɜːnd ðə tɹˈuːθ ðæt sˈeɪm ˌæftɚnˈuːn."
+          "phonemes": "— ðɛɹ ɪt fˈaʊnd ˈaʊt ðə stˈɔːɹm hæd dˈæmɪdʒd ðə ɹˈoʊd."
         },
         {
-          "text": "Quiso ayudar, pero no tuvo tiempo.",
+          "text": "Finalmente tuvo que regresar.",
           "segments": [
             {
-              "text": "Quiso ayudar, pero no tuvo tiempo.",
+              "text": "Finalmente tuvo que regresar.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "kˈiso ˌaʝuðˈaɾ, pˌeɾo nˈo tˈuβo tjˈempo."
+          "phonemes": "finˈalmˈente tˈuβo ke rˌeɣɾesˈaɾ."
         },
         {
-          "text": "— He or she wanted to help but did not have time.",
+          "text": "— In the end it had to return.",
           "segments": [
             {
-              "text": "— He or she wanted to help but did not have time.",
+              "text": "— In the end it had to return.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— hiː ɔːɹ ʃiː wˈɔntᵻd tə hˈɛlp bˌʌt dɪdnˌɑːt hæv tˈaɪm."
+          "phonemes": "— ɪnðɪ ˈɛnd ɪt hædtə ɹᵻtˈɜːn."
         }
       ]
     },
@@ -345,129 +345,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "pude",
+      "text": "el equipo",
       "sentences": [
         {
-          "text": "pude",
+          "text": "el equipo",
           "segments": [
             {
-              "text": "pude",
+              "text": "el equipo",
               "lang": "es-419"
             }
           ],
-          "phonemes": "pˈuðe"
+          "phonemes": "el ekˈipo"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "quise",
+      "text": "el puente",
       "sentences": [
         {
-          "text": "quise",
+          "text": "el puente",
           "segments": [
             {
-              "text": "quise",
+              "text": "el puente",
               "lang": "es-419"
             }
           ],
-          "phonemes": "kˈise"
+          "phonemes": "el pwˈɛnte"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "supe",
+      "text": "cruzar",
       "sentences": [
         {
-          "text": "supe",
+          "text": "cruzar",
           "segments": [
             {
-              "text": "supe",
+              "text": "cruzar",
               "lang": "es-419"
             }
           ],
-          "phonemes": "sˈupe"
+          "phonemes": "kɾusˈaɾ"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "tuve",
+      "text": "la tormenta",
       "sentences": [
         {
-          "text": "tuve",
+          "text": "la tormenta",
           "segments": [
             {
-              "text": "tuve",
+              "text": "la tormenta",
               "lang": "es-419"
             }
           ],
-          "phonemes": "tˈuβe"
+          "phonemes": "la toɾmˈɛnta"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "hice",
+      "text": "dañar",
       "sentences": [
         {
-          "text": "hice",
+          "text": "dañar",
           "segments": [
             {
-              "text": "hice",
+              "text": "dañar",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˈise"
+          "phonemes": "daɲˈaɾ"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "vine",
+      "text": "la carretera",
       "sentences": [
         {
-          "text": "vine",
+          "text": "la carretera",
           "segments": [
             {
-              "text": "vine",
+              "text": "la carretera",
               "lang": "es-419"
             }
           ],
-          "phonemes": "bˈine"
+          "phonemes": "la kˌaretˈeɾa"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "fui",
+      "text": "regresar",
       "sentences": [
         {
-          "text": "fui",
+          "text": "regresar",
           "segments": [
             {
-              "text": "fui",
+              "text": "regresar",
               "lang": "es-419"
             }
           ],
-          "phonemes": "fwˈi"
+          "phonemes": "rˌeɣɾesˈaɾ"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "dije",
+      "text": "finalmente",
       "sentences": [
         {
-          "text": "dije",
+          "text": "finalmente",
           "segments": [
             {
-              "text": "dije",
+              "text": "finalmente",
               "lang": "es-419"
             }
           ],
-          "phonemes": "dˈixe"
+          "phonemes": "finˈalmˈente"
         }
       ]
     }

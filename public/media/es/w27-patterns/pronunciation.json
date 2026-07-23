@@ -29,7 +29,7 @@
     },
     {
       "file": "01.wav",
-      "text": "Form and meaning. Present subjunctive formation; noun clauses after will, influence, recommendation, necessity, and emotion.",
+      "text": "Form and meaning. Applying the form. The subjunctive appears in a noun clause after que when the main clause expresses will, influence, recommendation, necessity, or emotion, and the subject changes between clauses.",
       "sentences": [
         {
           "text": "Form and meaning.",
@@ -42,20 +42,38 @@
           "phonemes": "fˈɔːɹm ænd mˈiːnɪŋ."
         },
         {
-          "text": "Present subjunctive formation; noun clauses after will, influence, recommendation, necessity, and emotion.",
+          "text": "Applying the form.",
           "segments": [
             {
-              "text": "Present subjunctive formation; noun clauses after will, influence, recommendation, necessity, and emotion.",
+              "text": "Applying the form.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "pɹˈɛzənt sˈʌbdʒəŋktˌɪv fɔːɹmˈeɪʃən; nˈaʊn klˈɔːzᵻz ˈæftɚ wˈɪl, ˈɪnfluːəns, ɹˌɛkəmɛndˈeɪʃən, nəsˈɛsɪɾi, ænd ɪmˈoʊʃən."
+          "phonemes": "ɐplˈaɪɪŋ ðə fˈɔːɹm."
+        },
+        {
+          "text": "The subjunctive appears in a noun clause after que when the main clause expresses will, influence, recommendation, necessity, or emotion, and the subject changes between clauses.",
+          "segments": [
+            {
+              "text": "The subjunctive appears in a noun clause after ",
+              "lang": "en-us"
+            },
+            {
+              "text": "que",
+              "lang": "es-419"
+            },
+            {
+              "text": " when the main clause expresses will, influence, recommendation, necessity, or emotion, and the subject changes between clauses.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðə sˈʌbdʒəŋktˌɪv ɐpˈɪɹz ɪn ɐ nˈaʊn klˈɔːz ˈæftɚ kˈe wˌɛn ðə mˈeɪn klˈɔːz ɛkspɹˈɛsᵻz wˈɪl, ˈɪnfluːəns, ɹˌɛkəmɛndˈeɪʃən, nəsˈɛsɪɾi, ɔːɹ ɪmˈoʊʃən, ænd ðə sˈʌbdʒɛkt tʃˈeɪndʒᵻz bᵻtwˌiːn klˈɔːzᵻz."
         }
       ]
     },
     {
       "file": "02.wav",
-      "text": "Model set. Recomiendo que revise los datos. Es necesario que participen los vecinos. Me alegra que estés aquí. El director pide que lleguemos temprano. Ojalá encuentren una solución justa. I recommend that you review the data. It is necessary for the residents to participate. I am glad you are here. The director asks us to arrive early. I hope they find a fair solution.",
+      "text": "Model set. Recomiendo que revise los datos. Pido que participen todos. Me alegra que estés aquí. Es necesario que lleguemos temprano. Ojalá que encuentren la solución. I recommend that you review the data. I ask that everyone participate. I'm glad that you're here. It's necessary that we arrive early. I hope that they find the solution.",
       "sentences": [
         {
           "text": "Model set.",
@@ -78,14 +96,14 @@
           "phonemes": "rˌekomjˈɛndo ke reβˈise los ðˈatos."
         },
         {
-          "text": "Es necesario que participen los vecinos.",
+          "text": "Pido que participen todos.",
           "segments": [
             {
-              "text": "Es necesario que participen los vecinos.",
+              "text": "Pido que participen todos.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˈes nˌesesˈaɾjo ke pˌaɾtisˈipen los βesˈinos."
+          "phonemes": "pˈiðo ke pˌaɾtisˈipen tˈoðos."
         },
         {
           "text": "Me alegra que estés aquí.",
@@ -98,24 +116,24 @@
           "phonemes": "me alˈeɣɾa ke estˈes akˈi."
         },
         {
-          "text": "El director pide que lleguemos temprano.",
+          "text": "Es necesario que lleguemos temprano.",
           "segments": [
             {
-              "text": "El director pide que lleguemos temprano.",
+              "text": "Es necesario que lleguemos temprano.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el ðˌiɾektˈoɾ pˈiðe ke ʝeɣˈemos tempɾˈano."
+          "phonemes": "ˈes nˌesesˈaɾjo ke ʝeɣˈemos tempɾˈano."
         },
         {
-          "text": "Ojalá encuentren una solución justa.",
+          "text": "Ojalá que encuentren la solución.",
           "segments": [
             {
-              "text": "Ojalá encuentren una solución justa.",
+              "text": "Ojalá que encuentren la solución.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˌoxalˈa enkwˈɛntɾen ˈuna sˌolusjˈon xˈusta."
+          "phonemes": "ˌoxalˈa ke enkwˈɛntɾen la sˌolusjˈon."
         },
         {
           "text": "I recommend that you review the data.",
@@ -128,44 +146,44 @@
           "phonemes": "aɪ ɹˌɛkəmˈɛnd ðæt juː ɹᵻvjˈuː ðə dˈeɪɾə."
         },
         {
-          "text": "It is necessary for the residents to participate.",
+          "text": "I ask that everyone participate.",
           "segments": [
             {
-              "text": "It is necessary for the residents to participate.",
+              "text": "I ask that everyone participate.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɪɾ ɪz nˈɛsᵻsɚɹi fɚðə ɹˈɛzᵻdənts tə pɑːɹtˈɪsᵻpˌeɪt."
+          "phonemes": "aɪ ˈæsk ðæt ˈɛvɹɪwˌʌn pɑːɹtˈɪsᵻpˌeɪt."
         },
         {
-          "text": "I am glad you are here.",
+          "text": "I'm glad that you're here.",
           "segments": [
             {
-              "text": "I am glad you are here.",
+              "text": "I'm glad that you're here.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪɐm ɡlˈæd juː ɑːɹ hˈɪɹ."
+          "phonemes": "aɪm ɡlˈæd ðæt jʊɹ hˈɪɹ."
         },
         {
-          "text": "The director asks us to arrive early.",
+          "text": "It's necessary that we arrive early.",
           "segments": [
             {
-              "text": "The director asks us to arrive early.",
+              "text": "It's necessary that we arrive early.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə dᵻɹˈɛktɚɹ ˈæsks ˌʌs tʊ ɚɹˈaɪv ˈɜːli."
+          "phonemes": "ɪts nˈɛsᵻsɚɹi ðæt wiː ɚɹˈaɪv ˈɜːli."
         },
         {
-          "text": "I hope they find a fair solution.",
+          "text": "I hope that they find the solution.",
           "segments": [
             {
-              "text": "I hope they find a fair solution.",
+              "text": "I hope that they find the solution.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪ hˈoʊp ðeɪ fˈaɪnd ɐ fˈɛɹ səlˈuːʃən."
+          "phonemes": "aɪ hˈoʊp ðæt ðeɪ fˈaɪnd ðə səlˈuːʃən."
         }
       ]
     },
@@ -243,7 +261,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Model language. Recomiendo que revise los datos. — I recommend that you review the data. Es necesario que participen los vecinos. — It is necessary for the residents to participate. Me alegra que estés aquí. — I am glad you are here. El director pide que lleguemos temprano. — The director asks us to arrive early. Ojalá encuentren una solución justa. — I hope they find a fair solution.",
+      "text": "Model language. Recomiendo que revise los datos. — I recommend that you review the data. Pido que participen todos. — I ask that everyone participate. Me alegra que estés aquí. — I'm glad that you're here. Es necesario que lleguemos temprano. — It's necessary that we arrive early. Ojalá que encuentren la solución. — I hope that they find the solution.",
       "sentences": [
         {
           "text": "Model language.",
@@ -276,24 +294,24 @@
           "phonemes": "— aɪ ɹˌɛkəmˈɛnd ðæt juː ɹᵻvjˈuː ðə dˈeɪɾə."
         },
         {
-          "text": "Es necesario que participen los vecinos.",
+          "text": "Pido que participen todos.",
           "segments": [
             {
-              "text": "Es necesario que participen los vecinos.",
+              "text": "Pido que participen todos.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˈes nˌesesˈaɾjo ke pˌaɾtisˈipen los βesˈinos."
+          "phonemes": "pˈiðo ke pˌaɾtisˈipen tˈoðos."
         },
         {
-          "text": "— It is necessary for the residents to participate.",
+          "text": "— I ask that everyone participate.",
           "segments": [
             {
-              "text": "— It is necessary for the residents to participate.",
+              "text": "— I ask that everyone participate.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ɪɾ ɪz nˈɛsᵻsɚɹi fɚðə ɹˈɛzᵻdənts tə pɑːɹtˈɪsᵻpˌeɪt."
+          "phonemes": "— aɪ ˈæsk ðæt ˈɛvɹɪwˌʌn pɑːɹtˈɪsᵻpˌeɪt."
         },
         {
           "text": "Me alegra que estés aquí.",
@@ -306,54 +324,54 @@
           "phonemes": "me alˈeɣɾa ke estˈes akˈi."
         },
         {
-          "text": "— I am glad you are here.",
+          "text": "— I'm glad that you're here.",
           "segments": [
             {
-              "text": "— I am glad you are here.",
+              "text": "— I'm glad that you're here.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— aɪɐm ɡlˈæd juː ɑːɹ hˈɪɹ."
+          "phonemes": "— aɪm ɡlˈæd ðæt jʊɹ hˈɪɹ."
         },
         {
-          "text": "El director pide que lleguemos temprano.",
+          "text": "Es necesario que lleguemos temprano.",
           "segments": [
             {
-              "text": "El director pide que lleguemos temprano.",
+              "text": "Es necesario que lleguemos temprano.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el ðˌiɾektˈoɾ pˈiðe ke ʝeɣˈemos tempɾˈano."
+          "phonemes": "ˈes nˌesesˈaɾjo ke ʝeɣˈemos tempɾˈano."
         },
         {
-          "text": "— The director asks us to arrive early.",
+          "text": "— It's necessary that we arrive early.",
           "segments": [
             {
-              "text": "— The director asks us to arrive early.",
+              "text": "— It's necessary that we arrive early.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ðə dᵻɹˈɛktɚɹ ˈæsks ˌʌs tʊ ɚɹˈaɪv ˈɜːli."
+          "phonemes": "— ɪts nˈɛsᵻsɚɹi ðæt wiː ɚɹˈaɪv ˈɜːli."
         },
         {
-          "text": "Ojalá encuentren una solución justa.",
+          "text": "Ojalá que encuentren la solución.",
           "segments": [
             {
-              "text": "Ojalá encuentren una solución justa.",
+              "text": "Ojalá que encuentren la solución.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˌoxalˈa enkwˈɛntɾen ˈuna sˌolusjˈon xˈusta."
+          "phonemes": "ˌoxalˈa ke enkwˈɛntɾen la sˌolusjˈon."
         },
         {
-          "text": "— I hope they find a fair solution.",
+          "text": "— I hope that they find the solution.",
           "segments": [
             {
-              "text": "— I hope they find a fair solution.",
+              "text": "— I hope that they find the solution.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— aɪ hˈoʊp ðeɪ fˈaɪnd ɐ fˈɛɹ səlˈuːʃən."
+          "phonemes": "— aɪ hˈoʊp ðæt ðeɪ fˈaɪnd ðə səlˈuːʃən."
         }
       ]
     },
@@ -405,129 +423,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "recomendar",
+      "text": "que revise",
       "sentences": [
         {
-          "text": "recomendar",
+          "text": "que revise",
           "segments": [
             {
-              "text": "recomendar",
+              "text": "que revise",
               "lang": "es-419"
             }
           ],
-          "phonemes": "rˌekomendˈaɾ"
+          "phonemes": "ke reβˈise"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "pedir",
+      "text": "que participen",
       "sentences": [
         {
-          "text": "pedir",
+          "text": "que participen",
           "segments": [
             {
-              "text": "pedir",
+              "text": "que participen",
               "lang": "es-419"
             }
           ],
-          "phonemes": "peðˈiɾ"
+          "phonemes": "ke pˌaɾtisˈipen"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "exigir",
+      "text": "que estés",
       "sentences": [
         {
-          "text": "exigir",
+          "text": "que estés",
           "segments": [
             {
-              "text": "exigir",
+              "text": "que estés",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˌeksixˈiɾ"
+          "phonemes": "ke estˈes"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "esperar",
+      "text": "que lleguemos",
       "sentences": [
         {
-          "text": "esperar",
+          "text": "que lleguemos",
           "segments": [
             {
-              "text": "esperar",
+              "text": "que lleguemos",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˌespeɾˈaɾ"
+          "phonemes": "ke ʝeɣˈemos"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "alegrarse",
+      "text": "que encuentren",
       "sentences": [
         {
-          "text": "alegrarse",
+          "text": "que encuentren",
           "segments": [
             {
-              "text": "alegrarse",
+              "text": "que encuentren",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˌaleɣɾˈaɾse"
+          "phonemes": "ke enkwˈɛntɾen"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "lamentar",
+      "text": "el subjuntivo",
       "sentences": [
         {
-          "text": "lamentar",
+          "text": "el subjuntivo",
           "segments": [
             {
-              "text": "lamentar",
+              "text": "el subjuntivo",
               "lang": "es-419"
             }
           ],
-          "phonemes": "lˌamentˈaɾ"
+          "phonemes": "el sˌuβxuntˈiβo"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "es necesario",
+      "text": "el cambio de sujeto",
       "sentences": [
         {
-          "text": "es necesario",
+          "text": "el cambio de sujeto",
           "segments": [
             {
-              "text": "es necesario",
+              "text": "el cambio de sujeto",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˈes nˌesesˈaɾjo"
+          "phonemes": "el kˈambjo ðe suxˈeto"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "ojalá",
+      "text": "que",
       "sentences": [
         {
-          "text": "ojalá",
+          "text": "que",
           "segments": [
             {
-              "text": "ojalá",
+              "text": "que",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˌoxalˈa"
+          "phonemes": "kˈe"
         }
       ]
     }

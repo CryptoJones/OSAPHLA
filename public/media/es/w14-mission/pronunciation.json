@@ -143,7 +143,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Model language. El tren sale del andén cuatro. — The train leaves from platform four. Acabamos de llegar al aeropuerto. — We have just arrived at the airport. Tengo una reserva a nombre de Rivera. — I have a reservation under the name Rivera. Mi equipaje no aparece. — My luggage is missing. Vamos a quedarnos tres noches. — We are going to stay three nights.",
+      "text": "Model language. Voy a completar un viaje con varias etapas. — I am going to complete a multi-leg trip. Hay un retraso en el primer tramo. — There is a delay on the first leg. Mi reserva está ausente en el sistema. — My reservation is missing from the system. A pesar del problema, continúo el viaje. — Despite the problem, I continue the trip. Resuelvo cada etapa con un plan alternativo. — I resolve each leg with a backup plan.",
       "sentences": [
         {
           "text": "Model language.",
@@ -156,104 +156,104 @@
           "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
         },
         {
-          "text": "El tren sale del andén cuatro.",
+          "text": "Voy a completar un viaje con varias etapas.",
           "segments": [
             {
-              "text": "El tren sale del andén cuatro.",
+              "text": "Voy a completar un viaje con varias etapas.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el tɾˈen sˈale ðel andˈen kwˈatɾo."
+          "phonemes": "bˈoɪ a kˌompletˈaɾ ˈum bjˈaxe kom bˈaɾjas etˈapas."
         },
         {
-          "text": "— The train leaves from platform four.",
+          "text": "— I am going to complete a multi-leg trip.",
           "segments": [
             {
-              "text": "— The train leaves from platform four.",
+              "text": "— I am going to complete a multi-leg trip.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ðə tɹˈeɪn lˈiːvz fɹʌm plˈætfɔːɹm fˈɔːɹ."
+          "phonemes": "— aɪɐm ɡˌoʊɪŋ tə kəmplˈiːt ɐ mˈʌltaɪlˈɛɡ tɹˈɪp."
         },
         {
-          "text": "Acabamos de llegar al aeropuerto.",
+          "text": "Hay un retraso en el primer tramo.",
           "segments": [
             {
-              "text": "Acabamos de llegar al aeropuerto.",
+              "text": "Hay un retraso en el primer tramo.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˌakaβˈamos ðe ʝeɣˈaɾ al ˌaeɾopwˈeɾto."
+          "phonemes": "ˈaɪ ˈun retɾˈaso en el pɾimˈeɾ tɾˈamo."
         },
         {
-          "text": "— We have just arrived at the airport.",
+          "text": "— There is a delay on the first leg.",
           "segments": [
             {
-              "text": "— We have just arrived at the airport.",
+              "text": "— There is a delay on the first leg.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— wiː hæv dʒˈʌst ɚɹˈaɪvd æt ðɪ ˈɛɹpɔːɹt."
+          "phonemes": "— ðɛɹ ɪz ɐ dᵻlˈeɪ ɔnðə fˈɜːst lˈɛɡ."
         },
         {
-          "text": "Tengo una reserva a nombre de Rivera.",
+          "text": "Mi reserva está ausente en el sistema.",
           "segments": [
             {
-              "text": "Tengo una reserva a nombre de Rivera.",
+              "text": "Mi reserva está ausente en el sistema.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "tˈɛŋɡo ˈuna resˈeɾβa a nˈombɾe ðe riβˈeɾa."
+          "phonemes": "mi resˈeɾβa estˈa aʊsˈɛnte en el sistˈema."
         },
         {
-          "text": "— I have a reservation under the name Rivera.",
+          "text": "— My reservation is missing from the system.",
           "segments": [
             {
-              "text": "— I have a reservation under the name Rivera.",
+              "text": "— My reservation is missing from the system.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— aɪ hæv ɐ ɹˌɛzɚvˈeɪʃən ˌʌndɚ ðə nˈeɪm ɹɪvˈɛɹə."
+          "phonemes": "— maɪ ɹˌɛzɚvˈeɪʃən ɪz mˈɪsɪŋ fɹʌmðə sˈɪstəm."
         },
         {
-          "text": "Mi equipaje no aparece.",
+          "text": "A pesar del problema, continúo el viaje.",
           "segments": [
             {
-              "text": "Mi equipaje no aparece.",
+              "text": "A pesar del problema, continúo el viaje.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "mi ˌekipˈaxe nˈo ˌapaɾˈese."
+          "phonemes": "a pesˈaɾ ðel pɾoβlˈema, kˌontinˈuo el βjˈaxe."
         },
         {
-          "text": "— My luggage is missing.",
+          "text": "— Despite the problem, I continue the trip.",
           "segments": [
             {
-              "text": "— My luggage is missing.",
+              "text": "— Despite the problem, I continue the trip.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— maɪ lˈʌɡɪdʒ ɪz mˈɪsɪŋ."
+          "phonemes": "— dᵻspˈaɪt ðə pɹˈɑːbləm, aɪ kəntˈɪnjuː ðə tɹˈɪp."
         },
         {
-          "text": "Vamos a quedarnos tres noches.",
+          "text": "Resuelvo cada etapa con un plan alternativo.",
           "segments": [
             {
-              "text": "Vamos a quedarnos tres noches.",
+              "text": "Resuelvo cada etapa con un plan alternativo.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "bˈamos a keðˈaɾnos tɾˈes nˈotʃes."
+          "phonemes": "reswˈelβo kˈaða etˈapa kon ˈum plˈan ˌalteɾnatˈiβo."
         },
         {
-          "text": "— We are going to stay three nights.",
+          "text": "— I resolve each leg with a backup plan.",
           "segments": [
             {
-              "text": "— We are going to stay three nights.",
+              "text": "— I resolve each leg with a backup plan.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— wiː ɑːɹ ɡˌoʊɪŋ tə stˈeɪ θɹˈiː nˈaɪts."
+          "phonemes": "— aɪ ɹᵻzˈɑːlv ˈiːtʃ lˈɛɡ wɪð ɐ bˈækʌp plˈæn."
         }
       ]
     },
@@ -305,129 +305,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "el billete",
+      "text": "la etapa",
       "sentences": [
         {
-          "text": "el billete",
+          "text": "la etapa",
           "segments": [
             {
-              "text": "el billete",
+              "text": "la etapa",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el βijjˈete"
+          "phonemes": "la etˈapa"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "el vuelo",
+      "text": "el retraso",
       "sentences": [
         {
-          "text": "el vuelo",
+          "text": "el retraso",
           "segments": [
             {
-              "text": "el vuelo",
+              "text": "el retraso",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el βwˈelo"
+          "phonemes": "el retɾˈaso"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "el andén",
+      "text": "ausente",
       "sentences": [
         {
-          "text": "el andén",
+          "text": "ausente",
           "segments": [
             {
-              "text": "el andén",
+              "text": "ausente",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el andˈen"
+          "phonemes": "aʊsˈɛnte"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "la reserva",
+      "text": "completar",
       "sentences": [
         {
-          "text": "la reserva",
+          "text": "completar",
           "segments": [
             {
-              "text": "la reserva",
+              "text": "completar",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la resˈeɾβa"
+          "phonemes": "kˌompletˈaɾ"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "la habitación",
+      "text": "a pesar de",
       "sentences": [
         {
-          "text": "la habitación",
+          "text": "a pesar de",
           "segments": [
             {
-              "text": "la habitación",
+              "text": "a pesar de",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la ˌaβitasjˈon"
+          "phonemes": "a pesˈaɾ ðˈe"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "el equipaje",
+      "text": "resolver",
       "sentences": [
         {
-          "text": "el equipaje",
+          "text": "resolver",
           "segments": [
             {
-              "text": "el equipaje",
+              "text": "resolver",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el ˌekipˈaxe"
+          "phonemes": "rˌesolβˈeɾ"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "salir",
+      "text": "continuar",
       "sentences": [
         {
-          "text": "salir",
+          "text": "continuar",
           "segments": [
             {
-              "text": "salir",
+              "text": "continuar",
               "lang": "es-419"
             }
           ],
-          "phonemes": "salˈiɾ"
+          "phonemes": "kˌontinwˈaɾ"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "llegar",
+      "text": "el plan alternativo",
       "sentences": [
         {
-          "text": "llegar",
+          "text": "el plan alternativo",
           "segments": [
             {
-              "text": "llegar",
+              "text": "el plan alternativo",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ʝeɣˈaɾ"
+          "phonemes": "el plˈan ˌalteɾnatˈiβo"
         }
       ]
     }

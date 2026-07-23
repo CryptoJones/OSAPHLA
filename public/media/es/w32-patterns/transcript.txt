@@ -1,6 +1,6 @@
-Form and meaning. Reported speech; reciprocal constructions; stressed possessives; formal connectors and nominal style.
+Form and meaning. Applying the form. Reported speech shifts verb tense back one step (dice → dijo que decía); stressed possessives (el mío, la suya) replace a noun already mentioned.
 
-Model set. Según la técnica, la red ya funciona. Nos comunicamos por un canal seguro. El director dijo que ampliarían el plazo. Adjunto encontrará el informe solicitado. Con respecto al incidente, faltan dos datos. According to the technician, the network is already working. We communicate through a secure channel. The director said they would extend the deadline. Attached you will find the requested report. Regarding the incident, two pieces of information are missing.
+Model set. Dijo que llegaría tarde. Según ella, el sistema funciona bien. Este archivo es el mío. Esa contraseña es la suya. Además, el plazo se extendió. He/she said that he/she would arrive late. According to her, the system works well. This file is mine. That password is his/hers. Furthermore, the deadline was extended.
 
 Contrastive practice. Change the person, time, number, or level of formality in each model. Preserve the communicative purpose while the grammar changes.
 

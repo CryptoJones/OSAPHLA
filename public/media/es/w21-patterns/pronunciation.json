@@ -29,7 +29,7 @@
     },
     {
       "file": "01.wav",
-      "text": "Form and meaning. Direct- and indirect-object pronouns; placement with conjugated verbs, infinitives, gerunds, and commands.",
+      "text": "Form and meaning. Applying the form. Object pronouns attach before a conjugated verb (lo envié) or after an infinitive/gerund/command (enviarlo); when le/les meets lo/la/los/las, le/les becomes se.",
       "sentences": [
         {
           "text": "Form and meaning.",
@@ -42,20 +42,102 @@
           "phonemes": "fˈɔːɹm ænd mˈiːnɪŋ."
         },
         {
-          "text": "Direct- and indirect-object pronouns; placement with conjugated verbs, infinitives, gerunds, and commands.",
+          "text": "Applying the form.",
           "segments": [
             {
-              "text": "Direct- and indirect-object pronouns; placement with conjugated verbs, infinitives, gerunds, and commands.",
+              "text": "Applying the form.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "dᵻɹˈɛkt ænd ˌɪndɚɹˈɛktˈɑːbdʒɛkt pɹˈoʊnaʊnz; plˈeɪsmənt wɪð kˈɑːndʒuːɡˌeɪɾᵻd vˈɜːbz, ɪnfˈɪnᵻtˌɪvz, dʒˈɛɹʌndz, ænd kəmˈændz."
+          "phonemes": "ɐplˈaɪɪŋ ðə fˈɔːɹm."
+        },
+        {
+          "text": "Object pronouns attach before a conjugated verb (lo envié) or after an infinitive/gerund/command (enviarlo); when le/les meets lo/la/los/las, le/les becomes se.",
+          "segments": [
+            {
+              "text": "Object pronouns attach before a conjugated verb (",
+              "lang": "en-us"
+            },
+            {
+              "text": "lo",
+              "lang": "es-419"
+            },
+            {
+              "text": " ",
+              "lang": "en-us"
+            },
+            {
+              "text": "envié",
+              "lang": "es-419"
+            },
+            {
+              "text": ") or after an infinitive/gerund/command (enviarlo); when ",
+              "lang": "en-us"
+            },
+            {
+              "text": "le",
+              "lang": "es-419"
+            },
+            {
+              "text": "/",
+              "lang": "en-us"
+            },
+            {
+              "text": "les",
+              "lang": "es-419"
+            },
+            {
+              "text": " meets ",
+              "lang": "en-us"
+            },
+            {
+              "text": "lo",
+              "lang": "es-419"
+            },
+            {
+              "text": "/",
+              "lang": "en-us"
+            },
+            {
+              "text": "la",
+              "lang": "es-419"
+            },
+            {
+              "text": "/los/las, ",
+              "lang": "en-us"
+            },
+            {
+              "text": "le",
+              "lang": "es-419"
+            },
+            {
+              "text": "/",
+              "lang": "en-us"
+            },
+            {
+              "text": "les",
+              "lang": "es-419"
+            },
+            {
+              "text": " becomes ",
+              "lang": "en-us"
+            },
+            {
+              "text": "se",
+              "lang": "es-419"
+            },
+            {
+              "text": ".",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ˈɑːbdʒɛkt pɹˈoʊnaʊnz ɐtˈætʃ bᵻfˌɔːɹ ɐ kˈɑːndʒuːɡˌeɪɾᵻd vˈɜːb ( lˈo embjˈe ) ɔːɹ ˈæftɚɹ ɐn ɪnfˈɪnᵻtˌɪv slˈæʃ dʒˈɛɹʌnd slˈæʃ kəmˈænd (ɛnvˈaɪɚloʊ); wˌɛn lˈe slˈæʃ lˈes mˈiːts lˈo slˈæʃ lˈa slˈæʃ lˌɑːs slˈæʃ lˌɑːs, lˈe slˈæʃ lˈes bɪkˈʌmz sˈe ."
         }
       ]
     },
     {
       "file": "02.wav",
-      "text": "Model set. Le envié el mensaje esta mañana. El paquete lo recibió otra persona. ¿Puedes mostrármelo? No les expliqué el cambio. Devuélvale los documentos al gerente. I sent him or her the message this morning. Someone else received the package. Can you show it to me? I did not explain the change to them. Return the documents to the manager.",
+      "text": "Model set. Lo envié ayer. La recibí esta mañana. Le mandé el mensaje. Se lo expliqué con calma. Me lo mostraron primero. I sent it yesterday. I received it this morning. I sent him/her the message. I explained it to him/her calmly. They showed it to me first.",
       "sentences": [
         {
           "text": "Model set.",
@@ -68,104 +150,104 @@
           "phonemes": "mˈɑːdəl sˈɛt."
         },
         {
-          "text": "Le envié el mensaje esta mañana.",
+          "text": "Lo envié ayer.",
           "segments": [
             {
-              "text": "Le envié el mensaje esta mañana.",
+              "text": "Lo envié ayer.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "le embjˈe el mensˈaxe ˈesta maɲˈana."
+          "phonemes": "lo embjˈe aʝˈeɾ."
         },
         {
-          "text": "El paquete lo recibió otra persona.",
+          "text": "La recibí esta mañana.",
           "segments": [
             {
-              "text": "El paquete lo recibió otra persona.",
+              "text": "La recibí esta mañana.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el pakˈete lo rˌesiβjˈo ˈotɾa peɾsˈona."
+          "phonemes": "la rˌesiβˈi ˈesta maɲˈana."
         },
         {
-          "text": "¿Puedes mostrármelo?",
+          "text": "Le mandé el mensaje.",
           "segments": [
             {
-              "text": "¿Puedes mostrármelo?",
+              "text": "Le mandé el mensaje.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "pwˈeðes mostɾˈaɾmelo?"
+          "phonemes": "le mandˈe el mensˈaxe."
         },
         {
-          "text": "No les expliqué el cambio.",
+          "text": "Se lo expliqué con calma.",
           "segments": [
             {
-              "text": "No les expliqué el cambio.",
+              "text": "Se lo expliqué con calma.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "nˈo les ˌeksplikˈe el kˈambjo."
+          "phonemes": "se lo ˌeksplikˈe kon kˈalma."
         },
         {
-          "text": "Devuélvale los documentos al gerente.",
+          "text": "Me lo mostraron primero.",
           "segments": [
             {
-              "text": "Devuélvale los documentos al gerente.",
+              "text": "Me lo mostraron primero.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "deβwˈelβale los ðˌokumˈɛntos al xeɾˈɛnte."
+          "phonemes": "me lo mostɾˈaɾom pɾimˈeɾo."
         },
         {
-          "text": "I sent him or her the message this morning.",
+          "text": "I sent it yesterday.",
           "segments": [
             {
-              "text": "I sent him or her the message this morning.",
+              "text": "I sent it yesterday.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪ sˈɛnt hˌɪm ɔːɹ hɜː ðə mˈɛsɪdʒ ðɪs mˈɔːɹnɪŋ."
+          "phonemes": "aɪ sˈɛnt ɪt jˈɛstɚdˌeɪ."
         },
         {
-          "text": "Someone else received the package.",
+          "text": "I received it this morning.",
           "segments": [
             {
-              "text": "Someone else received the package.",
+              "text": "I received it this morning.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "sˈʌmwʌn ˈɛls ɹᵻsˈiːvd ðə pˈækɪdʒ."
+          "phonemes": "aɪ ɹᵻsˈiːvd ɪt ðɪs mˈɔːɹnɪŋ."
         },
         {
-          "text": "Can you show it to me?",
+          "text": "I sent him/her the message.",
           "segments": [
             {
-              "text": "Can you show it to me?",
+              "text": "I sent him/her the message.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "kæn juː ʃˈoʊ ɪt tə mˌiː?"
+          "phonemes": "aɪ sˈɛnt hˌɪm slˈæʃ hɜː ðə mˈɛsɪdʒ."
         },
         {
-          "text": "I did not explain the change to them.",
+          "text": "I explained it to him/her calmly.",
           "segments": [
             {
-              "text": "I did not explain the change to them.",
+              "text": "I explained it to him/her calmly.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪ dɪdnˌɑːt ɛksplˈeɪn ðə tʃˈeɪndʒ tə ðˌɛm."
+          "phonemes": "aɪ ɛksplˈeɪnd ɪt tə hˌɪm slˈæʃ hɜː kˈɑːmli."
         },
         {
-          "text": "Return the documents to the manager.",
+          "text": "They showed it to me first.",
           "segments": [
             {
-              "text": "Return the documents to the manager.",
+              "text": "They showed it to me first.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɹᵻtˈɜːn ðə dˈɑːkjuːmənts tə ðə mˈænɪdʒɚ."
+          "phonemes": "ðeɪ ʃˈoʊd ɪt tə mˌiː fˈɜːst."
         }
       ]
     },
@@ -243,7 +325,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Model language. Le envié el mensaje esta mañana. — I sent him or her the message this morning. El paquete lo recibió otra persona. — Someone else received the package. ¿Puedes mostrármelo? — Can you show it to me? No les expliqué el cambio. — I did not explain the change to them. Devuélvale los documentos al gerente. — Return the documents to the manager.",
+      "text": "Model language. Lo envié ayer. — I sent it yesterday. La recibí esta mañana. — I received it this morning. Le mandé el mensaje. — I sent him/her the message. Se lo expliqué con calma. — I explained it to him/her calmly. Me lo mostraron primero. — They showed it to me first.",
       "sentences": [
         {
           "text": "Model language.",
@@ -256,104 +338,104 @@
           "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
         },
         {
-          "text": "Le envié el mensaje esta mañana.",
+          "text": "Lo envié ayer.",
           "segments": [
             {
-              "text": "Le envié el mensaje esta mañana.",
+              "text": "Lo envié ayer.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "le embjˈe el mensˈaxe ˈesta maɲˈana."
+          "phonemes": "lo embjˈe aʝˈeɾ."
         },
         {
-          "text": "— I sent him or her the message this morning.",
+          "text": "— I sent it yesterday.",
           "segments": [
             {
-              "text": "— I sent him or her the message this morning.",
+              "text": "— I sent it yesterday.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— aɪ sˈɛnt hˌɪm ɔːɹ hɜː ðə mˈɛsɪdʒ ðɪs mˈɔːɹnɪŋ."
+          "phonemes": "— aɪ sˈɛnt ɪt jˈɛstɚdˌeɪ."
         },
         {
-          "text": "El paquete lo recibió otra persona.",
+          "text": "La recibí esta mañana.",
           "segments": [
             {
-              "text": "El paquete lo recibió otra persona.",
+              "text": "La recibí esta mañana.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el pakˈete lo rˌesiβjˈo ˈotɾa peɾsˈona."
+          "phonemes": "la rˌesiβˈi ˈesta maɲˈana."
         },
         {
-          "text": "— Someone else received the package.",
+          "text": "— I received it this morning.",
           "segments": [
             {
-              "text": "— Someone else received the package.",
+              "text": "— I received it this morning.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— sˈʌmwʌn ˈɛls ɹᵻsˈiːvd ðə pˈækɪdʒ."
+          "phonemes": "— aɪ ɹᵻsˈiːvd ɪt ðɪs mˈɔːɹnɪŋ."
         },
         {
-          "text": "¿Puedes mostrármelo?",
+          "text": "Le mandé el mensaje.",
           "segments": [
             {
-              "text": "¿Puedes mostrármelo?",
+              "text": "Le mandé el mensaje.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "pwˈeðes mostɾˈaɾmelo?"
+          "phonemes": "le mandˈe el mensˈaxe."
         },
         {
-          "text": "— Can you show it to me?",
+          "text": "— I sent him/her the message.",
           "segments": [
             {
-              "text": "— Can you show it to me?",
+              "text": "— I sent him/her the message.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— kæn juː ʃˈoʊ ɪt tə mˌiː?"
+          "phonemes": "— aɪ sˈɛnt hˌɪm slˈæʃ hɜː ðə mˈɛsɪdʒ."
         },
         {
-          "text": "No les expliqué el cambio.",
+          "text": "Se lo expliqué con calma.",
           "segments": [
             {
-              "text": "No les expliqué el cambio.",
+              "text": "Se lo expliqué con calma.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "nˈo les ˌeksplikˈe el kˈambjo."
+          "phonemes": "se lo ˌeksplikˈe kon kˈalma."
         },
         {
-          "text": "— I did not explain the change to them.",
+          "text": "— I explained it to him/her calmly.",
           "segments": [
             {
-              "text": "— I did not explain the change to them.",
+              "text": "— I explained it to him/her calmly.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— aɪ dɪdnˌɑːt ɛksplˈeɪn ðə tʃˈeɪndʒ tə ðˌɛm."
+          "phonemes": "— aɪ ɛksplˈeɪnd ɪt tə hˌɪm slˈæʃ hɜː kˈɑːmli."
         },
         {
-          "text": "Devuélvale los documentos al gerente.",
+          "text": "Me lo mostraron primero.",
           "segments": [
             {
-              "text": "Devuélvale los documentos al gerente.",
+              "text": "Me lo mostraron primero.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "deβwˈelβale los ðˌokumˈɛntos al xeɾˈɛnte."
+          "phonemes": "me lo mostɾˈaɾom pɾimˈeɾo."
         },
         {
-          "text": "— Return the documents to the manager.",
+          "text": "— They showed it to me first.",
           "segments": [
             {
-              "text": "— Return the documents to the manager.",
+              "text": "— They showed it to me first.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ɹᵻtˈɜːn ðə dˈɑːkjuːmənts tə ðə mˈænɪdʒɚ."
+          "phonemes": "— ðeɪ ʃˈoʊd ɪt tə mˌiː fˈɜːst."
         }
       ]
     },
@@ -405,129 +487,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "entregar",
+      "text": "lo",
       "sentences": [
         {
-          "text": "entregar",
+          "text": "lo",
           "segments": [
             {
-              "text": "entregar",
+              "text": "lo",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˌentɾeɣˈaɾ"
+          "phonemes": "lˈo"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "prestar",
+      "text": "la",
       "sentences": [
         {
-          "text": "prestar",
+          "text": "la",
           "segments": [
             {
-              "text": "prestar",
+              "text": "la",
               "lang": "es-419"
             }
           ],
-          "phonemes": "pɾestˈaɾ"
+          "phonemes": "lˈa"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "devolver",
+      "text": "le",
       "sentences": [
         {
-          "text": "devolver",
+          "text": "le",
           "segments": [
             {
-              "text": "devolver",
+              "text": "le",
               "lang": "es-419"
             }
           ],
-          "phonemes": "dˌeβolβˈeɾ"
+          "phonemes": "lˈe"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "enviar",
+      "text": "se lo",
       "sentences": [
         {
-          "text": "enviar",
+          "text": "se lo",
           "segments": [
             {
-              "text": "enviar",
+              "text": "se lo",
               "lang": "es-419"
             }
           ],
-          "phonemes": "embjˈaɾ"
+          "phonemes": "se lˈo"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "mostrar",
+      "text": "me lo",
       "sentences": [
         {
-          "text": "mostrar",
+          "text": "me lo",
           "segments": [
             {
-              "text": "mostrar",
+              "text": "me lo",
               "lang": "es-419"
             }
           ],
-          "phonemes": "mostɾˈaɾ"
+          "phonemes": "me lˈo"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "explicar",
+      "text": "el pronombre de objeto directo",
       "sentences": [
         {
-          "text": "explicar",
+          "text": "el pronombre de objeto directo",
           "segments": [
             {
-              "text": "explicar",
+              "text": "el pronombre de objeto directo",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˌeksplikˈaɾ"
+          "phonemes": "el pɾonˈombɾe ðe oβxˈeto ðiɾˈekto"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "el paquete",
+      "text": "el pronombre de objeto indirecto",
       "sentences": [
         {
-          "text": "el paquete",
+          "text": "el pronombre de objeto indirecto",
           "segments": [
             {
-              "text": "el paquete",
+              "text": "el pronombre de objeto indirecto",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el pakˈete"
+          "phonemes": "el pɾonˈombɾe ðe oβxˈeto ˌindiɾˈekto"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "el mensaje",
+      "text": "colocar",
       "sentences": [
         {
-          "text": "el mensaje",
+          "text": "colocar",
           "segments": [
             {
-              "text": "el mensaje",
+              "text": "colocar",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el mensˈaxe"
+          "phonemes": "kˌolokˈaɾ"
         }
       ]
     }

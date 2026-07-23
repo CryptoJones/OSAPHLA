@@ -143,7 +143,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Model language. Recomiendo que revise los datos. — I recommend that you review the data. Es necesario que participen los vecinos. — It is necessary for the residents to participate. Me alegra que estés aquí. — I am glad you are here. El director pide que lleguemos temprano. — The director asks us to arrive early. Ojalá encuentren una solución justa. — I hope they find a fair solution.",
+      "text": "Model language. Voy a responder a un problema comunitario. — I am going to respond to a community problem. Escucho a cada vecino y cada parte interesada. — I listen to each neighbor and stakeholder. Considero tres perspectivas distintas. — I consider three different perspectives. Propongo una solución que equilibre los intereses. — I propose a solution that balances the interests. Buscamos un punto en común. — We look for common ground.",
       "sentences": [
         {
           "text": "Model language.",
@@ -156,104 +156,104 @@
           "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
         },
         {
-          "text": "Recomiendo que revise los datos.",
+          "text": "Voy a responder a un problema comunitario.",
           "segments": [
             {
-              "text": "Recomiendo que revise los datos.",
+              "text": "Voy a responder a un problema comunitario.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "rˌekomjˈɛndo ke reβˈise los ðˈatos."
+          "phonemes": "bˈoɪ a rˌespondˈeɾ a ˈum pɾoβlˈema kˌomunitˈaɾjo."
         },
         {
-          "text": "— I recommend that you review the data.",
+          "text": "— I am going to respond to a community problem.",
           "segments": [
             {
-              "text": "— I recommend that you review the data.",
+              "text": "— I am going to respond to a community problem.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— aɪ ɹˌɛkəmˈɛnd ðæt juː ɹᵻvjˈuː ðə dˈeɪɾə."
+          "phonemes": "— aɪɐm ɡˌoʊɪŋ tə ɹᵻspˈɑːnd tʊ ɐ kəmjˈuːnᵻɾi pɹˈɑːbləm."
         },
         {
-          "text": "Es necesario que participen los vecinos.",
+          "text": "Escucho a cada vecino y cada parte interesada.",
           "segments": [
             {
-              "text": "Es necesario que participen los vecinos.",
+              "text": "Escucho a cada vecino y cada parte interesada.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˈes nˌesesˈaɾjo ke pˌaɾtisˈipen los βesˈinos."
+          "phonemes": "eskˈutʃo a kˈaða βesˈino i kˈaða pˈaɾte ˌinteɾesˈaða."
         },
         {
-          "text": "— It is necessary for the residents to participate.",
+          "text": "— I listen to each neighbor and stakeholder.",
           "segments": [
             {
-              "text": "— It is necessary for the residents to participate.",
+              "text": "— I listen to each neighbor and stakeholder.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ɪɾ ɪz nˈɛsᵻsɚɹi fɚðə ɹˈɛzᵻdənts tə pɑːɹtˈɪsᵻpˌeɪt."
+          "phonemes": "— aɪ lˈɪsən tʊ ˈiːtʃ nˈeɪbɚ ænd stˈeɪkhoʊldɚ."
         },
         {
-          "text": "Me alegra que estés aquí.",
+          "text": "Considero tres perspectivas distintas.",
           "segments": [
             {
-              "text": "Me alegra que estés aquí.",
+              "text": "Considero tres perspectivas distintas.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "me alˈeɣɾa ke estˈes akˈi."
+          "phonemes": "kˌonsiðˈeɾo tɾˈes pˌeɾspektˈiβas ðistˈintas."
         },
         {
-          "text": "— I am glad you are here.",
+          "text": "— I consider three different perspectives.",
           "segments": [
             {
-              "text": "— I am glad you are here.",
+              "text": "— I consider three different perspectives.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— aɪɐm ɡlˈæd juː ɑːɹ hˈɪɹ."
+          "phonemes": "— aɪ kənsˈɪdɚ θɹˈiː dˈɪfɹənt pɚspˈɛktɪvz."
         },
         {
-          "text": "El director pide que lleguemos temprano.",
+          "text": "Propongo una solución que equilibre los intereses.",
           "segments": [
             {
-              "text": "El director pide que lleguemos temprano.",
+              "text": "Propongo una solución que equilibre los intereses.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el ðˌiɾektˈoɾ pˈiðe ke ʝeɣˈemos tempɾˈano."
+          "phonemes": "pɾopˈoŋɡo ˈuna sˌolusjˈon ke ˌekilˈiβɾe los ˌinteɾˈeses."
         },
         {
-          "text": "— The director asks us to arrive early.",
+          "text": "— I propose a solution that balances the interests.",
           "segments": [
             {
-              "text": "— The director asks us to arrive early.",
+              "text": "— I propose a solution that balances the interests.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ðə dᵻɹˈɛktɚɹ ˈæsks ˌʌs tʊ ɚɹˈaɪv ˈɜːli."
+          "phonemes": "— aɪ pɹəpˈoʊz ɐ səlˈuːʃən ðæt bˈælənsᵻz ðɪ ˈɪntɹɛsts."
         },
         {
-          "text": "Ojalá encuentren una solución justa.",
+          "text": "Buscamos un punto en común.",
           "segments": [
             {
-              "text": "Ojalá encuentren una solución justa.",
+              "text": "Buscamos un punto en común.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˌoxalˈa enkwˈɛntɾen ˈuna sˌolusjˈon xˈusta."
+          "phonemes": "buskˈamos ˈum pˈunto en komˈun."
         },
         {
-          "text": "— I hope they find a fair solution.",
+          "text": "— We look for common ground.",
           "segments": [
             {
-              "text": "— I hope they find a fair solution.",
+              "text": "— We look for common ground.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— aɪ hˈoʊp ðeɪ fˈaɪnd ɐ fˈɛɹ səlˈuːʃən."
+          "phonemes": "— wiː lˈʊk fɔːɹ kˈɑːmən ɡɹˈaʊnd."
         }
       ]
     },
@@ -305,129 +305,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "recomendar",
+      "text": "el problema comunitario",
       "sentences": [
         {
-          "text": "recomendar",
+          "text": "el problema comunitario",
           "segments": [
             {
-              "text": "recomendar",
+              "text": "el problema comunitario",
               "lang": "es-419"
             }
           ],
-          "phonemes": "rˌekomendˈaɾ"
+          "phonemes": "el pɾoβlˈema kˌomunitˈaɾjo"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "pedir",
+      "text": "el vecino",
       "sentences": [
         {
-          "text": "pedir",
+          "text": "el vecino",
           "segments": [
             {
-              "text": "pedir",
+              "text": "el vecino",
               "lang": "es-419"
             }
           ],
-          "phonemes": "peðˈiɾ"
+          "phonemes": "el βesˈino"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "exigir",
+      "text": "la parte interesada",
       "sentences": [
         {
-          "text": "exigir",
+          "text": "la parte interesada",
           "segments": [
             {
-              "text": "exigir",
+              "text": "la parte interesada",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˌeksixˈiɾ"
+          "phonemes": "la pˈaɾte ˌinteɾesˈaða"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "esperar",
+      "text": "proponer",
       "sentences": [
         {
-          "text": "esperar",
+          "text": "proponer",
           "segments": [
             {
-              "text": "esperar",
+              "text": "proponer",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˌespeɾˈaɾ"
+          "phonemes": "pɾˌoponˈeɾ"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "alegrarse",
+      "text": "tres perspectivas",
       "sentences": [
         {
-          "text": "alegrarse",
+          "text": "tres perspectivas",
           "segments": [
             {
-              "text": "alegrarse",
+              "text": "tres perspectivas",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˌaleɣɾˈaɾse"
+          "phonemes": "tɾˈes pˌeɾspektˈiβas"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "lamentar",
+      "text": "considerar",
       "sentences": [
         {
-          "text": "lamentar",
+          "text": "considerar",
           "segments": [
             {
-              "text": "lamentar",
+              "text": "considerar",
               "lang": "es-419"
             }
           ],
-          "phonemes": "lˌamentˈaɾ"
+          "phonemes": "kˌonsiðeɾˈaɾ"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "es necesario",
+      "text": "equilibrar",
       "sentences": [
         {
-          "text": "es necesario",
+          "text": "equilibrar",
           "segments": [
             {
-              "text": "es necesario",
+              "text": "equilibrar",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˈes nˌesesˈaɾjo"
+          "phonemes": "ˌekiliβɾˈaɾ"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "ojalá",
+      "text": "el punto en común",
       "sentences": [
         {
-          "text": "ojalá",
+          "text": "el punto en común",
           "segments": [
             {
-              "text": "ojalá",
+              "text": "el punto en común",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˌoxalˈa"
+          "phonemes": "el pˈunto en komˈun"
         }
       ]
     }

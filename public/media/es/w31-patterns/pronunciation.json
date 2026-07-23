@@ -29,7 +29,7 @@
     },
     {
       "file": "01.wav",
-      "text": "Form and meaning. Advanced comparisons; superlatives; adverb placement; intensifiers; selected idioms and pragmatic limits.",
+      "text": "Form and meaning. Applying the form. Use más/menos + adjective + que for comparisons, el/la más + adjective for superlatives, and tan + adjective + como for equality.",
       "sentences": [
         {
           "text": "Form and meaning.",
@@ -42,20 +42,54 @@
           "phonemes": "fˈɔːɹm ænd mˈiːnɪŋ."
         },
         {
-          "text": "Advanced comparisons; superlatives; adverb placement; intensifiers; selected idioms and pragmatic limits.",
+          "text": "Applying the form.",
           "segments": [
             {
-              "text": "Advanced comparisons; superlatives; adverb placement; intensifiers; selected idioms and pragmatic limits.",
+              "text": "Applying the form.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐdvˈænst kəmpˈæɹɪsənz; suːpˈɜːlətˌɪvz; ˈædvɜːb plˈeɪsmənt; ɪntˈɛnsɪfˌaɪɚz; sᵻlˈɛktᵻd ˈɪdɪəmz ænd pɹæɡmˈæɾɪk lˈɪmɪts."
+          "phonemes": "ɐplˈaɪɪŋ ðə fˈɔːɹm."
+        },
+        {
+          "text": "Use más/menos + adjective + que for comparisons, el/la más + adjective for superlatives, and tan + adjective + como for equality.",
+          "segments": [
+            {
+              "text": "Use ",
+              "lang": "en-us"
+            },
+            {
+              "text": "más",
+              "lang": "es-419"
+            },
+            {
+              "text": "/menos + adjective + ",
+              "lang": "en-us"
+            },
+            {
+              "text": "que",
+              "lang": "es-419"
+            },
+            {
+              "text": " for comparisons, ",
+              "lang": "en-us"
+            },
+            {
+              "text": "el/la más",
+              "lang": "es-419"
+            },
+            {
+              "text": " + adjective for superlatives, and tan + adjective + como for equality.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "jˈuːs mˈas slˈæʃ mˈiːnoʊz plˈʌs ˈædʒɪktˌɪv plˈʌs kˈe fɔːɹ kəmpˈæɹɪsənz, el βˈara la mˈas plˈʌs ˈædʒɪktˌɪv fɔːɹ suːpˈɜːlətˌɪvz, ænd tˈæn plˈʌs ˈædʒɪktˌɪv plˈʌs kəmˈoʊ fɔːɹ iːkwˈɔlᵻɾi."
         }
       ]
     },
     {
       "file": "02.wav",
-      "text": "Model set. La segunda opción es mucho más viable. El informe menos claro fue el primero. El proyecto va viento en popa. Ese dato hay que tomarlo con pinzas. Su análisis dio en el clavo; sin embargo, faltan pruebas. The second option is much more viable. The least clear report was the first one. The project is going very well. That figure must be treated with caution. The analysis was exactly right; however, evidence is still lacking.",
+      "text": "Model set. Esta opción es mucho más eficiente que la anterior. Es la propuesta menos clara de todas. Es tan buena como esperábamos. Es, con diferencia, la mejor opción. El proyecto mejoró notablemente. This option is much more efficient than the previous one. It's the least clear proposal of all. It's as good as we expected. It's by far the best option. The project improved notably.",
       "sentences": [
         {
           "text": "Model set.",
@@ -68,104 +102,104 @@
           "phonemes": "mˈɑːdəl sˈɛt."
         },
         {
-          "text": "La segunda opción es mucho más viable.",
+          "text": "Esta opción es mucho más eficiente que la anterior.",
           "segments": [
             {
-              "text": "La segunda opción es mucho más viable.",
+              "text": "Esta opción es mucho más eficiente que la anterior.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la seɣˈunda opsjˈon ˈes mˈutʃo mˈas βjˈaβle."
+          "phonemes": "ˈesta opsjˈon ˈes mˈutʃo mˈas ˌefisjˈɛnte ke la ˌanteɾjˈoɾ."
         },
         {
-          "text": "El informe menos claro fue el primero.",
+          "text": "Es la propuesta menos clara de todas.",
           "segments": [
             {
-              "text": "El informe menos claro fue el primero.",
+              "text": "Es la propuesta menos clara de todas.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el infˈoɾme mˈenos klˈaɾo fwˈe el pɾimˈeɾo."
+          "phonemes": "ˈes la pɾopwˈesta mˈenos klˈaɾa ðe tˈoðas."
         },
         {
-          "text": "El proyecto va viento en popa.",
+          "text": "Es tan buena como esperábamos.",
           "segments": [
             {
-              "text": "El proyecto va viento en popa.",
+              "text": "Es tan buena como esperábamos.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el pɾoʝˈekto βˈa βjˈɛnto em pˈopa."
+          "phonemes": "ˈes tˈam bwˈena kˌomo ˌespeɾˈaβamos."
         },
         {
-          "text": "Ese dato hay que tomarlo con pinzas.",
+          "text": "Es, con diferencia, la mejor opción.",
           "segments": [
             {
-              "text": "Ese dato hay que tomarlo con pinzas.",
+              "text": "Es, con diferencia, la mejor opción.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˈese ðˈato ˈaɪ ke tomˈaɾlo kom pˈinsas."
+          "phonemes": "ˈes, kon dˌifeɾˈɛnsja, la mexˈoɾ opsjˈon."
         },
         {
-          "text": "Su análisis dio en el clavo; sin embargo, faltan pruebas.",
+          "text": "El proyecto mejoró notablemente.",
           "segments": [
             {
-              "text": "Su análisis dio en el clavo; sin embargo, faltan pruebas.",
+              "text": "El proyecto mejoró notablemente.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "su anˈalisis ðjˈo en el klˈaβo; sin embˈaɾɣo, fˈaltam pɾuˈeβas."
+          "phonemes": "el pɾoʝˈekto mˌexoɾˈo notˈaβlemˈente."
         },
         {
-          "text": "The second option is much more viable.",
+          "text": "This option is much more efficient than the previous one.",
           "segments": [
             {
-              "text": "The second option is much more viable.",
+              "text": "This option is much more efficient than the previous one.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə sˈɛkənd ˈɑːpʃən ɪz mˈʌtʃ mˈɔːɹ vˈaɪəbəl."
+          "phonemes": "ðɪs ˈɑːpʃən ɪz mˈʌtʃ mˈɔːɹ ɪfˈɪʃənt ðɐn ðə pɹˈiːviəs wˌʌn."
         },
         {
-          "text": "The least clear report was the first one.",
+          "text": "It's the least clear proposal of all.",
           "segments": [
             {
-              "text": "The least clear report was the first one.",
+              "text": "It's the least clear proposal of all.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə lˈiːst klˈɪɹ ɹᵻpˈɔːɹt wʌzðə fˈɜːst wˌʌn."
+          "phonemes": "ɪts ðə lˈiːst klˈɪɹ pɹəpˈoʊzəl ʌv ˈɔːl."
         },
         {
-          "text": "The project is going very well.",
+          "text": "It's as good as we expected.",
           "segments": [
             {
-              "text": "The project is going very well.",
+              "text": "It's as good as we expected.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə pɹˈɑːdʒɛkt ɪz ɡˌoʊɪŋ vˈɛɹi wˈɛl."
+          "phonemes": "ɪts æz ɡˈʊd æz wiː ɛkspˈɛktᵻd."
         },
         {
-          "text": "That figure must be treated with caution.",
+          "text": "It's by far the best option.",
           "segments": [
             {
-              "text": "That figure must be treated with caution.",
+              "text": "It's by far the best option.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðæt fˈɪɡjɚ mˈʌst biː tɹˈiːɾᵻd wɪð kˈɔːʃən."
+          "phonemes": "ɪts baɪ fˈɑːɹ ðə bˈɛst ˈɑːpʃən."
         },
         {
-          "text": "The analysis was exactly right; however, evidence is still lacking.",
+          "text": "The project improved notably.",
           "segments": [
             {
-              "text": "The analysis was exactly right; however, evidence is still lacking.",
+              "text": "The project improved notably.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðɪ ɐnˈæləsˌɪs wʌz ɛɡzˈæktli ɹˈaɪt; haʊˈɛvɚ, ˈɛvɪdəns ɪz stˈɪl lˈækɪŋ."
+          "phonemes": "ðə pɹˈɑːdʒɛkt ɪmpɹˈuːvd nˈoʊɾəbli."
         }
       ]
     },
@@ -243,7 +277,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Model language. La segunda opción es mucho más viable. — The second option is much more viable. El informe menos claro fue el primero. — The least clear report was the first one. El proyecto va viento en popa. — The project is going very well. Ese dato hay que tomarlo con pinzas. — That figure must be treated with caution. Su análisis dio en el clavo; sin embargo, faltan pruebas. — The analysis was exactly right; however, evidence is still lacking.",
+      "text": "Model language. Esta opción es mucho más eficiente que la anterior. — This option is much more efficient than the previous one. Es la propuesta menos clara de todas. — It's the least clear proposal of all. Es tan buena como esperábamos. — It's as good as we expected. Es, con diferencia, la mejor opción. — It's by far the best option. El proyecto mejoró notablemente. — The project improved notably.",
       "sentences": [
         {
           "text": "Model language.",
@@ -256,104 +290,104 @@
           "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
         },
         {
-          "text": "La segunda opción es mucho más viable.",
+          "text": "Esta opción es mucho más eficiente que la anterior.",
           "segments": [
             {
-              "text": "La segunda opción es mucho más viable.",
+              "text": "Esta opción es mucho más eficiente que la anterior.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la seɣˈunda opsjˈon ˈes mˈutʃo mˈas βjˈaβle."
+          "phonemes": "ˈesta opsjˈon ˈes mˈutʃo mˈas ˌefisjˈɛnte ke la ˌanteɾjˈoɾ."
         },
         {
-          "text": "— The second option is much more viable.",
+          "text": "— This option is much more efficient than the previous one.",
           "segments": [
             {
-              "text": "— The second option is much more viable.",
+              "text": "— This option is much more efficient than the previous one.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ðə sˈɛkənd ˈɑːpʃən ɪz mˈʌtʃ mˈɔːɹ vˈaɪəbəl."
+          "phonemes": "— ðɪs ˈɑːpʃən ɪz mˈʌtʃ mˈɔːɹ ɪfˈɪʃənt ðɐn ðə pɹˈiːviəs wˌʌn."
         },
         {
-          "text": "El informe menos claro fue el primero.",
+          "text": "Es la propuesta menos clara de todas.",
           "segments": [
             {
-              "text": "El informe menos claro fue el primero.",
+              "text": "Es la propuesta menos clara de todas.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el infˈoɾme mˈenos klˈaɾo fwˈe el pɾimˈeɾo."
+          "phonemes": "ˈes la pɾopwˈesta mˈenos klˈaɾa ðe tˈoðas."
         },
         {
-          "text": "— The least clear report was the first one.",
+          "text": "— It's the least clear proposal of all.",
           "segments": [
             {
-              "text": "— The least clear report was the first one.",
+              "text": "— It's the least clear proposal of all.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ðə lˈiːst klˈɪɹ ɹᵻpˈɔːɹt wʌzðə fˈɜːst wˌʌn."
+          "phonemes": "— ɪts ðə lˈiːst klˈɪɹ pɹəpˈoʊzəl ʌv ˈɔːl."
         },
         {
-          "text": "El proyecto va viento en popa.",
+          "text": "Es tan buena como esperábamos.",
           "segments": [
             {
-              "text": "El proyecto va viento en popa.",
+              "text": "Es tan buena como esperábamos.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el pɾoʝˈekto βˈa βjˈɛnto em pˈopa."
+          "phonemes": "ˈes tˈam bwˈena kˌomo ˌespeɾˈaβamos."
         },
         {
-          "text": "— The project is going very well.",
+          "text": "— It's as good as we expected.",
           "segments": [
             {
-              "text": "— The project is going very well.",
+              "text": "— It's as good as we expected.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ðə pɹˈɑːdʒɛkt ɪz ɡˌoʊɪŋ vˈɛɹi wˈɛl."
+          "phonemes": "— ɪts æz ɡˈʊd æz wiː ɛkspˈɛktᵻd."
         },
         {
-          "text": "Ese dato hay que tomarlo con pinzas.",
+          "text": "Es, con diferencia, la mejor opción.",
           "segments": [
             {
-              "text": "Ese dato hay que tomarlo con pinzas.",
+              "text": "Es, con diferencia, la mejor opción.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˈese ðˈato ˈaɪ ke tomˈaɾlo kom pˈinsas."
+          "phonemes": "ˈes, kon dˌifeɾˈɛnsja, la mexˈoɾ opsjˈon."
         },
         {
-          "text": "— That figure must be treated with caution.",
+          "text": "— It's by far the best option.",
           "segments": [
             {
-              "text": "— That figure must be treated with caution.",
+              "text": "— It's by far the best option.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ðæt fˈɪɡjɚ mˈʌst biː tɹˈiːɾᵻd wɪð kˈɔːʃən."
+          "phonemes": "— ɪts baɪ fˈɑːɹ ðə bˈɛst ˈɑːpʃən."
         },
         {
-          "text": "Su análisis dio en el clavo; sin embargo, faltan pruebas.",
+          "text": "El proyecto mejoró notablemente.",
           "segments": [
             {
-              "text": "Su análisis dio en el clavo; sin embargo, faltan pruebas.",
+              "text": "El proyecto mejoró notablemente.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "su anˈalisis ðjˈo en el klˈaβo; sin embˈaɾɣo, fˈaltam pɾuˈeβas."
+          "phonemes": "el pɾoʝˈekto mˌexoɾˈo notˈaβlemˈente."
         },
         {
-          "text": "— The analysis was exactly right; however, evidence is still lacking.",
+          "text": "— The project improved notably.",
           "segments": [
             {
-              "text": "— The analysis was exactly right; however, evidence is still lacking.",
+              "text": "— The project improved notably.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ðɪ ɐnˈæləsˌɪs wʌz ɛɡzˈæktli ɹˈaɪt; haʊˈɛvɚ, ˈɛvɪdəns ɪz stˈɪl lˈækɪŋ."
+          "phonemes": "— ðə pɹˈɑːdʒɛkt ɪmpɹˈuːvd nˈoʊɾəbli."
         }
       ]
     },
@@ -405,129 +439,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "sin embargo",
+      "text": "más...que",
       "sentences": [
         {
-          "text": "sin embargo",
+          "text": "más...que",
           "segments": [
             {
-              "text": "sin embargo",
+              "text": "más...que",
               "lang": "es-419"
             }
           ],
-          "phonemes": "sin embˈaɾɣo"
+          "phonemes": "mˈas...kˈe"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "aun así",
+      "text": "menos...que",
       "sentences": [
         {
-          "text": "aun así",
+          "text": "menos...que",
           "segments": [
             {
-              "text": "aun así",
+              "text": "menos...que",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˈaʊn asˈi"
+          "phonemes": "mˈenos...kˈe"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "por lo tanto",
+      "text": "el/la más",
       "sentences": [
         {
-          "text": "por lo tanto",
+          "text": "el/la más",
           "segments": [
             {
-              "text": "por lo tanto",
+              "text": "el/la más",
               "lang": "es-419"
             }
           ],
-          "phonemes": "poɾ lo tˈanto"
+          "phonemes": "el βˈara la mˈas"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "meter la pata",
+      "text": "tan...como",
       "sentences": [
         {
-          "text": "meter la pata",
+          "text": "tan...como",
           "segments": [
             {
-              "text": "meter la pata",
+              "text": "tan...como",
               "lang": "es-419"
             }
           ],
-          "phonemes": "metˈeɾ la pˈata"
+          "phonemes": "tˈan...kˈomo"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "ir viento en popa",
+      "text": "con diferencia",
       "sentences": [
         {
-          "text": "ir viento en popa",
+          "text": "con diferencia",
           "segments": [
             {
-              "text": "ir viento en popa",
+              "text": "con diferencia",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˈiɾ βjˈɛnto em pˈopa"
+          "phonemes": "kon dˌifeɾˈɛnsja"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "estar en las nubes",
+      "text": "el superlativo",
       "sentences": [
         {
-          "text": "estar en las nubes",
+          "text": "el superlativo",
           "segments": [
             {
-              "text": "estar en las nubes",
+              "text": "el superlativo",
               "lang": "es-419"
             }
           ],
-          "phonemes": "estˈaɾ en las nˈuβes"
+          "phonemes": "el sˌupeɾlatˈiβo"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "dar en el clavo",
+      "text": "el intensificador",
       "sentences": [
         {
-          "text": "dar en el clavo",
+          "text": "el intensificador",
           "segments": [
             {
-              "text": "dar en el clavo",
+              "text": "el intensificador",
               "lang": "es-419"
             }
           ],
-          "phonemes": "dˈaɾ en el klˈaβo"
+          "phonemes": "el ˌintensˌifikaðˈoɾ"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "tomar con pinzas",
+      "text": "notablemente",
       "sentences": [
         {
-          "text": "tomar con pinzas",
+          "text": "notablemente",
           "segments": [
             {
-              "text": "tomar con pinzas",
+              "text": "notablemente",
               "lang": "es-419"
             }
           ],
-          "phonemes": "tomˈaɾ kom pˈinsas"
+          "phonemes": "notˈaβlemˈente"
         }
       ]
     }

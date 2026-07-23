@@ -163,7 +163,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Model language. Le envié el mensaje esta mañana. — I sent him or her the message this morning. El paquete lo recibió otra persona. — Someone else received the package. ¿Puedes mostrármelo? — Can you show it to me? No les expliqué el cambio. — I did not explain the change to them. Devuélvale los documentos al gerente. — Return the documents to the manager.",
+      "text": "Model language. La oficina envió dos paquetes. — The office sent two packages. El mensajero los entregó a destinatarios equivocados. — The courier delivered them to the wrong recipients. La gerente pidió disculpas. — The manager apologized. Corrigió el error rápidamente. — She corrected the mistake quickly. Los paquetes llegaron a tiempo. — The packages arrived on time.",
       "sentences": [
         {
           "text": "Model language.",
@@ -176,104 +176,104 @@
           "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
         },
         {
-          "text": "Le envié el mensaje esta mañana.",
+          "text": "La oficina envió dos paquetes.",
           "segments": [
             {
-              "text": "Le envié el mensaje esta mañana.",
+              "text": "La oficina envió dos paquetes.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "le embjˈe el mensˈaxe ˈesta maɲˈana."
+          "phonemes": "la ˌofisˈina embjˈo ðˈos pakˈetes."
         },
         {
-          "text": "— I sent him or her the message this morning.",
+          "text": "— The office sent two packages.",
           "segments": [
             {
-              "text": "— I sent him or her the message this morning.",
+              "text": "— The office sent two packages.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— aɪ sˈɛnt hˌɪm ɔːɹ hɜː ðə mˈɛsɪdʒ ðɪs mˈɔːɹnɪŋ."
+          "phonemes": "— ðɪ ˈɑːfɪs sˈɛnt tˈuː pˈækɪdʒᵻz."
         },
         {
-          "text": "El paquete lo recibió otra persona.",
+          "text": "El mensajero los entregó a destinatarios equivocados.",
           "segments": [
             {
-              "text": "El paquete lo recibió otra persona.",
+              "text": "El mensajero los entregó a destinatarios equivocados.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el pakˈete lo rˌesiβjˈo ˈotɾa peɾsˈona."
+          "phonemes": "el mˌensaxˈeɾo los ˌentɾeɣˈo a ðˌestinatˈaɾjos ˌekiβokˈaðos."
         },
         {
-          "text": "— Someone else received the package.",
+          "text": "— The courier delivered them to the wrong recipients.",
           "segments": [
             {
-              "text": "— Someone else received the package.",
+              "text": "— The courier delivered them to the wrong recipients.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— sˈʌmwʌn ˈɛls ɹᵻsˈiːvd ðə pˈækɪdʒ."
+          "phonemes": "— ðə kˈɜːɹiɚ dᵻlˈɪvɚd ðˌɛm tə ðə ɹˈɔŋ ɹᵻsˈɪpiənts."
         },
         {
-          "text": "¿Puedes mostrármelo?",
+          "text": "La gerente pidió disculpas.",
           "segments": [
             {
-              "text": "¿Puedes mostrármelo?",
+              "text": "La gerente pidió disculpas.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "pwˈeðes mostɾˈaɾmelo?"
+          "phonemes": "la xeɾˈɛnte piðjˈo ðiskˈulpas."
         },
         {
-          "text": "— Can you show it to me?",
+          "text": "— The manager apologized.",
           "segments": [
             {
-              "text": "— Can you show it to me?",
+              "text": "— The manager apologized.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— kæn juː ʃˈoʊ ɪt tə mˌiː?"
+          "phonemes": "— ðə mˈænɪdʒɚɹ ɐpˈɑːlədʒˌaɪzd."
         },
         {
-          "text": "No les expliqué el cambio.",
+          "text": "Corrigió el error rápidamente.",
           "segments": [
             {
-              "text": "No les expliqué el cambio.",
+              "text": "Corrigió el error rápidamente.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "nˈo les ˌeksplikˈe el kˈambjo."
+          "phonemes": "kˌorixjˈo el erˈoɾ rˈapiðamˈente."
         },
         {
-          "text": "— I did not explain the change to them.",
+          "text": "— She corrected the mistake quickly.",
           "segments": [
             {
-              "text": "— I did not explain the change to them.",
+              "text": "— She corrected the mistake quickly.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— aɪ dɪdnˌɑːt ɛksplˈeɪn ðə tʃˈeɪndʒ tə ðˌɛm."
+          "phonemes": "— ʃiː kɚɹˈɛktᵻd ðə mɪstˈeɪk kwˈɪkli."
         },
         {
-          "text": "Devuélvale los documentos al gerente.",
+          "text": "Los paquetes llegaron a tiempo.",
           "segments": [
             {
-              "text": "Devuélvale los documentos al gerente.",
+              "text": "Los paquetes llegaron a tiempo.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "deβwˈelβale los ðˌokumˈɛntos al xeɾˈɛnte."
+          "phonemes": "los pakˈetes ʝeɣˈaɾon a tjˈempo."
         },
         {
-          "text": "— Return the documents to the manager.",
+          "text": "— The packages arrived on time.",
           "segments": [
             {
-              "text": "— Return the documents to the manager.",
+              "text": "— The packages arrived on time.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ɹᵻtˈɜːn ðə dˈɑːkjuːmənts tə ðə mˈænɪdʒɚ."
+          "phonemes": "— ðə pˈækɪdʒᵻz ɚɹˈaɪvd ˌɔn tˈaɪm."
         }
       ]
     },
@@ -325,129 +325,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "entregar",
+      "text": "la oficina",
       "sentences": [
         {
-          "text": "entregar",
+          "text": "la oficina",
           "segments": [
             {
-              "text": "entregar",
+              "text": "la oficina",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˌentɾeɣˈaɾ"
+          "phonemes": "la ˌofisˈina"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "prestar",
+      "text": "el mensajero",
       "sentences": [
         {
-          "text": "prestar",
+          "text": "el mensajero",
           "segments": [
             {
-              "text": "prestar",
+              "text": "el mensajero",
               "lang": "es-419"
             }
           ],
-          "phonemes": "pɾestˈaɾ"
+          "phonemes": "el mˌensaxˈeɾo"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "devolver",
+      "text": "el destinatario",
       "sentences": [
         {
-          "text": "devolver",
+          "text": "el destinatario",
           "segments": [
             {
-              "text": "devolver",
+              "text": "el destinatario",
               "lang": "es-419"
             }
           ],
-          "phonemes": "dˌeβolβˈeɾ"
+          "phonemes": "el ðˌestinatˈaɾjo"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "enviar",
+      "text": "equivocado",
       "sentences": [
         {
-          "text": "enviar",
+          "text": "equivocado",
           "segments": [
             {
-              "text": "enviar",
+              "text": "equivocado",
               "lang": "es-419"
             }
           ],
-          "phonemes": "embjˈaɾ"
+          "phonemes": "ˌekiβokˈaðo"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "mostrar",
+      "text": "la gerente",
       "sentences": [
         {
-          "text": "mostrar",
+          "text": "la gerente",
           "segments": [
             {
-              "text": "mostrar",
+              "text": "la gerente",
               "lang": "es-419"
             }
           ],
-          "phonemes": "mostɾˈaɾ"
+          "phonemes": "la xeɾˈɛnte"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "explicar",
+      "text": "pedir",
       "sentences": [
         {
-          "text": "explicar",
+          "text": "pedir",
           "segments": [
             {
-              "text": "explicar",
+              "text": "pedir",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˌeksplikˈaɾ"
+          "phonemes": "peðˈiɾ"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "el paquete",
+      "text": "corregir",
       "sentences": [
         {
-          "text": "el paquete",
+          "text": "corregir",
           "segments": [
             {
-              "text": "el paquete",
+              "text": "corregir",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el pakˈete"
+          "phonemes": "kˌorexˈiɾ"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "el mensaje",
+      "text": "dos",
       "sentences": [
         {
-          "text": "el mensaje",
+          "text": "dos",
           "segments": [
             {
-              "text": "el mensaje",
+              "text": "dos",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el mensˈaxe"
+          "phonemes": "dˈos"
         }
       ]
     }

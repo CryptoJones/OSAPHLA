@@ -163,7 +163,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Lenguaje modelo. I deleted the file by accident. — Borré el archivo por accidente. Please turn it off. — Apágalo, por favor. They helped each other. — Se ayudaron mutuamente. Explain it to her before the meeting. — Explícaselo antes de la reunión. We recovered the copy ourselves. — Recuperamos la copia nosotros mismos.",
+      "text": "Lenguaje modelo. Julia's important file got deleted. — A Julia se le borró un archivo importante. She told the team. — Se lo dijo al equipo. They recovered a backup. — Recuperaron una copia de seguridad. They documented the solution. — Documentaron la solución. That way they avoided it happening again. — Así evitaron que volviera a ocurrir.",
       "sentences": [
         {
           "text": "Lenguaje modelo.",
@@ -176,104 +176,104 @@
           "phonemes": "leŋɡwˈaxe moðˈelo."
         },
         {
-          "text": "I deleted the file by accident.",
+          "text": "Julia's important file got deleted.",
           "segments": [
             {
-              "text": "I deleted the file by accident.",
+              "text": "Julia's important file got deleted.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪ dᵻlˈiːɾᵻd ðə fˈaɪl baɪ ˈæksɪdənt."
+          "phonemes": "dʒˈuːliəz ɪmpˈɔːɹtənt fˈaɪl ɡɑːt dᵻlˈiːɾᵻd."
         },
         {
-          "text": "— Borré el archivo por accidente.",
+          "text": "— A Julia se le borró un archivo importante.",
           "segments": [
             {
-              "text": "— Borré el archivo por accidente.",
+              "text": "— A Julia se le borró un archivo importante.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— borˈe el aɾtʃˈiβo poɾ ˌaksiðˈɛnte."
+          "phonemes": "— a xˈulja se le βorˈo ˈun aɾtʃˈiβo ˌimpoɾtˈante."
         },
         {
-          "text": "Please turn it off.",
+          "text": "She told the team.",
           "segments": [
             {
-              "text": "Please turn it off.",
+              "text": "She told the team.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "plˈiːz tˈɜːn ɪɾ ˈɔf."
+          "phonemes": "ʃiː tˈoʊld ðə tˈiːm."
         },
         {
-          "text": "— Apágalo, por favor.",
+          "text": "— Se lo dijo al equipo.",
           "segments": [
             {
-              "text": "— Apágalo, por favor.",
+              "text": "— Se lo dijo al equipo.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— apˈaɣalo, poɾ faβˈoɾ."
+          "phonemes": "— se lo ðˈixo al ekˈipo."
         },
         {
-          "text": "They helped each other.",
+          "text": "They recovered a backup.",
           "segments": [
             {
-              "text": "They helped each other.",
+              "text": "They recovered a backup.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðeɪ hˈɛlpt ˈiːtʃ ˈʌðɚ."
+          "phonemes": "ðeɪ ɹᵻkˈʌvɚd ɐ bˈækʌp."
         },
         {
-          "text": "— Se ayudaron mutuamente.",
+          "text": "— Recuperaron una copia de seguridad.",
           "segments": [
             {
-              "text": "— Se ayudaron mutuamente.",
+              "text": "— Recuperaron una copia de seguridad.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— se ˌaʝuðˈaɾon mˈutwamˈente."
+          "phonemes": "— rˌekupeɾˈaɾon ˈuna kˈopja ðe sˌeɣuɾiðˈad."
         },
         {
-          "text": "Explain it to her before the meeting.",
+          "text": "They documented the solution.",
           "segments": [
             {
-              "text": "Explain it to her before the meeting.",
+              "text": "They documented the solution.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɛksplˈeɪn ɪt tə hɜː bᵻfˌɔːɹ ðə mˈiːɾɪŋ."
+          "phonemes": "ðeɪ dˈɑːkjuːməntᵻd ðə səlˈuːʃən."
         },
         {
-          "text": "— Explícaselo antes de la reunión.",
+          "text": "— Documentaron la solución.",
           "segments": [
             {
-              "text": "— Explícaselo antes de la reunión.",
+              "text": "— Documentaron la solución.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— eksplˈikasˌelo ˈantes ðe la reʊnjˈon."
+          "phonemes": "— dˌokumentˈaɾon la sˌolusjˈon."
         },
         {
-          "text": "We recovered the copy ourselves.",
+          "text": "That way they avoided it happening again.",
           "segments": [
             {
-              "text": "We recovered the copy ourselves.",
+              "text": "That way they avoided it happening again.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wiː ɹᵻkˈʌvɚd ðə kˈɑːpi aʊɚsˈɛlvz."
+          "phonemes": "ðæt wˈeɪ ðeɪ ɐvˈɔɪdᵻd ɪt hˈæpənɪŋ ɐɡˈɛn."
         },
         {
-          "text": "— Recuperamos la copia nosotros mismos.",
+          "text": "— Así evitaron que volviera a ocurrir.",
           "segments": [
             {
-              "text": "— Recuperamos la copia nosotros mismos.",
+              "text": "— Así evitaron que volviera a ocurrir.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— rˌekupeɾˈamos la kˈopja nosˈotɾos mˈismos."
+          "phonemes": "— asˈi ˌeβitˈaɾon ke βolβjˈeɾa a ˌokurˈiɾ."
         }
       ]
     },
@@ -325,129 +325,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "to turn off",
+      "text": "to delete",
       "sentences": [
         {
-          "text": "to turn off",
+          "text": "to delete",
           "segments": [
             {
-              "text": "to turn off",
+              "text": "to delete",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə tˈɜːn ˈɔf"
+          "phonemes": "tə dᵻlˈiːt"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "to pick up",
+      "text": "an important file",
       "sentences": [
         {
-          "text": "to pick up",
+          "text": "an important file",
           "segments": [
             {
-              "text": "to pick up",
+              "text": "an important file",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə pˈɪk ˈʌp"
+          "phonemes": "ɐn ɪmpˈɔːɹtənt fˈaɪl"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "to look for",
+      "text": "to communicate",
       "sentences": [
         {
-          "text": "to look for",
+          "text": "to communicate",
           "segments": [
             {
-              "text": "to look for",
+              "text": "to communicate",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə lˈʊk fɔːɹ"
+          "phonemes": "tə kəmjˈuːnᵻkˌeɪt"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "by accident",
+      "text": "a team",
       "sentences": [
         {
-          "text": "by accident",
+          "text": "a team",
           "segments": [
             {
-              "text": "by accident",
+              "text": "a team",
               "lang": "en-us"
             }
           ],
-          "phonemes": "baɪ ˈæksɪdənt"
+          "phonemes": "ɐ tˈiːm"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "myself",
+      "text": "to recover",
       "sentences": [
         {
-          "text": "myself",
+          "text": "to recover",
           "segments": [
             {
-              "text": "myself",
+              "text": "to recover",
               "lang": "en-us"
             }
           ],
-          "phonemes": "maɪsˈɛlf"
+          "phonemes": "tə ɹᵻkˈʌvɚ"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "each other",
+      "text": "a backup",
       "sentences": [
         {
-          "text": "each other",
+          "text": "a backup",
           "segments": [
             {
-              "text": "each other",
+              "text": "a backup",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ˈiːtʃ ˈʌðɚ"
+          "phonemes": "ɐ bˈækʌp"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "a file",
+      "text": "to document",
       "sentences": [
         {
-          "text": "a file",
+          "text": "to document",
           "segments": [
             {
-              "text": "a file",
+              "text": "to document",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ fˈaɪl"
+          "phonemes": "tə dˈɑːkjuːmənt"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "a copy",
+      "text": "to happen again",
       "sentences": [
         {
-          "text": "a copy",
+          "text": "to happen again",
           "segments": [
             {
-              "text": "a copy",
+              "text": "to happen again",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ kˈɑːpi"
+          "phonemes": "tə hˈæpən ɐɡˈɛn"
         }
       ]
     }

@@ -163,7 +163,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Lenguaje modelo. I get up at six thirty. — Me levanto a las seis y media. After I get dressed, I make breakfast. — Después de vestirme, preparo el desayuno. I'm waiting for the train now. — Ahora estoy esperando el tren. The children go to bed early. — Los niños se acuestan temprano. What time do you wake up? — ¿A qué hora te despiertas?",
+      "text": "Lenguaje modelo. Julia normally wakes up early. — Julia normalmente se despierta temprano. Today her alarm isn't working. — Hoy su alarma no funciona. Now she's getting dressed quickly. — Ahora se viste rápidamente. Her partner is preparing coffee. — Su pareja prepara café. Her partner is calling a taxi. — Su pareja llama a un taxi.",
       "sentences": [
         {
           "text": "Lenguaje modelo.",
@@ -176,104 +176,104 @@
           "phonemes": "leŋɡwˈaxe moðˈelo."
         },
         {
-          "text": "I get up at six thirty.",
+          "text": "Julia normally wakes up early.",
           "segments": [
             {
-              "text": "I get up at six thirty.",
+              "text": "Julia normally wakes up early.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪ ɡɛt ˌʌp æt sˈɪks θˈɜːɾi."
+          "phonemes": "dʒˈuːliə nˈɔːɹməli wˈeɪks ˌʌp ˈɜːli."
         },
         {
-          "text": "— Me levanto a las seis y media.",
+          "text": "— Julia normalmente se despierta temprano.",
           "segments": [
             {
-              "text": "— Me levanto a las seis y media.",
+              "text": "— Julia normalmente se despierta temprano.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— me leβˈanto a las sˈeɪs i mˈeðja."
+          "phonemes": "— xˈulja noɾmˈalmˈente se ðespjˈeɾta tempɾˈano."
         },
         {
-          "text": "After I get dressed, I make breakfast.",
+          "text": "Today her alarm isn't working.",
           "segments": [
             {
-              "text": "After I get dressed, I make breakfast.",
+              "text": "Today her alarm isn't working.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ˈæftɚɹ aɪ ɡɛt dɹˈɛst, aɪ mˌeɪk bɹˈɛkfəst."
+          "phonemes": "tədˈeɪ hɜːɹ ɐlˈɑːɹm ˌɪzənt wˈɜːkɪŋ."
         },
         {
-          "text": "— Después de vestirme, preparo el desayuno.",
+          "text": "— Hoy su alarma no funciona.",
           "segments": [
             {
-              "text": "— Después de vestirme, preparo el desayuno.",
+              "text": "— Hoy su alarma no funciona.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— despwˈes ðe βestˈiɾme, pɾepˈaɾo el ðˌesaʝˈuno."
+          "phonemes": "— ˈoɪ su alˈaɾma nˈo funsjˈona."
         },
         {
-          "text": "I'm waiting for the train now.",
+          "text": "Now she's getting dressed quickly.",
           "segments": [
             {
-              "text": "I'm waiting for the train now.",
+              "text": "Now she's getting dressed quickly.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪm wˈeɪɾɪŋ fɚðə tɹˈeɪn nˈaʊ."
+          "phonemes": "nˈaʊ ʃiːz ɡˌɛɾɪŋ dɹˈɛst kwˈɪkli."
         },
         {
-          "text": "— Ahora estoy esperando el tren.",
+          "text": "— Ahora se viste rápidamente.",
           "segments": [
             {
-              "text": "— Ahora estoy esperando el tren.",
+              "text": "— Ahora se viste rápidamente.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— aˈoɾa estˈoɪ ˌespeɾˈando el tɾˈen."
+          "phonemes": "— aˈoɾa se βˈiste rˈapiðamˈente."
         },
         {
-          "text": "The children go to bed early.",
+          "text": "Her partner is preparing coffee.",
           "segments": [
             {
-              "text": "The children go to bed early.",
+              "text": "Her partner is preparing coffee.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə tʃˈɪldɹən ɡˌoʊ tə bˈɛd ˈɜːli."
+          "phonemes": "hɜː pˈɑːɹtnɚɹ ɪz pɹɪpˈɛɹɪŋ kˈɔfi."
         },
         {
-          "text": "— Los niños se acuestan temprano.",
+          "text": "— Su pareja prepara café.",
           "segments": [
             {
-              "text": "— Los niños se acuestan temprano.",
+              "text": "— Su pareja prepara café.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— los nˈiɲos se akwˈestan tempɾˈano."
+          "phonemes": "— su paɾˈexa pɾepˈaɾa kafˈe."
         },
         {
-          "text": "What time do you wake up?",
+          "text": "Her partner is calling a taxi.",
           "segments": [
             {
-              "text": "What time do you wake up?",
+              "text": "Her partner is calling a taxi.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wˌʌt tˈaɪm dˈuː juː wˈeɪk ˈʌp?"
+          "phonemes": "hɜː pˈɑːɹtnɚɹ ɪz kˈɔːlɪŋ ɐ tˈæksi."
         },
         {
-          "text": "— ¿A qué hora te despiertas?",
+          "text": "— Su pareja llama a un taxi.",
           "segments": [
             {
-              "text": "— ¿A qué hora te despiertas?",
+              "text": "— Su pareja llama a un taxi.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— a kˈe ˈoɾa te ðespjˈeɾtas?"
+          "phonemes": "— su paɾˈexa ʝˈama a ˈun tˈaksi."
         }
       ]
     },
@@ -325,129 +325,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "to wake up",
+      "text": "normally",
       "sentences": [
         {
-          "text": "to wake up",
+          "text": "normally",
           "segments": [
             {
-              "text": "to wake up",
+              "text": "normally",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə wˈeɪk ˈʌp"
+          "phonemes": "nˈɔːɹməli"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "to get up",
+      "text": "today",
       "sentences": [
         {
-          "text": "to get up",
+          "text": "today",
           "segments": [
             {
-              "text": "to get up",
+              "text": "today",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə ɡɛt ˈʌp"
+          "phonemes": "tədˈeɪ"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "to shower",
+      "text": "an alarm",
       "sentences": [
         {
-          "text": "to shower",
+          "text": "an alarm",
           "segments": [
             {
-              "text": "to shower",
+              "text": "an alarm",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə ʃˈaʊɚ"
+          "phonemes": "ɐn ɐlˈɑːɹm"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "to get dressed",
+      "text": "to work/function",
       "sentences": [
         {
-          "text": "to get dressed",
+          "text": "to work/function",
           "segments": [
             {
-              "text": "to get dressed",
+              "text": "to work/function",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə ɡɛt dɹˈɛst"
+          "phonemes": "tə wˈɜːk slˈæʃ fˈʌŋkʃən"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "to go to bed",
+      "text": "quickly",
       "sentences": [
         {
-          "text": "to go to bed",
+          "text": "quickly",
           "segments": [
             {
-              "text": "to go to bed",
+              "text": "quickly",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə ɡˌoʊ tə bˈɛd"
+          "phonemes": "kwˈɪkli"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "early",
+      "text": "a partner",
       "sentences": [
         {
-          "text": "early",
+          "text": "a partner",
           "segments": [
             {
-              "text": "early",
+              "text": "a partner",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ˈɜːli"
+          "phonemes": "ɐ pˈɑːɹtnɚ"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "late",
+      "text": "to prepare",
       "sentences": [
         {
-          "text": "late",
+          "text": "to prepare",
           "segments": [
             {
-              "text": "late",
+              "text": "to prepare",
               "lang": "en-us"
             }
           ],
-          "phonemes": "lˈeɪt"
+          "phonemes": "tə pɹɪpˈɛɹ"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "now",
+      "text": "to call",
       "sentences": [
         {
-          "text": "now",
+          "text": "to call",
           "segments": [
             {
-              "text": "now",
+              "text": "to call",
               "lang": "en-us"
             }
           ],
-          "phonemes": "nˈaʊ"
+          "phonemes": "tə kˈɔːl"
         }
       ]
     }

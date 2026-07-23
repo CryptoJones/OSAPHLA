@@ -143,7 +143,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Lenguaje modelo. The second option is far more viable. — La segunda opción es mucho más viable. The least clear report was the first one. — El informe menos claro fue el primero. The project is working out well. — El proyecto está saliendo bien. That figure should be treated cautiously. — Esa cifra debe tratarse con cautela. The analysis was right, but evidence is still missing. — El análisis fue correcto, pero todavía falta evidencia.",
+      "text": "Lenguaje modelo. I'm going to compare two proposals formally. — Voy a comparar dos propuestas formalmente. Then I interpret an informal reaction. — Después interpreto una reacción informal. I distinguish the literal meaning from the figurative one. — Distingo el significado literal del figurado. I deduce the meaning from context. — Deduzco el sentido por el contexto. I explain the nuance with an example. — Explico el matiz con un ejemplo.",
       "sentences": [
         {
           "text": "Lenguaje modelo.",
@@ -156,112 +156,104 @@
           "phonemes": "leŋɡwˈaxe moðˈelo."
         },
         {
-          "text": "The second option is far more viable.",
+          "text": "I'm going to compare two proposals formally.",
           "segments": [
             {
-              "text": "The second option is far more viable.",
+              "text": "I'm going to compare two proposals formally.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə sˈɛkənd ˈɑːpʃən ɪz fˈɑːɹmˌɔːɹ vˈaɪəbəl."
+          "phonemes": "aɪm ɡˌoʊɪŋ tə kəmpˈɛɹ tˈuː pɹəpˈoʊzəlz fˈɔːɹməli."
         },
         {
-          "text": "— La segunda opción es mucho más viable.",
+          "text": "— Voy a comparar dos propuestas formalmente.",
           "segments": [
             {
-              "text": "— La segunda opción es mucho más ",
-              "lang": "es-419"
-            },
-            {
-              "text": "viable",
-              "lang": "en-us"
-            },
-            {
-              "text": ".",
+              "text": "— Voy a comparar dos propuestas formalmente.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— la seɣˈunda opsjˈon ˈes mˈutʃo mˈas vˈaɪəbəl ."
+          "phonemes": "— bˈoɪ a kˌompaɾˈaɾ ðˈos pɾopwˈestas foɾmˈalmˈente."
         },
         {
-          "text": "The least clear report was the first one.",
+          "text": "Then I interpret an informal reaction.",
           "segments": [
             {
-              "text": "The least clear report was the first one.",
+              "text": "Then I interpret an informal reaction.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə lˈiːst klˈɪɹ ɹᵻpˈɔːɹt wʌzðə fˈɜːst wˌʌn."
+          "phonemes": "ðˈɛn aɪ ɪntˈɜːpɹɪt ɐn ɪnfˈɔːɹməl ɹɪˈækʃən."
         },
         {
-          "text": "— El informe menos claro fue el primero.",
+          "text": "— Después interpreto una reacción informal.",
           "segments": [
             {
-              "text": "— El informe menos claro fue el primero.",
+              "text": "— Después interpreto una reacción informal.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— el infˈoɾme mˈenos klˈaɾo fwˈe el pɾimˈeɾo."
+          "phonemes": "— despwˈes ˌinteɾpɾˈeto ˈuna rˌeaksjˈon ˌinfoɾmˈal."
         },
         {
-          "text": "The project is working out well.",
+          "text": "I distinguish the literal meaning from the figurative one.",
           "segments": [
             {
-              "text": "The project is working out well.",
+              "text": "I distinguish the literal meaning from the figurative one.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə pɹˈɑːdʒɛkt ɪz wˈɜːkɪŋ ˈaʊt wˈɛl."
+          "phonemes": "aɪ dɪstˈɪŋɡwɪʃ ðə lˈɪɾɚɹəl mˈiːnɪŋ fɹʌmðə fˈɪɡjɚɹətˌɪv wˌʌn."
         },
         {
-          "text": "— El proyecto está saliendo bien.",
+          "text": "— Distingo el significado literal del figurado.",
           "segments": [
             {
-              "text": "— El proyecto está saliendo bien.",
+              "text": "— Distingo el significado literal del figurado.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— el pɾoʝˈekto estˈa saljˈɛndo βjˈen."
+          "phonemes": "— distˈiŋɡo el sˌiɡnifikˈaðo lˌiteɾˈal ðel fˌiɣuɾˈaðo."
         },
         {
-          "text": "That figure should be treated cautiously.",
+          "text": "I deduce the meaning from context.",
           "segments": [
             {
-              "text": "That figure should be treated cautiously.",
+              "text": "I deduce the meaning from context.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðæt fˈɪɡjɚ ʃˌʊd biː tɹˈiːɾᵻd kˈɔːʃəsli."
+          "phonemes": "aɪ dᵻdˈuːs ðə mˈiːnɪŋ fɹʌm kˈɑːntɛkst."
         },
         {
-          "text": "— Esa cifra debe tratarse con cautela.",
+          "text": "— Deduzco el sentido por el contexto.",
           "segments": [
             {
-              "text": "— Esa cifra debe tratarse con cautela.",
+              "text": "— Deduzco el sentido por el contexto.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— ˈesa sˈifɾa ðˈeβe tɾatˈaɾse kon kaʊtˈela."
+          "phonemes": "— deðˈusko el sentˈiðo poɾ el kontˈeksto."
         },
         {
-          "text": "The analysis was right, but evidence is still missing.",
+          "text": "I explain the nuance with an example.",
           "segments": [
             {
-              "text": "The analysis was right, but evidence is still missing.",
+              "text": "I explain the nuance with an example.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðɪ ɐnˈæləsˌɪs wʌz ɹˈaɪt, bˌʌt ˈɛvɪdəns ɪz stˈɪl mˈɪsɪŋ."
+          "phonemes": "aɪ ɛksplˈeɪn ðə nˈuːɑːns wɪð ɐn ɛɡzˈæmpəl."
         },
         {
-          "text": "— El análisis fue correcto, pero todavía falta evidencia.",
+          "text": "— Explico el matiz con un ejemplo.",
           "segments": [
             {
-              "text": "— El análisis fue correcto, pero todavía falta evidencia.",
+              "text": "— Explico el matiz con un ejemplo.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— el anˈalisis fwˈe korˈekto, pˌeɾo tˌoðaβˈia fˈalta ˌeβiðˈɛnsja."
+          "phonemes": "— eksplˈiko el matˈis kon ˈun exˈemplo."
         }
       ]
     },
@@ -313,129 +305,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "viable",
+      "text": "to compare",
       "sentences": [
         {
-          "text": "viable",
+          "text": "to compare",
           "segments": [
             {
-              "text": "viable",
+              "text": "to compare",
               "lang": "en-us"
             }
           ],
-          "phonemes": "vˈaɪəbəl"
+          "phonemes": "tə kəmpˈɛɹ"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "efficient",
+      "text": "formally",
       "sentences": [
         {
-          "text": "efficient",
+          "text": "formally",
           "segments": [
             {
-              "text": "efficient",
+              "text": "formally",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɪfˈɪʃənt"
+          "phonemes": "fˈɔːɹməli"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "reliable",
+      "text": "to interpret",
       "sentences": [
         {
-          "text": "reliable",
+          "text": "to interpret",
           "segments": [
             {
-              "text": "reliable",
+              "text": "to interpret",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɹᵻlˈaɪəbəl"
+          "phonemes": "tʊ ɪntˈɜːpɹɪt"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "slightly",
+      "text": "informal reaction",
       "sentences": [
         {
-          "text": "slightly",
+          "text": "informal reaction",
           "segments": [
             {
-              "text": "slightly",
+              "text": "informal reaction",
               "lang": "en-us"
             }
           ],
-          "phonemes": "slˈaɪtli"
+          "phonemes": "ɪnfˈɔːɹməl ɹɪˈækʃən"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "far more",
+      "text": "literal meaning",
       "sentences": [
         {
-          "text": "far more",
+          "text": "literal meaning",
           "segments": [
             {
-              "text": "far more",
+              "text": "literal meaning",
               "lang": "en-us"
             }
           ],
-          "phonemes": "fˈɑːɹmˌɔːɹ"
+          "phonemes": "lˈɪɾɚɹəl mˈiːnɪŋ"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "to work out",
+      "text": "figurative meaning",
       "sentences": [
         {
-          "text": "to work out",
+          "text": "figurative meaning",
           "segments": [
             {
-              "text": "to work out",
+              "text": "figurative meaning",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə wˈɜːk ˈaʊt"
+          "phonemes": "fˈɪɡjɚɹətˌɪv mˈiːnɪŋ"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "to point out",
+      "text": "to deduce",
       "sentences": [
         {
-          "text": "to point out",
+          "text": "to deduce",
           "segments": [
             {
-              "text": "to point out",
+              "text": "to deduce",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə pˈɔɪnt ˈaʊt"
+          "phonemes": "tə dᵻdˈuːs"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "cautiously",
+      "text": "nuance",
       "sentences": [
         {
-          "text": "cautiously",
+          "text": "nuance",
           "segments": [
             {
-              "text": "cautiously",
+              "text": "nuance",
               "lang": "en-us"
             }
           ],
-          "phonemes": "kˈɔːʃəsli"
+          "phonemes": "nˈuːɑːns"
         }
       ]
     }

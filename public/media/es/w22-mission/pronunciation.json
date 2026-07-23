@@ -151,7 +151,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Model language. Se me perdieron las llaves. — I lost my keys. El informe se lo mandé a Clara. — I sent the report to Clara. A ellos se les olvidó la cita. — They forgot the appointment. Explícaselo antes de la reunión. — Explain it to him or her before the meeting. No se nos cayó el equipo; falló el soporte. — We did not drop the equipment; the support failed.",
+      "text": "Model language. Voy a informar tres percances con precisión. — I am going to report three mishaps accurately. Asigno una tarea de seguimiento a cada persona. — I assign a follow-up task to each person. Evito referencias ambiguas. — I avoid ambiguous references. Uso un lenguaje claro. — I use clear language. Cada persona sabe exactamente qué hacer. — Each person knows exactly what to do.",
       "sentences": [
         {
           "text": "Model language.",
@@ -164,104 +164,104 @@
           "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
         },
         {
-          "text": "Se me perdieron las llaves.",
+          "text": "Voy a informar tres percances con precisión.",
           "segments": [
             {
-              "text": "Se me perdieron las llaves.",
+              "text": "Voy a informar tres percances con precisión.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "se me peɾðjˈeɾon las ʝˈaβes."
+          "phonemes": "bˈoɪ a ˌinfoɾmˈaɾ tɾˈes peɾkˈanses kom pɾˌesisjˈon."
         },
         {
-          "text": "— I lost my keys.",
+          "text": "— I am going to report three mishaps accurately.",
           "segments": [
             {
-              "text": "— I lost my keys.",
+              "text": "— I am going to report three mishaps accurately.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— aɪ lˈɔst maɪ kˈiːz."
+          "phonemes": "— aɪɐm ɡˌoʊɪŋ tə ɹᵻpˈɔːɹt θɹˈiː mˈɪshæps ˈækjʊɹətli."
         },
         {
-          "text": "El informe se lo mandé a Clara.",
+          "text": "Asigno una tarea de seguimiento a cada persona.",
           "segments": [
             {
-              "text": "El informe se lo mandé a Clara.",
+              "text": "Asigno una tarea de seguimiento a cada persona.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el infˈoɾme se lo mandˈe a klˈaɾa."
+          "phonemes": "asˈiɡno ˈuna taɾˈea ðe sˌeɣimjˈɛnto a kˈaða peɾsˈona."
         },
         {
-          "text": "— I sent the report to Clara.",
+          "text": "— I assign a follow-up task to each person.",
           "segments": [
             {
-              "text": "— I sent the report to Clara.",
+              "text": "— I assign a follow-up task to each person.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— aɪ sˈɛnt ðə ɹᵻpˈɔːɹt tə klˈɑːɹɹə."
+          "phonemes": "— aɪ ɐsˈaɪn ɐ fˈɑːloʊˌʌp tˈæsk tʊ ˈiːtʃ pˈɜːsən."
         },
         {
-          "text": "A ellos se les olvidó la cita.",
+          "text": "Evito referencias ambiguas.",
           "segments": [
             {
-              "text": "A ellos se les olvidó la cita.",
+              "text": "Evito referencias ambiguas.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "a ˈejjos se les ˌolβiðˈo la sˈita."
+          "phonemes": "eβˈito rˌefeɾˈɛnsjas ambˈiɣwas."
         },
         {
-          "text": "— They forgot the appointment.",
+          "text": "— I avoid ambiguous references.",
           "segments": [
             {
-              "text": "— They forgot the appointment.",
+              "text": "— I avoid ambiguous references.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ðeɪ fɚɡˈɑːt ðɪ ɐpˈɔɪntmənt."
+          "phonemes": "— aɪ ɐvˈɔɪd æmbˈɪɡjuːəs ɹˈɛfɹənsᵻz."
         },
         {
-          "text": "Explícaselo antes de la reunión.",
+          "text": "Uso un lenguaje claro.",
           "segments": [
             {
-              "text": "Explícaselo antes de la reunión.",
+              "text": "Uso un lenguaje claro.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "eksplˈikasˌelo ˈantes ðe la reʊnjˈon."
+          "phonemes": "ˈuso ˈun leŋɡwˈaxe klˈaɾo."
         },
         {
-          "text": "— Explain it to him or her before the meeting.",
+          "text": "— I use clear language.",
           "segments": [
             {
-              "text": "— Explain it to him or her before the meeting.",
+              "text": "— I use clear language.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ɛksplˈeɪn ɪt tə hˌɪm ɔːɹ hɜː bᵻfˌɔːɹ ðə mˈiːɾɪŋ."
+          "phonemes": "— aɪ jˈuːz klˈɪɹ lˈæŋɡwɪdʒ."
         },
         {
-          "text": "No se nos cayó el equipo; falló el soporte.",
+          "text": "Cada persona sabe exactamente qué hacer.",
           "segments": [
             {
-              "text": "No se nos cayó el equipo; falló el soporte.",
+              "text": "Cada persona sabe exactamente qué hacer.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "nˈo se nos kaʝˈo el ekˈipo; fajjˈo el sopˈoɾte."
+          "phonemes": "kˈaða peɾsˈona sˈaβe eksˈaktamˈente kˈe asˈeɾ."
         },
         {
-          "text": "— We did not drop the equipment; the support failed.",
+          "text": "— Each person knows exactly what to do.",
           "segments": [
             {
-              "text": "— We did not drop the equipment; the support failed.",
+              "text": "— Each person knows exactly what to do.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— wiː dɪdnˌɑːt dɹˈɑːp ðɪ ɪkwˈɪpmənt; ðə səpˈɔːɹt fˈeɪld."
+          "phonemes": "— ˈiːtʃ pˈɜːsən nˈoʊz ɛɡzˈæktli wʌt tə dˈuː."
         }
       ]
     },
@@ -313,129 +313,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "romperse",
+      "text": "el percance",
       "sentences": [
         {
-          "text": "romperse",
+          "text": "el percance",
           "segments": [
             {
-              "text": "romperse",
+              "text": "el percance",
               "lang": "es-419"
             }
           ],
-          "phonemes": "rompˈeɾse"
+          "phonemes": "el peɾkˈanse"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "perderse",
+      "text": "asignar",
       "sentences": [
         {
-          "text": "perderse",
+          "text": "asignar",
           "segments": [
             {
-              "text": "perderse",
+              "text": "asignar",
               "lang": "es-419"
             }
           ],
-          "phonemes": "peɾðˈeɾse"
+          "phonemes": "ˌasiɡnˈaɾ"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "olvidarse",
+      "text": "la tarea de seguimiento",
       "sentences": [
         {
-          "text": "olvidarse",
+          "text": "la tarea de seguimiento",
           "segments": [
             {
-              "text": "olvidarse",
+              "text": "la tarea de seguimiento",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˌolβiðˈaɾse"
+          "phonemes": "la taɾˈea ðe sˌeɣimjˈɛnto"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "caerse",
+      "text": "ambiguo",
       "sentences": [
         {
-          "text": "caerse",
+          "text": "ambiguo",
           "segments": [
             {
-              "text": "caerse",
+              "text": "ambiguo",
               "lang": "es-419"
             }
           ],
-          "phonemes": "kaˈeɾse"
+          "phonemes": "ambˈiɣwo"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "la llave",
+      "text": "la referencia",
       "sentences": [
         {
-          "text": "la llave",
+          "text": "la referencia",
           "segments": [
             {
-              "text": "la llave",
+              "text": "la referencia",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la ʝˈaβe"
+          "phonemes": "la rˌefeɾˈɛnsja"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "el archivo",
+      "text": "claro",
       "sentences": [
         {
-          "text": "el archivo",
+          "text": "claro",
           "segments": [
             {
-              "text": "el archivo",
+              "text": "claro",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el aɾtʃˈiβo"
+          "phonemes": "klˈaɾo"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "la culpa",
+      "text": "tres",
       "sentences": [
         {
-          "text": "la culpa",
+          "text": "tres",
           "segments": [
             {
-              "text": "la culpa",
+              "text": "tres",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la kˈulpa"
+          "phonemes": "tɾˈes"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "la solución",
+      "text": "evitar",
       "sentences": [
         {
-          "text": "la solución",
+          "text": "evitar",
           "segments": [
             {
-              "text": "la solución",
+              "text": "evitar",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la sˌolusjˈon"
+          "phonemes": "ˌeβitˈaɾ"
         }
       ]
     }

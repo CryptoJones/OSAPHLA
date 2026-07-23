@@ -143,7 +143,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Model language. ¿Qué quiere hacer hoy? — What do you want to do today? ¿Cuándo viene el autobús? — When does the bus come? No sé; ¿puede repetirlo? — I don't know; can you repeat that? Tengo que hacer una llamada. — I have to make a call. ¿Por qué dices eso? — Why do you say that?",
+      "text": "Model language. Voy a realizar una entrevista de información. — I am going to conduct an information interview. Formulo seis preguntas distintas. — I formulate six different questions. Obtengo datos claros de cada persona. — I obtain clear information from each person. Registro las respuestas con cuidado. — I record the answers carefully. Uso al menos seis palabras interrogativas. — I use at least six interrogative words.",
       "sentences": [
         {
           "text": "Model language.",
@@ -156,104 +156,104 @@
           "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
         },
         {
-          "text": "¿Qué quiere hacer hoy?",
+          "text": "Voy a realizar una entrevista de información.",
           "segments": [
             {
-              "text": "¿Qué quiere hacer hoy?",
+              "text": "Voy a realizar una entrevista de información.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "kˈe kjˈeɾe asˈeɾ ˈoɪ?"
+          "phonemes": "bˈoɪ a rˌealisˈaɾ ˈuna ˌentɾeβˈista ðe ˌinfoɾmasjˈon."
         },
         {
-          "text": "— What do you want to do today?",
+          "text": "— I am going to conduct an information interview.",
           "segments": [
             {
-              "text": "— What do you want to do today?",
+              "text": "— I am going to conduct an information interview.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— wˌʌt dˈuː juː wˈɔnt tə dˈuː tədˈeɪ?"
+          "phonemes": "— aɪɐm ɡˌoʊɪŋ tə kəndˈʌkt ɐn ˌɪnfɚmˈeɪʃən ˈɪntɚvjˌuː."
         },
         {
-          "text": "¿Cuándo viene el autobús?",
+          "text": "Formulo seis preguntas distintas.",
           "segments": [
             {
-              "text": "¿Cuándo viene el autobús?",
+              "text": "Formulo seis preguntas distintas.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "kwˈando βjˈene el ˌaʊtoβˈus?"
+          "phonemes": "foɾmˈulo sˈeɪs pɾeɣˈuntas ðistˈintas."
         },
         {
-          "text": "— When does the bus come?",
+          "text": "— I formulate six different questions.",
           "segments": [
             {
-              "text": "— When does the bus come?",
+              "text": "— I formulate six different questions.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— wˌɛn dˈʌz ðə bˈʌs kˈʌm?"
+          "phonemes": "— aɪ fˈɔːɹmjʊlˌeɪt sˈɪks dˈɪfɹənt kwˈɛstʃənz."
         },
         {
-          "text": "No sé; ¿puede repetirlo?",
+          "text": "Obtengo datos claros de cada persona.",
           "segments": [
             {
-              "text": "No sé; ¿puede repetirlo?",
+              "text": "Obtengo datos claros de cada persona.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "nˈo sˈe; pwˈeðe rˌepetˈiɾlo?"
+          "phonemes": "obtˈɛŋɡo ðˈatos klˈaɾos ðe kˈaða peɾsˈona."
         },
         {
-          "text": "— I don't know; can you repeat that?",
+          "text": "— I obtain clear information from each person.",
           "segments": [
             {
-              "text": "— I don't know; can you repeat that?",
+              "text": "— I obtain clear information from each person.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— aɪ dˈoʊnt nˈoʊ; kæn juː ɹᵻpˈiːt ðˈæt?"
+          "phonemes": "— aɪ əbtˈeɪn klˈɪɹ ˌɪnfɚmˈeɪʃən fɹʌm ˈiːtʃ pˈɜːsən."
         },
         {
-          "text": "Tengo que hacer una llamada.",
+          "text": "Registro las respuestas con cuidado.",
           "segments": [
             {
-              "text": "Tengo que hacer una llamada.",
+              "text": "Registro las respuestas con cuidado.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "tˈɛŋɡo ke asˈeɾ ˈuna ʝamˈaða."
+          "phonemes": "rexˈistɾo las respwˈestas kon kwiðˈaðo."
         },
         {
-          "text": "— I have to make a call.",
+          "text": "— I record the answers carefully.",
           "segments": [
             {
-              "text": "— I have to make a call.",
+              "text": "— I record the answers carefully.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— aɪ hæv tə mˌeɪk ɐ kˈɔːl."
+          "phonemes": "— aɪ ɹᵻkˈɔːɹd ðɪ ˈænsɚz kˈɛɹfəli."
         },
         {
-          "text": "¿Por qué dices eso?",
+          "text": "Uso al menos seis palabras interrogativas.",
           "segments": [
             {
-              "text": "¿Por qué dices eso?",
+              "text": "Uso al menos seis palabras interrogativas.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "poɾ kˈe ðˈises ˈeso?"
+          "phonemes": "ˈuso al mˈenos sˈeɪs palˈaβɾas ˌinterˌoɣatˈiβas."
         },
         {
-          "text": "— Why do you say that?",
+          "text": "— I use at least six interrogative words.",
           "segments": [
             {
-              "text": "— Why do you say that?",
+              "text": "— I use at least six interrogative words.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— wˌaɪ dˈuː juː sˈeɪ ðˈæt?"
+          "phonemes": "— aɪ jˈuːz æt lˈiːst sˈɪks ɪntˈɛɹəɡətˌɪv wˈɜːdz."
         }
       ]
     },
@@ -305,129 +305,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "qué",
+      "text": "realizar",
       "sentences": [
         {
-          "text": "qué",
+          "text": "realizar",
           "segments": [
             {
-              "text": "qué",
+              "text": "realizar",
               "lang": "es-419"
             }
           ],
-          "phonemes": "kˈe"
+          "phonemes": "rˌealisˈaɾ"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "quién",
+      "text": "la entrevista",
       "sentences": [
         {
-          "text": "quién",
+          "text": "la entrevista",
           "segments": [
             {
-              "text": "quién",
+              "text": "la entrevista",
               "lang": "es-419"
             }
           ],
-          "phonemes": "kjˈen"
+          "phonemes": "la ˌentɾeβˈista"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "cuándo",
+      "text": "formular",
       "sentences": [
         {
-          "text": "cuándo",
+          "text": "formular",
           "segments": [
             {
-              "text": "cuándo",
+              "text": "formular",
               "lang": "es-419"
             }
           ],
-          "phonemes": "kwˈando"
+          "phonemes": "fˌoɾmulˈaɾ"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "dónde",
+      "text": "la pregunta",
       "sentences": [
         {
-          "text": "dónde",
+          "text": "la pregunta",
           "segments": [
             {
-              "text": "dónde",
+              "text": "la pregunta",
               "lang": "es-419"
             }
           ],
-          "phonemes": "dˈonde"
+          "phonemes": "la pɾeɣˈunta"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "por qué",
+      "text": "distinto",
       "sentences": [
         {
-          "text": "por qué",
+          "text": "distinto",
           "segments": [
             {
-              "text": "por qué",
+              "text": "distinto",
               "lang": "es-419"
             }
           ],
-          "phonemes": "poɾ kˈe"
+          "phonemes": "distˈinto"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "cómo",
+      "text": "obtener",
       "sentences": [
         {
-          "text": "cómo",
+          "text": "obtener",
           "segments": [
             {
-              "text": "cómo",
+              "text": "obtener",
               "lang": "es-419"
             }
           ],
-          "phonemes": "kˈomo"
+          "phonemes": "ˌobtenˈeɾ"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "poder",
+      "text": "el dato",
       "sentences": [
         {
-          "text": "poder",
+          "text": "el dato",
           "segments": [
             {
-              "text": "poder",
+              "text": "el dato",
               "lang": "es-419"
             }
           ],
-          "phonemes": "poðˈeɾ"
+          "phonemes": "el ðˈato"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "querer",
+      "text": "registrar",
       "sentences": [
         {
-          "text": "querer",
+          "text": "registrar",
           "segments": [
             {
-              "text": "querer",
+              "text": "registrar",
               "lang": "es-419"
             }
           ],
-          "phonemes": "keɾˈeɾ"
+          "phonemes": "rˌexistɾˈaɾ"
         }
       ]
     }

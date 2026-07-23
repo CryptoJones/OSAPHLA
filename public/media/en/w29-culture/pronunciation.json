@@ -163,7 +163,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Lenguaje modelo. We're looking for someone who has experience. — Buscamos a alguien que tenga experiencia. I know the person who leads the project. — Conozco a la persona que dirige el proyecto. I need a place that is near the subway. — Necesito un lugar que esté cerca del metro. This is the issue that concerns me. — Este es el asunto que me preocupa. The author whose book won will speak. — Hablará la autora cuyo libro ganó.",
+      "text": "Lenguaje modelo. A good housing posting is precise. — Un buen anuncio de vivienda es preciso. Criteria must not be discriminatory. — Los criterios no deben ser discriminatorios. Every legal requirement must be respected. — Cada requisito legal debe respetarse. A fair posting attracts more candidates. — Un anuncio justo atrae a más candidatos. Drafting a posting well avoids misunderstandings. — Redactar bien un anuncio evita malentendidos.",
       "sentences": [
         {
           "text": "Lenguaje modelo.",
@@ -176,104 +176,104 @@
           "phonemes": "leŋɡwˈaxe moðˈelo."
         },
         {
-          "text": "We're looking for someone who has experience.",
+          "text": "A good housing posting is precise.",
           "segments": [
             {
-              "text": "We're looking for someone who has experience.",
+              "text": "A good housing posting is precise.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wɪɹ lˈʊkɪŋ fɔːɹ sˈʌmwʌn hˌuː hɐz ɛkspˈiəɹɪəns."
+          "phonemes": "ɐ ɡˈʊd hˈaʊzɪŋ pˈoʊstɪŋ ɪz pɹɪsˈaɪs."
         },
         {
-          "text": "— Buscamos a alguien que tenga experiencia.",
+          "text": "— Un buen anuncio de vivienda es preciso.",
           "segments": [
             {
-              "text": "— Buscamos a alguien que tenga experiencia.",
+              "text": "— Un buen anuncio de vivienda es preciso.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— buskˈamos a ˈalɣjen ke tˈɛŋɡa ˌekspeɾjˈɛnsja."
+          "phonemes": "— ˈum bwˈen anˈunsjo ðe βiβjˈɛnda ˈes pɾesˈiso."
         },
         {
-          "text": "I know the person who leads the project.",
+          "text": "Criteria must not be discriminatory.",
           "segments": [
             {
-              "text": "I know the person who leads the project.",
+              "text": "Criteria must not be discriminatory.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪ nˈoʊ ðə pˈɜːsən hˌuː lˈiːdz ðə pɹˈɑːdʒɛkt."
+          "phonemes": "kɹaɪtˈiəɹɪə mˈʌst nˌɑːt biː dɪskɹˈɪmɪnətˌɔːɹi."
         },
         {
-          "text": "— Conozco a la persona que dirige el proyecto.",
+          "text": "— Los criterios no deben ser discriminatorios.",
           "segments": [
             {
-              "text": "— Conozco a la persona que dirige el proyecto.",
+              "text": "— Los criterios no deben ser discriminatorios.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— konˈosko a la peɾsˈona ke ðiɾˈixe el pɾoʝˈekto."
+          "phonemes": "— los kɾitˈeɾjos nˈo ðˈeβen sˈer ðˌiskɾimˌinatˈoɾjos."
         },
         {
-          "text": "I need a place that is near the subway.",
+          "text": "Every legal requirement must be respected.",
           "segments": [
             {
-              "text": "I need a place that is near the subway.",
+              "text": "Every legal requirement must be respected.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪ nˈiːd ɐ plˈeɪs ðæt ɪz nˌɪɹ ðə sˈʌbweɪ."
+          "phonemes": "ˈɛvɹi lˈiːɡəl ɹᵻkwˈaɪɚmənt mˈʌst biː ɹᵻspˈɛktᵻd."
         },
         {
-          "text": "— Necesito un lugar que esté cerca del metro.",
+          "text": "— Cada requisito legal debe respetarse.",
           "segments": [
             {
-              "text": "— Necesito un lugar que esté cerca del metro.",
+              "text": "— Cada requisito legal debe respetarse.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— nˌesesˈito ˈun luɣˈaɾ ke estˈe sˈeɾka ðel mˈetɾo."
+          "phonemes": "— kˈaða rˌekisˈito leɣˈal ðˈeβe rˌespetˈaɾse."
         },
         {
-          "text": "This is the issue that concerns me.",
+          "text": "A fair posting attracts more candidates.",
           "segments": [
             {
-              "text": "This is the issue that concerns me.",
+              "text": "A fair posting attracts more candidates.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðɪs ɪz ðɪ ˈɪʃuː ðæt kənsˈɜːnz mˌiː."
+          "phonemes": "ɐ fˈɛɹ pˈoʊstɪŋ ɐtɹˈækts mˈɔːɹ kˈændᵻdˌeɪts."
         },
         {
-          "text": "— Este es el asunto que me preocupa.",
+          "text": "— Un anuncio justo atrae a más candidatos.",
           "segments": [
             {
-              "text": "— Este es el asunto que me preocupa.",
+              "text": "— Un anuncio justo atrae a más candidatos.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— ˈeste ˈes el asˈunto ke me pɾˌeokˈupa."
+          "phonemes": "— ˈun anˈunsjo xˈusto atɾˈae a mˈas kˌandiðˈatos."
         },
         {
-          "text": "The author whose book won will speak.",
+          "text": "Drafting a posting well avoids misunderstandings.",
           "segments": [
             {
-              "text": "The author whose book won will speak.",
+              "text": "Drafting a posting well avoids misunderstandings.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðɪ ˈɔːθɚ hˌuːz bˈʊk wˈʌn wɪl spˈiːk."
+          "phonemes": "dɹˈæftɪŋ ɐ pˈoʊstɪŋ wˈɛl ɐvˈɔɪdz mɪsˌʌndɚstˈændɪŋz."
         },
         {
-          "text": "— Hablará la autora cuyo libro ganó.",
+          "text": "— Redactar bien un anuncio evita malentendidos.",
           "segments": [
             {
-              "text": "— Hablará la autora cuyo libro ganó.",
+              "text": "— Redactar bien un anuncio evita malentendidos.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— ˌaβlaɾˈa la aʊtˈoɾa kˈuʝo lˈiβɾo ɣanˈo."
+          "phonemes": "— rˌeðaktˈaɾ βjˈen ˈun anˈunsjo eβˈita mˌalentendˈiðos."
         }
       ]
     },
@@ -325,129 +325,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "who",
+      "text": "a posting",
       "sentences": [
         {
-          "text": "who",
+          "text": "a posting",
           "segments": [
             {
-              "text": "who",
+              "text": "a posting",
               "lang": "en-us"
             }
           ],
-          "phonemes": "hˈuː"
+          "phonemes": "ɐ pˈoʊstɪŋ"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "which",
+      "text": "housing",
       "sentences": [
         {
-          "text": "which",
+          "text": "housing",
           "segments": [
             {
-              "text": "which",
+              "text": "housing",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wˈɪtʃ"
+          "phonemes": "hˈaʊzɪŋ"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "that",
+      "text": "a criterion",
       "sentences": [
         {
-          "text": "that",
+          "text": "a criterion",
           "segments": [
             {
-              "text": "that",
+              "text": "a criterion",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðˈæt"
+          "phonemes": "ɐ kɹaɪtˈiəɹɪən"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "whose",
+      "text": "discriminatory",
       "sentences": [
         {
-          "text": "whose",
+          "text": "discriminatory",
           "segments": [
             {
-              "text": "whose",
+              "text": "discriminatory",
               "lang": "en-us"
             }
           ],
-          "phonemes": "hˌuːz"
+          "phonemes": "dɪskɹˈɪmɪnətˌɔːɹi"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "a requirement",
+      "text": "precise",
       "sentences": [
         {
-          "text": "a requirement",
+          "text": "precise",
           "segments": [
             {
-              "text": "a requirement",
+              "text": "precise",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ ɹᵻkwˈaɪɚmənt"
+          "phonemes": "pɹɪsˈaɪs"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "a candidate",
+      "text": "legal requirement",
       "sentences": [
         {
-          "text": "a candidate",
+          "text": "legal requirement",
           "segments": [
             {
-              "text": "a candidate",
+              "text": "legal requirement",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ kˈændᵻdˌeɪt"
+          "phonemes": "lˈiːɡəl ɹᵻkwˈaɪɚmənt"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "experience",
+      "text": "fair",
       "sentences": [
         {
-          "text": "experience",
+          "text": "fair",
           "segments": [
             {
-              "text": "experience",
+              "text": "fair",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɛkspˈiəɹɪəns"
+          "phonemes": "fˈɛɹ"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "available",
+      "text": "to draft",
       "sentences": [
         {
-          "text": "available",
+          "text": "to draft",
           "segments": [
             {
-              "text": "available",
+              "text": "to draft",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐvˈeɪləbəl"
+          "phonemes": "tə dɹˈæft"
         }
       ]
     }

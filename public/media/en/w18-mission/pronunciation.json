@@ -143,7 +143,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Lenguaje modelo. I couldn't enter because I lost the key. — No pude entrar porque perdí la llave. We went to town by another road. — Fuimos al pueblo por otra carretera. We met the new mayor there. — Allí conocimos a la nueva alcaldesa. I learned the truth that afternoon. — Supe la verdad esa tarde. They wanted to help but didn't have time. — Querían ayudar, pero no tenían tiempo.",
+      "text": "Lenguaje modelo. I'm going to explain a failed plan. — Voy a explicar un plan fallido. I describe the unexpected discovery. — Describo el descubrimiento inesperado. In the end, the situation resolved well. — Al final, la situación se resolvió bien. We didn't achieve everything planned. — No logramos todo lo planeado. The final resolution was positive. — La resolución final fue positiva.",
       "sentences": [
         {
           "text": "Lenguaje modelo.",
@@ -156,104 +156,104 @@
           "phonemes": "leŋɡwˈaxe moðˈelo."
         },
         {
-          "text": "I couldn't enter because I lost the key.",
+          "text": "I'm going to explain a failed plan.",
           "segments": [
             {
-              "text": "I couldn't enter because I lost the key.",
+              "text": "I'm going to explain a failed plan.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪ kˌʊdənt ˈɛntɚ bɪkˈʌz aɪ lˈɔst ðə kˈiː."
+          "phonemes": "aɪm ɡˌoʊɪŋ tʊ ɛksplˈeɪn ɐ fˈeɪld plˈæn."
         },
         {
-          "text": "— No pude entrar porque perdí la llave.",
+          "text": "— Voy a explicar un plan fallido.",
           "segments": [
             {
-              "text": "— No pude entrar porque perdí la llave.",
+              "text": "— Voy a explicar un plan fallido.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— nˈo pˈuðe entɾˈaɾ pˌoɾke peɾðˈi la ʝˈaβe."
+          "phonemes": "— bˈoɪ a ˌeksplikˈaɾ ˈum plˈan fajjˈiðo."
         },
         {
-          "text": "We went to town by another road.",
+          "text": "I describe the unexpected discovery.",
           "segments": [
             {
-              "text": "We went to town by another road.",
+              "text": "I describe the unexpected discovery.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wiː wɛnt tə tˈaʊn baɪ ɐnˈʌðɚ ɹˈoʊd."
+          "phonemes": "aɪ dᵻskɹˈaɪb ðɪ ˌʌnɛkspˈɛktᵻd dɪskˈʌvɚɹi."
         },
         {
-          "text": "— Fuimos al pueblo por otra carretera.",
+          "text": "— Describo el descubrimiento inesperado.",
           "segments": [
             {
-              "text": "— Fuimos al pueblo por otra carretera.",
+              "text": "— Describo el descubrimiento inesperado.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— fwˈimos al pwˈeβlo poɾ ˈotɾa kˌaretˈeɾa."
+          "phonemes": "— deskɾˈiβo el ðˌeskuβɾimjˈɛnto ˌinespeɾˈaðo."
         },
         {
-          "text": "We met the new mayor there.",
+          "text": "In the end, the situation resolved well.",
           "segments": [
             {
-              "text": "We met the new mayor there.",
+              "text": "In the end, the situation resolved well.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wiː mˈɛt ðə nˈuː mˈeɪɚ ðˈɛɹ."
+          "phonemes": "ɪnðɪ ˈɛnd, ðə sˌɪtʃuːˈeɪʃən ɹᵻzˈɑːlvd wˈɛl."
         },
         {
-          "text": "— Allí conocimos a la nueva alcaldesa.",
+          "text": "— Al final, la situación se resolvió bien.",
           "segments": [
             {
-              "text": "— Allí conocimos a la nueva alcaldesa.",
+              "text": "— Al final, la situación se resolvió bien.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— ajjˈi kˌonosˈimos a la nwˈeβa ˌalkalðˈesa."
+          "phonemes": "— al finˈal, la sˌitwasjˈon se rˌesolβjˈo βjˈen."
         },
         {
-          "text": "I learned the truth that afternoon.",
+          "text": "We didn't achieve everything planned.",
           "segments": [
             {
-              "text": "I learned the truth that afternoon.",
+              "text": "We didn't achieve everything planned.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪ lˈɜːnd ðə tɹˈuːθ ðæt ˌæftɚnˈuːn."
+          "phonemes": "wiː dˈɪdnt ɐtʃˈiːv ˈɛvɹɪθˌɪŋ plˈænd."
         },
         {
-          "text": "— Supe la verdad esa tarde.",
+          "text": "— No logramos todo lo planeado.",
           "segments": [
             {
-              "text": "— Supe la verdad esa tarde.",
+              "text": "— No logramos todo lo planeado.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— sˈupe la βeɾðˈað ˈesa tˈaɾðe."
+          "phonemes": "— nˈo loɣɾˈamos tˈoðo lo plˌaneˈaðo."
         },
         {
-          "text": "They wanted to help but didn't have time.",
+          "text": "The final resolution was positive.",
           "segments": [
             {
-              "text": "They wanted to help but didn't have time.",
+              "text": "The final resolution was positive.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðeɪ wˈɔntᵻd tə hˈɛlp bˌʌt dˈɪdnt hæv tˈaɪm."
+          "phonemes": "ðə fˈaɪnəl ɹˌɛzəlˈuːʃən wʌz pˈɑːzᵻtˌɪv."
         },
         {
-          "text": "— Querían ayudar, pero no tenían tiempo.",
+          "text": "— La resolución final fue positiva.",
           "segments": [
             {
-              "text": "— Querían ayudar, pero no tenían tiempo.",
+              "text": "— La resolución final fue positiva.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— keɾˈian ˌaʝuðˈaɾ, pˌeɾo nˈo tenˈian tjˈempo."
+          "phonemes": "— la rˌesolusjˈon finˈal fwˈe pˌositˈiβa."
         }
       ]
     },
@@ -305,129 +305,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "to go",
+      "text": "a failed plan",
       "sentences": [
         {
-          "text": "to go",
+          "text": "a failed plan",
           "segments": [
             {
-              "text": "to go",
+              "text": "a failed plan",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə ɡˈoʊ"
+          "phonemes": "ɐ fˈeɪld plˈæn"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "to see",
+      "text": "a discovery",
       "sentences": [
         {
-          "text": "to see",
+          "text": "a discovery",
           "segments": [
             {
-              "text": "to see",
+              "text": "a discovery",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə sˈiː"
+          "phonemes": "ɐ dɪskˈʌvɚɹi"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "to find",
+      "text": "unexpected",
       "sentences": [
         {
-          "text": "to find",
+          "text": "unexpected",
           "segments": [
             {
-              "text": "to find",
+              "text": "unexpected",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə fˈaɪnd"
+          "phonemes": "ˌʌnɛkspˈɛktᵻd"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "to know",
+      "text": "a resolution",
       "sentences": [
         {
-          "text": "to know",
+          "text": "a resolution",
           "segments": [
             {
-              "text": "to know",
+              "text": "a resolution",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə nˈoʊ"
+          "phonemes": "ɐ ɹˌɛzəlˈuːʃən"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "to lose",
+      "text": "to explain",
       "sentences": [
         {
-          "text": "to lose",
+          "text": "to explain",
           "segments": [
             {
-              "text": "to lose",
+              "text": "to explain",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə lˈuːz"
+          "phonemes": "tʊ ɛksplˈeɪn"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "to take",
+      "text": "to turn out",
       "sentences": [
         {
-          "text": "to take",
+          "text": "to turn out",
           "segments": [
             {
-              "text": "to take",
+              "text": "to turn out",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə tˈeɪk"
+          "phonemes": "tə tˈɜːn ˈaʊt"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "to come",
+      "text": "in the end",
       "sentences": [
         {
-          "text": "to come",
+          "text": "in the end",
           "segments": [
             {
-              "text": "to come",
+              "text": "in the end",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə kˈʌm"
+          "phonemes": "ɪnðɪ ˈɛnd"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "to learn",
+      "text": "to achieve",
       "sentences": [
         {
-          "text": "to learn",
+          "text": "to achieve",
           "segments": [
             {
-              "text": "to learn",
+              "text": "to achieve",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə lˈɜːn"
+          "phonemes": "tʊ ɐtʃˈiːv"
         }
       ]
     }

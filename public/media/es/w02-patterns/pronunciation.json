@@ -41,7 +41,7 @@
     },
     {
       "file": "01.wav",
-      "text": "Form and meaning. Subject pronouns, polite versus familiar address, present-tense ser for identity, and omitted subjects.",
+      "text": "Form and meaning. Applying the form. Choose tú or usted based on formality and relationship; the verb ser changes with each subject pronoun.",
       "sentences": [
         {
           "text": "Form and meaning.",
@@ -54,10 +54,36 @@
           "phonemes": "fˈɔːɹm ænd mˈiːnɪŋ."
         },
         {
-          "text": "Subject pronouns, polite versus familiar address, present-tense ser for identity, and omitted subjects.",
+          "text": "Applying the form.",
           "segments": [
             {
-              "text": "Subject pronouns, polite versus familiar address, present-tense ",
+              "text": "Applying the form.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɐplˈaɪɪŋ ðə fˈɔːɹm."
+        },
+        {
+          "text": "Choose tú or usted based on formality and relationship; the verb ser changes with each subject pronoun.",
+          "segments": [
+            {
+              "text": "Choose ",
+              "lang": "en-us"
+            },
+            {
+              "text": "tú",
+              "lang": "es-419"
+            },
+            {
+              "text": " or ",
+              "lang": "en-us"
+            },
+            {
+              "text": "usted",
+              "lang": "es-419"
+            },
+            {
+              "text": " based on formality and relationship; the verb ",
               "lang": "en-us"
             },
             {
@@ -65,17 +91,17 @@
               "lang": "es-419"
             },
             {
-              "text": " for identity, and omitted subjects.",
+              "text": " changes with each subject pronoun.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "sˈʌbdʒɛkt pɹˈoʊnaʊnz, pəlˈaɪt vˈɜːsᵻz fəmˈɪlɪɹ ɐdɹˈɛs, pɹˈɛzənttˈɛns sˈer fɔːɹ aɪdˈɛntᵻɾi, ænd oʊmˈɪɾᵻd sˈʌbdʒɛkts."
+          "phonemes": "tʃˈuːz tˈu ɔːɹ ustˈed bˈeɪst ˌɔn fɔːɹmˈælᵻɾi ænd ɹᵻlˈeɪʃənʃˌɪp; ðə vˈɜːb sˈer tʃˈeɪndʒᵻz wɪð ˈiːtʃ sˈʌbdʒɛkt pɹˈoʊnaʊn."
         }
       ]
     },
     {
       "file": "02.wav",
-      "text": "Model set. Hola, me llamo Alex. Mucho gusto, señora Rivera. ¿Cómo te llamas? Le presento a mi compañera. Nos vemos mañana; que tenga buen día. Hello, my name is Alex. Nice to meet you, Mrs. Rivera. What is your name? Let me introduce you to my classmate. See you tomorrow; have a good day.",
+      "text": "Model set. Yo soy nueva aquí. ¿Tú eres de aquí? Usted es el director, ¿verdad? Nosotros somos compañeros de clase. Ella se llama Marta. I am new here. Are you from here? You are the director, right? We are classmates. Her name is Marta.",
       "sentences": [
         {
           "text": "Model set.",
@@ -88,114 +114,104 @@
           "phonemes": "mˈɑːdəl sˈɛt."
         },
         {
-          "text": "Hola, me llamo Alex.",
+          "text": "Yo soy nueva aquí.",
           "segments": [
             {
-              "text": "Hola, me llamo Alex.",
+              "text": "Yo soy nueva aquí.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˈola, me ʝˈamo alˈeks."
+          "phonemes": "ʝˈo sˈoɪ nwˈeβa akˈi."
         },
         {
-          "text": "Mucho gusto, señora Rivera.",
+          "text": "¿Tú eres de aquí?",
           "segments": [
             {
-              "text": "Mucho gusto, señora Rivera.",
+              "text": "¿Tú eres de aquí?",
               "lang": "es-419"
             }
           ],
-          "phonemes": "mˈutʃo ɣˈusto, seɲˈoɾa riβˈeɾa."
+          "phonemes": "tˈu ˈeɾes ðe akˈi?"
         },
         {
-          "text": "¿Cómo te llamas?",
+          "text": "Usted es el director, ¿verdad?",
           "segments": [
             {
-              "text": "¿Cómo te llamas?",
+              "text": "Usted es el director, ¿verdad?",
               "lang": "es-419"
             }
           ],
-          "phonemes": "kˈomo te ʝˈamas?"
+          "phonemes": "ustˈeð ˈes el ðˌiɾektˈoɾ, beɾðˈad?"
         },
         {
-          "text": "Le presento a mi compañera.",
+          "text": "Nosotros somos compañeros de clase.",
           "segments": [
             {
-              "text": "Le presento a mi compañera.",
+              "text": "Nosotros somos compañeros de clase.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "le pɾesˈɛnto a mi kˌompaɲˈeɾa."
+          "phonemes": "nosˈotɾos sˈomos kˌompaɲˈeɾos ðe klˈase."
         },
         {
-          "text": "Nos vemos mañana; que tenga buen día.",
+          "text": "Ella se llama Marta.",
           "segments": [
             {
-              "text": "Nos vemos mañana; que tenga buen día.",
+              "text": "Ella se llama Marta.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "nos βˈemos maɲˈana; ke tˈɛŋɡa βwˈen dˈia."
+          "phonemes": "ˈejja se ʝˈama mˈaɾta."
         },
         {
-          "text": "Hello, my name is Alex.",
+          "text": "I am new here.",
           "segments": [
             {
-              "text": "Hello, my name is Alex.",
+              "text": "I am new here.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "həlˈoʊ, maɪ nˈeɪm ɪz ˈælɪks."
+          "phonemes": "aɪɐm nˈuː hˈɪɹ."
         },
         {
-          "text": "Nice to meet you, Mrs.",
+          "text": "Are you from here?",
           "segments": [
             {
-              "text": "Nice to meet you, Mrs.",
+              "text": "Are you from here?",
               "lang": "en-us"
             }
           ],
-          "phonemes": "nˈaɪs tə mˈiːt juː, mˈɪsɪz."
+          "phonemes": "ɑːɹ juː fɹʌm hˈɪɹ?"
         },
         {
-          "text": "Rivera.",
+          "text": "You are the director, right?",
           "segments": [
             {
-              "text": "Rivera.",
+              "text": "You are the director, right?",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɹɪvˈɛɹə."
+          "phonemes": "juː ɑːɹ ðə dᵻɹˈɛktɚ, ɹˈaɪt?"
         },
         {
-          "text": "What is your name?",
+          "text": "We are classmates.",
           "segments": [
             {
-              "text": "What is your name?",
+              "text": "We are classmates.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wˌʌt ɪz jʊɹ nˈeɪm?"
+          "phonemes": "wiː ɑːɹ klˈæsmeɪts."
         },
         {
-          "text": "Let me introduce you to my classmate.",
+          "text": "Her name is Marta.",
           "segments": [
             {
-              "text": "Let me introduce you to my classmate.",
+              "text": "Her name is Marta.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "lˈɛt mˌiː ˌɪntɹədˈuːs juː tə maɪ klˈæsmeɪt."
-        },
-        {
-          "text": "See you tomorrow; have a good day.",
-          "segments": [
-            {
-              "text": "See you tomorrow; have a good day.",
-              "lang": "en-us"
-            }
-          ],
-          "phonemes": "sˈiː juː təmˈɑːɹoʊ; hæv ɐ ɡˈʊd dˈeɪ."
+          "phonemes": "hɜː nˈeɪm ɪz mˈɑːɹɾə."
         }
       ]
     },
@@ -289,7 +305,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Model language. Hola, me llamo Alex. — Hello, my name is Alex. Mucho gusto, señora Rivera. — Nice to meet you, Mrs. Rivera. ¿Cómo te llamas? — What is your name? Le presento a mi compañera. — Let me introduce you to my classmate. Nos vemos mañana; que tenga buen día. — See you tomorrow; have a good day.",
+      "text": "Model language. Yo soy nueva aquí. — I am new here. ¿Tú eres de aquí? — Are you from here? Usted es el director, ¿verdad? — You are the director, right? Nosotros somos compañeros de clase. — We are classmates. Ella se llama Marta. — Her name is Marta.",
       "sentences": [
         {
           "text": "Model language.",
@@ -302,114 +318,104 @@
           "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
         },
         {
-          "text": "Hola, me llamo Alex.",
+          "text": "Yo soy nueva aquí.",
           "segments": [
             {
-              "text": "Hola, me llamo Alex.",
+              "text": "Yo soy nueva aquí.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˈola, me ʝˈamo alˈeks."
+          "phonemes": "ʝˈo sˈoɪ nwˈeβa akˈi."
         },
         {
-          "text": "— Hello, my name is Alex.",
+          "text": "— I am new here.",
           "segments": [
             {
-              "text": "— Hello, my name is Alex.",
+              "text": "— I am new here.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— həlˈoʊ, maɪ nˈeɪm ɪz ˈælɪks."
+          "phonemes": "— aɪɐm nˈuː hˈɪɹ."
         },
         {
-          "text": "Mucho gusto, señora Rivera.",
+          "text": "¿Tú eres de aquí?",
           "segments": [
             {
-              "text": "Mucho gusto, señora Rivera.",
+              "text": "¿Tú eres de aquí?",
               "lang": "es-419"
             }
           ],
-          "phonemes": "mˈutʃo ɣˈusto, seɲˈoɾa riβˈeɾa."
+          "phonemes": "tˈu ˈeɾes ðe akˈi?"
         },
         {
-          "text": "— Nice to meet you, Mrs.",
+          "text": "— Are you from here?",
           "segments": [
             {
-              "text": "— Nice to meet you, Mrs.",
+              "text": "— Are you from here?",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— nˈaɪs tə mˈiːt juː, mˈɪsɪz."
+          "phonemes": "— ɑːɹ juː fɹʌm hˈɪɹ?"
         },
         {
-          "text": "Rivera.",
+          "text": "Usted es el director, ¿verdad?",
           "segments": [
             {
-              "text": "Rivera.",
-              "lang": "en-us"
-            }
-          ],
-          "phonemes": "ɹɪvˈɛɹə."
-        },
-        {
-          "text": "¿Cómo te llamas?",
-          "segments": [
-            {
-              "text": "¿Cómo te llamas?",
+              "text": "Usted es el director, ¿verdad?",
               "lang": "es-419"
             }
           ],
-          "phonemes": "kˈomo te ʝˈamas?"
+          "phonemes": "ustˈeð ˈes el ðˌiɾektˈoɾ, beɾðˈad?"
         },
         {
-          "text": "— What is your name?",
+          "text": "— You are the director, right?",
           "segments": [
             {
-              "text": "— What is your name?",
+              "text": "— You are the director, right?",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— wˌʌt ɪz jʊɹ nˈeɪm?"
+          "phonemes": "— juː ɑːɹ ðə dᵻɹˈɛktɚ, ɹˈaɪt?"
         },
         {
-          "text": "Le presento a mi compañera.",
+          "text": "Nosotros somos compañeros de clase.",
           "segments": [
             {
-              "text": "Le presento a mi compañera.",
+              "text": "Nosotros somos compañeros de clase.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "le pɾesˈɛnto a mi kˌompaɲˈeɾa."
+          "phonemes": "nosˈotɾos sˈomos kˌompaɲˈeɾos ðe klˈase."
         },
         {
-          "text": "— Let me introduce you to my classmate.",
+          "text": "— We are classmates.",
           "segments": [
             {
-              "text": "— Let me introduce you to my classmate.",
+              "text": "— We are classmates.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— lˈɛt mˌiː ˌɪntɹədˈuːs juː tə maɪ klˈæsmeɪt."
+          "phonemes": "— wiː ɑːɹ klˈæsmeɪts."
         },
         {
-          "text": "Nos vemos mañana; que tenga buen día.",
+          "text": "Ella se llama Marta.",
           "segments": [
             {
-              "text": "Nos vemos mañana; que tenga buen día.",
+              "text": "Ella se llama Marta.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "nos βˈemos maɲˈana; ke tˈɛŋɡa βwˈen dˈia."
+          "phonemes": "ˈejja se ʝˈama mˈaɾta."
         },
         {
-          "text": "— See you tomorrow; have a good day.",
+          "text": "— Her name is Marta.",
           "segments": [
             {
-              "text": "— See you tomorrow; have a good day.",
+              "text": "— Her name is Marta.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— sˈiː juː təmˈɑːɹoʊ; hæv ɐ ɡˈʊd dˈeɪ."
+          "phonemes": "— hɜː nˈeɪm ɪz mˈɑːɹɾə."
         }
       ]
     },
@@ -461,129 +467,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "hola",
+      "text": "yo",
       "sentences": [
         {
-          "text": "hola",
+          "text": "yo",
           "segments": [
             {
-              "text": "hola",
+              "text": "yo",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˈola"
+          "phonemes": "ʝˈo"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "buenos días",
+      "text": "tú",
       "sentences": [
         {
-          "text": "buenos días",
+          "text": "tú",
           "segments": [
             {
-              "text": "buenos días",
+              "text": "tú",
               "lang": "es-419"
             }
           ],
-          "phonemes": "bwˈenos ðˈias"
+          "phonemes": "tˈu"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "buenas tardes",
+      "text": "usted",
       "sentences": [
         {
-          "text": "buenas tardes",
+          "text": "usted",
           "segments": [
             {
-              "text": "buenas tardes",
+              "text": "usted",
               "lang": "es-419"
             }
           ],
-          "phonemes": "bwˈenas tˈaɾðes"
+          "phonemes": "ustˈed"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "adiós",
+      "text": "ella",
       "sentences": [
         {
-          "text": "adiós",
+          "text": "ella",
           "segments": [
             {
-              "text": "adiós",
+              "text": "ella",
               "lang": "es-419"
             }
           ],
-          "phonemes": "aðjˈos"
+          "phonemes": "ˈejja"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "por favor",
+      "text": "nosotros",
       "sentences": [
         {
-          "text": "por favor",
+          "text": "nosotros",
           "segments": [
             {
-              "text": "por favor",
+              "text": "nosotros",
               "lang": "es-419"
             }
           ],
-          "phonemes": "poɾ faβˈoɾ"
+          "phonemes": "nosˈotɾos"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "gracias",
+      "text": "ser",
       "sentences": [
         {
-          "text": "gracias",
+          "text": "ser",
           "segments": [
             {
-              "text": "gracias",
+              "text": "ser",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ɡɾˈasjas"
+          "phonemes": "sˈer"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "mucho gusto",
+      "text": "llamarse",
       "sentences": [
         {
-          "text": "mucho gusto",
+          "text": "llamarse",
           "segments": [
             {
-              "text": "mucho gusto",
+              "text": "llamarse",
               "lang": "es-419"
             }
           ],
-          "phonemes": "mˈutʃo ɣˈusto"
+          "phonemes": "ʝamˈaɾse"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "¿cómo se llama?",
+      "text": "¿de dónde eres?",
       "sentences": [
         {
-          "text": "¿cómo se llama?",
+          "text": "¿de dónde eres?",
           "segments": [
             {
-              "text": "¿cómo se llama?",
+              "text": "¿de dónde eres?",
               "lang": "es-419"
             }
           ],
-          "phonemes": "kˈomo se ʝˈama?"
+          "phonemes": "de ðˈonde ˈeɾes?"
         }
       ]
     }

@@ -153,7 +153,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Model language. Según la técnica, la red ya funciona. — According to the technician, the network is already working. Nos comunicamos por un canal seguro. — We communicate through a secure channel. El director dijo que ampliarían el plazo. — The director said they would extend the deadline. Adjunto encontrará el informe solicitado. — Attached you will find the requested report. Con respecto al incidente, faltan dos datos. — Regarding the incident, two pieces of information are missing.",
+      "text": "Model language. Según la técnica, la red ya funciona. — According to the technician, the network is working. Nos comunicamos por un canal seguro. — We communicate through a secure channel. El director dijo que ampliarían el plazo. — The director said that they would extend the deadline. Adjunto encontrará el informe solicitado. — Attached you will find the requested report. Con respecto al incidente, faltan dos datos. — Regarding the incident, two details are missing.",
       "sentences": [
         {
           "text": "Model language.",
@@ -176,14 +176,14 @@
           "phonemes": "seɣˈun la tˈeknika, la rˈed ʝˈa funsjˈona."
         },
         {
-          "text": "— According to the technician, the network is already working.",
+          "text": "— According to the technician, the network is working.",
           "segments": [
             {
-              "text": "— According to the technician, the network is already working.",
+              "text": "— According to the technician, the network is working.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ɐkˈɔːɹdɪŋ tə ðə tɛknˈɪʃən, ðə nˈɛtwɜːk ɪz ɔːlɹˌɛdi wˈɜːkɪŋ."
+          "phonemes": "— ɐkˈɔːɹdɪŋ tə ðə tɛknˈɪʃən, ðə nˈɛtwɜːk ɪz wˈɜːkɪŋ."
         },
         {
           "text": "Nos comunicamos por un canal seguro.",
@@ -216,14 +216,14 @@
           "phonemes": "el ðˌiɾektˈoɾ ðˈixo ke ˌampliaɾˈian el plˈaso."
         },
         {
-          "text": "— The director said they would extend the deadline.",
+          "text": "— The director said that they would extend the deadline.",
           "segments": [
             {
-              "text": "— The director said they would extend the deadline.",
+              "text": "— The director said that they would extend the deadline.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ðə dᵻɹˈɛktɚ sˈɛd ðeɪ wʊd ɛkstˈɛnd ðə dˈɛdlaɪn."
+          "phonemes": "— ðə dᵻɹˈɛktɚ sˈɛd ðæt ðeɪ wʊd ɛkstˈɛnd ðə dˈɛdlaɪn."
         },
         {
           "text": "Adjunto encontrará el informe solicitado.",
@@ -256,14 +256,14 @@
           "phonemes": "kon respˈekto al ˌinsiðˈɛnte, fˈaltan dˈos ðˈatos."
         },
         {
-          "text": "— Regarding the incident, two pieces of information are missing.",
+          "text": "— Regarding the incident, two details are missing.",
           "segments": [
             {
-              "text": "— Regarding the incident, two pieces of information are missing.",
+              "text": "— Regarding the incident, two details are missing.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ɹᵻɡˈɑːɹdɪŋ ðɪ ˈɪnsɪdənt, tˈuː pˈiːsᵻz ʌv ˌɪnfɚmˈeɪʃən ɑːɹ mˈɪsɪŋ."
+          "phonemes": "— ɹᵻɡˈɑːɹdɪŋ ðɪ ˈɪnsɪdənt, tˈuː diːtˈeɪlz ɑːɹ mˈɪsɪŋ."
         }
       ]
     },

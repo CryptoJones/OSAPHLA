@@ -45,11 +45,19 @@
           "text": "Interpret seven short regional exchanges and restate their content in neutral instructional Spanish.",
           "segments": [
             {
-              "text": "Interpret seven short regional exchanges and restate their content in neutral instructional Spanish.",
+              "text": "Interpret seven short regional exchanges and restate their content in ",
+              "lang": "en-us"
+            },
+            {
+              "text": "neutral",
+              "lang": "es-419"
+            },
+            {
+              "text": " instructional Spanish.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɪntˈɜːpɹɪt sˈɛvən ʃˈɔːɹt ɹˈiːdʒənəl ɛkstʃˈeɪndʒᵻz ænd ɹᵻstˈeɪt ðɛɹ kˈɑːntɛnt ɪn nˈuːtɹəl ɪnstɹˈʌkʃənəl spˈænɪʃ."
+          "phonemes": "ɪntˈɜːpɹɪt sˈɛvən ʃˈɔːɹt ɹˈiːdʒənəl ɛkstʃˈeɪndʒᵻz ænd ɹᵻstˈeɪt ðɛɹ kˈɑːntɛnt ˈɪn neʊtɾˈal ɪnstɹˈʌkʃənəl spˈænɪʃ."
         }
       ]
     },
@@ -143,7 +151,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Model language. ¿Vos tenés tiempo mañana? — Do you have time tomorrow? Vosotros podéis entrar por aquí. — You all can enter here. Ustedes esperan la guagua en esa esquina. — You all wait for the bus on that corner. En México, camión puede significar autobús. — In Mexico, camión can mean bus. No entendí esa palabra; ¿qué significa aquí? — I did not understand that word; what does it mean here?",
+      "text": "Model language. Voy a interpretar siete intercambios regionales. — I am going to interpret seven regional exchanges. Cada intercambio es breve. — Each exchange is brief. Reformulo el contenido en un modelo neutral. — I reformulate the content in a neutral model. Uso el modelo instructivo del curso. — I use the course's instructional model. Así todos pueden comprender el mensaje. — This way everyone can understand the message.",
       "sentences": [
         {
           "text": "Model language.",
@@ -156,112 +164,112 @@
           "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
         },
         {
-          "text": "¿Vos tenés tiempo mañana?",
+          "text": "Voy a interpretar siete intercambios regionales.",
           "segments": [
             {
-              "text": "¿Vos tenés tiempo mañana?",
+              "text": "Voy a interpretar siete intercambios regionales.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "bˈos tenˈes tjˈempo maɲˈana?"
+          "phonemes": "bˈoɪ a ˌinteɾpɾetˈaɾ sjˈete ˌinteɾkˈambjos rˌexjonˈales."
         },
         {
-          "text": "— Do you have time tomorrow?",
+          "text": "— I am going to interpret seven regional exchanges.",
           "segments": [
             {
-              "text": "— Do you have time tomorrow?",
+              "text": "— I am going to interpret seven regional exchanges.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— dˈuː juː hæv tˈaɪm təmˈɑːɹoʊ?"
+          "phonemes": "— aɪɐm ɡˌoʊɪŋ tʊ ɪntˈɜːpɹɪt sˈɛvən ɹˈiːdʒənəl ɛkstʃˈeɪndʒᵻz."
         },
         {
-          "text": "Vosotros podéis entrar por aquí.",
+          "text": "Cada intercambio es breve.",
           "segments": [
             {
-              "text": "Vosotros podéis entrar por aquí.",
+              "text": "Cada intercambio es breve.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "bosˈotɾos poðˈeis entɾˈaɾ poɾ akˈi."
+          "phonemes": "kˈaða ˌinteɾkˈambjo ˈes βɾˈeβe."
         },
         {
-          "text": "— You all can enter here.",
+          "text": "— Each exchange is brief.",
           "segments": [
             {
-              "text": "— You all can enter here.",
+              "text": "— Each exchange is brief.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— juː ˈɔːl kæn ˈɛntɚ hˈɪɹ."
+          "phonemes": "— ˈiːtʃ ɛkstʃˈeɪndʒ ɪz bɹˈiːf."
         },
         {
-          "text": "Ustedes esperan la guagua en esa esquina.",
+          "text": "Reformulo el contenido en un modelo neutral.",
           "segments": [
             {
-              "text": "Ustedes esperan la guagua en esa esquina.",
+              "text": "Reformulo el contenido en un modelo neutral.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ustˈeðes espˈeɾan la ɣwˈaɣwa en ˈesa eskˈina."
+          "phonemes": "rˌefoɾmˈulo el kˌontenˈiðo en ˈun moðˈelo neʊtɾˈal."
         },
         {
-          "text": "— You all wait for the bus on that corner.",
+          "text": "— I reformulate the content in a neutral model.",
           "segments": [
             {
-              "text": "— You all wait for the bus on that corner.",
-              "lang": "en-us"
-            }
-          ],
-          "phonemes": "— juː ˈɔːl wˈeɪt fɚðə bˈʌs ˌɔn ðæt kˈɔːɹnɚ."
-        },
-        {
-          "text": "En México, camión puede significar autobús.",
-          "segments": [
-            {
-              "text": "En México, camión puede significar autobús.",
-              "lang": "es-419"
-            }
-          ],
-          "phonemes": "en mˈɛxiko, kamjˈom pwˈeðe sˌiɡnifikˈaɾ ˌaʊtoβˈus."
-        },
-        {
-          "text": "— In Mexico, camión can mean bus.",
-          "segments": [
-            {
-              "text": "— In Mexico, ",
+              "text": "— I reformulate the content in a ",
               "lang": "en-us"
             },
             {
-              "text": "camión",
+              "text": "neutral",
               "lang": "es-419"
             },
             {
-              "text": " can mean bus.",
+              "text": " model.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ɪn mˈɛksɪkˌoʊ, kamjˈon kæn mˈiːn bˈʌs."
+          "phonemes": "— aɪ ɹᵻfˈɔːɹmjʊlˌeɪt ðə kˈɑːntɛnt ɪn ˈeɪ neʊtɾˈal mˈɑːdəl."
         },
         {
-          "text": "No entendí esa palabra; ¿qué significa aquí?",
+          "text": "Uso el modelo instructivo del curso.",
           "segments": [
             {
-              "text": "No entendí esa palabra; ¿qué significa aquí?",
+              "text": "Uso el modelo instructivo del curso.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "nˈo ˌentendˈi ˈesa palˈaβɾa; kˈe sˌiɡnifˈika akˈi?"
+          "phonemes": "ˈuso el moðˈelo ˌinstɾuktˈiβo ðel kˈuɾso."
         },
         {
-          "text": "— I did not understand that word; what does it mean here?",
+          "text": "— I use the course's instructional model.",
           "segments": [
             {
-              "text": "— I did not understand that word; what does it mean here?",
+              "text": "— I use the course's instructional model.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— aɪ dɪdnˌɑːt ˌʌndɚstˈænd ðæt wˈɜːd; wˌʌt dˈʌz ɪt mˈiːn hˈɪɹ?"
+          "phonemes": "— aɪ jˈuːz ðə kˈɔːɹsᵻz ɪnstɹˈʌkʃənəl mˈɑːdəl."
+        },
+        {
+          "text": "Así todos pueden comprender el mensaje.",
+          "segments": [
+            {
+              "text": "Así todos pueden comprender el mensaje.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "asˈi tˈoðos pwˈeðen kˌompɾendˈeɾ el mensˈaxe."
+        },
+        {
+          "text": "— This way everyone can understand the message.",
+          "segments": [
+            {
+              "text": "— This way everyone can understand the message.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— ðɪs wˈeɪ ˈɛvɹɪwˌʌn kæn ˌʌndɚstˈænd ðə mˈɛsɪdʒ."
         }
       ]
     },
@@ -313,129 +321,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "el autobús",
+      "text": "interpretar",
       "sentences": [
         {
-          "text": "el autobús",
+          "text": "interpretar",
           "segments": [
             {
-              "text": "el autobús",
+              "text": "interpretar",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el ˌaʊtoβˈus"
+          "phonemes": "ˌinteɾpɾetˈaɾ"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "el camión",
+      "text": "el intercambio",
       "sentences": [
         {
-          "text": "el camión",
+          "text": "el intercambio",
           "segments": [
             {
-              "text": "el camión",
+              "text": "el intercambio",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el kamjˈon"
+          "phonemes": "el ˌinteɾkˈambjo"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "la guagua",
+      "text": "reformular",
       "sentences": [
         {
-          "text": "la guagua",
+          "text": "reformular",
           "segments": [
             {
-              "text": "la guagua",
+              "text": "reformular",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la ɣwˈaɣwa"
+          "phonemes": "rˌefoɾmulˈaɾ"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "el móvil",
+      "text": "neutral",
       "sentences": [
         {
-          "text": "el móvil",
+          "text": "neutral",
           "segments": [
             {
-              "text": "el móvil",
+              "text": "neutral",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el mˈoβil"
+          "phonemes": "neʊtɾˈal"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "el celular",
+      "text": "el modelo instructivo",
       "sentences": [
         {
-          "text": "el celular",
+          "text": "el modelo instructivo",
           "segments": [
             {
-              "text": "el celular",
+              "text": "el modelo instructivo",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el sˌelulˈaɾ"
+          "phonemes": "el moðˈelo ˌinstɾuktˈiβo"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "vos tenés",
+      "text": "comprender",
       "sentences": [
         {
-          "text": "vos tenés",
+          "text": "comprender",
           "segments": [
             {
-              "text": "vos tenés",
+              "text": "comprender",
               "lang": "es-419"
             }
           ],
-          "phonemes": "bˈos tenˈes"
+          "phonemes": "kˌompɾendˈeɾ"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "vosotros tenéis",
+      "text": "siete",
       "sentences": [
         {
-          "text": "vosotros tenéis",
+          "text": "siete",
           "segments": [
             {
-              "text": "vosotros tenéis",
+              "text": "siete",
               "lang": "es-419"
             }
           ],
-          "phonemes": "bosˈotɾos tenˈeis"
+          "phonemes": "sjˈete"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "ustedes tienen",
+      "text": "breve",
       "sentences": [
         {
-          "text": "ustedes tienen",
+          "text": "breve",
           "segments": [
             {
-              "text": "ustedes tienen",
+              "text": "breve",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ustˈeðes tjˈenen"
+          "phonemes": "bɾˈeβe"
         }
       ]
     }

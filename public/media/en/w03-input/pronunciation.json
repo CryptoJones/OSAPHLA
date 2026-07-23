@@ -183,7 +183,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Lenguaje modelo. There is a book on the table. — Hay un libro sobre la mesa. What is this? — ¿Qué es esto? It's an important question. — Es una pregunta importante. Open your notebooks, please. — Abran sus cuadernos, por favor. The answers are on page ten. — Las respuestas están en la página diez.",
+      "text": "Lenguaje modelo. There are twenty chairs in the classroom. — Hay veinte sillas en el aula. There are also ten tables. — También hay diez mesas. The teacher writes a question. — La profesora escribe una pregunta. The students look for the answer. — Los estudiantes buscan la respuesta. They find it on page ten. — La encuentran en la página diez.",
       "sentences": [
         {
           "text": "Lenguaje modelo.",
@@ -196,104 +196,104 @@
           "phonemes": "leŋɡwˈaxe moðˈelo."
         },
         {
-          "text": "There is a book on the table.",
+          "text": "There are twenty chairs in the classroom.",
           "segments": [
             {
-              "text": "There is a book on the table.",
+              "text": "There are twenty chairs in the classroom.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðɛɹ ɪz ɐ bˈʊk ɔnðə tˈeɪbəl."
+          "phonemes": "ðɛɹˌɑːɹ twˈɛnti tʃˈɛɹz ɪnðə klˈæsɹuːm."
         },
         {
-          "text": "— Hay un libro sobre la mesa.",
+          "text": "— Hay veinte sillas en el aula.",
           "segments": [
             {
-              "text": "— Hay un libro sobre la mesa.",
+              "text": "— Hay veinte sillas en el aula.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— ˈaɪ ˈun lˈiβɾo sˌoβɾe la mˈesa."
+          "phonemes": "— ˈaɪ βˈeɪnte sˈijjas en el ˈaʊla."
         },
         {
-          "text": "What is this?",
+          "text": "There are also ten tables.",
           "segments": [
             {
-              "text": "What is this?",
+              "text": "There are also ten tables.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wˌʌt ɪz ðˈɪs?"
+          "phonemes": "ðɛɹˌɑːɹ ˈɔːlsoʊ tˈɛn tˈeɪbəlz."
         },
         {
-          "text": "— ¿Qué es esto?",
+          "text": "— También hay diez mesas.",
           "segments": [
             {
-              "text": "— ¿Qué es esto?",
+              "text": "— También hay diez mesas.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— kˈe ˈes ˈesto?"
+          "phonemes": "— tambjˈen ˈaɪ ðjˈes mˈesas."
         },
         {
-          "text": "It's an important question.",
+          "text": "The teacher writes a question.",
           "segments": [
             {
-              "text": "It's an important question.",
+              "text": "The teacher writes a question.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɪts ɐn ɪmpˈɔːɹtənt kwˈɛstʃən."
+          "phonemes": "ðə tˈiːtʃɚ ɹˈaɪts ɐ kwˈɛstʃən."
         },
         {
-          "text": "— Es una pregunta importante.",
+          "text": "— La profesora escribe una pregunta.",
           "segments": [
             {
-              "text": "— Es una pregunta importante.",
+              "text": "— La profesora escribe una pregunta.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— ˈes ˈuna pɾeɣˈunta ˌimpoɾtˈante."
+          "phonemes": "— la pɾˌofesˈoɾa eskɾˈiβe ˈuna pɾeɣˈunta."
         },
         {
-          "text": "Open your notebooks, please.",
+          "text": "The students look for the answer.",
           "segments": [
             {
-              "text": "Open your notebooks, please.",
+              "text": "The students look for the answer.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ˈoʊpən jʊɹ nˈoʊtbʊks, plˈiːz."
+          "phonemes": "ðə stˈuːdənts lˈʊk fɚðɪ ˈænsɚ."
         },
         {
-          "text": "— Abran sus cuadernos, por favor.",
+          "text": "— Los estudiantes buscan la respuesta.",
           "segments": [
             {
-              "text": "— Abran sus cuadernos, por favor.",
+              "text": "— Los estudiantes buscan la respuesta.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— ˈaβɾan sus kwaðˈeɾnos, poɾ faβˈoɾ."
+          "phonemes": "— los ˌestuðjˈantes βˈuskan la respwˈesta."
         },
         {
-          "text": "The answers are on page ten.",
+          "text": "They find it on page ten.",
           "segments": [
             {
-              "text": "The answers are on page ten.",
+              "text": "They find it on page ten.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðɪ ˈænsɚz ɑːɹ ˌɔn pˈeɪdʒ tˈɛn."
+          "phonemes": "ðeɪ fˈaɪnd ɪɾ ˌɔn pˈeɪdʒ tˈɛn."
         },
         {
-          "text": "— Las respuestas están en la página diez.",
+          "text": "— La encuentran en la página diez.",
           "segments": [
             {
-              "text": "— Las respuestas están en la página diez.",
+              "text": "— La encuentran en la página diez.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— las respwˈestas estˈan en la pˈaxina ðjˈes."
+          "phonemes": "— la enkwˈɛntɾan en la pˈaxina ðjˈes."
         }
       ]
     },
@@ -345,129 +345,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "a book",
+      "text": "classroom",
       "sentences": [
         {
-          "text": "a book",
+          "text": "classroom",
           "segments": [
             {
-              "text": "a book",
+              "text": "classroom",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ bˈʊk"
+          "phonemes": "klˈæsɹuːm"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "a table",
+      "text": "twenty",
       "sentences": [
         {
-          "text": "a table",
+          "text": "twenty",
           "segments": [
             {
-              "text": "a table",
+              "text": "twenty",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ tˈeɪbəl"
+          "phonemes": "twˈɛnti"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "a chair",
+      "text": "ten",
       "sentences": [
         {
-          "text": "a chair",
+          "text": "ten",
           "segments": [
             {
-              "text": "a chair",
+              "text": "ten",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ tʃˈɛɹ"
+          "phonemes": "tˈɛn"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "a notebook",
+      "text": "to write",
       "sentences": [
         {
-          "text": "a notebook",
+          "text": "to write",
           "segments": [
             {
-              "text": "a notebook",
+              "text": "to write",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ nˈoʊtbʊk"
+          "phonemes": "tə ɹˈaɪt"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "a question",
+      "text": "to look for",
       "sentences": [
         {
-          "text": "a question",
+          "text": "to look for",
           "segments": [
             {
-              "text": "a question",
+              "text": "to look for",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ kwˈɛstʃən"
+          "phonemes": "tə lˈʊk fɔːɹ"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "an answer",
+      "text": "to find",
       "sentences": [
         {
-          "text": "an answer",
+          "text": "to find",
           "segments": [
             {
-              "text": "an answer",
+              "text": "to find",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐn ˈænsɚ"
+          "phonemes": "tə fˈaɪnd"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "to open",
+      "text": "a page",
       "sentences": [
         {
-          "text": "to open",
+          "text": "a page",
           "segments": [
             {
-              "text": "to open",
+              "text": "a page",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tʊ ˈoʊpən"
+          "phonemes": "ɐ pˈeɪdʒ"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "to close",
+      "text": "teacher",
       "sentences": [
         {
-          "text": "to close",
+          "text": "teacher",
           "segments": [
             {
-              "text": "to close",
+              "text": "teacher",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə klˈoʊz"
+          "phonemes": "tˈiːtʃɚ"
         }
       ]
     }

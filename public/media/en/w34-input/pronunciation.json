@@ -183,7 +183,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Lenguaje modelo. Do you have time tomorrow? — ¿Tienes tiempo mañana? Take the lift to the second floor. — Toma el ascensor hasta el segundo piso. Take the elevator to the third floor. — Toma el ascensor hasta el tercer piso. The spelling changes, but the meaning is clear. — La ortografía cambia, pero el significado está claro. I don't know that word. What does it mean here? — No conozco esa palabra. ¿Qué significa aquí?",
+      "text": "Lenguaje modelo. Three speakers arrange the same trip. — Tres hablantes organizan el mismo viaje. One takes the local bus. — Uno toma el autobús local. Another waits for a different bus. — Otro espera un autobús diferente. Another checks the bus schedule. — Otro consulta el horario del autobús. The vehicle is similar; the word changes. — El vehículo es similar; la palabra cambia.",
       "sentences": [
         {
           "text": "Lenguaje modelo.",
@@ -196,124 +196,112 @@
           "phonemes": "leŋɡwˈaxe moðˈelo."
         },
         {
-          "text": "Do you have time tomorrow?",
+          "text": "Three speakers arrange the same trip.",
           "segments": [
             {
-              "text": "Do you have time tomorrow?",
+              "text": "Three speakers arrange the same trip.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "dˈuː juː hæv tˈaɪm təmˈɑːɹoʊ?"
+          "phonemes": "θɹˈiː spˈiːkɚz ɚɹˈeɪndʒ ðə sˈeɪm tɹˈɪp."
         },
         {
-          "text": "— ¿Tienes tiempo mañana?",
+          "text": "— Tres hablantes organizan el mismo viaje.",
           "segments": [
             {
-              "text": "— ¿Tienes tiempo mañana?",
+              "text": "— Tres hablantes organizan el mismo viaje.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— tjˈenes tjˈempo maɲˈana?"
+          "phonemes": "— tɾˈes aβlˈantes ˌoɾɣanˈisan el mˈismo βjˈaxe."
         },
         {
-          "text": "Take the lift to the second floor.",
+          "text": "One takes the local bus.",
           "segments": [
             {
-              "text": "Take the lift to the second floor.",
+              "text": "One takes the local bus.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tˈeɪk ðə lˈɪft tə ðə sˈɛkənd flˈɔːɹ."
+          "phonemes": "wˈʌn tˈeɪks ðə lˈoʊkəl bˈʌs."
         },
         {
-          "text": "— Toma el ascensor hasta el segundo piso.",
+          "text": "— Uno toma el autobús local.",
           "segments": [
             {
-              "text": "— Toma el ascensor hasta el segundo piso.",
+              "text": "— Uno toma el autobús local.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— tˈoma el ˌasensˈoɾ ˌasta el seɣˈundo pˈiso."
+          "phonemes": "— ˈuno tˈoma el ˌaʊtoβˈus lokˈal."
         },
         {
-          "text": "Take the elevator to the third floor.",
+          "text": "Another waits for a different bus.",
           "segments": [
             {
-              "text": "Take the elevator to the third floor.",
+              "text": "Another waits for a different bus.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tˈeɪk ðɪ ˈɛlɪvˌeɪɾɚ tə ðə θˈɜːd flˈɔːɹ."
+          "phonemes": "ɐnˈʌðɚ wˈeɪts fɚɹə dˈɪfɹənt bˈʌs."
         },
         {
-          "text": "— Toma el ascensor hasta el tercer piso.",
+          "text": "— Otro espera un autobús diferente.",
           "segments": [
             {
-              "text": "— Toma el ascensor hasta el tercer piso.",
+              "text": "— Otro espera un autobús diferente.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— tˈoma el ˌasensˈoɾ ˌasta el teɾsˈeɾ pˈiso."
+          "phonemes": "— ˈotɾo espˈeɾa ˈun ˌaʊtoβˈus ðˌifeɾˈɛnte."
         },
         {
-          "text": "The spelling changes, but the meaning is clear.",
+          "text": "Another checks the bus schedule.",
           "segments": [
             {
-              "text": "The spelling changes, but the meaning is clear.",
+              "text": "Another checks the bus schedule.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə spˈɛlɪŋ tʃˈeɪndʒᵻz, bˌʌt ðə mˈiːnɪŋ ɪz klˈɪɹ."
+          "phonemes": "ɐnˈʌðɚ tʃˈɛks ðə bˈʌs skˈɛdʒuːl."
         },
         {
-          "text": "— La ortografía cambia, pero el significado está claro.",
+          "text": "— Otro consulta el horario del autobús.",
           "segments": [
             {
-              "text": "— La ortografía cambia, pero el significado está claro.",
+              "text": "— Otro consulta el horario del autobús.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— la ˌoɾtoɣɾafˈia kˈambja, pˌeɾo el sˌiɡnifikˈaðo estˈa klˈaɾo."
+          "phonemes": "— ˈotɾo konsˈulta el oɾˈaɾjo ðel ˌaʊtoβˈus."
         },
         {
-          "text": "I don't know that word.",
+          "text": "The vehicle is similar; the word changes.",
           "segments": [
             {
-              "text": "I don't know that word.",
+              "text": "The vehicle is similar; the word changes.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪ dˈoʊnt nˈoʊ ðæt wˈɜːd."
+          "phonemes": "ðə vˈiəkəl ɪz sˈɪmɪlɚ; ðə wˈɜːd tʃˈeɪndʒᵻz."
         },
         {
-          "text": "What does it mean here?",
+          "text": "— El vehículo es similar; la palabra cambia.",
           "segments": [
             {
-              "text": "What does it mean here?",
+              "text": "— El vehículo es ",
+              "lang": "es-419"
+            },
+            {
+              "text": "similar",
               "lang": "en-us"
-            }
-          ],
-          "phonemes": "wˌʌt dˈʌz ɪt mˈiːn hˈɪɹ?"
-        },
-        {
-          "text": "— No conozco esa palabra.",
-          "segments": [
+            },
             {
-              "text": "— No conozco esa palabra.",
+              "text": "; la palabra cambia.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— nˈo konˈosko ˈesa palˈaβɾa."
-        },
-        {
-          "text": "¿Qué significa aquí?",
-          "segments": [
-            {
-              "text": "¿Qué significa aquí?",
-              "lang": "es-419"
-            }
-          ],
-          "phonemes": "kˈe sˌiɡnifˈika akˈi?"
+          "phonemes": "— el βeˈikulo ˈes sˈɪmɪlɚ ; la palˈaβɾa kˈambja."
         }
       ]
     },
@@ -365,129 +353,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "an accent",
+      "text": "to arrange",
       "sentences": [
         {
-          "text": "an accent",
+          "text": "to arrange",
           "segments": [
             {
-              "text": "an accent",
+              "text": "to arrange",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐn ˈæksənt"
+          "phonemes": "tʊ ɚɹˈeɪndʒ"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "a variety",
+      "text": "a trip",
       "sentences": [
         {
-          "text": "a variety",
+          "text": "a trip",
           "segments": [
             {
-              "text": "a variety",
+              "text": "a trip",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ vɚɹˈaɪəɾi"
+          "phonemes": "ɐ tɹˈɪp"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "a lift",
+      "text": "a vehicle",
       "sentences": [
         {
-          "text": "a lift",
+          "text": "a vehicle",
           "segments": [
             {
-              "text": "a lift",
+              "text": "a vehicle",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ lˈɪft"
+          "phonemes": "ɐ vˈiəkəl"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "an elevator",
+      "text": "similar",
       "sentences": [
         {
-          "text": "an elevator",
+          "text": "similar",
           "segments": [
             {
-              "text": "an elevator",
+              "text": "similar",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐn ˈɛlɪvˌeɪɾɚ"
+          "phonemes": "sˈɪmɪlɚ"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "a flat",
+      "text": "a word",
       "sentences": [
         {
-          "text": "a flat",
+          "text": "a word",
           "segments": [
             {
-              "text": "a flat",
+              "text": "a word",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ flˈæt"
+          "phonemes": "ɐ wˈɜːd"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "an apartment",
+      "text": "a schedule",
       "sentences": [
         {
-          "text": "an apartment",
+          "text": "a schedule",
           "segments": [
             {
-              "text": "an apartment",
+              "text": "a schedule",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐn ɐpˈɑːɹtmənt"
+          "phonemes": "ɐ skˈɛdʒuːl"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "to clarify",
+      "text": "to check",
       "sentences": [
         {
-          "text": "to clarify",
+          "text": "to check",
           "segments": [
             {
-              "text": "to clarify",
+              "text": "to check",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə klˈæɹᵻfˌaɪ"
+          "phonemes": "tə tʃˈɛk"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "What does that mean here?",
+      "text": "to wait",
       "sentences": [
         {
-          "text": "What does that mean here?",
+          "text": "to wait",
           "segments": [
             {
-              "text": "What does that mean here?",
+              "text": "to wait",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wˌʌt dˈʌz ðæt mˈiːn hˈɪɹ?"
+          "phonemes": "tə wˈeɪt"
         }
       ]
     }

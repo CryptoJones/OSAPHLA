@@ -163,7 +163,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Model language. Mi hermana mayor es muy amable. — My older sister is very kind. Conozco a los padres de Elena. — I know Elena's parents. Nuestra familia vive en tres ciudades. — Our family lives in three cities. ¿Es suyo este retrato? — Is this portrait yours? Tengo dos hermanos y una prima. — I have two brothers and one female cousin.",
+      "text": "Model language. Muchas familias son extendidas. — Many families are extended. Algunas personas tienen una familia elegida. — Some people have a chosen family. Cada hogar es diferente. — Every household is different. El respeto no depende de la estructura familiar. — Respect doesn't depend on family structure. Es importante describir las relaciones con precisión. — It's important to describe relationships precisely.",
       "sentences": [
         {
           "text": "Model language.",
@@ -176,104 +176,104 @@
           "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
         },
         {
-          "text": "Mi hermana mayor es muy amable.",
+          "text": "Muchas familias son extendidas.",
           "segments": [
             {
-              "text": "Mi hermana mayor es muy amable.",
+              "text": "Muchas familias son extendidas.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "mi eɾmˈana maʝˈoɾ ˈes mˈuj amˈaβle."
+          "phonemes": "mˈutʃas famˈiljas sˈon ˌekstendˈiðas."
         },
         {
-          "text": "— My older sister is very kind.",
+          "text": "— Many families are extended.",
           "segments": [
             {
-              "text": "— My older sister is very kind.",
+              "text": "— Many families are extended.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— maɪ ˈoʊldɚ sˈɪstɚɹ ɪz vˈɛɹi kˈaɪnd."
+          "phonemes": "— mˈɛni fˈæmɪliz ɑːɹ ɛkstˈɛndᵻd."
         },
         {
-          "text": "Conozco a los padres de Elena.",
+          "text": "Algunas personas tienen una familia elegida.",
           "segments": [
             {
-              "text": "Conozco a los padres de Elena.",
+              "text": "Algunas personas tienen una familia elegida.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "konˈosko a los pˈaðɾes ðe elˈena."
+          "phonemes": "alɣˈunas peɾsˈonas tjˈenen ˈuna famˈilja ˌelexˈiða."
         },
         {
-          "text": "— I know Elena's parents.",
+          "text": "— Some people have a chosen family.",
           "segments": [
             {
-              "text": "— I know Elena's parents.",
+              "text": "— Some people have a chosen family.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— aɪ nˈoʊ ᵻlˈiːnəz pˈɛɹənts."
+          "phonemes": "— sˌʌm pˈiːpəl hæv ɐ tʃˈoʊzən fˈæmɪli."
         },
         {
-          "text": "Nuestra familia vive en tres ciudades.",
+          "text": "Cada hogar es diferente.",
           "segments": [
             {
-              "text": "Nuestra familia vive en tres ciudades.",
+              "text": "Cada hogar es diferente.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "nwˌestɾa famˈilja βˈiβe en tɾˈes sjuðˈaðes."
+          "phonemes": "kˈaða oɣˈaɾ ˈes ðˌifeɾˈɛnte."
         },
         {
-          "text": "— Our family lives in three cities.",
+          "text": "— Every household is different.",
           "segments": [
             {
-              "text": "— Our family lives in three cities.",
+              "text": "— Every household is different.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ˌaʊɚ fˈæmɪli lˈaɪvz ɪn θɹˈiː sˈɪɾiz."
+          "phonemes": "— ˈɛvɹi hˈaʊshoʊld ɪz dˈɪfɹənt."
         },
         {
-          "text": "¿Es suyo este retrato?",
+          "text": "El respeto no depende de la estructura familiar.",
           "segments": [
             {
-              "text": "¿Es suyo este retrato?",
+              "text": "El respeto no depende de la estructura familiar.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˈes sˈuʝo ˈeste retɾˈato?"
+          "phonemes": "el respˈeto nˈo ðepˈɛnde ðe la ˌestɾuktˈuɾa fˌamiljˈaɾ."
         },
         {
-          "text": "— Is this portrait yours?",
+          "text": "— Respect doesn't depend on family structure.",
           "segments": [
             {
-              "text": "— Is this portrait yours?",
+              "text": "— Respect doesn't depend on family structure.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ɪz ðɪs pˈɔːɹtɹɪt jˈɔːɹz?"
+          "phonemes": "— ɹᵻspˈɛkt dˈʌzənt dᵻpˈɛnd ˌɔn fˈæmɪli stɹˈʌktʃɚ."
         },
         {
-          "text": "Tengo dos hermanos y una prima.",
+          "text": "Es importante describir las relaciones con precisión.",
           "segments": [
             {
-              "text": "Tengo dos hermanos y una prima.",
+              "text": "Es importante describir las relaciones con precisión.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "tˈɛŋɡo ðˈos eɾmˈanos i ˈuna pɾˈima."
+          "phonemes": "ˈes ˌimpoɾtˈante ðˌeskɾiβˈiɾ las rˌelasjˈones kom pɾˌesisjˈon."
         },
         {
-          "text": "— I have two brothers and one female cousin.",
+          "text": "— It's important to describe relationships precisely.",
           "segments": [
             {
-              "text": "— I have two brothers and one female cousin.",
+              "text": "— It's important to describe relationships precisely.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— aɪ hæv tˈuː bɹˈʌðɚz ænd wˈʌn fˈiːmeɪl kˈʌzən."
+          "phonemes": "— ɪts ɪmpˈɔːɹtənt tə dᵻskɹˈaɪb ɹᵻlˈeɪʃənʃˌɪps pɹɪsˈaɪsli."
         }
       ]
     },
@@ -325,129 +325,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "la familia",
+      "text": "la familia extendida",
       "sentences": [
         {
-          "text": "la familia",
+          "text": "la familia extendida",
           "segments": [
             {
-              "text": "la familia",
+              "text": "la familia extendida",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la famˈilja"
+          "phonemes": "la famˈilja ˌekstendˈiða"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "la madre",
+      "text": "la familia elegida",
       "sentences": [
         {
-          "text": "la madre",
+          "text": "la familia elegida",
           "segments": [
             {
-              "text": "la madre",
+              "text": "la familia elegida",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la mˈaðɾe"
+          "phonemes": "la famˈilja ˌelexˈiða"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "el padre",
+      "text": "el hogar",
       "sentences": [
         {
-          "text": "el padre",
+          "text": "el hogar",
           "segments": [
             {
-              "text": "el padre",
+              "text": "el hogar",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el pˈaðɾe"
+          "phonemes": "el oɣˈaɾ"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "la hermana",
+      "text": "diverso",
       "sentences": [
         {
-          "text": "la hermana",
+          "text": "diverso",
           "segments": [
             {
-              "text": "la hermana",
+              "text": "diverso",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la eɾmˈana"
+          "phonemes": "diβˈeɾso"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "el amigo",
+      "text": "el respeto",
       "sentences": [
         {
-          "text": "el amigo",
+          "text": "el respeto",
           "segments": [
             {
-              "text": "el amigo",
+              "text": "el respeto",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el amˈiɣo"
+          "phonemes": "el respˈeto"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "joven",
+      "text": "la relación",
       "sentences": [
         {
-          "text": "joven",
+          "text": "la relación",
           "segments": [
             {
-              "text": "joven",
+              "text": "la relación",
               "lang": "es-419"
             }
           ],
-          "phonemes": "xˈoβen"
+          "phonemes": "la rˌelasjˈon"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "mayor",
+      "text": "depender de",
       "sentences": [
         {
-          "text": "mayor",
+          "text": "depender de",
           "segments": [
             {
-              "text": "mayor",
+              "text": "depender de",
               "lang": "es-419"
             }
           ],
-          "phonemes": "maʝˈoɾ"
+          "phonemes": "dˌependˈeɾ ðˈe"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "amable",
+      "text": "incluir",
       "sentences": [
         {
-          "text": "amable",
+          "text": "incluir",
           "segments": [
             {
-              "text": "amable",
+              "text": "incluir",
               "lang": "es-419"
             }
           ],
-          "phonemes": "amˈaβle"
+          "phonemes": "ˌinkluˈiɾ"
         }
       ]
     }

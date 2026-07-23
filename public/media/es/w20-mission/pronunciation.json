@@ -143,7 +143,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Model language. Caminaba a casa cuando empezó la tormenta. — I was walking home when the storm began. Mientras todos dormían, sonó la alarma. — While everyone was sleeping, the alarm went off. Ya había poca luz cuando llegamos. — There was already little light when we arrived. De repente, un vecino abrió la puerta. — Suddenly, a neighbor opened the door. Al final resolvimos el problema juntos. — In the end, we solved the problem together.",
+      "text": "Model language. Voy a describir el escenario primero. — I am going to describe the setting first. Presento una complicación clara. — I present a clear complication. Muestro la reacción de los personajes. — I show the characters' response. Termino con el resultado final. — I finish with the final outcome. Cronometro mi historia en dos minutos. — I time my story at two minutes.",
       "sentences": [
         {
           "text": "Model language.",
@@ -156,104 +156,104 @@
           "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
         },
         {
-          "text": "Caminaba a casa cuando empezó la tormenta.",
+          "text": "Voy a describir el escenario primero.",
           "segments": [
             {
-              "text": "Caminaba a casa cuando empezó la tormenta.",
+              "text": "Voy a describir el escenario primero.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "kˌaminˈaβa a kˈasa kwˌando ˌempesˈo la toɾmˈɛnta."
+          "phonemes": "bˈoɪ a ðˌeskɾiβˈiɾ el ˌesenˈaɾjo pɾimˈeɾo."
         },
         {
-          "text": "— I was walking home when the storm began.",
+          "text": "— I am going to describe the setting first.",
           "segments": [
             {
-              "text": "— I was walking home when the storm began.",
+              "text": "— I am going to describe the setting first.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— aɪ wʌz wˈɔːkɪŋ hˈoʊm wɛn ðə stˈɔːɹm bɪɡˈæn."
+          "phonemes": "— aɪɐm ɡˌoʊɪŋ tə dᵻskɹˈaɪb ðə sˈɛɾɪŋ fˈɜːst."
         },
         {
-          "text": "Mientras todos dormían, sonó la alarma.",
+          "text": "Presento una complicación clara.",
           "segments": [
             {
-              "text": "Mientras todos dormían, sonó la alarma.",
+              "text": "Presento una complicación clara.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "mjˌentɾas tˈoðos ðoɾmˈian, sonˈo la alˈaɾma."
+          "phonemes": "pɾesˈɛnto ˈuna kˌomplikasjˈon klˈaɾa."
         },
         {
-          "text": "— While everyone was sleeping, the alarm went off.",
+          "text": "— I present a clear complication.",
           "segments": [
             {
-              "text": "— While everyone was sleeping, the alarm went off.",
+              "text": "— I present a clear complication.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— wˌaɪl ˈɛvɹɪwˌʌn wʌz slˈiːpɪŋ, ðɪ ɐlˈɑːɹm wɛnt ˈɔf."
+          "phonemes": "— aɪ pɹɪzˈɛnt ɐ klˈɪɹ kˌɑːmplɪkˈeɪʃən."
         },
         {
-          "text": "Ya había poca luz cuando llegamos.",
+          "text": "Muestro la reacción de los personajes.",
           "segments": [
             {
-              "text": "Ya había poca luz cuando llegamos.",
+              "text": "Muestro la reacción de los personajes.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ʝˈa aβˈia pˈoka lˈus kwˌando ʝeɣˈamos."
+          "phonemes": "mwˈestɾo la rˌeaksjˈon de los pˌeɾsonˈaxes."
         },
         {
-          "text": "— There was already little light when we arrived.",
+          "text": "— I show the characters' response.",
           "segments": [
             {
-              "text": "— There was already little light when we arrived.",
+              "text": "— I show the characters' response.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ðɛɹwˌʌz ɔːlɹˌɛdi lˈɪɾəl lˈaɪt wɛn wiː ɚɹˈaɪvd."
+          "phonemes": "— aɪ ʃˈoʊ ðə kˈæɹɪktɚz ɹᵻspˈɑːns."
         },
         {
-          "text": "De repente, un vecino abrió la puerta.",
+          "text": "Termino con el resultado final.",
           "segments": [
             {
-              "text": "De repente, un vecino abrió la puerta.",
+              "text": "Termino con el resultado final.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "de repˈɛnte, ˈum besˈino ˌaβɾiˈo la pwˈeɾta."
+          "phonemes": "teɾmˈino kon el rˌesultˈaðo finˈal."
         },
         {
-          "text": "— Suddenly, a neighbor opened the door.",
+          "text": "— I finish with the final outcome.",
           "segments": [
             {
-              "text": "— Suddenly, a neighbor opened the door.",
+              "text": "— I finish with the final outcome.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— sˈʌdənli, ɐ nˈeɪbɚɹ ˈoʊpənd ðə dˈɔːɹ."
+          "phonemes": "— aɪ fˈɪnɪʃ wɪððə fˈaɪnəl ˈaʊtkʌm."
         },
         {
-          "text": "Al final resolvimos el problema juntos.",
+          "text": "Cronometro mi historia en dos minutos.",
           "segments": [
             {
-              "text": "Al final resolvimos el problema juntos.",
+              "text": "Cronometro mi historia en dos minutos.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "al finˈal rˌesolβˈimos el pɾoβlˈema xˈuntos."
+          "phonemes": "kɾˌonomˈetɾo mi istˈoɾja en dˈos minˈutos."
         },
         {
-          "text": "— In the end, we solved the problem together.",
+          "text": "— I time my story at two minutes.",
           "segments": [
             {
-              "text": "— In the end, we solved the problem together.",
+              "text": "— I time my story at two minutes.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ɪnðɪ ˈɛnd, wiː sˈɑːlvd ðə pɹˈɑːbləm təɡˈɛðɚ."
+          "phonemes": "— aɪ tˈaɪm maɪ stˈɔːɹi æt tˈuː mˈɪnɪts."
         }
       ]
     },
@@ -305,129 +305,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "de repente",
+      "text": "el escenario",
       "sentences": [
         {
-          "text": "de repente",
+          "text": "el escenario",
           "segments": [
             {
-              "text": "de repente",
+              "text": "el escenario",
               "lang": "es-419"
             }
           ],
-          "phonemes": "de repˈɛnte"
+          "phonemes": "el ˌesenˈaɾjo"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "en ese momento",
+      "text": "la complicación",
       "sentences": [
         {
-          "text": "en ese momento",
+          "text": "la complicación",
           "segments": [
             {
-              "text": "en ese momento",
+              "text": "la complicación",
               "lang": "es-419"
             }
           ],
-          "phonemes": "en ˈese momˈɛnto"
+          "phonemes": "la kˌomplikasjˈon"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "cuando",
+      "text": "la reacción",
       "sentences": [
         {
-          "text": "cuando",
+          "text": "la reacción",
           "segments": [
             {
-              "text": "cuando",
+              "text": "la reacción",
               "lang": "es-419"
             }
           ],
-          "phonemes": "kwˈando"
+          "phonemes": "la rˌeaksjˈon"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "mientras",
+      "text": "el resultado",
       "sentences": [
         {
-          "text": "mientras",
+          "text": "el resultado",
           "segments": [
             {
-              "text": "mientras",
+              "text": "el resultado",
               "lang": "es-419"
             }
           ],
-          "phonemes": "mjˈɛntɾas"
+          "phonemes": "el rˌesultˈaðo"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "todavía",
+      "text": "estructurar",
       "sentences": [
         {
-          "text": "todavía",
+          "text": "estructurar",
           "segments": [
             {
-              "text": "todavía",
+              "text": "estructurar",
               "lang": "es-419"
             }
           ],
-          "phonemes": "tˌoðaβˈia"
+          "phonemes": "ˌestɾuktuɾˈaɾ"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "ya",
+      "text": "el clímax",
       "sentences": [
         {
-          "text": "ya",
+          "text": "el clímax",
           "segments": [
             {
-              "text": "ya",
+              "text": "el clímax",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ʝˈa"
+          "phonemes": "el klˈimaks"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "resultar",
+      "text": "cronometrar",
       "sentences": [
         {
-          "text": "resultar",
+          "text": "cronometrar",
           "segments": [
             {
-              "text": "resultar",
+              "text": "cronometrar",
               "lang": "es-419"
             }
           ],
-          "phonemes": "rˌesultˈaɾ"
+          "phonemes": "kɾˌonometɾˈaɾ"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "resolver",
+      "text": "practicar",
       "sentences": [
         {
-          "text": "resolver",
+          "text": "practicar",
           "segments": [
             {
-              "text": "resolver",
+              "text": "practicar",
               "lang": "es-419"
             }
           ],
-          "phonemes": "rˌesolβˈeɾ"
+          "phonemes": "pɾˌaktikˈaɾ"
         }
       ]
     }

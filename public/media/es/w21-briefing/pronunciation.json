@@ -153,7 +153,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Model language. Le envié el mensaje esta mañana. — I sent him or her the message this morning. El paquete lo recibió otra persona. — Someone else received the package. ¿Puedes mostrármelo? — Can you show it to me? No les expliqué el cambio. — I did not explain the change to them. Devuélvale los documentos al gerente. — Return the documents to the manager.",
+      "text": "Model language. Le envié el mensaje esta mañana. — I sent her the message this morning. El paquete lo recibió otra persona. — The package was received by someone else. ¿Puedes mostrármelo? — Can you show it to me? No les expliqué el cambio. — I didn't explain the change to them. Devuélvale los documentos al gerente. — Return the documents to the manager.",
       "sentences": [
         {
           "text": "Model language.",
@@ -176,14 +176,14 @@
           "phonemes": "le embjˈe el mensˈaxe ˈesta maɲˈana."
         },
         {
-          "text": "— I sent him or her the message this morning.",
+          "text": "— I sent her the message this morning.",
           "segments": [
             {
-              "text": "— I sent him or her the message this morning.",
+              "text": "— I sent her the message this morning.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— aɪ sˈɛnt hˌɪm ɔːɹ hɜː ðə mˈɛsɪdʒ ðɪs mˈɔːɹnɪŋ."
+          "phonemes": "— aɪ sˈɛnt hɜː ðə mˈɛsɪdʒ ðɪs mˈɔːɹnɪŋ."
         },
         {
           "text": "El paquete lo recibió otra persona.",
@@ -196,14 +196,14 @@
           "phonemes": "el pakˈete lo rˌesiβjˈo ˈotɾa peɾsˈona."
         },
         {
-          "text": "— Someone else received the package.",
+          "text": "— The package was received by someone else.",
           "segments": [
             {
-              "text": "— Someone else received the package.",
+              "text": "— The package was received by someone else.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— sˈʌmwʌn ˈɛls ɹᵻsˈiːvd ðə pˈækɪdʒ."
+          "phonemes": "— ðə pˈækɪdʒ wʌz ɹᵻsˈiːvd baɪ sˈʌmwʌn ˈɛls."
         },
         {
           "text": "¿Puedes mostrármelo?",
@@ -236,14 +236,14 @@
           "phonemes": "nˈo les ˌeksplikˈe el kˈambjo."
         },
         {
-          "text": "— I did not explain the change to them.",
+          "text": "— I didn't explain the change to them.",
           "segments": [
             {
-              "text": "— I did not explain the change to them.",
+              "text": "— I didn't explain the change to them.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— aɪ dɪdnˌɑːt ɛksplˈeɪn ðə tʃˈeɪndʒ tə ðˌɛm."
+          "phonemes": "— aɪ dˈɪdnt ɛksplˈeɪn ðə tʃˈeɪndʒ tə ðˌɛm."
         },
         {
           "text": "Devuélvale los documentos al gerente.",

@@ -29,7 +29,7 @@
     },
     {
       "file": "01.wav",
-      "text": "Forma y significado. Pronombres reflexivos y recíprocos; referencia clara; posición de objetos con verbos frasales separables; one/ones.",
+      "text": "Forma y significado. Aplicación de la forma. Con verbos frasales separables, el pronombre de objeto va entre el verbo y la partícula: turn it off, no turn off it.",
       "sentences": [
         {
           "text": "Forma y significado.",
@@ -42,36 +42,30 @@
           "phonemes": "fˈoɾma i sˌiɡnifikˈaðo."
         },
         {
-          "text": "Pronombres reflexivos y recíprocos; referencia clara; posición de objetos con verbos frasales separables; one/ones.",
+          "text": "Aplicación de la forma.",
           "segments": [
             {
-              "text": "Pronombres reflexivos y recíprocos; referencia clara; posición de objetos con verbos frasales separables; ",
-              "lang": "es-419"
-            },
-            {
-              "text": "one",
-              "lang": "en-us"
-            },
-            {
-              "text": "/",
-              "lang": "es-419"
-            },
-            {
-              "text": "ones",
-              "lang": "en-us"
-            },
-            {
-              "text": ".",
+              "text": "Aplicación de la forma.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "pɾonˈombɾes rˌefleksˈiβos i resˈipɾokos; rˌefeɾˈɛnsja klˈaɾa; pˌosisjˈon de oβxˈetos kom bˈeɾβos fɾasˈales sˌepaɾˈaβles; wˌʌn bˈara wˌʌnz ."
+          "phonemes": "ˌaplikasjˈon de la fˈoɾma."
+        },
+        {
+          "text": "Con verbos frasales separables, el pronombre de objeto va entre el verbo y la partícula: turn it off, no turn off it.",
+          "segments": [
+            {
+              "text": "Con verbos frasales separables, el pronombre de objeto va entre el verbo y la partícula: turn it off, no turn off it.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kom bˈeɾβos fɾasˈales sˌepaɾˈaβles, el pɾonˈombɾe ðe oβxˈeto βˈa ˌentɾe el βˈeɾβo i la paɾtˈikula: tˈuɾn ˈit ˈoff, nˈo tˈuɾn ˈoff ˈit."
         }
       ]
     },
     {
       "file": "02.wav",
-      "text": "Conjunto de modelos. I deleted the file by accident. Please turn it off. They helped each other. Explain it to her before the meeting. We recovered the copy ourselves. Borré el archivo por accidente. Apágalo, por favor. Se ayudaron mutuamente. Explícaselo antes de la reunión. Recuperamos la copia nosotros mismos.",
+      "text": "Conjunto de modelos. Turn it off before opening it. Pick it up carefully. They helped each other. I did it myself. Explain it to her before the meeting. Apágalo antes de abrirlo. Recógelo con cuidado. Se ayudaron mutuamente. Lo hice yo mismo. Explícaselo antes de la reunión.",
       "sentences": [
         {
           "text": "Conjunto de modelos.",
@@ -84,24 +78,24 @@
           "phonemes": "koŋxˈunto ðe moðˈelos."
         },
         {
-          "text": "I deleted the file by accident.",
+          "text": "Turn it off before opening it.",
           "segments": [
             {
-              "text": "I deleted the file by accident.",
+              "text": "Turn it off before opening it.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪ dᵻlˈiːɾᵻd ðə fˈaɪl baɪ ˈæksɪdənt."
+          "phonemes": "tˈɜːn ɪɾ ˈɔf bᵻfˌɔːɹ ˈoʊpənɪŋ ɪt."
         },
         {
-          "text": "Please turn it off.",
+          "text": "Pick it up carefully.",
           "segments": [
             {
-              "text": "Please turn it off.",
+              "text": "Pick it up carefully.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "plˈiːz tˈɜːn ɪɾ ˈɔf."
+          "phonemes": "pˈɪk ɪɾ ˌʌp kˈɛɹfəli."
         },
         {
           "text": "They helped each other.",
@@ -114,6 +108,16 @@
           "phonemes": "ðeɪ hˈɛlpt ˈiːtʃ ˈʌðɚ."
         },
         {
+          "text": "I did it myself.",
+          "segments": [
+            {
+              "text": "I did it myself.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "aɪ dˈɪd ɪt maɪsˈɛlf."
+        },
+        {
           "text": "Explain it to her before the meeting.",
           "segments": [
             {
@@ -124,34 +128,24 @@
           "phonemes": "ɛksplˈeɪn ɪt tə hɜː bᵻfˌɔːɹ ðə mˈiːɾɪŋ."
         },
         {
-          "text": "We recovered the copy ourselves.",
+          "text": "Apágalo antes de abrirlo.",
           "segments": [
             {
-              "text": "We recovered the copy ourselves.",
-              "lang": "en-us"
-            }
-          ],
-          "phonemes": "wiː ɹᵻkˈʌvɚd ðə kˈɑːpi aʊɚsˈɛlvz."
-        },
-        {
-          "text": "Borré el archivo por accidente.",
-          "segments": [
-            {
-              "text": "Borré el archivo por accidente.",
+              "text": "Apágalo antes de abrirlo.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "borˈe el aɾtʃˈiβo poɾ ˌaksiðˈɛnte."
+          "phonemes": "apˈaɣalo ˈantes ðe aβɾˈiɾlo."
         },
         {
-          "text": "Apágalo, por favor.",
+          "text": "Recógelo con cuidado.",
           "segments": [
             {
-              "text": "Apágalo, por favor.",
+              "text": "Recógelo con cuidado.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "apˈaɣalo, poɾ faβˈoɾ."
+          "phonemes": "rekˈoxelo kon kwiðˈaðo."
         },
         {
           "text": "Se ayudaron mutuamente.",
@@ -164,6 +158,16 @@
           "phonemes": "se ˌaʝuðˈaɾon mˈutwamˈente."
         },
         {
+          "text": "Lo hice yo mismo.",
+          "segments": [
+            {
+              "text": "Lo hice yo mismo.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "lo ˈise ʝˈo mˈismo."
+        },
+        {
           "text": "Explícaselo antes de la reunión.",
           "segments": [
             {
@@ -172,16 +176,6 @@
             }
           ],
           "phonemes": "eksplˈikasˌelo ˈantes ðe la reʊnjˈon."
-        },
-        {
-          "text": "Recuperamos la copia nosotros mismos.",
-          "segments": [
-            {
-              "text": "Recuperamos la copia nosotros mismos.",
-              "lang": "es-419"
-            }
-          ],
-          "phonemes": "rˌekupeɾˈamos la kˈopja nosˈotɾos mˈismos."
         }
       ]
     },
@@ -249,7 +243,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Lenguaje modelo. I deleted the file by accident. — Borré el archivo por accidente. Please turn it off. — Apágalo, por favor. They helped each other. — Se ayudaron mutuamente. Explain it to her before the meeting. — Explícaselo antes de la reunión. We recovered the copy ourselves. — Recuperamos la copia nosotros mismos.",
+      "text": "Lenguaje modelo. Turn it off before opening it. — Apágalo antes de abrirlo. Pick it up carefully. — Recógelo con cuidado. They helped each other. — Se ayudaron mutuamente. I did it myself. — Lo hice yo mismo. Explain it to her before the meeting. — Explícaselo antes de la reunión.",
       "sentences": [
         {
           "text": "Lenguaje modelo.",
@@ -262,44 +256,44 @@
           "phonemes": "leŋɡwˈaxe moðˈelo."
         },
         {
-          "text": "I deleted the file by accident.",
+          "text": "Turn it off before opening it.",
           "segments": [
             {
-              "text": "I deleted the file by accident.",
+              "text": "Turn it off before opening it.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪ dᵻlˈiːɾᵻd ðə fˈaɪl baɪ ˈæksɪdənt."
+          "phonemes": "tˈɜːn ɪɾ ˈɔf bᵻfˌɔːɹ ˈoʊpənɪŋ ɪt."
         },
         {
-          "text": "— Borré el archivo por accidente.",
+          "text": "— Apágalo antes de abrirlo.",
           "segments": [
             {
-              "text": "— Borré el archivo por accidente.",
+              "text": "— Apágalo antes de abrirlo.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— borˈe el aɾtʃˈiβo poɾ ˌaksiðˈɛnte."
+          "phonemes": "— apˈaɣalo ˈantes ðe aβɾˈiɾlo."
         },
         {
-          "text": "Please turn it off.",
+          "text": "Pick it up carefully.",
           "segments": [
             {
-              "text": "Please turn it off.",
+              "text": "Pick it up carefully.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "plˈiːz tˈɜːn ɪɾ ˈɔf."
+          "phonemes": "pˈɪk ɪɾ ˌʌp kˈɛɹfəli."
         },
         {
-          "text": "— Apágalo, por favor.",
+          "text": "— Recógelo con cuidado.",
           "segments": [
             {
-              "text": "— Apágalo, por favor.",
+              "text": "— Recógelo con cuidado.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— apˈaɣalo, poɾ faβˈoɾ."
+          "phonemes": "— rekˈoxelo kon kwiðˈaðo."
         },
         {
           "text": "They helped each other.",
@@ -322,6 +316,26 @@
           "phonemes": "— se ˌaʝuðˈaɾon mˈutwamˈente."
         },
         {
+          "text": "I did it myself.",
+          "segments": [
+            {
+              "text": "I did it myself.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "aɪ dˈɪd ɪt maɪsˈɛlf."
+        },
+        {
+          "text": "— Lo hice yo mismo.",
+          "segments": [
+            {
+              "text": "— Lo hice yo mismo.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— lo ˈise ʝˈo mˈismo."
+        },
+        {
           "text": "Explain it to her before the meeting.",
           "segments": [
             {
@@ -340,26 +354,6 @@
             }
           ],
           "phonemes": "— eksplˈikasˌelo ˈantes ðe la reʊnjˈon."
-        },
-        {
-          "text": "We recovered the copy ourselves.",
-          "segments": [
-            {
-              "text": "We recovered the copy ourselves.",
-              "lang": "en-us"
-            }
-          ],
-          "phonemes": "wiː ɹᵻkˈʌvɚd ðə kˈɑːpi aʊɚsˈɛlvz."
-        },
-        {
-          "text": "— Recuperamos la copia nosotros mismos.",
-          "segments": [
-            {
-              "text": "— Recuperamos la copia nosotros mismos.",
-              "lang": "es-419"
-            }
-          ],
-          "phonemes": "— rˌekupeɾˈamos la kˈopja nosˈotɾos mˈismos."
         }
       ]
     },
@@ -411,129 +405,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "to turn off",
+      "text": "to turn it off",
       "sentences": [
         {
-          "text": "to turn off",
+          "text": "to turn it off",
           "segments": [
             {
-              "text": "to turn off",
+              "text": "to turn it off",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə tˈɜːn ˈɔf"
+          "phonemes": "tə tˈɜːn ɪɾ ˈɔf"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "to pick up",
+      "text": "to pick it up",
       "sentences": [
         {
-          "text": "to pick up",
+          "text": "to pick it up",
           "segments": [
             {
-              "text": "to pick up",
+              "text": "to pick it up",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə pˈɪk ˈʌp"
+          "phonemes": "tə pˈɪk ɪɾ ˈʌp"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "to look for",
+      "text": "myself (emphatic)",
       "sentences": [
         {
-          "text": "to look for",
+          "text": "myself (emphatic)",
           "segments": [
             {
-              "text": "to look for",
+              "text": "myself (emphatic)",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə lˈʊk fɔːɹ"
+          "phonemes": "maɪsˈɛlf (ɛmfˈæɾɪk)"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "by accident",
+      "text": "a phrasal verb",
       "sentences": [
         {
-          "text": "by accident",
+          "text": "a phrasal verb",
           "segments": [
             {
-              "text": "by accident",
+              "text": "a phrasal verb",
               "lang": "en-us"
             }
           ],
-          "phonemes": "baɪ ˈæksɪdənt"
+          "phonemes": "ɐ fɹˈeɪzəl vˈɜːb"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "myself",
+      "text": "separable",
       "sentences": [
         {
-          "text": "myself",
+          "text": "separable",
           "segments": [
             {
-              "text": "myself",
+              "text": "separable",
               "lang": "en-us"
             }
           ],
-          "phonemes": "maɪsˈɛlf"
+          "phonemes": "sˈɛpɚɹəbəl"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "each other",
+      "text": "a pronoun placement",
       "sentences": [
         {
-          "text": "each other",
+          "text": "a pronoun placement",
           "segments": [
             {
-              "text": "each other",
+              "text": "a pronoun placement",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ˈiːtʃ ˈʌðɚ"
+          "phonemes": "ɐ pɹˈoʊnaʊn plˈeɪsmənt"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "a file",
+      "text": "before the particle",
       "sentences": [
         {
-          "text": "a file",
+          "text": "before the particle",
           "segments": [
             {
-              "text": "a file",
+              "text": "before the particle",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ fˈaɪl"
+          "phonemes": "bᵻfˌɔːɹ ðə pˈɑːɹɾɪkəl"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "a copy",
+      "text": "after the particle",
       "sentences": [
         {
-          "text": "a copy",
+          "text": "after the particle",
           "segments": [
             {
-              "text": "a copy",
+              "text": "after the particle",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ kˈɑːpi"
+          "phonemes": "ˈæftɚ ðə pˈɑːɹɾɪkəl"
         }
       ]
     }

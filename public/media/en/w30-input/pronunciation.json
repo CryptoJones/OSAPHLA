@@ -163,7 +163,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Lenguaje modelo. The measure was approved by the council. — La medida fue aprobada por el consejo. The results were published yesterday. — Los resultados se publicaron ayer. We're having the system repaired. — Estamos haciendo reparar el sistema. The service was closed because of funding cuts. — El servicio se cerró por recortes de fondos. Identification is required to enter. — Se requiere identificación para entrar.",
+      "text": "Lenguaje modelo. The new rule was approved by city hall. — La nueva norma fue aprobada por el ayuntamiento. It seeks to reduce traffic downtown. — Busca reducir el tráfico en el centro. Deliveries will be allowed in the morning. — Se permitirán entregas por la mañana. The results will be measured for six months. — Los resultados se medirán durante seis meses. The measure takes effect soon. — La medida entra en vigor pronto.",
       "sentences": [
         {
           "text": "Lenguaje modelo.",
@@ -176,104 +176,104 @@
           "phonemes": "leŋɡwˈaxe moðˈelo."
         },
         {
-          "text": "The measure was approved by the council.",
+          "text": "The new rule was approved by city hall.",
           "segments": [
             {
-              "text": "The measure was approved by the council.",
+              "text": "The new rule was approved by city hall.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə mˈɛʒɚ wʌz ɐpɹˈuːvd baɪ ðə kˈaʊnsəl."
+          "phonemes": "ðə nˈuː ɹˈuːl wʌz ɐpɹˈuːvd baɪ sˈɪɾi hˈɔːl."
         },
         {
-          "text": "— La medida fue aprobada por el consejo.",
+          "text": "— La nueva norma fue aprobada por el ayuntamiento.",
           "segments": [
             {
-              "text": "— La medida fue aprobada por el consejo.",
+              "text": "— La nueva norma fue aprobada por el ayuntamiento.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— la meðˈiða fwˈe ˌapɾoβˈaða poɾ el konsˈexo."
+          "phonemes": "— la nwˈeβa nˈoɾma fwˈe ˌapɾoβˈaða poɾ el ˌaʝuntamjˈɛnto."
         },
         {
-          "text": "The results were published yesterday.",
+          "text": "It seeks to reduce traffic downtown.",
           "segments": [
             {
-              "text": "The results were published yesterday.",
+              "text": "It seeks to reduce traffic downtown.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə ɹɪzˈʌlts wɜː pˈʌblɪʃt jˈɛstɚdˌeɪ."
+          "phonemes": "ɪt sˈiːks tə ɹᵻdˈuːs tɹˈæfɪk dˈaʊntaʊn."
         },
         {
-          "text": "— Los resultados se publicaron ayer.",
+          "text": "— Busca reducir el tráfico en el centro.",
           "segments": [
             {
-              "text": "— Los resultados se publicaron ayer.",
+              "text": "— Busca reducir el tráfico en el centro.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— los rˌesultˈaðos se pˌuβlikˈaɾon aʝˈeɾ."
+          "phonemes": "— bˈuska rˌeðusˈiɾ el tɾˈafiko en el sˈɛntɾo."
         },
         {
-          "text": "We're having the system repaired.",
+          "text": "Deliveries will be allowed in the morning.",
           "segments": [
             {
-              "text": "We're having the system repaired.",
+              "text": "Deliveries will be allowed in the morning.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wɪɹ hˌævɪŋ ðə sˈɪstəm ɹᵻpˈɛɹd."
+          "phonemes": "dᵻlˈɪvɚɹiz wɪl biː ɐlˈaʊd ɪnðə mˈɔːɹnɪŋ."
         },
         {
-          "text": "— Estamos haciendo reparar el sistema.",
+          "text": "— Se permitirán entregas por la mañana.",
           "segments": [
             {
-              "text": "— Estamos haciendo reparar el sistema.",
+              "text": "— Se permitirán entregas por la mañana.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— estˈamos asjˈɛndo rˌepaɾˈaɾ el sistˈema."
+          "phonemes": "— se pˌeɾmitiɾˈan entɾˈeɣas poɾ la maɲˈana."
         },
         {
-          "text": "The service was closed because of funding cuts.",
+          "text": "The results will be measured for six months.",
           "segments": [
             {
-              "text": "The service was closed because of funding cuts.",
+              "text": "The results will be measured for six months.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə sˈɜːvɪs wʌz klˈoʊzd bɪkˈʌz ʌv fˈʌndɪŋ kˈʌts."
+          "phonemes": "ðə ɹɪzˈʌlts wɪl biː mˈɛʒɚd fɔːɹ sˈɪks mˈʌnθs."
         },
         {
-          "text": "— El servicio se cerró por recortes de fondos.",
+          "text": "— Los resultados se medirán durante seis meses.",
           "segments": [
             {
-              "text": "— El servicio se cerró por recortes de fondos.",
+              "text": "— Los resultados se medirán durante seis meses.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— el seɾβˈisjo se serˈo poɾ rekˈoɾtes ðe fˈondos."
+          "phonemes": "— los rˌesultˈaðos se mˌeðiɾˈan duɾˈante sˈeɪs mˈeses."
         },
         {
-          "text": "Identification is required to enter.",
+          "text": "The measure takes effect soon.",
           "segments": [
             {
-              "text": "Identification is required to enter.",
+              "text": "The measure takes effect soon.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪdˈɛntɪfɪkˈeɪʃən ɪz ɹᵻkwˈaɪɚd tʊ ˈɛntɚ."
+          "phonemes": "ðə mˈɛʒɚ tˈeɪks ɪfˈɛkt sˈuːn."
         },
         {
-          "text": "— Se requiere identificación para entrar.",
+          "text": "— La medida entra en vigor pronto.",
           "segments": [
             {
-              "text": "— Se requiere identificación para entrar.",
+              "text": "— La medida entra en vigor pronto.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— se rekjˈeɾe ˌiðentˌifikasjˈom pˌaɾa entɾˈaɾ."
+          "phonemes": "— la meðˈiða ˈɛntɾa em biɣˈoɾ pɾˈonto."
         }
       ]
     },
@@ -325,129 +325,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "to approve",
+      "text": "a rule",
       "sentences": [
         {
-          "text": "to approve",
+          "text": "a rule",
           "segments": [
             {
-              "text": "to approve",
+              "text": "a rule",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tʊ ɐpɹˈuːv"
+          "phonemes": "ɐ ɹˈuːl"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "to publish",
+      "text": "city hall",
       "sentences": [
         {
-          "text": "to publish",
+          "text": "city hall",
           "segments": [
             {
-              "text": "to publish",
+              "text": "city hall",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə pˈʌblɪʃ"
+          "phonemes": "sˈɪɾi hˈɔːl"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "to require",
+      "text": "to reduce",
       "sentences": [
         {
-          "text": "to require",
+          "text": "to reduce",
           "segments": [
             {
-              "text": "to require",
+              "text": "to reduce",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə ɹᵻkwˈaɪɚ"
+          "phonemes": "tə ɹᵻdˈuːs"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "to affect",
+      "text": "traffic",
       "sentences": [
         {
-          "text": "to affect",
+          "text": "traffic",
           "segments": [
             {
-              "text": "to affect",
+              "text": "traffic",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tʊ ɐfˈɛkt"
+          "phonemes": "tɹˈæfɪk"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "a process",
+      "text": "to allow",
       "sentences": [
         {
-          "text": "a process",
+          "text": "to allow",
           "segments": [
             {
-              "text": "a process",
+              "text": "to allow",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ pɹˈɑːsɛs"
+          "phonemes": "tʊ ɐlˈaʊ"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "a result",
+      "text": "a delivery",
       "sentences": [
         {
-          "text": "a result",
+          "text": "a delivery",
           "segments": [
             {
-              "text": "a result",
+              "text": "a delivery",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ ɹɪzˈʌlt"
+          "phonemes": "ɐ dᵻlˈɪvɚɹi"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "by",
+      "text": "to measure",
       "sentences": [
         {
-          "text": "by",
+          "text": "to measure",
           "segments": [
             {
-              "text": "by",
+              "text": "to measure",
               "lang": "en-us"
             }
           ],
-          "phonemes": "bˈaɪ"
+          "phonemes": "tə mˈɛʒɚ"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "to repair",
+      "text": "six months",
       "sentences": [
         {
-          "text": "to repair",
+          "text": "six months",
           "segments": [
             {
-              "text": "to repair",
+              "text": "six months",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə ɹᵻpˈɛɹ"
+          "phonemes": "sˈɪks mˈʌnθs"
         }
       ]
     }

@@ -45,7 +45,15 @@
           "text": "Regional variation in he comido versus comí without declaring either universally preferable.",
           "segments": [
             {
-              "text": "Regional variation in he comido versus ",
+              "text": "Regional variation in ",
+              "lang": "en-us"
+            },
+            {
+              "text": "he comido",
+              "lang": "es-419"
+            },
+            {
+              "text": " versus ",
               "lang": "en-us"
             },
             {
@@ -57,7 +65,7 @@
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɹˈiːdʒənəl vˌɛɹɪˈeɪʃən ɪn hiː kɑːmˈiːdoʊ vˈɜːsᵻz komˈi wɪðˌaʊt dᵻklˈɛɹɪŋ ˈiːðɚ jˌuːnɪvˈɜːsəli pɹɪfˈɜːɹəbəl."
+          "phonemes": "ɹˈiːdʒənəl vˌɛɹɪˈeɪʃən ˈɪn ˈe komˈiðo vˈɜːsᵻz komˈi wɪðˌaʊt dᵻklˈɛɹɪŋ ˈiːðɚ jˌuːnɪvˈɜːsəli pɹɪfˈɜːɹəbəl."
         }
       ]
     },
@@ -171,7 +179,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Model language. Ya hemos completado la primera fase. — We have already completed the first phase. Todavía no han llegado los datos. — The data have not arrived yet. ¿Alguna vez has trabajado en Chile? — Have you ever worked in Chile? Cuando llamó, yo ya había enviado el informe. — When he or she called, I had already sent the report. La situación ha cambiado recientemente. — The situation has changed recently.",
+      "text": "Model language. En algunas regiones se prefiere 'he comido'. — In some regions, 'he comido' is preferred. En otras se prefiere 'comí'. — In others, 'comí' is preferred. Ambas formas no son universalmente preferibles. — Neither form is universally preferable. El uso depende del hablante. — Usage depends on the speaker. No hay una forma incorrecta. — Neither form is incorrect.",
       "sentences": [
         {
           "text": "Model language.",
@@ -184,104 +192,120 @@
           "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
         },
         {
-          "text": "Ya hemos completado la primera fase.",
+          "text": "En algunas regiones se prefiere 'he comido'.",
           "segments": [
             {
-              "text": "Ya hemos completado la primera fase.",
+              "text": "En algunas regiones se prefiere 'he comido'.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ʝˈa ˈemos kˌompletˈaðo la pɾimˈeɾa fˈase."
+          "phonemes": "en alɣˈunas rexjˈones se pɾefjˈeɾe ˈe komˈiðo."
         },
         {
-          "text": "— We have already completed the first phase.",
+          "text": "— In some regions, 'he comido' is preferred.",
           "segments": [
             {
-              "text": "— We have already completed the first phase.",
+              "text": "— In some regions, '",
+              "lang": "en-us"
+            },
+            {
+              "text": "he comido",
+              "lang": "es-419"
+            },
+            {
+              "text": "' is preferred.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— wiː hæv ɔːlɹˌɛdi kəmplˈiːɾᵻd ðə fˈɜːst fˈeɪz."
+          "phonemes": "— ɪn sˌʌm ɹˈiːdʒənz, ˈe komˈiðo ɪz pɹɪfˈɜːd."
         },
         {
-          "text": "Todavía no han llegado los datos.",
+          "text": "En otras se prefiere 'comí'.",
           "segments": [
             {
-              "text": "Todavía no han llegado los datos.",
+              "text": "En otras se prefiere 'comí'.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "tˌoðaβˈia nˈo ˈan dʒeɣˈaðo los ðˈatos."
+          "phonemes": "en ˈotɾas se pɾefjˈeɾe komˈi."
         },
         {
-          "text": "— The data have not arrived yet.",
+          "text": "— In others, 'comí' is preferred.",
           "segments": [
             {
-              "text": "— The data have not arrived yet.",
+              "text": "— In others, '",
+              "lang": "en-us"
+            },
+            {
+              "text": "comí",
+              "lang": "es-419"
+            },
+            {
+              "text": "' is preferred.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ðə dˈeɪɾə hɐvnˌɑːt ɚɹˈaɪvd jˈɛt."
+          "phonemes": "— ɪn ˈʌðɚz, komˈi ɪz pɹɪfˈɜːd."
         },
         {
-          "text": "¿Alguna vez has trabajado en Chile?",
+          "text": "Ambas formas no son universalmente preferibles.",
           "segments": [
             {
-              "text": "¿Alguna vez has trabajado en Chile?",
+              "text": "Ambas formas no son universalmente preferibles.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "alɣˈuna βˈes ˈas tɾˌaβaxˈaðo en tʃˈile?"
+          "phonemes": "ˈambas fˈoɾmas nˈo sˈon ˌuniβeɾsˈalmˈente pɾˌefeɾˈiβles."
         },
         {
-          "text": "— Have you ever worked in Chile?",
+          "text": "— Neither form is universally preferable.",
           "segments": [
             {
-              "text": "— Have you ever worked in Chile?",
+              "text": "— Neither form is universally preferable.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— hæv juː ˈɛvɚ wˈɜːkt ɪn tʃˈɪli?"
+          "phonemes": "— nˈiːðɚ fˈɔːɹm ɪz jˌuːnɪvˈɜːsəli pɹɪfˈɜːɹəbəl."
         },
         {
-          "text": "Cuando llamó, yo ya había enviado el informe.",
+          "text": "El uso depende del hablante.",
           "segments": [
             {
-              "text": "Cuando llamó, yo ya había enviado el informe.",
+              "text": "El uso depende del hablante.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "kwˌando ʝamˈo, ʝˈo ʝˈa aβˈia embjˈaðo el infˈoɾme."
+          "phonemes": "el ˈuso ðepˈɛnde ðel aβlˈante."
         },
         {
-          "text": "— When he or she called, I had already sent the report.",
+          "text": "— Usage depends on the speaker.",
           "segments": [
             {
-              "text": "— When he or she called, I had already sent the report.",
+              "text": "— Usage depends on the speaker.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— wˌɛn hiː ɔːɹ ʃiː kˈɔːld, aɪ hæd ɔːlɹˌɛdi sˈɛnt ðə ɹᵻpˈɔːɹt."
+          "phonemes": "— jˈuːsɪdʒ dᵻpˈɛndz ɔnðə spˈiːkɚ."
         },
         {
-          "text": "La situación ha cambiado recientemente.",
+          "text": "No hay una forma incorrecta.",
           "segments": [
             {
-              "text": "La situación ha cambiado recientemente.",
+              "text": "No hay una forma incorrecta.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la sˌitwasjˈon ˈa kambjˈaðo resjˈɛntemˈente."
+          "phonemes": "nˈo ˈaɪ ˈuna fˈoɾma ˌinkorˈekta."
         },
         {
-          "text": "— The situation has changed recently.",
+          "text": "— Neither form is incorrect.",
           "segments": [
             {
-              "text": "— The situation has changed recently.",
+              "text": "— Neither form is incorrect.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ðə sˌɪtʃuːˈeɪʃən hɐz tʃˈeɪndʒd ɹˈiːsəntli."
+          "phonemes": "— nˈiːðɚ fˈɔːɹm ɪz ɪŋkɚɹˈɛkt."
         }
       ]
     },
@@ -333,129 +357,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "todavía no",
+      "text": "la preferencia regional",
       "sentences": [
         {
-          "text": "todavía no",
+          "text": "la preferencia regional",
           "segments": [
             {
-              "text": "todavía no",
+              "text": "la preferencia regional",
               "lang": "es-419"
             }
           ],
-          "phonemes": "tˌoðaβˈia nˈo"
+          "phonemes": "la pɾˌefeɾˈɛnsja rˌexjonˈal"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "ya",
+      "text": "he comido",
       "sentences": [
         {
-          "text": "ya",
+          "text": "he comido",
           "segments": [
             {
-              "text": "ya",
+              "text": "he comido",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ʝˈa"
+          "phonemes": "ˈe komˈiðo"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "alguna vez",
+      "text": "comí",
       "sentences": [
         {
-          "text": "alguna vez",
+          "text": "comí",
           "segments": [
             {
-              "text": "alguna vez",
+              "text": "comí",
               "lang": "es-419"
             }
           ],
-          "phonemes": "alɣˈuna βˈes"
+          "phonemes": "komˈi"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "nunca",
+      "text": "equivalente",
       "sentences": [
         {
-          "text": "nunca",
+          "text": "equivalente",
           "segments": [
             {
-              "text": "nunca",
+              "text": "equivalente",
               "lang": "es-419"
             }
           ],
-          "phonemes": "nˈunka"
+          "phonemes": "ˌekiβalˈɛnte"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "recientemente",
+      "text": "universalmente preferible",
       "sentences": [
         {
-          "text": "recientemente",
+          "text": "universalmente preferible",
           "segments": [
             {
-              "text": "recientemente",
+              "text": "universalmente preferible",
               "lang": "es-419"
             }
           ],
-          "phonemes": "resjˈɛntemˈente"
+          "phonemes": "ˌuniβeɾsˈalmˈente pɾˌefeɾˈiβle"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "completar",
+      "text": "el uso",
       "sentences": [
         {
-          "text": "completar",
+          "text": "el uso",
           "segments": [
             {
-              "text": "completar",
+              "text": "el uso",
               "lang": "es-419"
             }
           ],
-          "phonemes": "kˌompletˈaɾ"
+          "phonemes": "el ˈuso"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "mejorar",
+      "text": "variar",
       "sentences": [
         {
-          "text": "mejorar",
+          "text": "variar",
           "segments": [
             {
-              "text": "mejorar",
+              "text": "variar",
               "lang": "es-419"
             }
           ],
-          "phonemes": "mˌexoɾˈaɾ"
+          "phonemes": "baɾjˈaɾ"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "cambiar",
+      "text": "el hablante",
       "sentences": [
         {
-          "text": "cambiar",
+          "text": "el hablante",
           "segments": [
             {
-              "text": "cambiar",
+              "text": "el hablante",
               "lang": "es-419"
             }
           ],
-          "phonemes": "kambjˈaɾ"
+          "phonemes": "el aβlˈante"
         }
       ]
     }

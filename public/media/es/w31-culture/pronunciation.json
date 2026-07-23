@@ -163,7 +163,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Model language. La segunda opción es mucho más viable. — The second option is much more viable. El informe menos claro fue el primero. — The least clear report was the first one. El proyecto va viento en popa. — The project is going very well. Ese dato hay que tomarlo con pinzas. — That figure must be treated with caution. Su análisis dio en el clavo; sin embargo, faltan pruebas. — The analysis was exactly right; however, evidence is still lacking.",
+      "text": "Model language. Cada región tiene sus propios modismos. — Each region has its own idioms. El registro determina si un modismo es apropiado. — Register determines whether an idiom is appropriate. Hay que reconocer un modismo antes de producirlo. — You have to recognize an idiom before producing it. No conviene usarlos indiscriminadamente. — It's not advisable to use them indiscriminately. El significado depende del contexto adecuado. — The meaning depends on the appropriate context.",
       "sentences": [
         {
           "text": "Model language.",
@@ -176,104 +176,104 @@
           "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
         },
         {
-          "text": "La segunda opción es mucho más viable.",
+          "text": "Cada región tiene sus propios modismos.",
           "segments": [
             {
-              "text": "La segunda opción es mucho más viable.",
+              "text": "Cada región tiene sus propios modismos.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la seɣˈunda opsjˈon ˈes mˈutʃo mˈas βjˈaβle."
+          "phonemes": "kˈaða rexjˈon tjˈene sus pɾˈopjos moðˈismos."
         },
         {
-          "text": "— The second option is much more viable.",
+          "text": "— Each region has its own idioms.",
           "segments": [
             {
-              "text": "— The second option is much more viable.",
+              "text": "— Each region has its own idioms.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ðə sˈɛkənd ˈɑːpʃən ɪz mˈʌtʃ mˈɔːɹ vˈaɪəbəl."
+          "phonemes": "— ˈiːtʃ ɹˈiːdʒən hɐz ɪts ˈoʊn ˈɪdɪəmz."
         },
         {
-          "text": "El informe menos claro fue el primero.",
+          "text": "El registro determina si un modismo es apropiado.",
           "segments": [
             {
-              "text": "El informe menos claro fue el primero.",
+              "text": "El registro determina si un modismo es apropiado.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el infˈoɾme mˈenos klˈaɾo fwˈe el pɾimˈeɾo."
+          "phonemes": "el rexˈistɾo ðˌeteɾmˈina si ˈun moðˈismo ˈes ˌapɾopjˈaðo."
         },
         {
-          "text": "— The least clear report was the first one.",
+          "text": "— Register determines whether an idiom is appropriate.",
           "segments": [
             {
-              "text": "— The least clear report was the first one.",
+              "text": "— Register determines whether an idiom is appropriate.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ðə lˈiːst klˈɪɹ ɹᵻpˈɔːɹt wʌzðə fˈɜːst wˌʌn."
+          "phonemes": "— ɹˈɛdʒɪstɚ dɪtˈɜːmɪnz wˈɛðɚɹ ɐn ˈɪdɪəm ɪz ɐpɹˈoʊpɹɪət."
         },
         {
-          "text": "El proyecto va viento en popa.",
+          "text": "Hay que reconocer un modismo antes de producirlo.",
           "segments": [
             {
-              "text": "El proyecto va viento en popa.",
+              "text": "Hay que reconocer un modismo antes de producirlo.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el pɾoʝˈekto βˈa βjˈɛnto em pˈopa."
+          "phonemes": "ˈaɪ ke rˌekonosˈeɾ ˈun moðˈismo ˈantes ðe pɾˌoðusˈiɾlo."
         },
         {
-          "text": "— The project is going very well.",
+          "text": "— You have to recognize an idiom before producing it.",
           "segments": [
             {
-              "text": "— The project is going very well.",
+              "text": "— You have to recognize an idiom before producing it.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ðə pɹˈɑːdʒɛkt ɪz ɡˌoʊɪŋ vˈɛɹi wˈɛl."
+          "phonemes": "— juː hæv tə ɹˈɛkəɡnˌaɪz ɐn ˈɪdɪəm bᵻfˌɔːɹ pɹədˈuːsɪŋ ɪt."
         },
         {
-          "text": "Ese dato hay que tomarlo con pinzas.",
+          "text": "No conviene usarlos indiscriminadamente.",
           "segments": [
             {
-              "text": "Ese dato hay que tomarlo con pinzas.",
+              "text": "No conviene usarlos indiscriminadamente.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˈese ðˈato ˈaɪ ke tomˈaɾlo kom pˈinsas."
+          "phonemes": "nˈo kombjˈene usˈaɾlos ˌindiskɾˌiminˈaðamˈente."
         },
         {
-          "text": "— That figure must be treated with caution.",
+          "text": "— It's not advisable to use them indiscriminately.",
           "segments": [
             {
-              "text": "— That figure must be treated with caution.",
+              "text": "— It's not advisable to use them indiscriminately.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ðæt fˈɪɡjɚ mˈʌst biː tɹˈiːɾᵻd wɪð kˈɔːʃən."
+          "phonemes": "— ɪts nˌɑːt ɐdvˈaɪzəbəl tə jˈuːz ðˌɛm ˌɪndɪskɹˈɪmᵻnətli."
         },
         {
-          "text": "Su análisis dio en el clavo; sin embargo, faltan pruebas.",
+          "text": "El significado depende del contexto adecuado.",
           "segments": [
             {
-              "text": "Su análisis dio en el clavo; sin embargo, faltan pruebas.",
+              "text": "El significado depende del contexto adecuado.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "su anˈalisis ðjˈo en el klˈaβo; sin embˈaɾɣo, fˈaltam pɾuˈeβas."
+          "phonemes": "el sˌiɡnifikˈaðo ðepˈɛnde ðel kontˈeksto ˌaðekwˈaðo."
         },
         {
-          "text": "— The analysis was exactly right; however, evidence is still lacking.",
+          "text": "— The meaning depends on the appropriate context.",
           "segments": [
             {
-              "text": "— The analysis was exactly right; however, evidence is still lacking.",
+              "text": "— The meaning depends on the appropriate context.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ðɪ ɐnˈæləsˌɪs wʌz ɛɡzˈæktli ɹˈaɪt; haʊˈɛvɚ, ˈɛvɪdəns ɪz stˈɪl lˈækɪŋ."
+          "phonemes": "— ðə mˈiːnɪŋ dᵻpˈɛndz ɔnðɪ ɐpɹˈoʊpɹɪət kˈɑːntɛkst."
         }
       ]
     },
@@ -325,129 +325,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "sin embargo",
+      "text": "la región",
       "sentences": [
         {
-          "text": "sin embargo",
+          "text": "la región",
           "segments": [
             {
-              "text": "sin embargo",
+              "text": "la región",
               "lang": "es-419"
             }
           ],
-          "phonemes": "sin embˈaɾɣo"
+          "phonemes": "la rexjˈon"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "aun así",
+      "text": "el registro",
       "sentences": [
         {
-          "text": "aun así",
+          "text": "el registro",
           "segments": [
             {
-              "text": "aun así",
+              "text": "el registro",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˈaʊn asˈi"
+          "phonemes": "el rexˈistɾo"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "por lo tanto",
+      "text": "reconocer",
       "sentences": [
         {
-          "text": "por lo tanto",
+          "text": "reconocer",
           "segments": [
             {
-              "text": "por lo tanto",
+              "text": "reconocer",
               "lang": "es-419"
             }
           ],
-          "phonemes": "poɾ lo tˈanto"
+          "phonemes": "rˌekonosˈeɾ"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "meter la pata",
+      "text": "producir",
       "sentences": [
         {
-          "text": "meter la pata",
+          "text": "producir",
           "segments": [
             {
-              "text": "meter la pata",
+              "text": "producir",
               "lang": "es-419"
             }
           ],
-          "phonemes": "metˈeɾ la pˈata"
+          "phonemes": "pɾˌoðusˈiɾ"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "ir viento en popa",
+      "text": "indiscriminadamente",
       "sentences": [
         {
-          "text": "ir viento en popa",
+          "text": "indiscriminadamente",
           "segments": [
             {
-              "text": "ir viento en popa",
+              "text": "indiscriminadamente",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˈiɾ βjˈɛnto em pˈopa"
+          "phonemes": "ˌindiskɾˌiminˈaðamˈente"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "estar en las nubes",
+      "text": "el contexto adecuado",
       "sentences": [
         {
-          "text": "estar en las nubes",
+          "text": "el contexto adecuado",
           "segments": [
             {
-              "text": "estar en las nubes",
+              "text": "el contexto adecuado",
               "lang": "es-419"
             }
           ],
-          "phonemes": "estˈaɾ en las nˈuβes"
+          "phonemes": "el kontˈeksto ˌaðekwˈaðo"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "dar en el clavo",
+      "text": "limitado",
       "sentences": [
         {
-          "text": "dar en el clavo",
+          "text": "limitado",
           "segments": [
             {
-              "text": "dar en el clavo",
+              "text": "limitado",
               "lang": "es-419"
             }
           ],
-          "phonemes": "dˈaɾ en el klˈaβo"
+          "phonemes": "lˌimitˈaðo"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "tomar con pinzas",
+      "text": "comprender",
       "sentences": [
         {
-          "text": "tomar con pinzas",
+          "text": "comprender",
           "segments": [
             {
-              "text": "tomar con pinzas",
+              "text": "comprender",
               "lang": "es-419"
             }
           ],
-          "phonemes": "tomˈaɾ kom pˈinsas"
+          "phonemes": "kˌompɾendˈeɾ"
         }
       ]
     }

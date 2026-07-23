@@ -163,7 +163,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Lenguaje modelo. Go straight to the square. — Sigue derecho hasta la plaza. Turn left at the second corner. — Gira a la izquierda en la segunda esquina. Am I going the right way to city hall? — ¿Voy bien hacia el ayuntamiento? We got lost near the station. — Nos perdimos cerca de la estación. The bank is across from the post office. — El banco está enfrente del correo.",
+      "text": "Lenguaje modelo. A visitor is looking for the museum. — Un visitante busca el museo. He takes the wrong street. — Toma la calle equivocada. A neighbor shows him the way. — Una vecina le indica el camino. She tells him to go straight. — Le dice que vaya derecho. She tells him to cross the square after the post office. — Le dice que cruce la plaza después del correo.",
       "sentences": [
         {
           "text": "Lenguaje modelo.",
@@ -176,104 +176,104 @@
           "phonemes": "leŋɡwˈaxe moðˈelo."
         },
         {
-          "text": "Go straight to the square.",
+          "text": "A visitor is looking for the museum.",
           "segments": [
             {
-              "text": "Go straight to the square.",
+              "text": "A visitor is looking for the museum.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɡˌoʊ stɹˈeɪt tə ðə skwˈɛɹ."
+          "phonemes": "ɐ vˈɪzɪɾɚɹ ɪz lˈʊkɪŋ fɚðə mjuːzˈiəm."
         },
         {
-          "text": "— Sigue derecho hasta la plaza.",
+          "text": "— Un visitante busca el museo.",
           "segments": [
             {
-              "text": "— Sigue derecho hasta la plaza.",
+              "text": "— Un visitante busca el museo.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— sˈiɣe ðeɾˈetʃo ˌasta la plˈasa."
+          "phonemes": "— ˈum bˌisitˈante βˈuska el musˈeo."
         },
         {
-          "text": "Turn left at the second corner.",
+          "text": "He takes the wrong street.",
           "segments": [
             {
-              "text": "Turn left at the second corner.",
+              "text": "He takes the wrong street.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tˈɜːn lˈɛft æt ðə sˈɛkənd kˈɔːɹnɚ."
+          "phonemes": "hiː tˈeɪks ðə ɹˈɔŋ stɹˈiːt."
         },
         {
-          "text": "— Gira a la izquierda en la segunda esquina.",
+          "text": "— Toma la calle equivocada.",
           "segments": [
             {
-              "text": "— Gira a la izquierda en la segunda esquina.",
+              "text": "— Toma la calle equivocada.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— xˈiɾa a la iskjˈeɾða en la seɣˈunda eskˈina."
+          "phonemes": "— tˈoma la kˈajje ˌekiβokˈaða."
         },
         {
-          "text": "Am I going the right way to city hall?",
+          "text": "A neighbor shows him the way.",
           "segments": [
             {
-              "text": "Am I going the right way to city hall?",
+              "text": "A neighbor shows him the way.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "æm aɪ ɡˌoʊɪŋ ðə ɹˈaɪt wˈeɪ tə sˈɪɾi hˈɔːl?"
+          "phonemes": "ɐ nˈeɪbɚ ʃˈoʊz hˌɪm ðə wˈeɪ."
         },
         {
-          "text": "— ¿Voy bien hacia el ayuntamiento?",
+          "text": "— Una vecina le indica el camino.",
           "segments": [
             {
-              "text": "— ¿Voy bien hacia el ayuntamiento?",
+              "text": "— Una vecina le indica el camino.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— bˈoɪ βjˈen ˌasja el ˌaʝuntamjˈɛnto?"
+          "phonemes": "— ˈuna βesˈina le indˈika el kamˈino."
         },
         {
-          "text": "We got lost near the station.",
+          "text": "She tells him to go straight.",
           "segments": [
             {
-              "text": "We got lost near the station.",
+              "text": "She tells him to go straight.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wiː ɡɑːt lˈɔst nˌɪɹ ðə stˈeɪʃən."
+          "phonemes": "ʃiː tˈɛlz hˌɪm tə ɡˌoʊ stɹˈeɪt."
         },
         {
-          "text": "— Nos perdimos cerca de la estación.",
+          "text": "— Le dice que vaya derecho.",
           "segments": [
             {
-              "text": "— Nos perdimos cerca de la estación.",
+              "text": "— Le dice que vaya derecho.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— nos peɾðˈimos sˈeɾka ðe la ˌestasjˈon."
+          "phonemes": "— le ðˈise ke βˈaʝa ðeɾˈetʃo."
         },
         {
-          "text": "The bank is across from the post office.",
+          "text": "She tells him to cross the square after the post office.",
           "segments": [
             {
-              "text": "The bank is across from the post office.",
+              "text": "She tells him to cross the square after the post office.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə bˈæŋk ɪz əkɹˌɑːs fɹʌmðə pˈoʊst ˈɑːfɪs."
+          "phonemes": "ʃiː tˈɛlz hˌɪm tə kɹˈɔs ðə skwˈɛɹ ˈæftɚ ðə pˈoʊst ˈɑːfɪs."
         },
         {
-          "text": "— El banco está enfrente del correo.",
+          "text": "— Le dice que cruce la plaza después del correo.",
           "segments": [
             {
-              "text": "— El banco está enfrente del correo.",
+              "text": "— Le dice que cruce la plaza después del correo.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— el βˈanko estˈa emfɾˈɛnte ðel korˈeo."
+          "phonemes": "— le ðˈise ke kɾˈuse la plˈasa ðespwˈes ðel korˈeo."
         }
       ]
     },
@@ -325,129 +325,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "a street",
+      "text": "a visitor",
       "sentences": [
         {
-          "text": "a street",
+          "text": "a visitor",
           "segments": [
             {
-              "text": "a street",
+              "text": "a visitor",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ stɹˈiːt"
+          "phonemes": "ɐ vˈɪzɪɾɚ"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "a corner",
+      "text": "wrong",
       "sentences": [
         {
-          "text": "a corner",
+          "text": "wrong",
           "segments": [
             {
-              "text": "a corner",
+              "text": "wrong",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ kˈɔːɹnɚ"
+          "phonemes": "ɹˈɔŋ"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "straight",
+      "text": "a neighbor",
       "sentences": [
         {
-          "text": "straight",
+          "text": "a neighbor",
           "segments": [
             {
-              "text": "straight",
+              "text": "a neighbor",
               "lang": "en-us"
             }
           ],
-          "phonemes": "stɹˈeɪt"
+          "phonemes": "ɐ nˈeɪbɚ"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "right",
+      "text": "to show",
       "sentences": [
         {
-          "text": "right",
+          "text": "to show",
           "segments": [
             {
-              "text": "right",
+              "text": "to show",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɹˈaɪt"
+          "phonemes": "tə ʃˈoʊ"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "left",
+      "text": "to cross",
       "sentences": [
         {
-          "text": "left",
+          "text": "to cross",
           "segments": [
             {
-              "text": "left",
+              "text": "to cross",
               "lang": "en-us"
             }
           ],
-          "phonemes": "lˈɛft"
+          "phonemes": "tə kɹˈɔs"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "to turn",
+      "text": "after",
       "sentences": [
         {
-          "text": "to turn",
+          "text": "after",
           "segments": [
             {
-              "text": "to turn",
+              "text": "after",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə tˈɜːn"
+          "phonemes": "ˈæftɚ"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "to continue",
+      "text": "a post office",
       "sentences": [
         {
-          "text": "to continue",
+          "text": "a post office",
           "segments": [
             {
-              "text": "to continue",
+              "text": "a post office",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə kəntˈɪnjuː"
+          "phonemes": "ɐ pˈoʊst ˈɑːfɪs"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "to get lost",
+      "text": "a museum",
       "sentences": [
         {
-          "text": "to get lost",
+          "text": "a museum",
           "segments": [
             {
-              "text": "to get lost",
+              "text": "a museum",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə ɡɛt lˈɔst"
+          "phonemes": "ɐ mjuːzˈiəm"
         }
       ]
     }

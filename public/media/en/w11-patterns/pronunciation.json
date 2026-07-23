@@ -29,7 +29,7 @@
     },
     {
       "file": "01.wav",
-      "text": "Forma y significado. Sustantivos contables y no contables; some/any, much/many; objetos directos; peticiones con could y would like.",
+      "text": "Forma y significado. Aplicación de la forma. Usa I'd like o could para peticiones corteses, y coloca el objeto directo justo después del verbo: I order the dish.",
       "sentences": [
         {
           "text": "Forma y significado.",
@@ -42,42 +42,36 @@
           "phonemes": "fˈoɾma i sˌiɡnifikˈaðo."
         },
         {
-          "text": "Sustantivos contables y no contables; some/any, much/many; objetos directos; peticiones con could y would like.",
+          "text": "Aplicación de la forma.",
           "segments": [
             {
-              "text": "Sustantivos contables y no contables; ",
+              "text": "Aplicación de la forma.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˌaplikasjˈon de la fˈoɾma."
+        },
+        {
+          "text": "Usa I'd like o could para peticiones corteses, y coloca el objeto directo justo después del verbo: I order the dish.",
+          "segments": [
+            {
+              "text": "Usa ",
               "lang": "es-419"
             },
             {
-              "text": "some",
+              "text": "I'd",
               "lang": "en-us"
             },
             {
-              "text": "/",
+              "text": " ",
               "lang": "es-419"
             },
             {
-              "text": "any",
+              "text": "like",
               "lang": "en-us"
             },
             {
-              "text": ", ",
-              "lang": "es-419"
-            },
-            {
-              "text": "much",
-              "lang": "en-us"
-            },
-            {
-              "text": "/",
-              "lang": "es-419"
-            },
-            {
-              "text": "many",
-              "lang": "en-us"
-            },
-            {
-              "text": "; objetos directos; peticiones con ",
+              "text": " o ",
               "lang": "es-419"
             },
             {
@@ -85,25 +79,25 @@
               "lang": "en-us"
             },
             {
-              "text": " y ",
+              "text": " para peticiones corteses, y coloca el objeto directo justo después del verbo: I order ",
               "lang": "es-419"
             },
             {
-              "text": "would like",
+              "text": "the",
               "lang": "en-us"
             },
             {
-              "text": ".",
+              "text": " dish.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "sˌustantˈiβos kontˈaβles i nˈo kontˈaβles; sˌʌm bˈara ˌɛni , mˈʌtʃ bˈara mˈɛni ; oβxˈetos ðiɾˈektos; pˌetisjˈones kˈon kˈʊd i wʊd lˈaɪk ."
+          "phonemes": "ˈusa aɪd lˈaɪk ˈo kˈʊd pˌaɾa pˌetisjˈones koɾtˈeses, i kolˈoka el oβxˈeto ðiɾˈekto xˈusto ðespwˈes ðel βˈeɾβo: ˈi oɾðˈeɾ ðə dˈiʃ."
         }
       ]
     },
     {
       "file": "02.wav",
-      "text": "Conjunto de modelos. I'd like to try the daily special. How much is a pound of tomatoes? I'd like soup without meat. The server brings us the check. Excuse me, I ordered water, not soda. Quisiera probar el plato del día. ¿Cuánto cuesta una libra de tomates? Quisiera una sopa sin carne. La persona que atiende nos trae la cuenta. Disculpe, pedí agua, no refresco.",
+      "text": "Conjunto de modelos. How much does this cost? I'd like half a pound of cheese. Could you bring me the check, please? Could you bring me a napkin? I order the dish without onion. ¿Cuánto cuesta esto? Quisiera media libra de queso. ¿Podría traerme la cuenta, por favor? ¿Podría traerme una servilleta? Pido el plato sin cebolla.",
       "sentences": [
         {
           "text": "Conjunto de modelos.",
@@ -116,104 +110,104 @@
           "phonemes": "koŋxˈunto ðe moðˈelos."
         },
         {
-          "text": "I'd like to try the daily special.",
+          "text": "How much does this cost?",
           "segments": [
             {
-              "text": "I'd like to try the daily special.",
+              "text": "How much does this cost?",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪd lˈaɪk tə tɹˈaɪ ðə dˈeɪli spˈɛʃəl."
+          "phonemes": "hˌaʊ mˈʌtʃ dˈʌz ðɪs kˈɔst?"
         },
         {
-          "text": "How much is a pound of tomatoes?",
+          "text": "I'd like half a pound of cheese.",
           "segments": [
             {
-              "text": "How much is a pound of tomatoes?",
+              "text": "I'd like half a pound of cheese.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "hˌaʊ mˈʌtʃ ɪz ɐ pˈaʊnd ʌv təmˈeɪɾoʊz?"
+          "phonemes": "aɪd lˈaɪk hˈæf ɐ pˈaʊnd ʌv tʃˈiːz."
         },
         {
-          "text": "I'd like soup without meat.",
+          "text": "Could you bring me the check, please?",
           "segments": [
             {
-              "text": "I'd like soup without meat.",
+              "text": "Could you bring me the check, please?",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪd lˈaɪk sˈuːp wɪðˌaʊt mˈiːt."
+          "phonemes": "kʊd juː bɹˈɪŋ mˌiː ðə tʃˈɛk, plˈiːz?"
         },
         {
-          "text": "The server brings us the check.",
+          "text": "Could you bring me a napkin?",
           "segments": [
             {
-              "text": "The server brings us the check.",
+              "text": "Could you bring me a napkin?",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə sˈɜːvɚ bɹˈɪŋz ˌʌs ðə tʃˈɛk."
+          "phonemes": "kʊd juː bɹˈɪŋ mˌiː ɐ nˈæpkɪn?"
         },
         {
-          "text": "Excuse me, I ordered water, not soda.",
+          "text": "I order the dish without onion.",
           "segments": [
             {
-              "text": "Excuse me, I ordered water, not soda.",
+              "text": "I order the dish without onion.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɛkskjˈuːs mˌiː, aɪ ˈɔːɹdɚd wˈɔːɾɚ, nˌɑːt sˈoʊdə."
+          "phonemes": "aɪ ˈɔːɹdɚ ðə dˈɪʃ wɪðˌaʊt ˈʌniən."
         },
         {
-          "text": "Quisiera probar el plato del día.",
+          "text": "¿Cuánto cuesta esto?",
           "segments": [
             {
-              "text": "Quisiera probar el plato del día.",
+              "text": "¿Cuánto cuesta esto?",
               "lang": "es-419"
             }
           ],
-          "phonemes": "kisjˈeɾa pɾoβˈaɾ el plˈato ðel ðˈia."
+          "phonemes": "kwˈanto kwˈesta ˈesto?"
         },
         {
-          "text": "¿Cuánto cuesta una libra de tomates?",
+          "text": "Quisiera media libra de queso.",
           "segments": [
             {
-              "text": "¿Cuánto cuesta una libra de tomates?",
+              "text": "Quisiera media libra de queso.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "kwˈanto kwˈesta ˈuna lˈiβɾa ðe tomˈates?"
+          "phonemes": "kisjˈeɾa mˈeðja lˈiβɾa ðe kˈeso."
         },
         {
-          "text": "Quisiera una sopa sin carne.",
+          "text": "¿Podría traerme la cuenta, por favor?",
           "segments": [
             {
-              "text": "Quisiera una sopa sin carne.",
+              "text": "¿Podría traerme la cuenta, por favor?",
               "lang": "es-419"
             }
           ],
-          "phonemes": "kisjˈeɾa ˈuna sˈopa sin kˈaɾne."
+          "phonemes": "poðɾˈia tɾaˈeɾme la kwˈɛnta, poɾ faβˈoɾ?"
         },
         {
-          "text": "La persona que atiende nos trae la cuenta.",
+          "text": "¿Podría traerme una servilleta?",
           "segments": [
             {
-              "text": "La persona que atiende nos trae la cuenta.",
+              "text": "¿Podría traerme una servilleta?",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la peɾsˈona ke atjˈɛnde nos tɾˈae la kwˈɛnta."
+          "phonemes": "poðɾˈia tɾaˈeɾme ˈuna sˌeɾβijjˈeta?"
         },
         {
-          "text": "Disculpe, pedí agua, no refresco.",
+          "text": "Pido el plato sin cebolla.",
           "segments": [
             {
-              "text": "Disculpe, pedí agua, no refresco.",
+              "text": "Pido el plato sin cebolla.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "diskˈulpe, peðˈi ˈaɣwa, nˈo refɾˈesko."
+          "phonemes": "pˈiðo el plˈato sin seβˈojja."
         }
       ]
     },
@@ -281,7 +275,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Lenguaje modelo. I'd like to try the daily special. — Quisiera probar el plato del día. How much is a pound of tomatoes? — ¿Cuánto cuesta una libra de tomates? I'd like soup without meat. — Quisiera una sopa sin carne. The server brings us the check. — La persona que atiende nos trae la cuenta. Excuse me, I ordered water, not soda. — Disculpe, pedí agua, no refresco.",
+      "text": "Lenguaje modelo. How much does this cost? — ¿Cuánto cuesta esto? I'd like half a pound of cheese. — Quisiera media libra de queso. Could you bring me the check, please? — ¿Podría traerme la cuenta, por favor? Could you bring me a napkin? — ¿Podría traerme una servilleta? I order the dish without onion. — Pido el plato sin cebolla.",
       "sentences": [
         {
           "text": "Lenguaje modelo.",
@@ -294,104 +288,104 @@
           "phonemes": "leŋɡwˈaxe moðˈelo."
         },
         {
-          "text": "I'd like to try the daily special.",
+          "text": "How much does this cost?",
           "segments": [
             {
-              "text": "I'd like to try the daily special.",
+              "text": "How much does this cost?",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪd lˈaɪk tə tɹˈaɪ ðə dˈeɪli spˈɛʃəl."
+          "phonemes": "hˌaʊ mˈʌtʃ dˈʌz ðɪs kˈɔst?"
         },
         {
-          "text": "— Quisiera probar el plato del día.",
+          "text": "— ¿Cuánto cuesta esto?",
           "segments": [
             {
-              "text": "— Quisiera probar el plato del día.",
+              "text": "— ¿Cuánto cuesta esto?",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— kisjˈeɾa pɾoβˈaɾ el plˈato ðel ðˈia."
+          "phonemes": "— kwˈanto kwˈesta ˈesto?"
         },
         {
-          "text": "How much is a pound of tomatoes?",
+          "text": "I'd like half a pound of cheese.",
           "segments": [
             {
-              "text": "How much is a pound of tomatoes?",
+              "text": "I'd like half a pound of cheese.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "hˌaʊ mˈʌtʃ ɪz ɐ pˈaʊnd ʌv təmˈeɪɾoʊz?"
+          "phonemes": "aɪd lˈaɪk hˈæf ɐ pˈaʊnd ʌv tʃˈiːz."
         },
         {
-          "text": "— ¿Cuánto cuesta una libra de tomates?",
+          "text": "— Quisiera media libra de queso.",
           "segments": [
             {
-              "text": "— ¿Cuánto cuesta una libra de tomates?",
+              "text": "— Quisiera media libra de queso.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— kwˈanto kwˈesta ˈuna lˈiβɾa ðe tomˈates?"
+          "phonemes": "— kisjˈeɾa mˈeðja lˈiβɾa ðe kˈeso."
         },
         {
-          "text": "I'd like soup without meat.",
+          "text": "Could you bring me the check, please?",
           "segments": [
             {
-              "text": "I'd like soup without meat.",
+              "text": "Could you bring me the check, please?",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪd lˈaɪk sˈuːp wɪðˌaʊt mˈiːt."
+          "phonemes": "kʊd juː bɹˈɪŋ mˌiː ðə tʃˈɛk, plˈiːz?"
         },
         {
-          "text": "— Quisiera una sopa sin carne.",
+          "text": "— ¿Podría traerme la cuenta, por favor?",
           "segments": [
             {
-              "text": "— Quisiera una sopa sin carne.",
+              "text": "— ¿Podría traerme la cuenta, por favor?",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— kisjˈeɾa ˈuna sˈopa sin kˈaɾne."
+          "phonemes": "— poðɾˈia tɾaˈeɾme la kwˈɛnta, poɾ faβˈoɾ?"
         },
         {
-          "text": "The server brings us the check.",
+          "text": "Could you bring me a napkin?",
           "segments": [
             {
-              "text": "The server brings us the check.",
+              "text": "Could you bring me a napkin?",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə sˈɜːvɚ bɹˈɪŋz ˌʌs ðə tʃˈɛk."
+          "phonemes": "kʊd juː bɹˈɪŋ mˌiː ɐ nˈæpkɪn?"
         },
         {
-          "text": "— La persona que atiende nos trae la cuenta.",
+          "text": "— ¿Podría traerme una servilleta?",
           "segments": [
             {
-              "text": "— La persona que atiende nos trae la cuenta.",
+              "text": "— ¿Podría traerme una servilleta?",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— la peɾsˈona ke atjˈɛnde nos tɾˈae la kwˈɛnta."
+          "phonemes": "— poðɾˈia tɾaˈeɾme ˈuna sˌeɾβijjˈeta?"
         },
         {
-          "text": "Excuse me, I ordered water, not soda.",
+          "text": "I order the dish without onion.",
           "segments": [
             {
-              "text": "Excuse me, I ordered water, not soda.",
+              "text": "I order the dish without onion.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɛkskjˈuːs mˌiː, aɪ ˈɔːɹdɚd wˈɔːɾɚ, nˌɑːt sˈoʊdə."
+          "phonemes": "aɪ ˈɔːɹdɚ ðə dˈɪʃ wɪðˌaʊt ˈʌniən."
         },
         {
-          "text": "— Disculpe, pedí agua, no refresco.",
+          "text": "— Pido el plato sin cebolla.",
           "segments": [
             {
-              "text": "— Disculpe, pedí agua, no refresco.",
+              "text": "— Pido el plato sin cebolla.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— diskˈulpe, peðˈi ˈaɣwa, nˈo refɾˈesko."
+          "phonemes": "— pˈiðo el plˈato sin seβˈojja."
         }
       ]
     },
@@ -443,129 +437,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "a market",
+      "text": "how much",
       "sentences": [
         {
-          "text": "a market",
+          "text": "how much",
           "segments": [
             {
-              "text": "a market",
+              "text": "how much",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ mˈɑːɹkɪt"
+          "phonemes": "hˌaʊ mˈʌtʃ"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "the check",
+      "text": "how many",
       "sentences": [
         {
-          "text": "the check",
+          "text": "how many",
           "segments": [
             {
-              "text": "the check",
+              "text": "how many",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə tʃˈɛk"
+          "phonemes": "hˌaʊ mˈɛni"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "a dish",
+      "text": "half a pound",
       "sentences": [
         {
-          "text": "a dish",
+          "text": "half a pound",
           "segments": [
             {
-              "text": "a dish",
+              "text": "half a pound",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ dˈɪʃ"
+          "phonemes": "hˈæf ɐ pˈaʊnd"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "a drink",
+      "text": "a dozen",
       "sentences": [
         {
-          "text": "a drink",
+          "text": "a dozen",
           "segments": [
             {
-              "text": "a drink",
+              "text": "a dozen",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ dɹˈɪŋk"
+          "phonemes": "ɐ dˈʌzən"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "a pound",
+      "text": "could",
       "sentences": [
         {
-          "text": "a pound",
+          "text": "could",
           "segments": [
             {
-              "text": "a pound",
+              "text": "could",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ pˈaʊnd"
+          "phonemes": "kˈʊd"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "without",
+      "text": "could you bring me...?",
       "sentences": [
         {
-          "text": "without",
+          "text": "could you bring me...?",
           "segments": [
             {
-              "text": "without",
+              "text": "could you bring me...?",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wɪðˈaʊt"
+          "phonemes": "kʊd juː bɹˈɪŋ mˌiː...?"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "I would like",
+      "text": "a direct object",
       "sentences": [
         {
-          "text": "I would like",
+          "text": "a direct object",
           "segments": [
             {
-              "text": "I would like",
+              "text": "a direct object",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪ wʊd lˈaɪk"
+          "phonemes": "ɐ dᵻɹˈɛkt ˈɑːbdʒɛkt"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "to try",
+      "text": "to order",
       "sentences": [
         {
-          "text": "to try",
+          "text": "to order",
           "segments": [
             {
-              "text": "to try",
+              "text": "to order",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə tɹˈaɪ"
+          "phonemes": "tʊ ˈɔːɹdɚ"
         }
       ]
     }

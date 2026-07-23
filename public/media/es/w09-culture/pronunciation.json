@@ -163,7 +163,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Model language. Me levanto a las seis y media. — I get up at six thirty. Después de vestirme, preparo el desayuno. — After getting dressed, I prepare breakfast. Ahora estoy esperando el tren. — I am waiting for the train now. Los niños se acuestan temprano. — The children go to bed early. ¿A qué hora te despiertas? — What time do you wake up?",
+      "text": "Model language. El ritmo de vida cambia según el trabajo. — The pace of life changes with work. La siesta es un estereotipo, no siempre una realidad. — The siesta is a stereotype, not always a reality. El trabajo doméstico puede ser compartido. — Household labor can be shared. No debemos asumir que todos viven igual. — We shouldn't assume everyone lives the same way. Es mejor cuestionar los estereotipos comunes. — It's better to question common stereotypes.",
       "sentences": [
         {
           "text": "Model language.",
@@ -176,104 +176,104 @@
           "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
         },
         {
-          "text": "Me levanto a las seis y media.",
+          "text": "El ritmo de vida cambia según el trabajo.",
           "segments": [
             {
-              "text": "Me levanto a las seis y media.",
+              "text": "El ritmo de vida cambia según el trabajo.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "me leβˈanto a las sˈeɪs i mˈeðja."
+          "phonemes": "el rˈitmo ðe βˈiða kˈambja seɣˈun el tɾaβˈaxo."
         },
         {
-          "text": "— I get up at six thirty.",
+          "text": "— The pace of life changes with work.",
           "segments": [
             {
-              "text": "— I get up at six thirty.",
+              "text": "— The pace of life changes with work.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— aɪ ɡɛt ˌʌp æt sˈɪks θˈɜːɾi."
+          "phonemes": "— ðə pˈeɪs ʌv lˈaɪf tʃˈeɪndʒᵻz wɪð wˈɜːk."
         },
         {
-          "text": "Después de vestirme, preparo el desayuno.",
+          "text": "La siesta es un estereotipo, no siempre una realidad.",
           "segments": [
             {
-              "text": "Después de vestirme, preparo el desayuno.",
+              "text": "La siesta es un estereotipo, no siempre una realidad.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "despwˈes ðe βestˈiɾme, pɾepˈaɾo el ðˌesaʝˈuno."
+          "phonemes": "la sjˈesta ˈes ˈun ˌesteɾˌeotˈipo, nˈo sjˈempɾe ˈuna rˌealiðˈad."
         },
         {
-          "text": "— After getting dressed, I prepare breakfast.",
+          "text": "— The siesta is a stereotype, not always a reality.",
           "segments": [
             {
-              "text": "— After getting dressed, I prepare breakfast.",
+              "text": "— The siesta is a stereotype, not always a reality.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ˈæftɚ ɡˌɛɾɪŋ dɹˈɛst, aɪ pɹɪpˈɛɹ bɹˈɛkfəst."
+          "phonemes": "— ðə siːˈɛstə ɪz ɐ stˈɛɹɪˌoʊtaɪp, nˌɑːt ˈɔːlweɪz ɐ ɹɪˈælᵻɾi."
         },
         {
-          "text": "Ahora estoy esperando el tren.",
+          "text": "El trabajo doméstico puede ser compartido.",
           "segments": [
             {
-              "text": "Ahora estoy esperando el tren.",
+              "text": "El trabajo doméstico puede ser compartido.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "aˈoɾa estˈoɪ ˌespeɾˈando el tɾˈen."
+          "phonemes": "el tɾaβˈaxo ðomˈestiko pwˈeðe sˈer kˌompaɾtˈiðo."
         },
         {
-          "text": "— I am waiting for the train now.",
+          "text": "— Household labor can be shared.",
           "segments": [
             {
-              "text": "— I am waiting for the train now.",
+              "text": "— Household labor can be shared.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— aɪɐm wˈeɪɾɪŋ fɚðə tɹˈeɪn nˈaʊ."
+          "phonemes": "— hˈaʊshoʊld lˈeɪbɚ kæn biː ʃˈɛɹd."
         },
         {
-          "text": "Los niños se acuestan temprano.",
+          "text": "No debemos asumir que todos viven igual.",
           "segments": [
             {
-              "text": "Los niños se acuestan temprano.",
+              "text": "No debemos asumir que todos viven igual.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "los nˈiɲos se akwˈestan tempɾˈano."
+          "phonemes": "nˈo ðeβˈemos ˌasumˈiɾ ke tˈoðos βˈiβen iɣwˈal."
         },
         {
-          "text": "— The children go to bed early.",
+          "text": "— We shouldn't assume everyone lives the same way.",
           "segments": [
             {
-              "text": "— The children go to bed early.",
+              "text": "— We shouldn't assume everyone lives the same way.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ðə tʃˈɪldɹən ɡˌoʊ tə bˈɛd ˈɜːli."
+          "phonemes": "— wiː ʃˌʊdənt ɐsˈuːm ˈɛvɹɪwˌʌn lˈaɪvz ðə sˈeɪm wˈeɪ."
         },
         {
-          "text": "¿A qué hora te despiertas?",
+          "text": "Es mejor cuestionar los estereotipos comunes.",
           "segments": [
             {
-              "text": "¿A qué hora te despiertas?",
+              "text": "Es mejor cuestionar los estereotipos comunes.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "a kˈe ˈoɾa te ðespjˈeɾtas?"
+          "phonemes": "ˈes mexˈoɾ kwˌestjonˈaɾ los ˌesteɾˌeotˈipos komˈunes."
         },
         {
-          "text": "— What time do you wake up?",
+          "text": "— It's better to question common stereotypes.",
           "segments": [
             {
-              "text": "— What time do you wake up?",
+              "text": "— It's better to question common stereotypes.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— wˌʌt tˈaɪm dˈuː juː wˈeɪk ˈʌp?"
+          "phonemes": "— ɪts bˈɛɾɚ tə kwˈɛstʃən kˈɑːmən stˈɛɹɪˌoʊtaɪps."
         }
       ]
     },
@@ -325,129 +325,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "despertarse",
+      "text": "el ritmo de vida",
       "sentences": [
         {
-          "text": "despertarse",
+          "text": "el ritmo de vida",
           "segments": [
             {
-              "text": "despertarse",
+              "text": "el ritmo de vida",
               "lang": "es-419"
             }
           ],
-          "phonemes": "dˌespeɾtˈaɾse"
+          "phonemes": "el rˈitmo ðe βˈiða"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "levantarse",
+      "text": "la siesta",
       "sentences": [
         {
-          "text": "levantarse",
+          "text": "la siesta",
           "segments": [
             {
-              "text": "levantarse",
+              "text": "la siesta",
               "lang": "es-419"
             }
           ],
-          "phonemes": "lˌeβantˈaɾse"
+          "phonemes": "la sjˈesta"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "ducharse",
+      "text": "el estereotipo",
       "sentences": [
         {
-          "text": "ducharse",
+          "text": "el estereotipo",
           "segments": [
             {
-              "text": "ducharse",
+              "text": "el estereotipo",
               "lang": "es-419"
             }
           ],
-          "phonemes": "dutʃˈaɾse"
+          "phonemes": "el ˌesteɾˌeotˈipo"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "vestirse",
+      "text": "compartido",
       "sentences": [
         {
-          "text": "vestirse",
+          "text": "compartido",
           "segments": [
             {
-              "text": "vestirse",
+              "text": "compartido",
               "lang": "es-419"
             }
           ],
-          "phonemes": "bestˈiɾse"
+          "phonemes": "kˌompaɾtˈiðo"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "acostarse",
+      "text": "el trabajo doméstico",
       "sentences": [
         {
-          "text": "acostarse",
+          "text": "el trabajo doméstico",
           "segments": [
             {
-              "text": "acostarse",
+              "text": "el trabajo doméstico",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˌakostˈaɾse"
+          "phonemes": "el tɾaβˈaxo ðomˈestiko"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "temprano",
+      "text": "real",
       "sentences": [
         {
-          "text": "temprano",
+          "text": "real",
           "segments": [
             {
-              "text": "temprano",
+              "text": "real",
               "lang": "es-419"
             }
           ],
-          "phonemes": "tempɾˈano"
+          "phonemes": "reˈal"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "tarde",
+      "text": "cuestionar",
       "sentences": [
         {
-          "text": "tarde",
+          "text": "cuestionar",
           "segments": [
             {
-              "text": "tarde",
+              "text": "cuestionar",
               "lang": "es-419"
             }
           ],
-          "phonemes": "tˈaɾðe"
+          "phonemes": "kwˌestjonˈaɾ"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "ahora",
+      "text": "asumir",
       "sentences": [
         {
-          "text": "ahora",
+          "text": "asumir",
           "segments": [
             {
-              "text": "ahora",
+              "text": "asumir",
               "lang": "es-419"
             }
           ],
-          "phonemes": "aˈoɾa"
+          "phonemes": "ˌasumˈiɾ"
         }
       ]
     }

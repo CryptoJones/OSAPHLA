@@ -29,7 +29,7 @@
     },
     {
       "file": "01.wav",
-      "text": "Form and meaning. Quantities; count and mass nouns; direct objects; polite requests with querer, poder, and quisiera.",
+      "text": "Form and meaning. Applying the form. Use quisiera or podría for polite requests, and place the direct object right after the verb: pido el plato.",
       "sentences": [
         {
           "text": "Form and meaning.",
@@ -42,26 +42,20 @@
           "phonemes": "fˈɔːɹm ænd mˈiːnɪŋ."
         },
         {
-          "text": "Quantities; count and mass nouns; direct objects; polite requests with querer, poder, and quisiera.",
+          "text": "Applying the form.",
           "segments": [
             {
-              "text": "Quantities; count and mass nouns; direct objects; polite requests with ",
+              "text": "Applying the form.",
               "lang": "en-us"
-            },
+            }
+          ],
+          "phonemes": "ɐplˈaɪɪŋ ðə fˈɔːɹm."
+        },
+        {
+          "text": "Use quisiera or podría for polite requests, and place the direct object right after the verb: pido el plato.",
+          "segments": [
             {
-              "text": "querer",
-              "lang": "es-419"
-            },
-            {
-              "text": ", ",
-              "lang": "en-us"
-            },
-            {
-              "text": "poder",
-              "lang": "es-419"
-            },
-            {
-              "text": ", and ",
+              "text": "Use ",
               "lang": "en-us"
             },
             {
@@ -69,17 +63,25 @@
               "lang": "es-419"
             },
             {
-              "text": ".",
+              "text": " or ",
+              "lang": "en-us"
+            },
+            {
+              "text": "podría",
+              "lang": "es-419"
+            },
+            {
+              "text": " for polite requests, and place the direct object right after the verb: pido el plato.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "kwˈɔntᵻɾiz; kˈaʊnt ænd mˈæs nˈaʊnz; dᵻɹˈɛkt ˈɑːbdʒɛkts; pəlˈaɪt ɹᵻkwˈɛsts wɪð keɾˈeɾ , poðˈeɾ , ænd kisjˈeɾa ."
+          "phonemes": "jˈuːs kisjˈeɾa ɔːɹ poðɾˈia fɔːɹ pəlˈaɪt ɹᵻkwˈɛsts, ænd plˈeɪs ðə dᵻɹˈɛkt ˈɑːbdʒɛkt ɹˈaɪt ˈæftɚ ðə vˈɜːb: pˈaɪdoʊ ˌɛl plˈɑːɾoʊ."
         }
       ]
     },
     {
       "file": "02.wav",
-      "text": "Model set. Quisiera probar el plato del día. ¿Cuánto cuesta un kilo de tomates? Para mí, una sopa sin carne. El camarero nos trae la cuenta. Disculpe, pedí agua y no refresco. I would like to try the daily special. How much does a kilogram of tomatoes cost? For me, a soup without meat. The waiter brings us the bill. Excuse me, I ordered water, not soda.",
+      "text": "Model set. ¿Cuánto cuesta esto? Quisiera medio kilo de queso. ¿Me trae la cuenta, por favor? ¿Podría traerme una servilleta? Pido el plato sin cebolla. How much does this cost? I would like half a kilo of cheese. Could you bring me the bill, please? Could you bring me a napkin? I order the dish without onion.",
       "sentences": [
         {
           "text": "Model set.",
@@ -92,104 +94,104 @@
           "phonemes": "mˈɑːdəl sˈɛt."
         },
         {
-          "text": "Quisiera probar el plato del día.",
+          "text": "¿Cuánto cuesta esto?",
           "segments": [
             {
-              "text": "Quisiera probar el plato del día.",
+              "text": "¿Cuánto cuesta esto?",
               "lang": "es-419"
             }
           ],
-          "phonemes": "kisjˈeɾa pɾoβˈaɾ el plˈato ðel ðˈia."
+          "phonemes": "kwˈanto kwˈesta ˈesto?"
         },
         {
-          "text": "¿Cuánto cuesta un kilo de tomates?",
+          "text": "Quisiera medio kilo de queso.",
           "segments": [
             {
-              "text": "¿Cuánto cuesta un kilo de tomates?",
+              "text": "Quisiera medio kilo de queso.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "kwˈanto kwˈesta ˈuŋ kˈilo ðe tomˈates?"
+          "phonemes": "kisjˈeɾa mˈeðjo kˈilo ðe kˈeso."
         },
         {
-          "text": "Para mí, una sopa sin carne.",
+          "text": "¿Me trae la cuenta, por favor?",
           "segments": [
             {
-              "text": "Para mí, una sopa sin carne.",
+              "text": "¿Me trae la cuenta, por favor?",
               "lang": "es-419"
             }
           ],
-          "phonemes": "pˌaɾa mˈi, ˈuna sˈopa sin kˈaɾne."
+          "phonemes": "me tɾˈae la kwˈɛnta, poɾ faβˈoɾ?"
         },
         {
-          "text": "El camarero nos trae la cuenta.",
+          "text": "¿Podría traerme una servilleta?",
           "segments": [
             {
-              "text": "El camarero nos trae la cuenta.",
+              "text": "¿Podría traerme una servilleta?",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el kˌamaɾˈeɾo nos tɾˈae la kwˈɛnta."
+          "phonemes": "poðɾˈia tɾaˈeɾme ˈuna sˌeɾβijjˈeta?"
         },
         {
-          "text": "Disculpe, pedí agua y no refresco.",
+          "text": "Pido el plato sin cebolla.",
           "segments": [
             {
-              "text": "Disculpe, pedí agua y no refresco.",
+              "text": "Pido el plato sin cebolla.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "diskˈulpe, peðˈi ˈaɣwa i nˈo refɾˈesko."
+          "phonemes": "pˈiðo el plˈato sin seβˈojja."
         },
         {
-          "text": "I would like to try the daily special.",
+          "text": "How much does this cost?",
           "segments": [
             {
-              "text": "I would like to try the daily special.",
+              "text": "How much does this cost?",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪ wʊd lˈaɪk tə tɹˈaɪ ðə dˈeɪli spˈɛʃəl."
+          "phonemes": "hˌaʊ mˈʌtʃ dˈʌz ðɪs kˈɔst?"
         },
         {
-          "text": "How much does a kilogram of tomatoes cost?",
+          "text": "I would like half a kilo of cheese.",
           "segments": [
             {
-              "text": "How much does a kilogram of tomatoes cost?",
+              "text": "I would like half a kilo of cheese.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "hˌaʊ mˈʌtʃ dˈʌz ɐ kˈɪləɡɹˌæm ʌv təmˈeɪɾoʊz kˈɔst?"
+          "phonemes": "aɪ wʊd lˈaɪk hˈæf ɐ kˈiːloʊ ʌv tʃˈiːz."
         },
         {
-          "text": "For me, a soup without meat.",
+          "text": "Could you bring me the bill, please?",
           "segments": [
             {
-              "text": "For me, a soup without meat.",
+              "text": "Could you bring me the bill, please?",
               "lang": "en-us"
             }
           ],
-          "phonemes": "fɔːɹ mˌiː, ɐ sˈuːp wɪðˌaʊt mˈiːt."
+          "phonemes": "kʊd juː bɹˈɪŋ mˌiː ðə bˈɪl, plˈiːz?"
         },
         {
-          "text": "The waiter brings us the bill.",
+          "text": "Could you bring me a napkin?",
           "segments": [
             {
-              "text": "The waiter brings us the bill.",
+              "text": "Could you bring me a napkin?",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə wˈeɪɾɚ bɹˈɪŋz ˌʌs ðə bˈɪl."
+          "phonemes": "kʊd juː bɹˈɪŋ mˌiː ɐ nˈæpkɪn?"
         },
         {
-          "text": "Excuse me, I ordered water, not soda.",
+          "text": "I order the dish without onion.",
           "segments": [
             {
-              "text": "Excuse me, I ordered water, not soda.",
-              "lang": "es-419"
+              "text": "I order the dish without onion.",
+              "lang": "en-us"
             }
           ],
-          "phonemes": "ekskˈuse mˈe, ˈi ˌoɾðeɾˈed watˈeɾ, nˈot sˈoða."
+          "phonemes": "aɪ ˈɔːɹdɚ ðə dˈɪʃ wɪðˌaʊt ˈʌniən."
         }
       ]
     },
@@ -267,7 +269,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Model language. Quisiera probar el plato del día. — I would like to try the daily special. ¿Cuánto cuesta un kilo de tomates? — How much does a kilogram of tomatoes cost? Para mí, una sopa sin carne. — For me, a soup without meat. El camarero nos trae la cuenta. — The waiter brings us the bill. Disculpe, pedí agua y no refresco. — Excuse me, I ordered water, not soda.",
+      "text": "Model language. ¿Cuánto cuesta esto? — How much does this cost? Quisiera medio kilo de queso. — I would like half a kilo of cheese. ¿Me trae la cuenta, por favor? — Could you bring me the bill, please? ¿Podría traerme una servilleta? — Could you bring me a napkin? Pido el plato sin cebolla. — I order the dish without onion.",
       "sentences": [
         {
           "text": "Model language.",
@@ -280,104 +282,104 @@
           "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
         },
         {
-          "text": "Quisiera probar el plato del día.",
+          "text": "¿Cuánto cuesta esto?",
           "segments": [
             {
-              "text": "Quisiera probar el plato del día.",
+              "text": "¿Cuánto cuesta esto?",
               "lang": "es-419"
             }
           ],
-          "phonemes": "kisjˈeɾa pɾoβˈaɾ el plˈato ðel ðˈia."
+          "phonemes": "kwˈanto kwˈesta ˈesto?"
         },
         {
-          "text": "— I would like to try the daily special.",
+          "text": "— How much does this cost?",
           "segments": [
             {
-              "text": "— I would like to try the daily special.",
+              "text": "— How much does this cost?",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— aɪ wʊd lˈaɪk tə tɹˈaɪ ðə dˈeɪli spˈɛʃəl."
+          "phonemes": "— hˌaʊ mˈʌtʃ dˈʌz ðɪs kˈɔst?"
         },
         {
-          "text": "¿Cuánto cuesta un kilo de tomates?",
+          "text": "Quisiera medio kilo de queso.",
           "segments": [
             {
-              "text": "¿Cuánto cuesta un kilo de tomates?",
+              "text": "Quisiera medio kilo de queso.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "kwˈanto kwˈesta ˈuŋ kˈilo ðe tomˈates?"
+          "phonemes": "kisjˈeɾa mˈeðjo kˈilo ðe kˈeso."
         },
         {
-          "text": "— How much does a kilogram of tomatoes cost?",
+          "text": "— I would like half a kilo of cheese.",
           "segments": [
             {
-              "text": "— How much does a kilogram of tomatoes cost?",
+              "text": "— I would like half a kilo of cheese.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— hˌaʊ mˈʌtʃ dˈʌz ɐ kˈɪləɡɹˌæm ʌv təmˈeɪɾoʊz kˈɔst?"
+          "phonemes": "— aɪ wʊd lˈaɪk hˈæf ɐ kˈiːloʊ ʌv tʃˈiːz."
         },
         {
-          "text": "Para mí, una sopa sin carne.",
+          "text": "¿Me trae la cuenta, por favor?",
           "segments": [
             {
-              "text": "Para mí, una sopa sin carne.",
+              "text": "¿Me trae la cuenta, por favor?",
               "lang": "es-419"
             }
           ],
-          "phonemes": "pˌaɾa mˈi, ˈuna sˈopa sin kˈaɾne."
+          "phonemes": "me tɾˈae la kwˈɛnta, poɾ faβˈoɾ?"
         },
         {
-          "text": "— For me, a soup without meat.",
+          "text": "— Could you bring me the bill, please?",
           "segments": [
             {
-              "text": "— For me, a soup without meat.",
+              "text": "— Could you bring me the bill, please?",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— fɔːɹ mˌiː, ɐ sˈuːp wɪðˌaʊt mˈiːt."
+          "phonemes": "— kʊd juː bɹˈɪŋ mˌiː ðə bˈɪl, plˈiːz?"
         },
         {
-          "text": "El camarero nos trae la cuenta.",
+          "text": "¿Podría traerme una servilleta?",
           "segments": [
             {
-              "text": "El camarero nos trae la cuenta.",
+              "text": "¿Podría traerme una servilleta?",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el kˌamaɾˈeɾo nos tɾˈae la kwˈɛnta."
+          "phonemes": "poðɾˈia tɾaˈeɾme ˈuna sˌeɾβijjˈeta?"
         },
         {
-          "text": "— The waiter brings us the bill.",
+          "text": "— Could you bring me a napkin?",
           "segments": [
             {
-              "text": "— The waiter brings us the bill.",
+              "text": "— Could you bring me a napkin?",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ðə wˈeɪɾɚ bɹˈɪŋz ˌʌs ðə bˈɪl."
+          "phonemes": "— kʊd juː bɹˈɪŋ mˌiː ɐ nˈæpkɪn?"
         },
         {
-          "text": "Disculpe, pedí agua y no refresco.",
+          "text": "Pido el plato sin cebolla.",
           "segments": [
             {
-              "text": "Disculpe, pedí agua y no refresco.",
+              "text": "Pido el plato sin cebolla.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "diskˈulpe, peðˈi ˈaɣwa i nˈo refɾˈesko."
+          "phonemes": "pˈiðo el plˈato sin seβˈojja."
         },
         {
-          "text": "— Excuse me, I ordered water, not soda.",
+          "text": "— I order the dish without onion.",
           "segments": [
             {
-              "text": "— Excuse me, I ordered water, not soda.",
-              "lang": "es-419"
+              "text": "— I order the dish without onion.",
+              "lang": "en-us"
             }
           ],
-          "phonemes": "— ekskˈuse mˈe, ˈi ˌoɾðeɾˈed watˈeɾ, nˈot sˈoða."
+          "phonemes": "— aɪ ˈɔːɹdɚ ðə dˈɪʃ wɪðˌaʊt ˈʌniən."
         }
       ]
     },
@@ -429,129 +431,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "el mercado",
+      "text": "cuánto",
       "sentences": [
         {
-          "text": "el mercado",
+          "text": "cuánto",
           "segments": [
             {
-              "text": "el mercado",
+              "text": "cuánto",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el meɾkˈaðo"
+          "phonemes": "kwˈanto"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "la cuenta",
+      "text": "cuántos",
       "sentences": [
         {
-          "text": "la cuenta",
+          "text": "cuántos",
           "segments": [
             {
-              "text": "la cuenta",
+              "text": "cuántos",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la kwˈɛnta"
+          "phonemes": "kwˈantos"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "el plato",
+      "text": "medio kilo",
       "sentences": [
         {
-          "text": "el plato",
+          "text": "medio kilo",
           "segments": [
             {
-              "text": "el plato",
+              "text": "medio kilo",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el plˈato"
+          "phonemes": "mˈeðjo kˈilo"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "la bebida",
+      "text": "una docena",
       "sentences": [
         {
-          "text": "la bebida",
+          "text": "una docena",
           "segments": [
             {
-              "text": "la bebida",
+              "text": "una docena",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la βeβˈiða"
+          "phonemes": "ˈuna ðosˈena"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "un kilo",
+      "text": "podría",
       "sentences": [
         {
-          "text": "un kilo",
+          "text": "podría",
           "segments": [
             {
-              "text": "un kilo",
+              "text": "podría",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˈuŋ kˈilo"
+          "phonemes": "poðɾˈia"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "sin",
+      "text": "¿me trae...?",
       "sentences": [
         {
-          "text": "sin",
+          "text": "¿me trae...?",
           "segments": [
             {
-              "text": "sin",
+              "text": "¿me trae...?",
               "lang": "es-419"
             }
           ],
-          "phonemes": "sˈin"
+          "phonemes": "me tɾˈae...?"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "quisiera",
+      "text": "el objeto directo",
       "sentences": [
         {
-          "text": "quisiera",
+          "text": "el objeto directo",
           "segments": [
             {
-              "text": "quisiera",
+              "text": "el objeto directo",
               "lang": "es-419"
             }
           ],
-          "phonemes": "kisjˈeɾa"
+          "phonemes": "el oβxˈeto ðiɾˈekto"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "probar",
+      "text": "pedir",
       "sentences": [
         {
-          "text": "probar",
+          "text": "pedir",
           "segments": [
             {
-              "text": "probar",
+              "text": "pedir",
               "lang": "es-419"
             }
           ],
-          "phonemes": "pɾoβˈaɾ"
+          "phonemes": "peðˈiɾ"
         }
       ]
     }

@@ -45,11 +45,19 @@
           "text": "The plaza as a physical and social center in many communities.",
           "segments": [
             {
-              "text": "The plaza as a physical and social center in many communities.",
+              "text": "The plaza as a physical and ",
+              "lang": "en-us"
+            },
+            {
+              "text": "social",
+              "lang": "es-419"
+            },
+            {
+              "text": " center in many communities.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə plˈɑːzə æz ɐ fˈɪzɪkəl ænd sˈoʊʃəl sˈɛntɚɹ ɪn mˈɛni kəmjˈuːnᵻɾiz."
+          "phonemes": "ðə plˈɑːzə æz ɐ fˈɪzɪkəl ænd sosjˈal sˈɛntɚɹ ɪn mˈɛni kəmjˈuːnᵻɾiz."
         }
       ]
     },
@@ -163,7 +171,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Model language. La farmacia está cerca de la plaza. — The pharmacy is near the plaza. Hay un banco delante del hotel. — There is a bank in front of the hotel. El museo está cerrado hoy. — The museum is closed today. ¿Dónde están los baños? — Where are the restrooms? La reunión es en la sala azul. — The meeting is in the blue room.",
+      "text": "Model language. La plaza es el centro de la comunidad. — The square is the center of the community. La gente se reúne alrededor de la fuente. — People gather around the fountain. Caminamos por el espacio público cada tarde. — We walk through the public space every afternoon. Este lugar tiene mucha vida social. — This place has a lot of social life. No todas las plazas cumplen la misma función. — Not every square serves the same function.",
       "sentences": [
         {
           "text": "Model language.",
@@ -176,104 +184,112 @@
           "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
         },
         {
-          "text": "La farmacia está cerca de la plaza.",
+          "text": "La plaza es el centro de la comunidad.",
           "segments": [
             {
-              "text": "La farmacia está cerca de la plaza.",
+              "text": "La plaza es el centro de la comunidad.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la faɾmˈasja estˈa sˈeɾka ðe la plˈasa."
+          "phonemes": "la plˈasa ˈes el sˈɛntɾo ðe la kˌomuniðˈad."
         },
         {
-          "text": "— The pharmacy is near the plaza.",
+          "text": "— The square is the center of the community.",
           "segments": [
             {
-              "text": "— The pharmacy is near the plaza.",
+              "text": "— The square is the center of the community.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ðə fˈɑːɹməsi ɪz nˌɪɹ ðə plˈɑːzə."
+          "phonemes": "— ðə skwˈɛɹ ɪz ðə sˈɛntɚɹ ʌvðə kəmjˈuːnᵻɾi."
         },
         {
-          "text": "Hay un banco delante del hotel.",
+          "text": "La gente se reúne alrededor de la fuente.",
           "segments": [
             {
-              "text": "Hay un banco delante del hotel.",
+              "text": "La gente se reúne alrededor de la fuente.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˈaɪ ˈum bˈanko ðelˈante ðel otˈel."
+          "phonemes": "la xˈɛnte se reˈune ˌalreðeðˈoɾ ðe la fwˈɛnte."
         },
         {
-          "text": "— There is a bank in front of the hotel.",
+          "text": "— People gather around the fountain.",
           "segments": [
             {
-              "text": "— There is a bank in front of the hotel.",
+              "text": "— People gather around the fountain.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ðɛɹ ɪz ɐ bˈæŋk ɪn fɹˈʌnt ʌvðə hoʊtˈɛl."
+          "phonemes": "— pˈiːpəl ɡˈæðɚɹ ɚɹˈaʊnd ðə fˈaʊntɪn."
         },
         {
-          "text": "El museo está cerrado hoy.",
+          "text": "Caminamos por el espacio público cada tarde.",
           "segments": [
             {
-              "text": "El museo está cerrado hoy.",
+              "text": "Caminamos por el espacio público cada tarde.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el musˈeo estˈa serˈaðo ˈoɪ."
+          "phonemes": "kˌaminˈamos poɾ el espˈasjo pˈuβliko kˈaða tˈaɾðe."
         },
         {
-          "text": "— The museum is closed today.",
+          "text": "— We walk through the public space every afternoon.",
           "segments": [
             {
-              "text": "— The museum is closed today.",
+              "text": "— We walk through the public space every afternoon.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ðə mjuːzˈiəm ɪz klˈoʊzd tədˈeɪ."
+          "phonemes": "— wiː wˈɔːk θɹuː ðə pˈʌblɪk spˈeɪs ˈɛvɹi ˌæftɚnˈuːn."
         },
         {
-          "text": "¿Dónde están los baños?",
+          "text": "Este lugar tiene mucha vida social.",
           "segments": [
             {
-              "text": "¿Dónde están los baños?",
+              "text": "Este lugar tiene mucha vida social.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "dˈonde estˈan los βˈaɲos?"
+          "phonemes": "ˈeste luɣˈaɾ tjˈene mˈutʃa βˈiða sosjˈal."
         },
         {
-          "text": "— Where are the restrooms?",
+          "text": "— This place has a lot of social life.",
           "segments": [
             {
-              "text": "— Where are the restrooms?",
+              "text": "— This place has a lot of ",
+              "lang": "en-us"
+            },
+            {
+              "text": "social",
+              "lang": "es-419"
+            },
+            {
+              "text": " life.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— wˌɛɹ ɑːɹ ðə ɹˈɛstɹuːmz?"
+          "phonemes": "— ðɪs plˈeɪs hɐz ɐ lˈɑːt ʌv sosjˈal lˈaɪf."
         },
         {
-          "text": "La reunión es en la sala azul.",
+          "text": "No todas las plazas cumplen la misma función.",
           "segments": [
             {
-              "text": "La reunión es en la sala azul.",
+              "text": "No todas las plazas cumplen la misma función.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la reʊnjˈon ˈes en la sˈala asˈul."
+          "phonemes": "nˈo tˈoðas las plˈasas kˈumplen la mˈisma funsjˈon."
         },
         {
-          "text": "— The meeting is in the blue room.",
+          "text": "— Not every square serves the same function.",
           "segments": [
             {
-              "text": "— The meeting is in the blue room.",
+              "text": "— Not every square serves the same function.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ðə mˈiːɾɪŋ ɪz ɪnðə blˈuː ɹˈuːm."
+          "phonemes": "— nˌɑːt ˈɛvɹi skwˈɛɹ sˈɜːvz ðə sˈeɪm fˈʌŋkʃən."
         }
       ]
     },
@@ -325,129 +341,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "aquí",
+      "text": "la plaza",
       "sentences": [
         {
-          "text": "aquí",
+          "text": "la plaza",
           "segments": [
             {
-              "text": "aquí",
+              "text": "la plaza",
               "lang": "es-419"
             }
           ],
-          "phonemes": "akˈi"
+          "phonemes": "la plˈasa"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "allí",
+      "text": "el centro",
       "sentences": [
         {
-          "text": "allí",
+          "text": "el centro",
           "segments": [
             {
-              "text": "allí",
+              "text": "el centro",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ajjˈi"
+          "phonemes": "el sˈɛntɾo"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "cerca",
+      "text": "reunirse",
       "sentences": [
         {
-          "text": "cerca",
+          "text": "reunirse",
           "segments": [
             {
-              "text": "cerca",
+              "text": "reunirse",
               "lang": "es-419"
             }
           ],
-          "phonemes": "sˈeɾka"
+          "phonemes": "reʊnˈiɾse"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "lejos",
+      "text": "el espacio público",
       "sentences": [
         {
-          "text": "lejos",
+          "text": "el espacio público",
           "segments": [
             {
-              "text": "lejos",
+              "text": "el espacio público",
               "lang": "es-419"
             }
           ],
-          "phonemes": "lˈexos"
+          "phonemes": "el espˈasjo pˈuβliko"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "abierto",
+      "text": "la comunidad",
       "sentences": [
         {
-          "text": "abierto",
+          "text": "la comunidad",
           "segments": [
             {
-              "text": "abierto",
+              "text": "la comunidad",
               "lang": "es-419"
             }
           ],
-          "phonemes": "aβjˈeɾto"
+          "phonemes": "la kˌomuniðˈad"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "cerrado",
+      "text": "caminar",
       "sentences": [
         {
-          "text": "cerrado",
+          "text": "caminar",
           "segments": [
             {
-              "text": "cerrado",
+              "text": "caminar",
               "lang": "es-419"
             }
           ],
-          "phonemes": "serˈaðo"
+          "phonemes": "kˌaminˈaɾ"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "delante de",
+      "text": "alrededor de",
       "sentences": [
         {
-          "text": "delante de",
+          "text": "alrededor de",
           "segments": [
             {
-              "text": "delante de",
+              "text": "alrededor de",
               "lang": "es-419"
             }
           ],
-          "phonemes": "delˈante ðˈe"
+          "phonemes": "ˌalreðeðˈoɾ ðˈe"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "detrás de",
+      "text": "social",
       "sentences": [
         {
-          "text": "detrás de",
+          "text": "social",
           "segments": [
             {
-              "text": "detrás de",
+              "text": "social",
               "lang": "es-419"
             }
           ],
-          "phonemes": "detɾˈas ðˈe"
+          "phonemes": "sosjˈal"
         }
       ]
     }

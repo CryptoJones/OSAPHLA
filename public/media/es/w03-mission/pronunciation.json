@@ -143,7 +143,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Model language. Hay un libro sobre la mesa. — There is a book on the table. ¿Qué es esto? — What is this? Es una pregunta importante. — It is an important question. Abran los cuadernos, por favor. — Open your notebooks, please. Las respuestas están en la página diez. — The answers are on page ten.",
+      "text": "Model language. Voy a inventariar mi espacio de estudio. — I am going to inventory my study space. Cuento los objetos en la mesa. — I count the objects on the table. Señalo cada objeto por su nombre. — I point out each object by name. Sigo las instrucciones con cuidado. — I follow the instructions carefully. Ordeno mis libros antes de terminar. — I organize my books before finishing.",
       "sentences": [
         {
           "text": "Model language.",
@@ -156,104 +156,104 @@
           "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
         },
         {
-          "text": "Hay un libro sobre la mesa.",
+          "text": "Voy a inventariar mi espacio de estudio.",
           "segments": [
             {
-              "text": "Hay un libro sobre la mesa.",
+              "text": "Voy a inventariar mi espacio de estudio.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˈaɪ ˈun lˈiβɾo sˌoβɾe la mˈesa."
+          "phonemes": "bˈoɪ a ˌimbentaɾjˈaɾ mi espˈasjo ðe estˈuðjo."
         },
         {
-          "text": "— There is a book on the table.",
+          "text": "— I am going to inventory my study space.",
           "segments": [
             {
-              "text": "— There is a book on the table.",
+              "text": "— I am going to inventory my study space.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ðɛɹ ɪz ɐ bˈʊk ɔnðə tˈeɪbəl."
+          "phonemes": "— aɪɐm ɡˌoʊɪŋ tʊ ˈɪnvəntˌɔːɹi maɪ stˈʌdi spˈeɪs."
         },
         {
-          "text": "¿Qué es esto?",
+          "text": "Cuento los objetos en la mesa.",
           "segments": [
             {
-              "text": "¿Qué es esto?",
+              "text": "Cuento los objetos en la mesa.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "kˈe ˈes ˈesto?"
+          "phonemes": "kwˈɛnto los oβxˈetos en la mˈesa."
         },
         {
-          "text": "— What is this?",
+          "text": "— I count the objects on the table.",
           "segments": [
             {
-              "text": "— What is this?",
+              "text": "— I count the objects on the table.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— wˌʌt ɪz ðˈɪs?"
+          "phonemes": "— aɪ kˈaʊnt ðɪ ˈɑːbdʒɛkts ɔnðə tˈeɪbəl."
         },
         {
-          "text": "Es una pregunta importante.",
+          "text": "Señalo cada objeto por su nombre.",
           "segments": [
             {
-              "text": "Es una pregunta importante.",
+              "text": "Señalo cada objeto por su nombre.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˈes ˈuna pɾeɣˈunta ˌimpoɾtˈante."
+          "phonemes": "seɲˈalo kˈaða oβxˈeto poɾ su nˈombɾe."
         },
         {
-          "text": "— It is an important question.",
+          "text": "— I point out each object by name.",
           "segments": [
             {
-              "text": "— It is an important question.",
+              "text": "— I point out each object by name.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ɪɾ ɪz ɐn ɪmpˈɔːɹtənt kwˈɛstʃən."
+          "phonemes": "— aɪ pˈɔɪnt ˈaʊt ˈiːtʃ ˈɑːbdʒɛkt baɪ nˈeɪm."
         },
         {
-          "text": "Abran los cuadernos, por favor.",
+          "text": "Sigo las instrucciones con cuidado.",
           "segments": [
             {
-              "text": "Abran los cuadernos, por favor.",
+              "text": "Sigo las instrucciones con cuidado.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˈaβɾan los kwaðˈeɾnos, poɾ faβˈoɾ."
+          "phonemes": "sˈiɣo las ˌinstɾuksjˈones kon kwiðˈaðo."
         },
         {
-          "text": "— Open your notebooks, please.",
+          "text": "— I follow the instructions carefully.",
           "segments": [
             {
-              "text": "— Open your notebooks, please.",
+              "text": "— I follow the instructions carefully.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ˈoʊpən jʊɹ nˈoʊtbʊks, plˈiːz."
+          "phonemes": "— aɪ fˈɑːloʊ ðɪ ɪnstɹˈʌkʃənz kˈɛɹfəli."
         },
         {
-          "text": "Las respuestas están en la página diez.",
+          "text": "Ordeno mis libros antes de terminar.",
           "segments": [
             {
-              "text": "Las respuestas están en la página diez.",
+              "text": "Ordeno mis libros antes de terminar.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "las respwˈestas estˈan en la pˈaxina ðjˈes."
+          "phonemes": "oɾðˈeno mis lˈiβɾos ˈantes ðe tˌeɾminˈaɾ."
         },
         {
-          "text": "— The answers are on page ten.",
+          "text": "— I organize my books before finishing.",
           "segments": [
             {
-              "text": "— The answers are on page ten.",
+              "text": "— I organize my books before finishing.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ðɪ ˈænsɚz ɑːɹ ˌɔn pˈeɪdʒ tˈɛn."
+          "phonemes": "— aɪ ˈɔːɹɡənˌaɪz maɪ bˈʊks bᵻfˌɔːɹ fˈɪnɪʃɪŋ."
         }
       ]
     },
@@ -305,129 +305,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "el libro",
+      "text": "inventariar",
       "sentences": [
         {
-          "text": "el libro",
+          "text": "inventariar",
           "segments": [
             {
-              "text": "el libro",
+              "text": "inventariar",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el lˈiβɾo"
+          "phonemes": "ˌimbentaɾjˈaɾ"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "la mesa",
+      "text": "contar",
       "sentences": [
         {
-          "text": "la mesa",
+          "text": "contar",
           "segments": [
             {
-              "text": "la mesa",
+              "text": "contar",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la mˈesa"
+          "phonemes": "kontˈaɾ"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "la silla",
+      "text": "señalar",
       "sentences": [
         {
-          "text": "la silla",
+          "text": "señalar",
           "segments": [
             {
-              "text": "la silla",
+              "text": "señalar",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la sˈijja"
+          "phonemes": "sˌeɲalˈaɾ"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "el cuaderno",
+      "text": "la instrucción",
       "sentences": [
         {
-          "text": "el cuaderno",
+          "text": "la instrucción",
           "segments": [
             {
-              "text": "el cuaderno",
+              "text": "la instrucción",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el kwaðˈeɾno"
+          "phonemes": "la ˌinstɾuksjˈon"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "la pregunta",
+      "text": "seguir",
       "sentences": [
         {
-          "text": "la pregunta",
+          "text": "seguir",
           "segments": [
             {
-              "text": "la pregunta",
+              "text": "seguir",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la pɾeɣˈunta"
+          "phonemes": "seɣˈiɾ"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "la respuesta",
+      "text": "el objeto",
       "sentences": [
         {
-          "text": "la respuesta",
+          "text": "el objeto",
           "segments": [
             {
-              "text": "la respuesta",
+              "text": "el objeto",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la respwˈesta"
+          "phonemes": "el oβxˈeto"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "abrir",
+      "text": "el espacio",
       "sentences": [
         {
-          "text": "abrir",
+          "text": "el espacio",
           "segments": [
             {
-              "text": "abrir",
+              "text": "el espacio",
               "lang": "es-419"
             }
           ],
-          "phonemes": "aβɾˈiɾ"
+          "phonemes": "el espˈasjo"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "cerrar",
+      "text": "ordenar",
       "sentences": [
         {
-          "text": "cerrar",
+          "text": "ordenar",
           "segments": [
             {
-              "text": "cerrar",
+              "text": "ordenar",
               "lang": "es-419"
             }
           ],
-          "phonemes": "serˈaɾ"
+          "phonemes": "ˌoɾðenˈaɾ"
         }
       ]
     }

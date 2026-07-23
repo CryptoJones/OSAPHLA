@@ -143,7 +143,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Lenguaje modelo. I'd like to try the daily special. — Quisiera probar el plato del día. How much is a pound of tomatoes? — ¿Cuánto cuesta una libra de tomates? I'd like soup without meat. — Quisiera una sopa sin carne. The server brings us the check. — La persona que atiende nos trae la cuenta. Excuse me, I ordered water, not soda. — Disculpe, pedí agua, no refresco.",
+      "text": "Lenguaje modelo. I'm going to buy within my budget. — Voy a comprar dentro de mi presupuesto. I order a meal at the restaurant. — Pido una comida en el restaurante. I receive the wrong dish. — Recibo un plato equivocado. I resolve the mistake politely. — Resuelvo el error con cortesía. I ask them to correct my order. — Pido que corrijan mi pedido.",
       "sentences": [
         {
           "text": "Lenguaje modelo.",
@@ -156,104 +156,104 @@
           "phonemes": "leŋɡwˈaxe moðˈelo."
         },
         {
-          "text": "I'd like to try the daily special.",
+          "text": "I'm going to buy within my budget.",
           "segments": [
             {
-              "text": "I'd like to try the daily special.",
+              "text": "I'm going to buy within my budget.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪd lˈaɪk tə tɹˈaɪ ðə dˈeɪli spˈɛʃəl."
+          "phonemes": "aɪm ɡˌoʊɪŋ tə bˈaɪ wɪðˌɪn maɪ bˈʌdʒɪt."
         },
         {
-          "text": "— Quisiera probar el plato del día.",
+          "text": "— Voy a comprar dentro de mi presupuesto.",
           "segments": [
             {
-              "text": "— Quisiera probar el plato del día.",
+              "text": "— Voy a comprar dentro de mi presupuesto.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— kisjˈeɾa pɾoβˈaɾ el plˈato ðel ðˈia."
+          "phonemes": "— bˈoɪ a kompɾˈaɾ ðˈɛntɾo ðe mi pɾˌesupwˈesto."
         },
         {
-          "text": "How much is a pound of tomatoes?",
+          "text": "I order a meal at the restaurant.",
           "segments": [
             {
-              "text": "How much is a pound of tomatoes?",
+              "text": "I order a meal at the restaurant.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "hˌaʊ mˈʌtʃ ɪz ɐ pˈaʊnd ʌv təmˈeɪɾoʊz?"
+          "phonemes": "aɪ ˈɔːɹdɚɹ ɐ mˈiːl æt ðə ɹˈɛstɹɑːnt."
         },
         {
-          "text": "— ¿Cuánto cuesta una libra de tomates?",
+          "text": "— Pido una comida en el restaurante.",
           "segments": [
             {
-              "text": "— ¿Cuánto cuesta una libra de tomates?",
+              "text": "— Pido una comida en el restaurante.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— kwˈanto kwˈesta ˈuna lˈiβɾa ðe tomˈates?"
+          "phonemes": "— pˈiðo ˈuna komˈiða en el rˌestaʊɾˈante."
         },
         {
-          "text": "I'd like soup without meat.",
+          "text": "I receive the wrong dish.",
           "segments": [
             {
-              "text": "I'd like soup without meat.",
+              "text": "I receive the wrong dish.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪd lˈaɪk sˈuːp wɪðˌaʊt mˈiːt."
+          "phonemes": "aɪ ɹᵻsˈiːv ðə ɹˈɔŋ dˈɪʃ."
         },
         {
-          "text": "— Quisiera una sopa sin carne.",
+          "text": "— Recibo un plato equivocado.",
           "segments": [
             {
-              "text": "— Quisiera una sopa sin carne.",
+              "text": "— Recibo un plato equivocado.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— kisjˈeɾa ˈuna sˈopa sin kˈaɾne."
+          "phonemes": "— resˈiβo ˈum plˈato ˌekiβokˈaðo."
         },
         {
-          "text": "The server brings us the check.",
+          "text": "I resolve the mistake politely.",
           "segments": [
             {
-              "text": "The server brings us the check.",
+              "text": "I resolve the mistake politely.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə sˈɜːvɚ bɹˈɪŋz ˌʌs ðə tʃˈɛk."
+          "phonemes": "aɪ ɹᵻzˈɑːlv ðə mɪstˈeɪk pəlˈaɪtli."
         },
         {
-          "text": "— La persona que atiende nos trae la cuenta.",
+          "text": "— Resuelvo el error con cortesía.",
           "segments": [
             {
-              "text": "— La persona que atiende nos trae la cuenta.",
+              "text": "— Resuelvo el error con cortesía.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— la peɾsˈona ke atjˈɛnde nos tɾˈae la kwˈɛnta."
+          "phonemes": "— reswˈelβo el erˈoɾ kon kˌoɾtesˈia."
         },
         {
-          "text": "Excuse me, I ordered water, not soda.",
+          "text": "I ask them to correct my order.",
           "segments": [
             {
-              "text": "Excuse me, I ordered water, not soda.",
+              "text": "I ask them to correct my order.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɛkskjˈuːs mˌiː, aɪ ˈɔːɹdɚd wˈɔːɾɚ, nˌɑːt sˈoʊdə."
+          "phonemes": "aɪ ˈæsk ðˌɛm tə kɚɹˈɛkt maɪ ˈɔːɹdɚ."
         },
         {
-          "text": "— Disculpe, pedí agua, no refresco.",
+          "text": "— Pido que corrijan mi pedido.",
           "segments": [
             {
-              "text": "— Disculpe, pedí agua, no refresco.",
+              "text": "— Pido que corrijan mi pedido.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— diskˈulpe, peðˈi ˈaɣwa, nˈo refɾˈesko."
+          "phonemes": "— pˈiðo ke korˈixan mi peðˈiðo."
         }
       ]
     },
@@ -305,129 +305,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "a market",
+      "text": "a budget",
       "sentences": [
         {
-          "text": "a market",
+          "text": "a budget",
           "segments": [
             {
-              "text": "a market",
+              "text": "a budget",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ mˈɑːɹkɪt"
+          "phonemes": "ɐ bˈʌdʒɪt"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "the check",
+      "text": "to buy",
       "sentences": [
         {
-          "text": "the check",
+          "text": "to buy",
           "segments": [
             {
-              "text": "the check",
+              "text": "to buy",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə tʃˈɛk"
+          "phonemes": "tə bˈaɪ"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "a dish",
+      "text": "to arrange",
       "sentences": [
         {
-          "text": "a dish",
+          "text": "to arrange",
           "segments": [
             {
-              "text": "a dish",
+              "text": "to arrange",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ dˈɪʃ"
+          "phonemes": "tʊ ɚɹˈeɪndʒ"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "a drink",
+      "text": "to resolve",
       "sentences": [
         {
-          "text": "a drink",
+          "text": "to resolve",
           "segments": [
             {
-              "text": "a drink",
+              "text": "to resolve",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ dɹˈɪŋk"
+          "phonemes": "tə ɹᵻzˈɑːlv"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "a pound",
+      "text": "a mistake",
       "sentences": [
         {
-          "text": "a pound",
+          "text": "a mistake",
           "segments": [
             {
-              "text": "a pound",
+              "text": "a mistake",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ pˈaʊnd"
+          "phonemes": "ɐ mɪstˈeɪk"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "without",
+      "text": "polite",
       "sentences": [
         {
-          "text": "without",
+          "text": "polite",
           "segments": [
             {
-              "text": "without",
+              "text": "polite",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wɪðˈaʊt"
+          "phonemes": "pəlˈaɪt"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "I would like",
+      "text": "to return",
       "sentences": [
         {
-          "text": "I would like",
+          "text": "to return",
           "segments": [
             {
-              "text": "I would like",
+              "text": "to return",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪ wʊd lˈaɪk"
+          "phonemes": "tə ɹᵻtˈɜːn"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "to try",
+      "text": "to correct",
       "sentences": [
         {
-          "text": "to try",
+          "text": "to correct",
           "segments": [
             {
-              "text": "to try",
+              "text": "to correct",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə tɹˈaɪ"
+          "phonemes": "tə kɚɹˈɛkt"
         }
       ]
     }

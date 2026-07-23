@@ -143,7 +143,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Model language. El argumento principal se apoya en tres hallazgos. — The main argument is supported by three findings. Cabe destacar que la muestra fue pequeña. — It is worth noting that the sample was small. Aunque la propuesta tiene ventajas, su alcance es limitado. — Although the proposal has advantages, its scope is limited. La consecuencia más probable sería un aumento gradual. — The most likely consequence would be a gradual increase. En conclusión, recomiendo una prueba controlada. — In conclusion, I recommend a controlled trial.",
+      "text": "Model language. Voy a escuchar una exposición de varios párrafos. — I am going to listen to a multi-paragraph briefing. Tomo notas mientras escucho. — I take notes while I listen. Resumo la exposición multipárrafo. — I summarize the multi-paragraph briefing. Defiendo una recomendación bajo cuestionamiento. — I defend a recommendation under questioning. Uso mis notas para responder con seguridad. — I use my notes to answer confidently.",
       "sentences": [
         {
           "text": "Model language.",
@@ -156,104 +156,104 @@
           "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
         },
         {
-          "text": "El argumento principal se apoya en tres hallazgos.",
+          "text": "Voy a escuchar una exposición de varios párrafos.",
           "segments": [
             {
-              "text": "El argumento principal se apoya en tres hallazgos.",
+              "text": "Voy a escuchar una exposición de varios párrafos.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el ˌaɾɣumˈɛnto pɾˌinsipˈal se apˈoʝa en tɾˈes ajjˈasɣos."
+          "phonemes": "bˈoɪ a ˌeskutʃˈaɾ ˈuna ˌeksposisjˈon de βˈaɾjos pˈarafos."
         },
         {
-          "text": "— The main argument is supported by three findings.",
+          "text": "— I am going to listen to a multi-paragraph briefing.",
           "segments": [
             {
-              "text": "— The main argument is supported by three findings.",
+              "text": "— I am going to listen to a multi-paragraph briefing.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ðə mˈeɪn ˈɑːɹɡjuːmənt ɪz səpˈɔːɹɾᵻd baɪ θɹˈiː fˈaɪndɪŋz."
+          "phonemes": "— aɪɐm ɡˌoʊɪŋ tə lˈɪsən tʊ ɐ mˈʌltaɪpˈæɹəɡɹˌæf bɹˈiːfɪŋ."
         },
         {
-          "text": "Cabe destacar que la muestra fue pequeña.",
+          "text": "Tomo notas mientras escucho.",
           "segments": [
             {
-              "text": "Cabe destacar que la muestra fue pequeña.",
+              "text": "Tomo notas mientras escucho.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "kˈaβe ðˌestakˈaɾ ke la mwˈestɾa fwˈe pekˈeɲa."
+          "phonemes": "tˈomo nˈotas mjˌentɾas eskˈutʃo."
         },
         {
-          "text": "— It is worth noting that the sample was small.",
+          "text": "— I take notes while I listen.",
           "segments": [
             {
-              "text": "— It is worth noting that the sample was small.",
+              "text": "— I take notes while I listen.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ɪɾ ɪz wˈɜːθ nˈoʊɾɪŋ ðætðə sˈæmpəl wʌz smˈɔːl."
+          "phonemes": "— aɪ tˈeɪk nˈoʊts wˌaɪl aɪ lˈɪsən."
         },
         {
-          "text": "Aunque la propuesta tiene ventajas, su alcance es limitado.",
+          "text": "Resumo la exposición multipárrafo.",
           "segments": [
             {
-              "text": "Aunque la propuesta tiene ventajas, su alcance es limitado.",
+              "text": "Resumo la exposición multipárrafo.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˌaʊnke la pɾopwˈesta tjˈene βentˈaxas, su alkˈanse ˈes lˌimitˈaðo."
+          "phonemes": "resˈumo la ˌeksposisjˈon mˌultipˈarafo."
         },
         {
-          "text": "— Although the proposal has advantages, its scope is limited.",
+          "text": "— I summarize the multi-paragraph briefing.",
           "segments": [
             {
-              "text": "— Although the proposal has advantages, its scope is limited.",
+              "text": "— I summarize the multi-paragraph briefing.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ɔːlðˈoʊ ðə pɹəpˈoʊzəl hɐz ɐdvˈæntɪdʒᵻz, ɪts skˈoʊp ɪz lˈɪmɪɾᵻd."
+          "phonemes": "— aɪ sˈʌmɚɹˌaɪz ðə mˈʌltaɪpˈæɹəɡɹˌæf bɹˈiːfɪŋ."
         },
         {
-          "text": "La consecuencia más probable sería un aumento gradual.",
+          "text": "Defiendo una recomendación bajo cuestionamiento.",
           "segments": [
             {
-              "text": "La consecuencia más probable sería un aumento gradual.",
+              "text": "Defiendo una recomendación bajo cuestionamiento.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la kˌonsekwˈɛnsja mˈas pɾoβˈaβle seɾˈia ˈun aʊmˈɛnto ɣɾaðwˈal."
+          "phonemes": "defjˈɛndo ˈuna rˌekomˌendasjˈom bˌaxo kwˌestjonamjˈɛnto."
         },
         {
-          "text": "— The most likely consequence would be a gradual increase.",
+          "text": "— I defend a recommendation under questioning.",
           "segments": [
             {
-              "text": "— The most likely consequence would be a gradual increase.",
+              "text": "— I defend a recommendation under questioning.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ðə mˈoʊst lˈaɪkli kˈɑːnsɪkwəns wʊd biː ɐ ɡɹˈædʒuːəl ˈɪŋkɹiːs."
+          "phonemes": "— aɪ dᵻfˈɛnd ɐ ɹˌɛkəmɛndˈeɪʃən ˌʌndɚ kwˈɛstʃənɪŋ."
         },
         {
-          "text": "En conclusión, recomiendo una prueba controlada.",
+          "text": "Uso mis notas para responder con seguridad.",
           "segments": [
             {
-              "text": "En conclusión, recomiendo una prueba controlada.",
+              "text": "Uso mis notas para responder con seguridad.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "en kˌonklusjˈon, rˌekomjˈɛndo ˈuna pɾuˈeβa kˌontɾolˈaða."
+          "phonemes": "ˈuso mis nˈotas pˌaɾa rˌespondˈeɾ kon sˌeɣuɾiðˈad."
         },
         {
-          "text": "— In conclusion, I recommend a controlled trial.",
+          "text": "— I use my notes to answer confidently.",
           "segments": [
             {
-              "text": "— In conclusion, I recommend a controlled trial.",
+              "text": "— I use my notes to answer confidently.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ɪn kəŋklˈuːʒən, aɪ ɹˌɛkəmˈɛnd ɐ kəntɹˈoʊld tɹˈaɪəl."
+          "phonemes": "— aɪ jˈuːz maɪ nˈoʊts tʊ ˈænsɚ kˈɑːnfɪdəntli."
         }
       ]
     },
@@ -305,129 +305,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "el asunto",
+      "text": "escuchar",
       "sentences": [
         {
-          "text": "el asunto",
+          "text": "escuchar",
           "segments": [
             {
-              "text": "el asunto",
+              "text": "escuchar",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el asˈunto"
+          "phonemes": "ˌeskutʃˈaɾ"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "el argumento",
+      "text": "tomar notas",
       "sentences": [
         {
-          "text": "el argumento",
+          "text": "tomar notas",
           "segments": [
             {
-              "text": "el argumento",
+              "text": "tomar notas",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el ˌaɾɣumˈɛnto"
+          "phonemes": "tomˈaɾ nˈotas"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "la postura",
+      "text": "resumir",
       "sentences": [
         {
-          "text": "la postura",
+          "text": "resumir",
           "segments": [
             {
-              "text": "la postura",
+              "text": "resumir",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la postˈuɾa"
+          "phonemes": "rˌesumˈiɾ"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "el hallazgo",
+      "text": "defender",
       "sentences": [
         {
-          "text": "el hallazgo",
+          "text": "defender",
           "segments": [
             {
-              "text": "el hallazgo",
+              "text": "defender",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el ajjˈasɣo"
+          "phonemes": "dˌefendˈeɾ"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "el alcance",
+      "text": "bajo cuestionamiento",
       "sentences": [
         {
-          "text": "el alcance",
+          "text": "bajo cuestionamiento",
           "segments": [
             {
-              "text": "el alcance",
+              "text": "bajo cuestionamiento",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el alkˈanse"
+          "phonemes": "bˌaxo kwˌestjonamjˈɛnto"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "la consecuencia",
+      "text": "la exposición",
       "sentences": [
         {
-          "text": "la consecuencia",
+          "text": "la exposición",
           "segments": [
             {
-              "text": "la consecuencia",
+              "text": "la exposición",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la kˌonsekwˈɛnsja"
+          "phonemes": "la ˌeksposisjˈon"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "cabe destacar",
+      "text": "la nota",
       "sentences": [
         {
-          "text": "cabe destacar",
+          "text": "la nota",
           "segments": [
             {
-              "text": "cabe destacar",
+              "text": "la nota",
               "lang": "es-419"
             }
           ],
-          "phonemes": "kˈaβe ðˌestakˈaɾ"
+          "phonemes": "la nˈota"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "en conclusión",
+      "text": "multipárrafo",
       "sentences": [
         {
-          "text": "en conclusión",
+          "text": "multipárrafo",
           "segments": [
             {
-              "text": "en conclusión",
+              "text": "multipárrafo",
               "lang": "es-419"
             }
           ],
-          "phonemes": "en kˌonklusjˈon"
+          "phonemes": "mˌultipˈarafo"
         }
       ]
     }

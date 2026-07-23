@@ -29,7 +29,7 @@
     },
     {
       "file": "01.wav",
-      "text": "Forma y significado. Past perfect; evidencia reportada; although/even though; causa, consecuencia, concesión y contraargumento.",
+      "text": "Forma y significado. Aplicación de la forma. Usa had + participio para una acción completada antes de otro evento pasado, y although + hecho conocido frente a even if + hipótesis.",
       "sentences": [
         {
           "text": "Forma y significado.",
@@ -42,14 +42,28 @@
           "phonemes": "fˈoɾma i sˌiɡnifikˈaðo."
         },
         {
-          "text": "Past perfect; evidencia reportada; although/even though; causa, consecuencia, concesión y contraargumento.",
+          "text": "Aplicación de la forma.",
           "segments": [
             {
-              "text": "Past perfect",
+              "text": "Aplicación de la forma.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˌaplikasjˈon de la fˈoɾma."
+        },
+        {
+          "text": "Usa had + participio para una acción completada antes de otro evento pasado, y although + hecho conocido frente a even if + hipótesis.",
+          "segments": [
+            {
+              "text": "Usa ",
+              "lang": "es-419"
+            },
+            {
+              "text": "had",
               "lang": "en-us"
             },
             {
-              "text": "; evidencia reportada; ",
+              "text": " + participio para una acción completada antes de otro evento pasado, y ",
               "lang": "es-419"
             },
             {
@@ -57,25 +71,25 @@
               "lang": "en-us"
             },
             {
-              "text": "/",
+              "text": " + hecho conocido frente a even ",
               "lang": "es-419"
             },
             {
-              "text": "even though",
+              "text": "if",
               "lang": "en-us"
             },
             {
-              "text": "; causa, consecuencia, concesión y contraargumento.",
+              "text": " + hipótesis.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "pˈæst pˈɜːfɛkt ; ˌeβiðˈɛnsja rˌepoɾtˈaða; ɔːlðˈoʊ bˈara ˈiːvən ðˌoʊ ; kˈaʊsa, kˌonsekwˈɛnsja, kˌonsesjˈon i kˌontɾaˌaɾɣumˈɛnto."
+          "phonemes": "ˈusa hˌæd mˈas pˌaɾtisˈipjo pˌaɾa ˈuna aksjˈon kˌompletˈaða ˈantes ðe ˈotɾo eβˈɛnto pasˈaðo, i ɔːlðˈoʊ mˈas ˈetʃo kˌonosˈiðo fɾˈɛnte a ˈeβen ɪf mˈas ipˈotesis."
         }
       ]
     },
     {
       "file": "02.wav",
-      "text": "Conjunto de modelos. The source says that the reform expanded rights. Others argue that inequality continued. Many people had already emigrated when the government changed. Although the facts are clear, their meaning is debated. The testimony offers a personal perspective. La fuente dice que la reforma amplió derechos. Otros sostienen que continuó la desigualdad. Muchas personas ya habían emigrado cuando cambió el gobierno. Aunque los hechos están claros, se debate su significado. El testimonio ofrece una perspectiva personal.",
+      "text": "Conjunto de modelos. The change had already occurred before the report. As is claimed, the reform expanded rights. Although there is consensus, the debate continues. Despite there being evidence, some doubt it. The consequence was immediate. El cambio ya había ocurrido antes del informe. Según se afirma, la reforma amplió derechos. Aunque hay consenso, el debate continúa. A pesar de que hay evidencia, algunos dudan. La consecuencia fue inmediata.",
       "sentences": [
         {
           "text": "Conjunto de modelos.",
@@ -88,104 +102,104 @@
           "phonemes": "koŋxˈunto ðe moðˈelos."
         },
         {
-          "text": "The source says that the reform expanded rights.",
+          "text": "The change had already occurred before the report.",
           "segments": [
             {
-              "text": "The source says that the reform expanded rights.",
+              "text": "The change had already occurred before the report.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə sˈɔːɹs sˈɛz ðætðə ɹᵻfˈɔːɹm ɛkspˈændᵻd ɹˈaɪts."
+          "phonemes": "ðə tʃˈeɪndʒ hæd ɔːlɹˌɛdi əkˈɜːd bᵻfˌɔːɹ ðə ɹᵻpˈɔːɹt."
         },
         {
-          "text": "Others argue that inequality continued.",
+          "text": "As is claimed, the reform expanded rights.",
           "segments": [
             {
-              "text": "Others argue that inequality continued.",
+              "text": "As is claimed, the reform expanded rights.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ˈʌðɚz ˈɑːɹɡjuː ðæt ɪniːkwˈɔlᵻɾi kəntˈɪnjuːd."
+          "phonemes": "ˌæzˌɪz klˈeɪmd, ðə ɹᵻfˈɔːɹm ɛkspˈændᵻd ɹˈaɪts."
         },
         {
-          "text": "Many people had already emigrated when the government changed.",
+          "text": "Although there is consensus, the debate continues.",
           "segments": [
             {
-              "text": "Many people had already emigrated when the government changed.",
+              "text": "Although there is consensus, the debate continues.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "mˈɛni pˈiːpəl hæd ɔːlɹˌɛdi ˈɛmɪɡɹˌeɪɾᵻd wɛn ðə ɡˈʌvɚnmənt tʃˈeɪndʒd."
+          "phonemes": "ɔːlðˈoʊ ðɛɹ ɪz kənsˈɛnsəs, ðə dᵻbˈeɪt kəntˈɪnjuːz."
         },
         {
-          "text": "Although the facts are clear, their meaning is debated.",
+          "text": "Despite there being evidence, some doubt it.",
           "segments": [
             {
-              "text": "Although the facts are clear, their meaning is debated.",
+              "text": "Despite there being evidence, some doubt it.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɔːlðˈoʊ ðə fˈækts ɑːɹ klˈɪɹ, ðɛɹ mˈiːnɪŋ ɪz dᵻbˈeɪɾᵻd."
+          "phonemes": "dᵻspˈaɪt ðɛɹ bˌiːɪŋ ˈɛvɪdəns, sˌʌm dˈaʊt ɪt."
         },
         {
-          "text": "The testimony offers a personal perspective.",
+          "text": "The consequence was immediate.",
           "segments": [
             {
-              "text": "The testimony offers a personal perspective.",
+              "text": "The consequence was immediate.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə tˈɛstᵻməni ˈɔfɚz ɐ pˈɜːsənəl pɚspˈɛktɪv."
+          "phonemes": "ðə kˈɑːnsɪkwəns wʌz ɪmˈiːdɪət."
         },
         {
-          "text": "La fuente dice que la reforma amplió derechos.",
+          "text": "El cambio ya había ocurrido antes del informe.",
           "segments": [
             {
-              "text": "La fuente dice que la reforma amplió derechos.",
+              "text": "El cambio ya había ocurrido antes del informe.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la fwˈɛnte ðˈise ke la refˈoɾma ˌampliˈo ðeɾˈetʃos."
+          "phonemes": "el kˈambjo ʝˈa aβˈia ˌokurˈiðo ˈantes ðel infˈoɾme."
         },
         {
-          "text": "Otros sostienen que continuó la desigualdad.",
+          "text": "Según se afirma, la reforma amplió derechos.",
           "segments": [
             {
-              "text": "Otros sostienen que continuó la desigualdad.",
+              "text": "Según se afirma, la reforma amplió derechos.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˈotɾos sostjˈenen ke kˌontinwˈo la ðˌesiɣwalðˈad."
+          "phonemes": "seɣˈun se afˈiɾma, la refˈoɾma ˌampliˈo ðeɾˈetʃos."
         },
         {
-          "text": "Muchas personas ya habían emigrado cuando cambió el gobierno.",
+          "text": "Aunque hay consenso, el debate continúa.",
           "segments": [
             {
-              "text": "Muchas personas ya habían emigrado cuando cambió el gobierno.",
+              "text": "Aunque hay consenso, el debate continúa.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "mˈutʃas peɾsˈonas ʝˈa aβˈian ˌemiɣɾˈaðo kwˌando kambjˈo el ɣoβjˈeɾno."
+          "phonemes": "ˌaʊnke ˈaɪ konsˈɛnso, el ðeβˈate kˌontinˈua."
         },
         {
-          "text": "Aunque los hechos están claros, se debate su significado.",
+          "text": "A pesar de que hay evidencia, algunos dudan.",
           "segments": [
             {
-              "text": "Aunque los hechos están claros, se debate su significado.",
+              "text": "A pesar de que hay evidencia, algunos dudan.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˌaʊnke los ˈetʃos estˈan klˈaɾos, se ðeβˈate su sˌiɡnifikˈaðo."
+          "phonemes": "a pesˈaɾ ðe ke ˈaɪ ˌeβiðˈɛnsja, alɣˈunos ðˈuðan."
         },
         {
-          "text": "El testimonio ofrece una perspectiva personal.",
+          "text": "La consecuencia fue inmediata.",
           "segments": [
             {
-              "text": "El testimonio ofrece una perspectiva personal.",
+              "text": "La consecuencia fue inmediata.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el tˌestimˈonjo ofɾˈese ˈuna pˌeɾspektˈiβa pˌeɾsonˈal."
+          "phonemes": "la kˌonsekwˈɛnsja fwˈe ˌinmeðjˈata."
         }
       ]
     },
@@ -253,7 +267,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Lenguaje modelo. The source says that the reform expanded rights. — La fuente dice que la reforma amplió derechos. Others argue that inequality continued. — Otros sostienen que continuó la desigualdad. Many people had already emigrated when the government changed. — Muchas personas ya habían emigrado cuando cambió el gobierno. Although the facts are clear, their meaning is debated. — Aunque los hechos están claros, se debate su significado. The testimony offers a personal perspective. — El testimonio ofrece una perspectiva personal.",
+      "text": "Lenguaje modelo. The change had already occurred before the report. — El cambio ya había ocurrido antes del informe. As is claimed, the reform expanded rights. — Según se afirma, la reforma amplió derechos. Although there is consensus, the debate continues. — Aunque hay consenso, el debate continúa. Despite there being evidence, some doubt it. — A pesar de que hay evidencia, algunos dudan. The consequence was immediate. — La consecuencia fue inmediata.",
       "sentences": [
         {
           "text": "Lenguaje modelo.",
@@ -266,104 +280,104 @@
           "phonemes": "leŋɡwˈaxe moðˈelo."
         },
         {
-          "text": "The source says that the reform expanded rights.",
+          "text": "The change had already occurred before the report.",
           "segments": [
             {
-              "text": "The source says that the reform expanded rights.",
+              "text": "The change had already occurred before the report.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə sˈɔːɹs sˈɛz ðætðə ɹᵻfˈɔːɹm ɛkspˈændᵻd ɹˈaɪts."
+          "phonemes": "ðə tʃˈeɪndʒ hæd ɔːlɹˌɛdi əkˈɜːd bᵻfˌɔːɹ ðə ɹᵻpˈɔːɹt."
         },
         {
-          "text": "— La fuente dice que la reforma amplió derechos.",
+          "text": "— El cambio ya había ocurrido antes del informe.",
           "segments": [
             {
-              "text": "— La fuente dice que la reforma amplió derechos.",
+              "text": "— El cambio ya había ocurrido antes del informe.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— la fwˈɛnte ðˈise ke la refˈoɾma ˌampliˈo ðeɾˈetʃos."
+          "phonemes": "— el kˈambjo ʝˈa aβˈia ˌokurˈiðo ˈantes ðel infˈoɾme."
         },
         {
-          "text": "Others argue that inequality continued.",
+          "text": "As is claimed, the reform expanded rights.",
           "segments": [
             {
-              "text": "Others argue that inequality continued.",
+              "text": "As is claimed, the reform expanded rights.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ˈʌðɚz ˈɑːɹɡjuː ðæt ɪniːkwˈɔlᵻɾi kəntˈɪnjuːd."
+          "phonemes": "ˌæzˌɪz klˈeɪmd, ðə ɹᵻfˈɔːɹm ɛkspˈændᵻd ɹˈaɪts."
         },
         {
-          "text": "— Otros sostienen que continuó la desigualdad.",
+          "text": "— Según se afirma, la reforma amplió derechos.",
           "segments": [
             {
-              "text": "— Otros sostienen que continuó la desigualdad.",
+              "text": "— Según se afirma, la reforma amplió derechos.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— ˈotɾos sostjˈenen ke kˌontinwˈo la ðˌesiɣwalðˈad."
+          "phonemes": "— seɣˈun se afˈiɾma, la refˈoɾma ˌampliˈo ðeɾˈetʃos."
         },
         {
-          "text": "Many people had already emigrated when the government changed.",
+          "text": "Although there is consensus, the debate continues.",
           "segments": [
             {
-              "text": "Many people had already emigrated when the government changed.",
+              "text": "Although there is consensus, the debate continues.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "mˈɛni pˈiːpəl hæd ɔːlɹˌɛdi ˈɛmɪɡɹˌeɪɾᵻd wɛn ðə ɡˈʌvɚnmənt tʃˈeɪndʒd."
+          "phonemes": "ɔːlðˈoʊ ðɛɹ ɪz kənsˈɛnsəs, ðə dᵻbˈeɪt kəntˈɪnjuːz."
         },
         {
-          "text": "— Muchas personas ya habían emigrado cuando cambió el gobierno.",
+          "text": "— Aunque hay consenso, el debate continúa.",
           "segments": [
             {
-              "text": "— Muchas personas ya habían emigrado cuando cambió el gobierno.",
+              "text": "— Aunque hay consenso, el debate continúa.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— mˈutʃas peɾsˈonas ʝˈa aβˈian ˌemiɣɾˈaðo kwˌando kambjˈo el ɣoβjˈeɾno."
+          "phonemes": "— ˌaʊnke ˈaɪ konsˈɛnso, el ðeβˈate kˌontinˈua."
         },
         {
-          "text": "Although the facts are clear, their meaning is debated.",
+          "text": "Despite there being evidence, some doubt it.",
           "segments": [
             {
-              "text": "Although the facts are clear, their meaning is debated.",
+              "text": "Despite there being evidence, some doubt it.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɔːlðˈoʊ ðə fˈækts ɑːɹ klˈɪɹ, ðɛɹ mˈiːnɪŋ ɪz dᵻbˈeɪɾᵻd."
+          "phonemes": "dᵻspˈaɪt ðɛɹ bˌiːɪŋ ˈɛvɪdəns, sˌʌm dˈaʊt ɪt."
         },
         {
-          "text": "— Aunque los hechos están claros, se debate su significado.",
+          "text": "— A pesar de que hay evidencia, algunos dudan.",
           "segments": [
             {
-              "text": "— Aunque los hechos están claros, se debate su significado.",
+              "text": "— A pesar de que hay evidencia, algunos dudan.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— ˌaʊnke los ˈetʃos estˈan klˈaɾos, se ðeβˈate su sˌiɡnifikˈaðo."
+          "phonemes": "— a pesˈaɾ ðe ke ˈaɪ ˌeβiðˈɛnsja, alɣˈunos ðˈuðan."
         },
         {
-          "text": "The testimony offers a personal perspective.",
+          "text": "The consequence was immediate.",
           "segments": [
             {
-              "text": "The testimony offers a personal perspective.",
+              "text": "The consequence was immediate.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə tˈɛstᵻməni ˈɔfɚz ɐ pˈɜːsənəl pɚspˈɛktɪv."
+          "phonemes": "ðə kˈɑːnsɪkwəns wʌz ɪmˈiːdɪət."
         },
         {
-          "text": "— El testimonio ofrece una perspectiva personal.",
+          "text": "— La consecuencia fue inmediata.",
           "segments": [
             {
-              "text": "— El testimonio ofrece una perspectiva personal.",
+              "text": "— La consecuencia fue inmediata.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— el tˌestimˈonjo ofɾˈese ˈuna pˌeɾspektˈiβa pˌeɾsonˈal."
+          "phonemes": "— la kˌonsekwˈɛnsja fwˈe ˌinmeðjˈata."
         }
       ]
     },
@@ -415,129 +429,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "a source",
+      "text": "had occurred",
       "sentences": [
         {
-          "text": "a source",
+          "text": "had occurred",
           "segments": [
             {
-              "text": "a source",
+              "text": "had occurred",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ sˈɔːɹs"
+          "phonemes": "hæd əkˈɜːd"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "evidence",
+      "text": "had changed",
       "sentences": [
         {
-          "text": "evidence",
+          "text": "had changed",
           "segments": [
             {
-              "text": "evidence",
+              "text": "had changed",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ˈɛvɪdəns"
+          "phonemes": "hæd tʃˈeɪndʒd"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "a claim",
+      "text": "as is claimed",
       "sentences": [
         {
-          "text": "a claim",
+          "text": "as is claimed",
           "segments": [
             {
-              "text": "a claim",
+              "text": "as is claimed",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ klˈeɪm"
+          "phonemes": "ˌæzˌɪz klˈeɪmd"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "a perspective",
+      "text": "although (known fact)",
       "sentences": [
         {
-          "text": "a perspective",
+          "text": "although (known fact)",
           "segments": [
             {
-              "text": "a perspective",
+              "text": "although (known fact)",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ pɚspˈɛktɪv"
+          "phonemes": "ɔːlðˈoʊ (nˈoʊn fˈækt)"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "although",
+      "text": "despite the fact that",
       "sentences": [
         {
-          "text": "although",
+          "text": "despite the fact that",
           "segments": [
             {
-              "text": "although",
+              "text": "despite the fact that",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɔːlðˈoʊ"
+          "phonemes": "dᵻspˈaɪt ðə fˈækt ðˈæt"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "therefore",
+      "text": "a fait accompli",
       "sentences": [
         {
-          "text": "therefore",
+          "text": "a fait accompli",
           "segments": [
             {
-              "text": "therefore",
+              "text": "a fait accompli",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðˈɛɹfɔːɹ"
+          "phonemes": "ɐ fˈeɪt ɐkɑːmplˈiː"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "to argue",
+      "text": "a concession",
       "sentences": [
         {
-          "text": "to argue",
+          "text": "a concession",
           "segments": [
             {
-              "text": "to argue",
+              "text": "a concession",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tʊ ˈɑːɹɡjuː"
+          "phonemes": "ɐ kənsˈɛʃən"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "to interpret",
+      "text": "a consequence",
       "sentences": [
         {
-          "text": "to interpret",
+          "text": "a consequence",
           "segments": [
             {
-              "text": "to interpret",
+              "text": "a consequence",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tʊ ɪntˈɜːpɹɪt"
+          "phonemes": "ɐ kˈɑːnsɪkwəns"
         }
       ]
     }

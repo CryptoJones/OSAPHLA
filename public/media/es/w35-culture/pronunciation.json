@@ -163,7 +163,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Model language. El argumento principal se apoya en tres hallazgos. — The main argument is supported by three findings. Cabe destacar que la muestra fue pequeña. — It is worth noting that the sample was small. Aunque la propuesta tiene ventajas, su alcance es limitado. — Although the proposal has advantages, its scope is limited. La consecuencia más probable sería un aumento gradual. — The most likely consequence would be a gradual increase. En conclusión, recomiendo una prueba controlada. — In conclusion, I recommend a controlled trial.",
+      "text": "Model language. Los temas profesionales incluyen sociedad y economía. — Professional topics include society and economy. También incluyen medio ambiente y política pública. — They also include environment and public policy. La ciencia y la seguridad son temas comunes. — Science and security are common topics. Se puede hablar de esto sin necesitar jerga especializada. — You can discuss this without needing specialized jargon. Cada tema se puede abordar con claridad. — Each topic can be addressed clearly.",
       "sentences": [
         {
           "text": "Model language.",
@@ -176,104 +176,104 @@
           "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
         },
         {
-          "text": "El argumento principal se apoya en tres hallazgos.",
+          "text": "Los temas profesionales incluyen sociedad y economía.",
           "segments": [
             {
-              "text": "El argumento principal se apoya en tres hallazgos.",
+              "text": "Los temas profesionales incluyen sociedad y economía.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el ˌaɾɣumˈɛnto pɾˌinsipˈal se apˈoʝa en tɾˈes ajjˈasɣos."
+          "phonemes": "los tˈemas pɾˌofesjonˈales inklˈuʝen sˌosjeðˈað i ˌekonomˈia."
         },
         {
-          "text": "— The main argument is supported by three findings.",
+          "text": "— Professional topics include society and economy.",
           "segments": [
             {
-              "text": "— The main argument is supported by three findings.",
+              "text": "— Professional topics include society and economy.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ðə mˈeɪn ˈɑːɹɡjuːmənt ɪz səpˈɔːɹɾᵻd baɪ θɹˈiː fˈaɪndɪŋz."
+          "phonemes": "— pɹəfˈɛʃənəl tˈɑːpɪks ɪŋklˈuːd səsˈaɪəɾi ænd ɪkˈɑːnəmi."
         },
         {
-          "text": "Cabe destacar que la muestra fue pequeña.",
+          "text": "También incluyen medio ambiente y política pública.",
           "segments": [
             {
-              "text": "Cabe destacar que la muestra fue pequeña.",
+              "text": "También incluyen medio ambiente y política pública.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "kˈaβe ðˌestakˈaɾ ke la mwˈestɾa fwˈe pekˈeɲa."
+          "phonemes": "tambjˈen inklˈuʝen mˈeðjo ambjˈɛnte i polˈitika pˈuβlika."
         },
         {
-          "text": "— It is worth noting that the sample was small.",
+          "text": "— They also include environment and public policy.",
           "segments": [
             {
-              "text": "— It is worth noting that the sample was small.",
+              "text": "— They also include environment and public policy.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ɪɾ ɪz wˈɜːθ nˈoʊɾɪŋ ðætðə sˈæmpəl wʌz smˈɔːl."
+          "phonemes": "— ðeɪ ˈɔːlsoʊ ɪŋklˈuːd ɛnvˈaɪɹənmənt ænd pˈʌblɪk pˈɑːlɪsi."
         },
         {
-          "text": "Aunque la propuesta tiene ventajas, su alcance es limitado.",
+          "text": "La ciencia y la seguridad son temas comunes.",
           "segments": [
             {
-              "text": "Aunque la propuesta tiene ventajas, su alcance es limitado.",
+              "text": "La ciencia y la seguridad son temas comunes.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˌaʊnke la pɾopwˈesta tjˈene βentˈaxas, su alkˈanse ˈes lˌimitˈaðo."
+          "phonemes": "la sjˈɛnsja i la sˌeɣuɾiðˈad sˈon tˈemas komˈunes."
         },
         {
-          "text": "— Although the proposal has advantages, its scope is limited.",
+          "text": "— Science and security are common topics.",
           "segments": [
             {
-              "text": "— Although the proposal has advantages, its scope is limited.",
+              "text": "— Science and security are common topics.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ɔːlðˈoʊ ðə pɹəpˈoʊzəl hɐz ɐdvˈæntɪdʒᵻz, ɪts skˈoʊp ɪz lˈɪmɪɾᵻd."
+          "phonemes": "— sˈaɪəns ænd sᵻkjˈʊɹɹᵻɾi ɑːɹ kˈɑːmən tˈɑːpɪks."
         },
         {
-          "text": "La consecuencia más probable sería un aumento gradual.",
+          "text": "Se puede hablar de esto sin necesitar jerga especializada.",
           "segments": [
             {
-              "text": "La consecuencia más probable sería un aumento gradual.",
+              "text": "Se puede hablar de esto sin necesitar jerga especializada.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la kˌonsekwˈɛnsja mˈas pɾoβˈaβle seɾˈia ˈun aʊmˈɛnto ɣɾaðwˈal."
+          "phonemes": "se pwˈeðe aβlˈaɾ ðe ˈesto sin nˌesesitˈaɾ xˈeɾɣa ˌespesjˌalisˈaða."
         },
         {
-          "text": "— The most likely consequence would be a gradual increase.",
+          "text": "— You can discuss this without needing specialized jargon.",
           "segments": [
             {
-              "text": "— The most likely consequence would be a gradual increase.",
+              "text": "— You can discuss this without needing specialized jargon.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ðə mˈoʊst lˈaɪkli kˈɑːnsɪkwəns wʊd biː ɐ ɡɹˈædʒuːəl ˈɪŋkɹiːs."
+          "phonemes": "— juː kæn dɪskˈʌs ðɪs wɪðˌaʊt nˈiːdɪŋ spˈɛʃəlˌaɪzd dʒˈɑːɹɡən."
         },
         {
-          "text": "En conclusión, recomiendo una prueba controlada.",
+          "text": "Cada tema se puede abordar con claridad.",
           "segments": [
             {
-              "text": "En conclusión, recomiendo una prueba controlada.",
+              "text": "Cada tema se puede abordar con claridad.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "en kˌonklusjˈon, rˌekomjˈɛndo ˈuna pɾuˈeβa kˌontɾolˈaða."
+          "phonemes": "kˈaða tˈema se pwˈeðe ˌaβoɾðˈaɾ kon klˌaɾiðˈad."
         },
         {
-          "text": "— In conclusion, I recommend a controlled trial.",
+          "text": "— Each topic can be addressed clearly.",
           "segments": [
             {
-              "text": "— In conclusion, I recommend a controlled trial.",
+              "text": "— Each topic can be addressed clearly.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ɪn kəŋklˈuːʒən, aɪ ɹˌɛkəmˈɛnd ɐ kəntɹˈoʊld tɹˈaɪəl."
+          "phonemes": "— ˈiːtʃ tˈɑːpɪk kæn biː ɐdɹˈɛst klˈɪɹli."
         }
       ]
     },
@@ -325,129 +325,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "el asunto",
+      "text": "la sociedad",
       "sentences": [
         {
-          "text": "el asunto",
+          "text": "la sociedad",
           "segments": [
             {
-              "text": "el asunto",
+              "text": "la sociedad",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el asˈunto"
+          "phonemes": "la sˌosjeðˈad"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "el argumento",
+      "text": "la economía",
       "sentences": [
         {
-          "text": "el argumento",
+          "text": "la economía",
           "segments": [
             {
-              "text": "el argumento",
+              "text": "la economía",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el ˌaɾɣumˈɛnto"
+          "phonemes": "la ˌekonomˈia"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "la postura",
+      "text": "el medio ambiente",
       "sentences": [
         {
-          "text": "la postura",
+          "text": "el medio ambiente",
           "segments": [
             {
-              "text": "la postura",
+              "text": "el medio ambiente",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la postˈuɾa"
+          "phonemes": "el mˈeðjo ambjˈɛnte"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "el hallazgo",
+      "text": "la política pública",
       "sentences": [
         {
-          "text": "el hallazgo",
+          "text": "la política pública",
           "segments": [
             {
-              "text": "el hallazgo",
+              "text": "la política pública",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el ajjˈasɣo"
+          "phonemes": "la polˈitika pˈuβlika"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "el alcance",
+      "text": "la ciencia",
       "sentences": [
         {
-          "text": "el alcance",
+          "text": "la ciencia",
           "segments": [
             {
-              "text": "el alcance",
+              "text": "la ciencia",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el alkˈanse"
+          "phonemes": "la sjˈɛnsja"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "la consecuencia",
+      "text": "la seguridad",
       "sentences": [
         {
-          "text": "la consecuencia",
+          "text": "la seguridad",
           "segments": [
             {
-              "text": "la consecuencia",
+              "text": "la seguridad",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la kˌonsekwˈɛnsja"
+          "phonemes": "la sˌeɣuɾiðˈad"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "cabe destacar",
+      "text": "sin necesitar jerga",
       "sentences": [
         {
-          "text": "cabe destacar",
+          "text": "sin necesitar jerga",
           "segments": [
             {
-              "text": "cabe destacar",
+              "text": "sin necesitar jerga",
               "lang": "es-419"
             }
           ],
-          "phonemes": "kˈaβe ðˌestakˈaɾ"
+          "phonemes": "sin nˌesesitˈaɾ xˈeɾɣa"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "en conclusión",
+      "text": "abordar",
       "sentences": [
         {
-          "text": "en conclusión",
+          "text": "abordar",
           "segments": [
             {
-              "text": "en conclusión",
+              "text": "abordar",
               "lang": "es-419"
             }
           ],
-          "phonemes": "en kˌonklusjˈon"
+          "phonemes": "ˌaβoɾðˈaɾ"
         }
       ]
     }

@@ -163,7 +163,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Model language. Me duele mucho la cabeza. — My head hurts a lot. Tengo fiebre desde ayer. — I have had a fever since yesterday. ¿Es alérgico a algún medicamento? — Are you allergic to any medication? Llame a una ambulancia. — Call an ambulance. Se cayó y se lastimó el brazo. — He or she fell and hurt an arm.",
+      "text": "Model language. Durante una caminata, Luis se cae. — During a hike, Luis falls. Se lastima el brazo. — He hurts his arm. Su amiga llama a emergencias. — His friend calls emergency services. Describe el lugar con claridad. — She describes the location clearly. Explica que él está consciente. — She explains that he is conscious.",
       "sentences": [
         {
           "text": "Model language.",
@@ -176,104 +176,104 @@
           "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
         },
         {
-          "text": "Me duele mucho la cabeza.",
+          "text": "Durante una caminata, Luis se cae.",
           "segments": [
             {
-              "text": "Me duele mucho la cabeza.",
+              "text": "Durante una caminata, Luis se cae.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "me dwˈele mˈutʃo la kaβˈesa."
+          "phonemes": "duɾˈante ˈuna kˌaminˈata, luˈis se kˈae."
         },
         {
-          "text": "— My head hurts a lot.",
+          "text": "— During a hike, Luis falls.",
           "segments": [
             {
-              "text": "— My head hurts a lot.",
+              "text": "— During a hike, Luis falls.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— maɪ hˈɛd hˈɜːts ɐ lˈɑːt."
+          "phonemes": "— dˈʊɹɹɪŋ ɐ hˈaɪk, lˈuːɪs fˈɔːlz."
         },
         {
-          "text": "Tengo fiebre desde ayer.",
+          "text": "Se lastima el brazo.",
           "segments": [
             {
-              "text": "Tengo fiebre desde ayer.",
+              "text": "Se lastima el brazo.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "tˈɛŋɡo fjˈeβɾe ðˌesðe aʝˈeɾ."
+          "phonemes": "se lastˈima el βɾˈaso."
         },
         {
-          "text": "— I have had a fever since yesterday.",
+          "text": "— He hurts his arm.",
           "segments": [
             {
-              "text": "— I have had a fever since yesterday.",
+              "text": "— He hurts his arm.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— aɪ hæv hæd ɐ fˈiːvɚ sˈɪns jˈɛstɚdˌeɪ."
+          "phonemes": "— hiː hˈɜːts hɪz ˈɑːɹm."
         },
         {
-          "text": "¿Es alérgico a algún medicamento?",
+          "text": "Su amiga llama a emergencias.",
           "segments": [
             {
-              "text": "¿Es alérgico a algún medicamento?",
+              "text": "Su amiga llama a emergencias.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˈes alˈeɾxiko a alɣˈun mˌeðikamˈɛnto?"
+          "phonemes": "su amˈiɣa ʝˈama a ˌemeɾxˈɛnsjas."
         },
         {
-          "text": "— Are you allergic to any medication?",
+          "text": "— His friend calls emergency services.",
           "segments": [
             {
-              "text": "— Are you allergic to any medication?",
+              "text": "— His friend calls emergency services.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ɑːɹ juː ɐlˈɜːdʒɪk tʊ ˌɛni mˌɛdɪkˈeɪʃən?"
+          "phonemes": "— hɪz fɹˈɛnd kˈɔːlz ɪmˈɜːdʒənsi sˈɜːvɪsᵻz."
         },
         {
-          "text": "Llame a una ambulancia.",
+          "text": "Describe el lugar con claridad.",
           "segments": [
             {
-              "text": "Llame a una ambulancia.",
+              "text": "Describe el lugar con claridad.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ʝˈame a ˈuna ˌambulˈansja."
+          "phonemes": "deskɾˈiβe el luɣˈaɾ kon klˌaɾiðˈad."
         },
         {
-          "text": "— Call an ambulance.",
+          "text": "— She describes the location clearly.",
           "segments": [
             {
-              "text": "— Call an ambulance.",
+              "text": "— She describes the location clearly.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— kˈɔːl ɐn ˈæmbjʊləns."
+          "phonemes": "— ʃiː dᵻskɹˈaɪbz ðə loʊkˈeɪʃən klˈɪɹli."
         },
         {
-          "text": "Se cayó y se lastimó el brazo.",
+          "text": "Explica que él está consciente.",
           "segments": [
             {
-              "text": "Se cayó y se lastimó el brazo.",
+              "text": "Explica que él está consciente.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "se kaʝˈo i se lˌastimˈo el βɾˈaso."
+          "phonemes": "eksplˈika ke ˈel estˈa konsjˈɛnte."
         },
         {
-          "text": "— He or she fell and hurt an arm.",
+          "text": "— She explains that he is conscious.",
           "segments": [
             {
-              "text": "— He or she fell and hurt an arm.",
+              "text": "— She explains that he is conscious.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— hiː ɔːɹ ʃiː fˈɛl ænd hˈɜːt ɐn ˈɑːɹm."
+          "phonemes": "— ʃiː ɛksplˈeɪnz ðæt hiː ɪz kˈɑːnʃəs."
         }
       ]
     },
@@ -325,129 +325,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "la salud",
+      "text": "la caminata",
       "sentences": [
         {
-          "text": "la salud",
+          "text": "la caminata",
           "segments": [
             {
-              "text": "la salud",
+              "text": "la caminata",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la salˈud"
+          "phonemes": "la kˌaminˈata"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "el dolor",
+      "text": "caerse",
       "sentences": [
         {
-          "text": "el dolor",
+          "text": "caerse",
           "segments": [
             {
-              "text": "el dolor",
+              "text": "caerse",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el ðolˈoɾ"
+          "phonemes": "kaˈeɾse"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "la cabeza",
+      "text": "lastimarse",
       "sentences": [
         {
-          "text": "la cabeza",
+          "text": "lastimarse",
           "segments": [
             {
-              "text": "la cabeza",
+              "text": "lastimarse",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la kaβˈesa"
+          "phonemes": "lˌastimˈaɾse"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "el brazo",
+      "text": "consciente",
       "sentences": [
         {
-          "text": "el brazo",
+          "text": "consciente",
           "segments": [
             {
-              "text": "el brazo",
+              "text": "consciente",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el βɾˈaso"
+          "phonemes": "konsjˈɛnte"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "la fiebre",
+      "text": "describir",
       "sentences": [
         {
-          "text": "la fiebre",
+          "text": "describir",
           "segments": [
             {
-              "text": "la fiebre",
+              "text": "describir",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la fjˈeβɾe"
+          "phonemes": "dˌeskɾiβˈiɾ"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "la farmacia",
+      "text": "el lugar",
       "sentences": [
         {
-          "text": "la farmacia",
+          "text": "el lugar",
           "segments": [
             {
-              "text": "la farmacia",
+              "text": "el lugar",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la faɾmˈasja"
+          "phonemes": "el luɣˈaɾ"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "la emergencia",
+      "text": "explicar",
       "sentences": [
         {
-          "text": "la emergencia",
+          "text": "explicar",
           "segments": [
             {
-              "text": "la emergencia",
+              "text": "explicar",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la ˌemeɾxˈɛnsja"
+          "phonemes": "ˌeksplikˈaɾ"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "ayuda",
+      "text": "mucho",
       "sentences": [
         {
-          "text": "ayuda",
+          "text": "mucho",
           "segments": [
             {
-              "text": "ayuda",
+              "text": "mucho",
               "lang": "es-419"
             }
           ],
-          "phonemes": "aʝˈuða"
+          "phonemes": "mˈutʃo"
         }
       ]
     }

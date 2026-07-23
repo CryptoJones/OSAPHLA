@@ -163,7 +163,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Model language. La fuente afirma que la reforma amplió derechos. — The source states that the reform expanded rights. Otros sostienen que la desigualdad continuó. — Others maintain that inequality continued. Cuando cambió el gobierno, muchas personas ya habían emigrado. — When the government changed, many people had already emigrated. Aunque existe consenso sobre los hechos, su significado se debate. — Although there is consensus about the facts, their meaning is debated. El testimonio aporta una perspectiva personal. — The testimony provides a personal perspective.",
+      "text": "Model language. La colonización requiere un marco específico. — Colonization requires specific framing. Lo mismo ocurre con la independencia. — The same is true of independence. La dictadura y la democracia se viven distinto según el país. — Dictatorship and democracy are experienced differently by country. La identidad no se puede generalizar. — Identity cannot be generalized. Cada país concreto tiene su propia historia. — Each specific country has its own history.",
       "sentences": [
         {
           "text": "Model language.",
@@ -176,104 +176,104 @@
           "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
         },
         {
-          "text": "La fuente afirma que la reforma amplió derechos.",
+          "text": "La colonización requiere un marco específico.",
           "segments": [
             {
-              "text": "La fuente afirma que la reforma amplió derechos.",
+              "text": "La colonización requiere un marco específico.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la fwˈɛnte afˈiɾma ke la refˈoɾma ˌampliˈo ðeɾˈetʃos."
+          "phonemes": "la kˌolonˌisasjˈon rekjˈeɾe ˈun mˈaɾko ˌespesˈifiko."
         },
         {
-          "text": "— The source states that the reform expanded rights.",
+          "text": "— Colonization requires specific framing.",
           "segments": [
             {
-              "text": "— The source states that the reform expanded rights.",
+              "text": "— Colonization requires specific framing.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ðə sˈɔːɹs stˈeɪts ðætðə ɹᵻfˈɔːɹm ɛkspˈændᵻd ɹˈaɪts."
+          "phonemes": "— kˌɑːlənᵻzˈeɪʃən ɹᵻkwˈaɪɚz spəsˈɪfɪk fɹˈeɪmɪŋ."
         },
         {
-          "text": "Otros sostienen que la desigualdad continuó.",
+          "text": "Lo mismo ocurre con la independencia.",
           "segments": [
             {
-              "text": "Otros sostienen que la desigualdad continuó.",
+              "text": "Lo mismo ocurre con la independencia.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˈotɾos sostjˈenen ke la ðˌesiɣwalðˈad kˌontinwˈo."
+          "phonemes": "lo mˈismo okˈure kon la ˌindependˈɛnsja."
         },
         {
-          "text": "— Others maintain that inequality continued.",
+          "text": "— The same is true of independence.",
           "segments": [
             {
-              "text": "— Others maintain that inequality continued.",
+              "text": "— The same is true of independence.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ˈʌðɚz meɪntˈeɪn ðæt ɪniːkwˈɔlᵻɾi kəntˈɪnjuːd."
+          "phonemes": "— ðə sˈeɪm ɪz tɹˈuː ʌv ˌɪndᵻpˈɛndəns."
         },
         {
-          "text": "Cuando cambió el gobierno, muchas personas ya habían emigrado.",
+          "text": "La dictadura y la democracia se viven distinto según el país.",
           "segments": [
             {
-              "text": "Cuando cambió el gobierno, muchas personas ya habían emigrado.",
+              "text": "La dictadura y la democracia se viven distinto según el país.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "kwˌando kambjˈo el ɣoβjˈeɾno, mˈutʃas peɾsˈonas ʝˈa aβˈian ˌemiɣɾˈaðo."
+          "phonemes": "la ðˌiktaðˈuɾa i la ðˌemokɾˈasja se βˈiβen distˈinto seɣˈun el paˈis."
         },
         {
-          "text": "— When the government changed, many people had already emigrated.",
+          "text": "— Dictatorship and democracy are experienced differently by country.",
           "segments": [
             {
-              "text": "— When the government changed, many people had already emigrated.",
+              "text": "— Dictatorship and democracy are experienced differently by country.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— wˌɛn ðə ɡˈʌvɚnmənt tʃˈeɪndʒd, mˈɛni pˈiːpəl hæd ɔːlɹˌɛdi ˈɛmɪɡɹˌeɪɾᵻd."
+          "phonemes": "— dɪktˈeɪɾɚʃˌɪp ænd dᵻmˈɑːkɹəsi ɑːɹ ɛkspˈiəɹɪənst dˈɪfɹəntli baɪ kˈʌntɹi."
         },
         {
-          "text": "Aunque existe consenso sobre los hechos, su significado se debate.",
+          "text": "La identidad no se puede generalizar.",
           "segments": [
             {
-              "text": "Aunque existe consenso sobre los hechos, su significado se debate.",
+              "text": "La identidad no se puede generalizar.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˌaʊnke eksˈiste konsˈɛnso sˌoβɾe los ˈetʃos, su sˌiɡnifikˈaðo se ðeβˈate."
+          "phonemes": "la ˌiðentiðˈad nˈo se pwˈeðe xˌeneɾˌalisˈaɾ."
         },
         {
-          "text": "— Although there is consensus about the facts, their meaning is debated.",
+          "text": "— Identity cannot be generalized.",
           "segments": [
             {
-              "text": "— Although there is consensus about the facts, their meaning is debated.",
+              "text": "— Identity cannot be generalized.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ɔːlðˈoʊ ðɛɹ ɪz kənsˈɛnsəs ɐbˌaʊt ðə fˈækts, ðɛɹ mˈiːnɪŋ ɪz dᵻbˈeɪɾᵻd."
+          "phonemes": "— aɪdˈɛntᵻɾi kænˈɑːt biː dʒˈɛnɚɹəlˌaɪzd."
         },
         {
-          "text": "El testimonio aporta una perspectiva personal.",
+          "text": "Cada país concreto tiene su propia historia.",
           "segments": [
             {
-              "text": "El testimonio aporta una perspectiva personal.",
+              "text": "Cada país concreto tiene su propia historia.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el tˌestimˈonjo apˈoɾta ˈuna pˌeɾspektˈiβa pˌeɾsonˈal."
+          "phonemes": "kˈaða paˈis konkɾˈeto tjˈene su pɾˈopja istˈoɾja."
         },
         {
-          "text": "— The testimony provides a personal perspective.",
+          "text": "— Each specific country has its own history.",
           "segments": [
             {
-              "text": "— The testimony provides a personal perspective.",
+              "text": "— Each specific country has its own history.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ðə tˈɛstᵻməni pɹəvˈaɪdz ɐ pˈɜːsənəl pɚspˈɛktɪv."
+          "phonemes": "— ˈiːtʃ spəsˈɪfɪk kˈʌntɹi hɐz ɪts ˈoʊn hˈɪstɚɹi."
         }
       ]
     },
@@ -325,129 +325,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "la fuente",
+      "text": "la colonización",
       "sentences": [
         {
-          "text": "la fuente",
+          "text": "la colonización",
           "segments": [
             {
-              "text": "la fuente",
+              "text": "la colonización",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la fwˈɛnte"
+          "phonemes": "la kˌolonˌisasjˈon"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "la evidencia",
+      "text": "la independencia",
       "sentences": [
         {
-          "text": "la evidencia",
+          "text": "la independencia",
           "segments": [
             {
-              "text": "la evidencia",
+              "text": "la independencia",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la ˌeβiðˈɛnsja"
+          "phonemes": "la ˌindependˈɛnsja"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "el testimonio",
+      "text": "la dictadura",
       "sentences": [
         {
-          "text": "el testimonio",
+          "text": "la dictadura",
           "segments": [
             {
-              "text": "el testimonio",
+              "text": "la dictadura",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el tˌestimˈonjo"
+          "phonemes": "la ðˌiktaðˈuɾa"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "la memoria",
+      "text": "la democracia",
       "sentences": [
         {
-          "text": "la memoria",
+          "text": "la democracia",
           "segments": [
             {
-              "text": "la memoria",
+              "text": "la democracia",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la memˈoɾja"
+          "phonemes": "la ðˌemokɾˈasja"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "la desigualdad",
+      "text": "la identidad",
       "sentences": [
         {
-          "text": "la desigualdad",
+          "text": "la identidad",
           "segments": [
             {
-              "text": "la desigualdad",
+              "text": "la identidad",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la ðˌesiɣwalðˈad"
+          "phonemes": "la ˌiðentiðˈad"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "la migración",
+      "text": "el marco específico",
       "sentences": [
         {
-          "text": "la migración",
+          "text": "el marco específico",
           "segments": [
             {
-              "text": "la migración",
+              "text": "el marco específico",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la mˌiɣɾasjˈon"
+          "phonemes": "el mˈaɾko ˌespesˈifiko"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "aunque",
+      "text": "generalizar",
       "sentences": [
         {
-          "text": "aunque",
+          "text": "generalizar",
           "segments": [
             {
-              "text": "aunque",
+              "text": "generalizar",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˈaʊnke"
+          "phonemes": "xˌeneɾˌalisˈaɾ"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "debido a",
+      "text": "el país concreto",
       "sentences": [
         {
-          "text": "debido a",
+          "text": "el país concreto",
           "segments": [
             {
-              "text": "debido a",
+              "text": "el país concreto",
               "lang": "es-419"
             }
           ],
-          "phonemes": "deβˈiðo ˈa"
+          "phonemes": "el paˈis konkɾˈeto"
         }
       ]
     }

@@ -163,7 +163,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Model language. Buscamos a alguien que tenga experiencia. — We are looking for someone who has experience. Conozco a la persona que dirige el proyecto. — I know the person who directs the project. Necesito un lugar que esté cerca del metro. — I need a place that is near the subway. Eso es lo que me preocupa. — That is what worries me. La autora, cuyo libro ganó el premio, dará una charla. — The author whose book won the prize will give a talk.",
+      "text": "Model language. Un buen anuncio de vivienda es preciso. — A good housing posting is precise. Los criterios no deben ser discriminatorios. — Criteria must not be discriminatory. Cada requisito legal debe respetarse. — Every legal requirement must be respected. Un anuncio justo atrae a más candidatos. — A fair posting attracts more candidates. Redactar bien un anuncio evita malentendidos. — Drafting a posting well avoids misunderstandings.",
       "sentences": [
         {
           "text": "Model language.",
@@ -176,104 +176,104 @@
           "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
         },
         {
-          "text": "Buscamos a alguien que tenga experiencia.",
+          "text": "Un buen anuncio de vivienda es preciso.",
           "segments": [
             {
-              "text": "Buscamos a alguien que tenga experiencia.",
+              "text": "Un buen anuncio de vivienda es preciso.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "buskˈamos a ˈalɣjen ke tˈɛŋɡa ˌekspeɾjˈɛnsja."
+          "phonemes": "ˈum bwˈen anˈunsjo ðe βiβjˈɛnda ˈes pɾesˈiso."
         },
         {
-          "text": "— We are looking for someone who has experience.",
+          "text": "— A good housing posting is precise.",
           "segments": [
             {
-              "text": "— We are looking for someone who has experience.",
+              "text": "— A good housing posting is precise.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— wiː ɑːɹ lˈʊkɪŋ fɔːɹ sˈʌmwʌn hˌuː hɐz ɛkspˈiəɹɪəns."
+          "phonemes": "— ɐ ɡˈʊd hˈaʊzɪŋ pˈoʊstɪŋ ɪz pɹɪsˈaɪs."
         },
         {
-          "text": "Conozco a la persona que dirige el proyecto.",
+          "text": "Los criterios no deben ser discriminatorios.",
           "segments": [
             {
-              "text": "Conozco a la persona que dirige el proyecto.",
+              "text": "Los criterios no deben ser discriminatorios.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "konˈosko a la peɾsˈona ke ðiɾˈixe el pɾoʝˈekto."
+          "phonemes": "los kɾitˈeɾjos nˈo ðˈeβen sˈer ðˌiskɾimˌinatˈoɾjos."
         },
         {
-          "text": "— I know the person who directs the project.",
+          "text": "— Criteria must not be discriminatory.",
           "segments": [
             {
-              "text": "— I know the person who directs the project.",
+              "text": "— Criteria must not be discriminatory.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— aɪ nˈoʊ ðə pˈɜːsən hˌuː dᵻɹˈɛkts ðə pɹˈɑːdʒɛkt."
+          "phonemes": "— kɹaɪtˈiəɹɪə mˈʌst nˌɑːt biː dɪskɹˈɪmɪnətˌɔːɹi."
         },
         {
-          "text": "Necesito un lugar que esté cerca del metro.",
+          "text": "Cada requisito legal debe respetarse.",
           "segments": [
             {
-              "text": "Necesito un lugar que esté cerca del metro.",
+              "text": "Cada requisito legal debe respetarse.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "nˌesesˈito ˈun luɣˈaɾ ke estˈe sˈeɾka ðel mˈetɾo."
+          "phonemes": "kˈaða rˌekisˈito leɣˈal ðˈeβe rˌespetˈaɾse."
         },
         {
-          "text": "— I need a place that is near the subway.",
+          "text": "— Every legal requirement must be respected.",
           "segments": [
             {
-              "text": "— I need a place that is near the subway.",
+              "text": "— Every legal requirement must be respected.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— aɪ nˈiːd ɐ plˈeɪs ðæt ɪz nˌɪɹ ðə sˈʌbweɪ."
+          "phonemes": "— ˈɛvɹi lˈiːɡəl ɹᵻkwˈaɪɚmənt mˈʌst biː ɹᵻspˈɛktᵻd."
         },
         {
-          "text": "Eso es lo que me preocupa.",
+          "text": "Un anuncio justo atrae a más candidatos.",
           "segments": [
             {
-              "text": "Eso es lo que me preocupa.",
+              "text": "Un anuncio justo atrae a más candidatos.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˈeso ˈes lo ke me pɾˌeokˈupa."
+          "phonemes": "ˈun anˈunsjo xˈusto atɾˈae a mˈas kˌandiðˈatos."
         },
         {
-          "text": "— That is what worries me.",
+          "text": "— A fair posting attracts more candidates.",
           "segments": [
             {
-              "text": "— That is what worries me.",
+              "text": "— A fair posting attracts more candidates.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ðæt ɪz wʌt wˈʌɹiz mˌiː."
+          "phonemes": "— ɐ fˈɛɹ pˈoʊstɪŋ ɐtɹˈækts mˈɔːɹ kˈændᵻdˌeɪts."
         },
         {
-          "text": "La autora, cuyo libro ganó el premio, dará una charla.",
+          "text": "Redactar bien un anuncio evita malentendidos.",
           "segments": [
             {
-              "text": "La autora, cuyo libro ganó el premio, dará una charla.",
+              "text": "Redactar bien un anuncio evita malentendidos.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la aʊtˈoɾa, kˈuʝo lˈiβɾo ɣanˈo el pɾˈemjo, daɾˈa ˈuna tʃˈaɾla."
+          "phonemes": "rˌeðaktˈaɾ βjˈen ˈun anˈunsjo eβˈita mˌalentendˈiðos."
         },
         {
-          "text": "— The author whose book won the prize will give a talk.",
+          "text": "— Drafting a posting well avoids misunderstandings.",
           "segments": [
             {
-              "text": "— The author whose book won the prize will give a talk.",
+              "text": "— Drafting a posting well avoids misunderstandings.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ðɪ ˈɔːθɚ hˌuːz bˈʊk wˈʌn ðə pɹˈaɪz wɪl ɡˈɪv ɐ tˈɔːk."
+          "phonemes": "— dɹˈæftɪŋ ɐ pˈoʊstɪŋ wˈɛl ɐvˈɔɪdz mɪsˌʌndɚstˈændɪŋz."
         }
       ]
     },
@@ -325,129 +325,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "el requisito",
+      "text": "el anuncio",
       "sentences": [
         {
-          "text": "el requisito",
+          "text": "el anuncio",
           "segments": [
             {
-              "text": "el requisito",
+              "text": "el anuncio",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el rˌekisˈito"
+          "phonemes": "el anˈunsjo"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "el candidato",
+      "text": "la vivienda",
       "sentences": [
         {
-          "text": "el candidato",
+          "text": "la vivienda",
           "segments": [
             {
-              "text": "el candidato",
+              "text": "la vivienda",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el kˌandiðˈato"
+          "phonemes": "la βiβjˈɛnda"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "la experiencia",
+      "text": "el criterio",
       "sentences": [
         {
-          "text": "la experiencia",
+          "text": "el criterio",
           "segments": [
             {
-              "text": "la experiencia",
+              "text": "el criterio",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la ˌekspeɾjˈɛnsja"
+          "phonemes": "el kɾitˈeɾjo"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "disponible",
+      "text": "discriminatorio",
       "sentences": [
         {
-          "text": "disponible",
+          "text": "discriminatorio",
           "segments": [
             {
-              "text": "disponible",
+              "text": "discriminatorio",
               "lang": "es-419"
             }
           ],
-          "phonemes": "dˌisponˈiβle"
+          "phonemes": "dˌiskɾimˌinatˈoɾjo"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "adecuado",
+      "text": "preciso",
       "sentences": [
         {
-          "text": "adecuado",
+          "text": "preciso",
           "segments": [
             {
-              "text": "adecuado",
+              "text": "preciso",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˌaðekwˈaðo"
+          "phonemes": "pɾesˈiso"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "cuyo",
+      "text": "el requisito legal",
       "sentences": [
         {
-          "text": "cuyo",
+          "text": "el requisito legal",
           "segments": [
             {
-              "text": "cuyo",
+              "text": "el requisito legal",
               "lang": "es-419"
             }
           ],
-          "phonemes": "kˈuʝo"
+          "phonemes": "el rˌekisˈito leɣˈal"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "lo que",
+      "text": "justo",
       "sentences": [
         {
-          "text": "lo que",
+          "text": "justo",
           "segments": [
             {
-              "text": "lo que",
+              "text": "justo",
               "lang": "es-419"
             }
           ],
-          "phonemes": "lo kˈe"
+          "phonemes": "xˈusto"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "cualquiera",
+      "text": "redactar",
       "sentences": [
         {
-          "text": "cualquiera",
+          "text": "redactar",
           "segments": [
             {
-              "text": "cualquiera",
+              "text": "redactar",
               "lang": "es-419"
             }
           ],
-          "phonemes": "kwalkjˈeɾa"
+          "phonemes": "rˌeðaktˈaɾ"
         }
       ]
     }

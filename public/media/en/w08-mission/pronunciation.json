@@ -45,11 +45,19 @@
           "text": "Presenta una red familiar real o ficticia y explica tres relaciones.",
           "segments": [
             {
-              "text": "Presenta una red familiar real o ficticia y explica tres relaciones.",
+              "text": "Presenta una red familiar ",
+              "lang": "es-419"
+            },
+            {
+              "text": "real",
+              "lang": "en-us"
+            },
+            {
+              "text": " o ficticia y explica tres relaciones.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "pɾesˈɛnta ˈuna rˈed fˌamiljˈaɾ reˈal o fiktˈisja i eksplˈika tɾˈes rˌelasjˈones."
+          "phonemes": "pɾesˈɛnta ˈuna rˈed fˌamiljˈaɾ ɹˈiːəl o fiktˈisja i eksplˈika tɾˈes rˌelasjˈones."
         }
       ]
     },
@@ -143,7 +151,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Lenguaje modelo. My older sister is very kind. — Mi hermana mayor es muy amable. I know Elena's parents. — Conozco a los padres de Elena. Our family lives in three cities. — Nuestra familia vive en tres ciudades. Is this portrait yours? — ¿Es tuyo este retrato? I have two brothers and a cousin. — Tengo dos hermanos y una prima o un primo.",
+      "text": "Lenguaje modelo. I'm going to present my family network. — Voy a presentar mi red familiar. I explain each person's kinship. — Explico el parentesco de cada persona. The family can be real or fictional. — La familia puede ser real o ficticia. I choose three relationships to explain. — Elijo tres relaciones para explicar. I detail each connection carefully. — Detallo cada conexión con cuidado.",
       "sentences": [
         {
           "text": "Lenguaje modelo.",
@@ -156,104 +164,112 @@
           "phonemes": "leŋɡwˈaxe moðˈelo."
         },
         {
-          "text": "My older sister is very kind.",
+          "text": "I'm going to present my family network.",
           "segments": [
             {
-              "text": "My older sister is very kind.",
+              "text": "I'm going to present my family network.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "maɪ ˈoʊldɚ sˈɪstɚɹ ɪz vˈɛɹi kˈaɪnd."
+          "phonemes": "aɪm ɡˌoʊɪŋ tə pɹɪzˈɛnt maɪ fˈæmɪli nˈɛtwɜːk."
         },
         {
-          "text": "— Mi hermana mayor es muy amable.",
+          "text": "— Voy a presentar mi red familiar.",
           "segments": [
             {
-              "text": "— Mi hermana mayor es muy amable.",
+              "text": "— Voy a presentar mi red familiar.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— mi eɾmˈana maʝˈoɾ ˈes mˈuj amˈaβle."
+          "phonemes": "— bˈoɪ a pɾˌesentˈaɾ mi rˈed fˌamiljˈaɾ."
         },
         {
-          "text": "I know Elena's parents.",
+          "text": "I explain each person's kinship.",
           "segments": [
             {
-              "text": "I know Elena's parents.",
+              "text": "I explain each person's kinship.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪ nˈoʊ ᵻlˈiːnəz pˈɛɹənts."
+          "phonemes": "aɪ ɛksplˈeɪn ˈiːtʃ pˈɜːsənz kˈɪnʃɪp."
         },
         {
-          "text": "— Conozco a los padres de Elena.",
+          "text": "— Explico el parentesco de cada persona.",
           "segments": [
             {
-              "text": "— Conozco a los padres de Elena.",
+              "text": "— Explico el parentesco de cada persona.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— konˈosko a los pˈaðɾes ðe elˈena."
+          "phonemes": "— eksplˈiko el pˌaɾentˈesko ðe kˈaða peɾsˈona."
         },
         {
-          "text": "Our family lives in three cities.",
+          "text": "The family can be real or fictional.",
           "segments": [
             {
-              "text": "Our family lives in three cities.",
+              "text": "The family can be real or fictional.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ˌaʊɚ fˈæmɪli lˈaɪvz ɪn θɹˈiː sˈɪɾiz."
+          "phonemes": "ðə fˈæmɪli kæn biː ɹˈiːəl ɔːɹ fˈɪkʃənəl."
         },
         {
-          "text": "— Nuestra familia vive en tres ciudades.",
+          "text": "— La familia puede ser real o ficticia.",
           "segments": [
             {
-              "text": "— Nuestra familia vive en tres ciudades.",
+              "text": "— La familia puede ser ",
+              "lang": "es-419"
+            },
+            {
+              "text": "real",
+              "lang": "en-us"
+            },
+            {
+              "text": " o ficticia.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— nwˌestɾa famˈilja βˈiβe en tɾˈes sjuðˈaðes."
+          "phonemes": "— la famˈilja pwˈeðe sˈer ɹˈiːəl o fiktˈisja."
         },
         {
-          "text": "Is this portrait yours?",
+          "text": "I choose three relationships to explain.",
           "segments": [
             {
-              "text": "Is this portrait yours?",
+              "text": "I choose three relationships to explain.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɪz ðɪs pˈɔːɹtɹɪt jˈɔːɹz?"
+          "phonemes": "aɪ tʃˈuːz θɹˈiː ɹᵻlˈeɪʃənʃˌɪps tʊ ɛksplˈeɪn."
         },
         {
-          "text": "— ¿Es tuyo este retrato?",
+          "text": "— Elijo tres relaciones para explicar.",
           "segments": [
             {
-              "text": "— ¿Es tuyo este retrato?",
+              "text": "— Elijo tres relaciones para explicar.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— ˈes tˈuʝo ˈeste retɾˈato?"
+          "phonemes": "— elˈixo tɾˈes rˌelasjˈones pˌaɾa ˌeksplikˈaɾ."
         },
         {
-          "text": "I have two brothers and a cousin.",
+          "text": "I detail each connection carefully.",
           "segments": [
             {
-              "text": "I have two brothers and a cousin.",
+              "text": "I detail each connection carefully.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪ hæv tˈuː bɹˈʌðɚz ænd ɐ kˈʌzən."
+          "phonemes": "aɪ diːtˈeɪl ˈiːtʃ kənˈɛkʃən kˈɛɹfəli."
         },
         {
-          "text": "— Tengo dos hermanos y una prima o un primo.",
+          "text": "— Detallo cada conexión con cuidado.",
           "segments": [
             {
-              "text": "— Tengo dos hermanos y una prima o un primo.",
+              "text": "— Detallo cada conexión con cuidado.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— tˈɛŋɡo ðˈos eɾmˈanos i ˈuna pɾˈima o ˈum pɾˈimo."
+          "phonemes": "— detˈajjo kˈaða kˌoneksjˈon kon kwiðˈaðo."
         }
       ]
     },
@@ -305,129 +321,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "family",
+      "text": "to present",
       "sentences": [
         {
-          "text": "family",
+          "text": "to present",
           "segments": [
             {
-              "text": "family",
+              "text": "to present",
               "lang": "en-us"
             }
           ],
-          "phonemes": "fˈæmɪli"
+          "phonemes": "tə pɹɪzˈɛnt"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "mother",
+      "text": "a network",
       "sentences": [
         {
-          "text": "mother",
+          "text": "a network",
           "segments": [
             {
-              "text": "mother",
+              "text": "a network",
               "lang": "en-us"
             }
           ],
-          "phonemes": "mˈʌðɚ"
+          "phonemes": "ɐ nˈɛtwɜːk"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "father",
+      "text": "to explain",
       "sentences": [
         {
-          "text": "father",
+          "text": "to explain",
           "segments": [
             {
-              "text": "father",
+              "text": "to explain",
               "lang": "en-us"
             }
           ],
-          "phonemes": "fˈɑːðɚ"
+          "phonemes": "tʊ ɛksplˈeɪn"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "sister",
+      "text": "kinship",
       "sentences": [
         {
-          "text": "sister",
+          "text": "kinship",
           "segments": [
             {
-              "text": "sister",
+              "text": "kinship",
               "lang": "en-us"
             }
           ],
-          "phonemes": "sˈɪstɚ"
+          "phonemes": "kˈɪnʃɪp"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "friend",
+      "text": "real",
       "sentences": [
         {
-          "text": "friend",
+          "text": "real",
           "segments": [
             {
-              "text": "friend",
+              "text": "real",
               "lang": "en-us"
             }
           ],
-          "phonemes": "fɹˈɛnd"
+          "phonemes": "ɹˈiːəl"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "young",
+      "text": "fictional",
       "sentences": [
         {
-          "text": "young",
+          "text": "fictional",
           "segments": [
             {
-              "text": "young",
+              "text": "fictional",
               "lang": "en-us"
             }
           ],
-          "phonemes": "jˈʌŋ"
+          "phonemes": "fˈɪkʃənəl"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "older",
+      "text": "to choose",
       "sentences": [
         {
-          "text": "older",
+          "text": "to choose",
           "segments": [
             {
-              "text": "older",
+              "text": "to choose",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ˈoʊldɚ"
+          "phonemes": "tə tʃˈuːz"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "kind",
+      "text": "to detail",
       "sentences": [
         {
-          "text": "kind",
+          "text": "to detail",
           "segments": [
             {
-              "text": "kind",
+              "text": "to detail",
               "lang": "en-us"
             }
           ],
-          "phonemes": "kˈaɪnd"
+          "phonemes": "tə diːtˈeɪl"
         }
       ]
     }

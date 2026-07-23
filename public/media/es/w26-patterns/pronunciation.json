@@ -29,7 +29,7 @@
     },
     {
       "file": "01.wav",
-      "text": "Form and meaning. Simple conditional; irregular stems; future-in-the-past; conditional courtesy; si + imperfect subjunctive preview.",
+      "text": "Form and meaning. Applying the form. The conditional uses the same irregular stems as the future (haría, tendría, podría) plus -ía endings, and softens requests and hypothetical statements.",
       "sentences": [
         {
           "text": "Form and meaning.",
@@ -42,28 +42,62 @@
           "phonemes": "fˈɔːɹm ænd mˈiːnɪŋ."
         },
         {
-          "text": "Simple conditional; irregular stems; future-in-the-past; conditional courtesy; si + imperfect subjunctive preview.",
+          "text": "Applying the form.",
           "segments": [
             {
-              "text": "Simple conditional; irregular stems; future-in-the-past; conditional courtesy; ",
-              "lang": "en-us"
-            },
-            {
-              "text": "si",
-              "lang": "es-419"
-            },
-            {
-              "text": " + imperfect subjunctive preview.",
+              "text": "Applying the form.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "sˈɪmpəl kəndˈɪʃənəl; ɪɹˈɛɡjʊlɚ stˈɛmz; fjˈuːtʃɚɹɪnðəpˈæst; kəndˈɪʃənəl kˈɜːɾəsi; sˈi plˈʌs ɪmpˈɜːfɛkt sˈʌbdʒəŋktˌɪv pɹˈiːvjuː."
+          "phonemes": "ɐplˈaɪɪŋ ðə fˈɔːɹm."
+        },
+        {
+          "text": "The conditional uses the same irregular stems as the future (haría, tendría, podría) plus -ía endings, and softens requests and hypothetical statements.",
+          "segments": [
+            {
+              "text": "The conditional uses the same irregular stems as the future (",
+              "lang": "en-us"
+            },
+            {
+              "text": "haría",
+              "lang": "es-419"
+            },
+            {
+              "text": ", ",
+              "lang": "en-us"
+            },
+            {
+              "text": "tendría",
+              "lang": "es-419"
+            },
+            {
+              "text": ", ",
+              "lang": "en-us"
+            },
+            {
+              "text": "podría",
+              "lang": "es-419"
+            },
+            {
+              "text": ") plus ",
+              "lang": "en-us"
+            },
+            {
+              "text": "-ía",
+              "lang": "es-419"
+            },
+            {
+              "text": " endings, and softens requests and hypothetical statements.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðə kəndˈɪʃənəl jˈuːsᵻz ðə sˈeɪm ɪɹˈɛɡjʊlɚ stˈɛmz æz ðə fjˈuːtʃɚ ( aɾˈia , tendɾˈia , poðɾˈia ) plˈʌs ˈia ˈɛndɪŋz, ænd sˈɔfənz ɹᵻkwˈɛsts ænd hˌaɪpəθˈɛɾɪkəl stˈeɪtmənts."
         }
       ]
     },
     {
       "file": "02.wav",
-      "text": "Model set. Yo elegiría la segunda opción. ¿Podría enviarme los detalles? El cambio reduciría el riesgo. Dijo que llegaría al día siguiente. En cambio, ese plan costaría demasiado. I would choose the second option. Could you send me the details? The change would reduce the risk. He or she said that they would arrive the following day. On the other hand, that plan would cost too much.",
+      "text": "Model set. Yo haría lo mismo. Tendría más tiempo si trabajara menos. ¿Podrías ayudarme, por favor? Dijo que vendría mañana. Diría que sí, pero no estoy seguro. I would do the same. I would have more time if I worked less. Could you help me, please? He/she said they would come tomorrow. I would say yes, but I'm not sure.",
       "sentences": [
         {
           "text": "Model set.",
@@ -76,104 +110,104 @@
           "phonemes": "mˈɑːdəl sˈɛt."
         },
         {
-          "text": "Yo elegiría la segunda opción.",
+          "text": "Yo haría lo mismo.",
           "segments": [
             {
-              "text": "Yo elegiría la segunda opción.",
+              "text": "Yo haría lo mismo.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ʝˈo ˌelexiɾˈia la seɣˈunda opsjˈon."
+          "phonemes": "ʝˈo aɾˈia lo mˈismo."
         },
         {
-          "text": "¿Podría enviarme los detalles?",
+          "text": "Tendría más tiempo si trabajara menos.",
           "segments": [
             {
-              "text": "¿Podría enviarme los detalles?",
+              "text": "Tendría más tiempo si trabajara menos.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "poðɾˈia embjˈaɾme los ðetˈajjes?"
+          "phonemes": "tendɾˈia mˈas tjˈempo si tɾˌaβaxˈaɾa mˈenos."
         },
         {
-          "text": "El cambio reduciría el riesgo.",
+          "text": "¿Podrías ayudarme, por favor?",
           "segments": [
             {
-              "text": "El cambio reduciría el riesgo.",
+              "text": "¿Podrías ayudarme, por favor?",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el kˈambjo rˌeðusiɾˈia el riˈesɣo."
+          "phonemes": "poðɾˈias ˌaʝuðˈaɾme, poɾ faβˈoɾ?"
         },
         {
-          "text": "Dijo que llegaría al día siguiente.",
+          "text": "Dijo que vendría mañana.",
           "segments": [
             {
-              "text": "Dijo que llegaría al día siguiente.",
+              "text": "Dijo que vendría mañana.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "dˈixo ke ʝˌeɣaɾˈia al ðˈia siɣjˈɛnte."
+          "phonemes": "dˈixo ke βendɾˈia maɲˈana."
         },
         {
-          "text": "En cambio, ese plan costaría demasiado.",
+          "text": "Diría que sí, pero no estoy seguro.",
           "segments": [
             {
-              "text": "En cambio, ese plan costaría demasiado.",
+              "text": "Diría que sí, pero no estoy seguro.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "en kˈambjo, ˈese plˈan kˌostaɾˈia ðˌemasjˈaðo."
+          "phonemes": "diɾˈia ke sˈi, pˌeɾo nˈo estˈoɪ seɣˈuɾo."
         },
         {
-          "text": "I would choose the second option.",
+          "text": "I would do the same.",
           "segments": [
             {
-              "text": "I would choose the second option.",
+              "text": "I would do the same.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪ wʊd tʃˈuːz ðə sˈɛkənd ˈɑːpʃən."
+          "phonemes": "aɪ wʊd dˈuː ðə sˈeɪm."
         },
         {
-          "text": "Could you send me the details?",
+          "text": "I would have more time if I worked less.",
           "segments": [
             {
-              "text": "Could you send me the details?",
+              "text": "I would have more time if I worked less.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "kʊd juː sˈɛnd mˌiː ðə diːtˈeɪlz?"
+          "phonemes": "aɪ wʊdhɐv mˈɔːɹ tˈaɪm ɪf aɪ wˈɜːkt lˈɛs."
         },
         {
-          "text": "The change would reduce the risk.",
+          "text": "Could you help me, please?",
           "segments": [
             {
-              "text": "The change would reduce the risk.",
+              "text": "Could you help me, please?",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə tʃˈeɪndʒ wʊd ɹᵻdˈuːs ðə ɹˈɪsk."
+          "phonemes": "kʊd juː hˈɛlp mˌiː, plˈiːz?"
         },
         {
-          "text": "He or she said that they would arrive the following day.",
+          "text": "He/she said they would come tomorrow.",
           "segments": [
             {
-              "text": "He or she said that they would arrive the following day.",
+              "text": "He/she said they would come tomorrow.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "hiː ɔːɹ ʃiː sˈɛd ðæt ðeɪ wʊd ɚɹˈaɪv ðə fˈɑːloʊɪŋ dˈeɪ."
+          "phonemes": "hiː slˈæʃ ʃiː sˈɛd ðeɪ wʊd kˈʌm təmˈɑːɹoʊ."
         },
         {
-          "text": "On the other hand, that plan would cost too much.",
+          "text": "I would say yes, but I'm not sure.",
           "segments": [
             {
-              "text": "On the other hand, that plan would cost too much.",
+              "text": "I would say yes, but I'm not sure.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɔnðɪ ˈʌðɚ hˈænd, ðæt plˈæn wʊd kˈɔst tˈuː mʌtʃ."
+          "phonemes": "aɪ wʊd sˈeɪ jˈɛs, bˌʌt aɪm nˌɑːt ʃˈʊɹ."
         }
       ]
     },
@@ -251,7 +285,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Model language. Yo elegiría la segunda opción. — I would choose the second option. ¿Podría enviarme los detalles? — Could you send me the details? El cambio reduciría el riesgo. — The change would reduce the risk. Dijo que llegaría al día siguiente. — He or she said that they would arrive the following day. En cambio, ese plan costaría demasiado. — On the other hand, that plan would cost too much.",
+      "text": "Model language. Yo haría lo mismo. — I would do the same. Tendría más tiempo si trabajara menos. — I would have more time if I worked less. ¿Podrías ayudarme, por favor? — Could you help me, please? Dijo que vendría mañana. — He/she said they would come tomorrow. Diría que sí, pero no estoy seguro. — I would say yes, but I'm not sure.",
       "sentences": [
         {
           "text": "Model language.",
@@ -264,104 +298,104 @@
           "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
         },
         {
-          "text": "Yo elegiría la segunda opción.",
+          "text": "Yo haría lo mismo.",
           "segments": [
             {
-              "text": "Yo elegiría la segunda opción.",
+              "text": "Yo haría lo mismo.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ʝˈo ˌelexiɾˈia la seɣˈunda opsjˈon."
+          "phonemes": "ʝˈo aɾˈia lo mˈismo."
         },
         {
-          "text": "— I would choose the second option.",
+          "text": "— I would do the same.",
           "segments": [
             {
-              "text": "— I would choose the second option.",
+              "text": "— I would do the same.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— aɪ wʊd tʃˈuːz ðə sˈɛkənd ˈɑːpʃən."
+          "phonemes": "— aɪ wʊd dˈuː ðə sˈeɪm."
         },
         {
-          "text": "¿Podría enviarme los detalles?",
+          "text": "Tendría más tiempo si trabajara menos.",
           "segments": [
             {
-              "text": "¿Podría enviarme los detalles?",
+              "text": "Tendría más tiempo si trabajara menos.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "poðɾˈia embjˈaɾme los ðetˈajjes?"
+          "phonemes": "tendɾˈia mˈas tjˈempo si tɾˌaβaxˈaɾa mˈenos."
         },
         {
-          "text": "— Could you send me the details?",
+          "text": "— I would have more time if I worked less.",
           "segments": [
             {
-              "text": "— Could you send me the details?",
+              "text": "— I would have more time if I worked less.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— kʊd juː sˈɛnd mˌiː ðə diːtˈeɪlz?"
+          "phonemes": "— aɪ wʊdhɐv mˈɔːɹ tˈaɪm ɪf aɪ wˈɜːkt lˈɛs."
         },
         {
-          "text": "El cambio reduciría el riesgo.",
+          "text": "¿Podrías ayudarme, por favor?",
           "segments": [
             {
-              "text": "El cambio reduciría el riesgo.",
+              "text": "¿Podrías ayudarme, por favor?",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el kˈambjo rˌeðusiɾˈia el riˈesɣo."
+          "phonemes": "poðɾˈias ˌaʝuðˈaɾme, poɾ faβˈoɾ?"
         },
         {
-          "text": "— The change would reduce the risk.",
+          "text": "— Could you help me, please?",
           "segments": [
             {
-              "text": "— The change would reduce the risk.",
+              "text": "— Could you help me, please?",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ðə tʃˈeɪndʒ wʊd ɹᵻdˈuːs ðə ɹˈɪsk."
+          "phonemes": "— kʊd juː hˈɛlp mˌiː, plˈiːz?"
         },
         {
-          "text": "Dijo que llegaría al día siguiente.",
+          "text": "Dijo que vendría mañana.",
           "segments": [
             {
-              "text": "Dijo que llegaría al día siguiente.",
+              "text": "Dijo que vendría mañana.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "dˈixo ke ʝˌeɣaɾˈia al ðˈia siɣjˈɛnte."
+          "phonemes": "dˈixo ke βendɾˈia maɲˈana."
         },
         {
-          "text": "— He or she said that they would arrive the following day.",
+          "text": "— He/she said they would come tomorrow.",
           "segments": [
             {
-              "text": "— He or she said that they would arrive the following day.",
+              "text": "— He/she said they would come tomorrow.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— hiː ɔːɹ ʃiː sˈɛd ðæt ðeɪ wʊd ɚɹˈaɪv ðə fˈɑːloʊɪŋ dˈeɪ."
+          "phonemes": "— hiː slˈæʃ ʃiː sˈɛd ðeɪ wʊd kˈʌm təmˈɑːɹoʊ."
         },
         {
-          "text": "En cambio, ese plan costaría demasiado.",
+          "text": "Diría que sí, pero no estoy seguro.",
           "segments": [
             {
-              "text": "En cambio, ese plan costaría demasiado.",
+              "text": "Diría que sí, pero no estoy seguro.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "en kˈambjo, ˈese plˈan kˌostaɾˈia ðˌemasjˈaðo."
+          "phonemes": "diɾˈia ke sˈi, pˌeɾo nˈo estˈoɪ seɣˈuɾo."
         },
         {
-          "text": "— On the other hand, that plan would cost too much.",
+          "text": "— I would say yes, but I'm not sure.",
           "segments": [
             {
-              "text": "— On the other hand, that plan would cost too much.",
+              "text": "— I would say yes, but I'm not sure.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ɔnðɪ ˈʌðɚ hˈænd, ðæt plˈæn wʊd kˈɔst tˈuː mʌtʃ."
+          "phonemes": "— aɪ wʊd sˈeɪ jˈɛs, bˌʌt aɪm nˌɑːt ʃˈʊɹ."
         }
       ]
     },
@@ -413,129 +447,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "la opción",
+      "text": "haría",
       "sentences": [
         {
-          "text": "la opción",
+          "text": "haría",
           "segments": [
             {
-              "text": "la opción",
+              "text": "haría",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la opsjˈon"
+          "phonemes": "aɾˈia"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "la ventaja",
+      "text": "tendría",
       "sentences": [
         {
-          "text": "la ventaja",
+          "text": "tendría",
           "segments": [
             {
-              "text": "la ventaja",
+              "text": "tendría",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la βentˈaxa"
+          "phonemes": "tendɾˈia"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "la desventaja",
+      "text": "podrías",
       "sentences": [
         {
-          "text": "la desventaja",
+          "text": "podrías",
           "segments": [
             {
-              "text": "la desventaja",
+              "text": "podrías",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la ðˌesβentˈaxa"
+          "phonemes": "poðɾˈias"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "el riesgo",
+      "text": "diría",
       "sentences": [
         {
-          "text": "el riesgo",
+          "text": "diría",
           "segments": [
             {
-              "text": "el riesgo",
+              "text": "diría",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el riˈesɣo"
+          "phonemes": "diɾˈia"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "convendría",
+      "text": "vendría",
       "sentences": [
         {
-          "text": "convendría",
+          "text": "vendría",
           "segments": [
             {
-              "text": "convendría",
+              "text": "vendría",
               "lang": "es-419"
             }
           ],
-          "phonemes": "kˌombendɾˈia"
+          "phonemes": "bendɾˈia"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "podría",
+      "text": "el condicional irregular",
       "sentences": [
         {
-          "text": "podría",
+          "text": "el condicional irregular",
           "segments": [
             {
-              "text": "podría",
+              "text": "el condicional irregular",
               "lang": "es-419"
             }
           ],
-          "phonemes": "poðɾˈia"
+          "phonemes": "el kˌondisjonˈal ˌireɣulˈaɾ"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "debería",
+      "text": "el discurso indirecto",
       "sentences": [
         {
-          "text": "debería",
+          "text": "el discurso indirecto",
           "segments": [
             {
-              "text": "debería",
+              "text": "el discurso indirecto",
               "lang": "es-419"
             }
           ],
-          "phonemes": "dˌeβeɾˈia"
+          "phonemes": "el ðiskˈuɾso ˌindiɾˈekto"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "en cambio",
+      "text": "la cortesía",
       "sentences": [
         {
-          "text": "en cambio",
+          "text": "la cortesía",
           "segments": [
             {
-              "text": "en cambio",
+              "text": "la cortesía",
               "lang": "es-419"
             }
           ],
-          "phonemes": "en kˈambjo"
+          "phonemes": "la kˌoɾtesˈia"
         }
       ]
     }

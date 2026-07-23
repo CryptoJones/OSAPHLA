@@ -29,7 +29,7 @@
     },
     {
       "file": "01.wav",
-      "text": "Forma y significado. Comparativos avanzados; superlativos; intensificadores; colocaciones; verbos frasales y expresiones idiomáticas con límites de registro.",
+      "text": "Forma y significado. Aplicación de la forma. Usa more/less + adjetivo + than para comparar, the most + adjetivo para el superlativo, y as + adjetivo + as para la igualdad.",
       "sentences": [
         {
           "text": "Forma y significado.",
@@ -42,20 +42,38 @@
           "phonemes": "fˈoɾma i sˌiɡnifikˈaðo."
         },
         {
-          "text": "Comparativos avanzados; superlativos; intensificadores; colocaciones; verbos frasales y expresiones idiomáticas con límites de registro.",
+          "text": "Aplicación de la forma.",
           "segments": [
             {
-              "text": "Comparativos avanzados; superlativos; intensificadores; colocaciones; verbos frasales y expresiones idiomáticas con límites de registro.",
+              "text": "Aplicación de la forma.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "kˌompaɾatˈiβos ˌaβansˈaðos; sˌupeɾlatˈiβos; ˌintensˌifikaðˈoɾes; kˌolokasjˈones; bˈeɾβos fɾasˈales i ˌekspɾesjˈones ˌiðjomˈatikas kon lˈimites ðe rexˈistɾo."
+          "phonemes": "ˌaplikasjˈon de la fˈoɾma."
+        },
+        {
+          "text": "Usa more/less + adjetivo + than para comparar, the most + adjetivo para el superlativo, y as + adjetivo + as para la igualdad.",
+          "segments": [
+            {
+              "text": "Usa more/less + adjetivo + than para comparar, ",
+              "lang": "es-419"
+            },
+            {
+              "text": "the most",
+              "lang": "en-us"
+            },
+            {
+              "text": " + adjetivo para el superlativo, y as + adjetivo + as para la igualdad.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˈusa mˈoɾe βˈara lˈess mˈas ˌaðxetˈiβo mˈas tˈam pˌaɾa kˌompaɾˈaɾ, ðə mˈoʊst mˈas ˌaðxetˈiβo pˌaɾa el sˌupeɾlatˈiβo, i as mˈas ˌaðxetˈiβo mˈas as pˌaɾa la ˌiɣwalðˈad."
         }
       ]
     },
     {
       "file": "02.wav",
-      "text": "Conjunto de modelos. The second option is far more viable. The least clear report was the first one. The project is working out well. That figure should be treated cautiously. The analysis was right, but evidence is still missing. La segunda opción es mucho más viable. El informe menos claro fue el primero. El proyecto está saliendo bien. Esa cifra debe tratarse con cautela. El análisis fue correcto, pero todavía falta evidencia.",
+      "text": "Conjunto de modelos. This option is much more efficient than the previous one. It's the least clear proposal of all. It's as good as we expected. It's by far the best option. The project improved notably. Esta opción es mucho más eficiente que la anterior. Es la propuesta menos clara de todas. Es tan buena como esperábamos. Es, con diferencia, la mejor opción. El proyecto mejoró notablemente.",
       "sentences": [
         {
           "text": "Conjunto de modelos.",
@@ -68,112 +86,104 @@
           "phonemes": "koŋxˈunto ðe moðˈelos."
         },
         {
-          "text": "The second option is far more viable.",
+          "text": "This option is much more efficient than the previous one.",
           "segments": [
             {
-              "text": "The second option is far more viable.",
+              "text": "This option is much more efficient than the previous one.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə sˈɛkənd ˈɑːpʃən ɪz fˈɑːɹmˌɔːɹ vˈaɪəbəl."
+          "phonemes": "ðɪs ˈɑːpʃən ɪz mˈʌtʃ mˈɔːɹ ɪfˈɪʃənt ðɐn ðə pɹˈiːviəs wˌʌn."
         },
         {
-          "text": "The least clear report was the first one.",
+          "text": "It's the least clear proposal of all.",
           "segments": [
             {
-              "text": "The least clear report was the first one.",
+              "text": "It's the least clear proposal of all.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə lˈiːst klˈɪɹ ɹᵻpˈɔːɹt wʌzðə fˈɜːst wˌʌn."
+          "phonemes": "ɪts ðə lˈiːst klˈɪɹ pɹəpˈoʊzəl ʌv ˈɔːl."
         },
         {
-          "text": "The project is working out well.",
+          "text": "It's as good as we expected.",
           "segments": [
             {
-              "text": "The project is working out well.",
+              "text": "It's as good as we expected.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə pɹˈɑːdʒɛkt ɪz wˈɜːkɪŋ ˈaʊt wˈɛl."
+          "phonemes": "ɪts æz ɡˈʊd æz wiː ɛkspˈɛktᵻd."
         },
         {
-          "text": "That figure should be treated cautiously.",
+          "text": "It's by far the best option.",
           "segments": [
             {
-              "text": "That figure should be treated cautiously.",
+              "text": "It's by far the best option.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðæt fˈɪɡjɚ ʃˌʊd biː tɹˈiːɾᵻd kˈɔːʃəsli."
+          "phonemes": "ɪts baɪ fˈɑːɹ ðə bˈɛst ˈɑːpʃən."
         },
         {
-          "text": "The analysis was right, but evidence is still missing.",
+          "text": "The project improved notably.",
           "segments": [
             {
-              "text": "The analysis was right, but evidence is still missing.",
+              "text": "The project improved notably.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðɪ ɐnˈæləsˌɪs wʌz ɹˈaɪt, bˌʌt ˈɛvɪdəns ɪz stˈɪl mˈɪsɪŋ."
+          "phonemes": "ðə pɹˈɑːdʒɛkt ɪmpɹˈuːvd nˈoʊɾəbli."
         },
         {
-          "text": "La segunda opción es mucho más viable.",
+          "text": "Esta opción es mucho más eficiente que la anterior.",
           "segments": [
             {
-              "text": "La segunda opción es mucho más ",
-              "lang": "es-419"
-            },
-            {
-              "text": "viable",
-              "lang": "en-us"
-            },
-            {
-              "text": ".",
+              "text": "Esta opción es mucho más eficiente que la anterior.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la seɣˈunda opsjˈon ˈes mˈutʃo mˈas vˈaɪəbəl ."
+          "phonemes": "ˈesta opsjˈon ˈes mˈutʃo mˈas ˌefisjˈɛnte ke la ˌanteɾjˈoɾ."
         },
         {
-          "text": "El informe menos claro fue el primero.",
+          "text": "Es la propuesta menos clara de todas.",
           "segments": [
             {
-              "text": "El informe menos claro fue el primero.",
+              "text": "Es la propuesta menos clara de todas.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el infˈoɾme mˈenos klˈaɾo fwˈe el pɾimˈeɾo."
+          "phonemes": "ˈes la pɾopwˈesta mˈenos klˈaɾa ðe tˈoðas."
         },
         {
-          "text": "El proyecto está saliendo bien.",
+          "text": "Es tan buena como esperábamos.",
           "segments": [
             {
-              "text": "El proyecto está saliendo bien.",
+              "text": "Es tan buena como esperábamos.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el pɾoʝˈekto estˈa saljˈɛndo βjˈen."
+          "phonemes": "ˈes tˈam bwˈena kˌomo ˌespeɾˈaβamos."
         },
         {
-          "text": "Esa cifra debe tratarse con cautela.",
+          "text": "Es, con diferencia, la mejor opción.",
           "segments": [
             {
-              "text": "Esa cifra debe tratarse con cautela.",
+              "text": "Es, con diferencia, la mejor opción.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˈesa sˈifɾa ðˈeβe tɾatˈaɾse kon kaʊtˈela."
+          "phonemes": "ˈes, kon dˌifeɾˈɛnsja, la mexˈoɾ opsjˈon."
         },
         {
-          "text": "El análisis fue correcto, pero todavía falta evidencia.",
+          "text": "El proyecto mejoró notablemente.",
           "segments": [
             {
-              "text": "El análisis fue correcto, pero todavía falta evidencia.",
+              "text": "El proyecto mejoró notablemente.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el anˈalisis fwˈe korˈekto, pˌeɾo tˌoðaβˈia fˈalta ˌeβiðˈɛnsja."
+          "phonemes": "el pɾoʝˈekto mˌexoɾˈo notˈaβlemˈente."
         }
       ]
     },
@@ -241,7 +251,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Lenguaje modelo. The second option is far more viable. — La segunda opción es mucho más viable. The least clear report was the first one. — El informe menos claro fue el primero. The project is working out well. — El proyecto está saliendo bien. That figure should be treated cautiously. — Esa cifra debe tratarse con cautela. The analysis was right, but evidence is still missing. — El análisis fue correcto, pero todavía falta evidencia.",
+      "text": "Lenguaje modelo. This option is much more efficient than the previous one. — Esta opción es mucho más eficiente que la anterior. It's the least clear proposal of all. — Es la propuesta menos clara de todas. It's as good as we expected. — Es tan buena como esperábamos. It's by far the best option. — Es, con diferencia, la mejor opción. The project improved notably. — El proyecto mejoró notablemente.",
       "sentences": [
         {
           "text": "Lenguaje modelo.",
@@ -254,112 +264,104 @@
           "phonemes": "leŋɡwˈaxe moðˈelo."
         },
         {
-          "text": "The second option is far more viable.",
+          "text": "This option is much more efficient than the previous one.",
           "segments": [
             {
-              "text": "The second option is far more viable.",
+              "text": "This option is much more efficient than the previous one.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə sˈɛkənd ˈɑːpʃən ɪz fˈɑːɹmˌɔːɹ vˈaɪəbəl."
+          "phonemes": "ðɪs ˈɑːpʃən ɪz mˈʌtʃ mˈɔːɹ ɪfˈɪʃənt ðɐn ðə pɹˈiːviəs wˌʌn."
         },
         {
-          "text": "— La segunda opción es mucho más viable.",
+          "text": "— Esta opción es mucho más eficiente que la anterior.",
           "segments": [
             {
-              "text": "— La segunda opción es mucho más ",
-              "lang": "es-419"
-            },
-            {
-              "text": "viable",
-              "lang": "en-us"
-            },
-            {
-              "text": ".",
+              "text": "— Esta opción es mucho más eficiente que la anterior.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— la seɣˈunda opsjˈon ˈes mˈutʃo mˈas vˈaɪəbəl ."
+          "phonemes": "— ˈesta opsjˈon ˈes mˈutʃo mˈas ˌefisjˈɛnte ke la ˌanteɾjˈoɾ."
         },
         {
-          "text": "The least clear report was the first one.",
+          "text": "It's the least clear proposal of all.",
           "segments": [
             {
-              "text": "The least clear report was the first one.",
+              "text": "It's the least clear proposal of all.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə lˈiːst klˈɪɹ ɹᵻpˈɔːɹt wʌzðə fˈɜːst wˌʌn."
+          "phonemes": "ɪts ðə lˈiːst klˈɪɹ pɹəpˈoʊzəl ʌv ˈɔːl."
         },
         {
-          "text": "— El informe menos claro fue el primero.",
+          "text": "— Es la propuesta menos clara de todas.",
           "segments": [
             {
-              "text": "— El informe menos claro fue el primero.",
+              "text": "— Es la propuesta menos clara de todas.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— el infˈoɾme mˈenos klˈaɾo fwˈe el pɾimˈeɾo."
+          "phonemes": "— ˈes la pɾopwˈesta mˈenos klˈaɾa ðe tˈoðas."
         },
         {
-          "text": "The project is working out well.",
+          "text": "It's as good as we expected.",
           "segments": [
             {
-              "text": "The project is working out well.",
+              "text": "It's as good as we expected.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə pɹˈɑːdʒɛkt ɪz wˈɜːkɪŋ ˈaʊt wˈɛl."
+          "phonemes": "ɪts æz ɡˈʊd æz wiː ɛkspˈɛktᵻd."
         },
         {
-          "text": "— El proyecto está saliendo bien.",
+          "text": "— Es tan buena como esperábamos.",
           "segments": [
             {
-              "text": "— El proyecto está saliendo bien.",
+              "text": "— Es tan buena como esperábamos.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— el pɾoʝˈekto estˈa saljˈɛndo βjˈen."
+          "phonemes": "— ˈes tˈam bwˈena kˌomo ˌespeɾˈaβamos."
         },
         {
-          "text": "That figure should be treated cautiously.",
+          "text": "It's by far the best option.",
           "segments": [
             {
-              "text": "That figure should be treated cautiously.",
+              "text": "It's by far the best option.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðæt fˈɪɡjɚ ʃˌʊd biː tɹˈiːɾᵻd kˈɔːʃəsli."
+          "phonemes": "ɪts baɪ fˈɑːɹ ðə bˈɛst ˈɑːpʃən."
         },
         {
-          "text": "— Esa cifra debe tratarse con cautela.",
+          "text": "— Es, con diferencia, la mejor opción.",
           "segments": [
             {
-              "text": "— Esa cifra debe tratarse con cautela.",
+              "text": "— Es, con diferencia, la mejor opción.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— ˈesa sˈifɾa ðˈeβe tɾatˈaɾse kon kaʊtˈela."
+          "phonemes": "— ˈes, kon dˌifeɾˈɛnsja, la mexˈoɾ opsjˈon."
         },
         {
-          "text": "The analysis was right, but evidence is still missing.",
+          "text": "The project improved notably.",
           "segments": [
             {
-              "text": "The analysis was right, but evidence is still missing.",
+              "text": "The project improved notably.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðɪ ɐnˈæləsˌɪs wʌz ɹˈaɪt, bˌʌt ˈɛvɪdəns ɪz stˈɪl mˈɪsɪŋ."
+          "phonemes": "ðə pɹˈɑːdʒɛkt ɪmpɹˈuːvd nˈoʊɾəbli."
         },
         {
-          "text": "— El análisis fue correcto, pero todavía falta evidencia.",
+          "text": "— El proyecto mejoró notablemente.",
           "segments": [
             {
-              "text": "— El análisis fue correcto, pero todavía falta evidencia.",
+              "text": "— El proyecto mejoró notablemente.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— el anˈalisis fwˈe korˈekto, pˌeɾo tˌoðaβˈia fˈalta ˌeβiðˈɛnsja."
+          "phonemes": "— el pɾoʝˈekto mˌexoɾˈo notˈaβlemˈente."
         }
       ]
     },
@@ -411,129 +413,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "viable",
+      "text": "more...than",
       "sentences": [
         {
-          "text": "viable",
+          "text": "more...than",
           "segments": [
             {
-              "text": "viable",
+              "text": "more...than",
               "lang": "en-us"
             }
           ],
-          "phonemes": "vˈaɪəbəl"
+          "phonemes": "mˈɔːɹ...ðɐn"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "efficient",
+      "text": "less...than",
       "sentences": [
         {
-          "text": "efficient",
+          "text": "less...than",
           "segments": [
             {
-              "text": "efficient",
+              "text": "less...than",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɪfˈɪʃənt"
+          "phonemes": "lˈɛs...ðɐn"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "reliable",
+      "text": "the most",
       "sentences": [
         {
-          "text": "reliable",
+          "text": "the most",
           "segments": [
             {
-              "text": "reliable",
+              "text": "the most",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɹᵻlˈaɪəbəl"
+          "phonemes": "ðə mˈoʊst"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "slightly",
+      "text": "as...as",
       "sentences": [
         {
-          "text": "slightly",
+          "text": "as...as",
           "segments": [
             {
-              "text": "slightly",
+              "text": "as...as",
               "lang": "en-us"
             }
           ],
-          "phonemes": "slˈaɪtli"
+          "phonemes": "æz...æz"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "far more",
+      "text": "by far",
       "sentences": [
         {
-          "text": "far more",
+          "text": "by far",
           "segments": [
             {
-              "text": "far more",
+              "text": "by far",
               "lang": "en-us"
             }
           ],
-          "phonemes": "fˈɑːɹmˌɔːɹ"
+          "phonemes": "baɪ fˈɑːɹ"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "to work out",
+      "text": "a superlative",
       "sentences": [
         {
-          "text": "to work out",
+          "text": "a superlative",
           "segments": [
             {
-              "text": "to work out",
+              "text": "a superlative",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə wˈɜːk ˈaʊt"
+          "phonemes": "ɐ suːpˈɜːlətˌɪv"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "to point out",
+      "text": "an intensifier",
       "sentences": [
         {
-          "text": "to point out",
+          "text": "an intensifier",
           "segments": [
             {
-              "text": "to point out",
+              "text": "an intensifier",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə pˈɔɪnt ˈaʊt"
+          "phonemes": "ɐn ɪntˈɛnsɪfˌaɪɚ"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "cautiously",
+      "text": "notably",
       "sentences": [
         {
-          "text": "cautiously",
+          "text": "notably",
           "segments": [
             {
-              "text": "cautiously",
+              "text": "notably",
               "lang": "en-us"
             }
           ],
-          "phonemes": "kˈɔːʃəsli"
+          "phonemes": "nˈoʊɾəbli"
         }
       ]
     }

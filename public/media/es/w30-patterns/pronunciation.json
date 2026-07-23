@@ -53,7 +53,7 @@
     },
     {
       "file": "01.wav",
-      "text": "Form and meaning. Por versus para; passive voice; passive and impersonal se; agent suppression and focus.",
+      "text": "Form and meaning. Applying the form. Por expresses cause, means, or duration; para expresses purpose or destination; the passive voice uses ser + past participle, often with por + agent.",
       "sentences": [
         {
           "text": "Form and meaning.",
@@ -66,14 +66,24 @@
           "phonemes": "fˈɔːɹm ænd mˈiːnɪŋ."
         },
         {
-          "text": "Por versus para; passive voice; passive and impersonal se; agent suppression and focus.",
+          "text": "Applying the form.",
+          "segments": [
+            {
+              "text": "Applying the form.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɐplˈaɪɪŋ ðə fˈɔːɹm."
+        },
+        {
+          "text": "Por expresses cause, means, or duration; para expresses purpose or destination; the passive voice uses ser + past participle, often with por + agent.",
           "segments": [
             {
               "text": "Por",
               "lang": "es-419"
             },
             {
-              "text": " versus ",
+              "text": " expresses cause, means, or duration; ",
               "lang": "en-us"
             },
             {
@@ -81,25 +91,33 @@
               "lang": "es-419"
             },
             {
-              "text": "; passive voice; passive and impersonal ",
+              "text": " expresses purpose or destination; the passive voice uses ",
               "lang": "en-us"
             },
             {
-              "text": "se",
+              "text": "ser",
               "lang": "es-419"
             },
             {
-              "text": "; agent suppression and focus.",
+              "text": " + past participle, often with ",
+              "lang": "en-us"
+            },
+            {
+              "text": "por",
+              "lang": "es-419"
+            },
+            {
+              "text": " + agent.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "pˈoɾ vˈɜːsᵻz pˈaɾa ; pˈæsɪv vˈɔɪs; pˈæsɪv ænd ɪmpˈɜːsənəl sˈe ; ˈeɪdʒənt səpɹˈɛʃən ænd fˈoʊkəs."
+          "phonemes": "pˈoɾ ɛkspɹˈɛsᵻz kˈɔːz, mˈiːnz, ɔːɹ dʊɹɹˈeɪʃən; pˈaɾa ɛkspɹˈɛsᵻz pˈɜːpəs ɔːɹ dˌɛstɪnˈeɪʃən; ðə pˈæsɪv vˈɔɪs jˈuːsᵻz sˈer plˈʌs pˈæst pɑːɹtˈɪsɪpəl, ˈɔfən wɪð pˈoɾ plˈʌs ˈeɪdʒənt."
         }
       ]
     },
     {
       "file": "02.wav",
-      "text": "Model set. La medida fue aprobada por el consejo. Se publicaron los resultados ayer. Trabajamos para mejorar el acceso. El servicio cerró por falta de fondos. Se requiere identificación para entrar. The measure was approved by the council. The results were published yesterday. We work to improve access. The service closed because of a lack of funding. Identification is required to enter.",
+      "text": "Model set. El informe fue escrito por ella. Trabajo para mejorar el servicio. La ley fue aprobada por el congreso. Los datos fueron publicados ayer. Uso 'para' para expresar propósito. The report was written by her. I work to improve the service. The law was approved by congress. The data were published yesterday. I use 'para' to express purpose.",
       "sentences": [
         {
           "text": "Model set.",
@@ -112,104 +130,112 @@
           "phonemes": "mˈɑːdəl sˈɛt."
         },
         {
-          "text": "La medida fue aprobada por el consejo.",
+          "text": "El informe fue escrito por ella.",
           "segments": [
             {
-              "text": "La medida fue aprobada por el consejo.",
+              "text": "El informe fue escrito por ella.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la meðˈiða fwˈe ˌapɾoβˈaða poɾ el konsˈexo."
+          "phonemes": "el infˈoɾme fwˈe eskɾˈito poɾ ˈejja."
         },
         {
-          "text": "Se publicaron los resultados ayer.",
+          "text": "Trabajo para mejorar el servicio.",
           "segments": [
             {
-              "text": "Se publicaron los resultados ayer.",
+              "text": "Trabajo para mejorar el servicio.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "se pˌuβlikˈaɾon los rˌesultˈaðos aʝˈeɾ."
+          "phonemes": "tɾaβˈaxo pˌaɾa mˌexoɾˈaɾ el seɾβˈisjo."
         },
         {
-          "text": "Trabajamos para mejorar el acceso.",
+          "text": "La ley fue aprobada por el congreso.",
           "segments": [
             {
-              "text": "Trabajamos para mejorar el acceso.",
+              "text": "La ley fue aprobada por el congreso.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "tɾˌaβaxˈamos pˌaɾa mˌexoɾˈaɾ el aksˈeso."
+          "phonemes": "la lˈeɪ fwˈe ˌapɾoβˈaða poɾ el koŋɡɾˈeso."
         },
         {
-          "text": "El servicio cerró por falta de fondos.",
+          "text": "Los datos fueron publicados ayer.",
           "segments": [
             {
-              "text": "El servicio cerró por falta de fondos.",
+              "text": "Los datos fueron publicados ayer.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el seɾβˈisjo serˈo poɾ fˈalta ðe fˈondos."
+          "phonemes": "los ðˈatos fwˈeɾom pˌuβlikˈaðos aʝˈeɾ."
         },
         {
-          "text": "Se requiere identificación para entrar.",
+          "text": "Uso 'para' para expresar propósito.",
           "segments": [
             {
-              "text": "Se requiere identificación para entrar.",
+              "text": "Uso 'para' para expresar propósito.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "se rekjˈeɾe ˌiðentˌifikasjˈom pˌaɾa entɾˈaɾ."
+          "phonemes": "ˈuso pˌaɾa pˌaɾa ˌekspɾesˈaɾ pɾopˈosito."
         },
         {
-          "text": "The measure was approved by the council.",
+          "text": "The report was written by her.",
           "segments": [
             {
-              "text": "The measure was approved by the council.",
+              "text": "The report was written by her.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə mˈɛʒɚ wʌz ɐpɹˈuːvd baɪ ðə kˈaʊnsəl."
+          "phonemes": "ðə ɹᵻpˈɔːɹt wʌz ɹˈɪʔn baɪ hɜː."
         },
         {
-          "text": "The results were published yesterday.",
+          "text": "I work to improve the service.",
           "segments": [
             {
-              "text": "The results were published yesterday.",
+              "text": "I work to improve the service.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə ɹɪzˈʌlts wɜː pˈʌblɪʃt jˈɛstɚdˌeɪ."
+          "phonemes": "aɪ wˈɜːk tʊ ɪmpɹˈuːv ðə sˈɜːvɪs."
         },
         {
-          "text": "We work to improve access.",
+          "text": "The law was approved by congress.",
           "segments": [
             {
-              "text": "We work to improve access.",
+              "text": "The law was approved by congress.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wiː wˈɜːk tʊ ɪmpɹˈuːv ˈæksɛs."
+          "phonemes": "ðə lˈɔː wʌz ɐpɹˈuːvd baɪ kˈɑːŋɡɹəs."
         },
         {
-          "text": "The service closed because of a lack of funding.",
+          "text": "The data were published yesterday.",
           "segments": [
             {
-              "text": "The service closed because of a lack of funding.",
+              "text": "The data were published yesterday.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə sˈɜːvɪs klˈoʊzd bɪkˈʌz əvə lˈæk ʌv fˈʌndɪŋ."
+          "phonemes": "ðə dˈeɪɾə wɜː pˈʌblɪʃt jˈɛstɚdˌeɪ."
         },
         {
-          "text": "Identification is required to enter.",
+          "text": "I use 'para' to express purpose.",
           "segments": [
             {
-              "text": "Identification is required to enter.",
+              "text": "I use '",
+              "lang": "en-us"
+            },
+            {
+              "text": "para",
+              "lang": "es-419"
+            },
+            {
+              "text": "' to express purpose.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪdˈɛntɪfɪkˈeɪʃən ɪz ɹᵻkwˈaɪɚd tʊ ˈɛntɚ."
+          "phonemes": "aɪ jˈuːz pˈaɾa tʊ ɛkspɹˈɛs pˈɜːpəs."
         }
       ]
     },
@@ -287,7 +313,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Model language. La medida fue aprobada por el consejo. — The measure was approved by the council. Se publicaron los resultados ayer. — The results were published yesterday. Trabajamos para mejorar el acceso. — We work to improve access. El servicio cerró por falta de fondos. — The service closed because of a lack of funding. Se requiere identificación para entrar. — Identification is required to enter.",
+      "text": "Model language. El informe fue escrito por ella. — The report was written by her. Trabajo para mejorar el servicio. — I work to improve the service. La ley fue aprobada por el congreso. — The law was approved by congress. Los datos fueron publicados ayer. — The data were published yesterday. Uso 'para' para expresar propósito. — I use 'para' to express purpose.",
       "sentences": [
         {
           "text": "Model language.",
@@ -300,104 +326,112 @@
           "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
         },
         {
-          "text": "La medida fue aprobada por el consejo.",
+          "text": "El informe fue escrito por ella.",
           "segments": [
             {
-              "text": "La medida fue aprobada por el consejo.",
+              "text": "El informe fue escrito por ella.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la meðˈiða fwˈe ˌapɾoβˈaða poɾ el konsˈexo."
+          "phonemes": "el infˈoɾme fwˈe eskɾˈito poɾ ˈejja."
         },
         {
-          "text": "— The measure was approved by the council.",
+          "text": "— The report was written by her.",
           "segments": [
             {
-              "text": "— The measure was approved by the council.",
+              "text": "— The report was written by her.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ðə mˈɛʒɚ wʌz ɐpɹˈuːvd baɪ ðə kˈaʊnsəl."
+          "phonemes": "— ðə ɹᵻpˈɔːɹt wʌz ɹˈɪʔn baɪ hɜː."
         },
         {
-          "text": "Se publicaron los resultados ayer.",
+          "text": "Trabajo para mejorar el servicio.",
           "segments": [
             {
-              "text": "Se publicaron los resultados ayer.",
+              "text": "Trabajo para mejorar el servicio.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "se pˌuβlikˈaɾon los rˌesultˈaðos aʝˈeɾ."
+          "phonemes": "tɾaβˈaxo pˌaɾa mˌexoɾˈaɾ el seɾβˈisjo."
         },
         {
-          "text": "— The results were published yesterday.",
+          "text": "— I work to improve the service.",
           "segments": [
             {
-              "text": "— The results were published yesterday.",
+              "text": "— I work to improve the service.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ðə ɹɪzˈʌlts wɜː pˈʌblɪʃt jˈɛstɚdˌeɪ."
+          "phonemes": "— aɪ wˈɜːk tʊ ɪmpɹˈuːv ðə sˈɜːvɪs."
         },
         {
-          "text": "Trabajamos para mejorar el acceso.",
+          "text": "La ley fue aprobada por el congreso.",
           "segments": [
             {
-              "text": "Trabajamos para mejorar el acceso.",
+              "text": "La ley fue aprobada por el congreso.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "tɾˌaβaxˈamos pˌaɾa mˌexoɾˈaɾ el aksˈeso."
+          "phonemes": "la lˈeɪ fwˈe ˌapɾoβˈaða poɾ el koŋɡɾˈeso."
         },
         {
-          "text": "— We work to improve access.",
+          "text": "— The law was approved by congress.",
           "segments": [
             {
-              "text": "— We work to improve access.",
+              "text": "— The law was approved by congress.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— wiː wˈɜːk tʊ ɪmpɹˈuːv ˈæksɛs."
+          "phonemes": "— ðə lˈɔː wʌz ɐpɹˈuːvd baɪ kˈɑːŋɡɹəs."
         },
         {
-          "text": "El servicio cerró por falta de fondos.",
+          "text": "Los datos fueron publicados ayer.",
           "segments": [
             {
-              "text": "El servicio cerró por falta de fondos.",
+              "text": "Los datos fueron publicados ayer.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el seɾβˈisjo serˈo poɾ fˈalta ðe fˈondos."
+          "phonemes": "los ðˈatos fwˈeɾom pˌuβlikˈaðos aʝˈeɾ."
         },
         {
-          "text": "— The service closed because of a lack of funding.",
+          "text": "— The data were published yesterday.",
           "segments": [
             {
-              "text": "— The service closed because of a lack of funding.",
+              "text": "— The data were published yesterday.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ðə sˈɜːvɪs klˈoʊzd bɪkˈʌz əvə lˈæk ʌv fˈʌndɪŋ."
+          "phonemes": "— ðə dˈeɪɾə wɜː pˈʌblɪʃt jˈɛstɚdˌeɪ."
         },
         {
-          "text": "Se requiere identificación para entrar.",
+          "text": "Uso 'para' para expresar propósito.",
           "segments": [
             {
-              "text": "Se requiere identificación para entrar.",
+              "text": "Uso 'para' para expresar propósito.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "se rekjˈeɾe ˌiðentˌifikasjˈom pˌaɾa entɾˈaɾ."
+          "phonemes": "ˈuso pˌaɾa pˌaɾa ˌekspɾesˈaɾ pɾopˈosito."
         },
         {
-          "text": "— Identification is required to enter.",
+          "text": "— I use 'para' to express purpose.",
           "segments": [
             {
-              "text": "— Identification is required to enter.",
+              "text": "— I use '",
+              "lang": "en-us"
+            },
+            {
+              "text": "para",
+              "lang": "es-419"
+            },
+            {
+              "text": "' to express purpose.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— aɪdˈɛntɪfɪkˈeɪʃən ɪz ɹᵻkwˈaɪɚd tʊ ˈɛntɚ."
+          "phonemes": "— aɪ jˈuːz pˈaɾa tʊ ɛkspɹˈɛs pˈɜːpəs."
         }
       ]
     },
@@ -449,129 +483,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "por causa de",
+      "text": "por",
       "sentences": [
         {
-          "text": "por causa de",
+          "text": "por",
           "segments": [
             {
-              "text": "por causa de",
+              "text": "por",
               "lang": "es-419"
             }
           ],
-          "phonemes": "poɾ kˈaʊsa ðˈe"
+          "phonemes": "pˈoɾ"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "para lograr",
+      "text": "para",
       "sentences": [
         {
-          "text": "para lograr",
+          "text": "para",
           "segments": [
             {
-              "text": "para lograr",
+              "text": "para",
               "lang": "es-419"
             }
           ],
-          "phonemes": "pˌaɾa loɣɾˈaɾ"
+          "phonemes": "pˈaɾa"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "por medio de",
+      "text": "fue aprobado",
       "sentences": [
         {
-          "text": "por medio de",
+          "text": "fue aprobado",
           "segments": [
             {
-              "text": "por medio de",
+              "text": "fue aprobado",
               "lang": "es-419"
             }
           ],
-          "phonemes": "poɾ mˈeðjo ðˈe"
+          "phonemes": "fwˈe ˌapɾoβˈaðo"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "la medida",
+      "text": "fueron publicados",
       "sentences": [
         {
-          "text": "la medida",
+          "text": "fueron publicados",
           "segments": [
             {
-              "text": "la medida",
+              "text": "fueron publicados",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la meðˈiða"
+          "phonemes": "fwˈeɾom pˌuβlikˈaðos"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "aprobar",
+      "text": "el agente",
       "sentences": [
         {
-          "text": "aprobar",
+          "text": "el agente",
           "segments": [
             {
-              "text": "aprobar",
+              "text": "el agente",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˌapɾoβˈaɾ"
+          "phonemes": "el axˈɛnte"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "publicar",
+      "text": "la voz pasiva",
       "sentences": [
         {
-          "text": "publicar",
+          "text": "la voz pasiva",
           "segments": [
             {
-              "text": "publicar",
+              "text": "la voz pasiva",
               "lang": "es-419"
             }
           ],
-          "phonemes": "pˌuβlikˈaɾ"
+          "phonemes": "la βˈos pasˈiβa"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "se requiere",
+      "text": "ser + participio",
       "sentences": [
         {
-          "text": "se requiere",
+          "text": "ser + participio",
           "segments": [
             {
-              "text": "se requiere",
+              "text": "ser + participio",
               "lang": "es-419"
             }
           ],
-          "phonemes": "se rekjˈeɾe"
+          "phonemes": "sˈer mˈas pˌaɾtisˈipjo"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "se permite",
+      "text": "el propósito",
       "sentences": [
         {
-          "text": "se permite",
+          "text": "el propósito",
           "segments": [
             {
-              "text": "se permite",
+              "text": "el propósito",
               "lang": "es-419"
             }
           ],
-          "phonemes": "se peɾmˈite"
+          "phonemes": "el pɾopˈosito"
         }
       ]
     }

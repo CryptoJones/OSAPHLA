@@ -163,7 +163,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Model language. La población urbana aumentará. — The urban population will increase. Seguiremos midiendo los resultados. — We will continue measuring the results. ¿Dónde estará Marta ahora? — Where could Marta be now? Cuando termine el estudio, publicaremos los datos. — When the study ends, we will publish the data. Dentro de cinco años habrá nuevas opciones. — In five years there will be new options.",
+      "text": "Model language. Los pronósticos sobre demografía cambian con el tiempo. — Forecasts about demographics change over time. El medio ambiente influye en la tecnología futura. — The environment influences future technology. La vida económica depende de muchos factores. — Economic life depends on many factors. Es importante separar evidencia de especulación. — It's important to separate evidence from speculation. Calibrar bien un pronóstico es difícil. — Calibrating a forecast well is difficult.",
       "sentences": [
         {
           "text": "Model language.",
@@ -176,104 +176,104 @@
           "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
         },
         {
-          "text": "La población urbana aumentará.",
+          "text": "Los pronósticos sobre demografía cambian con el tiempo.",
           "segments": [
             {
-              "text": "La población urbana aumentará.",
+              "text": "Los pronósticos sobre demografía cambian con el tiempo.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la pˌoβlasjˈon uɾβˈana ˌaʊmentaɾˈa."
+          "phonemes": "los pɾonˈostikos sˌoβɾe ðˌemoɣɾafˈia kˈambjan kon el tjˈempo."
         },
         {
-          "text": "— The urban population will increase.",
+          "text": "— Forecasts about demographics change over time.",
           "segments": [
             {
-              "text": "— The urban population will increase.",
+              "text": "— Forecasts about demographics change over time.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ðɪ ˈɜːbən pˌɑːpjʊlˈeɪʃən wɪl ɪŋkɹˈiːs."
+          "phonemes": "— fˈɔːɹkæsts ɐbˌaʊt dˌɛməɡɹˈæfɪks tʃˈeɪndʒ ˌoʊvɚ tˈaɪm."
         },
         {
-          "text": "Seguiremos midiendo los resultados.",
+          "text": "El medio ambiente influye en la tecnología futura.",
           "segments": [
             {
-              "text": "Seguiremos midiendo los resultados.",
+              "text": "El medio ambiente influye en la tecnología futura.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "sˌeɣiɾˈemos miðjˈɛndo los rˌesultˈaðos."
+          "phonemes": "el mˈeðjo ambjˈɛnte imflˈuʝe en la tˌeknoloxˈia futˈuɾa."
         },
         {
-          "text": "— We will continue measuring the results.",
+          "text": "— The environment influences future technology.",
           "segments": [
             {
-              "text": "— We will continue measuring the results.",
+              "text": "— The environment influences future technology.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— wiː wɪl kəntˈɪnjuː mˈɛʒɚɹɪŋ ðə ɹɪzˈʌlts."
+          "phonemes": "— ðɪ ɛnvˈaɪɹənmənt ˈɪnfluːənsᵻz fjˈuːtʃɚ tɛknˈɑːlədʒi."
         },
         {
-          "text": "¿Dónde estará Marta ahora?",
+          "text": "La vida económica depende de muchos factores.",
           "segments": [
             {
-              "text": "¿Dónde estará Marta ahora?",
+              "text": "La vida económica depende de muchos factores.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "dˈonde ˌestaɾˈa mˈaɾta aˈoɾa?"
+          "phonemes": "la βˈiða ˌekonˈomika ðepˈɛnde ðe mˈutʃos faktˈoɾes."
         },
         {
-          "text": "— Where could Marta be now?",
+          "text": "— Economic life depends on many factors.",
           "segments": [
             {
-              "text": "— Where could Marta be now?",
+              "text": "— Economic life depends on many factors.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— wˌɛɹ kʊd mˈɑːɹɾə biː nˈaʊ?"
+          "phonemes": "— ˌiːkənˈɑːmɪk lˈaɪf dᵻpˈɛndz ˌɔn mˈɛni fˈæktɚz."
         },
         {
-          "text": "Cuando termine el estudio, publicaremos los datos.",
+          "text": "Es importante separar evidencia de especulación.",
           "segments": [
             {
-              "text": "Cuando termine el estudio, publicaremos los datos.",
+              "text": "Es importante separar evidencia de especulación.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "kwˌando teɾmˈine el estˈuðjo, pˌuβlikaɾˈemos los ðˈatos."
+          "phonemes": "ˈes ˌimpoɾtˈante sˌepaɾˈaɾ ˌeβiðˈɛnsja ðe ˌespekˌulasjˈon."
         },
         {
-          "text": "— When the study ends, we will publish the data.",
+          "text": "— It's important to separate evidence from speculation.",
           "segments": [
             {
-              "text": "— When the study ends, we will publish the data.",
+              "text": "— It's important to separate evidence from speculation.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— wˌɛn ðə stˈʌdi ˈɛndz, wiː wɪl pˈʌblɪʃ ðə dˈeɪɾə."
+          "phonemes": "— ɪts ɪmpˈɔːɹtənt tə sˈɛpɚɹˌeɪt ˈɛvɪdəns fɹʌm spˌɛkjʊlˈeɪʃən."
         },
         {
-          "text": "Dentro de cinco años habrá nuevas opciones.",
+          "text": "Calibrar bien un pronóstico es difícil.",
           "segments": [
             {
-              "text": "Dentro de cinco años habrá nuevas opciones.",
+              "text": "Calibrar bien un pronóstico es difícil.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "dˈɛntɾo ðe sˈinko ˈaɲos aβɾˈa nwˈeβas opsjˈones."
+          "phonemes": "kˌaliβɾˈaɾ βjˈen ˈum pɾonˈostiko ˈes ðifˈisil."
         },
         {
-          "text": "— In five years there will be new options.",
+          "text": "— Calibrating a forecast well is difficult.",
           "segments": [
             {
-              "text": "— In five years there will be new options.",
+              "text": "— Calibrating a forecast well is difficult.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ɪn fˈaɪv jˈɪɹz ðɛɹ wɪl biː nˈuː ˈɑːpʃənz."
+          "phonemes": "— kˈælɪbɹˌeɪɾɪŋ ɐ fˈɔːɹkæst wˈɛl ɪz dˈɪfɪkəlt."
         }
       ]
     },
@@ -325,129 +325,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "el futuro",
+      "text": "la demografía",
       "sentences": [
         {
-          "text": "el futuro",
+          "text": "la demografía",
           "segments": [
             {
-              "text": "el futuro",
+              "text": "la demografía",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el futˈuɾo"
+          "phonemes": "la ðˌemoɣɾafˈia"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "el cambio",
+      "text": "el medio ambiente",
       "sentences": [
         {
-          "text": "el cambio",
+          "text": "el medio ambiente",
           "segments": [
             {
-              "text": "el cambio",
+              "text": "el medio ambiente",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el kˈambjo"
+          "phonemes": "el mˈeðjo ambjˈɛnte"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "aumentar",
+      "text": "la tecnología",
       "sentences": [
         {
-          "text": "aumentar",
+          "text": "la tecnología",
           "segments": [
             {
-              "text": "aumentar",
+              "text": "la tecnología",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˌaʊmentˈaɾ"
+          "phonemes": "la tˌeknoloxˈia"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "disminuir",
+      "text": "la vida económica",
       "sentences": [
         {
-          "text": "disminuir",
+          "text": "la vida económica",
           "segments": [
             {
-              "text": "disminuir",
+              "text": "la vida económica",
               "lang": "es-419"
             }
           ],
-          "phonemes": "dˌisminwˈiɾ"
+          "phonemes": "la βˈiða ˌekonˈomika"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "lograr",
+      "text": "separar",
       "sentences": [
         {
-          "text": "lograr",
+          "text": "separar",
           "segments": [
             {
-              "text": "lograr",
+              "text": "separar",
               "lang": "es-419"
             }
           ],
-          "phonemes": "loɣɾˈaɾ"
+          "phonemes": "sˌepaɾˈaɾ"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "seguir",
+      "text": "la especulación",
       "sentences": [
         {
-          "text": "seguir",
+          "text": "la especulación",
           "segments": [
             {
-              "text": "seguir",
+              "text": "la especulación",
               "lang": "es-419"
             }
           ],
-          "phonemes": "seɣˈiɾ"
+          "phonemes": "la ˌespekˌulasjˈon"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "probablemente",
+      "text": "la evidencia",
       "sentences": [
         {
-          "text": "probablemente",
+          "text": "la evidencia",
           "segments": [
             {
-              "text": "probablemente",
+              "text": "la evidencia",
               "lang": "es-419"
             }
           ],
-          "phonemes": "pɾoβˈaβlemˈente"
+          "phonemes": "la ˌeβiðˈɛnsja"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "dentro de",
+      "text": "calibrar",
       "sentences": [
         {
-          "text": "dentro de",
+          "text": "calibrar",
           "segments": [
             {
-              "text": "dentro de",
+              "text": "calibrar",
               "lang": "es-419"
             }
           ],
-          "phonemes": "dˈɛntɾo ðˈe"
+          "phonemes": "kˌaliβɾˈaɾ"
         }
       ]
     }

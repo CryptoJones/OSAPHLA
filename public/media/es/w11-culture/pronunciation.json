@@ -53,11 +53,19 @@
               "lang": "es-419"
             },
             {
-              "text": ", regional staples, and meal etiquette.",
+              "text": ", ",
+              "lang": "en-us"
+            },
+            {
+              "text": "regional",
+              "lang": "es-419"
+            },
+            {
+              "text": " staples, and meal etiquette.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "mˈɑːɹkɪts, tˈɪpɪŋ, mˈɛnjuːz dˈɛl dˈia , ɹˈiːdʒənəl stˈeɪpəlz, ænd mˈiːl ˈɛɾɪkət."
+          "phonemes": "mˈɑːɹkɪts, tˈɪpɪŋ, mˈɛnjuːz dˈɛl dˈia , rˌexjonˈal stˈeɪpəlz, ænd mˈiːl ˈɛɾɪkət."
         }
       ]
     },
@@ -115,11 +123,19 @@
           "text": "Recognize regional choices and ask what a form means locally.",
           "segments": [
             {
-              "text": "Recognize regional choices and ask what a form means locally.",
+              "text": "Recognize ",
+              "lang": "en-us"
+            },
+            {
+              "text": "regional",
+              "lang": "es-419"
+            },
+            {
+              "text": " choices and ask what a form means locally.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɹˈɛkəɡnˌaɪz ɹˈiːdʒənəl tʃˈɔɪsᵻz ænd ˈæsk wʌt ɐ fˈɔːɹm mˈiːnz lˈoʊkəli."
+          "phonemes": "ɹˈɛkəɡnˌaɪz rˌexjonˈal tʃˈɔɪsᵻz ænd ˈæsk wʌt ɐ fˈɔːɹm mˈiːnz lˈoʊkəli."
         },
         {
           "text": "Use the neutral course model for production until the situation gives you a reason to adapt.",
@@ -171,7 +187,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Model language. Quisiera probar el plato del día. — I would like to try the daily special. ¿Cuánto cuesta un kilo de tomates? — How much does a kilogram of tomatoes cost? Para mí, una sopa sin carne. — For me, a soup without meat. El camarero nos trae la cuenta. — The waiter brings us the bill. Disculpe, pedí agua y no refresco. — Excuse me, I ordered water, not soda.",
+      "text": "Model language. La propina no es obligatoria en todos los países. — The tip isn't mandatory in every country. Cada mesero espera un trato distinto. — Each server expects different treatment. Los platos típicos varían por región. — Typical dishes vary by region. Compartir comida es común en muchas culturas. — Sharing food is common in many cultures. El horario de comida cambia mucho entre países. — Meal schedules change a lot between countries.",
       "sentences": [
         {
           "text": "Model language.",
@@ -184,104 +200,104 @@
           "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
         },
         {
-          "text": "Quisiera probar el plato del día.",
+          "text": "La propina no es obligatoria en todos los países.",
           "segments": [
             {
-              "text": "Quisiera probar el plato del día.",
+              "text": "La propina no es obligatoria en todos los países.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "kisjˈeɾa pɾoβˈaɾ el plˈato ðel ðˈia."
+          "phonemes": "la pɾopˈina nˈo ˈes ˌoβliɣatˈoɾja en tˈoðos los paˈises."
         },
         {
-          "text": "— I would like to try the daily special.",
+          "text": "— The tip isn't mandatory in every country.",
           "segments": [
             {
-              "text": "— I would like to try the daily special.",
+              "text": "— The tip isn't mandatory in every country.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— aɪ wʊd lˈaɪk tə tɹˈaɪ ðə dˈeɪli spˈɛʃəl."
+          "phonemes": "— ðə tˈɪp ˌɪzənt mˈændətˌɔːɹi ɪn ˈɛvɹi kˈʌntɹi."
         },
         {
-          "text": "¿Cuánto cuesta un kilo de tomates?",
+          "text": "Cada mesero espera un trato distinto.",
           "segments": [
             {
-              "text": "¿Cuánto cuesta un kilo de tomates?",
+              "text": "Cada mesero espera un trato distinto.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "kwˈanto kwˈesta ˈuŋ kˈilo ðe tomˈates?"
+          "phonemes": "kˈaða mesˈeɾo espˈeɾa ˈun tɾˈato ðistˈinto."
         },
         {
-          "text": "— How much does a kilogram of tomatoes cost?",
+          "text": "— Each server expects different treatment.",
           "segments": [
             {
-              "text": "— How much does a kilogram of tomatoes cost?",
+              "text": "— Each server expects different treatment.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— hˌaʊ mˈʌtʃ dˈʌz ɐ kˈɪləɡɹˌæm ʌv təmˈeɪɾoʊz kˈɔst?"
+          "phonemes": "— ˈiːtʃ sˈɜːvɚɹ ɛkspˈɛkts dˈɪfɹənt tɹˈiːtmənt."
         },
         {
-          "text": "Para mí, una sopa sin carne.",
+          "text": "Los platos típicos varían por región.",
           "segments": [
             {
-              "text": "Para mí, una sopa sin carne.",
+              "text": "Los platos típicos varían por región.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "pˌaɾa mˈi, ˈuna sˈopa sin kˈaɾne."
+          "phonemes": "los plˈatos tˈipikos βaɾˈiam poɾ rexjˈon."
         },
         {
-          "text": "— For me, a soup without meat.",
+          "text": "— Typical dishes vary by region.",
           "segments": [
             {
-              "text": "— For me, a soup without meat.",
+              "text": "— Typical dishes vary by region.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— fɔːɹ mˌiː, ɐ sˈuːp wɪðˌaʊt mˈiːt."
+          "phonemes": "— tˈɪpɪkəl dˈɪʃᵻz vˈɛɹi baɪ ɹˈiːdʒən."
         },
         {
-          "text": "El camarero nos trae la cuenta.",
+          "text": "Compartir comida es común en muchas culturas.",
           "segments": [
             {
-              "text": "El camarero nos trae la cuenta.",
+              "text": "Compartir comida es común en muchas culturas.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el kˌamaɾˈeɾo nos tɾˈae la kwˈɛnta."
+          "phonemes": "kˌompaɾtˈiɾ komˈiða ˈes komˈun en mˈutʃas kultˈuɾas."
         },
         {
-          "text": "— The waiter brings us the bill.",
+          "text": "— Sharing food is common in many cultures.",
           "segments": [
             {
-              "text": "— The waiter brings us the bill.",
+              "text": "— Sharing food is common in many cultures.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ðə wˈeɪɾɚ bɹˈɪŋz ˌʌs ðə bˈɪl."
+          "phonemes": "— ʃˈɛɹɪŋ fˈuːd ɪz kˈɑːmən ɪn mˈɛni kˈʌltʃɚz."
         },
         {
-          "text": "Disculpe, pedí agua y no refresco.",
+          "text": "El horario de comida cambia mucho entre países.",
           "segments": [
             {
-              "text": "Disculpe, pedí agua y no refresco.",
+              "text": "El horario de comida cambia mucho entre países.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "diskˈulpe, peðˈi ˈaɣwa i nˈo refɾˈesko."
+          "phonemes": "el oɾˈaɾjo ðe komˈiða kˈambja mˈutʃo ˌentɾe paˈises."
         },
         {
-          "text": "— Excuse me, I ordered water, not soda.",
+          "text": "— Meal schedules change a lot between countries.",
           "segments": [
             {
-              "text": "— Excuse me, I ordered water, not soda.",
-              "lang": "es-419"
+              "text": "— Meal schedules change a lot between countries.",
+              "lang": "en-us"
             }
           ],
-          "phonemes": "— ekskˈuse mˈe, ˈi ˌoɾðeɾˈed watˈeɾ, nˈot sˈoða."
+          "phonemes": "— mˈiːl skˈɛdʒuːlz tʃˈeɪndʒ ɐ lˈɑːt bᵻtwˌiːn kˈʌntɹiz."
         }
       ]
     },
@@ -333,129 +349,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "el mercado",
+      "text": "la propina",
       "sentences": [
         {
-          "text": "el mercado",
+          "text": "la propina",
           "segments": [
             {
-              "text": "el mercado",
+              "text": "la propina",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el meɾkˈaðo"
+          "phonemes": "la pɾopˈina"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "la cuenta",
+      "text": "la etiqueta",
       "sentences": [
         {
-          "text": "la cuenta",
+          "text": "la etiqueta",
           "segments": [
             {
-              "text": "la cuenta",
+              "text": "la etiqueta",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la kwˈɛnta"
+          "phonemes": "la ˌetikˈeta"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "el plato",
+      "text": "el mesero",
       "sentences": [
         {
-          "text": "el plato",
+          "text": "el mesero",
           "segments": [
             {
-              "text": "el plato",
+              "text": "el mesero",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el plˈato"
+          "phonemes": "el mesˈeɾo"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "la bebida",
+      "text": "regional",
       "sentences": [
         {
-          "text": "la bebida",
+          "text": "regional",
           "segments": [
             {
-              "text": "la bebida",
+              "text": "regional",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la βeβˈiða"
+          "phonemes": "rˌexjonˈal"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "un kilo",
+      "text": "el plato típico",
       "sentences": [
         {
-          "text": "un kilo",
+          "text": "el plato típico",
           "segments": [
             {
-              "text": "un kilo",
+              "text": "el plato típico",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˈuŋ kˈilo"
+          "phonemes": "el plˈato tˈipiko"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "sin",
+      "text": "compartir",
       "sentences": [
         {
-          "text": "sin",
+          "text": "compartir",
           "segments": [
             {
-              "text": "sin",
+              "text": "compartir",
               "lang": "es-419"
             }
           ],
-          "phonemes": "sˈin"
+          "phonemes": "kˌompaɾtˈiɾ"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "quisiera",
+      "text": "el horario de comida",
       "sentences": [
         {
-          "text": "quisiera",
+          "text": "el horario de comida",
           "segments": [
             {
-              "text": "quisiera",
+              "text": "el horario de comida",
               "lang": "es-419"
             }
           ],
-          "phonemes": "kisjˈeɾa"
+          "phonemes": "el oɾˈaɾjo ðe komˈiða"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "probar",
+      "text": "esperado",
       "sentences": [
         {
-          "text": "probar",
+          "text": "esperado",
           "segments": [
             {
-              "text": "probar",
+              "text": "esperado",
               "lang": "es-419"
             }
           ],
-          "phonemes": "pɾoβˈaɾ"
+          "phonemes": "ˌespeɾˈaðo"
         }
       ]
     }

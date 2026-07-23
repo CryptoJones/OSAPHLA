@@ -29,7 +29,7 @@
     },
     {
       "file": "01.wav",
-      "text": "Form and meaning. Ir a; location prepositions; informal commands for directions; seguir and doblar.",
+      "text": "Form and meaning. Applying the form. Formal (usted) commands drop the -ar/-er/-ir ending and add the opposite-vowel ending: siga, doble, cruce, camine, vaya.",
       "sentences": [
         {
           "text": "Form and meaning.",
@@ -42,26 +42,88 @@
           "phonemes": "fˈɔːɹm ænd mˈiːnɪŋ."
         },
         {
-          "text": "Ir a; location prepositions; informal commands for directions; seguir and doblar.",
+          "text": "Applying the form.",
           "segments": [
             {
-              "text": "Ir",
-              "lang": "es-419"
-            },
+              "text": "Applying the form.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɐplˈaɪɪŋ ðə fˈɔːɹm."
+        },
+        {
+          "text": "Formal (usted) commands drop the -ar/-er/-ir ending and add the opposite-vowel ending: siga, doble, cruce, camine, vaya.",
+          "segments": [
             {
-              "text": " a; location prepositions; informal commands for directions; ",
+              "text": "Formal (",
               "lang": "en-us"
             },
             {
-              "text": "seguir",
+              "text": "usted",
               "lang": "es-419"
             },
             {
-              "text": " and ",
+              "text": ") commands drop the ",
               "lang": "en-us"
             },
             {
-              "text": "doblar",
+              "text": "-ar",
+              "lang": "es-419"
+            },
+            {
+              "text": "/",
+              "lang": "en-us"
+            },
+            {
+              "text": "-er",
+              "lang": "es-419"
+            },
+            {
+              "text": "/",
+              "lang": "en-us"
+            },
+            {
+              "text": "-ir",
+              "lang": "es-419"
+            },
+            {
+              "text": " ending and add the opposite-vowel ending: ",
+              "lang": "en-us"
+            },
+            {
+              "text": "siga",
+              "lang": "es-419"
+            },
+            {
+              "text": ", ",
+              "lang": "en-us"
+            },
+            {
+              "text": "doble",
+              "lang": "es-419"
+            },
+            {
+              "text": ", ",
+              "lang": "en-us"
+            },
+            {
+              "text": "cruce",
+              "lang": "es-419"
+            },
+            {
+              "text": ", ",
+              "lang": "en-us"
+            },
+            {
+              "text": "camine",
+              "lang": "es-419"
+            },
+            {
+              "text": ", ",
+              "lang": "en-us"
+            },
+            {
+              "text": "vaya",
               "lang": "es-419"
             },
             {
@@ -69,13 +131,13 @@
               "lang": "en-us"
             }
           ],
-          "phonemes": "ˈiɾ ˈeɪ; loʊkˈeɪʃən pɹˌɛpəzˈɪʃənz; ɪnfˈɔːɹməl kəmˈændz fɔːɹ dᵻɹˈɛkʃənz; seɣˈiɾ ænd doβlˈaɾ ."
+          "phonemes": "fˈɔːɹməl ( ustˈed ) kəmˈændz dɹˈɑːp ðə ˈaɾ slˈæʃ ˈeɾ slˈæʃ ˈiɾ ˈɛndɪŋ ænd ˈæd ðɪ ˈɑːpəzˌɪtvˈaʊəl ˈɛndɪŋ: sˈiɣa , dˈoβle , kɾˈuse , kamˈine , bˈaʝa ."
         }
       ]
     },
     {
       "file": "02.wav",
-      "text": "Model set. Siga derecho hasta la plaza. Doble a la izquierda en la segunda esquina. ¿Voy bien para el ayuntamiento? Nos perdimos cerca de la estación. El banco queda enfrente del correo. Go straight to the plaza. Turn left at the second corner. Am I going the right way to city hall? We got lost near the station. The bank is across from the post office.",
+      "text": "Model set. Siga derecho hasta la plaza. Doble a la izquierda en la esquina. Cruce la calle con cuidado. Camine dos cuadras más. Vaya hacia el norte. Go straight to the square. Turn left at the corner. Cross the street carefully. Walk two more blocks. Go north.",
       "sentences": [
         {
           "text": "Model set.",
@@ -98,94 +160,94 @@
           "phonemes": "sˈiɣa ðeɾˈetʃo ˌasta la plˈasa."
         },
         {
-          "text": "Doble a la izquierda en la segunda esquina.",
+          "text": "Doble a la izquierda en la esquina.",
           "segments": [
             {
-              "text": "Doble a la izquierda en la segunda esquina.",
+              "text": "Doble a la izquierda en la esquina.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "dˈoβle a la iskjˈeɾða en la seɣˈunda eskˈina."
+          "phonemes": "dˈoβle a la iskjˈeɾða en la eskˈina."
         },
         {
-          "text": "¿Voy bien para el ayuntamiento?",
+          "text": "Cruce la calle con cuidado.",
           "segments": [
             {
-              "text": "¿Voy bien para el ayuntamiento?",
+              "text": "Cruce la calle con cuidado.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "bˈoɪ βjˈem pˌaɾa el ˌaʝuntamjˈɛnto?"
+          "phonemes": "kɾˈuse la kˈajje kon kwiðˈaðo."
         },
         {
-          "text": "Nos perdimos cerca de la estación.",
+          "text": "Camine dos cuadras más.",
           "segments": [
             {
-              "text": "Nos perdimos cerca de la estación.",
+              "text": "Camine dos cuadras más.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "nos peɾðˈimos sˈeɾka ðe la ˌestasjˈon."
+          "phonemes": "kamˈine ðˈos kwˈaðɾas mˈas."
         },
         {
-          "text": "El banco queda enfrente del correo.",
+          "text": "Vaya hacia el norte.",
           "segments": [
             {
-              "text": "El banco queda enfrente del correo.",
+              "text": "Vaya hacia el norte.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el βˈanko kˈeða emfɾˈɛnte ðel korˈeo."
+          "phonemes": "bˈaʝa ˌasja el nˈoɾte."
         },
         {
-          "text": "Go straight to the plaza.",
+          "text": "Go straight to the square.",
           "segments": [
             {
-              "text": "Go straight to the plaza.",
+              "text": "Go straight to the square.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɡˌoʊ stɹˈeɪt tə ðə plˈɑːzə."
+          "phonemes": "ɡˌoʊ stɹˈeɪt tə ðə skwˈɛɹ."
         },
         {
-          "text": "Turn left at the second corner.",
+          "text": "Turn left at the corner.",
           "segments": [
             {
-              "text": "Turn left at the second corner.",
+              "text": "Turn left at the corner.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tˈɜːn lˈɛft æt ðə sˈɛkənd kˈɔːɹnɚ."
+          "phonemes": "tˈɜːn lˈɛft æt ðə kˈɔːɹnɚ."
         },
         {
-          "text": "Am I going the right way to city hall?",
+          "text": "Cross the street carefully.",
           "segments": [
             {
-              "text": "Am I going the right way to city hall?",
+              "text": "Cross the street carefully.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "æm aɪ ɡˌoʊɪŋ ðə ɹˈaɪt wˈeɪ tə sˈɪɾi hˈɔːl?"
+          "phonemes": "kɹˈɔs ðə stɹˈiːt kˈɛɹfəli."
         },
         {
-          "text": "We got lost near the station.",
+          "text": "Walk two more blocks.",
           "segments": [
             {
-              "text": "We got lost near the station.",
+              "text": "Walk two more blocks.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wiː ɡɑːt lˈɔst nˌɪɹ ðə stˈeɪʃən."
+          "phonemes": "wˈɔːk tˈuː mˈɔːɹ blˈɑːks."
         },
         {
-          "text": "The bank is across from the post office.",
+          "text": "Go north.",
           "segments": [
             {
-              "text": "The bank is across from the post office.",
+              "text": "Go north.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə bˈæŋk ɪz əkɹˌɑːs fɹʌmðə pˈoʊst ˈɑːfɪs."
+          "phonemes": "ɡˌoʊ nˈɔːɹθ."
         }
       ]
     },
@@ -263,7 +325,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Model language. Siga derecho hasta la plaza. — Go straight to the plaza. Doble a la izquierda en la segunda esquina. — Turn left at the second corner. ¿Voy bien para el ayuntamiento? — Am I going the right way to city hall? Nos perdimos cerca de la estación. — We got lost near the station. El banco queda enfrente del correo. — The bank is across from the post office.",
+      "text": "Model language. Siga derecho hasta la plaza. — Go straight to the square. Doble a la izquierda en la esquina. — Turn left at the corner. Cruce la calle con cuidado. — Cross the street carefully. Camine dos cuadras más. — Walk two more blocks. Vaya hacia el norte. — Go north.",
       "sentences": [
         {
           "text": "Model language.",
@@ -286,94 +348,94 @@
           "phonemes": "sˈiɣa ðeɾˈetʃo ˌasta la plˈasa."
         },
         {
-          "text": "— Go straight to the plaza.",
+          "text": "— Go straight to the square.",
           "segments": [
             {
-              "text": "— Go straight to the plaza.",
+              "text": "— Go straight to the square.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ɡˌoʊ stɹˈeɪt tə ðə plˈɑːzə."
+          "phonemes": "— ɡˌoʊ stɹˈeɪt tə ðə skwˈɛɹ."
         },
         {
-          "text": "Doble a la izquierda en la segunda esquina.",
+          "text": "Doble a la izquierda en la esquina.",
           "segments": [
             {
-              "text": "Doble a la izquierda en la segunda esquina.",
+              "text": "Doble a la izquierda en la esquina.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "dˈoβle a la iskjˈeɾða en la seɣˈunda eskˈina."
+          "phonemes": "dˈoβle a la iskjˈeɾða en la eskˈina."
         },
         {
-          "text": "— Turn left at the second corner.",
+          "text": "— Turn left at the corner.",
           "segments": [
             {
-              "text": "— Turn left at the second corner.",
+              "text": "— Turn left at the corner.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— tˈɜːn lˈɛft æt ðə sˈɛkənd kˈɔːɹnɚ."
+          "phonemes": "— tˈɜːn lˈɛft æt ðə kˈɔːɹnɚ."
         },
         {
-          "text": "¿Voy bien para el ayuntamiento?",
+          "text": "Cruce la calle con cuidado.",
           "segments": [
             {
-              "text": "¿Voy bien para el ayuntamiento?",
+              "text": "Cruce la calle con cuidado.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "bˈoɪ βjˈem pˌaɾa el ˌaʝuntamjˈɛnto?"
+          "phonemes": "kɾˈuse la kˈajje kon kwiðˈaðo."
         },
         {
-          "text": "— Am I going the right way to city hall?",
+          "text": "— Cross the street carefully.",
           "segments": [
             {
-              "text": "— Am I going the right way to city hall?",
+              "text": "— Cross the street carefully.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— æm aɪ ɡˌoʊɪŋ ðə ɹˈaɪt wˈeɪ tə sˈɪɾi hˈɔːl?"
+          "phonemes": "— kɹˈɔs ðə stɹˈiːt kˈɛɹfəli."
         },
         {
-          "text": "Nos perdimos cerca de la estación.",
+          "text": "Camine dos cuadras más.",
           "segments": [
             {
-              "text": "Nos perdimos cerca de la estación.",
+              "text": "Camine dos cuadras más.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "nos peɾðˈimos sˈeɾka ðe la ˌestasjˈon."
+          "phonemes": "kamˈine ðˈos kwˈaðɾas mˈas."
         },
         {
-          "text": "— We got lost near the station.",
+          "text": "— Walk two more blocks.",
           "segments": [
             {
-              "text": "— We got lost near the station.",
+              "text": "— Walk two more blocks.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— wiː ɡɑːt lˈɔst nˌɪɹ ðə stˈeɪʃən."
+          "phonemes": "— wˈɔːk tˈuː mˈɔːɹ blˈɑːks."
         },
         {
-          "text": "El banco queda enfrente del correo.",
+          "text": "Vaya hacia el norte.",
           "segments": [
             {
-              "text": "El banco queda enfrente del correo.",
+              "text": "Vaya hacia el norte.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el βˈanko kˈeða emfɾˈɛnte ðel korˈeo."
+          "phonemes": "bˈaʝa ˌasja el nˈoɾte."
         },
         {
-          "text": "— The bank is across from the post office.",
+          "text": "— Go north.",
           "segments": [
             {
-              "text": "— The bank is across from the post office.",
+              "text": "— Go north.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ðə bˈæŋk ɪz əkɹˌɑːs fɹʌmðə pˈoʊst ˈɑːfɪs."
+          "phonemes": "— ɡˌoʊ nˈɔːɹθ."
         }
       ]
     },
@@ -425,129 +487,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "la calle",
+      "text": "siga",
       "sentences": [
         {
-          "text": "la calle",
+          "text": "siga",
           "segments": [
             {
-              "text": "la calle",
+              "text": "siga",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la kˈajje"
+          "phonemes": "sˈiɣa"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "la esquina",
+      "text": "doble",
       "sentences": [
         {
-          "text": "la esquina",
+          "text": "doble",
           "segments": [
             {
-              "text": "la esquina",
+              "text": "doble",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la eskˈina"
+          "phonemes": "dˈoβle"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "derecho",
+      "text": "cruce",
       "sentences": [
         {
-          "text": "derecho",
+          "text": "cruce",
           "segments": [
             {
-              "text": "derecho",
+              "text": "cruce",
               "lang": "es-419"
             }
           ],
-          "phonemes": "deɾˈetʃo"
+          "phonemes": "kɾˈuse"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "la derecha",
+      "text": "camine",
       "sentences": [
         {
-          "text": "la derecha",
+          "text": "camine",
           "segments": [
             {
-              "text": "la derecha",
+              "text": "camine",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la ðeɾˈetʃa"
+          "phonemes": "kamˈine"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "la izquierda",
+      "text": "vaya",
       "sentences": [
         {
-          "text": "la izquierda",
+          "text": "vaya",
           "segments": [
             {
-              "text": "la izquierda",
+              "text": "vaya",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la iskjˈeɾða"
+          "phonemes": "bˈaʝa"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "doblar",
+      "text": "el imperativo",
       "sentences": [
         {
-          "text": "doblar",
+          "text": "el imperativo",
           "segments": [
             {
-              "text": "doblar",
+              "text": "el imperativo",
               "lang": "es-419"
             }
           ],
-          "phonemes": "doβlˈaɾ"
+          "phonemes": "el ˌimpeɾatˈiβo"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "seguir",
+      "text": "usted",
       "sentences": [
         {
-          "text": "seguir",
+          "text": "usted",
           "segments": [
             {
-              "text": "seguir",
+              "text": "usted",
               "lang": "es-419"
             }
           ],
-          "phonemes": "seɣˈiɾ"
+          "phonemes": "ustˈed"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "perderse",
+      "text": "la cuadra",
       "sentences": [
         {
-          "text": "perderse",
+          "text": "la cuadra",
           "segments": [
             {
-              "text": "perderse",
+              "text": "la cuadra",
               "lang": "es-419"
             }
           ],
-          "phonemes": "peɾðˈeɾse"
+          "phonemes": "la kwˈaðɾa"
         }
       ]
     }

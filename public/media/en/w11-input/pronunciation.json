@@ -163,7 +163,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Lenguaje modelo. I'd like to try the daily special. — Quisiera probar el plato del día. How much is a pound of tomatoes? — ¿Cuánto cuesta una libra de tomates? I'd like soup without meat. — Quisiera una sopa sin carne. The server brings us the check. — La persona que atiende nos trae la cuenta. Excuse me, I ordered water, not soda. — Disculpe, pedí agua, no refresco.",
+      "text": "Lenguaje modelo. Sara compares prices at the market. — Sara compara precios en el mercado. She buys fresh vegetables. — Compra verduras frescas. She orders the daily special. — Pide el plato del día. She asks about the ingredients. — Pregunta por los ingredientes. She explains that she's allergic to nuts. — Explica que tiene alergia a las nueces.",
       "sentences": [
         {
           "text": "Lenguaje modelo.",
@@ -176,104 +176,104 @@
           "phonemes": "leŋɡwˈaxe moðˈelo."
         },
         {
-          "text": "I'd like to try the daily special.",
+          "text": "Sara compares prices at the market.",
           "segments": [
             {
-              "text": "I'd like to try the daily special.",
+              "text": "Sara compares prices at the market.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪd lˈaɪk tə tɹˈaɪ ðə dˈeɪli spˈɛʃəl."
+          "phonemes": "sˈɛɹə kəmpˈɛɹz pɹˈaɪsᵻz æt ðə mˈɑːɹkɪt."
         },
         {
-          "text": "— Quisiera probar el plato del día.",
+          "text": "— Sara compara precios en el mercado.",
           "segments": [
             {
-              "text": "— Quisiera probar el plato del día.",
+              "text": "— Sara compara precios en el mercado.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— kisjˈeɾa pɾoβˈaɾ el plˈato ðel ðˈia."
+          "phonemes": "— sˈaɾa kompˈaɾa pɾˈesjos en el meɾkˈaðo."
         },
         {
-          "text": "How much is a pound of tomatoes?",
+          "text": "She buys fresh vegetables.",
           "segments": [
             {
-              "text": "How much is a pound of tomatoes?",
+              "text": "She buys fresh vegetables.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "hˌaʊ mˈʌtʃ ɪz ɐ pˈaʊnd ʌv təmˈeɪɾoʊz?"
+          "phonemes": "ʃiː bˈaɪz fɹˈɛʃ vˈɛdʒɪɾəbəlz."
         },
         {
-          "text": "— ¿Cuánto cuesta una libra de tomates?",
+          "text": "— Compra verduras frescas.",
           "segments": [
             {
-              "text": "— ¿Cuánto cuesta una libra de tomates?",
+              "text": "— Compra verduras frescas.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— kwˈanto kwˈesta ˈuna lˈiβɾa ðe tomˈates?"
+          "phonemes": "— kˈompɾa βeɾðˈuɾas fɾˈeskas."
         },
         {
-          "text": "I'd like soup without meat.",
+          "text": "She orders the daily special.",
           "segments": [
             {
-              "text": "I'd like soup without meat.",
+              "text": "She orders the daily special.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪd lˈaɪk sˈuːp wɪðˌaʊt mˈiːt."
+          "phonemes": "ʃiː ˈɔːɹdɚz ðə dˈeɪli spˈɛʃəl."
         },
         {
-          "text": "— Quisiera una sopa sin carne.",
+          "text": "— Pide el plato del día.",
           "segments": [
             {
-              "text": "— Quisiera una sopa sin carne.",
+              "text": "— Pide el plato del día.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— kisjˈeɾa ˈuna sˈopa sin kˈaɾne."
+          "phonemes": "— pˈiðe el plˈato ðel ðˈia."
         },
         {
-          "text": "The server brings us the check.",
+          "text": "She asks about the ingredients.",
           "segments": [
             {
-              "text": "The server brings us the check.",
+              "text": "She asks about the ingredients.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə sˈɜːvɚ bɹˈɪŋz ˌʌs ðə tʃˈɛk."
+          "phonemes": "ʃiː ˈæsks ɐbˌaʊt ðɪ ɪŋɡɹˈiːdiənts."
         },
         {
-          "text": "— La persona que atiende nos trae la cuenta.",
+          "text": "— Pregunta por los ingredientes.",
           "segments": [
             {
-              "text": "— La persona que atiende nos trae la cuenta.",
+              "text": "— Pregunta por los ingredientes.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— la peɾsˈona ke atjˈɛnde nos tɾˈae la kwˈɛnta."
+          "phonemes": "— pɾeɣˈunta poɾ los ˌiŋɡɾeðjˈɛntes."
         },
         {
-          "text": "Excuse me, I ordered water, not soda.",
+          "text": "She explains that she's allergic to nuts.",
           "segments": [
             {
-              "text": "Excuse me, I ordered water, not soda.",
+              "text": "She explains that she's allergic to nuts.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɛkskjˈuːs mˌiː, aɪ ˈɔːɹdɚd wˈɔːɾɚ, nˌɑːt sˈoʊdə."
+          "phonemes": "ʃiː ɛksplˈeɪnz ðæt ʃiːz ɐlˈɜːdʒɪk tə nˈʌts."
         },
         {
-          "text": "— Disculpe, pedí agua, no refresco.",
+          "text": "— Explica que tiene alergia a las nueces.",
           "segments": [
             {
-              "text": "— Disculpe, pedí agua, no refresco.",
+              "text": "— Explica que tiene alergia a las nueces.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— diskˈulpe, peðˈi ˈaɣwa, nˈo refɾˈesko."
+          "phonemes": "— eksplˈika ke tjˈene alˈeɾxja a las nwˈeses."
         }
       ]
     },
@@ -325,129 +325,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "a market",
+      "text": "to compare",
       "sentences": [
         {
-          "text": "a market",
+          "text": "to compare",
           "segments": [
             {
-              "text": "a market",
+              "text": "to compare",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ mˈɑːɹkɪt"
+          "phonemes": "tə kəmpˈɛɹ"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "the check",
+      "text": "a price",
       "sentences": [
         {
-          "text": "the check",
+          "text": "a price",
           "segments": [
             {
-              "text": "the check",
+              "text": "a price",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə tʃˈɛk"
+          "phonemes": "ɐ pɹˈaɪs"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "a dish",
+      "text": "fresh",
       "sentences": [
         {
-          "text": "a dish",
+          "text": "fresh",
           "segments": [
             {
-              "text": "a dish",
+              "text": "fresh",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ dˈɪʃ"
+          "phonemes": "fɹˈɛʃ"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "a drink",
+      "text": "an ingredient",
       "sentences": [
         {
-          "text": "a drink",
+          "text": "an ingredient",
           "segments": [
             {
-              "text": "a drink",
+              "text": "an ingredient",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ dɹˈɪŋk"
+          "phonemes": "ɐn ɪŋɡɹˈiːdiənt"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "a pound",
+      "text": "an allergy",
       "sentences": [
         {
-          "text": "a pound",
+          "text": "an allergy",
           "segments": [
             {
-              "text": "a pound",
+              "text": "an allergy",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ pˈaʊnd"
+          "phonemes": "ɐn ˈælɚdʒi"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "without",
+      "text": "a nut",
       "sentences": [
         {
-          "text": "without",
+          "text": "a nut",
           "segments": [
             {
-              "text": "without",
+              "text": "a nut",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wɪðˈaʊt"
+          "phonemes": "ɐ nˈʌt"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "I would like",
+      "text": "to explain",
       "sentences": [
         {
-          "text": "I would like",
+          "text": "to explain",
           "segments": [
             {
-              "text": "I would like",
+              "text": "to explain",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪ wʊd lˈaɪk"
+          "phonemes": "tʊ ɛksplˈeɪn"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "to try",
+      "text": "the daily special",
       "sentences": [
         {
-          "text": "to try",
+          "text": "the daily special",
           "segments": [
             {
-              "text": "to try",
+              "text": "the daily special",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə tɹˈaɪ"
+          "phonemes": "ðə dˈeɪli spˈɛʃəl"
         }
       ]
     }

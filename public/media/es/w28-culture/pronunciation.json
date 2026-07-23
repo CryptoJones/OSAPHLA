@@ -163,7 +163,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Model language. Dudo que la cifra sea correcta. — I doubt that the figure is correct. Es probable que llueva esta noche. — It will probably rain tonight. Salimos temprano para que haya tiempo suficiente. — We are leaving early so that there is enough time. No firmaremos a menos que cambien la cláusula. — We will not sign unless they change the clause. Llámame en cuanto llegues. — Call me as soon as you arrive.",
+      "text": "Model language. Un rumor no es lo mismo que un hecho. — A rumor is not the same as a fact. Una inferencia debe basarse en evidencia verificable. — An inference should be based on verifiable evidence. No toda fuente es igual de confiable. — Not every source is equally reliable. Hay que distinguir una afirmación de una prueba. — You have to distinguish a claim from proof. El sesgo puede afectar la interpretación. — Bias can affect interpretation.",
       "sentences": [
         {
           "text": "Model language.",
@@ -176,104 +176,104 @@
           "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
         },
         {
-          "text": "Dudo que la cifra sea correcta.",
+          "text": "Un rumor no es lo mismo que un hecho.",
           "segments": [
             {
-              "text": "Dudo que la cifra sea correcta.",
+              "text": "Un rumor no es lo mismo que un hecho.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "dˈuðo ke la sˈifɾa sˈea korˈekta."
+          "phonemes": "ˈun rumˈoɾ nˈo ˈes lo mˈismo ke ˈun ˈetʃo."
         },
         {
-          "text": "— I doubt that the figure is correct.",
+          "text": "— A rumor is not the same as a fact.",
           "segments": [
             {
-              "text": "— I doubt that the figure is correct.",
+              "text": "— A rumor is not the same as a fact.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— aɪ dˈaʊt ðætðə fˈɪɡjɚɹ ɪz kɚɹˈɛkt."
+          "phonemes": "— ɐ ɹˈuːmɚɹ ɪz nˌɑːt ðə sˈeɪm æz ɐ fˈækt."
         },
         {
-          "text": "Es probable que llueva esta noche.",
+          "text": "Una inferencia debe basarse en evidencia verificable.",
           "segments": [
             {
-              "text": "Es probable que llueva esta noche.",
+              "text": "Una inferencia debe basarse en evidencia verificable.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˈes pɾoβˈaβle ke ʝuˈeβa ˈesta nˈotʃe."
+          "phonemes": "ˈuna ˌinfeɾˈɛnsja ðˈeβe βasˈaɾse en ˌeβiðˈɛnsja βˌeɾifikˈaβle."
         },
         {
-          "text": "— It will probably rain tonight.",
+          "text": "— An inference should be based on verifiable evidence.",
           "segments": [
             {
-              "text": "— It will probably rain tonight.",
+              "text": "— An inference should be based on verifiable evidence.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ɪt wɪl pɹˈɑːbəbli ɹˈeɪn tənˈaɪt."
+          "phonemes": "— ɐn ˈɪnfɚɹəns ʃˌʊd biː bˈeɪst ˌɔn vˈɛɹɪfˌaɪəbəl ˈɛvɪdəns."
         },
         {
-          "text": "Salimos temprano para que haya tiempo suficiente.",
+          "text": "No toda fuente es igual de confiable.",
           "segments": [
             {
-              "text": "Salimos temprano para que haya tiempo suficiente.",
+              "text": "No toda fuente es igual de confiable.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "salˈimos tempɾˈano pˌaɾa ke ˈaʝa tjˈempo sˌufisjˈɛnte."
+          "phonemes": "nˈo tˈoða fwˈɛnte ˈes iɣwˈal ðe konfjˈaβle."
         },
         {
-          "text": "— We are leaving early so that there is enough time.",
+          "text": "— Not every source is equally reliable.",
           "segments": [
             {
-              "text": "— We are leaving early so that there is enough time.",
+              "text": "— Not every source is equally reliable.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— wiː ɑːɹ lˈiːvɪŋ ˈɜːli sˌoʊ ðæt ðɛɹ ɪz ɪnˈʌf tˈaɪm."
+          "phonemes": "— nˌɑːt ˈɛvɹi sˈɔːɹs ɪz ˈiːkwəli ɹᵻlˈaɪəbəl."
         },
         {
-          "text": "No firmaremos a menos que cambien la cláusula.",
+          "text": "Hay que distinguir una afirmación de una prueba.",
           "segments": [
             {
-              "text": "No firmaremos a menos que cambien la cláusula.",
+              "text": "Hay que distinguir una afirmación de una prueba.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "nˈo fˌiɾmaɾˈemos a mˈenos ke kˈambjen la klˈausˌula."
+          "phonemes": "ˈaɪ ke ðˌistiŋɡˈiɾ ˈuna ˌafiɾmasjˈon de ˈuna pɾuˈeβa."
         },
         {
-          "text": "— We will not sign unless they change the clause.",
+          "text": "— You have to distinguish a claim from proof.",
           "segments": [
             {
-              "text": "— We will not sign unless they change the clause.",
+              "text": "— You have to distinguish a claim from proof.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— wiː wɪl nˌɑːt sˈaɪn ʌnlˈɛs ðeɪ tʃˈeɪndʒ ðə klˈɔːz."
+          "phonemes": "— juː hæv tə dɪstˈɪŋɡwɪʃ ɐ klˈeɪm fɹʌm pɹˈuːf."
         },
         {
-          "text": "Llámame en cuanto llegues.",
+          "text": "El sesgo puede afectar la interpretación.",
           "segments": [
             {
-              "text": "Llámame en cuanto llegues.",
+              "text": "El sesgo puede afectar la interpretación.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ʝˈamame en kwˌanto ʝˈeɣes."
+          "phonemes": "el sˈesɣo pwˈeðe ˌafektˈaɾ la ˌinteɾpɾˌetasjˈon."
         },
         {
-          "text": "— Call me as soon as you arrive.",
+          "text": "— Bias can affect interpretation.",
           "segments": [
             {
-              "text": "— Call me as soon as you arrive.",
+              "text": "— Bias can affect interpretation.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— kˈɔːl mˌiː æz sˈuːn æz juː ɚɹˈaɪv."
+          "phonemes": "— bˈaɪəs kæn ɐfˈɛkt ɪntˌɜːpɹɪtˈeɪʃən."
         }
       ]
     },
@@ -325,129 +325,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "dudar",
+      "text": "el rumor",
       "sentences": [
         {
-          "text": "dudar",
+          "text": "el rumor",
           "segments": [
             {
-              "text": "dudar",
+              "text": "el rumor",
               "lang": "es-419"
             }
           ],
-          "phonemes": "duðˈaɾ"
+          "phonemes": "el rumˈoɾ"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "negar",
+      "text": "el hecho",
       "sentences": [
         {
-          "text": "negar",
+          "text": "el hecho",
           "segments": [
             {
-              "text": "negar",
+              "text": "el hecho",
               "lang": "es-419"
             }
           ],
-          "phonemes": "neɣˈaɾ"
+          "phonemes": "el ˈetʃo"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "es posible",
+      "text": "la inferencia",
       "sentences": [
         {
-          "text": "es posible",
+          "text": "la inferencia",
           "segments": [
             {
-              "text": "es posible",
+              "text": "la inferencia",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˈes posˈiβle"
+          "phonemes": "la ˌinfeɾˈɛnsja"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "es probable",
+      "text": "verificable",
       "sentences": [
         {
-          "text": "es probable",
+          "text": "verificable",
           "segments": [
             {
-              "text": "es probable",
+              "text": "verificable",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˈes pɾoβˈaβle"
+          "phonemes": "bˌeɾifikˈaβle"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "para que",
+      "text": "confiable",
       "sentences": [
         {
-          "text": "para que",
+          "text": "confiable",
           "segments": [
             {
-              "text": "para que",
+              "text": "confiable",
               "lang": "es-419"
             }
           ],
-          "phonemes": "pˌaɾa kˈe"
+          "phonemes": "konfjˈaβle"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "a menos que",
+      "text": "la afirmación",
       "sentences": [
         {
-          "text": "a menos que",
+          "text": "la afirmación",
           "segments": [
             {
-              "text": "a menos que",
+              "text": "la afirmación",
               "lang": "es-419"
             }
           ],
-          "phonemes": "a mˈenos kˈe"
+          "phonemes": "la ˌafiɾmasjˈon"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "antes de que",
+      "text": "distinguir",
       "sentences": [
         {
-          "text": "antes de que",
+          "text": "distinguir",
           "segments": [
             {
-              "text": "antes de que",
+              "text": "distinguir",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˈantes ðe kˈe"
+          "phonemes": "dˌistiŋɡˈiɾ"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "en cuanto",
+      "text": "el sesgo",
       "sentences": [
         {
-          "text": "en cuanto",
+          "text": "el sesgo",
           "segments": [
             {
-              "text": "en cuanto",
+              "text": "el sesgo",
               "lang": "es-419"
             }
           ],
-          "phonemes": "en kwˈanto"
+          "phonemes": "el sˈesɣo"
         }
       ]
     }

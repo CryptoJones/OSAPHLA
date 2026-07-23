@@ -143,7 +143,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Model language. Le envié el mensaje esta mañana. — I sent him or her the message this morning. El paquete lo recibió otra persona. — Someone else received the package. ¿Puedes mostrármelo? — Can you show it to me? No les expliqué el cambio. — I did not explain the change to them. Devuélvale los documentos al gerente. — Return the documents to the manager.",
+      "text": "Model language. Voy a identificar quién envió cada paquete. — I am going to identify who sent each package. Rastreo el paquete hasta el remitente. — I track the package back to the sender. Confirmo quién es el receptor correcto. — I confirm who the correct receiver is. Documento cada paso del proceso. — I document each step of the process. Verifico que todo esté exacto. — I verify that everything is exact.",
       "sentences": [
         {
           "text": "Model language.",
@@ -156,104 +156,104 @@
           "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
         },
         {
-          "text": "Le envié el mensaje esta mañana.",
+          "text": "Voy a identificar quién envió cada paquete.",
           "segments": [
             {
-              "text": "Le envié el mensaje esta mañana.",
+              "text": "Voy a identificar quién envió cada paquete.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "le embjˈe el mensˈaxe ˈesta maɲˈana."
+          "phonemes": "bˈoɪ a ˌiðentˌifikˈaɾ kjˈen embjˈo kˈaða pakˈete."
         },
         {
-          "text": "— I sent him or her the message this morning.",
+          "text": "— I am going to identify who sent each package.",
           "segments": [
             {
-              "text": "— I sent him or her the message this morning.",
+              "text": "— I am going to identify who sent each package.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— aɪ sˈɛnt hˌɪm ɔːɹ hɜː ðə mˈɛsɪdʒ ðɪs mˈɔːɹnɪŋ."
+          "phonemes": "— aɪɐm ɡˌoʊɪŋ tʊ aɪdˈɛntᵻfˌaɪ hˌuː sˈɛnt ˈiːtʃ pˈækɪdʒ."
         },
         {
-          "text": "El paquete lo recibió otra persona.",
+          "text": "Rastreo el paquete hasta el remitente.",
           "segments": [
             {
-              "text": "El paquete lo recibió otra persona.",
+              "text": "Rastreo el paquete hasta el remitente.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el pakˈete lo rˌesiβjˈo ˈotɾa peɾsˈona."
+          "phonemes": "rastɾˈeo el pakˈete ˌasta el rˌemitˈɛnte."
         },
         {
-          "text": "— Someone else received the package.",
+          "text": "— I track the package back to the sender.",
           "segments": [
             {
-              "text": "— Someone else received the package.",
+              "text": "— I track the package back to the sender.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— sˈʌmwʌn ˈɛls ɹᵻsˈiːvd ðə pˈækɪdʒ."
+          "phonemes": "— aɪ tɹˈæk ðə pˈækɪdʒ bˈæk tə ðə sˈɛndɚ."
         },
         {
-          "text": "¿Puedes mostrármelo?",
+          "text": "Confirmo quién es el receptor correcto.",
           "segments": [
             {
-              "text": "¿Puedes mostrármelo?",
+              "text": "Confirmo quién es el receptor correcto.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "pwˈeðes mostɾˈaɾmelo?"
+          "phonemes": "konfˈiɾmo kjˈen ˈes el rˌesepːtˈoɾ korˈekto."
         },
         {
-          "text": "— Can you show it to me?",
+          "text": "— I confirm who the correct receiver is.",
           "segments": [
             {
-              "text": "— Can you show it to me?",
+              "text": "— I confirm who the correct receiver is.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— kæn juː ʃˈoʊ ɪt tə mˌiː?"
+          "phonemes": "— aɪ kənfˈɜːm hˌuː ðə kɚɹˈɛkt ɹᵻsˈiːvɚɹ ɪz."
         },
         {
-          "text": "No les expliqué el cambio.",
+          "text": "Documento cada paso del proceso.",
           "segments": [
             {
-              "text": "No les expliqué el cambio.",
+              "text": "Documento cada paso del proceso.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "nˈo les ˌeksplikˈe el kˈambjo."
+          "phonemes": "dˌokumˈɛnto kˈaða pˈaso ðel pɾosˈeso."
         },
         {
-          "text": "— I did not explain the change to them.",
+          "text": "— I document each step of the process.",
           "segments": [
             {
-              "text": "— I did not explain the change to them.",
+              "text": "— I document each step of the process.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— aɪ dɪdnˌɑːt ɛksplˈeɪn ðə tʃˈeɪndʒ tə ðˌɛm."
+          "phonemes": "— aɪ dˈɑːkjuːmənt ˈiːtʃ stˈɛp ʌvðə pɹˈɑːsɛs."
         },
         {
-          "text": "Devuélvale los documentos al gerente.",
+          "text": "Verifico que todo esté exacto.",
           "segments": [
             {
-              "text": "Devuélvale los documentos al gerente.",
+              "text": "Verifico que todo esté exacto.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "deβwˈelβale los ðˌokumˈɛntos al xeɾˈɛnte."
+          "phonemes": "bˌeɾifˈiko ke tˈoðo estˈe eksˈakto."
         },
         {
-          "text": "— Return the documents to the manager.",
+          "text": "— I verify that everything is exact.",
           "segments": [
             {
-              "text": "— Return the documents to the manager.",
+              "text": "— I verify that everything is exact.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ɹᵻtˈɜːn ðə dˈɑːkjuːmənts tə ðə mˈænɪdʒɚ."
+          "phonemes": "— aɪ vˈɛɹᵻfˌaɪ ðæt ˈɛvɹɪθˌɪŋ ɪz ɛɡzˈækt."
         }
       ]
     },
@@ -305,129 +305,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "entregar",
+      "text": "identificar",
       "sentences": [
         {
-          "text": "entregar",
+          "text": "identificar",
           "segments": [
             {
-              "text": "entregar",
+              "text": "identificar",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˌentɾeɣˈaɾ"
+          "phonemes": "ˌiðentˌifikˈaɾ"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "prestar",
+      "text": "exactamente",
       "sentences": [
         {
-          "text": "prestar",
+          "text": "exactamente",
           "segments": [
             {
-              "text": "prestar",
+              "text": "exactamente",
               "lang": "es-419"
             }
           ],
-          "phonemes": "pɾestˈaɾ"
+          "phonemes": "eksˈaktamˈente"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "devolver",
+      "text": "cada artículo",
       "sentences": [
         {
-          "text": "devolver",
+          "text": "cada artículo",
           "segments": [
             {
-              "text": "devolver",
+              "text": "cada artículo",
               "lang": "es-419"
             }
           ],
-          "phonemes": "dˌeβolβˈeɾ"
+          "phonemes": "kˈaða aɾtˈikulo"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "enviar",
+      "text": "rastrear",
       "sentences": [
         {
-          "text": "enviar",
+          "text": "rastrear",
           "segments": [
             {
-              "text": "enviar",
+              "text": "rastrear",
               "lang": "es-419"
             }
           ],
-          "phonemes": "embjˈaɾ"
+          "phonemes": "rˌastɾeˈaɾ"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "mostrar",
+      "text": "el remitente",
       "sentences": [
         {
-          "text": "mostrar",
+          "text": "el remitente",
           "segments": [
             {
-              "text": "mostrar",
+              "text": "el remitente",
               "lang": "es-419"
             }
           ],
-          "phonemes": "mostɾˈaɾ"
+          "phonemes": "el rˌemitˈɛnte"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "explicar",
+      "text": "el receptor",
       "sentences": [
         {
-          "text": "explicar",
+          "text": "el receptor",
           "segments": [
             {
-              "text": "explicar",
+              "text": "el receptor",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˌeksplikˈaɾ"
+          "phonemes": "el rˌesepːtˈoɾ"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "el paquete",
+      "text": "documentar",
       "sentences": [
         {
-          "text": "el paquete",
+          "text": "documentar",
           "segments": [
             {
-              "text": "el paquete",
+              "text": "documentar",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el pakˈete"
+          "phonemes": "dˌokumentˈaɾ"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "el mensaje",
+      "text": "verificar",
       "sentences": [
         {
-          "text": "el mensaje",
+          "text": "verificar",
           "segments": [
             {
-              "text": "el mensaje",
+              "text": "verificar",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el mensˈaxe"
+          "phonemes": "bˌeɾifikˈaɾ"
         }
       ]
     }

@@ -153,7 +153,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Model language. ¿Qué quiere hacer hoy? — What do you want to do today? ¿Cuándo viene el autobús? — When does the bus come? No sé; ¿puede repetirlo? — I don't know; can you repeat that? Tengo que hacer una llamada. — I have to make a call. ¿Por qué dices eso? — Why do you say that?",
+      "text": "Model language. ¿Qué quiere hacer hoy? — What do you want to do today? ¿Cuándo viene el autobús? — When does the bus arrive? No sé; ¿puede repetirlo? — I don't know; can you repeat that? Tengo que hacer una llamada. — I have to make a call. ¿Por qué dices eso? — Why do you say that?",
       "sentences": [
         {
           "text": "Model language.",
@@ -196,14 +196,14 @@
           "phonemes": "kwˈando βjˈene el ˌaʊtoβˈus?"
         },
         {
-          "text": "— When does the bus come?",
+          "text": "— When does the bus arrive?",
           "segments": [
             {
-              "text": "— When does the bus come?",
+              "text": "— When does the bus arrive?",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— wˌɛn dˈʌz ðə bˈʌs kˈʌm?"
+          "phonemes": "— wˌɛn dˈʌz ðə bˈʌs ɚɹˈaɪv?"
         },
         {
           "text": "No sé; ¿puede repetirlo?",

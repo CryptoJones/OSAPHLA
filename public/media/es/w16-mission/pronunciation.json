@@ -143,7 +143,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Model language. Mañana va a llover en la costa. — It is going to rain on the coast tomorrow. Hace viento en las zonas altas. — It is windy in the highlands. Si cambia el tiempo, regresamos temprano. — If the weather changes, we will return early. Se prohíbe encender fuego en el bosque. — Lighting fires in the forest is prohibited. Estamos protegiendo una fuente de agua. — We are protecting a water source.",
+      "text": "Model language. Voy a informar al grupo sobre el clima. — I am going to inform the group about the weather. Describo el terreno con detalle. — I describe the terrain in detail. Modificamos la ruta para mayor seguridad. — We modify the route for greater safety. Revisamos el plan con anticipación. — We review the plan in advance. Así viajamos de forma segura. — This way we travel safely.",
       "sentences": [
         {
           "text": "Model language.",
@@ -156,104 +156,104 @@
           "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
         },
         {
-          "text": "Mañana va a llover en la costa.",
+          "text": "Voy a informar al grupo sobre el clima.",
           "segments": [
             {
-              "text": "Mañana va a llover en la costa.",
+              "text": "Voy a informar al grupo sobre el clima.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "maɲˈana βˈa a ʝoβˈeɾ en la kˈosta."
+          "phonemes": "bˈoɪ a ˌinfoɾmˈaɾ al ɣɾˈupo sˌoβɾe el klˈima."
         },
         {
-          "text": "— It is going to rain on the coast tomorrow.",
+          "text": "— I am going to inform the group about the weather.",
           "segments": [
             {
-              "text": "— It is going to rain on the coast tomorrow.",
+              "text": "— I am going to inform the group about the weather.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ɪɾ ɪz ɡˌoʊɪŋ tə ɹˈeɪn ɔnðə kˈoʊst təmˈɑːɹoʊ."
+          "phonemes": "— aɪɐm ɡˌoʊɪŋ tʊ ɪnfˈɔːɹm ðə ɡɹˈuːp ɐbˌaʊt ðə wˈɛðɚ."
         },
         {
-          "text": "Hace viento en las zonas altas.",
+          "text": "Describo el terreno con detalle.",
           "segments": [
             {
-              "text": "Hace viento en las zonas altas.",
+              "text": "Describo el terreno con detalle.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˈase βjˈɛnto en las sˈonas ˈaltas."
+          "phonemes": "deskɾˈiβo el terˈeno kon detˈajje."
         },
         {
-          "text": "— It is windy in the highlands.",
+          "text": "— I describe the terrain in detail.",
           "segments": [
             {
-              "text": "— It is windy in the highlands.",
+              "text": "— I describe the terrain in detail.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ɪɾ ɪz wˈɪndi ɪnðə hˈaɪləndz."
+          "phonemes": "— aɪ dᵻskɹˈaɪb ðə tɚɹˈeɪn ɪn diːtˈeɪl."
         },
         {
-          "text": "Si cambia el tiempo, regresamos temprano.",
+          "text": "Modificamos la ruta para mayor seguridad.",
           "segments": [
             {
-              "text": "Si cambia el tiempo, regresamos temprano.",
+              "text": "Modificamos la ruta para mayor seguridad.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "si kˈambja el tjˈempo, rˌeɣɾesˈamos tempɾˈano."
+          "phonemes": "mˌoðifikˈamos la rˈuta pˌaɾa maʝˈoɾ sˌeɣuɾiðˈad."
         },
         {
-          "text": "— If the weather changes, we will return early.",
+          "text": "— We modify the route for greater safety.",
           "segments": [
             {
-              "text": "— If the weather changes, we will return early.",
+              "text": "— We modify the route for greater safety.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ɪf ðə wˈɛðɚ tʃˈeɪndʒᵻz, wiː wɪl ɹᵻtˈɜːn ˈɜːli."
+          "phonemes": "— wiː mˈɑːdᵻfˌaɪ ðə ɹˈaʊt fɔːɹ ɡɹˈeɪɾɚ sˈeɪfti."
         },
         {
-          "text": "Se prohíbe encender fuego en el bosque.",
+          "text": "Revisamos el plan con anticipación.",
           "segments": [
             {
-              "text": "Se prohíbe encender fuego en el bosque.",
+              "text": "Revisamos el plan con anticipación.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "se pɾoˈiβe ˌensendˈeɾ fwˈeɣo en el βˈoske."
+          "phonemes": "rˌeβisˈamos el plˈan kon ˌantisˌipasjˈon."
         },
         {
-          "text": "— Lighting fires in the forest is prohibited.",
+          "text": "— We review the plan in advance.",
           "segments": [
             {
-              "text": "— Lighting fires in the forest is prohibited.",
+              "text": "— We review the plan in advance.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— lˈaɪɾɪŋ fˈaɪɚz ɪnðə fˈɔːɹɪst ɪz pɹəhˈɪbɪɾᵻd."
+          "phonemes": "— wiː ɹᵻvjˈuː ðə plˈæn ɪn ɐdvˈæns."
         },
         {
-          "text": "Estamos protegiendo una fuente de agua.",
+          "text": "Así viajamos de forma segura.",
           "segments": [
             {
-              "text": "Estamos protegiendo una fuente de agua.",
+              "text": "Así viajamos de forma segura.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "estˈamos pɾˌotexjˈɛndo ˈuna fwˈɛnte ðe ˈaɣwa."
+          "phonemes": "asˈi βjaxˈamos ðe fˈoɾma seɣˈuɾa."
         },
         {
-          "text": "— We are protecting a water source.",
+          "text": "— This way we travel safely.",
           "segments": [
             {
-              "text": "— We are protecting a water source.",
+              "text": "— This way we travel safely.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— wiː ɑːɹ pɹətˈɛktɪŋ ɐ wˈɔːɾɚ sˈɔːɹs."
+          "phonemes": "— ðɪs wˈeɪ wiː tɹˈævəl sˈeɪfli."
         }
       ]
     },
@@ -305,129 +305,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "el tiempo",
+      "text": "informar",
       "sentences": [
         {
-          "text": "el tiempo",
+          "text": "informar",
           "segments": [
             {
-              "text": "el tiempo",
+              "text": "informar",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el tjˈempo"
+          "phonemes": "ˌinfoɾmˈaɾ"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "la lluvia",
+      "text": "el terreno",
       "sentences": [
         {
-          "text": "la lluvia",
+          "text": "el terreno",
           "segments": [
             {
-              "text": "la lluvia",
+              "text": "el terreno",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la ʝˈuβja"
+          "phonemes": "el terˈeno"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "el viento",
+      "text": "modificar",
       "sentences": [
         {
-          "text": "el viento",
+          "text": "modificar",
           "segments": [
             {
-              "text": "el viento",
+              "text": "modificar",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el βjˈɛnto"
+          "phonemes": "mˌoðifikˈaɾ"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "la montaña",
+      "text": "seguro",
       "sentences": [
         {
-          "text": "la montaña",
+          "text": "seguro",
           "segments": [
             {
-              "text": "la montaña",
+              "text": "seguro",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la montˈaɲa"
+          "phonemes": "seɣˈuɾo"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "el bosque",
+      "text": "el grupo",
       "sentences": [
         {
-          "text": "el bosque",
+          "text": "el grupo",
           "segments": [
             {
-              "text": "el bosque",
+              "text": "el grupo",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el βˈoske"
+          "phonemes": "el ɣɾˈupo"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "la costa",
+      "text": "revisar",
       "sentences": [
         {
-          "text": "la costa",
+          "text": "revisar",
           "segments": [
             {
-              "text": "la costa",
+              "text": "revisar",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la kˈosta"
+          "phonemes": "rˌeβisˈaɾ"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "la sequía",
+      "text": "la seguridad",
       "sentences": [
         {
-          "text": "la sequía",
+          "text": "la seguridad",
           "segments": [
             {
-              "text": "la sequía",
+              "text": "la seguridad",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la sekˈia"
+          "phonemes": "la sˌeɣuɾiðˈad"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "proteger",
+      "text": "con anticipación",
       "sentences": [
         {
-          "text": "proteger",
+          "text": "con anticipación",
           "segments": [
             {
-              "text": "proteger",
+              "text": "con anticipación",
               "lang": "es-419"
             }
           ],
-          "phonemes": "pɾˌotexˈeɾ"
+          "phonemes": "kon ˌantisˌipasjˈon"
         }
       ]
     }

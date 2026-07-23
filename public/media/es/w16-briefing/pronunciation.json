@@ -169,7 +169,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Model language. Mañana va a llover en la costa. — It is going to rain on the coast tomorrow. Hace viento en las zonas altas. — It is windy in the highlands. Si cambia el tiempo, regresamos temprano. — If the weather changes, we will return early. Se prohíbe encender fuego en el bosque. — Lighting fires in the forest is prohibited. Estamos protegiendo una fuente de agua. — We are protecting a water source.",
+      "text": "Model language. Mañana va a llover en la costa. — Tomorrow it is going to rain on the coast. Hace viento en las zonas altas. — It is windy in the highlands. Si cambia el tiempo, regresamos temprano. — If the weather changes, we will return early. Se prohíbe encender fuego en el bosque. — Lighting fires in the forest is prohibited. Estamos protegiendo una fuente de agua. — We are protecting a water source.",
       "sentences": [
         {
           "text": "Model language.",
@@ -192,14 +192,14 @@
           "phonemes": "maɲˈana βˈa a ʝoβˈeɾ en la kˈosta."
         },
         {
-          "text": "— It is going to rain on the coast tomorrow.",
+          "text": "— Tomorrow it is going to rain on the coast.",
           "segments": [
             {
-              "text": "— It is going to rain on the coast tomorrow.",
+              "text": "— Tomorrow it is going to rain on the coast.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ɪɾ ɪz ɡˌoʊɪŋ tə ɹˈeɪn ɔnðə kˈoʊst təmˈɑːɹoʊ."
+          "phonemes": "— təmˈɑːɹoʊ ɪɾ ɪz ɡˌoʊɪŋ tə ɹˈeɪn ɔnðə kˈoʊst."
         },
         {
           "text": "Hace viento en las zonas altas.",

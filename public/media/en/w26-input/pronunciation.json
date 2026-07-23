@@ -183,7 +183,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Lenguaje modelo. I would choose the second option. — Elegiría la segunda opción. Could you send me the details? — ¿Podrías enviarme los detalles? The change would reduce the risk. — El cambio reduciría el riesgo. If we waited, we would have more evidence. — Si esperáramos, tendríamos más evidencia. On the other hand, that plan would cost too much. — Por otra parte, ese plan costaría demasiado.",
+      "text": "Lenguaje modelo. The first proposal would be fast. — La primera propuesta sería rápida. But it would take less time to show results. — Pero tardaría menos en dar resultados. The second would take longer. — La segunda tardaría más tiempo. The committee compares the costs of each. — El comité compara los costos de cada una. Both have long-term effects. — Ambas tienen efectos a largo plazo.",
       "sentences": [
         {
           "text": "Lenguaje modelo.",
@@ -196,104 +196,104 @@
           "phonemes": "leŋɡwˈaxe moðˈelo."
         },
         {
-          "text": "I would choose the second option.",
+          "text": "The first proposal would be fast.",
           "segments": [
             {
-              "text": "I would choose the second option.",
+              "text": "The first proposal would be fast.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪ wʊd tʃˈuːz ðə sˈɛkənd ˈɑːpʃən."
+          "phonemes": "ðə fˈɜːst pɹəpˈoʊzəl wʊd biː fˈæst."
         },
         {
-          "text": "— Elegiría la segunda opción.",
+          "text": "— La primera propuesta sería rápida.",
           "segments": [
             {
-              "text": "— Elegiría la segunda opción.",
+              "text": "— La primera propuesta sería rápida.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— ˌelexiɾˈia la seɣˈunda opsjˈon."
+          "phonemes": "— la pɾimˈeɾa pɾopwˈesta seɾˈia rˈapiða."
         },
         {
-          "text": "Could you send me the details?",
+          "text": "But it would take less time to show results.",
           "segments": [
             {
-              "text": "Could you send me the details?",
+              "text": "But it would take less time to show results.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "kʊd juː sˈɛnd mˌiː ðə diːtˈeɪlz?"
+          "phonemes": "bˌʌt ɪt wʊd tˈeɪk lˈɛs tˈaɪm tə ʃˈoʊ ɹɪzˈʌlts."
         },
         {
-          "text": "— ¿Podrías enviarme los detalles?",
+          "text": "— Pero tardaría menos en dar resultados.",
           "segments": [
             {
-              "text": "— ¿Podrías enviarme los detalles?",
+              "text": "— Pero tardaría menos en dar resultados.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— poðɾˈias embjˈaɾme los ðetˈajjes?"
+          "phonemes": "— pˌeɾo tˌaɾðaɾˈia mˈenos en dˈaɾ rˌesultˈaðos."
         },
         {
-          "text": "The change would reduce the risk.",
+          "text": "The second would take longer.",
           "segments": [
             {
-              "text": "The change would reduce the risk.",
+              "text": "The second would take longer.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə tʃˈeɪndʒ wʊd ɹᵻdˈuːs ðə ɹˈɪsk."
+          "phonemes": "ðə sˈɛkənd wʊd tˈeɪk lˈɔŋɡɚ."
         },
         {
-          "text": "— El cambio reduciría el riesgo.",
+          "text": "— La segunda tardaría más tiempo.",
           "segments": [
             {
-              "text": "— El cambio reduciría el riesgo.",
+              "text": "— La segunda tardaría más tiempo.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— el kˈambjo rˌeðusiɾˈia el riˈesɣo."
+          "phonemes": "— la seɣˈunda tˌaɾðaɾˈia mˈas tjˈempo."
         },
         {
-          "text": "If we waited, we would have more evidence.",
+          "text": "The committee compares the costs of each.",
           "segments": [
             {
-              "text": "If we waited, we would have more evidence.",
+              "text": "The committee compares the costs of each.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɪf wiː wˈeɪɾᵻd, wiː wʊdhɐv mˈɔːɹ ˈɛvɪdəns."
+          "phonemes": "ðə kəmˈɪɾi kəmpˈɛɹz ðə kˈɔsts ʌv ˈiːtʃ."
         },
         {
-          "text": "— Si esperáramos, tendríamos más evidencia.",
+          "text": "— El comité compara los costos de cada una.",
           "segments": [
             {
-              "text": "— Si esperáramos, tendríamos más evidencia.",
+              "text": "— El comité compara los costos de cada una.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— si ˌespeɾˈaɾamos, tendɾˈiamos mˈas ˌeβiðˈɛnsja."
+          "phonemes": "— el kˌomitˈe kompˈaɾa los kˈostos ðe kˈaða ˈuna."
         },
         {
-          "text": "On the other hand, that plan would cost too much.",
+          "text": "Both have long-term effects.",
           "segments": [
             {
-              "text": "On the other hand, that plan would cost too much.",
+              "text": "Both have long-term effects.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɔnðɪ ˈʌðɚ hˈænd, ðæt plˈæn wʊd kˈɔst tˈuː mʌtʃ."
+          "phonemes": "bˈoʊθ hæv lˈɔŋtˈɜːm ɪfˈɛkts."
         },
         {
-          "text": "— Por otra parte, ese plan costaría demasiado.",
+          "text": "— Ambas tienen efectos a largo plazo.",
           "segments": [
             {
-              "text": "— Por otra parte, ese plan costaría demasiado.",
+              "text": "— Ambas tienen efectos a largo plazo.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— poɾ ˈotɾa pˈaɾte, ˈese plˈan kˌostaɾˈia ðˌemasjˈaðo."
+          "phonemes": "— ˈambas tjˈenen efˈektos a lˈaɾɣo plˈaso."
         }
       ]
     },
@@ -345,129 +345,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "if",
+      "text": "a proposal",
       "sentences": [
         {
-          "text": "if",
+          "text": "a proposal",
           "segments": [
             {
-              "text": "if",
+              "text": "a proposal",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɪf"
+          "phonemes": "ɐ pɹəpˈoʊzəl"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "unless",
+      "text": "fast",
       "sentences": [
         {
-          "text": "unless",
+          "text": "fast",
           "segments": [
             {
-              "text": "unless",
+              "text": "fast",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ʌnlˈɛs"
+          "phonemes": "fˈæst"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "would",
+      "text": "to take time",
       "sentences": [
         {
-          "text": "would",
+          "text": "to take time",
           "segments": [
             {
-              "text": "would",
+              "text": "to take time",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wˈʊd"
+          "phonemes": "tə tˈeɪk tˈaɪm"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "could",
+      "text": "to compare",
       "sentences": [
         {
-          "text": "could",
+          "text": "to compare",
           "segments": [
             {
-              "text": "could",
+              "text": "to compare",
               "lang": "en-us"
             }
           ],
-          "phonemes": "kˈʊd"
+          "phonemes": "tə kəmpˈɛɹ"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "an option",
+      "text": "an effect",
       "sentences": [
         {
-          "text": "an option",
+          "text": "an effect",
           "segments": [
             {
-              "text": "an option",
+              "text": "an effect",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐn ˈɑːpʃən"
+          "phonemes": "ɐn ɪfˈɛkt"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "a risk",
+      "text": "long-term",
       "sentences": [
         {
-          "text": "a risk",
+          "text": "long-term",
           "segments": [
             {
-              "text": "a risk",
+              "text": "long-term",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ ɹˈɪsk"
+          "phonemes": "lˈɔŋtˈɜːm"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "a consequence",
+      "text": "a committee",
       "sentences": [
         {
-          "text": "a consequence",
+          "text": "a committee",
           "segments": [
             {
-              "text": "a consequence",
+              "text": "a committee",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ kˈɑːnsɪkwəns"
+          "phonemes": "ɐ kəmˈɪɾi"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "on the other hand",
+      "text": "costs",
       "sentences": [
         {
-          "text": "on the other hand",
+          "text": "costs",
           "segments": [
             {
-              "text": "on the other hand",
+              "text": "costs",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɔnðɪ ˈʌðɚ hˈænd"
+          "phonemes": "kˈɔsts"
         }
       ]
     }

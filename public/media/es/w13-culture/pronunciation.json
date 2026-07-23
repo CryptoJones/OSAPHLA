@@ -163,7 +163,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Model language. Siga derecho hasta la plaza. — Go straight to the plaza. Doble a la izquierda en la segunda esquina. — Turn left at the second corner. ¿Voy bien para el ayuntamiento? — Am I going the right way to city hall? Nos perdimos cerca de la estación. — We got lost near the station. El banco queda enfrente del correo. — The bank is across from the post office.",
+      "text": "Model language. Muchas ciudades usan una cuadrícula de calles. — Many cities use a street grid. El centro histórico suele tener calles estrechas. — The historic center usually has narrow streets. Las direcciones a veces usan puntos de referencia. — Addresses sometimes use landmarks. El transporte urbano varía mucho entre ciudades. — Urban transport varies a lot between cities. Cada sistema funciona de forma distinta. — Each system works differently.",
       "sentences": [
         {
           "text": "Model language.",
@@ -176,104 +176,104 @@
           "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
         },
         {
-          "text": "Siga derecho hasta la plaza.",
+          "text": "Muchas ciudades usan una cuadrícula de calles.",
           "segments": [
             {
-              "text": "Siga derecho hasta la plaza.",
+              "text": "Muchas ciudades usan una cuadrícula de calles.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "sˈiɣa ðeɾˈetʃo ˌasta la plˈasa."
+          "phonemes": "mˈutʃas sjuðˈaðes ˈusan ˈuna kwaðɾˈikula ðe kˈajjes."
         },
         {
-          "text": "— Go straight to the plaza.",
+          "text": "— Many cities use a street grid.",
           "segments": [
             {
-              "text": "— Go straight to the plaza.",
+              "text": "— Many cities use a street grid.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ɡˌoʊ stɹˈeɪt tə ðə plˈɑːzə."
+          "phonemes": "— mˈɛni sˈɪɾiz jˈuːs ɐ stɹˈiːt ɡɹˈɪd."
         },
         {
-          "text": "Doble a la izquierda en la segunda esquina.",
+          "text": "El centro histórico suele tener calles estrechas.",
           "segments": [
             {
-              "text": "Doble a la izquierda en la segunda esquina.",
+              "text": "El centro histórico suele tener calles estrechas.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "dˈoβle a la iskjˈeɾða en la seɣˈunda eskˈina."
+          "phonemes": "el sˈɛntɾo istˈoɾiko swˈele tenˈeɾ kˈajjes estɾˈetʃas."
         },
         {
-          "text": "— Turn left at the second corner.",
+          "text": "— The historic center usually has narrow streets.",
           "segments": [
             {
-              "text": "— Turn left at the second corner.",
+              "text": "— The historic center usually has narrow streets.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— tˈɜːn lˈɛft æt ðə sˈɛkənd kˈɔːɹnɚ."
+          "phonemes": "— ðə hɪstˈɔːɹɪk sˈɛntɚ jˈuːʒuːəli hɐz nˈæɹoʊ stɹˈiːts."
         },
         {
-          "text": "¿Voy bien para el ayuntamiento?",
+          "text": "Las direcciones a veces usan puntos de referencia.",
           "segments": [
             {
-              "text": "¿Voy bien para el ayuntamiento?",
+              "text": "Las direcciones a veces usan puntos de referencia.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "bˈoɪ βjˈem pˌaɾa el ˌaʝuntamjˈɛnto?"
+          "phonemes": "las ðˌiɾeksjˈones a βˈeses ˈusam pˈuntos ðe rˌefeɾˈɛnsja."
         },
         {
-          "text": "— Am I going the right way to city hall?",
+          "text": "— Addresses sometimes use landmarks.",
           "segments": [
             {
-              "text": "— Am I going the right way to city hall?",
+              "text": "— Addresses sometimes use landmarks.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— æm aɪ ɡˌoʊɪŋ ðə ɹˈaɪt wˈeɪ tə sˈɪɾi hˈɔːl?"
+          "phonemes": "— ɐdɹˈɛsᵻz sˈʌmtaɪmz jˈuːs lˈændmɑːɹks."
         },
         {
-          "text": "Nos perdimos cerca de la estación.",
+          "text": "El transporte urbano varía mucho entre ciudades.",
           "segments": [
             {
-              "text": "Nos perdimos cerca de la estación.",
+              "text": "El transporte urbano varía mucho entre ciudades.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "nos peɾðˈimos sˈeɾka ðe la ˌestasjˈon."
+          "phonemes": "el tɾanspˈoɾte uɾβˈano βaɾˈia mˈutʃo ˌentɾe sjuðˈaðes."
         },
         {
-          "text": "— We got lost near the station.",
+          "text": "— Urban transport varies a lot between cities.",
           "segments": [
             {
-              "text": "— We got lost near the station.",
+              "text": "— Urban transport varies a lot between cities.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— wiː ɡɑːt lˈɔst nˌɪɹ ðə stˈeɪʃən."
+          "phonemes": "— ˈɜːbən tɹˈænspɔːɹt vˈɛɹiz ɐ lˈɑːt bᵻtwˌiːn sˈɪɾiz."
         },
         {
-          "text": "El banco queda enfrente del correo.",
+          "text": "Cada sistema funciona de forma distinta.",
           "segments": [
             {
-              "text": "El banco queda enfrente del correo.",
+              "text": "Cada sistema funciona de forma distinta.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el βˈanko kˈeða emfɾˈɛnte ðel korˈeo."
+          "phonemes": "kˈaða sistˈema funsjˈona ðe fˈoɾma ðistˈinta."
         },
         {
-          "text": "— The bank is across from the post office.",
+          "text": "— Each system works differently.",
           "segments": [
             {
-              "text": "— The bank is across from the post office.",
+              "text": "— Each system works differently.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ðə bˈæŋk ɪz əkɹˌɑːs fɹʌmðə pˈoʊst ˈɑːfɪs."
+          "phonemes": "— ˈiːtʃ sˈɪstəm wˈɜːks dˈɪfɹəntli."
         }
       ]
     },
@@ -325,129 +325,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "la calle",
+      "text": "la cuadrícula",
       "sentences": [
         {
-          "text": "la calle",
+          "text": "la cuadrícula",
           "segments": [
             {
-              "text": "la calle",
+              "text": "la cuadrícula",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la kˈajje"
+          "phonemes": "la kwaðɾˈikula"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "la esquina",
+      "text": "el centro histórico",
       "sentences": [
         {
-          "text": "la esquina",
+          "text": "el centro histórico",
           "segments": [
             {
-              "text": "la esquina",
+              "text": "el centro histórico",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la eskˈina"
+          "phonemes": "el sˈɛntɾo istˈoɾiko"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "derecho",
+      "text": "la dirección",
       "sentences": [
         {
-          "text": "derecho",
+          "text": "la dirección",
           "segments": [
             {
-              "text": "derecho",
+              "text": "la dirección",
               "lang": "es-419"
             }
           ],
-          "phonemes": "deɾˈetʃo"
+          "phonemes": "la ðˌiɾeksjˈon"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "la derecha",
+      "text": "el punto de referencia",
       "sentences": [
         {
-          "text": "la derecha",
+          "text": "el punto de referencia",
           "segments": [
             {
-              "text": "la derecha",
+              "text": "el punto de referencia",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la ðeɾˈetʃa"
+          "phonemes": "el pˈunto ðe rˌefeɾˈɛnsja"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "la izquierda",
+      "text": "el transporte urbano",
       "sentences": [
         {
-          "text": "la izquierda",
+          "text": "el transporte urbano",
           "segments": [
             {
-              "text": "la izquierda",
+              "text": "el transporte urbano",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la iskjˈeɾða"
+          "phonemes": "el tɾanspˈoɾte uɾβˈano"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "doblar",
+      "text": "variar",
       "sentences": [
         {
-          "text": "doblar",
+          "text": "variar",
           "segments": [
             {
-              "text": "doblar",
+              "text": "variar",
               "lang": "es-419"
             }
           ],
-          "phonemes": "doβlˈaɾ"
+          "phonemes": "baɾjˈaɾ"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "seguir",
+      "text": "el sistema",
       "sentences": [
         {
-          "text": "seguir",
+          "text": "el sistema",
           "segments": [
             {
-              "text": "seguir",
+              "text": "el sistema",
               "lang": "es-419"
             }
           ],
-          "phonemes": "seɣˈiɾ"
+          "phonemes": "el sistˈema"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "perderse",
+      "text": "funcionar",
       "sentences": [
         {
-          "text": "perderse",
+          "text": "funcionar",
           "segments": [
             {
-              "text": "perderse",
+              "text": "funcionar",
               "lang": "es-419"
             }
           ],
-          "phonemes": "peɾðˈeɾse"
+          "phonemes": "fˌunsjonˈaɾ"
         }
       ]
     }

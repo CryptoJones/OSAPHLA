@@ -29,7 +29,7 @@
     },
     {
       "file": "01.wav",
-      "text": "Forma y significado. Past continuous; used to; edad, hora y clima de fondo; contraste con presente.",
+      "text": "Forma y significado. Aplicación de la forma. Usa was/were + -ing para una acción en curso en el pasado, y used to + verbo base para hábitos que ya no ocurren.",
       "sentences": [
         {
           "text": "Forma y significado.",
@@ -42,14 +42,28 @@
           "phonemes": "fˈoɾma i sˌiɡnifikˈaðo."
         },
         {
-          "text": "Past continuous; used to; edad, hora y clima de fondo; contraste con presente.",
+          "text": "Aplicación de la forma.",
           "segments": [
             {
-              "text": "Past continuous",
+              "text": "Aplicación de la forma.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˌaplikasjˈon de la fˈoɾma."
+        },
+        {
+          "text": "Usa was/were + -ing para una acción en curso en el pasado, y used to + verbo base para hábitos que ya no ocurren.",
+          "segments": [
+            {
+              "text": "Usa was/were + ",
+              "lang": "es-419"
+            },
+            {
+              "text": "-ing",
               "lang": "en-us"
             },
             {
-              "text": "; ",
+              "text": " para una acción en curso en el pasado, y ",
               "lang": "es-419"
             },
             {
@@ -57,17 +71,17 @@
               "lang": "en-us"
             },
             {
-              "text": "; edad, hora y clima de fondo; contraste con presente.",
+              "text": " + verbo base para hábitos que ya no ocurren.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "pˈæst kəntˈɪnjuːəs ; jˈuːzd tuː ; eðˈad, ˈoɾa i klˈima ðe fˈondo; kontɾˈaste kom pɾesˈɛnte."
+          "phonemes": "ˈusa wˈas βˈara wˈeɾe mˈas ˈɪŋ pˌaɾa ˈuna aksjˈon en kˈuɾso en el pasˈaðo, i jˈuːzd tuː mˈas βˈeɾβo βˈase pˌaɾa ˈaβitos ke ʝˈa nˈo okˈuren."
         }
       ]
     },
     {
       "file": "02.wav",
-      "text": "Conjunto de modelos. There used to be fewer buildings. I used to play in this square. It was eight o'clock, and it was raining. We listened to the radio while we worked. The city seemed quieter. Antes había menos edificios. Yo jugaba en esta plaza. Eran las ocho y estaba lloviendo. Escuchábamos la radio mientras trabajábamos. La ciudad parecía más tranquila.",
+      "text": "Conjunto de modelos. I was ten years old. You lived in another city. He was playing in the square. We were neighbors. They used to do homework together. Yo tenía diez años. Tú vivías en otra ciudad. Él jugaba en la plaza. Nosotros éramos vecinos. Ellos solían hacer la tarea juntos.",
       "sentences": [
         {
           "text": "Conjunto de modelos.",
@@ -80,104 +94,104 @@
           "phonemes": "koŋxˈunto ðe moðˈelos."
         },
         {
-          "text": "There used to be fewer buildings.",
+          "text": "I was ten years old.",
           "segments": [
             {
-              "text": "There used to be fewer buildings.",
+              "text": "I was ten years old.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðɛɹ jˈuːzd təbi fjˈuːɚ bˈɪldɪŋz."
+          "phonemes": "aɪ wʌz tˈɛn jˈɪɹz ˈoʊld."
         },
         {
-          "text": "I used to play in this square.",
+          "text": "You lived in another city.",
           "segments": [
             {
-              "text": "I used to play in this square.",
+              "text": "You lived in another city.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪ jˈuːzd tə plˈeɪ ɪn ðɪs skwˈɛɹ."
+          "phonemes": "juː lˈɪvd ɪn ɐnˈʌðɚ sˈɪɾi."
         },
         {
-          "text": "It was eight o'clock, and it was raining.",
+          "text": "He was playing in the square.",
           "segments": [
             {
-              "text": "It was eight o'clock, and it was raining.",
+              "text": "He was playing in the square.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɪt wʌz ˈeɪt əklˈɑːk, ænd ɪt wʌz ɹˈeɪnɪŋ."
+          "phonemes": "hiː wʌz plˈeɪɪŋ ɪnðə skwˈɛɹ."
         },
         {
-          "text": "We listened to the radio while we worked.",
+          "text": "We were neighbors.",
           "segments": [
             {
-              "text": "We listened to the radio while we worked.",
+              "text": "We were neighbors.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wiː lˈɪsənd tə ðə ɹˈeɪdɪˌoʊ wˌaɪl wiː wˈɜːkt."
+          "phonemes": "wiː wɜː nˈeɪbɚz."
         },
         {
-          "text": "The city seemed quieter.",
+          "text": "They used to do homework together.",
           "segments": [
             {
-              "text": "The city seemed quieter.",
+              "text": "They used to do homework together.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə sˈɪɾi sˈiːmd kwˈaɪəɾɚ."
+          "phonemes": "ðeɪ jˈuːzd tə dˈuː hˈoʊmwɜːk təɡˈɛðɚ."
         },
         {
-          "text": "Antes había menos edificios.",
+          "text": "Yo tenía diez años.",
           "segments": [
             {
-              "text": "Antes había menos edificios.",
+              "text": "Yo tenía diez años.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˈantes aβˈia mˈenos ˌeðifˈisjos."
+          "phonemes": "ʝˈo tenˈia ðjˈes ˈaɲos."
         },
         {
-          "text": "Yo jugaba en esta plaza.",
+          "text": "Tú vivías en otra ciudad.",
           "segments": [
             {
-              "text": "Yo jugaba en esta plaza.",
+              "text": "Tú vivías en otra ciudad.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ʝˈo xuɣˈaβa en ˈesta plˈasa."
+          "phonemes": "tˈu βiβˈias en ˈotɾa sjuðˈad."
         },
         {
-          "text": "Eran las ocho y estaba lloviendo.",
+          "text": "Él jugaba en la plaza.",
           "segments": [
             {
-              "text": "Eran las ocho y estaba lloviendo.",
+              "text": "Él jugaba en la plaza.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˈeɾan las ˈotʃo i estˈaβa ʝoβjˈɛndo."
+          "phonemes": "ˈel xuɣˈaβa en la plˈasa."
         },
         {
-          "text": "Escuchábamos la radio mientras trabajábamos.",
+          "text": "Nosotros éramos vecinos.",
           "segments": [
             {
-              "text": "Escuchábamos la radio mientras trabajábamos.",
+              "text": "Nosotros éramos vecinos.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˌeskutʃˈaβamos la rˈaðjo mjˌentɾas tɾˌaβaxˈaβamos."
+          "phonemes": "nosˈotɾos ˈeɾamos βesˈinos."
         },
         {
-          "text": "La ciudad parecía más tranquila.",
+          "text": "Ellos solían hacer la tarea juntos.",
           "segments": [
             {
-              "text": "La ciudad parecía más tranquila.",
+              "text": "Ellos solían hacer la tarea juntos.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la sjuðˈad pˌaɾesˈia mˈas tɾankˈila."
+          "phonemes": "ˈejjos solˈian asˈeɾ la taɾˈea xˈuntos."
         }
       ]
     },
@@ -245,7 +259,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Lenguaje modelo. There used to be fewer buildings. — Antes había menos edificios. I used to play in this square. — Yo jugaba en esta plaza. It was eight o'clock, and it was raining. — Eran las ocho y estaba lloviendo. We listened to the radio while we worked. — Escuchábamos la radio mientras trabajábamos. The city seemed quieter. — La ciudad parecía más tranquila.",
+      "text": "Lenguaje modelo. I was ten years old. — Yo tenía diez años. You lived in another city. — Tú vivías en otra ciudad. He was playing in the square. — Él jugaba en la plaza. We were neighbors. — Nosotros éramos vecinos. They used to do homework together. — Ellos solían hacer la tarea juntos.",
       "sentences": [
         {
           "text": "Lenguaje modelo.",
@@ -258,104 +272,104 @@
           "phonemes": "leŋɡwˈaxe moðˈelo."
         },
         {
-          "text": "There used to be fewer buildings.",
+          "text": "I was ten years old.",
           "segments": [
             {
-              "text": "There used to be fewer buildings.",
+              "text": "I was ten years old.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðɛɹ jˈuːzd təbi fjˈuːɚ bˈɪldɪŋz."
+          "phonemes": "aɪ wʌz tˈɛn jˈɪɹz ˈoʊld."
         },
         {
-          "text": "— Antes había menos edificios.",
+          "text": "— Yo tenía diez años.",
           "segments": [
             {
-              "text": "— Antes había menos edificios.",
+              "text": "— Yo tenía diez años.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— ˈantes aβˈia mˈenos ˌeðifˈisjos."
+          "phonemes": "— ʝˈo tenˈia ðjˈes ˈaɲos."
         },
         {
-          "text": "I used to play in this square.",
+          "text": "You lived in another city.",
           "segments": [
             {
-              "text": "I used to play in this square.",
+              "text": "You lived in another city.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪ jˈuːzd tə plˈeɪ ɪn ðɪs skwˈɛɹ."
+          "phonemes": "juː lˈɪvd ɪn ɐnˈʌðɚ sˈɪɾi."
         },
         {
-          "text": "— Yo jugaba en esta plaza.",
+          "text": "— Tú vivías en otra ciudad.",
           "segments": [
             {
-              "text": "— Yo jugaba en esta plaza.",
+              "text": "— Tú vivías en otra ciudad.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— ʝˈo xuɣˈaβa en ˈesta plˈasa."
+          "phonemes": "— tˈu βiβˈias en ˈotɾa sjuðˈad."
         },
         {
-          "text": "It was eight o'clock, and it was raining.",
+          "text": "He was playing in the square.",
           "segments": [
             {
-              "text": "It was eight o'clock, and it was raining.",
+              "text": "He was playing in the square.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɪt wʌz ˈeɪt əklˈɑːk, ænd ɪt wʌz ɹˈeɪnɪŋ."
+          "phonemes": "hiː wʌz plˈeɪɪŋ ɪnðə skwˈɛɹ."
         },
         {
-          "text": "— Eran las ocho y estaba lloviendo.",
+          "text": "— Él jugaba en la plaza.",
           "segments": [
             {
-              "text": "— Eran las ocho y estaba lloviendo.",
+              "text": "— Él jugaba en la plaza.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— ˈeɾan las ˈotʃo i estˈaβa ʝoβjˈɛndo."
+          "phonemes": "— ˈel xuɣˈaβa en la plˈasa."
         },
         {
-          "text": "We listened to the radio while we worked.",
+          "text": "We were neighbors.",
           "segments": [
             {
-              "text": "We listened to the radio while we worked.",
+              "text": "We were neighbors.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wiː lˈɪsənd tə ðə ɹˈeɪdɪˌoʊ wˌaɪl wiː wˈɜːkt."
+          "phonemes": "wiː wɜː nˈeɪbɚz."
         },
         {
-          "text": "— Escuchábamos la radio mientras trabajábamos.",
+          "text": "— Nosotros éramos vecinos.",
           "segments": [
             {
-              "text": "— Escuchábamos la radio mientras trabajábamos.",
+              "text": "— Nosotros éramos vecinos.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— ˌeskutʃˈaβamos la rˈaðjo mjˌentɾas tɾˌaβaxˈaβamos."
+          "phonemes": "— nosˈotɾos ˈeɾamos βesˈinos."
         },
         {
-          "text": "The city seemed quieter.",
+          "text": "They used to do homework together.",
           "segments": [
             {
-              "text": "The city seemed quieter.",
+              "text": "They used to do homework together.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə sˈɪɾi sˈiːmd kwˈaɪəɾɚ."
+          "phonemes": "ðeɪ jˈuːzd tə dˈuː hˈoʊmwɜːk təɡˈɛðɚ."
         },
         {
-          "text": "— La ciudad parecía más tranquila.",
+          "text": "— Ellos solían hacer la tarea juntos.",
           "segments": [
             {
-              "text": "— La ciudad parecía más tranquila.",
+              "text": "— Ellos solían hacer la tarea juntos.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— la sjuðˈad pˌaɾesˈia mˈas tɾankˈila."
+          "phonemes": "— ˈejjos solˈian asˈeɾ la taɾˈea xˈuntos."
         }
       ]
     },
@@ -407,129 +421,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "before",
+      "text": "I was",
       "sentences": [
         {
-          "text": "before",
+          "text": "I was",
           "segments": [
             {
-              "text": "before",
+              "text": "I was",
               "lang": "en-us"
             }
           ],
-          "phonemes": "bᵻfˈɔːɹ"
+          "phonemes": "aɪ wʌz"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "now",
+      "text": "you lived",
       "sentences": [
         {
-          "text": "now",
+          "text": "you lived",
           "segments": [
             {
-              "text": "now",
+              "text": "you lived",
               "lang": "en-us"
             }
           ],
-          "phonemes": "nˈaʊ"
+          "phonemes": "juː lˈɪvd"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "while",
+      "text": "he was playing",
       "sentences": [
         {
-          "text": "while",
+          "text": "he was playing",
           "segments": [
             {
-              "text": "while",
+              "text": "he was playing",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wˈaɪl"
+          "phonemes": "hiː wʌz plˈeɪɪŋ"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "to use to",
+      "text": "we were",
       "sentences": [
         {
-          "text": "to use to",
+          "text": "we were",
           "segments": [
             {
-              "text": "to use to",
+              "text": "we were",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə jˈuːz tuː"
+          "phonemes": "wiː wɜː"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "quiet",
+      "text": "they used to",
       "sentences": [
         {
-          "text": "quiet",
+          "text": "they used to",
           "segments": [
             {
-              "text": "quiet",
+              "text": "they used to",
               "lang": "en-us"
             }
           ],
-          "phonemes": "kwˈaɪət"
+          "phonemes": "ðeɪ jˈuːzd tuː"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "busy",
+      "text": "age",
       "sentences": [
         {
-          "text": "busy",
+          "text": "age",
           "segments": [
             {
-              "text": "busy",
+              "text": "age",
               "lang": "en-us"
             }
           ],
-          "phonemes": "bˈɪzi"
+          "phonemes": "ˈeɪdʒ"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "to remember",
+      "text": "a habit",
       "sentences": [
         {
-          "text": "to remember",
+          "text": "a habit",
           "segments": [
             {
-              "text": "to remember",
+              "text": "a habit",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə ɹᵻmˈɛmbɚ"
+          "phonemes": "ɐ hˈæbɪt"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "to change",
+      "text": "a description",
       "sentences": [
         {
-          "text": "to change",
+          "text": "a description",
           "segments": [
             {
-              "text": "to change",
+              "text": "a description",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə tʃˈeɪndʒ"
+          "phonemes": "ɐ dᵻskɹˈɪpʃən"
         }
       ]
     }

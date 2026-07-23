@@ -29,7 +29,7 @@
     },
     {
       "file": "01.wav",
-      "text": "Forma y significado. Expresiones meteorológicas; will y going to; presente continuo para planes; primer condicional con if.",
+      "text": "Forma y significado. Aplicación de la forma. Combina if + presente con will + verbo para describir una condición probable y su resultado: if it rains, we'll change the plan.",
       "sentences": [
         {
           "text": "Forma y significado.",
@@ -42,26 +42,20 @@
           "phonemes": "fˈoɾma i sˌiɡnifikˈaðo."
         },
         {
-          "text": "Expresiones meteorológicas; will y going to; presente continuo para planes; primer condicional con if.",
+          "text": "Aplicación de la forma.",
           "segments": [
             {
-              "text": "Expresiones meteorológicas; ",
+              "text": "Aplicación de la forma.",
               "lang": "es-419"
-            },
+            }
+          ],
+          "phonemes": "ˌaplikasjˈon de la fˈoɾma."
+        },
+        {
+          "text": "Combina if + presente con will + verbo para describir una condición probable y su resultado: if it rains, we'll change the plan.",
+          "segments": [
             {
-              "text": "will",
-              "lang": "en-us"
-            },
-            {
-              "text": " y ",
-              "lang": "es-419"
-            },
-            {
-              "text": "going to",
-              "lang": "en-us"
-            },
-            {
-              "text": "; presente continuo para planes; primer condicional con ",
+              "text": "Combina ",
               "lang": "es-419"
             },
             {
@@ -69,17 +63,29 @@
               "lang": "en-us"
             },
             {
-              "text": ".",
+              "text": " + presente con ",
               "lang": "es-419"
+            },
+            {
+              "text": "will",
+              "lang": "en-us"
+            },
+            {
+              "text": " + verbo para describir una condición probable y su resultado: ",
+              "lang": "es-419"
+            },
+            {
+              "text": "if it rains, we'll change the plan.",
+              "lang": "en-us"
             }
           ],
-          "phonemes": "ˌekspɾesjˈones mˌeteˌoɾolˈoxikas; wˈɪl i ɡˈoʊɪŋ tuː ; pɾesˈɛnte kontˈinwo pˌaɾa plˈanes; pɾimˈeɾ kˌondisjonˈal kˈon ɪf ."
+          "phonemes": "kombˈina ɪf mˈas pɾesˈɛnte kˈon wˈɪl mˈas βˈeɾβo pˌaɾa ðˌeskɾiβˈiɾ ˈuna kˌondisjˈom pɾoβˈaβle i su rˌesultˈaðo: ɪf ɪt ɹˈeɪnz, wiːl tʃˈeɪndʒ ðə plˈæn."
         }
       ]
     },
     {
       "file": "02.wav",
-      "text": "Conjunto de modelos. It's going to rain on the coast tomorrow. It's windy in the mountains. If the weather changes, we'll return early. Fires are not allowed in the forest. We're protecting a water source. Mañana va a llover en la costa. Hace viento en las montañas. Si cambia el tiempo, regresaremos temprano. No se permiten fogatas en el bosque. Estamos protegiendo una fuente de agua.",
+      "text": "Conjunto de modelos. It's sunny today, but it's going to rain tomorrow. If it rains, we'll change the plan. It's cloudy in the mountains. It's very cold on the coast. If it's hot, we go to the beach. Hace sol hoy, pero va a llover mañana. Si llueve, cambiaremos el plan. Está nublado en la montaña. Hace mucho frío en la costa. Si hace calor, vamos a la playa.",
       "sentences": [
         {
           "text": "Conjunto de modelos.",
@@ -92,104 +98,104 @@
           "phonemes": "koŋxˈunto ðe moðˈelos."
         },
         {
-          "text": "It's going to rain on the coast tomorrow.",
+          "text": "It's sunny today, but it's going to rain tomorrow.",
           "segments": [
             {
-              "text": "It's going to rain on the coast tomorrow.",
+              "text": "It's sunny today, but it's going to rain tomorrow.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɪts ɡˌoʊɪŋ tə ɹˈeɪn ɔnðə kˈoʊst təmˈɑːɹoʊ."
+          "phonemes": "ɪts sˈʌni tədˈeɪ, bˌʌt ɪts ɡˌoʊɪŋ tə ɹˈeɪn təmˈɑːɹoʊ."
         },
         {
-          "text": "It's windy in the mountains.",
+          "text": "If it rains, we'll change the plan.",
           "segments": [
             {
-              "text": "It's windy in the mountains.",
+              "text": "If it rains, we'll change the plan.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɪts wˈɪndi ɪnðə mˈaʊntɪnz."
+          "phonemes": "ɪf ɪt ɹˈeɪnz, wiːl tʃˈeɪndʒ ðə plˈæn."
         },
         {
-          "text": "If the weather changes, we'll return early.",
+          "text": "It's cloudy in the mountains.",
           "segments": [
             {
-              "text": "If the weather changes, we'll return early.",
+              "text": "It's cloudy in the mountains.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɪf ðə wˈɛðɚ tʃˈeɪndʒᵻz, wiːl ɹᵻtˈɜːn ˈɜːli."
+          "phonemes": "ɪts klˈaʊdi ɪnðə mˈaʊntɪnz."
         },
         {
-          "text": "Fires are not allowed in the forest.",
+          "text": "It's very cold on the coast.",
           "segments": [
             {
-              "text": "Fires are not allowed in the forest.",
+              "text": "It's very cold on the coast.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "fˈaɪɚz ɑːɹ nˌɑːt ɐlˈaʊd ɪnðə fˈɔːɹɪst."
+          "phonemes": "ɪts vˈɛɹi kˈoʊld ɔnðə kˈoʊst."
         },
         {
-          "text": "We're protecting a water source.",
+          "text": "If it's hot, we go to the beach.",
           "segments": [
             {
-              "text": "We're protecting a water source.",
+              "text": "If it's hot, we go to the beach.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wɪɹ pɹətˈɛktɪŋ ɐ wˈɔːɾɚ sˈɔːɹs."
+          "phonemes": "ɪf ɪts hˈɑːt, wiː ɡˌoʊ tə ðə bˈiːtʃ."
         },
         {
-          "text": "Mañana va a llover en la costa.",
+          "text": "Hace sol hoy, pero va a llover mañana.",
           "segments": [
             {
-              "text": "Mañana va a llover en la costa.",
+              "text": "Hace sol hoy, pero va a llover mañana.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "maɲˈana βˈa a ʝoβˈeɾ en la kˈosta."
+          "phonemes": "ˈase sˈol ˈoɪ, pˌeɾo βˈa a ʝoβˈeɾ maɲˈana."
         },
         {
-          "text": "Hace viento en las montañas.",
+          "text": "Si llueve, cambiaremos el plan.",
           "segments": [
             {
-              "text": "Hace viento en las montañas.",
+              "text": "Si llueve, cambiaremos el plan.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˈase βjˈɛnto en las montˈaɲas."
+          "phonemes": "si ʝuˈeβe, kˌambjaɾˈemos el plˈan."
         },
         {
-          "text": "Si cambia el tiempo, regresaremos temprano.",
+          "text": "Está nublado en la montaña.",
           "segments": [
             {
-              "text": "Si cambia el tiempo, regresaremos temprano.",
+              "text": "Está nublado en la montaña.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "si kˈambja el tjˈempo, rˌeɣɾesaɾˈemos tempɾˈano."
+          "phonemes": "estˈa nuβlˈaðo en la montˈaɲa."
         },
         {
-          "text": "No se permiten fogatas en el bosque.",
+          "text": "Hace mucho frío en la costa.",
           "segments": [
             {
-              "text": "No se permiten fogatas en el bosque.",
+              "text": "Hace mucho frío en la costa.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "nˈo se peɾmˈiten foɣˈatas en el βˈoske."
+          "phonemes": "ˈase mˈutʃo fɾˈio en la kˈosta."
         },
         {
-          "text": "Estamos protegiendo una fuente de agua.",
+          "text": "Si hace calor, vamos a la playa.",
           "segments": [
             {
-              "text": "Estamos protegiendo una fuente de agua.",
+              "text": "Si hace calor, vamos a la playa.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "estˈamos pɾˌotexjˈɛndo ˈuna fwˈɛnte ðe ˈaɣwa."
+          "phonemes": "si ˈase kalˈoɾ, bˈamos a la plˈaʝa."
         }
       ]
     },
@@ -257,7 +263,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Lenguaje modelo. It's going to rain on the coast tomorrow. — Mañana va a llover en la costa. It's windy in the mountains. — Hace viento en las montañas. If the weather changes, we'll return early. — Si cambia el tiempo, regresaremos temprano. Fires are not allowed in the forest. — No se permiten fogatas en el bosque. We're protecting a water source. — Estamos protegiendo una fuente de agua.",
+      "text": "Lenguaje modelo. It's sunny today, but it's going to rain tomorrow. — Hace sol hoy, pero va a llover mañana. If it rains, we'll change the plan. — Si llueve, cambiaremos el plan. It's cloudy in the mountains. — Está nublado en la montaña. It's very cold on the coast. — Hace mucho frío en la costa. If it's hot, we go to the beach. — Si hace calor, vamos a la playa.",
       "sentences": [
         {
           "text": "Lenguaje modelo.",
@@ -270,104 +276,104 @@
           "phonemes": "leŋɡwˈaxe moðˈelo."
         },
         {
-          "text": "It's going to rain on the coast tomorrow.",
+          "text": "It's sunny today, but it's going to rain tomorrow.",
           "segments": [
             {
-              "text": "It's going to rain on the coast tomorrow.",
+              "text": "It's sunny today, but it's going to rain tomorrow.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɪts ɡˌoʊɪŋ tə ɹˈeɪn ɔnðə kˈoʊst təmˈɑːɹoʊ."
+          "phonemes": "ɪts sˈʌni tədˈeɪ, bˌʌt ɪts ɡˌoʊɪŋ tə ɹˈeɪn təmˈɑːɹoʊ."
         },
         {
-          "text": "— Mañana va a llover en la costa.",
+          "text": "— Hace sol hoy, pero va a llover mañana.",
           "segments": [
             {
-              "text": "— Mañana va a llover en la costa.",
+              "text": "— Hace sol hoy, pero va a llover mañana.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— maɲˈana βˈa a ʝoβˈeɾ en la kˈosta."
+          "phonemes": "— ˈase sˈol ˈoɪ, pˌeɾo βˈa a ʝoβˈeɾ maɲˈana."
         },
         {
-          "text": "It's windy in the mountains.",
+          "text": "If it rains, we'll change the plan.",
           "segments": [
             {
-              "text": "It's windy in the mountains.",
+              "text": "If it rains, we'll change the plan.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɪts wˈɪndi ɪnðə mˈaʊntɪnz."
+          "phonemes": "ɪf ɪt ɹˈeɪnz, wiːl tʃˈeɪndʒ ðə plˈæn."
         },
         {
-          "text": "— Hace viento en las montañas.",
+          "text": "— Si llueve, cambiaremos el plan.",
           "segments": [
             {
-              "text": "— Hace viento en las montañas.",
+              "text": "— Si llueve, cambiaremos el plan.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— ˈase βjˈɛnto en las montˈaɲas."
+          "phonemes": "— si ʝuˈeβe, kˌambjaɾˈemos el plˈan."
         },
         {
-          "text": "If the weather changes, we'll return early.",
+          "text": "It's cloudy in the mountains.",
           "segments": [
             {
-              "text": "If the weather changes, we'll return early.",
+              "text": "It's cloudy in the mountains.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɪf ðə wˈɛðɚ tʃˈeɪndʒᵻz, wiːl ɹᵻtˈɜːn ˈɜːli."
+          "phonemes": "ɪts klˈaʊdi ɪnðə mˈaʊntɪnz."
         },
         {
-          "text": "— Si cambia el tiempo, regresaremos temprano.",
+          "text": "— Está nublado en la montaña.",
           "segments": [
             {
-              "text": "— Si cambia el tiempo, regresaremos temprano.",
+              "text": "— Está nublado en la montaña.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— si kˈambja el tjˈempo, rˌeɣɾesaɾˈemos tempɾˈano."
+          "phonemes": "— estˈa nuβlˈaðo en la montˈaɲa."
         },
         {
-          "text": "Fires are not allowed in the forest.",
+          "text": "It's very cold on the coast.",
           "segments": [
             {
-              "text": "Fires are not allowed in the forest.",
+              "text": "It's very cold on the coast.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "fˈaɪɚz ɑːɹ nˌɑːt ɐlˈaʊd ɪnðə fˈɔːɹɪst."
+          "phonemes": "ɪts vˈɛɹi kˈoʊld ɔnðə kˈoʊst."
         },
         {
-          "text": "— No se permiten fogatas en el bosque.",
+          "text": "— Hace mucho frío en la costa.",
           "segments": [
             {
-              "text": "— No se permiten fogatas en el bosque.",
+              "text": "— Hace mucho frío en la costa.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— nˈo se peɾmˈiten foɣˈatas en el βˈoske."
+          "phonemes": "— ˈase mˈutʃo fɾˈio en la kˈosta."
         },
         {
-          "text": "We're protecting a water source.",
+          "text": "If it's hot, we go to the beach.",
           "segments": [
             {
-              "text": "We're protecting a water source.",
+              "text": "If it's hot, we go to the beach.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wɪɹ pɹətˈɛktɪŋ ɐ wˈɔːɾɚ sˈɔːɹs."
+          "phonemes": "ɪf ɪts hˈɑːt, wiː ɡˌoʊ tə ðə bˈiːtʃ."
         },
         {
-          "text": "— Estamos protegiendo una fuente de agua.",
+          "text": "— Si hace calor, vamos a la playa.",
           "segments": [
             {
-              "text": "— Estamos protegiendo una fuente de agua.",
+              "text": "— Si hace calor, vamos a la playa.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— estˈamos pɾˌotexjˈɛndo ˈuna fwˈɛnte ðe ˈaɣwa."
+          "phonemes": "— si ˈase kalˈoɾ, bˈamos a la plˈaʝa."
         }
       ]
     },
@@ -419,129 +425,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "rain",
+      "text": "it's sunny",
       "sentences": [
         {
-          "text": "rain",
+          "text": "it's sunny",
           "segments": [
             {
-              "text": "rain",
+              "text": "it's sunny",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɹˈeɪn"
+          "phonemes": "ɪts sˈʌni"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "wind",
+      "text": "it's hot",
       "sentences": [
         {
-          "text": "wind",
+          "text": "it's hot",
           "segments": [
             {
-              "text": "wind",
+              "text": "it's hot",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wˈɪnd"
+          "phonemes": "ɪts hˈɑːt"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "a forecast",
+      "text": "it's cold",
       "sentences": [
         {
-          "text": "a forecast",
+          "text": "it's cold",
           "segments": [
             {
-              "text": "a forecast",
+              "text": "it's cold",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ fˈɔːɹkæst"
+          "phonemes": "ɪts kˈoʊld"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "a mountain",
+      "text": "it's cloudy",
       "sentences": [
         {
-          "text": "a mountain",
+          "text": "it's cloudy",
           "segments": [
             {
-              "text": "a mountain",
+              "text": "it's cloudy",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ mˈaʊntɪn"
+          "phonemes": "ɪts klˈaʊdi"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "a coast",
+      "text": "if + present",
       "sentences": [
         {
-          "text": "a coast",
+          "text": "if + present",
           "segments": [
             {
-              "text": "a coast",
+              "text": "if + present",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ kˈoʊst"
+          "phonemes": "ɪf plˈʌs pɹˈɛzənt"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "a trail",
+      "text": "then",
       "sentences": [
         {
-          "text": "a trail",
+          "text": "then",
           "segments": [
             {
-              "text": "a trail",
+              "text": "then",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ tɹˈeɪl"
+          "phonemes": "ðˈɛn"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "safe",
+      "text": "to change one's mind",
       "sentences": [
         {
-          "text": "safe",
+          "text": "to change one's mind",
           "segments": [
             {
-              "text": "safe",
+              "text": "to change one's mind",
               "lang": "en-us"
             }
           ],
-          "phonemes": "sˈeɪf"
+          "phonemes": "tə tʃˈeɪndʒ wˈʌnz mˈaɪnd"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "to change",
+      "text": "a plan",
       "sentences": [
         {
-          "text": "to change",
+          "text": "a plan",
           "segments": [
             {
-              "text": "to change",
+              "text": "a plan",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə tʃˈeɪndʒ"
+          "phonemes": "ɐ plˈæn"
         }
       ]
     }

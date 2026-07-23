@@ -163,7 +163,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Lenguaje modelo. The measure was approved by the council. — La medida fue aprobada por el consejo. The results were published yesterday. — Los resultados se publicaron ayer. We're having the system repaired. — Estamos haciendo reparar el sistema. The service was closed because of funding cuts. — El servicio se cerró por recortes de fondos. Identification is required to enter. — Se requiere identificación para entrar.",
+      "text": "Lenguaje modelo. An institutional notice is usually impersonal. — Un aviso institucional suele ser impersonal. Journalism sometimes prefers the passive voice. — El periodismo a veces prefiere la voz pasiva. The passive can hide responsibility. — La pasiva puede ocultar la responsabilidad. Formal style uses more passive constructions. — El estilo formal usa más construcciones pasivas. Each outlet chooses its own style. — Cada medio elige su propio estilo.",
       "sentences": [
         {
           "text": "Lenguaje modelo.",
@@ -176,104 +176,120 @@
           "phonemes": "leŋɡwˈaxe moðˈelo."
         },
         {
-          "text": "The measure was approved by the council.",
+          "text": "An institutional notice is usually impersonal.",
           "segments": [
             {
-              "text": "The measure was approved by the council.",
+              "text": "An institutional notice is usually impersonal.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə mˈɛʒɚ wʌz ɐpɹˈuːvd baɪ ðə kˈaʊnsəl."
+          "phonemes": "ɐn ˌɪnstɪtˈuːʃənəl nˈoʊɾɪs ɪz jˈuːʒuːəli ɪmpˈɜːsənəl."
         },
         {
-          "text": "— La medida fue aprobada por el consejo.",
+          "text": "— Un aviso institucional suele ser impersonal.",
           "segments": [
             {
-              "text": "— La medida fue aprobada por el consejo.",
+              "text": "— Un aviso institucional suele ser ",
+              "lang": "es-419"
+            },
+            {
+              "text": "impersonal",
+              "lang": "en-us"
+            },
+            {
+              "text": ".",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— la meðˈiða fwˈe ˌapɾoβˈaða poɾ el konsˈexo."
+          "phonemes": "— ˈun aβˈiso ˌinstitˌusjonˈal swˈele sˈer ɪmpˈɜːsənəl ."
         },
         {
-          "text": "The results were published yesterday.",
+          "text": "Journalism sometimes prefers the passive voice.",
           "segments": [
             {
-              "text": "The results were published yesterday.",
+              "text": "Journalism sometimes prefers the passive voice.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə ɹɪzˈʌlts wɜː pˈʌblɪʃt jˈɛstɚdˌeɪ."
+          "phonemes": "dʒˈɜːnəlˌɪzəm sˈʌmtaɪmz pɹɪfˈɜːz ðə pˈæsɪv vˈɔɪs."
         },
         {
-          "text": "— Los resultados se publicaron ayer.",
+          "text": "— El periodismo a veces prefiere la voz pasiva.",
           "segments": [
             {
-              "text": "— Los resultados se publicaron ayer.",
+              "text": "— El periodismo a veces prefiere la voz pasiva.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— los rˌesultˈaðos se pˌuβlikˈaɾon aʝˈeɾ."
+          "phonemes": "— el pˌeɾjoðˈismo a βˈeses pɾefjˈeɾe la βˈos pasˈiβa."
         },
         {
-          "text": "We're having the system repaired.",
+          "text": "The passive can hide responsibility.",
           "segments": [
             {
-              "text": "We're having the system repaired.",
+              "text": "The passive can hide responsibility.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wɪɹ hˌævɪŋ ðə sˈɪstəm ɹᵻpˈɛɹd."
+          "phonemes": "ðə pˈæsɪv kæn hˈaɪd ɹᵻspˌɑːnsəbˈɪlᵻɾi."
         },
         {
-          "text": "— Estamos haciendo reparar el sistema.",
+          "text": "— La pasiva puede ocultar la responsabilidad.",
           "segments": [
             {
-              "text": "— Estamos haciendo reparar el sistema.",
+              "text": "— La pasiva puede ocultar la responsabilidad.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— estˈamos asjˈɛndo rˌepaɾˈaɾ el sistˈema."
+          "phonemes": "— la pasˈiβa pwˈeðe ˌokultˈaɾ la rˌesponsˌaβiliðˈad."
         },
         {
-          "text": "The service was closed because of funding cuts.",
+          "text": "Formal style uses more passive constructions.",
           "segments": [
             {
-              "text": "The service was closed because of funding cuts.",
+              "text": "Formal style uses more passive constructions.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə sˈɜːvɪs wʌz klˈoʊzd bɪkˈʌz ʌv fˈʌndɪŋ kˈʌts."
+          "phonemes": "fˈɔːɹməl stˈaɪl jˈuːsᵻz mˈɔːɹ pˈæsɪv kənstɹˈʌkʃənz."
         },
         {
-          "text": "— El servicio se cerró por recortes de fondos.",
+          "text": "— El estilo formal usa más construcciones pasivas.",
           "segments": [
             {
-              "text": "— El servicio se cerró por recortes de fondos.",
+              "text": "— El estilo ",
+              "lang": "es-419"
+            },
+            {
+              "text": "formal",
+              "lang": "en-us"
+            },
+            {
+              "text": " usa más construcciones pasivas.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— el seɾβˈisjo se serˈo poɾ rekˈoɾtes ðe fˈondos."
+          "phonemes": "— el estˈilo fˈɔːɹməl ˈusa mˈas kˌonstɾuksjˈones pasˈiβas."
         },
         {
-          "text": "Identification is required to enter.",
+          "text": "Each outlet chooses its own style.",
           "segments": [
             {
-              "text": "Identification is required to enter.",
+              "text": "Each outlet chooses its own style.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪdˈɛntɪfɪkˈeɪʃən ɪz ɹᵻkwˈaɪɚd tʊ ˈɛntɚ."
+          "phonemes": "ˈiːtʃ ˈaʊtlɛt tʃˈuːzᵻz ɪts ˈoʊn stˈaɪl."
         },
         {
-          "text": "— Se requiere identificación para entrar.",
+          "text": "— Cada medio elige su propio estilo.",
           "segments": [
             {
-              "text": "— Se requiere identificación para entrar.",
+              "text": "— Cada medio elige su propio estilo.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— se rekjˈeɾe ˌiðentˌifikasjˈom pˌaɾa entɾˈaɾ."
+          "phonemes": "— kˈaða mˈeðjo elˈixe su pɾˈopjo estˈilo."
         }
       ]
     },
@@ -325,129 +341,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "to approve",
+      "text": "institutional notice",
       "sentences": [
         {
-          "text": "to approve",
+          "text": "institutional notice",
           "segments": [
             {
-              "text": "to approve",
+              "text": "institutional notice",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tʊ ɐpɹˈuːv"
+          "phonemes": "ˌɪnstɪtˈuːʃənəl nˈoʊɾɪs"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "to publish",
+      "text": "journalism",
       "sentences": [
         {
-          "text": "to publish",
+          "text": "journalism",
           "segments": [
             {
-              "text": "to publish",
+              "text": "journalism",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə pˈʌblɪʃ"
+          "phonemes": "dʒˈɜːnəlˌɪzəm"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "to require",
+      "text": "to prefer",
       "sentences": [
         {
-          "text": "to require",
+          "text": "to prefer",
           "segments": [
             {
-              "text": "to require",
+              "text": "to prefer",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə ɹᵻkwˈaɪɚ"
+          "phonemes": "tə pɹɪfˈɜː"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "to affect",
+      "text": "to hide",
       "sentences": [
         {
-          "text": "to affect",
+          "text": "to hide",
           "segments": [
             {
-              "text": "to affect",
+              "text": "to hide",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tʊ ɐfˈɛkt"
+          "phonemes": "tə hˈaɪd"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "a process",
+      "text": "responsibility",
       "sentences": [
         {
-          "text": "a process",
+          "text": "responsibility",
           "segments": [
             {
-              "text": "a process",
+              "text": "responsibility",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ pɹˈɑːsɛs"
+          "phonemes": "ɹᵻspˌɑːnsəbˈɪlᵻɾi"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "a result",
+      "text": "style",
       "sentences": [
         {
-          "text": "a result",
+          "text": "style",
           "segments": [
             {
-              "text": "a result",
+              "text": "style",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ ɹɪzˈʌlt"
+          "phonemes": "stˈaɪl"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "by",
+      "text": "impersonal",
       "sentences": [
         {
-          "text": "by",
+          "text": "impersonal",
           "segments": [
             {
-              "text": "by",
+              "text": "impersonal",
               "lang": "en-us"
             }
           ],
-          "phonemes": "bˈaɪ"
+          "phonemes": "ɪmpˈɜːsənəl"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "to repair",
+      "text": "formal",
       "sentences": [
         {
-          "text": "to repair",
+          "text": "formal",
           "segments": [
             {
-              "text": "to repair",
+              "text": "formal",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə ɹᵻpˈɛɹ"
+          "phonemes": "fˈɔːɹməl"
         }
       ]
     }

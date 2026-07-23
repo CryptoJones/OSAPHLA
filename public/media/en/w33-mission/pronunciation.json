@@ -143,7 +143,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Lenguaje modelo. The source says that the reform expanded rights. — La fuente dice que la reforma amplió derechos. Others argue that inequality continued. — Otros sostienen que continuó la desigualdad. Many people had already emigrated when the government changed. — Muchas personas ya habían emigrado cuando cambió el gobierno. Although the facts are clear, their meaning is debated. — Aunque los hechos están claros, se debate su significado. The testimony offers a personal perspective. — El testimonio ofrece una perspectiva personal.",
+      "text": "Lenguaje modelo. I'm going to present a contested event. — Voy a presentar un acontecimiento disputado. I use two different perspectives. — Uso dos perspectivas distintas. I attribute each cited source clearly. — Atribuyo cada fuente citada claramente. I explain the possible bias of each. — Explico el sesgo posible de cada una. I let the audience draw their own conclusions. — Dejo que el público saque sus propias conclusiones.",
       "sentences": [
         {
           "text": "Lenguaje modelo.",
@@ -156,104 +156,104 @@
           "phonemes": "leŋɡwˈaxe moðˈelo."
         },
         {
-          "text": "The source says that the reform expanded rights.",
+          "text": "I'm going to present a contested event.",
           "segments": [
             {
-              "text": "The source says that the reform expanded rights.",
+              "text": "I'm going to present a contested event.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə sˈɔːɹs sˈɛz ðætðə ɹᵻfˈɔːɹm ɛkspˈændᵻd ɹˈaɪts."
+          "phonemes": "aɪm ɡˌoʊɪŋ tə pɹɪzˈɛnt ɐ kəntˈɛstᵻd ᵻvˈɛnt."
         },
         {
-          "text": "— La fuente dice que la reforma amplió derechos.",
+          "text": "— Voy a presentar un acontecimiento disputado.",
           "segments": [
             {
-              "text": "— La fuente dice que la reforma amplió derechos.",
+              "text": "— Voy a presentar un acontecimiento disputado.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— la fwˈɛnte ðˈise ke la refˈoɾma ˌampliˈo ðeɾˈetʃos."
+          "phonemes": "— bˈoɪ a pɾˌesentˈaɾ ˈun ˌakontˌesimjˈɛnto ðˌisputˈaðo."
         },
         {
-          "text": "Others argue that inequality continued.",
+          "text": "I use two different perspectives.",
           "segments": [
             {
-              "text": "Others argue that inequality continued.",
+              "text": "I use two different perspectives.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ˈʌðɚz ˈɑːɹɡjuː ðæt ɪniːkwˈɔlᵻɾi kəntˈɪnjuːd."
+          "phonemes": "aɪ jˈuːz tˈuː dˈɪfɹənt pɚspˈɛktɪvz."
         },
         {
-          "text": "— Otros sostienen que continuó la desigualdad.",
+          "text": "— Uso dos perspectivas distintas.",
           "segments": [
             {
-              "text": "— Otros sostienen que continuó la desigualdad.",
+              "text": "— Uso dos perspectivas distintas.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— ˈotɾos sostjˈenen ke kˌontinwˈo la ðˌesiɣwalðˈad."
+          "phonemes": "— ˈuso ðˈos pˌeɾspektˈiβas ðistˈintas."
         },
         {
-          "text": "Many people had already emigrated when the government changed.",
+          "text": "I attribute each cited source clearly.",
           "segments": [
             {
-              "text": "Many people had already emigrated when the government changed.",
+              "text": "I attribute each cited source clearly.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "mˈɛni pˈiːpəl hæd ɔːlɹˌɛdi ˈɛmɪɡɹˌeɪɾᵻd wɛn ðə ɡˈʌvɚnmənt tʃˈeɪndʒd."
+          "phonemes": "aɪ ɐtɹˈɪbjuːt ˈiːtʃ sˈaɪɾᵻd sˈɔːɹs klˈɪɹli."
         },
         {
-          "text": "— Muchas personas ya habían emigrado cuando cambió el gobierno.",
+          "text": "— Atribuyo cada fuente citada claramente.",
           "segments": [
             {
-              "text": "— Muchas personas ya habían emigrado cuando cambió el gobierno.",
+              "text": "— Atribuyo cada fuente citada claramente.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— mˈutʃas peɾsˈonas ʝˈa aβˈian ˌemiɣɾˈaðo kwˌando kambjˈo el ɣoβjˈeɾno."
+          "phonemes": "— ˌatɾiβˈuʝo kˈaða fwˈɛnte sitˈaða klˈaɾamˈente."
         },
         {
-          "text": "Although the facts are clear, their meaning is debated.",
+          "text": "I explain the possible bias of each.",
           "segments": [
             {
-              "text": "Although the facts are clear, their meaning is debated.",
+              "text": "I explain the possible bias of each.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɔːlðˈoʊ ðə fˈækts ɑːɹ klˈɪɹ, ðɛɹ mˈiːnɪŋ ɪz dᵻbˈeɪɾᵻd."
+          "phonemes": "aɪ ɛksplˈeɪn ðə pˈɑːsᵻbəl bˈaɪəs ʌv ˈiːtʃ."
         },
         {
-          "text": "— Aunque los hechos están claros, se debate su significado.",
+          "text": "— Explico el sesgo posible de cada una.",
           "segments": [
             {
-              "text": "— Aunque los hechos están claros, se debate su significado.",
+              "text": "— Explico el sesgo posible de cada una.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— ˌaʊnke los ˈetʃos estˈan klˈaɾos, se ðeβˈate su sˌiɡnifikˈaðo."
+          "phonemes": "— eksplˈiko el sˈesɣo posˈiβle ðe kˈaða ˈuna."
         },
         {
-          "text": "The testimony offers a personal perspective.",
+          "text": "I let the audience draw their own conclusions.",
           "segments": [
             {
-              "text": "The testimony offers a personal perspective.",
+              "text": "I let the audience draw their own conclusions.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə tˈɛstᵻməni ˈɔfɚz ɐ pˈɜːsənəl pɚspˈɛktɪv."
+          "phonemes": "aɪ lˈɛt ðɪ ˈɔːdiəns dɹˈɔː ðɛɹ ˈoʊn kəŋklˈuːʒənz."
         },
         {
-          "text": "— El testimonio ofrece una perspectiva personal.",
+          "text": "— Dejo que el público saque sus propias conclusiones.",
           "segments": [
             {
-              "text": "— El testimonio ofrece una perspectiva personal.",
+              "text": "— Dejo que el público saque sus propias conclusiones.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— el tˌestimˈonjo ofɾˈese ˈuna pˌeɾspektˈiβa pˌeɾsonˈal."
+          "phonemes": "— dˈexo ke el pˈuβliko sˈake sus pɾˈopjas kˌonklusjˈones."
         }
       ]
     },
@@ -305,129 +305,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "a source",
+      "text": "to present",
       "sentences": [
         {
-          "text": "a source",
+          "text": "to present",
           "segments": [
             {
-              "text": "a source",
+              "text": "to present",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ sˈɔːɹs"
+          "phonemes": "tə pɹɪzˈɛnt"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "evidence",
+      "text": "an event",
       "sentences": [
         {
-          "text": "evidence",
+          "text": "an event",
           "segments": [
             {
-              "text": "evidence",
+              "text": "an event",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ˈɛvɪdəns"
+          "phonemes": "ɐn ᵻvˈɛnt"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "a claim",
+      "text": "contested",
       "sentences": [
         {
-          "text": "a claim",
+          "text": "contested",
           "segments": [
             {
-              "text": "a claim",
+              "text": "contested",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ klˈeɪm"
+          "phonemes": "kəntˈɛstᵻd"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "a perspective",
+      "text": "a cited source",
       "sentences": [
         {
-          "text": "a perspective",
+          "text": "a cited source",
           "segments": [
             {
-              "text": "a perspective",
+              "text": "a cited source",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ pɚspˈɛktɪv"
+          "phonemes": "ɐ sˈaɪɾᵻd sˈɔːɹs"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "although",
+      "text": "two perspectives",
       "sentences": [
         {
-          "text": "although",
+          "text": "two perspectives",
           "segments": [
             {
-              "text": "although",
+              "text": "two perspectives",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɔːlðˈoʊ"
+          "phonemes": "tˈuː pɚspˈɛktɪvz"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "therefore",
+      "text": "to attribute",
       "sentences": [
         {
-          "text": "therefore",
+          "text": "to attribute",
           "segments": [
             {
-              "text": "therefore",
+              "text": "to attribute",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðˈɛɹfɔːɹ"
+          "phonemes": "tʊ ɐtɹˈɪbjuːt"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "to argue",
+      "text": "clearly",
       "sentences": [
         {
-          "text": "to argue",
+          "text": "clearly",
           "segments": [
             {
-              "text": "to argue",
+              "text": "clearly",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tʊ ˈɑːɹɡjuː"
+          "phonemes": "klˈɪɹli"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "to interpret",
+      "text": "bias",
       "sentences": [
         {
-          "text": "to interpret",
+          "text": "bias",
           "segments": [
             {
-              "text": "to interpret",
+              "text": "bias",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tʊ ɪntˈɜːpɹɪt"
+          "phonemes": "bˈaɪəs"
         }
       ]
     }

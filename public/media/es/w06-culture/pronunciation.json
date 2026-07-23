@@ -45,11 +45,19 @@
           "text": "Daily schedules and meal times differ across regions and urban/rural contexts.",
           "segments": [
             {
-              "text": "Daily schedules and meal times differ across regions and urban/rural contexts.",
+              "text": "Daily schedules and meal times differ across regions and urban/",
+              "lang": "en-us"
+            },
+            {
+              "text": "rural",
+              "lang": "es-419"
+            },
+            {
+              "text": " contexts.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "dˈeɪli skˈɛdʒuːlz ænd mˈiːl tˈaɪmz dˈɪfɚɹ əkɹˌɑːs ɹˈiːdʒənz ænd ˈɜːbən slˈæʃ ɹˈʊɹɹəl kˈɑːntɛksts."
+          "phonemes": "dˈeɪli skˈɛdʒuːlz ænd mˈiːl tˈaɪmz dˈɪfɚɹ əkɹˌɑːs ɹˈiːdʒənz ænd ˈɜːbən slˈæʃ ruɾˈal kˈɑːntɛksts."
         }
       ]
     },
@@ -163,7 +171,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Model language. Trabajo por la mañana y estudio por la noche. — I work in the morning and study at night. ¿Dónde vives? — Where do you live? Comemos juntos los viernes. — We eat together on Fridays. Ella escribe en su diario cada día. — She writes in her journal every day. A veces bebo café después de comer. — Sometimes I drink coffee after eating.",
+      "text": "Model language. El horario laboral cambia según el país. — The work schedule changes by country. La comida principal no siempre es al mediodía. — The main meal is not always at midday. Las costumbres varían entre zonas rurales y urbanas. — Customs vary between rural and urban areas. Muchas familias comparten la cena. — Many families share dinner. El contexto determina el horario de cada persona. — Context determines each person's schedule.",
       "sentences": [
         {
           "text": "Model language.",
@@ -176,104 +184,112 @@
           "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
         },
         {
-          "text": "Trabajo por la mañana y estudio por la noche.",
+          "text": "El horario laboral cambia según el país.",
           "segments": [
             {
-              "text": "Trabajo por la mañana y estudio por la noche.",
+              "text": "El horario laboral cambia según el país.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "tɾaβˈaxo poɾ la maɲˈana i estˈuðjo poɾ la nˈotʃe."
+          "phonemes": "el oɾˈaɾjo lˌaβoɾˈal kˈambja seɣˈun el paˈis."
         },
         {
-          "text": "— I work in the morning and study at night.",
+          "text": "— The work schedule changes by country.",
           "segments": [
             {
-              "text": "— I work in the morning and study at night.",
+              "text": "— The work schedule changes by country.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— aɪ wˈɜːk ɪnðə mˈɔːɹnɪŋ ænd stˈʌdi æt nˈaɪt."
+          "phonemes": "— ðə wˈɜːk skˈɛdʒuːl tʃˈeɪndʒᵻz baɪ kˈʌntɹi."
         },
         {
-          "text": "¿Dónde vives?",
+          "text": "La comida principal no siempre es al mediodía.",
           "segments": [
             {
-              "text": "¿Dónde vives?",
+              "text": "La comida principal no siempre es al mediodía.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "dˈonde βˈiβes?"
+          "phonemes": "la komˈiða pɾˌinsipˈal nˈo sjˈempɾe ˈes al mˌeðjoðˈia."
         },
         {
-          "text": "— Where do you live?",
+          "text": "— The main meal is not always at midday.",
           "segments": [
             {
-              "text": "— Where do you live?",
+              "text": "— The main meal is not always at midday.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— wˌɛɹ dˈuː juː lˈɪv?"
+          "phonemes": "— ðə mˈeɪn mˈiːl ɪz nˌɑːt ˈɔːlweɪz æt mˌɪddˈeɪ."
         },
         {
-          "text": "Comemos juntos los viernes.",
+          "text": "Las costumbres varían entre zonas rurales y urbanas.",
           "segments": [
             {
-              "text": "Comemos juntos los viernes.",
+              "text": "Las costumbres varían entre zonas rurales y urbanas.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "komˈemos xˈuntos los βjˈeɾnes."
+          "phonemes": "las kostˈumbɾes βaɾˈian ˌentɾe sˈonas ruɾˈales i uɾβˈanas."
         },
         {
-          "text": "— We eat together on Fridays.",
+          "text": "— Customs vary between rural and urban areas.",
           "segments": [
             {
-              "text": "— We eat together on Fridays.",
+              "text": "— Customs vary between ",
+              "lang": "en-us"
+            },
+            {
+              "text": "rural",
+              "lang": "es-419"
+            },
+            {
+              "text": " and urban areas.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— wiː ˈiːt təɡˌɛðɚɹ ˌɔn fɹˈaɪdeɪz."
+          "phonemes": "— kˈʌstəmz vˈɛɹi bᵻtwˈiːn ruɾˈal ænd ˈɜːbən ˈɛɹiəz."
         },
         {
-          "text": "Ella escribe en su diario cada día.",
+          "text": "Muchas familias comparten la cena.",
           "segments": [
             {
-              "text": "Ella escribe en su diario cada día.",
+              "text": "Muchas familias comparten la cena.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˈejja eskɾˈiβe en su ðjˈaɾjo kˈaða ðˈia."
+          "phonemes": "mˈutʃas famˈiljas kompˈaɾten la sˈena."
         },
         {
-          "text": "— She writes in her journal every day.",
+          "text": "— Many families share dinner.",
           "segments": [
             {
-              "text": "— She writes in her journal every day.",
+              "text": "— Many families share dinner.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ʃiː ɹˈaɪts ɪn hɜː dʒˈɜːnəl ˈɛvɹi dˈeɪ."
+          "phonemes": "— mˈɛni fˈæmɪliz ʃˈɛɹ dˈɪnɚ."
         },
         {
-          "text": "A veces bebo café después de comer.",
+          "text": "El contexto determina el horario de cada persona.",
           "segments": [
             {
-              "text": "A veces bebo café después de comer.",
+              "text": "El contexto determina el horario de cada persona.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "a βˈeses βˈeβo kafˈe ðespwˈes ðe komˈeɾ."
+          "phonemes": "el kontˈeksto ðˌeteɾmˈina el oɾˈaɾjo ðe kˈaða peɾsˈona."
         },
         {
-          "text": "— Sometimes I drink coffee after eating.",
+          "text": "— Context determines each person's schedule.",
           "segments": [
             {
-              "text": "— Sometimes I drink coffee after eating.",
+              "text": "— Context determines each person's schedule.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— sˈʌmtaɪmz aɪ dɹˈɪŋk kˈɔfi ˈæftɚɹ ˈiːɾɪŋ."
+          "phonemes": "— kˈɑːntɛkst dɪtˈɜːmɪnz ˈiːtʃ pˈɜːsənz skˈɛdʒuːl."
         }
       ]
     },
@@ -325,129 +341,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "trabajar",
+      "text": "el horario laboral",
       "sentences": [
         {
-          "text": "trabajar",
+          "text": "el horario laboral",
           "segments": [
             {
-              "text": "trabajar",
+              "text": "el horario laboral",
               "lang": "es-419"
             }
           ],
-          "phonemes": "tɾˌaβaxˈaɾ"
+          "phonemes": "el oɾˈaɾjo lˌaβoɾˈal"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "estudiar",
+      "text": "la comida principal",
       "sentences": [
         {
-          "text": "estudiar",
+          "text": "la comida principal",
           "segments": [
             {
-              "text": "estudiar",
+              "text": "la comida principal",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˌestuðjˈaɾ"
+          "phonemes": "la komˈiða pɾˌinsipˈal"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "comer",
+      "text": "rural",
       "sentences": [
         {
-          "text": "comer",
+          "text": "rural",
           "segments": [
             {
-              "text": "comer",
+              "text": "rural",
               "lang": "es-419"
             }
           ],
-          "phonemes": "komˈeɾ"
+          "phonemes": "ruɾˈal"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "beber",
+      "text": "urbano",
       "sentences": [
         {
-          "text": "beber",
+          "text": "urbano",
           "segments": [
             {
-              "text": "beber",
+              "text": "urbano",
               "lang": "es-419"
             }
           ],
-          "phonemes": "beβˈeɾ"
+          "phonemes": "uɾβˈano"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "vivir",
+      "text": "variar",
       "sentences": [
         {
-          "text": "vivir",
+          "text": "variar",
           "segments": [
             {
-              "text": "vivir",
+              "text": "variar",
               "lang": "es-419"
             }
           ],
-          "phonemes": "biβˈiɾ"
+          "phonemes": "baɾjˈaɾ"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "escribir",
+      "text": "la costumbre",
       "sentences": [
         {
-          "text": "escribir",
+          "text": "la costumbre",
           "segments": [
             {
-              "text": "escribir",
+              "text": "la costumbre",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˌeskɾiβˈiɾ"
+          "phonemes": "la kostˈumbɾe"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "siempre",
+      "text": "compartir",
       "sentences": [
         {
-          "text": "siempre",
+          "text": "compartir",
           "segments": [
             {
-              "text": "siempre",
+              "text": "compartir",
               "lang": "es-419"
             }
           ],
-          "phonemes": "sjˈempɾe"
+          "phonemes": "kˌompaɾtˈiɾ"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "a veces",
+      "text": "el contexto",
       "sentences": [
         {
-          "text": "a veces",
+          "text": "el contexto",
           "segments": [
             {
-              "text": "a veces",
+              "text": "el contexto",
               "lang": "es-419"
             }
           ],
-          "phonemes": "a βˈeses"
+          "phonemes": "el kontˈeksto"
         }
       ]
     }

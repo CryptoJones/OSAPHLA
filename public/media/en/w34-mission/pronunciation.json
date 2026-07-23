@@ -45,11 +45,19 @@
           "text": "Interpreta intercambios de distintas regiones y reformula su contenido en el modelo estadounidense neutral del curso.",
           "segments": [
             {
-              "text": "Interpreta intercambios de distintas regiones y reformula su contenido en el modelo estadounidense neutral del curso.",
+              "text": "Interpreta intercambios de distintas regiones y reformula su contenido en el modelo estadounidense ",
+              "lang": "es-419"
+            },
+            {
+              "text": "neutral",
+              "lang": "en-us"
+            },
+            {
+              "text": " del curso.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˌinteɾpɾˈeta ˌinteɾkˈambjos ðe ðistˈintas rexjˈones i rˌefoɾmˈula su kˌontenˈiðo en el moðˈelo ˌestaðˌowniðˈɛnse neʊtɾˈal ðel kˈuɾso."
+          "phonemes": "ˌinteɾpɾˈeta ˌinteɾkˈambjos ðe ðistˈintas rexjˈones i rˌefoɾmˈula su kˌontenˈiðo en el moðˈelo ˌestaðˌowniðˈɛnse nˈuːtɹəl del kˈuɾso."
         }
       ]
     },
@@ -143,7 +151,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Lenguaje modelo. Do you have time tomorrow? — ¿Tienes tiempo mañana? Take the lift to the second floor. — Toma el ascensor hasta el segundo piso. Take the elevator to the third floor. — Toma el ascensor hasta el tercer piso. The spelling changes, but the meaning is clear. — La ortografía cambia, pero el significado está claro. I don't know that word. What does it mean here? — No conozco esa palabra. ¿Qué significa aquí?",
+      "text": "Lenguaje modelo. I'm going to interpret seven regional exchanges. — Voy a interpretar siete intercambios regionales. Each exchange is brief. — Cada intercambio es breve. I reformulate the content in a neutral model. — Reformulo el contenido en un modelo neutral. I use the course's instructional model. — Uso el modelo instructivo del curso. This way everyone can understand the message. — Así todos pueden comprender el mensaje.",
       "sentences": [
         {
           "text": "Lenguaje modelo.",
@@ -156,124 +164,112 @@
           "phonemes": "leŋɡwˈaxe moðˈelo."
         },
         {
-          "text": "Do you have time tomorrow?",
+          "text": "I'm going to interpret seven regional exchanges.",
           "segments": [
             {
-              "text": "Do you have time tomorrow?",
+              "text": "I'm going to interpret seven regional exchanges.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "dˈuː juː hæv tˈaɪm təmˈɑːɹoʊ?"
+          "phonemes": "aɪm ɡˌoʊɪŋ tʊ ɪntˈɜːpɹɪt sˈɛvən ɹˈiːdʒənəl ɛkstʃˈeɪndʒᵻz."
         },
         {
-          "text": "— ¿Tienes tiempo mañana?",
+          "text": "— Voy a interpretar siete intercambios regionales.",
           "segments": [
             {
-              "text": "— ¿Tienes tiempo mañana?",
+              "text": "— Voy a interpretar siete intercambios regionales.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— tjˈenes tjˈempo maɲˈana?"
+          "phonemes": "— bˈoɪ a ˌinteɾpɾetˈaɾ sjˈete ˌinteɾkˈambjos rˌexjonˈales."
         },
         {
-          "text": "Take the lift to the second floor.",
+          "text": "Each exchange is brief.",
           "segments": [
             {
-              "text": "Take the lift to the second floor.",
+              "text": "Each exchange is brief.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tˈeɪk ðə lˈɪft tə ðə sˈɛkənd flˈɔːɹ."
+          "phonemes": "ˈiːtʃ ɛkstʃˈeɪndʒ ɪz bɹˈiːf."
         },
         {
-          "text": "— Toma el ascensor hasta el segundo piso.",
+          "text": "— Cada intercambio es breve.",
           "segments": [
             {
-              "text": "— Toma el ascensor hasta el segundo piso.",
+              "text": "— Cada intercambio es breve.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— tˈoma el ˌasensˈoɾ ˌasta el seɣˈundo pˈiso."
+          "phonemes": "— kˈaða ˌinteɾkˈambjo ˈes βɾˈeβe."
         },
         {
-          "text": "Take the elevator to the third floor.",
+          "text": "I reformulate the content in a neutral model.",
           "segments": [
             {
-              "text": "Take the elevator to the third floor.",
+              "text": "I reformulate the content in a neutral model.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tˈeɪk ðɪ ˈɛlɪvˌeɪɾɚ tə ðə θˈɜːd flˈɔːɹ."
+          "phonemes": "aɪ ɹᵻfˈɔːɹmjʊlˌeɪt ðə kˈɑːntɛnt ɪn ɐ nˈuːtɹəl mˈɑːdəl."
         },
         {
-          "text": "— Toma el ascensor hasta el tercer piso.",
+          "text": "— Reformulo el contenido en un modelo neutral.",
           "segments": [
             {
-              "text": "— Toma el ascensor hasta el tercer piso.",
+              "text": "— Reformulo el contenido en un modelo ",
+              "lang": "es-419"
+            },
+            {
+              "text": "neutral",
+              "lang": "en-us"
+            },
+            {
+              "text": ".",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— tˈoma el ˌasensˈoɾ ˌasta el teɾsˈeɾ pˈiso."
+          "phonemes": "— rˌefoɾmˈulo el kˌontenˈiðo en ˈun moðˈelo nˈuːtɹəl ."
         },
         {
-          "text": "The spelling changes, but the meaning is clear.",
+          "text": "I use the course's instructional model.",
           "segments": [
             {
-              "text": "The spelling changes, but the meaning is clear.",
+              "text": "I use the course's instructional model.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə spˈɛlɪŋ tʃˈeɪndʒᵻz, bˌʌt ðə mˈiːnɪŋ ɪz klˈɪɹ."
+          "phonemes": "aɪ jˈuːz ðə kˈɔːɹsᵻz ɪnstɹˈʌkʃənəl mˈɑːdəl."
         },
         {
-          "text": "— La ortografía cambia, pero el significado está claro.",
+          "text": "— Uso el modelo instructivo del curso.",
           "segments": [
             {
-              "text": "— La ortografía cambia, pero el significado está claro.",
+              "text": "— Uso el modelo instructivo del curso.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— la ˌoɾtoɣɾafˈia kˈambja, pˌeɾo el sˌiɡnifikˈaðo estˈa klˈaɾo."
+          "phonemes": "— ˈuso el moðˈelo ˌinstɾuktˈiβo ðel kˈuɾso."
         },
         {
-          "text": "I don't know that word.",
+          "text": "This way everyone can understand the message.",
           "segments": [
             {
-              "text": "I don't know that word.",
+              "text": "This way everyone can understand the message.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪ dˈoʊnt nˈoʊ ðæt wˈɜːd."
+          "phonemes": "ðɪs wˈeɪ ˈɛvɹɪwˌʌn kæn ˌʌndɚstˈænd ðə mˈɛsɪdʒ."
         },
         {
-          "text": "What does it mean here?",
+          "text": "— Así todos pueden comprender el mensaje.",
           "segments": [
             {
-              "text": "What does it mean here?",
-              "lang": "en-us"
-            }
-          ],
-          "phonemes": "wˌʌt dˈʌz ɪt mˈiːn hˈɪɹ?"
-        },
-        {
-          "text": "— No conozco esa palabra.",
-          "segments": [
-            {
-              "text": "— No conozco esa palabra.",
+              "text": "— Así todos pueden comprender el mensaje.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— nˈo konˈosko ˈesa palˈaβɾa."
-        },
-        {
-          "text": "¿Qué significa aquí?",
-          "segments": [
-            {
-              "text": "¿Qué significa aquí?",
-              "lang": "es-419"
-            }
-          ],
-          "phonemes": "kˈe sˌiɡnifˈika akˈi?"
+          "phonemes": "— asˈi tˈoðos pwˈeðen kˌompɾendˈeɾ el mensˈaxe."
         }
       ]
     },
@@ -325,129 +321,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "an accent",
+      "text": "to interpret",
       "sentences": [
         {
-          "text": "an accent",
+          "text": "to interpret",
           "segments": [
             {
-              "text": "an accent",
+              "text": "to interpret",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐn ˈæksənt"
+          "phonemes": "tʊ ɪntˈɜːpɹɪt"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "a variety",
+      "text": "an exchange",
       "sentences": [
         {
-          "text": "a variety",
+          "text": "an exchange",
           "segments": [
             {
-              "text": "a variety",
+              "text": "an exchange",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ vɚɹˈaɪəɾi"
+          "phonemes": "ɐn ɛkstʃˈeɪndʒ"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "a lift",
+      "text": "to reformulate",
       "sentences": [
         {
-          "text": "a lift",
+          "text": "to reformulate",
           "segments": [
             {
-              "text": "a lift",
+              "text": "to reformulate",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ lˈɪft"
+          "phonemes": "tə ɹᵻfˈɔːɹmjʊlˌeɪt"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "an elevator",
+      "text": "neutral",
       "sentences": [
         {
-          "text": "an elevator",
+          "text": "neutral",
           "segments": [
             {
-              "text": "an elevator",
+              "text": "neutral",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐn ˈɛlɪvˌeɪɾɚ"
+          "phonemes": "nˈuːtɹəl"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "a flat",
+      "text": "instructional model",
       "sentences": [
         {
-          "text": "a flat",
+          "text": "instructional model",
           "segments": [
             {
-              "text": "a flat",
+              "text": "instructional model",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ flˈæt"
+          "phonemes": "ɪnstɹˈʌkʃənəl mˈɑːdəl"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "an apartment",
+      "text": "to understand",
       "sentences": [
         {
-          "text": "an apartment",
+          "text": "to understand",
           "segments": [
             {
-              "text": "an apartment",
+              "text": "to understand",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐn ɐpˈɑːɹtmənt"
+          "phonemes": "tʊ ˌʌndɚstˈænd"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "to clarify",
+      "text": "seven",
       "sentences": [
         {
-          "text": "to clarify",
+          "text": "seven",
           "segments": [
             {
-              "text": "to clarify",
+              "text": "seven",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə klˈæɹᵻfˌaɪ"
+          "phonemes": "sˈɛvən"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "What does that mean here?",
+      "text": "brief",
       "sentences": [
         {
-          "text": "What does that mean here?",
+          "text": "brief",
           "segments": [
             {
-              "text": "What does that mean here?",
+              "text": "brief",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wˌʌt dˈʌz ðæt mˈiːn hˈɪɹ?"
+          "phonemes": "bɹˈiːf"
         }
       ]
     }

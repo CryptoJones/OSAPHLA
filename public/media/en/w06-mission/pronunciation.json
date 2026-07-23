@@ -143,7 +143,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Lenguaje modelo. I work in the morning and study at night. — Trabajo por la mañana y estudio por la noche. Where do you live? — ¿Dónde vives? We eat together on Fridays. — Comemos juntos los viernes. She writes in her journal every day. — Ella escribe en su diario todos los días. I sometimes drink coffee after lunch. — A veces tomo café después del almuerzo.",
+      "text": "Lenguaje modelo. I'm going to compare my schedule with a coworker's. — Voy a comparar mi horario con el de un compañero. I ask about their daily routine. — Le pregunto sobre su rutina diaria. I write down the differences between the two schedules. — Anoto las diferencias entre los dos horarios. I find a schedule similar to mine. — Encuentro un horario similar al mío. I answer their questions about my routine. — Respondo sus preguntas sobre mi rutina.",
       "sentences": [
         {
           "text": "Lenguaje modelo.",
@@ -156,104 +156,112 @@
           "phonemes": "leŋɡwˈaxe moðˈelo."
         },
         {
-          "text": "I work in the morning and study at night.",
+          "text": "I'm going to compare my schedule with a coworker's.",
           "segments": [
             {
-              "text": "I work in the morning and study at night.",
+              "text": "I'm going to compare my schedule with a coworker's.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪ wˈɜːk ɪnðə mˈɔːɹnɪŋ ænd stˈʌdi æt nˈaɪt."
+          "phonemes": "aɪm ɡˌoʊɪŋ tə kəmpˈɛɹ maɪ skˈɛdʒuːl wɪð ɐ kˈoʊwɜːkɚz."
         },
         {
-          "text": "— Trabajo por la mañana y estudio por la noche.",
+          "text": "— Voy a comparar mi horario con el de un compañero.",
           "segments": [
             {
-              "text": "— Trabajo por la mañana y estudio por la noche.",
+              "text": "— Voy a comparar mi horario con el de un compañero.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— tɾaβˈaxo poɾ la maɲˈana i estˈuðjo poɾ la nˈotʃe."
+          "phonemes": "— bˈoɪ a kˌompaɾˈaɾ mi oɾˈaɾjo kon el ðe ˈun kˌompaɲˈeɾo."
         },
         {
-          "text": "Where do you live?",
+          "text": "I ask about their daily routine.",
           "segments": [
             {
-              "text": "Where do you live?",
+              "text": "I ask about their daily routine.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wˌɛɹ dˈuː juː lˈɪv?"
+          "phonemes": "aɪ ˈæsk ɐbˌaʊt ðɛɹ dˈeɪli ɹuːtˈiːn."
         },
         {
-          "text": "— ¿Dónde vives?",
+          "text": "— Le pregunto sobre su rutina diaria.",
           "segments": [
             {
-              "text": "— ¿Dónde vives?",
+              "text": "— Le pregunto sobre su rutina diaria.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— dˈonde βˈiβes?"
+          "phonemes": "— le pɾeɣˈunto sˌoβɾe su rutˈina ðjˈaɾja."
         },
         {
-          "text": "We eat together on Fridays.",
+          "text": "I write down the differences between the two schedules.",
           "segments": [
             {
-              "text": "We eat together on Fridays.",
+              "text": "I write down the differences between the two schedules.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wiː ˈiːt təɡˌɛðɚɹ ˌɔn fɹˈaɪdeɪz."
+          "phonemes": "aɪ ɹˈaɪt dˌaʊn ðə dˈɪfɹənsᵻz bᵻtwˌiːn ðə tˈuː skˈɛdʒuːlz."
         },
         {
-          "text": "— Comemos juntos los viernes.",
+          "text": "— Anoto las diferencias entre los dos horarios.",
           "segments": [
             {
-              "text": "— Comemos juntos los viernes.",
+              "text": "— Anoto las diferencias entre los dos horarios.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— komˈemos xˈuntos los βjˈeɾnes."
+          "phonemes": "— anˈoto las ðˌifeɾˈɛnsjas ˌentɾe los ðˈos oɾˈaɾjos."
         },
         {
-          "text": "She writes in her journal every day.",
+          "text": "I find a schedule similar to mine.",
           "segments": [
             {
-              "text": "She writes in her journal every day.",
+              "text": "I find a schedule similar to mine.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ʃiː ɹˈaɪts ɪn hɜː dʒˈɜːnəl ˈɛvɹi dˈeɪ."
+          "phonemes": "aɪ fˈaɪnd ɐ skˈɛdʒuːl sˈɪmɪlɚ tə mˈaɪn."
         },
         {
-          "text": "— Ella escribe en su diario todos los días.",
+          "text": "— Encuentro un horario similar al mío.",
           "segments": [
             {
-              "text": "— Ella escribe en su diario todos los días.",
+              "text": "— Encuentro un horario ",
+              "lang": "es-419"
+            },
+            {
+              "text": "similar",
+              "lang": "en-us"
+            },
+            {
+              "text": " al mío.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— ˈejja eskɾˈiβe en su ðjˈaɾjo tˈoðos los ðˈias."
+          "phonemes": "— enkwˈɛntɾo ˈun oɾˈaɾjo sˈɪmɪlɚ al mˈio."
         },
         {
-          "text": "I sometimes drink coffee after lunch.",
+          "text": "I answer their questions about my routine.",
           "segments": [
             {
-              "text": "I sometimes drink coffee after lunch.",
+              "text": "I answer their questions about my routine.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪ sˈʌmtaɪmz dɹˈɪŋk kˈɔfi ˈæftɚ lˈʌntʃ."
+          "phonemes": "aɪ ˈænsɚ ðɛɹ kwˈɛstʃənz ɐbˌaʊt maɪ ɹuːtˈiːn."
         },
         {
-          "text": "— A veces tomo café después del almuerzo.",
+          "text": "— Respondo sus preguntas sobre mi rutina.",
           "segments": [
             {
-              "text": "— A veces tomo café después del almuerzo.",
+              "text": "— Respondo sus preguntas sobre mi rutina.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— a βˈeses tˈomo kafˈe ðespwˈes ðel almwˈeɾso."
+          "phonemes": "— respˈondo sus pɾeɣˈuntas sˌoβɾe mi rutˈina."
         }
       ]
     },
@@ -305,129 +313,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "to work",
+      "text": "to compare",
       "sentences": [
         {
-          "text": "to work",
+          "text": "to compare",
           "segments": [
             {
-              "text": "to work",
+              "text": "to compare",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə wˈɜːk"
+          "phonemes": "tə kəmpˈɛɹ"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "to study",
+      "text": "a schedule",
       "sentences": [
         {
-          "text": "to study",
+          "text": "a schedule",
           "segments": [
             {
-              "text": "to study",
+              "text": "a schedule",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə stˈʌdi"
+          "phonemes": "ɐ skˈɛdʒuːl"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "to eat",
+      "text": "a routine",
       "sentences": [
         {
-          "text": "to eat",
+          "text": "a routine",
           "segments": [
             {
-              "text": "to eat",
+              "text": "a routine",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tʊ ˈiːt"
+          "phonemes": "ɐ ɹuːtˈiːn"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "to drink",
+      "text": "similar",
       "sentences": [
         {
-          "text": "to drink",
+          "text": "similar",
           "segments": [
             {
-              "text": "to drink",
+              "text": "similar",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə dɹˈɪŋk"
+          "phonemes": "sˈɪmɪlɚ"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "to live",
+      "text": "different",
       "sentences": [
         {
-          "text": "to live",
+          "text": "different",
           "segments": [
             {
-              "text": "to live",
+              "text": "different",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə lˈɪv"
+          "phonemes": "dˈɪfɹənt"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "to write",
+      "text": "to ask",
       "sentences": [
         {
-          "text": "to write",
+          "text": "to ask",
           "segments": [
             {
-              "text": "to write",
+              "text": "to ask",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə ɹˈaɪt"
+          "phonemes": "tʊ ˈæsk"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "always",
+      "text": "to answer",
       "sentences": [
         {
-          "text": "always",
+          "text": "to answer",
           "segments": [
             {
-              "text": "always",
+              "text": "to answer",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ˈɔːlweɪz"
+          "phonemes": "tʊ ˈænsɚ"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "sometimes",
+      "text": "to write down",
       "sentences": [
         {
-          "text": "sometimes",
+          "text": "to write down",
           "segments": [
             {
-              "text": "sometimes",
+              "text": "to write down",
               "lang": "en-us"
             }
           ],
-          "phonemes": "sˈʌmtaɪmz"
+          "phonemes": "tə ɹˈaɪt dˈaʊn"
         }
       ]
     }

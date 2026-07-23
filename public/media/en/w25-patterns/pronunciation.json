@@ -29,7 +29,7 @@
     },
     {
       "file": "01.wav",
-      "text": "Forma y significado. Will, going to, presente continuo y presente simple para futuro; may/might/must para probabilidad.",
+      "text": "Forma y significado. Aplicación de la forma. Usa will para predicciones, might/may para posibilidad, y must para una deducción casi segura sobre el presente.",
       "sentences": [
         {
           "text": "Forma y significado.",
@@ -42,30 +42,28 @@
           "phonemes": "fˈoɾma i sˌiɡnifikˈaðo."
         },
         {
-          "text": "Will, going to, presente continuo y presente simple para futuro; may/might/must para probabilidad.",
+          "text": "Aplicación de la forma.",
           "segments": [
             {
-              "text": "Will",
-              "lang": "en-us"
-            },
+              "text": "Aplicación de la forma.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˌaplikasjˈon de la fˈoɾma."
+        },
+        {
+          "text": "Usa will para predicciones, might/may para posibilidad, y must para una deducción casi segura sobre el presente.",
+          "segments": [
             {
-              "text": ", ",
+              "text": "Usa ",
               "lang": "es-419"
             },
             {
-              "text": "going to",
+              "text": "will",
               "lang": "en-us"
             },
             {
-              "text": ", presente continuo y presente simple para futuro; ",
-              "lang": "es-419"
-            },
-            {
-              "text": "may",
-              "lang": "en-us"
-            },
-            {
-              "text": "/",
+              "text": " para predicciones, ",
               "lang": "es-419"
             },
             {
@@ -77,21 +75,29 @@
               "lang": "es-419"
             },
             {
+              "text": "may",
+              "lang": "en-us"
+            },
+            {
+              "text": " para posibilidad, y ",
+              "lang": "es-419"
+            },
+            {
               "text": "must",
               "lang": "en-us"
             },
             {
-              "text": " para probabilidad.",
+              "text": " para una deducción casi segura sobre el presente.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "wˈɪl , ɡˈoʊɪŋ tuː , pɾesˈɛnte kontˈinwo i pɾesˈɛnte sˈimple pˌaɾa futˈuɾo; mˈeɪ bˈara mˈaɪt bˈara mˈʌst pˌaɾa pɾˌoβaβˌiliðˈad."
+          "phonemes": "ˈusa wˈɪl pˌaɾa pɾˌeðiksjˈones, mˈaɪt bˈara mˈeɪ pˌaɾa pˌosiβˌiliðˈad, i mˈʌst pˌaɾa ˈuna ðˌeðuksjˈon kˈasi seɣˈuɾa sˌoβɾe el pɾesˈɛnte."
         }
       ]
     },
     {
       "file": "02.wav",
-      "text": "Conjunto de modelos. The urban population will increase. We'll continue measuring the results. Marta might be at home now. When the study ends, we'll publish the data. There will be new options in five years. La población urbana aumentará. Seguiremos midiendo los resultados. Marta quizá esté en casa ahora. Cuando termine el estudio, publicaremos los datos. Habrá nuevas opciones en cinco años.",
+      "text": "Conjunto de modelos. The population will probably increase. Marta might be at home now. She must be about thirty. It's likely that costs will rise. It's possible that plans will change. La población probablemente aumentará. Marta quizá esté en casa ahora. Debe de tener unos treinta años. Es probable que los costos suban. Es posible que los planes cambien.",
       "sentences": [
         {
           "text": "Conjunto de modelos.",
@@ -104,24 +110,14 @@
           "phonemes": "koŋxˈunto ðe moðˈelos."
         },
         {
-          "text": "The urban population will increase.",
+          "text": "The population will probably increase.",
           "segments": [
             {
-              "text": "The urban population will increase.",
+              "text": "The population will probably increase.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðɪ ˈɜːbən pˌɑːpjʊlˈeɪʃən wɪl ɪŋkɹˈiːs."
-        },
-        {
-          "text": "We'll continue measuring the results.",
-          "segments": [
-            {
-              "text": "We'll continue measuring the results.",
-              "lang": "en-us"
-            }
-          ],
-          "phonemes": "wiːl kəntˈɪnjuː mˈɛʒɚɹɪŋ ðə ɹɪzˈʌlts."
+          "phonemes": "ðə pˌɑːpjʊlˈeɪʃən wɪl pɹˈɑːbəbli ˈɪŋkɹiːs."
         },
         {
           "text": "Marta might be at home now.",
@@ -134,44 +130,44 @@
           "phonemes": "mˈɑːɹɾə mˌaɪt biː æt hˈoʊm nˈaʊ."
         },
         {
-          "text": "When the study ends, we'll publish the data.",
+          "text": "She must be about thirty.",
           "segments": [
             {
-              "text": "When the study ends, we'll publish the data.",
+              "text": "She must be about thirty.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wˌɛn ðə stˈʌdi ˈɛndz, wiːl pˈʌblɪʃ ðə dˈeɪɾə."
+          "phonemes": "ʃiː mˈʌst biː ɐbˌaʊt θˈɜːɾi."
         },
         {
-          "text": "There will be new options in five years.",
+          "text": "It's likely that costs will rise.",
           "segments": [
             {
-              "text": "There will be new options in five years.",
+              "text": "It's likely that costs will rise.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðɛɹ wɪl biː nˈuː ˈɑːpʃənz ɪn fˈaɪv jˈɪɹz."
+          "phonemes": "ɪts lˈaɪkli ðæt kˈɔsts wɪl ɹˈaɪz."
         },
         {
-          "text": "La población urbana aumentará.",
+          "text": "It's possible that plans will change.",
           "segments": [
             {
-              "text": "La población urbana aumentará.",
+              "text": "It's possible that plans will change.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɪts pˈɑːsᵻbəl ðæt plˈænz wɪl tʃˈeɪndʒ."
+        },
+        {
+          "text": "La población probablemente aumentará.",
+          "segments": [
+            {
+              "text": "La población probablemente aumentará.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la pˌoβlasjˈon uɾβˈana ˌaʊmentaɾˈa."
-        },
-        {
-          "text": "Seguiremos midiendo los resultados.",
-          "segments": [
-            {
-              "text": "Seguiremos midiendo los resultados.",
-              "lang": "es-419"
-            }
-          ],
-          "phonemes": "sˌeɣiɾˈemos miðjˈɛndo los rˌesultˈaðos."
+          "phonemes": "la pˌoβlasjˈom pɾoβˈaβlemˈente ˌaʊmentaɾˈa."
         },
         {
           "text": "Marta quizá esté en casa ahora.",
@@ -184,24 +180,34 @@
           "phonemes": "mˈaɾta kisˈa estˈe en kˈasa aˈoɾa."
         },
         {
-          "text": "Cuando termine el estudio, publicaremos los datos.",
+          "text": "Debe de tener unos treinta años.",
           "segments": [
             {
-              "text": "Cuando termine el estudio, publicaremos los datos.",
+              "text": "Debe de tener unos treinta años.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "kwˌando teɾmˈine el estˈuðjo, pˌuβlikaɾˈemos los ðˈatos."
+          "phonemes": "dˈeβe ðe tenˈeɾ ˈunos tɾˈeɪnta ˈaɲos."
         },
         {
-          "text": "Habrá nuevas opciones en cinco años.",
+          "text": "Es probable que los costos suban.",
           "segments": [
             {
-              "text": "Habrá nuevas opciones en cinco años.",
+              "text": "Es probable que los costos suban.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "aβɾˈa nwˈeβas opsjˈones en sˈinko ˈaɲos."
+          "phonemes": "ˈes pɾoβˈaβle ke los kˈostos sˈuβan."
+        },
+        {
+          "text": "Es posible que los planes cambien.",
+          "segments": [
+            {
+              "text": "Es posible que los planes cambien.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˈes posˈiβle ke los plˈanes kˈambjen."
         }
       ]
     },
@@ -269,7 +275,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Lenguaje modelo. The urban population will increase. — La población urbana aumentará. We'll continue measuring the results. — Seguiremos midiendo los resultados. Marta might be at home now. — Marta quizá esté en casa ahora. When the study ends, we'll publish the data. — Cuando termine el estudio, publicaremos los datos. There will be new options in five years. — Habrá nuevas opciones en cinco años.",
+      "text": "Lenguaje modelo. The population will probably increase. — La población probablemente aumentará. Marta might be at home now. — Marta quizá esté en casa ahora. She must be about thirty. — Debe de tener unos treinta años. It's likely that costs will rise. — Es probable que los costos suban. It's possible that plans will change. — Es posible que los planes cambien.",
       "sentences": [
         {
           "text": "Lenguaje modelo.",
@@ -282,44 +288,24 @@
           "phonemes": "leŋɡwˈaxe moðˈelo."
         },
         {
-          "text": "The urban population will increase.",
+          "text": "The population will probably increase.",
           "segments": [
             {
-              "text": "The urban population will increase.",
+              "text": "The population will probably increase.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðɪ ˈɜːbən pˌɑːpjʊlˈeɪʃən wɪl ɪŋkɹˈiːs."
+          "phonemes": "ðə pˌɑːpjʊlˈeɪʃən wɪl pɹˈɑːbəbli ˈɪŋkɹiːs."
         },
         {
-          "text": "— La población urbana aumentará.",
+          "text": "— La población probablemente aumentará.",
           "segments": [
             {
-              "text": "— La población urbana aumentará.",
+              "text": "— La población probablemente aumentará.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— la pˌoβlasjˈon uɾβˈana ˌaʊmentaɾˈa."
-        },
-        {
-          "text": "We'll continue measuring the results.",
-          "segments": [
-            {
-              "text": "We'll continue measuring the results.",
-              "lang": "en-us"
-            }
-          ],
-          "phonemes": "wiːl kəntˈɪnjuː mˈɛʒɚɹɪŋ ðə ɹɪzˈʌlts."
-        },
-        {
-          "text": "— Seguiremos midiendo los resultados.",
-          "segments": [
-            {
-              "text": "— Seguiremos midiendo los resultados.",
-              "lang": "es-419"
-            }
-          ],
-          "phonemes": "— sˌeɣiɾˈemos miðjˈɛndo los rˌesultˈaðos."
+          "phonemes": "— la pˌoβlasjˈom pɾoβˈaβlemˈente ˌaʊmentaɾˈa."
         },
         {
           "text": "Marta might be at home now.",
@@ -342,44 +328,64 @@
           "phonemes": "— mˈaɾta kisˈa estˈe en kˈasa aˈoɾa."
         },
         {
-          "text": "When the study ends, we'll publish the data.",
+          "text": "She must be about thirty.",
           "segments": [
             {
-              "text": "When the study ends, we'll publish the data.",
+              "text": "She must be about thirty.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wˌɛn ðə stˈʌdi ˈɛndz, wiːl pˈʌblɪʃ ðə dˈeɪɾə."
+          "phonemes": "ʃiː mˈʌst biː ɐbˌaʊt θˈɜːɾi."
         },
         {
-          "text": "— Cuando termine el estudio, publicaremos los datos.",
+          "text": "— Debe de tener unos treinta años.",
           "segments": [
             {
-              "text": "— Cuando termine el estudio, publicaremos los datos.",
+              "text": "— Debe de tener unos treinta años.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— kwˌando teɾmˈine el estˈuðjo, pˌuβlikaɾˈemos los ðˈatos."
+          "phonemes": "— dˈeβe ðe tenˈeɾ ˈunos tɾˈeɪnta ˈaɲos."
         },
         {
-          "text": "There will be new options in five years.",
+          "text": "It's likely that costs will rise.",
           "segments": [
             {
-              "text": "There will be new options in five years.",
+              "text": "It's likely that costs will rise.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðɛɹ wɪl biː nˈuː ˈɑːpʃənz ɪn fˈaɪv jˈɪɹz."
+          "phonemes": "ɪts lˈaɪkli ðæt kˈɔsts wɪl ɹˈaɪz."
         },
         {
-          "text": "— Habrá nuevas opciones en cinco años.",
+          "text": "— Es probable que los costos suban.",
           "segments": [
             {
-              "text": "— Habrá nuevas opciones en cinco años.",
+              "text": "— Es probable que los costos suban.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— aβɾˈa nwˈeβas opsjˈones en sˈinko ˈaɲos."
+          "phonemes": "— ˈes pɾoβˈaβle ke los kˈostos sˈuβan."
+        },
+        {
+          "text": "It's possible that plans will change.",
+          "segments": [
+            {
+              "text": "It's possible that plans will change.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɪts pˈɑːsᵻbəl ðæt plˈænz wɪl tʃˈeɪndʒ."
+        },
+        {
+          "text": "— Es posible que los planes cambien.",
+          "segments": [
+            {
+              "text": "— Es posible que los planes cambien.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— ˈes posˈiβle ke los plˈanes kˈambjen."
         }
       ]
     },
@@ -431,129 +437,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "a forecast",
+      "text": "will",
       "sentences": [
         {
-          "text": "a forecast",
+          "text": "will",
           "segments": [
             {
-              "text": "a forecast",
+              "text": "will",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ fˈɔːɹkæst"
+          "phonemes": "wˈɪl"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "probably",
+      "text": "might",
       "sentences": [
         {
-          "text": "probably",
+          "text": "might",
           "segments": [
             {
-              "text": "probably",
+              "text": "might",
               "lang": "en-us"
             }
           ],
-          "phonemes": "pɹˈɑːbəbli"
+          "phonemes": "mˈaɪt"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "possibly",
+      "text": "must (deduction)",
       "sentences": [
         {
-          "text": "possibly",
+          "text": "must (deduction)",
           "segments": [
             {
-              "text": "possibly",
+              "text": "must (deduction)",
               "lang": "en-us"
             }
           ],
-          "phonemes": "pˈɑːsᵻbli"
+          "phonemes": "mˈʌst (dᵻdˈʌkʃən)"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "to increase",
+      "text": "it's likely that",
       "sentences": [
         {
-          "text": "to increase",
+          "text": "it's likely that",
           "segments": [
             {
-              "text": "to increase",
+              "text": "it's likely that",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tʊ ɪŋkɹˈiːs"
+          "phonemes": "ɪts lˈaɪkli ðˈæt"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "to decrease",
+      "text": "it's possible that",
       "sentences": [
         {
-          "text": "to decrease",
+          "text": "it's possible that",
           "segments": [
             {
-              "text": "to decrease",
+              "text": "it's possible that",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə dˈiːkɹiːs"
+          "phonemes": "ɪts pˈɑːsᵻbəl ðˈæt"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "to continue",
+      "text": "a prediction",
       "sentences": [
         {
-          "text": "to continue",
+          "text": "a prediction",
           "segments": [
             {
-              "text": "to continue",
+              "text": "a prediction",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə kəntˈɪnjuː"
+          "phonemes": "ɐ pɹɪdˈɪkʃən"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "a commitment",
+      "text": "an estimate",
       "sentences": [
         {
-          "text": "a commitment",
+          "text": "an estimate",
           "segments": [
             {
-              "text": "a commitment",
+              "text": "an estimate",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ kəmˈɪtmənt"
+          "phonemes": "ɐn ˈɛstᵻmət"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "evidence",
+      "text": "to speculate",
       "sentences": [
         {
-          "text": "evidence",
+          "text": "to speculate",
           "segments": [
             {
-              "text": "evidence",
+              "text": "to speculate",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ˈɛvɪdəns"
+          "phonemes": "tə spˈɛkjʊlˌeɪt"
         }
       ]
     }

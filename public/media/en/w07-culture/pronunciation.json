@@ -163,7 +163,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Lenguaje modelo. What do you want to do today? — ¿Qué quieres hacer hoy? When does the bus arrive? — ¿Cuándo llega el autobús? I don't know. Can you repeat that? — No sé. ¿Puedes repetir eso? I have to make a call. — Tengo que hacer una llamada. Why did you say that? — ¿Por qué dijiste eso?",
+      "text": "Lenguaje modelo. Directness changes depending on context. — La franqueza cambia según el contexto. A good softener smooths the request. — Un buen atenuante suaviza la petición. Not every culture uses the same tone. — No toda cultura usa el mismo tono. Service encounters require politeness. — El servicio de atención requiere cortesía. This depends on the situation. — Esto depende de la situación.",
       "sentences": [
         {
           "text": "Lenguaje modelo.",
@@ -176,124 +176,104 @@
           "phonemes": "leŋɡwˈaxe moðˈelo."
         },
         {
-          "text": "What do you want to do today?",
+          "text": "Directness changes depending on context.",
           "segments": [
             {
-              "text": "What do you want to do today?",
+              "text": "Directness changes depending on context.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wˌʌt dˈuː juː wˈɔnt tə dˈuː tədˈeɪ?"
+          "phonemes": "dᵻɹˈɛktnəs tʃˈeɪndʒᵻz dᵻpˈɛndɪŋ ˌɔn kˈɑːntɛkst."
         },
         {
-          "text": "— ¿Qué quieres hacer hoy?",
+          "text": "— La franqueza cambia según el contexto.",
           "segments": [
             {
-              "text": "— ¿Qué quieres hacer hoy?",
+              "text": "— La franqueza cambia según el contexto.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— kˈe kjˈeɾes asˈeɾ ˈoɪ?"
+          "phonemes": "— la fɾankˈesa kˈambja seɣˈun el kontˈeksto."
         },
         {
-          "text": "When does the bus arrive?",
+          "text": "A good softener smooths the request.",
           "segments": [
             {
-              "text": "When does the bus arrive?",
+              "text": "A good softener smooths the request.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wˌɛn dˈʌz ðə bˈʌs ɚɹˈaɪv?"
+          "phonemes": "ɐ ɡˈʊd sˈɔfənɚ smˈuːðs ðə ɹᵻkwˈɛst."
         },
         {
-          "text": "— ¿Cuándo llega el autobús?",
+          "text": "— Un buen atenuante suaviza la petición.",
           "segments": [
             {
-              "text": "— ¿Cuándo llega el autobús?",
+              "text": "— Un buen atenuante suaviza la petición.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— kwˈando ʝˈeɣa el ˌaʊtoβˈus?"
+          "phonemes": "— ˈum bwˈen ˌatenwˈante swaβˈisa la pˌetisjˈon."
         },
         {
-          "text": "I don't know.",
+          "text": "Not every culture uses the same tone.",
           "segments": [
             {
-              "text": "I don't know.",
+              "text": "Not every culture uses the same tone.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪ dˈoʊnt nˈoʊ."
+          "phonemes": "nˌɑːt ˈɛvɹi kˈʌltʃɚ jˈuːsᵻz ðə sˈeɪm tˈoʊn."
         },
         {
-          "text": "Can you repeat that?",
+          "text": "— No toda cultura usa el mismo tono.",
           "segments": [
             {
-              "text": "Can you repeat that?",
+              "text": "— No toda cultura usa el mismo tono.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— nˈo tˈoða kultˈuɾa ˈusa el mˈismo tˈono."
+        },
+        {
+          "text": "Service encounters require politeness.",
+          "segments": [
+            {
+              "text": "Service encounters require politeness.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "kæn juː ɹᵻpˈiːt ðˈæt?"
+          "phonemes": "sˈɜːvɪs ɛŋkˈaʊntɚz ɹᵻkwˈaɪɚ pəlˈaɪtnəs."
         },
         {
-          "text": "— No sé.",
+          "text": "— El servicio de atención requiere cortesía.",
           "segments": [
             {
-              "text": "— No sé.",
+              "text": "— El servicio de atención requiere cortesía.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— nˈo sˈe."
+          "phonemes": "— el seɾβˈisjo ðe ˌatensjˈon rekjˈeɾe kˌoɾtesˈia."
         },
         {
-          "text": "¿Puedes repetir eso?",
+          "text": "This depends on the situation.",
           "segments": [
             {
-              "text": "¿Puedes repetir eso?",
-              "lang": "es-419"
-            }
-          ],
-          "phonemes": "pwˈeðes rˌepetˈiɾ ˈeso?"
-        },
-        {
-          "text": "I have to make a call.",
-          "segments": [
-            {
-              "text": "I have to make a call.",
+              "text": "This depends on the situation.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪ hæv tə mˌeɪk ɐ kˈɔːl."
+          "phonemes": "ðɪs dᵻpˈɛndz ɔnðə sˌɪtʃuːˈeɪʃən."
         },
         {
-          "text": "— Tengo que hacer una llamada.",
+          "text": "— Esto depende de la situación.",
           "segments": [
             {
-              "text": "— Tengo que hacer una llamada.",
+              "text": "— Esto depende de la situación.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— tˈɛŋɡo ke asˈeɾ ˈuna ʝamˈaða."
-        },
-        {
-          "text": "Why did you say that?",
-          "segments": [
-            {
-              "text": "Why did you say that?",
-              "lang": "en-us"
-            }
-          ],
-          "phonemes": "wˌaɪ dˈɪd juː sˈeɪ ðˈæt?"
-        },
-        {
-          "text": "— ¿Por qué dijiste eso?",
-          "segments": [
-            {
-              "text": "— ¿Por qué dijiste eso?",
-              "lang": "es-419"
-            }
-          ],
-          "phonemes": "— poɾ kˈe ðixˈiste ˈeso?"
+          "phonemes": "— ˈesto ðepˈɛnde ðe la sˌitwasjˈon."
         }
       ]
     },
@@ -345,129 +325,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "what",
+      "text": "directness",
       "sentences": [
         {
-          "text": "what",
+          "text": "directness",
           "segments": [
             {
-              "text": "what",
+              "text": "directness",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wˌʌt"
+          "phonemes": "dᵻɹˈɛktnəs"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "who",
+      "text": "a softener",
       "sentences": [
         {
-          "text": "who",
+          "text": "a softener",
           "segments": [
             {
-              "text": "who",
+              "text": "a softener",
               "lang": "en-us"
             }
           ],
-          "phonemes": "hˈuː"
+          "phonemes": "ɐ sˈɔfənɚ"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "when",
+      "text": "polite",
       "sentences": [
         {
-          "text": "when",
+          "text": "polite",
           "segments": [
             {
-              "text": "when",
+              "text": "polite",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wˌɛn"
+          "phonemes": "pəlˈaɪt"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "where",
+      "text": "a service encounter",
       "sentences": [
         {
-          "text": "where",
+          "text": "a service encounter",
           "segments": [
             {
-              "text": "where",
+              "text": "a service encounter",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wˈɛɹ"
+          "phonemes": "ɐ sˈɜːvɪs ɛŋkˈaʊntɚ"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "why",
+      "text": "to depend on",
       "sentences": [
         {
-          "text": "why",
+          "text": "to depend on",
           "segments": [
             {
-              "text": "why",
+              "text": "to depend on",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wˈaɪ"
+          "phonemes": "tə dᵻpˈɛnd ˈɔn"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "how",
+      "text": "context",
       "sentences": [
         {
-          "text": "how",
+          "text": "context",
           "segments": [
             {
-              "text": "how",
+              "text": "context",
               "lang": "en-us"
             }
           ],
-          "phonemes": "hˈaʊ"
+          "phonemes": "kˈɑːntɛkst"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "can",
+      "text": "a tone",
       "sentences": [
         {
-          "text": "can",
+          "text": "a tone",
           "segments": [
             {
-              "text": "can",
+              "text": "a tone",
               "lang": "en-us"
             }
           ],
-          "phonemes": "kˈæn"
+          "phonemes": "ɐ tˈoʊn"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "to want",
+      "text": "to soften",
       "sentences": [
         {
-          "text": "to want",
+          "text": "to soften",
           "segments": [
             {
-              "text": "to want",
+              "text": "to soften",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə wˈɔnt"
+          "phonemes": "tə sˈɔfən"
         }
       ]
     }

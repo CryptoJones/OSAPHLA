@@ -143,7 +143,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Lenguaje modelo. Go straight to the square. — Sigue derecho hasta la plaza. Turn left at the second corner. — Gira a la izquierda en la segunda esquina. Am I going the right way to city hall? — ¿Voy bien hacia el ayuntamiento? We got lost near the station. — Nos perdimos cerca de la estación. The bank is across from the post office. — El banco está enfrente del correo.",
+      "text": "Lenguaje modelo. I'm going to guide a visitor from the stop. — Voy a guiar a un visitante desde la parada. I take them to three different services. — Lo llevo a tres servicios diferentes. If I make a mistake, I correct the turn. — Si me equivoco, corrijo el giro. I confirm the route with the map. — Confirmo la ruta con el mapa. I recover quickly from an error. — Me recupero rápido de un error.",
       "sentences": [
         {
           "text": "Lenguaje modelo.",
@@ -156,104 +156,104 @@
           "phonemes": "leŋɡwˈaxe moðˈelo."
         },
         {
-          "text": "Go straight to the square.",
+          "text": "I'm going to guide a visitor from the stop.",
           "segments": [
             {
-              "text": "Go straight to the square.",
+              "text": "I'm going to guide a visitor from the stop.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɡˌoʊ stɹˈeɪt tə ðə skwˈɛɹ."
+          "phonemes": "aɪm ɡˌoʊɪŋ tə ɡˈaɪd ɐ vˈɪzɪɾɚ fɹʌmðə stˈɑːp."
         },
         {
-          "text": "— Sigue derecho hasta la plaza.",
+          "text": "— Voy a guiar a un visitante desde la parada.",
           "segments": [
             {
-              "text": "— Sigue derecho hasta la plaza.",
+              "text": "— Voy a guiar a un visitante desde la parada.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— sˈiɣe ðeɾˈetʃo ˌasta la plˈasa."
+          "phonemes": "— bˈoɪ a ɣjˈaɾ a ˈum bˌisitˈante ðˌesðe la paɾˈaða."
         },
         {
-          "text": "Turn left at the second corner.",
+          "text": "I take them to three different services.",
           "segments": [
             {
-              "text": "Turn left at the second corner.",
+              "text": "I take them to three different services.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tˈɜːn lˈɛft æt ðə sˈɛkənd kˈɔːɹnɚ."
+          "phonemes": "aɪ tˈeɪk ðˌɛm tə θɹˈiː dˈɪfɹənt sˈɜːvɪsᵻz."
         },
         {
-          "text": "— Gira a la izquierda en la segunda esquina.",
+          "text": "— Lo llevo a tres servicios diferentes.",
           "segments": [
             {
-              "text": "— Gira a la izquierda en la segunda esquina.",
+              "text": "— Lo llevo a tres servicios diferentes.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— xˈiɾa a la iskjˈeɾða en la seɣˈunda eskˈina."
+          "phonemes": "— lo ʝˈeβo a tɾˈes seɾβˈisjos ðˌifeɾˈɛntes."
         },
         {
-          "text": "Am I going the right way to city hall?",
+          "text": "If I make a mistake, I correct the turn.",
           "segments": [
             {
-              "text": "Am I going the right way to city hall?",
+              "text": "If I make a mistake, I correct the turn.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "æm aɪ ɡˌoʊɪŋ ðə ɹˈaɪt wˈeɪ tə sˈɪɾi hˈɔːl?"
+          "phonemes": "ɪf aɪ mˌeɪk ɐ mɪstˈeɪk, aɪ kɚɹˈɛkt ðə tˈɜːn."
         },
         {
-          "text": "— ¿Voy bien hacia el ayuntamiento?",
+          "text": "— Si me equivoco, corrijo el giro.",
           "segments": [
             {
-              "text": "— ¿Voy bien hacia el ayuntamiento?",
+              "text": "— Si me equivoco, corrijo el giro.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— bˈoɪ βjˈen ˌasja el ˌaʝuntamjˈɛnto?"
+          "phonemes": "— si me ˌekiβˈoko, korˈixo el xˈiɾo."
         },
         {
-          "text": "We got lost near the station.",
+          "text": "I confirm the route with the map.",
           "segments": [
             {
-              "text": "We got lost near the station.",
+              "text": "I confirm the route with the map.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wiː ɡɑːt lˈɔst nˌɪɹ ðə stˈeɪʃən."
+          "phonemes": "aɪ kənfˈɜːm ðə ɹˈaʊt wɪððə mˈæp."
         },
         {
-          "text": "— Nos perdimos cerca de la estación.",
+          "text": "— Confirmo la ruta con el mapa.",
           "segments": [
             {
-              "text": "— Nos perdimos cerca de la estación.",
+              "text": "— Confirmo la ruta con el mapa.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— nos peɾðˈimos sˈeɾka ðe la ˌestasjˈon."
+          "phonemes": "— konfˈiɾmo la rˈuta kon el mˈapa."
         },
         {
-          "text": "The bank is across from the post office.",
+          "text": "I recover quickly from an error.",
           "segments": [
             {
-              "text": "The bank is across from the post office.",
+              "text": "I recover quickly from an error.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə bˈæŋk ɪz əkɹˌɑːs fɹʌmðə pˈoʊst ˈɑːfɪs."
+          "phonemes": "aɪ ɹᵻkˈʌvɚ kwˈɪkli fɹʌm ɐn ˈɛɹɚ."
         },
         {
-          "text": "— El banco está enfrente del correo.",
+          "text": "— Me recupero rápido de un error.",
           "segments": [
             {
-              "text": "— El banco está enfrente del correo.",
+              "text": "— Me recupero rápido de un error.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— el βˈanko estˈa emfɾˈɛnte ðel korˈeo."
+          "phonemes": "— me rˌekupˈeɾo rˈapiðo ðe ˈun erˈoɾ."
         }
       ]
     },
@@ -305,129 +305,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "a street",
+      "text": "to guide",
       "sentences": [
         {
-          "text": "a street",
+          "text": "to guide",
           "segments": [
             {
-              "text": "a street",
+              "text": "to guide",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ stɹˈiːt"
+          "phonemes": "tə ɡˈaɪd"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "a corner",
+      "text": "a stop",
       "sentences": [
         {
-          "text": "a corner",
+          "text": "a stop",
           "segments": [
             {
-              "text": "a corner",
+              "text": "a stop",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ kˈɔːɹnɚ"
+          "phonemes": "ɐ stˈɑːp"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "straight",
+      "text": "to recover",
       "sentences": [
         {
-          "text": "straight",
+          "text": "to recover",
           "segments": [
             {
-              "text": "straight",
+              "text": "to recover",
               "lang": "en-us"
             }
           ],
-          "phonemes": "stɹˈeɪt"
+          "phonemes": "tə ɹᵻkˈʌvɚ"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "right",
+      "text": "a turn",
       "sentences": [
         {
-          "text": "right",
+          "text": "a turn",
           "segments": [
             {
-              "text": "right",
+              "text": "a turn",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɹˈaɪt"
+          "phonemes": "ɐ tˈɜːn"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "left",
+      "text": "to make a mistake",
       "sentences": [
         {
-          "text": "left",
+          "text": "to make a mistake",
           "segments": [
             {
-              "text": "left",
+              "text": "to make a mistake",
               "lang": "en-us"
             }
           ],
-          "phonemes": "lˈɛft"
+          "phonemes": "tə mˌeɪk ɐ mɪstˈeɪk"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "to turn",
+      "text": "to correct",
       "sentences": [
         {
-          "text": "to turn",
+          "text": "to correct",
           "segments": [
             {
-              "text": "to turn",
+              "text": "to correct",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə tˈɜːn"
+          "phonemes": "tə kɚɹˈɛkt"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "to continue",
+      "text": "to confirm",
       "sentences": [
         {
-          "text": "to continue",
+          "text": "to confirm",
           "segments": [
             {
-              "text": "to continue",
+              "text": "to confirm",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə kəntˈɪnjuː"
+          "phonemes": "tə kənfˈɜːm"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "to get lost",
+      "text": "a service",
       "sentences": [
         {
-          "text": "to get lost",
+          "text": "a service",
           "segments": [
             {
-              "text": "to get lost",
+              "text": "a service",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə ɡɛt lˈɔst"
+          "phonemes": "ɐ sˈɜːvɪs"
         }
       ]
     }

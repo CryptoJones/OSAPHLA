@@ -29,7 +29,7 @@
     },
     {
       "file": "01.wav",
-      "text": "Form and meaning. Integrated control of all course structures with accuracy prioritized according to communicative impact.",
+      "text": "Form and meaning. Applying the form. Integrated proficiency means self-monitoring in real time, choosing repair strategies strategically, and sustaining intelligibility across a long interaction — not using every structure perfectly.",
       "sentences": [
         {
           "text": "Form and meaning.",
@@ -42,20 +42,30 @@
           "phonemes": "fˈɔːɹm ænd mˈiːnɪŋ."
         },
         {
-          "text": "Integrated control of all course structures with accuracy prioritized according to communicative impact.",
+          "text": "Applying the form.",
           "segments": [
             {
-              "text": "Integrated control of all course structures with accuracy prioritized according to communicative impact.",
+              "text": "Applying the form.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ˈɪntᵻɡɹˌeɪɾᵻd kəntɹˈoʊl ʌv ˈɔːl kˈɔːɹs stɹˈʌktʃɚz wɪð ˈækjʊɹəsi pɹaɪˈɔːɹɪtˌaɪzd ɐkˈɔːɹdɪŋ tə kəmjˈuːnɪkətˌɪv ˈɪmpækt."
+          "phonemes": "ɐplˈaɪɪŋ ðə fˈɔːɹm."
+        },
+        {
+          "text": "Integrated proficiency means self-monitoring in real time, choosing repair strategies strategically, and sustaining intelligibility across a long interaction — not using every structure perfectly.",
+          "segments": [
+            {
+              "text": "Integrated proficiency means self-monitoring in real time, choosing repair strategies strategically, and sustaining intelligibility across a long interaction — not using every structure perfectly.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ˈɪntᵻɡɹˌeɪɾᵻd pɹəfˈɪʃənsi mˈiːnz sˈɛlfmˈɑːnɪɾɚɹɪŋ ɪn ɹˈiːəl tˈaɪm, tʃˈuːzɪŋ ɹᵻpˈɛɹ stɹˈæɾədʒiz stɹətˈiːdʒɪkli, ænd səstˈeɪnɪŋ ɪntˌɛlɪdʒəbˈɪlᵻɾi əkɹˌɑːs ɐ lˈɔŋ ˌɪntɚɹˈækʃən — nˌɑːt jˈuːzɪŋ ˈɛvɹi stɹˈʌktʃɚ pˈɜːfɛktli."
         }
       ]
     },
     {
       "file": "02.wav",
-      "text": "Model set. Permítame aclarar lo que entendí. Antes de actuar, debemos comprobar la fuente. Puedo resumir las dos posturas y justificar mi recomendación. Me adapto al registro sin imitar un acento. Mi plan de mantenimiento combina lectura, escucha, conversación y escritura. Allow me to clarify what I understood. Before acting, we must verify the source. I can summarize both positions and justify my recommendation. I adapt to the register without imitating an accent. My maintenance plan combines reading, listening, conversation, and writing.",
+      "text": "Model set. Me monitoreo mientras hablo. Reparo un error de forma estratégica. Adapto mi registro según la situación. Sostengo una conversación larga sin perder el hilo. Tolero la variación regional sin juzgar. I monitor myself while I speak. I repair a mistake strategically. I adapt my register to the situation. I sustain a long conversation without losing the thread. I tolerate regional variation without judging it.",
       "sentences": [
         {
           "text": "Model set.",
@@ -68,104 +78,104 @@
           "phonemes": "mˈɑːdəl sˈɛt."
         },
         {
-          "text": "Permítame aclarar lo que entendí.",
+          "text": "Me monitoreo mientras hablo.",
           "segments": [
             {
-              "text": "Permítame aclarar lo que entendí.",
+              "text": "Me monitoreo mientras hablo.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "peɾmˈitame ˌaklaɾˈaɾ lo ke ˌentendˈi."
+          "phonemes": "me mˌonitoɾˈeo mjˌentɾas ˈaβlo."
         },
         {
-          "text": "Antes de actuar, debemos comprobar la fuente.",
+          "text": "Reparo un error de forma estratégica.",
           "segments": [
             {
-              "text": "Antes de actuar, debemos comprobar la fuente.",
+              "text": "Reparo un error de forma estratégica.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˈantes ðe aktwˈaɾ, deβˈemos kˌompɾoβˈaɾ la fwˈɛnte."
+          "phonemes": "repˈaɾo ˈun erˈoɾ ðe fˈoɾma ˌestɾatˈexika."
         },
         {
-          "text": "Puedo resumir las dos posturas y justificar mi recomendación.",
+          "text": "Adapto mi registro según la situación.",
           "segments": [
             {
-              "text": "Puedo resumir las dos posturas y justificar mi recomendación.",
+              "text": "Adapto mi registro según la situación.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "pwˈeðo rˌesumˈiɾ las ðˈos postˈuɾas i xˌustifikˈaɾ mi rˌekomˌendasjˈon."
+          "phonemes": "aðˈapːto mi rexˈistɾo seɣˈun la sˌitwasjˈon."
         },
         {
-          "text": "Me adapto al registro sin imitar un acento.",
+          "text": "Sostengo una conversación larga sin perder el hilo.",
           "segments": [
             {
-              "text": "Me adapto al registro sin imitar un acento.",
+              "text": "Sostengo una conversación larga sin perder el hilo.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "me aðˈapːto al rexˈistɾo sin ˌimitˈaɾ ˈun asˈɛnto."
+          "phonemes": "sostˈɛŋɡo ˈuna kˌombeɾsasjˈon lˈaɾɣa sim peɾðˈeɾ el ˈilo."
         },
         {
-          "text": "Mi plan de mantenimiento combina lectura, escucha, conversación y escritura.",
+          "text": "Tolero la variación regional sin juzgar.",
           "segments": [
             {
-              "text": "Mi plan de mantenimiento combina lectura, escucha, conversación y escritura.",
+              "text": "Tolero la variación regional sin juzgar.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "mi plˈan de mˌantenimjˈɛnto kombˈina lektˈuɾa, eskˈutʃa, kˌombeɾsasjˈon i ˌeskɾitˈuɾa."
+          "phonemes": "tolˈeɾo la βˌaɾjasjˈon rˌexjonˈal sin xusɣˈaɾ."
         },
         {
-          "text": "Allow me to clarify what I understood.",
+          "text": "I monitor myself while I speak.",
           "segments": [
             {
-              "text": "Allow me to clarify what I understood.",
+              "text": "I monitor myself while I speak.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐlˈaʊ mˌiː tə klˈæɹᵻfˌaɪ wʌt aɪ ˌʌndɚstˈʊd."
+          "phonemes": "aɪ mˈɑːnɪɾɚ maɪsˈɛlf wˌaɪl aɪ spˈiːk."
         },
         {
-          "text": "Before acting, we must verify the source.",
+          "text": "I repair a mistake strategically.",
           "segments": [
             {
-              "text": "Before acting, we must verify the source.",
+              "text": "I repair a mistake strategically.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "bᵻfˌɔːɹ ˈæktɪŋ, wiː mˈʌst vˈɛɹᵻfˌaɪ ðə sˈɔːɹs."
+          "phonemes": "aɪ ɹᵻpˈɛɹ ɐ mɪstˈeɪk stɹətˈiːdʒɪkli."
         },
         {
-          "text": "I can summarize both positions and justify my recommendation.",
+          "text": "I adapt my register to the situation.",
           "segments": [
             {
-              "text": "I can summarize both positions and justify my recommendation.",
+              "text": "I adapt my register to the situation.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪ kæn sˈʌmɚɹˌaɪz bˈoʊθ pəzˈɪʃənz ænd dʒˈʌstᵻfˌaɪ maɪ ɹˌɛkəmɛndˈeɪʃən."
+          "phonemes": "aɪ ɐdˈæpt maɪ ɹˈɛdʒɪstɚ tə ðə sˌɪtʃuːˈeɪʃən."
         },
         {
-          "text": "I adapt to the register without imitating an accent.",
+          "text": "I sustain a long conversation without losing the thread.",
           "segments": [
             {
-              "text": "I adapt to the register without imitating an accent.",
+              "text": "I sustain a long conversation without losing the thread.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪ ɐdˈæpt tə ðə ɹˈɛdʒɪstɚ wɪðˌaʊt ˈɪmᵻtˌeɪɾɪŋ ɐn ˈæksənt."
+          "phonemes": "aɪ səstˈeɪn ɐ lˈɔŋ kɑːnvɚsˈeɪʃən wɪðˌaʊt lˈuːzɪŋ ðə θɹˈɛd."
         },
         {
-          "text": "My maintenance plan combines reading, listening, conversation, and writing.",
+          "text": "I tolerate regional variation without judging it.",
           "segments": [
             {
-              "text": "My maintenance plan combines reading, listening, conversation, and writing.",
+              "text": "I tolerate regional variation without judging it.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "maɪ mˈeɪntənəns plˈæn kəmbˈaɪnz ɹˈiːdɪŋ, lˈɪsənɪŋ, kɑːnvɚsˈeɪʃən, ænd ɹˈaɪɾɪŋ."
+          "phonemes": "aɪ tˈɑːlɚɹˌeɪt ɹˈiːdʒənəl vˌɛɹɪˈeɪʃən wɪðˌaʊt dʒˈʌdʒɪŋ ɪt."
         }
       ]
     },
@@ -243,7 +253,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Model language. Permítame aclarar lo que entendí. — Allow me to clarify what I understood. Antes de actuar, debemos comprobar la fuente. — Before acting, we must verify the source. Puedo resumir las dos posturas y justificar mi recomendación. — I can summarize both positions and justify my recommendation. Me adapto al registro sin imitar un acento. — I adapt to the register without imitating an accent. Mi plan de mantenimiento combina lectura, escucha, conversación y escritura. — My maintenance plan combines reading, listening, conversation, and writing.",
+      "text": "Model language. Me monitoreo mientras hablo. — I monitor myself while I speak. Reparo un error de forma estratégica. — I repair a mistake strategically. Adapto mi registro según la situación. — I adapt my register to the situation. Sostengo una conversación larga sin perder el hilo. — I sustain a long conversation without losing the thread. Tolero la variación regional sin juzgar. — I tolerate regional variation without judging it.",
       "sentences": [
         {
           "text": "Model language.",
@@ -256,104 +266,104 @@
           "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
         },
         {
-          "text": "Permítame aclarar lo que entendí.",
+          "text": "Me monitoreo mientras hablo.",
           "segments": [
             {
-              "text": "Permítame aclarar lo que entendí.",
+              "text": "Me monitoreo mientras hablo.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "peɾmˈitame ˌaklaɾˈaɾ lo ke ˌentendˈi."
+          "phonemes": "me mˌonitoɾˈeo mjˌentɾas ˈaβlo."
         },
         {
-          "text": "— Allow me to clarify what I understood.",
+          "text": "— I monitor myself while I speak.",
           "segments": [
             {
-              "text": "— Allow me to clarify what I understood.",
+              "text": "— I monitor myself while I speak.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ɐlˈaʊ mˌiː tə klˈæɹᵻfˌaɪ wʌt aɪ ˌʌndɚstˈʊd."
+          "phonemes": "— aɪ mˈɑːnɪɾɚ maɪsˈɛlf wˌaɪl aɪ spˈiːk."
         },
         {
-          "text": "Antes de actuar, debemos comprobar la fuente.",
+          "text": "Reparo un error de forma estratégica.",
           "segments": [
             {
-              "text": "Antes de actuar, debemos comprobar la fuente.",
+              "text": "Reparo un error de forma estratégica.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˈantes ðe aktwˈaɾ, deβˈemos kˌompɾoβˈaɾ la fwˈɛnte."
+          "phonemes": "repˈaɾo ˈun erˈoɾ ðe fˈoɾma ˌestɾatˈexika."
         },
         {
-          "text": "— Before acting, we must verify the source.",
+          "text": "— I repair a mistake strategically.",
           "segments": [
             {
-              "text": "— Before acting, we must verify the source.",
+              "text": "— I repair a mistake strategically.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— bᵻfˌɔːɹ ˈæktɪŋ, wiː mˈʌst vˈɛɹᵻfˌaɪ ðə sˈɔːɹs."
+          "phonemes": "— aɪ ɹᵻpˈɛɹ ɐ mɪstˈeɪk stɹətˈiːdʒɪkli."
         },
         {
-          "text": "Puedo resumir las dos posturas y justificar mi recomendación.",
+          "text": "Adapto mi registro según la situación.",
           "segments": [
             {
-              "text": "Puedo resumir las dos posturas y justificar mi recomendación.",
+              "text": "Adapto mi registro según la situación.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "pwˈeðo rˌesumˈiɾ las ðˈos postˈuɾas i xˌustifikˈaɾ mi rˌekomˌendasjˈon."
+          "phonemes": "aðˈapːto mi rexˈistɾo seɣˈun la sˌitwasjˈon."
         },
         {
-          "text": "— I can summarize both positions and justify my recommendation.",
+          "text": "— I adapt my register to the situation.",
           "segments": [
             {
-              "text": "— I can summarize both positions and justify my recommendation.",
+              "text": "— I adapt my register to the situation.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— aɪ kæn sˈʌmɚɹˌaɪz bˈoʊθ pəzˈɪʃənz ænd dʒˈʌstᵻfˌaɪ maɪ ɹˌɛkəmɛndˈeɪʃən."
+          "phonemes": "— aɪ ɐdˈæpt maɪ ɹˈɛdʒɪstɚ tə ðə sˌɪtʃuːˈeɪʃən."
         },
         {
-          "text": "Me adapto al registro sin imitar un acento.",
+          "text": "Sostengo una conversación larga sin perder el hilo.",
           "segments": [
             {
-              "text": "Me adapto al registro sin imitar un acento.",
+              "text": "Sostengo una conversación larga sin perder el hilo.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "me aðˈapːto al rexˈistɾo sin ˌimitˈaɾ ˈun asˈɛnto."
+          "phonemes": "sostˈɛŋɡo ˈuna kˌombeɾsasjˈon lˈaɾɣa sim peɾðˈeɾ el ˈilo."
         },
         {
-          "text": "— I adapt to the register without imitating an accent.",
+          "text": "— I sustain a long conversation without losing the thread.",
           "segments": [
             {
-              "text": "— I adapt to the register without imitating an accent.",
+              "text": "— I sustain a long conversation without losing the thread.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— aɪ ɐdˈæpt tə ðə ɹˈɛdʒɪstɚ wɪðˌaʊt ˈɪmᵻtˌeɪɾɪŋ ɐn ˈæksənt."
+          "phonemes": "— aɪ səstˈeɪn ɐ lˈɔŋ kɑːnvɚsˈeɪʃən wɪðˌaʊt lˈuːzɪŋ ðə θɹˈɛd."
         },
         {
-          "text": "Mi plan de mantenimiento combina lectura, escucha, conversación y escritura.",
+          "text": "Tolero la variación regional sin juzgar.",
           "segments": [
             {
-              "text": "Mi plan de mantenimiento combina lectura, escucha, conversación y escritura.",
+              "text": "Tolero la variación regional sin juzgar.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "mi plˈan de mˌantenimjˈɛnto kombˈina lektˈuɾa, eskˈutʃa, kˌombeɾsasjˈon i ˌeskɾitˈuɾa."
+          "phonemes": "tolˈeɾo la βˌaɾjasjˈon rˌexjonˈal sin xusɣˈaɾ."
         },
         {
-          "text": "— My maintenance plan combines reading, listening, conversation, and writing.",
+          "text": "— I tolerate regional variation without judging it.",
           "segments": [
             {
-              "text": "— My maintenance plan combines reading, listening, conversation, and writing.",
+              "text": "— I tolerate regional variation without judging it.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— maɪ mˈeɪntənəns plˈæn kəmbˈaɪnz ɹˈiːdɪŋ, lˈɪsənɪŋ, kɑːnvɚsˈeɪʃən, ænd ɹˈaɪɾɪŋ."
+          "phonemes": "— aɪ tˈɑːlɚɹˌeɪt ɹˈiːdʒənəl vˌɛɹɪˈeɪʃən wɪðˌaʊt dʒˈʌdʒɪŋ ɪt."
         }
       ]
     },
@@ -405,129 +415,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "aclarar",
+      "text": "repararse a sí mismo",
       "sentences": [
         {
-          "text": "aclarar",
+          "text": "repararse a sí mismo",
           "segments": [
             {
-              "text": "aclarar",
+              "text": "repararse a sí mismo",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˌaklaɾˈaɾ"
+          "phonemes": "rˌepaɾˈaɾse a sˈi mˈismo"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "comprobar",
+      "text": "el registro apropiado",
       "sentences": [
         {
-          "text": "comprobar",
+          "text": "el registro apropiado",
           "segments": [
             {
-              "text": "comprobar",
+              "text": "el registro apropiado",
               "lang": "es-419"
             }
           ],
-          "phonemes": "kˌompɾoβˈaɾ"
+          "phonemes": "el rexˈistɾo ˌapɾopjˈaðo"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "negociar",
+      "text": "monitorear",
       "sentences": [
         {
-          "text": "negociar",
+          "text": "monitorear",
           "segments": [
             {
-              "text": "negociar",
+              "text": "monitorear",
               "lang": "es-419"
             }
           ],
-          "phonemes": "nˌeɣosjˈaɾ"
+          "phonemes": "mˌonitˌoɾeˈaɾ"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "resumir",
+      "text": "intercambiar",
       "sentences": [
         {
-          "text": "resumir",
+          "text": "intercambiar",
           "segments": [
             {
-              "text": "resumir",
+              "text": "intercambiar",
               "lang": "es-419"
             }
           ],
-          "phonemes": "rˌesumˈiɾ"
+          "phonemes": "ˌinteɾkambjˈaɾ"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "justificar",
+      "text": "la intercomprensión",
       "sentences": [
         {
-          "text": "justificar",
+          "text": "la intercomprensión",
           "segments": [
             {
-              "text": "justificar",
+              "text": "la intercomprensión",
               "lang": "es-419"
             }
           ],
-          "phonemes": "xˌustifikˈaɾ"
+          "phonemes": "la ˌinteɾkˌompɾensjˈon"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "adaptarse",
+      "text": "sostenido",
       "sentences": [
         {
-          "text": "adaptarse",
+          "text": "sostenido",
           "segments": [
             {
-              "text": "adaptarse",
+              "text": "sostenido",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˌaðapːtˈaɾse"
+          "phonemes": "sˌostenˈiðo"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "la competencia",
+      "text": "estratégico",
       "sentences": [
         {
-          "text": "la competencia",
+          "text": "estratégico",
           "segments": [
             {
-              "text": "la competencia",
+              "text": "estratégico",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la kˌompetˈɛnsja"
+          "phonemes": "ˌestɾatˈexiko"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "el mantenimiento",
+      "text": "tolerar la variación",
       "sentences": [
         {
-          "text": "el mantenimiento",
+          "text": "tolerar la variación",
           "segments": [
             {
-              "text": "el mantenimiento",
+              "text": "tolerar la variación",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el mˌantenimjˈɛnto"
+          "phonemes": "tˌoleɾˈaɾ la βˌaɾjasjˈon"
         }
       ]
     }

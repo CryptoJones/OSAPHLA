@@ -211,7 +211,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Model language. Hola, me llamo Alex. — Hello, my name is Alex. Mucho gusto, señora Rivera. — Nice to meet you, Mrs. Rivera. ¿Cómo te llamas? — What is your name? Le presento a mi compañera. — Let me introduce you to my classmate. Nos vemos mañana; que tenga buen día. — See you tomorrow; have a good day.",
+      "text": "Model language. Lucía llega temprano a la oficina. — Lucía arrives early at the office. Saluda a la recepcionista con cortesía. — She greets the receptionist politely. Se presenta antes de la reunión. — She introduces herself before the meeting. Después conoce a un compañero nuevo. — Afterward she meets a new classmate. Los dos intercambian nombres. — The two exchange names.",
       "sentences": [
         {
           "text": "Model language.",
@@ -224,114 +224,112 @@
           "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
         },
         {
-          "text": "Hola, me llamo Alex.",
+          "text": "Lucía llega temprano a la oficina.",
           "segments": [
             {
-              "text": "Hola, me llamo Alex.",
+              "text": "Lucía llega temprano a la oficina.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˈola, me ʝˈamo alˈeks."
+          "phonemes": "lusˈia ʝˈeɣa tempɾˈano a la ˌofisˈina."
         },
         {
-          "text": "— Hello, my name is Alex.",
+          "text": "— Lucía arrives early at the office.",
           "segments": [
             {
-              "text": "— Hello, my name is Alex.",
+              "text": "— ",
+              "lang": "en-us"
+            },
+            {
+              "text": "Lucía",
+              "lang": "es-419"
+            },
+            {
+              "text": " arrives early at the office.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— həlˈoʊ, maɪ nˈeɪm ɪz ˈælɪks."
+          "phonemes": "— lusˈia ɚɹˈaɪvz ˈɜːli æt ðɪ ˈɑːfɪs."
         },
         {
-          "text": "Mucho gusto, señora Rivera.",
+          "text": "Saluda a la recepcionista con cortesía.",
           "segments": [
             {
-              "text": "Mucho gusto, señora Rivera.",
+              "text": "Saluda a la recepcionista con cortesía.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "mˈutʃo ɣˈusto, seɲˈoɾa riβˈeɾa."
+          "phonemes": "salˈuða a la rˌesepsjonˈista kon kˌoɾtesˈia."
         },
         {
-          "text": "— Nice to meet you, Mrs.",
+          "text": "— She greets the receptionist politely.",
           "segments": [
             {
-              "text": "— Nice to meet you, Mrs.",
+              "text": "— She greets the receptionist politely.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— nˈaɪs tə mˈiːt juː, mˈɪsɪz."
+          "phonemes": "— ʃiː ɡɹˈiːts ðə ɹᵻsˈɛpʃənˌɪst pəlˈaɪtli."
         },
         {
-          "text": "Rivera.",
+          "text": "Se presenta antes de la reunión.",
           "segments": [
             {
-              "text": "Rivera.",
-              "lang": "en-us"
-            }
-          ],
-          "phonemes": "ɹɪvˈɛɹə."
-        },
-        {
-          "text": "¿Cómo te llamas?",
-          "segments": [
-            {
-              "text": "¿Cómo te llamas?",
+              "text": "Se presenta antes de la reunión.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "kˈomo te ʝˈamas?"
+          "phonemes": "se pɾesˈɛnta ˈantes ðe la reʊnjˈon."
         },
         {
-          "text": "— What is your name?",
+          "text": "— She introduces herself before the meeting.",
           "segments": [
             {
-              "text": "— What is your name?",
+              "text": "— She introduces herself before the meeting.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— wˌʌt ɪz jʊɹ nˈeɪm?"
+          "phonemes": "— ʃiː ˌɪntɹədˈuːsᵻz hɜːsˈɛlf bᵻfˌɔːɹ ðə mˈiːɾɪŋ."
         },
         {
-          "text": "Le presento a mi compañera.",
+          "text": "Después conoce a un compañero nuevo.",
           "segments": [
             {
-              "text": "Le presento a mi compañera.",
+              "text": "Después conoce a un compañero nuevo.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "le pɾesˈɛnto a mi kˌompaɲˈeɾa."
+          "phonemes": "despwˈes konˈose a ˈun kˌompaɲˈeɾo nwˈeβo."
         },
         {
-          "text": "— Let me introduce you to my classmate.",
+          "text": "— Afterward she meets a new classmate.",
           "segments": [
             {
-              "text": "— Let me introduce you to my classmate.",
+              "text": "— Afterward she meets a new classmate.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— lˈɛt mˌiː ˌɪntɹədˈuːs juː tə maɪ klˈæsmeɪt."
+          "phonemes": "— ˈæftɚwɚd ʃiː mˈiːts ɐ nˈuː klˈæsmeɪt."
         },
         {
-          "text": "Nos vemos mañana; que tenga buen día.",
+          "text": "Los dos intercambian nombres.",
           "segments": [
             {
-              "text": "Nos vemos mañana; que tenga buen día.",
+              "text": "Los dos intercambian nombres.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "nos βˈemos maɲˈana; ke tˈɛŋɡa βwˈen dˈia."
+          "phonemes": "los ðˈos ˌinteɾkˈambjan nˈombɾes."
         },
         {
-          "text": "— See you tomorrow; have a good day.",
+          "text": "— The two exchange names.",
           "segments": [
             {
-              "text": "— See you tomorrow; have a good day.",
+              "text": "— The two exchange names.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— sˈiː juː təmˈɑːɹoʊ; hæv ɐ ɡˈʊd dˈeɪ."
+          "phonemes": "— ðə tˈuː ɛkstʃˈeɪndʒ nˈeɪmz."
         }
       ]
     },
@@ -383,129 +381,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "hola",
+      "text": "llegar",
       "sentences": [
         {
-          "text": "hola",
+          "text": "llegar",
           "segments": [
             {
-              "text": "hola",
+              "text": "llegar",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˈola"
+          "phonemes": "ʝeɣˈaɾ"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "buenos días",
+      "text": "temprano",
       "sentences": [
         {
-          "text": "buenos días",
+          "text": "temprano",
           "segments": [
             {
-              "text": "buenos días",
+              "text": "temprano",
               "lang": "es-419"
             }
           ],
-          "phonemes": "bwˈenos ðˈias"
+          "phonemes": "tempɾˈano"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "buenas tardes",
+      "text": "saludar",
       "sentences": [
         {
-          "text": "buenas tardes",
+          "text": "saludar",
           "segments": [
             {
-              "text": "buenas tardes",
+              "text": "saludar",
               "lang": "es-419"
             }
           ],
-          "phonemes": "bwˈenas tˈaɾðes"
+          "phonemes": "sˌaluðˈaɾ"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "adiós",
+      "text": "presentarse",
       "sentences": [
         {
-          "text": "adiós",
+          "text": "presentarse",
           "segments": [
             {
-              "text": "adiós",
+              "text": "presentarse",
               "lang": "es-419"
             }
           ],
-          "phonemes": "aðjˈos"
+          "phonemes": "pɾˌesentˈaɾse"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "por favor",
+      "text": "conocer",
       "sentences": [
         {
-          "text": "por favor",
+          "text": "conocer",
           "segments": [
             {
-              "text": "por favor",
+              "text": "conocer",
               "lang": "es-419"
             }
           ],
-          "phonemes": "poɾ faβˈoɾ"
+          "phonemes": "kˌonosˈeɾ"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "gracias",
+      "text": "después",
       "sentences": [
         {
-          "text": "gracias",
+          "text": "después",
           "segments": [
             {
-              "text": "gracias",
+              "text": "después",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ɡɾˈasjas"
+          "phonemes": "despwˈes"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "mucho gusto",
+      "text": "el/la recepcionista",
       "sentences": [
         {
-          "text": "mucho gusto",
+          "text": "el/la recepcionista",
           "segments": [
             {
-              "text": "mucho gusto",
+              "text": "el/la recepcionista",
               "lang": "es-419"
             }
           ],
-          "phonemes": "mˈutʃo ɣˈusto"
+          "phonemes": "el βˈara la rˌesepsjonˈista"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "¿cómo se llama?",
+      "text": "el/la compañero/a",
       "sentences": [
         {
-          "text": "¿cómo se llama?",
+          "text": "el/la compañero/a",
           "segments": [
             {
-              "text": "¿cómo se llama?",
+              "text": "el/la compañero/a",
               "lang": "es-419"
             }
           ],
-          "phonemes": "kˈomo se ʝˈama?"
+          "phonemes": "el βˈara la kˌompaɲˈeɾo βˈara ˈa"
         }
       ]
     }

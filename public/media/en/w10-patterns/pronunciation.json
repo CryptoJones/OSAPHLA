@@ -29,7 +29,7 @@
     },
     {
       "file": "01.wav",
-      "text": "Forma y significado. Like/love/prefer con sustantivo o gerundio; would like; comparativos y sugerencias con let's.",
+      "text": "Forma y significado. Aplicación de la forma. Like/love/prefer van seguidos de un gerundio (-ing) o de un sustantivo; would like usa el infinitivo con to.",
       "sentences": [
         {
           "text": "Forma y significado.",
@@ -42,7 +42,17 @@
           "phonemes": "fˈoɾma i sˌiɡnifikˈaðo."
         },
         {
-          "text": "Like/love/prefer con sustantivo o gerundio; would like; comparativos y sugerencias con let's.",
+          "text": "Aplicación de la forma.",
+          "segments": [
+            {
+              "text": "Aplicación de la forma.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˌaplikasjˈon de la fˈoɾma."
+        },
+        {
+          "text": "Like/love/prefer van seguidos de un gerundio (-ing) o de un sustantivo; would like usa el infinitivo con to.",
           "segments": [
             {
               "text": "Like",
@@ -65,7 +75,15 @@
               "lang": "en-us"
             },
             {
-              "text": " con sustantivo o gerundio; ",
+              "text": " van seguidos de un gerundio (",
+              "lang": "es-419"
+            },
+            {
+              "text": "-ing",
+              "lang": "en-us"
+            },
+            {
+              "text": ") o de un sustantivo; ",
               "lang": "es-419"
             },
             {
@@ -73,11 +91,11 @@
               "lang": "en-us"
             },
             {
-              "text": "; comparativos y sugerencias con ",
+              "text": " usa el infinitivo con ",
               "lang": "es-419"
             },
             {
-              "text": "let's",
+              "text": "to",
               "lang": "en-us"
             },
             {
@@ -85,13 +103,13 @@
               "lang": "es-419"
             }
           ],
-          "phonemes": "lˈaɪk bˈara lˈʌv bˈara pɹɪfˈɜː kon sˌustantˈiβo o xeɾˈundjo; wʊd lˈaɪk ; kˌompaɾatˈiβos i sˌuxeɾˈɛnsjas kˈon lˈɛts ."
+          "phonemes": "lˈaɪk bˈara lˈʌv bˈara pɹɪfˈɜː bˈan seɣˈiðos ðe ˈuŋ xeɾˈundjo ( ˈɪŋ ) o ðe ˈun sˌustantˈiβo; wʊd lˈaɪk ˈusa el ˌinfinitˈiβo kˈon tuː ."
         }
       ]
     },
     {
       "file": "02.wav",
-      "text": "Conjunto de modelos. I like listening to live music. Tom is interested in documentaries. Would you rather go out or stay home? We love playing together. Hiking is quieter than soccer. Me gusta escuchar música en vivo. A Tom le interesan los documentales. ¿Prefieres salir o quedarte en casa? Nos encanta jugar juntos. El senderismo es más tranquilo que el fútbol.",
+      "text": "Conjunto de modelos. I like listening to music. I'd like to go out tonight. I prefer swimming to running. Hiking is quieter than soccer. Let's try a new activity. Me gusta escuchar música. Me gustaría salir esta noche. Prefiero nadar en lugar de correr. El senderismo es más tranquilo que el fútbol. Probemos una actividad nueva.",
       "sentences": [
         {
           "text": "Conjunto de modelos.",
@@ -104,44 +122,34 @@
           "phonemes": "koŋxˈunto ðe moðˈelos."
         },
         {
-          "text": "I like listening to live music.",
+          "text": "I like listening to music.",
           "segments": [
             {
-              "text": "I like listening to live music.",
+              "text": "I like listening to music.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪ lˈaɪk lˈɪsənɪŋ tə lˈɪv mjˈuːzɪk."
+          "phonemes": "aɪ lˈaɪk lˈɪsənɪŋ tə mjˈuːzɪk."
         },
         {
-          "text": "Tom is interested in documentaries.",
+          "text": "I'd like to go out tonight.",
           "segments": [
             {
-              "text": "Tom is interested in documentaries.",
+              "text": "I'd like to go out tonight.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tˈɑːm ɪz ˈɪntɹɛstᵻd ɪn dˌɑːkjuːmˈɛntɚɹiz."
+          "phonemes": "aɪd lˈaɪk tə ɡˌoʊ ˈaʊt tənˈaɪt."
         },
         {
-          "text": "Would you rather go out or stay home?",
+          "text": "I prefer swimming to running.",
           "segments": [
             {
-              "text": "Would you rather go out or stay home?",
+              "text": "I prefer swimming to running.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wʊd juː ɹˈæðɚ ɡˌoʊ ˈaʊt ɔːɹ stˈeɪ hˈoʊm?"
-        },
-        {
-          "text": "We love playing together.",
-          "segments": [
-            {
-              "text": "We love playing together.",
-              "lang": "en-us"
-            }
-          ],
-          "phonemes": "wiː lˈʌv plˈeɪɪŋ təɡˈɛðɚ."
+          "phonemes": "aɪ pɹɪfˈɜː swˈɪmɪŋ tə ɹˈʌnɪŋ."
         },
         {
           "text": "Hiking is quieter than soccer.",
@@ -154,44 +162,44 @@
           "phonemes": "hˈaɪkɪŋ ɪz kwˈaɪəɾɚ ðɐn sˈɑːkɚ."
         },
         {
-          "text": "Me gusta escuchar música en vivo.",
+          "text": "Let's try a new activity.",
           "segments": [
             {
-              "text": "Me gusta escuchar música en vivo.",
-              "lang": "es-419"
+              "text": "Let's try a new activity.",
+              "lang": "en-us"
             }
           ],
-          "phonemes": "me ɣˈusta ˌeskutʃˈaɾ mˈusika em bˈiβo."
+          "phonemes": "lˈɛts tɹˈaɪ ɐ nˈuː æktˈɪvᵻɾi."
         },
         {
-          "text": "A Tom le interesan los documentales.",
+          "text": "Me gusta escuchar música.",
           "segments": [
             {
-              "text": "A Tom le interesan los documentales.",
+              "text": "Me gusta escuchar música.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "a tˈom le ˌinteɾˈesan los ðˌokumentˈales."
+          "phonemes": "me ɣˈusta ˌeskutʃˈaɾ mˈusika."
         },
         {
-          "text": "¿Prefieres salir o quedarte en casa?",
+          "text": "Me gustaría salir esta noche.",
           "segments": [
             {
-              "text": "¿Prefieres salir o quedarte en casa?",
+              "text": "Me gustaría salir esta noche.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "pɾefjˈeɾes salˈiɾ o keðˈaɾte en kˈasa?"
+          "phonemes": "me ɣˌustaɾˈia salˈiɾ ˈesta nˈotʃe."
         },
         {
-          "text": "Nos encanta jugar juntos.",
+          "text": "Prefiero nadar en lugar de correr.",
           "segments": [
             {
-              "text": "Nos encanta jugar juntos.",
+              "text": "Prefiero nadar en lugar de correr.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "nos enkˈanta xuɣˈaɾ xˈuntos."
+          "phonemes": "pɾefjˈeɾo naðˈaɾ en luɣˈaɾ ðe korˈeɾ."
         },
         {
           "text": "El senderismo es más tranquilo que el fútbol.",
@@ -202,6 +210,16 @@
             }
           ],
           "phonemes": "el sˌendeɾˈismo ˈes mˈas tɾankˈilo ke el fˈutβol."
+        },
+        {
+          "text": "Probemos una actividad nueva.",
+          "segments": [
+            {
+              "text": "Probemos una actividad nueva.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "pɾoβˈemos ˈuna ˌaktiβiðˈad nwˈeβa."
         }
       ]
     },
@@ -269,7 +287,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Lenguaje modelo. I like listening to live music. — Me gusta escuchar música en vivo. Tom is interested in documentaries. — A Tom le interesan los documentales. Would you rather go out or stay home? — ¿Prefieres salir o quedarte en casa? We love playing together. — Nos encanta jugar juntos. Hiking is quieter than soccer. — El senderismo es más tranquilo que el fútbol.",
+      "text": "Lenguaje modelo. I like listening to music. — Me gusta escuchar música. I'd like to go out tonight. — Me gustaría salir esta noche. I prefer swimming to running. — Prefiero nadar en lugar de correr. Hiking is quieter than soccer. — El senderismo es más tranquilo que el fútbol. Let's try a new activity. — Probemos una actividad nueva.",
       "sentences": [
         {
           "text": "Lenguaje modelo.",
@@ -282,84 +300,64 @@
           "phonemes": "leŋɡwˈaxe moðˈelo."
         },
         {
-          "text": "I like listening to live music.",
+          "text": "I like listening to music.",
           "segments": [
             {
-              "text": "I like listening to live music.",
+              "text": "I like listening to music.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪ lˈaɪk lˈɪsənɪŋ tə lˈɪv mjˈuːzɪk."
+          "phonemes": "aɪ lˈaɪk lˈɪsənɪŋ tə mjˈuːzɪk."
         },
         {
-          "text": "— Me gusta escuchar música en vivo.",
+          "text": "— Me gusta escuchar música.",
           "segments": [
             {
-              "text": "— Me gusta escuchar música en vivo.",
+              "text": "— Me gusta escuchar música.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— me ɣˈusta ˌeskutʃˈaɾ mˈusika em bˈiβo."
+          "phonemes": "— me ɣˈusta ˌeskutʃˈaɾ mˈusika."
         },
         {
-          "text": "Tom is interested in documentaries.",
+          "text": "I'd like to go out tonight.",
           "segments": [
             {
-              "text": "Tom is interested in documentaries.",
+              "text": "I'd like to go out tonight.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tˈɑːm ɪz ˈɪntɹɛstᵻd ɪn dˌɑːkjuːmˈɛntɚɹiz."
+          "phonemes": "aɪd lˈaɪk tə ɡˌoʊ ˈaʊt tənˈaɪt."
         },
         {
-          "text": "— A Tom le interesan los documentales.",
+          "text": "— Me gustaría salir esta noche.",
           "segments": [
             {
-              "text": "— A Tom le interesan los documentales.",
+              "text": "— Me gustaría salir esta noche.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— a tˈom le ˌinteɾˈesan los ðˌokumentˈales."
+          "phonemes": "— me ɣˌustaɾˈia salˈiɾ ˈesta nˈotʃe."
         },
         {
-          "text": "Would you rather go out or stay home?",
+          "text": "I prefer swimming to running.",
           "segments": [
             {
-              "text": "Would you rather go out or stay home?",
+              "text": "I prefer swimming to running.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wʊd juː ɹˈæðɚ ɡˌoʊ ˈaʊt ɔːɹ stˈeɪ hˈoʊm?"
+          "phonemes": "aɪ pɹɪfˈɜː swˈɪmɪŋ tə ɹˈʌnɪŋ."
         },
         {
-          "text": "— ¿Prefieres salir o quedarte en casa?",
+          "text": "— Prefiero nadar en lugar de correr.",
           "segments": [
             {
-              "text": "— ¿Prefieres salir o quedarte en casa?",
+              "text": "— Prefiero nadar en lugar de correr.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— pɾefjˈeɾes salˈiɾ o keðˈaɾte en kˈasa?"
-        },
-        {
-          "text": "We love playing together.",
-          "segments": [
-            {
-              "text": "We love playing together.",
-              "lang": "en-us"
-            }
-          ],
-          "phonemes": "wiː lˈʌv plˈeɪɪŋ təɡˈɛðɚ."
-        },
-        {
-          "text": "— Nos encanta jugar juntos.",
-          "segments": [
-            {
-              "text": "— Nos encanta jugar juntos.",
-              "lang": "es-419"
-            }
-          ],
-          "phonemes": "— nos enkˈanta xuɣˈaɾ xˈuntos."
+          "phonemes": "— pɾefjˈeɾo naðˈaɾ en luɣˈaɾ ðe korˈeɾ."
         },
         {
           "text": "Hiking is quieter than soccer.",
@@ -380,6 +378,26 @@
             }
           ],
           "phonemes": "— el sˌendeɾˈismo ˈes mˈas tɾankˈilo ke el fˈutβol."
+        },
+        {
+          "text": "Let's try a new activity.",
+          "segments": [
+            {
+              "text": "Let's try a new activity.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "lˈɛts tɹˈaɪ ɐ nˈuː æktˈɪvᵻɾi."
+        },
+        {
+          "text": "— Probemos una actividad nueva.",
+          "segments": [
+            {
+              "text": "— Probemos una actividad nueva.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— pɾoβˈemos ˈuna ˌaktiβiðˈad nwˈeβa."
         }
       ]
     },
@@ -431,129 +449,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "to like",
+      "text": "I like -ing",
       "sentences": [
         {
-          "text": "to like",
+          "text": "I like -ing",
           "segments": [
             {
-              "text": "to like",
+              "text": "I like -ing",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə lˈaɪk"
+          "phonemes": "aɪ lˈaɪk ˈɪŋ"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "to love",
+      "text": "I'd like to",
       "sentences": [
         {
-          "text": "to love",
+          "text": "I'd like to",
           "segments": [
             {
-              "text": "to love",
+              "text": "I'd like to",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə lˈʌv"
+          "phonemes": "aɪd lˈaɪk tuː"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "to prefer",
+      "text": "to prefer -ing",
       "sentences": [
         {
-          "text": "to prefer",
+          "text": "to prefer -ing",
           "segments": [
             {
-              "text": "to prefer",
+              "text": "to prefer -ing",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə pɹɪfˈɜː"
+          "phonemes": "tə pɹɪfˈɜːɹ ˈɪŋ"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "a movie",
+      "text": "more...than",
       "sentences": [
         {
-          "text": "a movie",
+          "text": "more...than",
           "segments": [
             {
-              "text": "a movie",
+              "text": "more...than",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ mˈuːvi"
+          "phonemes": "mˈɔːɹ...ðɐn"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "music",
+      "text": "quieter than",
       "sentences": [
         {
-          "text": "music",
+          "text": "quieter than",
           "segments": [
             {
-              "text": "music",
+              "text": "quieter than",
               "lang": "en-us"
             }
           ],
-          "phonemes": "mjˈuːzɪk"
+          "phonemes": "kwˈaɪəɾɚ ðɐn"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "a sport",
+      "text": "let's",
       "sentences": [
         {
-          "text": "a sport",
+          "text": "let's",
           "segments": [
             {
-              "text": "a sport",
+              "text": "let's",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ spˈɔːɹt"
+          "phonemes": "lˈɛts"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "together",
+      "text": "a comparison",
       "sentences": [
         {
-          "text": "together",
+          "text": "a comparison",
           "segments": [
             {
-              "text": "together",
+              "text": "a comparison",
               "lang": "en-us"
             }
           ],
-          "phonemes": "təɡˈɛðɚ"
+          "phonemes": "ɐ kəmpˈæɹɪsən"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "free time",
+      "text": "rather than",
       "sentences": [
         {
-          "text": "free time",
+          "text": "rather than",
           "segments": [
             {
-              "text": "free time",
+              "text": "rather than",
               "lang": "en-us"
             }
           ],
-          "phonemes": "fɹˈiː tˈaɪm"
+          "phonemes": "ɹˈæðɚ ðɐn"
         }
       ]
     }

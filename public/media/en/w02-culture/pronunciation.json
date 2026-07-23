@@ -163,7 +163,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Lenguaje modelo. Hello, I'm Alex. — Hola, soy Alex. Nice to meet you, Ms. Rivera. — Mucho gusto, señora Rivera. What's your name? — ¿Cómo te llamas? This is my classmate, Jordan. — Esta persona es Jordan, mi colega de clase. See you tomorrow. Have a good day. — Nos vemos mañana. Que tengas un buen día.",
+      "text": "Lenguaje modelo. Greetings change by country. — Los saludos cambian según el país. Some places hug; others shake hands. — En algunos lugares se abrazan; en otros, se dan la mano. Personal space varies between cultures. — El espacio personal varía entre culturas. Using the right title shows respect. — Usar el título correcto muestra respeto. Every custom has its own context. — Cada costumbre tiene su propio contexto.",
       "sentences": [
         {
           "text": "Lenguaje modelo.",
@@ -176,138 +176,104 @@
           "phonemes": "leŋɡwˈaxe moðˈelo."
         },
         {
-          "text": "Hello, I'm Alex.",
+          "text": "Greetings change by country.",
           "segments": [
             {
-              "text": "Hello, I'm Alex.",
+              "text": "Greetings change by country.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "həlˈoʊ, aɪm ˈælɪks."
+          "phonemes": "ɡɹˈiːɾɪŋz tʃˈeɪndʒ baɪ kˈʌntɹi."
         },
         {
-          "text": "— Hola, soy Alex.",
+          "text": "— Los saludos cambian según el país.",
           "segments": [
             {
-              "text": "— Hola, soy Alex.",
+              "text": "— Los saludos cambian según el país.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— ˈola, sˈoɪ alˈeks."
+          "phonemes": "— los salˈuðos kˈambjan seɣˈun el paˈis."
         },
         {
-          "text": "Nice to meet you, Ms.",
+          "text": "Some places hug; others shake hands.",
           "segments": [
             {
-              "text": "Nice to meet you, Ms.",
+              "text": "Some places hug; others shake hands.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "nˈaɪs tə mˈiːt juː, ˌɛmˈɛs."
+          "phonemes": "sˌʌm plˈeɪsᵻz hˈʌɡ; ˈʌðɚz ʃˈeɪk hˈændz."
         },
         {
-          "text": "Rivera.",
+          "text": "— En algunos lugares se abrazan; en otros, se dan la mano.",
           "segments": [
             {
-              "text": "Rivera.",
-              "lang": "en-us"
-            }
-          ],
-          "phonemes": "ɹɪvˈɛɹə."
-        },
-        {
-          "text": "— Mucho gusto, señora Rivera.",
-          "segments": [
-            {
-              "text": "— Mucho gusto, señora ",
-              "lang": "es-419"
-            },
-            {
-              "text": "Rivera.",
-              "lang": "en-us"
-            }
-          ],
-          "phonemes": "— mˈutʃo ɣˈusto, seɲˈoɾa ɹɪvˈɛɹə."
-        },
-        {
-          "text": "What's your name?",
-          "segments": [
-            {
-              "text": "What's your name?",
-              "lang": "en-us"
-            }
-          ],
-          "phonemes": "wˌʌts jʊɹ nˈeɪm?"
-        },
-        {
-          "text": "— ¿Cómo te llamas?",
-          "segments": [
-            {
-              "text": "— ¿Cómo te llamas?",
+              "text": "— En algunos lugares se abrazan; en otros, se dan la mano.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— kˈomo te ʝˈamas?"
+          "phonemes": "— en alɣˈunos luɣˈaɾes se aβɾˈasan; en ˈotɾos, se ðˈan la mˈano."
         },
         {
-          "text": "This is my classmate, Jordan.",
+          "text": "Personal space varies between cultures.",
           "segments": [
             {
-              "text": "This is my classmate, Jordan.",
+              "text": "Personal space varies between cultures.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðɪs ɪz maɪ klˈæsmeɪt, dʒˈɔːɹdən."
+          "phonemes": "pˈɜːsənəl spˈeɪs vˈɛɹiz bᵻtwˌiːn kˈʌltʃɚz."
         },
         {
-          "text": "— Esta persona es Jordan, mi colega de clase.",
+          "text": "— El espacio personal varía entre culturas.",
           "segments": [
             {
-              "text": "— Esta persona es Jordan, mi colega de clase.",
+              "text": "— El espacio personal varía entre culturas.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— ˈesta peɾsˈona ˈes xˈoɾðan, mi kolˈeɣa ðe klˈase."
+          "phonemes": "— el espˈasjo pˌeɾsonˈal βaɾˈia ˌentɾe kultˈuɾas."
         },
         {
-          "text": "See you tomorrow.",
+          "text": "Using the right title shows respect.",
           "segments": [
             {
-              "text": "See you tomorrow.",
+              "text": "Using the right title shows respect.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "sˈiː juː təmˈɑːɹoʊ."
+          "phonemes": "jˈuːzɪŋ ðə ɹˈaɪt tˈaɪɾəl ʃˈoʊz ɹᵻspˈɛkt."
         },
         {
-          "text": "Have a good day.",
+          "text": "— Usar el título correcto muestra respeto.",
           "segments": [
             {
-              "text": "Have a good day.",
+              "text": "— Usar el título correcto muestra respeto.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— usˈaɾ el tˈitulo korˈekto mwˈestɾa respˈeto."
+        },
+        {
+          "text": "Every custom has its own context.",
+          "segments": [
+            {
+              "text": "Every custom has its own context.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "hæv ɐ ɡˈʊd dˈeɪ."
+          "phonemes": "ˈɛvɹi kˈʌstəm hɐz ɪts ˈoʊn kˈɑːntɛkst."
         },
         {
-          "text": "— Nos vemos mañana.",
+          "text": "— Cada costumbre tiene su propio contexto.",
           "segments": [
             {
-              "text": "— Nos vemos mañana.",
+              "text": "— Cada costumbre tiene su propio contexto.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— nos βˈemos maɲˈana."
-        },
-        {
-          "text": "Que tengas un buen día.",
-          "segments": [
-            {
-              "text": "Que tengas un buen día.",
-              "lang": "es-419"
-            }
-          ],
-          "phonemes": "ke tˈɛŋɡas ˈum bwˈen dˈia."
+          "phonemes": "— kˈaða kostˈumbɾe tjˈene su pɾˈopjo kontˈeksto."
         }
       ]
     },
@@ -359,129 +325,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "hello",
+      "text": "a greeting",
       "sentences": [
         {
-          "text": "hello",
+          "text": "a greeting",
           "segments": [
             {
-              "text": "hello",
+              "text": "a greeting",
               "lang": "en-us"
             }
           ],
-          "phonemes": "həlˈoʊ"
+          "phonemes": "ɐ ɡɹˈiːɾɪŋ"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "good morning",
+      "text": "a hug",
       "sentences": [
         {
-          "text": "good morning",
+          "text": "a hug",
           "segments": [
             {
-              "text": "good morning",
+              "text": "a hug",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɡˈʊd mˈɔːɹnɪŋ"
+          "phonemes": "ɐ hˈʌɡ"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "good evening",
+      "text": "a handshake",
       "sentences": [
         {
-          "text": "good evening",
+          "text": "a handshake",
           "segments": [
             {
-              "text": "good evening",
+              "text": "a handshake",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɡˈʊd ˈiːvnɪŋ"
+          "phonemes": "ɐ hˈændʃeɪk"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "goodbye",
+      "text": "personal space",
       "sentences": [
         {
-          "text": "goodbye",
+          "text": "personal space",
           "segments": [
             {
-              "text": "goodbye",
+              "text": "personal space",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɡʊdbˈaɪ"
+          "phonemes": "pˈɜːsənəl spˈeɪs"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "please",
+      "text": "a title",
       "sentences": [
         {
-          "text": "please",
+          "text": "a title",
           "segments": [
             {
-              "text": "please",
+              "text": "a title",
               "lang": "en-us"
             }
           ],
-          "phonemes": "plˈiːz"
+          "phonemes": "ɐ tˈaɪɾəl"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "thank you",
+      "text": "formal",
       "sentences": [
         {
-          "text": "thank you",
+          "text": "formal",
           "segments": [
             {
-              "text": "thank you",
+              "text": "formal",
               "lang": "en-us"
             }
           ],
-          "phonemes": "θˈæŋk juː"
+          "phonemes": "fˈɔːɹməl"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "nice to meet you",
+      "text": "informal",
       "sentences": [
         {
-          "text": "nice to meet you",
+          "text": "informal",
           "segments": [
             {
-              "text": "nice to meet you",
+              "text": "informal",
               "lang": "en-us"
             }
           ],
-          "phonemes": "nˈaɪs tə mˈiːt juː"
+          "phonemes": "ɪnfˈɔːɹməl"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "What is your name?",
+      "text": "a custom",
       "sentences": [
         {
-          "text": "What is your name?",
+          "text": "a custom",
           "segments": [
             {
-              "text": "What is your name?",
+              "text": "a custom",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wˌʌt ɪz jʊɹ nˈeɪm?"
+          "phonemes": "ɐ kˈʌstəm"
         }
       ]
     }

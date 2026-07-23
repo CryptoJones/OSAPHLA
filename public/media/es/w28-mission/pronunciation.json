@@ -143,7 +143,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Model language. Dudo que la cifra sea correcta. — I doubt that the figure is correct. Es probable que llueva esta noche. — It will probably rain tonight. Salimos temprano para que haya tiempo suficiente. — We are leaving early so that there is enough time. No firmaremos a menos que cambien la cláusula. — We will not sign unless they change the clause. Llámame en cuanto llegues. — Call me as soon as you arrive.",
+      "text": "Model language. Voy a evaluar un informe incierto. — I am going to evaluate an uncertain report. Propongo un plan con un propósito claro. — I propose a plan with a clear purpose. Incluyo una fecha límite realista. — I include a realistic deadline. Preparo una alternativa por si acaso. — I prepare an alternative just in case. Tengo un plan de contingencia salvo que todo salga bien. — I have a contingency plan unless everything goes well.",
       "sentences": [
         {
           "text": "Model language.",
@@ -156,104 +156,104 @@
           "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
         },
         {
-          "text": "Dudo que la cifra sea correcta.",
+          "text": "Voy a evaluar un informe incierto.",
           "segments": [
             {
-              "text": "Dudo que la cifra sea correcta.",
+              "text": "Voy a evaluar un informe incierto.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "dˈuðo ke la sˈifɾa sˈea korˈekta."
+          "phonemes": "bˈoɪ a ˌeβaluˈaɾ ˈun infˈoɾme insjˈeɾto."
         },
         {
-          "text": "— I doubt that the figure is correct.",
+          "text": "— I am going to evaluate an uncertain report.",
           "segments": [
             {
-              "text": "— I doubt that the figure is correct.",
+              "text": "— I am going to evaluate an uncertain report.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— aɪ dˈaʊt ðætðə fˈɪɡjɚɹ ɪz kɚɹˈɛkt."
+          "phonemes": "— aɪɐm ɡˌoʊɪŋ tʊ ɪvˈæljuːˌeɪt ɐn ʌnsˈɜːʔn ɹᵻpˈɔːɹt."
         },
         {
-          "text": "Es probable que llueva esta noche.",
+          "text": "Propongo un plan con un propósito claro.",
           "segments": [
             {
-              "text": "Es probable que llueva esta noche.",
+              "text": "Propongo un plan con un propósito claro.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˈes pɾoβˈaβle ke ʝuˈeβa ˈesta nˈotʃe."
+          "phonemes": "pɾopˈoŋɡo ˈum plˈan kon ˈum pɾopˈosito klˈaɾo."
         },
         {
-          "text": "— It will probably rain tonight.",
+          "text": "— I propose a plan with a clear purpose.",
           "segments": [
             {
-              "text": "— It will probably rain tonight.",
+              "text": "— I propose a plan with a clear purpose.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ɪt wɪl pɹˈɑːbəbli ɹˈeɪn tənˈaɪt."
+          "phonemes": "— aɪ pɹəpˈoʊz ɐ plˈæn wɪð ɐ klˈɪɹ pˈɜːpəs."
         },
         {
-          "text": "Salimos temprano para que haya tiempo suficiente.",
+          "text": "Incluyo una fecha límite realista.",
           "segments": [
             {
-              "text": "Salimos temprano para que haya tiempo suficiente.",
+              "text": "Incluyo una fecha límite realista.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "salˈimos tempɾˈano pˌaɾa ke ˈaʝa tjˈempo sˌufisjˈɛnte."
+          "phonemes": "inklˈuʝo ˈuna fˈetʃa lˈimite rˌealˈista."
         },
         {
-          "text": "— We are leaving early so that there is enough time.",
+          "text": "— I include a realistic deadline.",
           "segments": [
             {
-              "text": "— We are leaving early so that there is enough time.",
+              "text": "— I include a realistic deadline.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— wiː ɑːɹ lˈiːvɪŋ ˈɜːli sˌoʊ ðæt ðɛɹ ɪz ɪnˈʌf tˈaɪm."
+          "phonemes": "— aɪ ɪŋklˈuːd ɐ ɹiːəlˈɪstɪk dˈɛdlaɪn."
         },
         {
-          "text": "No firmaremos a menos que cambien la cláusula.",
+          "text": "Preparo una alternativa por si acaso.",
           "segments": [
             {
-              "text": "No firmaremos a menos que cambien la cláusula.",
+              "text": "Preparo una alternativa por si acaso.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "nˈo fˌiɾmaɾˈemos a mˈenos ke kˈambjen la klˈausˌula."
+          "phonemes": "pɾepˈaɾo ˈuna ˌalteɾnatˈiβa poɾ si akˈaso."
         },
         {
-          "text": "— We will not sign unless they change the clause.",
+          "text": "— I prepare an alternative just in case.",
           "segments": [
             {
-              "text": "— We will not sign unless they change the clause.",
+              "text": "— I prepare an alternative just in case.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— wiː wɪl nˌɑːt sˈaɪn ʌnlˈɛs ðeɪ tʃˈeɪndʒ ðə klˈɔːz."
+          "phonemes": "— aɪ pɹɪpˈɛɹ ɐn ɔːltˈɜːnətˌɪv dʒˈʌst ɪn kˈeɪs."
         },
         {
-          "text": "Llámame en cuanto llegues.",
+          "text": "Tengo un plan de contingencia salvo que todo salga bien.",
           "segments": [
             {
-              "text": "Llámame en cuanto llegues.",
+              "text": "Tengo un plan de contingencia salvo que todo salga bien.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ʝˈamame en kwˌanto ʝˈeɣes."
+          "phonemes": "tˈɛŋɡo ˈum plˈan de kˌontiŋxˈɛnsja sˈalβo ke tˈoðo sˈalɣa βjˈen."
         },
         {
-          "text": "— Call me as soon as you arrive.",
+          "text": "— I have a contingency plan unless everything goes well.",
           "segments": [
             {
-              "text": "— Call me as soon as you arrive.",
+              "text": "— I have a contingency plan unless everything goes well.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— kˈɔːl mˌiː æz sˈuːn æz juː ɚɹˈaɪv."
+          "phonemes": "— aɪ hæv ɐ kəntˈɪndʒənsi plˈæn ʌnlˈɛs ˈɛvɹɪθˌɪŋ ɡoʊz wˈɛl."
         }
       ]
     },
@@ -305,129 +305,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "dudar",
+      "text": "evaluar",
       "sentences": [
         {
-          "text": "dudar",
+          "text": "evaluar",
           "segments": [
             {
-              "text": "dudar",
+              "text": "evaluar",
               "lang": "es-419"
             }
           ],
-          "phonemes": "duðˈaɾ"
+          "phonemes": "ˌeβaluˈaɾ"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "negar",
+      "text": "el informe incierto",
       "sentences": [
         {
-          "text": "negar",
+          "text": "el informe incierto",
           "segments": [
             {
-              "text": "negar",
+              "text": "el informe incierto",
               "lang": "es-419"
             }
           ],
-          "phonemes": "neɣˈaɾ"
+          "phonemes": "el infˈoɾme insjˈeɾto"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "es posible",
+      "text": "proponer",
       "sentences": [
         {
-          "text": "es posible",
+          "text": "proponer",
           "segments": [
             {
-              "text": "es posible",
+              "text": "proponer",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˈes posˈiβle"
+          "phonemes": "pɾˌoponˈeɾ"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "es probable",
+      "text": "el propósito",
       "sentences": [
         {
-          "text": "es probable",
+          "text": "el propósito",
           "segments": [
             {
-              "text": "es probable",
+              "text": "el propósito",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˈes pɾoβˈaβle"
+          "phonemes": "el pɾopˈosito"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "para que",
+      "text": "la fecha límite",
       "sentences": [
         {
-          "text": "para que",
+          "text": "la fecha límite",
           "segments": [
             {
-              "text": "para que",
+              "text": "la fecha límite",
               "lang": "es-419"
             }
           ],
-          "phonemes": "pˌaɾa kˈe"
+          "phonemes": "la fˈetʃa lˈimite"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "a menos que",
+      "text": "la alternativa",
       "sentences": [
         {
-          "text": "a menos que",
+          "text": "la alternativa",
           "segments": [
             {
-              "text": "a menos que",
+              "text": "la alternativa",
               "lang": "es-419"
             }
           ],
-          "phonemes": "a mˈenos kˈe"
+          "phonemes": "la ˌalteɾnatˈiβa"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "antes de que",
+      "text": "el plan de contingencia",
       "sentences": [
         {
-          "text": "antes de que",
+          "text": "el plan de contingencia",
           "segments": [
             {
-              "text": "antes de que",
+              "text": "el plan de contingencia",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˈantes ðe kˈe"
+          "phonemes": "el plˈan de kˌontiŋxˈɛnsja"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "en cuanto",
+      "text": "salvo que",
       "sentences": [
         {
-          "text": "en cuanto",
+          "text": "salvo que",
           "segments": [
             {
-              "text": "en cuanto",
+              "text": "salvo que",
               "lang": "es-419"
             }
           ],
-          "phonemes": "en kwˈanto"
+          "phonemes": "sˈalβo kˈe"
         }
       ]
     }

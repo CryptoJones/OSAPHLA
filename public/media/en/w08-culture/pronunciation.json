@@ -163,7 +163,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Lenguaje modelo. My older sister is very kind. — Mi hermana mayor es muy amable. I know Elena's parents. — Conozco a los padres de Elena. Our family lives in three cities. — Nuestra familia vive en tres ciudades. Is this portrait yours? — ¿Es tuyo este retrato? I have two brothers and a cousin. — Tengo dos hermanos y una prima o un primo.",
+      "text": "Lenguaje modelo. Many families are extended. — Muchas familias son extendidas. Some people have a chosen family. — Algunas personas tienen una familia elegida. Every household is different. — Cada hogar es diferente. Respect doesn't depend on family structure. — El respeto no depende de la estructura familiar. It's important to describe relationships precisely. — Es importante describir las relaciones con precisión.",
       "sentences": [
         {
           "text": "Lenguaje modelo.",
@@ -176,104 +176,104 @@
           "phonemes": "leŋɡwˈaxe moðˈelo."
         },
         {
-          "text": "My older sister is very kind.",
+          "text": "Many families are extended.",
           "segments": [
             {
-              "text": "My older sister is very kind.",
+              "text": "Many families are extended.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "maɪ ˈoʊldɚ sˈɪstɚɹ ɪz vˈɛɹi kˈaɪnd."
+          "phonemes": "mˈɛni fˈæmɪliz ɑːɹ ɛkstˈɛndᵻd."
         },
         {
-          "text": "— Mi hermana mayor es muy amable.",
+          "text": "— Muchas familias son extendidas.",
           "segments": [
             {
-              "text": "— Mi hermana mayor es muy amable.",
+              "text": "— Muchas familias son extendidas.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— mi eɾmˈana maʝˈoɾ ˈes mˈuj amˈaβle."
+          "phonemes": "— mˈutʃas famˈiljas sˈon ˌekstendˈiðas."
         },
         {
-          "text": "I know Elena's parents.",
+          "text": "Some people have a chosen family.",
           "segments": [
             {
-              "text": "I know Elena's parents.",
+              "text": "Some people have a chosen family.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪ nˈoʊ ᵻlˈiːnəz pˈɛɹənts."
+          "phonemes": "sˌʌm pˈiːpəl hæv ɐ tʃˈoʊzən fˈæmɪli."
         },
         {
-          "text": "— Conozco a los padres de Elena.",
+          "text": "— Algunas personas tienen una familia elegida.",
           "segments": [
             {
-              "text": "— Conozco a los padres de Elena.",
+              "text": "— Algunas personas tienen una familia elegida.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— konˈosko a los pˈaðɾes ðe elˈena."
+          "phonemes": "— alɣˈunas peɾsˈonas tjˈenen ˈuna famˈilja ˌelexˈiða."
         },
         {
-          "text": "Our family lives in three cities.",
+          "text": "Every household is different.",
           "segments": [
             {
-              "text": "Our family lives in three cities.",
+              "text": "Every household is different.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ˌaʊɚ fˈæmɪli lˈaɪvz ɪn θɹˈiː sˈɪɾiz."
+          "phonemes": "ˈɛvɹi hˈaʊshoʊld ɪz dˈɪfɹənt."
         },
         {
-          "text": "— Nuestra familia vive en tres ciudades.",
+          "text": "— Cada hogar es diferente.",
           "segments": [
             {
-              "text": "— Nuestra familia vive en tres ciudades.",
+              "text": "— Cada hogar es diferente.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— nwˌestɾa famˈilja βˈiβe en tɾˈes sjuðˈaðes."
+          "phonemes": "— kˈaða oɣˈaɾ ˈes ðˌifeɾˈɛnte."
         },
         {
-          "text": "Is this portrait yours?",
+          "text": "Respect doesn't depend on family structure.",
           "segments": [
             {
-              "text": "Is this portrait yours?",
+              "text": "Respect doesn't depend on family structure.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɪz ðɪs pˈɔːɹtɹɪt jˈɔːɹz?"
+          "phonemes": "ɹᵻspˈɛkt dˈʌzənt dᵻpˈɛnd ˌɔn fˈæmɪli stɹˈʌktʃɚ."
         },
         {
-          "text": "— ¿Es tuyo este retrato?",
+          "text": "— El respeto no depende de la estructura familiar.",
           "segments": [
             {
-              "text": "— ¿Es tuyo este retrato?",
+              "text": "— El respeto no depende de la estructura familiar.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— ˈes tˈuʝo ˈeste retɾˈato?"
+          "phonemes": "— el respˈeto nˈo ðepˈɛnde ðe la ˌestɾuktˈuɾa fˌamiljˈaɾ."
         },
         {
-          "text": "I have two brothers and a cousin.",
+          "text": "It's important to describe relationships precisely.",
           "segments": [
             {
-              "text": "I have two brothers and a cousin.",
+              "text": "It's important to describe relationships precisely.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪ hæv tˈuː bɹˈʌðɚz ænd ɐ kˈʌzən."
+          "phonemes": "ɪts ɪmpˈɔːɹtənt tə dᵻskɹˈaɪb ɹᵻlˈeɪʃənʃˌɪps pɹɪsˈaɪsli."
         },
         {
-          "text": "— Tengo dos hermanos y una prima o un primo.",
+          "text": "— Es importante describir las relaciones con precisión.",
           "segments": [
             {
-              "text": "— Tengo dos hermanos y una prima o un primo.",
+              "text": "— Es importante describir las relaciones con precisión.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— tˈɛŋɡo ðˈos eɾmˈanos i ˈuna pɾˈima o ˈum pɾˈimo."
+          "phonemes": "— ˈes ˌimpoɾtˈante ðˌeskɾiβˈiɾ las rˌelasjˈones kom pɾˌesisjˈon."
         }
       ]
     },
@@ -325,129 +325,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "family",
+      "text": "extended family",
       "sentences": [
         {
-          "text": "family",
+          "text": "extended family",
           "segments": [
             {
-              "text": "family",
+              "text": "extended family",
               "lang": "en-us"
             }
           ],
-          "phonemes": "fˈæmɪli"
+          "phonemes": "ɛkstˈɛndᵻd fˈæmɪli"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "mother",
+      "text": "chosen family",
       "sentences": [
         {
-          "text": "mother",
+          "text": "chosen family",
           "segments": [
             {
-              "text": "mother",
+              "text": "chosen family",
               "lang": "en-us"
             }
           ],
-          "phonemes": "mˈʌðɚ"
+          "phonemes": "tʃˈoʊzən fˈæmɪli"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "father",
+      "text": "a household",
       "sentences": [
         {
-          "text": "father",
+          "text": "a household",
           "segments": [
             {
-              "text": "father",
+              "text": "a household",
               "lang": "en-us"
             }
           ],
-          "phonemes": "fˈɑːðɚ"
+          "phonemes": "ɐ hˈaʊshoʊld"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "sister",
+      "text": "diverse",
       "sentences": [
         {
-          "text": "sister",
+          "text": "diverse",
           "segments": [
             {
-              "text": "sister",
+              "text": "diverse",
               "lang": "en-us"
             }
           ],
-          "phonemes": "sˈɪstɚ"
+          "phonemes": "daɪvˈɜːs"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "friend",
+      "text": "respect",
       "sentences": [
         {
-          "text": "friend",
+          "text": "respect",
           "segments": [
             {
-              "text": "friend",
+              "text": "respect",
               "lang": "en-us"
             }
           ],
-          "phonemes": "fɹˈɛnd"
+          "phonemes": "ɹᵻspˈɛkt"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "young",
+      "text": "a relationship",
       "sentences": [
         {
-          "text": "young",
+          "text": "a relationship",
           "segments": [
             {
-              "text": "young",
+              "text": "a relationship",
               "lang": "en-us"
             }
           ],
-          "phonemes": "jˈʌŋ"
+          "phonemes": "ɐ ɹᵻlˈeɪʃənʃˌɪp"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "older",
+      "text": "to depend on",
       "sentences": [
         {
-          "text": "older",
+          "text": "to depend on",
           "segments": [
             {
-              "text": "older",
+              "text": "to depend on",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ˈoʊldɚ"
+          "phonemes": "tə dᵻpˈɛnd ˈɔn"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "kind",
+      "text": "to include",
       "sentences": [
         {
-          "text": "kind",
+          "text": "to include",
           "segments": [
             {
-              "text": "kind",
+              "text": "to include",
               "lang": "en-us"
             }
           ],
-          "phonemes": "kˈaɪnd"
+          "phonemes": "tʊ ɪŋklˈuːd"
         }
       ]
     }

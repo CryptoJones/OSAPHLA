@@ -143,7 +143,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Model language. La población urbana aumentará. — The urban population will increase. Seguiremos midiendo los resultados. — We will continue measuring the results. ¿Dónde estará Marta ahora? — Where could Marta be now? Cuando termine el estudio, publicaremos los datos. — When the study ends, we will publish the data. Dentro de cinco años habrá nuevas opciones. — In five years there will be new options.",
+      "text": "Model language. Voy a dar un pronóstico a cinco años. — I am going to give a five-year forecast. Distingo entre evidencia y especulación. — I distinguish between evidence and speculation. Me comprometo a dos acciones concretas. — I commit to two concrete actions. Uso datos medibles cuando puedo. — I use measurable data when I can. Mi pronóstico es razonable, no exagerado. — My forecast is reasonable, not exaggerated.",
       "sentences": [
         {
           "text": "Model language.",
@@ -156,104 +156,104 @@
           "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
         },
         {
-          "text": "La población urbana aumentará.",
+          "text": "Voy a dar un pronóstico a cinco años.",
           "segments": [
             {
-              "text": "La población urbana aumentará.",
+              "text": "Voy a dar un pronóstico a cinco años.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la pˌoβlasjˈon uɾβˈana ˌaʊmentaɾˈa."
+          "phonemes": "bˈoɪ a ðˈaɾ ˈum pɾonˈostiko a sˈinko ˈaɲos."
         },
         {
-          "text": "— The urban population will increase.",
+          "text": "— I am going to give a five-year forecast.",
           "segments": [
             {
-              "text": "— The urban population will increase.",
+              "text": "— I am going to give a five-year forecast.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ðɪ ˈɜːbən pˌɑːpjʊlˈeɪʃən wɪl ɪŋkɹˈiːs."
+          "phonemes": "— aɪɐm ɡˌoʊɪŋ tə ɡˈɪv ɐ fˈaɪvjˈɪɹ fˈɔːɹkæst."
         },
         {
-          "text": "Seguiremos midiendo los resultados.",
+          "text": "Distingo entre evidencia y especulación.",
           "segments": [
             {
-              "text": "Seguiremos midiendo los resultados.",
+              "text": "Distingo entre evidencia y especulación.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "sˌeɣiɾˈemos miðjˈɛndo los rˌesultˈaðos."
+          "phonemes": "distˈiŋɡo ˌentɾe ˌeβiðˈɛnsja i ˌespekˌulasjˈon."
         },
         {
-          "text": "— We will continue measuring the results.",
+          "text": "— I distinguish between evidence and speculation.",
           "segments": [
             {
-              "text": "— We will continue measuring the results.",
+              "text": "— I distinguish between evidence and speculation.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— wiː wɪl kəntˈɪnjuː mˈɛʒɚɹɪŋ ðə ɹɪzˈʌlts."
+          "phonemes": "— aɪ dɪstˈɪŋɡwɪʃ bᵻtwˌiːn ˈɛvɪdəns ænd spˌɛkjʊlˈeɪʃən."
         },
         {
-          "text": "¿Dónde estará Marta ahora?",
+          "text": "Me comprometo a dos acciones concretas.",
           "segments": [
             {
-              "text": "¿Dónde estará Marta ahora?",
+              "text": "Me comprometo a dos acciones concretas.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "dˈonde ˌestaɾˈa mˈaɾta aˈoɾa?"
+          "phonemes": "me kˌompɾomˈeto a ðˈos aksjˈones konkɾˈetas."
         },
         {
-          "text": "— Where could Marta be now?",
+          "text": "— I commit to two concrete actions.",
           "segments": [
             {
-              "text": "— Where could Marta be now?",
+              "text": "— I commit to two concrete actions.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— wˌɛɹ kʊd mˈɑːɹɾə biː nˈaʊ?"
+          "phonemes": "— aɪ kəmˈɪt tə tˈuː kˈɑːŋkɹiːt ˈækʃənz."
         },
         {
-          "text": "Cuando termine el estudio, publicaremos los datos.",
+          "text": "Uso datos medibles cuando puedo.",
           "segments": [
             {
-              "text": "Cuando termine el estudio, publicaremos los datos.",
+              "text": "Uso datos medibles cuando puedo.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "kwˌando teɾmˈine el estˈuðjo, pˌuβlikaɾˈemos los ðˈatos."
+          "phonemes": "ˈuso ðˈatos meðˈiβles kwˌando pwˈeðo."
         },
         {
-          "text": "— When the study ends, we will publish the data.",
+          "text": "— I use measurable data when I can.",
           "segments": [
             {
-              "text": "— When the study ends, we will publish the data.",
+              "text": "— I use measurable data when I can.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— wˌɛn ðə stˈʌdi ˈɛndz, wiː wɪl pˈʌblɪʃ ðə dˈeɪɾə."
+          "phonemes": "— aɪ jˈuːz mˈɛʒɚɹəbəl dˈeɪɾə wɛn aɪ kˈæn."
         },
         {
-          "text": "Dentro de cinco años habrá nuevas opciones.",
+          "text": "Mi pronóstico es razonable, no exagerado.",
           "segments": [
             {
-              "text": "Dentro de cinco años habrá nuevas opciones.",
+              "text": "Mi pronóstico es razonable, no exagerado.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "dˈɛntɾo ðe sˈinko ˈaɲos aβɾˈa nwˈeβas opsjˈones."
+          "phonemes": "mi pɾonˈostiko ˈes rˌasonˈaβle, nˈo ˌeksaxeɾˈaðo."
         },
         {
-          "text": "— In five years there will be new options.",
+          "text": "— My forecast is reasonable, not exaggerated.",
           "segments": [
             {
-              "text": "— In five years there will be new options.",
+              "text": "— My forecast is reasonable, not exaggerated.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ɪn fˈaɪv jˈɪɹz ðɛɹ wɪl biː nˈuː ˈɑːpʃənz."
+          "phonemes": "— maɪ fˈɔːɹkæst ɪz ɹˈiːzənəbəl, nˌɑːt ɛɡzˈædʒɚɹˌeɪɾᵻd."
         }
       ]
     },
@@ -305,129 +305,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "el futuro",
+      "text": "el pronóstico a cinco años",
       "sentences": [
         {
-          "text": "el futuro",
+          "text": "el pronóstico a cinco años",
           "segments": [
             {
-              "text": "el futuro",
+              "text": "el pronóstico a cinco años",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el futˈuɾo"
+          "phonemes": "el pɾonˈostiko a sˈinko ˈaɲos"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "el cambio",
+      "text": "distinguir",
       "sentences": [
         {
-          "text": "el cambio",
+          "text": "distinguir",
           "segments": [
             {
-              "text": "el cambio",
+              "text": "distinguir",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el kˈambjo"
+          "phonemes": "dˌistiŋɡˈiɾ"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "aumentar",
+      "text": "comprometerse",
       "sentences": [
         {
-          "text": "aumentar",
+          "text": "comprometerse",
           "segments": [
             {
-              "text": "aumentar",
+              "text": "comprometerse",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˌaʊmentˈaɾ"
+          "phonemes": "kˌompɾometˈeɾse"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "disminuir",
+      "text": "la acción",
       "sentences": [
         {
-          "text": "disminuir",
+          "text": "la acción",
           "segments": [
             {
-              "text": "disminuir",
+              "text": "la acción",
               "lang": "es-419"
             }
           ],
-          "phonemes": "dˌisminwˈiɾ"
+          "phonemes": "la aksjˈon"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "lograr",
+      "text": "dos",
       "sentences": [
         {
-          "text": "lograr",
+          "text": "dos",
           "segments": [
             {
-              "text": "lograr",
+              "text": "dos",
               "lang": "es-419"
             }
           ],
-          "phonemes": "loɣɾˈaɾ"
+          "phonemes": "dˈos"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "seguir",
+      "text": "medible",
       "sentences": [
         {
-          "text": "seguir",
+          "text": "medible",
           "segments": [
             {
-              "text": "seguir",
+              "text": "medible",
               "lang": "es-419"
             }
           ],
-          "phonemes": "seɣˈiɾ"
+          "phonemes": "meðˈiβle"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "probablemente",
+      "text": "razonable",
       "sentences": [
         {
-          "text": "probablemente",
+          "text": "razonable",
           "segments": [
             {
-              "text": "probablemente",
+              "text": "razonable",
               "lang": "es-419"
             }
           ],
-          "phonemes": "pɾoβˈaβlemˈente"
+          "phonemes": "rˌasonˈaβle"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "dentro de",
+      "text": "exagerado",
       "sentences": [
         {
-          "text": "dentro de",
+          "text": "exagerado",
           "segments": [
             {
-              "text": "dentro de",
+              "text": "exagerado",
               "lang": "es-419"
             }
           ],
-          "phonemes": "dˈɛntɾo ðˈe"
+          "phonemes": "ˌeksaxeɾˈaðo"
         }
       ]
     }

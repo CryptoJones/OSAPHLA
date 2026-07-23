@@ -163,7 +163,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Lenguaje modelo. We're looking for someone who has experience. — Buscamos a alguien que tenga experiencia. I know the person who leads the project. — Conozco a la persona que dirige el proyecto. I need a place that is near the subway. — Necesito un lugar que esté cerca del metro. This is the issue that concerns me. — Este es el asunto que me preocupa. The author whose book won will speak. — Hablará la autora cuyo libro ganó.",
+      "text": "Lenguaje modelo. The organization is looking for someone who knows the region. — La organización busca a alguien que conozca la región. It needs someone who can start immediately. — Necesita a alguien que pueda comenzar de inmediato. It has already interviewed an ideal candidate. — Ya entrevistó a un candidato ideal. That candidate lived there for five years. — Ese candidato vivió allí cinco años. It keeps looking for more options. — Sigue buscando más opciones.",
       "sentences": [
         {
           "text": "Lenguaje modelo.",
@@ -176,104 +176,104 @@
           "phonemes": "leŋɡwˈaxe moðˈelo."
         },
         {
-          "text": "We're looking for someone who has experience.",
+          "text": "The organization is looking for someone who knows the region.",
           "segments": [
             {
-              "text": "We're looking for someone who has experience.",
+              "text": "The organization is looking for someone who knows the region.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wɪɹ lˈʊkɪŋ fɔːɹ sˈʌmwʌn hˌuː hɐz ɛkspˈiəɹɪəns."
+          "phonemes": "ðɪ ˌɔːɹɡɐnᵻzˈeɪʃən ɪz lˈʊkɪŋ fɔːɹ sˈʌmwʌn hˌuː nˈoʊz ðə ɹˈiːdʒən."
         },
         {
-          "text": "— Buscamos a alguien que tenga experiencia.",
+          "text": "— La organización busca a alguien que conozca la región.",
           "segments": [
             {
-              "text": "— Buscamos a alguien que tenga experiencia.",
+              "text": "— La organización busca a alguien que conozca la región.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— buskˈamos a ˈalɣjen ke tˈɛŋɡa ˌekspeɾjˈɛnsja."
+          "phonemes": "— la ˌoɾɣanˌisasjˈom bˈuska a ˈalɣjen ke konˈoska la rexjˈon."
         },
         {
-          "text": "I know the person who leads the project.",
+          "text": "It needs someone who can start immediately.",
           "segments": [
             {
-              "text": "I know the person who leads the project.",
+              "text": "It needs someone who can start immediately.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪ nˈoʊ ðə pˈɜːsən hˌuː lˈiːdz ðə pɹˈɑːdʒɛkt."
+          "phonemes": "ɪt nˈiːdz sˈʌmwʌn hˌuː kæn stˈɑːɹt ɪmˈiːdɪətli."
         },
         {
-          "text": "— Conozco a la persona que dirige el proyecto.",
+          "text": "— Necesita a alguien que pueda comenzar de inmediato.",
           "segments": [
             {
-              "text": "— Conozco a la persona que dirige el proyecto.",
+              "text": "— Necesita a alguien que pueda comenzar de inmediato.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— konˈosko a la peɾsˈona ke ðiɾˈixe el pɾoʝˈekto."
+          "phonemes": "— nˌesesˈita a ˈalɣjen ke pwˈeða kˌomensˈaɾ ðe ˌinmeðjˈato."
         },
         {
-          "text": "I need a place that is near the subway.",
+          "text": "It has already interviewed an ideal candidate.",
           "segments": [
             {
-              "text": "I need a place that is near the subway.",
+              "text": "It has already interviewed an ideal candidate.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪ nˈiːd ɐ plˈeɪs ðæt ɪz nˌɪɹ ðə sˈʌbweɪ."
+          "phonemes": "ɪt hɐz ɔːlɹˌɛdi ˈɪntɚvjˌuːd ɐn aɪdˈiəl kˈændᵻdˌeɪt."
         },
         {
-          "text": "— Necesito un lugar que esté cerca del metro.",
+          "text": "— Ya entrevistó a un candidato ideal.",
           "segments": [
             {
-              "text": "— Necesito un lugar que esté cerca del metro.",
+              "text": "— Ya entrevistó a un candidato ideal.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— nˌesesˈito ˈun luɣˈaɾ ke estˈe sˈeɾka ðel mˈetɾo."
+          "phonemes": "— ʝˈa ˌentɾeβistˈo a ˈun kˌandiðˈato ˌiðeˈal."
         },
         {
-          "text": "This is the issue that concerns me.",
+          "text": "That candidate lived there for five years.",
           "segments": [
             {
-              "text": "This is the issue that concerns me.",
+              "text": "That candidate lived there for five years.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðɪs ɪz ðɪ ˈɪʃuː ðæt kənsˈɜːnz mˌiː."
+          "phonemes": "ðæt kˈændᵻdˌeɪt lˈɪvd ðɛɹ fɔːɹ fˈaɪv jˈɪɹz."
         },
         {
-          "text": "— Este es el asunto que me preocupa.",
+          "text": "— Ese candidato vivió allí cinco años.",
           "segments": [
             {
-              "text": "— Este es el asunto que me preocupa.",
+              "text": "— Ese candidato vivió allí cinco años.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— ˈeste ˈes el asˈunto ke me pɾˌeokˈupa."
+          "phonemes": "— ˈese kˌandiðˈato βiβjˈo ajjˈi sˈinko ˈaɲos."
         },
         {
-          "text": "The author whose book won will speak.",
+          "text": "It keeps looking for more options.",
           "segments": [
             {
-              "text": "The author whose book won will speak.",
+              "text": "It keeps looking for more options.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðɪ ˈɔːθɚ hˌuːz bˈʊk wˈʌn wɪl spˈiːk."
+          "phonemes": "ɪt kˈiːps lˈʊkɪŋ fɔːɹ mˈɔːɹ ˈɑːpʃənz."
         },
         {
-          "text": "— Hablará la autora cuyo libro ganó.",
+          "text": "— Sigue buscando más opciones.",
           "segments": [
             {
-              "text": "— Hablará la autora cuyo libro ganó.",
+              "text": "— Sigue buscando más opciones.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— ˌaβlaɾˈa la aʊtˈoɾa kˈuʝo lˈiβɾo ɣanˈo."
+          "phonemes": "— sˈiɣe βuskˈando mˈas opsjˈones."
         }
       ]
     },
@@ -325,129 +325,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "who",
+      "text": "an organization",
       "sentences": [
         {
-          "text": "who",
+          "text": "an organization",
           "segments": [
             {
-              "text": "who",
+              "text": "an organization",
               "lang": "en-us"
             }
           ],
-          "phonemes": "hˈuː"
+          "phonemes": "ɐn ˌɔːɹɡɐnᵻzˈeɪʃən"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "which",
+      "text": "to know the region",
       "sentences": [
         {
-          "text": "which",
+          "text": "to know the region",
           "segments": [
             {
-              "text": "which",
+              "text": "to know the region",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wˈɪtʃ"
+          "phonemes": "tə nˈoʊ ðə ɹˈiːdʒən"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "that",
+      "text": "to start immediately",
       "sentences": [
         {
-          "text": "that",
+          "text": "to start immediately",
           "segments": [
             {
-              "text": "that",
+              "text": "to start immediately",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðˈæt"
+          "phonemes": "tə stˈɑːɹt ɪmˈiːdɪətli"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "whose",
+      "text": "to interview",
       "sentences": [
         {
-          "text": "whose",
+          "text": "to interview",
           "segments": [
             {
-              "text": "whose",
+              "text": "to interview",
               "lang": "en-us"
             }
           ],
-          "phonemes": "hˌuːz"
+          "phonemes": "tʊ ˈɪntɚvjˌuː"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "a requirement",
+      "text": "to live",
       "sentences": [
         {
-          "text": "a requirement",
+          "text": "to live",
           "segments": [
             {
-              "text": "a requirement",
+              "text": "to live",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ ɹᵻkwˈaɪɚmənt"
+          "phonemes": "tə lˈɪv"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "a candidate",
+      "text": "five years",
       "sentences": [
         {
-          "text": "a candidate",
+          "text": "five years",
           "segments": [
             {
-              "text": "a candidate",
+              "text": "five years",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ kˈændᵻdˌeɪt"
+          "phonemes": "fˈaɪv jˈɪɹz"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "experience",
+      "text": "ideal candidate",
       "sentences": [
         {
-          "text": "experience",
+          "text": "ideal candidate",
           "segments": [
             {
-              "text": "experience",
+              "text": "ideal candidate",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɛkspˈiəɹɪəns"
+          "phonemes": "aɪdˈiəl kˈændᵻdˌeɪt"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "available",
+      "text": "to look for",
       "sentences": [
         {
-          "text": "available",
+          "text": "to look for",
           "segments": [
             {
-              "text": "available",
+              "text": "to look for",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐvˈeɪləbəl"
+          "phonemes": "tə lˈʊk fɔːɹ"
         }
       ]
     }

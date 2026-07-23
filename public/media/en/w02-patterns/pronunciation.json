@@ -29,7 +29,7 @@
     },
     {
       "file": "01.wav",
-      "text": "Forma y significado. Pronombres sujeto, presente de be, contracciones, negación y preguntas de sí o no.",
+      "text": "Forma y significado. Aplicación de la forma. Usa contracciones con be (I'm, you're, isn't) y coloca not después de am/is/are para formar la negación.",
       "sentences": [
         {
           "text": "Forma y significado.",
@@ -42,10 +42,20 @@
           "phonemes": "fˈoɾma i sˌiɡnifikˈaðo."
         },
         {
-          "text": "Pronombres sujeto, presente de be, contracciones, negación y preguntas de sí o no.",
+          "text": "Aplicación de la forma.",
           "segments": [
             {
-              "text": "Pronombres sujeto, presente de ",
+              "text": "Aplicación de la forma.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˌaplikasjˈon de la fˈoɾma."
+        },
+        {
+          "text": "Usa contracciones con be (I'm, you're, isn't) y coloca not después de am/is/are para formar la negación.",
+          "segments": [
+            {
+              "text": "Usa contracciones con ",
               "lang": "es-419"
             },
             {
@@ -53,17 +63,49 @@
               "lang": "en-us"
             },
             {
-              "text": ", contracciones, negación y preguntas de sí o no.",
+              "text": " (",
+              "lang": "es-419"
+            },
+            {
+              "text": "I",
+              "lang": "en-us"
+            },
+            {
+              "text": "'m, ",
+              "lang": "es-419"
+            },
+            {
+              "text": "you",
+              "lang": "en-us"
+            },
+            {
+              "text": "'re, isn't) y coloca ",
+              "lang": "es-419"
+            },
+            {
+              "text": "not",
+              "lang": "en-us"
+            },
+            {
+              "text": " después de am/",
+              "lang": "es-419"
+            },
+            {
+              "text": "is",
+              "lang": "en-us"
+            },
+            {
+              "text": "/are para formar la negación.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "pɾonˈombɾes suxˈeto, pɾesˈɛnte ðˈe bˈiː , kˌontɾaksjˈones, nˌeɣasjˈon i pɾeɣˈuntas ðe sˈi o nˈo."
+          "phonemes": "ˈusa kˌontɾaksjˈones kˈon bˈiː ( ˈaɪ ˈɛme, juː rˈe, ˈisnt) i kolˈoka nˈɑːt despwˈes ðe ˈam bˈara ɪz bˈara ˈaɾe pˌaɾa foɾmˈaɾ la nˌeɣasjˈon."
         }
       ]
     },
     {
       "file": "02.wav",
-      "text": "Conjunto de modelos. Hello, I'm Alex. Nice to meet you, Ms. Rivera. What's your name? This is my classmate, Jordan. See you tomorrow. Have a good day. Hola, soy Alex. Mucho gusto, señora Rivera. ¿Cómo te llamas? Esta persona es Jordan, mi colega de clase. Nos vemos mañana. Que tengas un buen día.",
+      "text": "Conjunto de modelos. I'm new here. Are you from here? He isn't the manager. We're classmates. Is she the new student? Soy nueva aquí. ¿Eres de aquí? Él no es el gerente. Somos compañeros de clase. ¿Es ella la nueva estudiante?",
       "sentences": [
         {
           "text": "Conjunto de modelos.",
@@ -76,138 +118,104 @@
           "phonemes": "koŋxˈunto ðe moðˈelos."
         },
         {
-          "text": "Hello, I'm Alex.",
+          "text": "I'm new here.",
           "segments": [
             {
-              "text": "Hello, I'm Alex.",
+              "text": "I'm new here.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "həlˈoʊ, aɪm ˈælɪks."
+          "phonemes": "aɪm nˈuː hˈɪɹ."
         },
         {
-          "text": "Nice to meet you, Ms.",
+          "text": "Are you from here?",
           "segments": [
             {
-              "text": "Nice to meet you, Ms.",
+              "text": "Are you from here?",
               "lang": "en-us"
             }
           ],
-          "phonemes": "nˈaɪs tə mˈiːt juː, ˌɛmˈɛs."
+          "phonemes": "ɑːɹ juː fɹʌm hˈɪɹ?"
         },
         {
-          "text": "Rivera.",
+          "text": "He isn't the manager.",
           "segments": [
             {
-              "text": "Rivera.",
+              "text": "He isn't the manager.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɹɪvˈɛɹə."
+          "phonemes": "hiː ˌɪzənt ðə mˈænɪdʒɚ."
         },
         {
-          "text": "What's your name?",
+          "text": "We're classmates.",
           "segments": [
             {
-              "text": "What's your name?",
+              "text": "We're classmates.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wˌʌts jʊɹ nˈeɪm?"
+          "phonemes": "wɪɹ klˈæsmeɪts."
         },
         {
-          "text": "This is my classmate, Jordan.",
+          "text": "Is she the new student?",
           "segments": [
             {
-              "text": "This is my classmate, Jordan.",
+              "text": "Is she the new student?",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðɪs ɪz maɪ klˈæsmeɪt, dʒˈɔːɹdən."
+          "phonemes": "ɪz ʃiː ðə nˈuː stˈuːdənt?"
         },
         {
-          "text": "See you tomorrow.",
+          "text": "Soy nueva aquí.",
           "segments": [
             {
-              "text": "See you tomorrow.",
-              "lang": "en-us"
-            }
-          ],
-          "phonemes": "sˈiː juː təmˈɑːɹoʊ."
-        },
-        {
-          "text": "Have a good day.",
-          "segments": [
-            {
-              "text": "Have a good day.",
-              "lang": "en-us"
-            }
-          ],
-          "phonemes": "hæv ɐ ɡˈʊd dˈeɪ."
-        },
-        {
-          "text": "Hola, soy Alex.",
-          "segments": [
-            {
-              "text": "Hola, soy Alex.",
+              "text": "Soy nueva aquí.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˈola, sˈoɪ alˈeks."
+          "phonemes": "sˈoɪ nwˈeβa akˈi."
         },
         {
-          "text": "Mucho gusto, señora Rivera.",
+          "text": "¿Eres de aquí?",
           "segments": [
             {
-              "text": "Mucho gusto, señora ",
-              "lang": "es-419"
-            },
-            {
-              "text": "Rivera.",
-              "lang": "en-us"
-            }
-          ],
-          "phonemes": "mˈutʃo ɣˈusto, seɲˈoɾa ɹɪvˈɛɹə."
-        },
-        {
-          "text": "¿Cómo te llamas?",
-          "segments": [
-            {
-              "text": "¿Cómo te llamas?",
+              "text": "¿Eres de aquí?",
               "lang": "es-419"
             }
           ],
-          "phonemes": "kˈomo te ʝˈamas?"
+          "phonemes": "ˈeɾes ðe akˈi?"
         },
         {
-          "text": "Esta persona es Jordan, mi colega de clase.",
+          "text": "Él no es el gerente.",
           "segments": [
             {
-              "text": "Esta persona es Jordan, mi colega de clase.",
+              "text": "Él no es el gerente.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˈesta peɾsˈona ˈes xˈoɾðan, mi kolˈeɣa ðe klˈase."
+          "phonemes": "ˈel nˈo ˈes el xeɾˈɛnte."
         },
         {
-          "text": "Nos vemos mañana.",
+          "text": "Somos compañeros de clase.",
           "segments": [
             {
-              "text": "Nos vemos mañana.",
+              "text": "Somos compañeros de clase.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "nos βˈemos maɲˈana."
+          "phonemes": "sˈomos kˌompaɲˈeɾos ðe klˈase."
         },
         {
-          "text": "Que tengas un buen día.",
+          "text": "¿Es ella la nueva estudiante?",
           "segments": [
             {
-              "text": "Que tengas un buen día.",
+              "text": "¿Es ella la nueva estudiante?",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ke tˈɛŋɡas ˈum bwˈen dˈia."
+          "phonemes": "ˈes ˈejja la nwˈeβa ˌestuðjˈante?"
         }
       ]
     },
@@ -275,7 +283,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Lenguaje modelo. Hello, I'm Alex. — Hola, soy Alex. Nice to meet you, Ms. Rivera. — Mucho gusto, señora Rivera. What's your name? — ¿Cómo te llamas? This is my classmate, Jordan. — Esta persona es Jordan, mi colega de clase. See you tomorrow. Have a good day. — Nos vemos mañana. Que tengas un buen día.",
+      "text": "Lenguaje modelo. I'm new here. — Soy nueva aquí. Are you from here? — ¿Eres de aquí? He isn't the manager. — Él no es el gerente. We're classmates. — Somos compañeros de clase. Is she the new student? — ¿Es ella la nueva estudiante?",
       "sentences": [
         {
           "text": "Lenguaje modelo.",
@@ -288,138 +296,104 @@
           "phonemes": "leŋɡwˈaxe moðˈelo."
         },
         {
-          "text": "Hello, I'm Alex.",
+          "text": "I'm new here.",
           "segments": [
             {
-              "text": "Hello, I'm Alex.",
+              "text": "I'm new here.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "həlˈoʊ, aɪm ˈælɪks."
+          "phonemes": "aɪm nˈuː hˈɪɹ."
         },
         {
-          "text": "— Hola, soy Alex.",
+          "text": "— Soy nueva aquí.",
           "segments": [
             {
-              "text": "— Hola, soy Alex.",
+              "text": "— Soy nueva aquí.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— ˈola, sˈoɪ alˈeks."
+          "phonemes": "— sˈoɪ nwˈeβa akˈi."
         },
         {
-          "text": "Nice to meet you, Ms.",
+          "text": "Are you from here?",
           "segments": [
             {
-              "text": "Nice to meet you, Ms.",
+              "text": "Are you from here?",
               "lang": "en-us"
             }
           ],
-          "phonemes": "nˈaɪs tə mˈiːt juː, ˌɛmˈɛs."
+          "phonemes": "ɑːɹ juː fɹʌm hˈɪɹ?"
         },
         {
-          "text": "Rivera.",
+          "text": "— ¿Eres de aquí?",
           "segments": [
             {
-              "text": "Rivera.",
-              "lang": "en-us"
-            }
-          ],
-          "phonemes": "ɹɪvˈɛɹə."
-        },
-        {
-          "text": "— Mucho gusto, señora Rivera.",
-          "segments": [
-            {
-              "text": "— Mucho gusto, señora ",
-              "lang": "es-419"
-            },
-            {
-              "text": "Rivera.",
-              "lang": "en-us"
-            }
-          ],
-          "phonemes": "— mˈutʃo ɣˈusto, seɲˈoɾa ɹɪvˈɛɹə."
-        },
-        {
-          "text": "What's your name?",
-          "segments": [
-            {
-              "text": "What's your name?",
-              "lang": "en-us"
-            }
-          ],
-          "phonemes": "wˌʌts jʊɹ nˈeɪm?"
-        },
-        {
-          "text": "— ¿Cómo te llamas?",
-          "segments": [
-            {
-              "text": "— ¿Cómo te llamas?",
+              "text": "— ¿Eres de aquí?",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— kˈomo te ʝˈamas?"
+          "phonemes": "— ˈeɾes ðe akˈi?"
         },
         {
-          "text": "This is my classmate, Jordan.",
+          "text": "He isn't the manager.",
           "segments": [
             {
-              "text": "This is my classmate, Jordan.",
+              "text": "He isn't the manager.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðɪs ɪz maɪ klˈæsmeɪt, dʒˈɔːɹdən."
+          "phonemes": "hiː ˌɪzənt ðə mˈænɪdʒɚ."
         },
         {
-          "text": "— Esta persona es Jordan, mi colega de clase.",
+          "text": "— Él no es el gerente.",
           "segments": [
             {
-              "text": "— Esta persona es Jordan, mi colega de clase.",
+              "text": "— Él no es el gerente.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— ˈesta peɾsˈona ˈes xˈoɾðan, mi kolˈeɣa ðe klˈase."
+          "phonemes": "— ˈel nˈo ˈes el xeɾˈɛnte."
         },
         {
-          "text": "See you tomorrow.",
+          "text": "We're classmates.",
           "segments": [
             {
-              "text": "See you tomorrow.",
+              "text": "We're classmates.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "sˈiː juː təmˈɑːɹoʊ."
+          "phonemes": "wɪɹ klˈæsmeɪts."
         },
         {
-          "text": "Have a good day.",
+          "text": "— Somos compañeros de clase.",
           "segments": [
             {
-              "text": "Have a good day.",
+              "text": "— Somos compañeros de clase.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— sˈomos kˌompaɲˈeɾos ðe klˈase."
+        },
+        {
+          "text": "Is she the new student?",
+          "segments": [
+            {
+              "text": "Is she the new student?",
               "lang": "en-us"
             }
           ],
-          "phonemes": "hæv ɐ ɡˈʊd dˈeɪ."
+          "phonemes": "ɪz ʃiː ðə nˈuː stˈuːdənt?"
         },
         {
-          "text": "— Nos vemos mañana.",
+          "text": "— ¿Es ella la nueva estudiante?",
           "segments": [
             {
-              "text": "— Nos vemos mañana.",
+              "text": "— ¿Es ella la nueva estudiante?",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— nos βˈemos maɲˈana."
-        },
-        {
-          "text": "Que tengas un buen día.",
-          "segments": [
-            {
-              "text": "Que tengas un buen día.",
-              "lang": "es-419"
-            }
-          ],
-          "phonemes": "ke tˈɛŋɡas ˈum bwˈen dˈia."
+          "phonemes": "— ˈes ˈejja la nwˈeβa ˌestuðjˈante?"
         }
       ]
     },
@@ -471,129 +445,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "hello",
+      "text": "I",
       "sentences": [
         {
-          "text": "hello",
+          "text": "I",
           "segments": [
             {
-              "text": "hello",
+              "text": "I",
               "lang": "en-us"
             }
           ],
-          "phonemes": "həlˈoʊ"
+          "phonemes": "ˈaɪ"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "good morning",
+      "text": "you",
       "sentences": [
         {
-          "text": "good morning",
+          "text": "you",
           "segments": [
             {
-              "text": "good morning",
+              "text": "you",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɡˈʊd mˈɔːɹnɪŋ"
+          "phonemes": "juː"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "good evening",
+      "text": "he",
       "sentences": [
         {
-          "text": "good evening",
+          "text": "he",
           "segments": [
             {
-              "text": "good evening",
+              "text": "he",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɡˈʊd ˈiːvnɪŋ"
+          "phonemes": "hiː"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "goodbye",
+      "text": "she",
       "sentences": [
         {
-          "text": "goodbye",
+          "text": "she",
           "segments": [
             {
-              "text": "goodbye",
+              "text": "she",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɡʊdbˈaɪ"
+          "phonemes": "ʃiː"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "please",
+      "text": "we",
       "sentences": [
         {
-          "text": "please",
+          "text": "we",
           "segments": [
             {
-              "text": "please",
+              "text": "we",
               "lang": "en-us"
             }
           ],
-          "phonemes": "plˈiːz"
+          "phonemes": "wiː"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "thank you",
+      "text": "to be",
       "sentences": [
         {
-          "text": "thank you",
+          "text": "to be",
           "segments": [
             {
-              "text": "thank you",
+              "text": "to be",
               "lang": "en-us"
             }
           ],
-          "phonemes": "θˈæŋk juː"
+          "phonemes": "tə bˈiː"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "nice to meet you",
+      "text": "not",
       "sentences": [
         {
-          "text": "nice to meet you",
+          "text": "not",
           "segments": [
             {
-              "text": "nice to meet you",
+              "text": "not",
               "lang": "en-us"
             }
           ],
-          "phonemes": "nˈaɪs tə mˈiːt juː"
+          "phonemes": "nˈɑːt"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "What is your name?",
+      "text": "Are you...?",
       "sentences": [
         {
-          "text": "What is your name?",
+          "text": "Are you...?",
           "segments": [
             {
-              "text": "What is your name?",
+              "text": "Are you...?",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wˌʌt ɪz jʊɹ nˈeɪm?"
+          "phonemes": "ɑːɹ juː...?"
         }
       ]
     }

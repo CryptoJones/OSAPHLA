@@ -163,7 +163,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Model language. Hay un libro sobre la mesa. — There is a book on the table. ¿Qué es esto? — What is this? Es una pregunta importante. — It is an important question. Abran los cuadernos, por favor. — Open your notebooks, please. Las respuestas están en la página diez. — The answers are on page ten.",
+      "text": "Model language. El horario cambia según el país. — The schedule changes by country. Las notas se explican de forma distinta. — Grades are explained differently. Los estudiantes se dirigen al profesor con respeto. — Students address the teacher respectfully. Cada sistema educativo tiene sus propias normas. — Each education system has its own norms. Usar un tono respetuoso es importante. — Using a respectful tone matters.",
       "sentences": [
         {
           "text": "Model language.",
@@ -176,104 +176,104 @@
           "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
         },
         {
-          "text": "Hay un libro sobre la mesa.",
+          "text": "El horario cambia según el país.",
           "segments": [
             {
-              "text": "Hay un libro sobre la mesa.",
+              "text": "El horario cambia según el país.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˈaɪ ˈun lˈiβɾo sˌoβɾe la mˈesa."
+          "phonemes": "el oɾˈaɾjo kˈambja seɣˈun el paˈis."
         },
         {
-          "text": "— There is a book on the table.",
+          "text": "— The schedule changes by country.",
           "segments": [
             {
-              "text": "— There is a book on the table.",
+              "text": "— The schedule changes by country.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ðɛɹ ɪz ɐ bˈʊk ɔnðə tˈeɪbəl."
+          "phonemes": "— ðə skˈɛdʒuːl tʃˈeɪndʒᵻz baɪ kˈʌntɹi."
         },
         {
-          "text": "¿Qué es esto?",
+          "text": "Las notas se explican de forma distinta.",
           "segments": [
             {
-              "text": "¿Qué es esto?",
+              "text": "Las notas se explican de forma distinta.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "kˈe ˈes ˈesto?"
+          "phonemes": "las nˈotas se eksplˈikan de fˈoɾma ðistˈinta."
         },
         {
-          "text": "— What is this?",
+          "text": "— Grades are explained differently.",
           "segments": [
             {
-              "text": "— What is this?",
+              "text": "— Grades are explained differently.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— wˌʌt ɪz ðˈɪs?"
+          "phonemes": "— ɡɹˈeɪdz ɑːɹ ɛksplˈeɪnd dˈɪfɹəntli."
         },
         {
-          "text": "Es una pregunta importante.",
+          "text": "Los estudiantes se dirigen al profesor con respeto.",
           "segments": [
             {
-              "text": "Es una pregunta importante.",
+              "text": "Los estudiantes se dirigen al profesor con respeto.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˈes ˈuna pɾeɣˈunta ˌimpoɾtˈante."
+          "phonemes": "los ˌestuðjˈantes se ðiɾˈixen al pɾˌofesˈoɾ kon respˈeto."
         },
         {
-          "text": "— It is an important question.",
+          "text": "— Students address the teacher respectfully.",
           "segments": [
             {
-              "text": "— It is an important question.",
+              "text": "— Students address the teacher respectfully.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ɪɾ ɪz ɐn ɪmpˈɔːɹtənt kwˈɛstʃən."
+          "phonemes": "— stˈuːdənts ɐdɹˈɛs ðə tˈiːtʃɚ ɹᵻspˈɛktfəli."
         },
         {
-          "text": "Abran los cuadernos, por favor.",
+          "text": "Cada sistema educativo tiene sus propias normas.",
           "segments": [
             {
-              "text": "Abran los cuadernos, por favor.",
+              "text": "Cada sistema educativo tiene sus propias normas.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˈaβɾan los kwaðˈeɾnos, poɾ faβˈoɾ."
+          "phonemes": "kˈaða sistˈema ˌeðukatˈiβo tjˈene sus pɾˈopjas nˈoɾmas."
         },
         {
-          "text": "— Open your notebooks, please.",
+          "text": "— Each education system has its own norms.",
           "segments": [
             {
-              "text": "— Open your notebooks, please.",
+              "text": "— Each education system has its own norms.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ˈoʊpən jʊɹ nˈoʊtbʊks, plˈiːz."
+          "phonemes": "— ˈiːtʃ ˌɛdʒuːkˈeɪʃən sˈɪstəm hɐz ɪts ˈoʊn nˈɔːɹmz."
         },
         {
-          "text": "Las respuestas están en la página diez.",
+          "text": "Usar un tono respetuoso es importante.",
           "segments": [
             {
-              "text": "Las respuestas están en la página diez.",
+              "text": "Usar un tono respetuoso es importante.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "las respwˈestas estˈan en la pˈaxina ðjˈes."
+          "phonemes": "usˈaɾ ˈun tˈono rˌespetwˈoso ˈes ˌimpoɾtˈante."
         },
         {
-          "text": "— The answers are on page ten.",
+          "text": "— Using a respectful tone matters.",
           "segments": [
             {
-              "text": "— The answers are on page ten.",
+              "text": "— Using a respectful tone matters.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ðɪ ˈænsɚz ɑːɹ ˌɔn pˈeɪdʒ tˈɛn."
+          "phonemes": "— jˈuːzɪŋ ɐ ɹᵻspˈɛktfəl tˈoʊn mˈæɾɚz."
         }
       ]
     },
@@ -325,129 +325,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "el libro",
+      "text": "el horario",
       "sentences": [
         {
-          "text": "el libro",
+          "text": "el horario",
           "segments": [
             {
-              "text": "el libro",
+              "text": "el horario",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el lˈiβɾo"
+          "phonemes": "el oɾˈaɾjo"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "la mesa",
+      "text": "la nota",
       "sentences": [
         {
-          "text": "la mesa",
+          "text": "la nota",
           "segments": [
             {
-              "text": "la mesa",
+              "text": "la nota",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la mˈesa"
+          "phonemes": "la nˈota"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "la silla",
+      "text": "el profesor",
       "sentences": [
         {
-          "text": "la silla",
+          "text": "el profesor",
           "segments": [
             {
-              "text": "la silla",
+              "text": "el profesor",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la sˈijja"
+          "phonemes": "el pɾˌofesˈoɾ"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "el cuaderno",
+      "text": "el estudiante",
       "sentences": [
         {
-          "text": "el cuaderno",
+          "text": "el estudiante",
           "segments": [
             {
-              "text": "el cuaderno",
+              "text": "el estudiante",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el kwaðˈeɾno"
+          "phonemes": "el ˌestuðjˈante"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "la pregunta",
+      "text": "dirigirse a",
       "sentences": [
         {
-          "text": "la pregunta",
+          "text": "dirigirse a",
           "segments": [
             {
-              "text": "la pregunta",
+              "text": "dirigirse a",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la pɾeɣˈunta"
+          "phonemes": "dˌiɾixˈiɾse ˈa"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "la respuesta",
+      "text": "el sistema educativo",
       "sentences": [
         {
-          "text": "la respuesta",
+          "text": "el sistema educativo",
           "segments": [
             {
-              "text": "la respuesta",
+              "text": "el sistema educativo",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la respwˈesta"
+          "phonemes": "el sistˈema ˌeðukatˈiβo"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "abrir",
+      "text": "la calificación",
       "sentences": [
         {
-          "text": "abrir",
+          "text": "la calificación",
           "segments": [
             {
-              "text": "abrir",
+              "text": "la calificación",
               "lang": "es-419"
             }
           ],
-          "phonemes": "aβɾˈiɾ"
+          "phonemes": "la kˌalifˌikasjˈon"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "cerrar",
+      "text": "respetuoso",
       "sentences": [
         {
-          "text": "cerrar",
+          "text": "respetuoso",
           "segments": [
             {
-              "text": "cerrar",
+              "text": "respetuoso",
               "lang": "es-419"
             }
           ],
-          "phonemes": "serˈaɾ"
+          "phonemes": "rˌespetwˈoso"
         }
       ]
     }

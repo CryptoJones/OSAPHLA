@@ -183,7 +183,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Model language. Hay un libro sobre la mesa. — There is a book on the table. ¿Qué es esto? — What is this? Es una pregunta importante. — It is an important question. Abran los cuadernos, por favor. — Open your notebooks, please. Las respuestas están en la página diez. — The answers are on page ten.",
+      "text": "Model language. En el aula hay veinte sillas. — In the classroom there are twenty chairs. También hay diez mesas. — There are also ten tables. La profesora escribe una pregunta. — The teacher writes a question. Los estudiantes buscan la respuesta. — The students look for the answer. La encuentran en la página diez. — They find it on page ten.",
       "sentences": [
         {
           "text": "Model language.",
@@ -196,104 +196,104 @@
           "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
         },
         {
-          "text": "Hay un libro sobre la mesa.",
+          "text": "En el aula hay veinte sillas.",
           "segments": [
             {
-              "text": "Hay un libro sobre la mesa.",
+              "text": "En el aula hay veinte sillas.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˈaɪ ˈun lˈiβɾo sˌoβɾe la mˈesa."
+          "phonemes": "en el ˈaʊla ˈaɪ βˈeɪnte sˈijjas."
         },
         {
-          "text": "— There is a book on the table.",
+          "text": "— In the classroom there are twenty chairs.",
           "segments": [
             {
-              "text": "— There is a book on the table.",
+              "text": "— In the classroom there are twenty chairs.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ðɛɹ ɪz ɐ bˈʊk ɔnðə tˈeɪbəl."
+          "phonemes": "— ɪnðə klˈæsɹuːm ðɛɹˌɑːɹ twˈɛnti tʃˈɛɹz."
         },
         {
-          "text": "¿Qué es esto?",
+          "text": "También hay diez mesas.",
           "segments": [
             {
-              "text": "¿Qué es esto?",
+              "text": "También hay diez mesas.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "kˈe ˈes ˈesto?"
+          "phonemes": "tambjˈen ˈaɪ ðjˈes mˈesas."
         },
         {
-          "text": "— What is this?",
+          "text": "— There are also ten tables.",
           "segments": [
             {
-              "text": "— What is this?",
+              "text": "— There are also ten tables.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— wˌʌt ɪz ðˈɪs?"
+          "phonemes": "— ðɛɹˌɑːɹ ˈɔːlsoʊ tˈɛn tˈeɪbəlz."
         },
         {
-          "text": "Es una pregunta importante.",
+          "text": "La profesora escribe una pregunta.",
           "segments": [
             {
-              "text": "Es una pregunta importante.",
+              "text": "La profesora escribe una pregunta.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˈes ˈuna pɾeɣˈunta ˌimpoɾtˈante."
+          "phonemes": "la pɾˌofesˈoɾa eskɾˈiβe ˈuna pɾeɣˈunta."
         },
         {
-          "text": "— It is an important question.",
+          "text": "— The teacher writes a question.",
           "segments": [
             {
-              "text": "— It is an important question.",
+              "text": "— The teacher writes a question.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ɪɾ ɪz ɐn ɪmpˈɔːɹtənt kwˈɛstʃən."
+          "phonemes": "— ðə tˈiːtʃɚ ɹˈaɪts ɐ kwˈɛstʃən."
         },
         {
-          "text": "Abran los cuadernos, por favor.",
+          "text": "Los estudiantes buscan la respuesta.",
           "segments": [
             {
-              "text": "Abran los cuadernos, por favor.",
+              "text": "Los estudiantes buscan la respuesta.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˈaβɾan los kwaðˈeɾnos, poɾ faβˈoɾ."
+          "phonemes": "los ˌestuðjˈantes βˈuskan la respwˈesta."
         },
         {
-          "text": "— Open your notebooks, please.",
+          "text": "— The students look for the answer.",
           "segments": [
             {
-              "text": "— Open your notebooks, please.",
+              "text": "— The students look for the answer.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ˈoʊpən jʊɹ nˈoʊtbʊks, plˈiːz."
+          "phonemes": "— ðə stˈuːdənts lˈʊk fɚðɪ ˈænsɚ."
         },
         {
-          "text": "Las respuestas están en la página diez.",
+          "text": "La encuentran en la página diez.",
           "segments": [
             {
-              "text": "Las respuestas están en la página diez.",
+              "text": "La encuentran en la página diez.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "las respwˈestas estˈan en la pˈaxina ðjˈes."
+          "phonemes": "la enkwˈɛntɾan en la pˈaxina ðjˈes."
         },
         {
-          "text": "— The answers are on page ten.",
+          "text": "— They find it on page ten.",
           "segments": [
             {
-              "text": "— The answers are on page ten.",
+              "text": "— They find it on page ten.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ðɪ ˈænsɚz ɑːɹ ˌɔn pˈeɪdʒ tˈɛn."
+          "phonemes": "— ðeɪ fˈaɪnd ɪɾ ˌɔn pˈeɪdʒ tˈɛn."
         }
       ]
     },
@@ -345,129 +345,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "el libro",
+      "text": "el aula",
       "sentences": [
         {
-          "text": "el libro",
+          "text": "el aula",
           "segments": [
             {
-              "text": "el libro",
+              "text": "el aula",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el lˈiβɾo"
+          "phonemes": "el ˈaʊla"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "la mesa",
+      "text": "veinte",
       "sentences": [
         {
-          "text": "la mesa",
+          "text": "veinte",
           "segments": [
             {
-              "text": "la mesa",
+              "text": "veinte",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la mˈesa"
+          "phonemes": "bˈeɪnte"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "la silla",
+      "text": "diez",
       "sentences": [
         {
-          "text": "la silla",
+          "text": "diez",
           "segments": [
             {
-              "text": "la silla",
+              "text": "diez",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la sˈijja"
+          "phonemes": "djˈes"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "el cuaderno",
+      "text": "escribir",
       "sentences": [
         {
-          "text": "el cuaderno",
+          "text": "escribir",
           "segments": [
             {
-              "text": "el cuaderno",
+              "text": "escribir",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el kwaðˈeɾno"
+          "phonemes": "ˌeskɾiβˈiɾ"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "la pregunta",
+      "text": "buscar",
       "sentences": [
         {
-          "text": "la pregunta",
+          "text": "buscar",
           "segments": [
             {
-              "text": "la pregunta",
+              "text": "buscar",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la pɾeɣˈunta"
+          "phonemes": "buskˈaɾ"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "la respuesta",
+      "text": "encontrar",
       "sentences": [
         {
-          "text": "la respuesta",
+          "text": "encontrar",
           "segments": [
             {
-              "text": "la respuesta",
+              "text": "encontrar",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la respwˈesta"
+          "phonemes": "ˌenkontɾˈaɾ"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "abrir",
+      "text": "la página",
       "sentences": [
         {
-          "text": "abrir",
+          "text": "la página",
           "segments": [
             {
-              "text": "abrir",
+              "text": "la página",
               "lang": "es-419"
             }
           ],
-          "phonemes": "aβɾˈiɾ"
+          "phonemes": "la pˈaxina"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "cerrar",
+      "text": "la profesora",
       "sentences": [
         {
-          "text": "cerrar",
+          "text": "la profesora",
           "segments": [
             {
-              "text": "cerrar",
+              "text": "la profesora",
               "lang": "es-419"
             }
           ],
-          "phonemes": "serˈaɾ"
+          "phonemes": "la pɾˌofesˈoɾa"
         }
       ]
     }

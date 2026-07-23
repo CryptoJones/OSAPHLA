@@ -29,7 +29,7 @@
     },
     {
       "file": "01.wav",
-      "text": "Form and meaning. Adjective agreement and position; possessive adjectives and pronouns; tener; personal a.",
+      "text": "Form and meaning. Applying the form. Match variable adjectives to the noun's gender and number (alto/alta/altos/altas); adjectives ending in -e or most consonants keep one form for gender but still change for plural.",
       "sentences": [
         {
           "text": "Form and meaning.",
@@ -42,28 +42,38 @@
           "phonemes": "fˈɔːɹm ænd mˈiːnɪŋ."
         },
         {
-          "text": "Adjective agreement and position; possessive adjectives and pronouns; tener; personal a.",
+          "text": "Applying the form.",
           "segments": [
             {
-              "text": "Adjective agreement and position; possessive adjectives and pronouns; ",
-              "lang": "en-us"
-            },
-            {
-              "text": "tener",
-              "lang": "es-419"
-            },
-            {
-              "text": "; personal a.",
+              "text": "Applying the form.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ˈædʒɪktˌɪv ɐɡɹˈiːmənt ænd pəzˈɪʃən; pəzˈɛsɪv ˈædʒɪktˌɪvz ænd pɹˈoʊnaʊnz; tenˈeɾ ; pˈɜːsənəl ˈeɪ."
+          "phonemes": "ɐplˈaɪɪŋ ðə fˈɔːɹm."
+        },
+        {
+          "text": "Match variable adjectives to the noun's gender and number (alto/alta/altos/altas); adjectives ending in -e or most consonants keep one form for gender but still change for plural.",
+          "segments": [
+            {
+              "text": "Match variable adjectives to the noun's gender and number (",
+              "lang": "en-us"
+            },
+            {
+              "text": "alto/alta",
+              "lang": "es-419"
+            },
+            {
+              "text": "/altos/altas); adjectives ending in -e or most consonants keep one form for gender but still change for plural.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "mˈætʃ vˈɛɹɪəbəl ˈædʒɪktˌɪvz tə ðə nˈaʊnz dʒˈɛndɚ ænd nˈʌmbɚ ( ˈalto βˈara ˈalta slˈæʃ ˈæltoʊz slˈæʃ ˈɔːltəz); ˈædʒɪktˌɪvz ˈɛndɪŋ ɪn ˈiː ɔːɹ mˈoʊst kˈɑːnsənənts kˈiːp wˈʌn fˈɔːɹm fɔːɹ dʒˈɛndɚ bˌʌt stˈɪl tʃˈeɪndʒ fɔːɹ plˈʊɹɹəl."
         }
       ]
     },
     {
       "file": "02.wav",
-      "text": "Model set. Mi hermana mayor es muy amable. Conozco a los padres de Elena. Nuestra familia vive en tres ciudades. ¿Es suyo este retrato? Tengo dos hermanos y una prima. My older sister is very kind. I know Elena's parents. Our family lives in three cities. Is this portrait yours? I have two brothers and one female cousin.",
+      "text": "Model set. Mi amigo es alto y simpático. Mi amiga es alta y simpática. Los estudiantes son trabajadores. Las estudiantes son trabajadoras. Ella es inteligente y paciente. My friend is tall and nice. My friend is tall and nice. The students are hardworking. The students are hardworking. She is intelligent and patient.",
       "sentences": [
         {
           "text": "Model set.",
@@ -76,104 +86,104 @@
           "phonemes": "mˈɑːdəl sˈɛt."
         },
         {
-          "text": "Mi hermana mayor es muy amable.",
+          "text": "Mi amigo es alto y simpático.",
           "segments": [
             {
-              "text": "Mi hermana mayor es muy amable.",
+              "text": "Mi amigo es alto y simpático.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "mi eɾmˈana maʝˈoɾ ˈes mˈuj amˈaβle."
+          "phonemes": "mi amˈiɣo ˈes ˈalto i simpˈatiko."
         },
         {
-          "text": "Conozco a los padres de Elena.",
+          "text": "Mi amiga es alta y simpática.",
           "segments": [
             {
-              "text": "Conozco a los padres de Elena.",
+              "text": "Mi amiga es alta y simpática.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "konˈosko a los pˈaðɾes ðe elˈena."
+          "phonemes": "mi amˈiɣa ˈes ˈalta i simpˈatika."
         },
         {
-          "text": "Nuestra familia vive en tres ciudades.",
+          "text": "Los estudiantes son trabajadores.",
           "segments": [
             {
-              "text": "Nuestra familia vive en tres ciudades.",
+              "text": "Los estudiantes son trabajadores.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "nwˌestɾa famˈilja βˈiβe en tɾˈes sjuðˈaðes."
+          "phonemes": "los ˌestuðjˈantes sˈon tɾˌaβaxaðˈoɾes."
         },
         {
-          "text": "¿Es suyo este retrato?",
+          "text": "Las estudiantes son trabajadoras.",
           "segments": [
             {
-              "text": "¿Es suyo este retrato?",
+              "text": "Las estudiantes son trabajadoras.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˈes sˈuʝo ˈeste retɾˈato?"
+          "phonemes": "las ˌestuðjˈantes sˈon tɾˌaβaxaðˈoɾas."
         },
         {
-          "text": "Tengo dos hermanos y una prima.",
+          "text": "Ella es inteligente y paciente.",
           "segments": [
             {
-              "text": "Tengo dos hermanos y una prima.",
+              "text": "Ella es inteligente y paciente.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "tˈɛŋɡo ðˈos eɾmˈanos i ˈuna pɾˈima."
+          "phonemes": "ˈejja ˈes ˌintelixˈɛnte i pasjˈɛnte."
         },
         {
-          "text": "My older sister is very kind.",
+          "text": "My friend is tall and nice.",
           "segments": [
             {
-              "text": "My older sister is very kind.",
+              "text": "My friend is tall and nice.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "maɪ ˈoʊldɚ sˈɪstɚɹ ɪz vˈɛɹi kˈaɪnd."
+          "phonemes": "maɪ fɹˈɛnd ɪz tˈɔːl ænd nˈaɪs."
         },
         {
-          "text": "I know Elena's parents.",
+          "text": "My friend is tall and nice.",
           "segments": [
             {
-              "text": "I know Elena's parents.",
+              "text": "My friend is tall and nice.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪ nˈoʊ ᵻlˈiːnəz pˈɛɹənts."
+          "phonemes": "maɪ fɹˈɛnd ɪz tˈɔːl ænd nˈaɪs."
         },
         {
-          "text": "Our family lives in three cities.",
+          "text": "The students are hardworking.",
           "segments": [
             {
-              "text": "Our family lives in three cities.",
+              "text": "The students are hardworking.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ˌaʊɚ fˈæmɪli lˈaɪvz ɪn θɹˈiː sˈɪɾiz."
+          "phonemes": "ðə stˈuːdənts ɑːɹ hˈɑːɹdwɜːkɪŋ."
         },
         {
-          "text": "Is this portrait yours?",
+          "text": "The students are hardworking.",
           "segments": [
             {
-              "text": "Is this portrait yours?",
+              "text": "The students are hardworking.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɪz ðɪs pˈɔːɹtɹɪt jˈɔːɹz?"
+          "phonemes": "ðə stˈuːdənts ɑːɹ hˈɑːɹdwɜːkɪŋ."
         },
         {
-          "text": "I have two brothers and one female cousin.",
+          "text": "She is intelligent and patient.",
           "segments": [
             {
-              "text": "I have two brothers and one female cousin.",
+              "text": "She is intelligent and patient.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪ hæv tˈuː bɹˈʌðɚz ænd wˈʌn fˈiːmeɪl kˈʌzən."
+          "phonemes": "ʃiː ɪz ɪntˈɛlɪdʒənt ænd pˈeɪʃənt."
         }
       ]
     },
@@ -303,27 +313,11 @@
           "text": "Adjectives ending in -e or many consonants commonly keep one singular form: un amigo amable and una amiga amable.",
           "segments": [
             {
-              "text": "Adjectives ending in -e or many consonants commonly keep one singular form: un amigo ",
-              "lang": "en-us"
-            },
-            {
-              "text": "amable",
-              "lang": "es-419"
-            },
-            {
-              "text": " and una amiga ",
-              "lang": "en-us"
-            },
-            {
-              "text": "amable",
-              "lang": "es-419"
-            },
-            {
-              "text": ".",
+              "text": "Adjectives ending in -e or many consonants commonly keep one singular form: un amigo amable and una amiga amable.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ˈædʒɪktˌɪvz ˈɛndɪŋ ɪn ˈiː ɔːɹ mˈɛni kˈɑːnsənənts kˈɑːmənli kˈiːp wˈʌn sˈɪŋɡjʊlɚ fˈɔːɹm: ˈʌn ɐmˈiːɡoʊ amˈaβle ænd jˈuːnə ɐmˈiːɡə amˈaβle ."
+          "phonemes": "ˈædʒɪktˌɪvz ˈɛndɪŋ ɪn ˈiː ɔːɹ mˈɛni kˈɑːnsənənts kˈɑːmənli kˈiːp wˈʌn sˈɪŋɡjʊlɚ fˈɔːɹm: ˈʌn ɐmˈiːɡoʊ ˈeɪməbəl ænd jˈuːnə ɐmˈiːɡə ˈeɪməbəl."
         },
         {
           "text": "They still change for plural number: amigos amables, amigas amables.",
@@ -385,7 +379,7 @@
     },
     {
       "file": "08.wav",
-      "text": "Model language. Mi hermana mayor es muy amable. — My older sister is very kind. Conozco a los padres de Elena. — I know Elena's parents. Nuestra familia vive en tres ciudades. — Our family lives in three cities. ¿Es suyo este retrato? — Is this portrait yours? Tengo dos hermanos y una prima. — I have two brothers and one female cousin.",
+      "text": "Model language. Mi amigo es alto y simpático. — My friend is tall and nice. Mi amiga es alta y simpática. — My friend is tall and nice. Los estudiantes son trabajadores. — The students are hardworking. Las estudiantes son trabajadoras. — The students are hardworking. Ella es inteligente y paciente. — She is intelligent and patient.",
       "sentences": [
         {
           "text": "Model language.",
@@ -398,104 +392,104 @@
           "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
         },
         {
-          "text": "Mi hermana mayor es muy amable.",
+          "text": "Mi amigo es alto y simpático.",
           "segments": [
             {
-              "text": "Mi hermana mayor es muy amable.",
+              "text": "Mi amigo es alto y simpático.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "mi eɾmˈana maʝˈoɾ ˈes mˈuj amˈaβle."
+          "phonemes": "mi amˈiɣo ˈes ˈalto i simpˈatiko."
         },
         {
-          "text": "— My older sister is very kind.",
+          "text": "— My friend is tall and nice.",
           "segments": [
             {
-              "text": "— My older sister is very kind.",
+              "text": "— My friend is tall and nice.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— maɪ ˈoʊldɚ sˈɪstɚɹ ɪz vˈɛɹi kˈaɪnd."
+          "phonemes": "— maɪ fɹˈɛnd ɪz tˈɔːl ænd nˈaɪs."
         },
         {
-          "text": "Conozco a los padres de Elena.",
+          "text": "Mi amiga es alta y simpática.",
           "segments": [
             {
-              "text": "Conozco a los padres de Elena.",
+              "text": "Mi amiga es alta y simpática.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "konˈosko a los pˈaðɾes ðe elˈena."
+          "phonemes": "mi amˈiɣa ˈes ˈalta i simpˈatika."
         },
         {
-          "text": "— I know Elena's parents.",
+          "text": "— My friend is tall and nice.",
           "segments": [
             {
-              "text": "— I know Elena's parents.",
+              "text": "— My friend is tall and nice.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— aɪ nˈoʊ ᵻlˈiːnəz pˈɛɹənts."
+          "phonemes": "— maɪ fɹˈɛnd ɪz tˈɔːl ænd nˈaɪs."
         },
         {
-          "text": "Nuestra familia vive en tres ciudades.",
+          "text": "Los estudiantes son trabajadores.",
           "segments": [
             {
-              "text": "Nuestra familia vive en tres ciudades.",
+              "text": "Los estudiantes son trabajadores.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "nwˌestɾa famˈilja βˈiβe en tɾˈes sjuðˈaðes."
+          "phonemes": "los ˌestuðjˈantes sˈon tɾˌaβaxaðˈoɾes."
         },
         {
-          "text": "— Our family lives in three cities.",
+          "text": "— The students are hardworking.",
           "segments": [
             {
-              "text": "— Our family lives in three cities.",
+              "text": "— The students are hardworking.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ˌaʊɚ fˈæmɪli lˈaɪvz ɪn θɹˈiː sˈɪɾiz."
+          "phonemes": "— ðə stˈuːdənts ɑːɹ hˈɑːɹdwɜːkɪŋ."
         },
         {
-          "text": "¿Es suyo este retrato?",
+          "text": "Las estudiantes son trabajadoras.",
           "segments": [
             {
-              "text": "¿Es suyo este retrato?",
+              "text": "Las estudiantes son trabajadoras.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˈes sˈuʝo ˈeste retɾˈato?"
+          "phonemes": "las ˌestuðjˈantes sˈon tɾˌaβaxaðˈoɾas."
         },
         {
-          "text": "— Is this portrait yours?",
+          "text": "— The students are hardworking.",
           "segments": [
             {
-              "text": "— Is this portrait yours?",
+              "text": "— The students are hardworking.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ɪz ðɪs pˈɔːɹtɹɪt jˈɔːɹz?"
+          "phonemes": "— ðə stˈuːdənts ɑːɹ hˈɑːɹdwɜːkɪŋ."
         },
         {
-          "text": "Tengo dos hermanos y una prima.",
+          "text": "Ella es inteligente y paciente.",
           "segments": [
             {
-              "text": "Tengo dos hermanos y una prima.",
+              "text": "Ella es inteligente y paciente.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "tˈɛŋɡo ðˈos eɾmˈanos i ˈuna pɾˈima."
+          "phonemes": "ˈejja ˈes ˌintelixˈɛnte i pasjˈɛnte."
         },
         {
-          "text": "— I have two brothers and one female cousin.",
+          "text": "— She is intelligent and patient.",
           "segments": [
             {
-              "text": "— I have two brothers and one female cousin.",
+              "text": "— She is intelligent and patient.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— aɪ hæv tˈuː bɹˈʌðɚz ænd wˈʌn fˈiːmeɪl kˈʌzən."
+          "phonemes": "— ʃiː ɪz ɪntˈɛlɪdʒənt ænd pˈeɪʃənt."
         }
       ]
     },
@@ -547,129 +541,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "la familia",
+      "text": "alto/alta",
       "sentences": [
         {
-          "text": "la familia",
+          "text": "alto/alta",
           "segments": [
             {
-              "text": "la familia",
+              "text": "alto/alta",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la famˈilja"
+          "phonemes": "ˈalto βˈara ˈalta"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "la madre",
+      "text": "bajo/baja",
       "sentences": [
         {
-          "text": "la madre",
+          "text": "bajo/baja",
           "segments": [
             {
-              "text": "la madre",
+              "text": "bajo/baja",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la mˈaðɾe"
+          "phonemes": "bˌaxo βˈara βˈaxa"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "el padre",
+      "text": "simpático/simpática",
       "sentences": [
         {
-          "text": "el padre",
+          "text": "simpático/simpática",
           "segments": [
             {
-              "text": "el padre",
+              "text": "simpático/simpática",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el pˈaðɾe"
+          "phonemes": "simpˈatiko βˈara simpˈatika"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "la hermana",
+      "text": "trabajador/trabajadora",
       "sentences": [
         {
-          "text": "la hermana",
+          "text": "trabajador/trabajadora",
           "segments": [
             {
-              "text": "la hermana",
+              "text": "trabajador/trabajadora",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la eɾmˈana"
+          "phonemes": "tɾˌaβaxaðˈoɾ βˈara tɾˌaβaxaðˈoɾa"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "el amigo",
+      "text": "inteligente",
       "sentences": [
         {
-          "text": "el amigo",
+          "text": "inteligente",
           "segments": [
             {
-              "text": "el amigo",
+              "text": "inteligente",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el amˈiɣo"
+          "phonemes": "ˌintelixˈɛnte"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "joven",
+      "text": "paciente",
       "sentences": [
         {
-          "text": "joven",
+          "text": "paciente",
           "segments": [
             {
-              "text": "joven",
+              "text": "paciente",
               "lang": "es-419"
             }
           ],
-          "phonemes": "xˈoβen"
+          "phonemes": "pasjˈɛnte"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "mayor",
+      "text": "el adjetivo",
       "sentences": [
         {
-          "text": "mayor",
+          "text": "el adjetivo",
           "segments": [
             {
-              "text": "mayor",
+              "text": "el adjetivo",
               "lang": "es-419"
             }
           ],
-          "phonemes": "maʝˈoɾ"
+          "phonemes": "el ˌaðxetˈiβo"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "amable",
+      "text": "concordar",
       "sentences": [
         {
-          "text": "amable",
+          "text": "concordar",
           "segments": [
             {
-              "text": "amable",
+              "text": "concordar",
               "lang": "es-419"
             }
           ],
-          "phonemes": "amˈaβle"
+          "phonemes": "kˌonkoɾðˈaɾ"
         }
       ]
     }

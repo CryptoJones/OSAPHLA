@@ -143,7 +143,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Model language. La segunda opción es mucho más viable. — The second option is much more viable. El informe menos claro fue el primero. — The least clear report was the first one. El proyecto va viento en popa. — The project is going very well. Ese dato hay que tomarlo con pinzas. — That figure must be treated with caution. Su análisis dio en el clavo; sin embargo, faltan pruebas. — The analysis was exactly right; however, evidence is still lacking.",
+      "text": "Model language. Voy a comparar dos propuestas formalmente. — I am going to compare two proposals formally. Después interpreto una reacción informal. — Then I interpret an informal reaction. Distingo el significado literal del figurado. — I distinguish the literal meaning from the figurative one. Deduzco el sentido por el contexto. — I deduce the meaning from context. Explico el matiz con un ejemplo. — I explain the nuance with an example.",
       "sentences": [
         {
           "text": "Model language.",
@@ -156,104 +156,104 @@
           "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
         },
         {
-          "text": "La segunda opción es mucho más viable.",
+          "text": "Voy a comparar dos propuestas formalmente.",
           "segments": [
             {
-              "text": "La segunda opción es mucho más viable.",
+              "text": "Voy a comparar dos propuestas formalmente.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la seɣˈunda opsjˈon ˈes mˈutʃo mˈas βjˈaβle."
+          "phonemes": "bˈoɪ a kˌompaɾˈaɾ ðˈos pɾopwˈestas foɾmˈalmˈente."
         },
         {
-          "text": "— The second option is much more viable.",
+          "text": "— I am going to compare two proposals formally.",
           "segments": [
             {
-              "text": "— The second option is much more viable.",
+              "text": "— I am going to compare two proposals formally.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ðə sˈɛkənd ˈɑːpʃən ɪz mˈʌtʃ mˈɔːɹ vˈaɪəbəl."
+          "phonemes": "— aɪɐm ɡˌoʊɪŋ tə kəmpˈɛɹ tˈuː pɹəpˈoʊzəlz fˈɔːɹməli."
         },
         {
-          "text": "El informe menos claro fue el primero.",
+          "text": "Después interpreto una reacción informal.",
           "segments": [
             {
-              "text": "El informe menos claro fue el primero.",
+              "text": "Después interpreto una reacción informal.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el infˈoɾme mˈenos klˈaɾo fwˈe el pɾimˈeɾo."
+          "phonemes": "despwˈes ˌinteɾpɾˈeto ˈuna rˌeaksjˈon ˌinfoɾmˈal."
         },
         {
-          "text": "— The least clear report was the first one.",
+          "text": "— Then I interpret an informal reaction.",
           "segments": [
             {
-              "text": "— The least clear report was the first one.",
+              "text": "— Then I interpret an informal reaction.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ðə lˈiːst klˈɪɹ ɹᵻpˈɔːɹt wʌzðə fˈɜːst wˌʌn."
+          "phonemes": "— ðˈɛn aɪ ɪntˈɜːpɹɪt ɐn ɪnfˈɔːɹməl ɹɪˈækʃən."
         },
         {
-          "text": "El proyecto va viento en popa.",
+          "text": "Distingo el significado literal del figurado.",
           "segments": [
             {
-              "text": "El proyecto va viento en popa.",
+              "text": "Distingo el significado literal del figurado.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el pɾoʝˈekto βˈa βjˈɛnto em pˈopa."
+          "phonemes": "distˈiŋɡo el sˌiɡnifikˈaðo lˌiteɾˈal ðel fˌiɣuɾˈaðo."
         },
         {
-          "text": "— The project is going very well.",
+          "text": "— I distinguish the literal meaning from the figurative one.",
           "segments": [
             {
-              "text": "— The project is going very well.",
+              "text": "— I distinguish the literal meaning from the figurative one.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ðə pɹˈɑːdʒɛkt ɪz ɡˌoʊɪŋ vˈɛɹi wˈɛl."
+          "phonemes": "— aɪ dɪstˈɪŋɡwɪʃ ðə lˈɪɾɚɹəl mˈiːnɪŋ fɹʌmðə fˈɪɡjɚɹətˌɪv wˌʌn."
         },
         {
-          "text": "Ese dato hay que tomarlo con pinzas.",
+          "text": "Deduzco el sentido por el contexto.",
           "segments": [
             {
-              "text": "Ese dato hay que tomarlo con pinzas.",
+              "text": "Deduzco el sentido por el contexto.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˈese ðˈato ˈaɪ ke tomˈaɾlo kom pˈinsas."
+          "phonemes": "deðˈusko el sentˈiðo poɾ el kontˈeksto."
         },
         {
-          "text": "— That figure must be treated with caution.",
+          "text": "— I deduce the meaning from context.",
           "segments": [
             {
-              "text": "— That figure must be treated with caution.",
+              "text": "— I deduce the meaning from context.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ðæt fˈɪɡjɚ mˈʌst biː tɹˈiːɾᵻd wɪð kˈɔːʃən."
+          "phonemes": "— aɪ dᵻdˈuːs ðə mˈiːnɪŋ fɹʌm kˈɑːntɛkst."
         },
         {
-          "text": "Su análisis dio en el clavo; sin embargo, faltan pruebas.",
+          "text": "Explico el matiz con un ejemplo.",
           "segments": [
             {
-              "text": "Su análisis dio en el clavo; sin embargo, faltan pruebas.",
+              "text": "Explico el matiz con un ejemplo.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "su anˈalisis ðjˈo en el klˈaβo; sin embˈaɾɣo, fˈaltam pɾuˈeβas."
+          "phonemes": "eksplˈiko el matˈis kon ˈun exˈemplo."
         },
         {
-          "text": "— The analysis was exactly right; however, evidence is still lacking.",
+          "text": "— I explain the nuance with an example.",
           "segments": [
             {
-              "text": "— The analysis was exactly right; however, evidence is still lacking.",
+              "text": "— I explain the nuance with an example.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ðɪ ɐnˈæləsˌɪs wʌz ɛɡzˈæktli ɹˈaɪt; haʊˈɛvɚ, ˈɛvɪdəns ɪz stˈɪl lˈækɪŋ."
+          "phonemes": "— aɪ ɛksplˈeɪn ðə nˈuːɑːns wɪð ɐn ɛɡzˈæmpəl."
         }
       ]
     },
@@ -305,129 +305,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "sin embargo",
+      "text": "comparar",
       "sentences": [
         {
-          "text": "sin embargo",
+          "text": "comparar",
           "segments": [
             {
-              "text": "sin embargo",
+              "text": "comparar",
               "lang": "es-419"
             }
           ],
-          "phonemes": "sin embˈaɾɣo"
+          "phonemes": "kˌompaɾˈaɾ"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "aun así",
+      "text": "formalmente",
       "sentences": [
         {
-          "text": "aun así",
+          "text": "formalmente",
           "segments": [
             {
-              "text": "aun así",
+              "text": "formalmente",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˈaʊn asˈi"
+          "phonemes": "foɾmˈalmˈente"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "por lo tanto",
+      "text": "interpretar",
       "sentences": [
         {
-          "text": "por lo tanto",
+          "text": "interpretar",
           "segments": [
             {
-              "text": "por lo tanto",
+              "text": "interpretar",
               "lang": "es-419"
             }
           ],
-          "phonemes": "poɾ lo tˈanto"
+          "phonemes": "ˌinteɾpɾetˈaɾ"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "meter la pata",
+      "text": "la reacción informal",
       "sentences": [
         {
-          "text": "meter la pata",
+          "text": "la reacción informal",
           "segments": [
             {
-              "text": "meter la pata",
+              "text": "la reacción informal",
               "lang": "es-419"
             }
           ],
-          "phonemes": "metˈeɾ la pˈata"
+          "phonemes": "la rˌeaksjˈon ˌinfoɾmˈal"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "ir viento en popa",
+      "text": "el significado literal",
       "sentences": [
         {
-          "text": "ir viento en popa",
+          "text": "el significado literal",
           "segments": [
             {
-              "text": "ir viento en popa",
+              "text": "el significado literal",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˈiɾ βjˈɛnto em pˈopa"
+          "phonemes": "el sˌiɡnifikˈaðo lˌiteɾˈal"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "estar en las nubes",
+      "text": "el significado figurado",
       "sentences": [
         {
-          "text": "estar en las nubes",
+          "text": "el significado figurado",
           "segments": [
             {
-              "text": "estar en las nubes",
+              "text": "el significado figurado",
               "lang": "es-419"
             }
           ],
-          "phonemes": "estˈaɾ en las nˈuβes"
+          "phonemes": "el sˌiɡnifikˈaðo fˌiɣuɾˈaðo"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "dar en el clavo",
+      "text": "deducir",
       "sentences": [
         {
-          "text": "dar en el clavo",
+          "text": "deducir",
           "segments": [
             {
-              "text": "dar en el clavo",
+              "text": "deducir",
               "lang": "es-419"
             }
           ],
-          "phonemes": "dˈaɾ en el klˈaβo"
+          "phonemes": "dˌeðusˈiɾ"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "tomar con pinzas",
+      "text": "el matiz",
       "sentences": [
         {
-          "text": "tomar con pinzas",
+          "text": "el matiz",
           "segments": [
             {
-              "text": "tomar con pinzas",
+              "text": "el matiz",
               "lang": "es-419"
             }
           ],
-          "phonemes": "tomˈaɾ kom pˈinsas"
+          "phonemes": "el matˈis"
         }
       ]
     }

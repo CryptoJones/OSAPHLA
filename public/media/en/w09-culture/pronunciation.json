@@ -163,7 +163,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Lenguaje modelo. I get up at six thirty. — Me levanto a las seis y media. After I get dressed, I make breakfast. — Después de vestirme, preparo el desayuno. I'm waiting for the train now. — Ahora estoy esperando el tren. The children go to bed early. — Los niños se acuestan temprano. What time do you wake up? — ¿A qué hora te despiertas?",
+      "text": "Lenguaje modelo. The pace of life changes with work. — El ritmo de vida cambia según el trabajo. The siesta is a stereotype, not always reality. — La siesta es un estereotipo, no siempre una realidad. Household labor can be shared. — El trabajo doméstico puede ser compartido. We shouldn't assume everyone lives the same way. — No debemos asumir que todos viven igual. It's better to question common stereotypes. — Es mejor cuestionar los estereotipos comunes.",
       "sentences": [
         {
           "text": "Lenguaje modelo.",
@@ -176,104 +176,104 @@
           "phonemes": "leŋɡwˈaxe moðˈelo."
         },
         {
-          "text": "I get up at six thirty.",
+          "text": "The pace of life changes with work.",
           "segments": [
             {
-              "text": "I get up at six thirty.",
+              "text": "The pace of life changes with work.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪ ɡɛt ˌʌp æt sˈɪks θˈɜːɾi."
+          "phonemes": "ðə pˈeɪs ʌv lˈaɪf tʃˈeɪndʒᵻz wɪð wˈɜːk."
         },
         {
-          "text": "— Me levanto a las seis y media.",
+          "text": "— El ritmo de vida cambia según el trabajo.",
           "segments": [
             {
-              "text": "— Me levanto a las seis y media.",
+              "text": "— El ritmo de vida cambia según el trabajo.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— me leβˈanto a las sˈeɪs i mˈeðja."
+          "phonemes": "— el rˈitmo ðe βˈiða kˈambja seɣˈun el tɾaβˈaxo."
         },
         {
-          "text": "After I get dressed, I make breakfast.",
+          "text": "The siesta is a stereotype, not always reality.",
           "segments": [
             {
-              "text": "After I get dressed, I make breakfast.",
+              "text": "The siesta is a stereotype, not always reality.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ˈæftɚɹ aɪ ɡɛt dɹˈɛst, aɪ mˌeɪk bɹˈɛkfəst."
+          "phonemes": "ðə siːˈɛstə ɪz ɐ stˈɛɹɪˌoʊtaɪp, nˌɑːt ˈɔːlweɪz ɹɪˈælᵻɾi."
         },
         {
-          "text": "— Después de vestirme, preparo el desayuno.",
+          "text": "— La siesta es un estereotipo, no siempre una realidad.",
           "segments": [
             {
-              "text": "— Después de vestirme, preparo el desayuno.",
+              "text": "— La siesta es un estereotipo, no siempre una realidad.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— despwˈes ðe βestˈiɾme, pɾepˈaɾo el ðˌesaʝˈuno."
+          "phonemes": "— la sjˈesta ˈes ˈun ˌesteɾˌeotˈipo, nˈo sjˈempɾe ˈuna rˌealiðˈad."
         },
         {
-          "text": "I'm waiting for the train now.",
+          "text": "Household labor can be shared.",
           "segments": [
             {
-              "text": "I'm waiting for the train now.",
+              "text": "Household labor can be shared.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪm wˈeɪɾɪŋ fɚðə tɹˈeɪn nˈaʊ."
+          "phonemes": "hˈaʊshoʊld lˈeɪbɚ kæn biː ʃˈɛɹd."
         },
         {
-          "text": "— Ahora estoy esperando el tren.",
+          "text": "— El trabajo doméstico puede ser compartido.",
           "segments": [
             {
-              "text": "— Ahora estoy esperando el tren.",
+              "text": "— El trabajo doméstico puede ser compartido.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— aˈoɾa estˈoɪ ˌespeɾˈando el tɾˈen."
+          "phonemes": "— el tɾaβˈaxo ðomˈestiko pwˈeðe sˈer kˌompaɾtˈiðo."
         },
         {
-          "text": "The children go to bed early.",
+          "text": "We shouldn't assume everyone lives the same way.",
           "segments": [
             {
-              "text": "The children go to bed early.",
+              "text": "We shouldn't assume everyone lives the same way.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə tʃˈɪldɹən ɡˌoʊ tə bˈɛd ˈɜːli."
+          "phonemes": "wiː ʃˌʊdənt ɐsˈuːm ˈɛvɹɪwˌʌn lˈaɪvz ðə sˈeɪm wˈeɪ."
         },
         {
-          "text": "— Los niños se acuestan temprano.",
+          "text": "— No debemos asumir que todos viven igual.",
           "segments": [
             {
-              "text": "— Los niños se acuestan temprano.",
+              "text": "— No debemos asumir que todos viven igual.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— los nˈiɲos se akwˈestan tempɾˈano."
+          "phonemes": "— nˈo ðeβˈemos ˌasumˈiɾ ke tˈoðos βˈiβen iɣwˈal."
         },
         {
-          "text": "What time do you wake up?",
+          "text": "It's better to question common stereotypes.",
           "segments": [
             {
-              "text": "What time do you wake up?",
+              "text": "It's better to question common stereotypes.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wˌʌt tˈaɪm dˈuː juː wˈeɪk ˈʌp?"
+          "phonemes": "ɪts bˈɛɾɚ tə kwˈɛstʃən kˈɑːmən stˈɛɹɪˌoʊtaɪps."
         },
         {
-          "text": "— ¿A qué hora te despiertas?",
+          "text": "— Es mejor cuestionar los estereotipos comunes.",
           "segments": [
             {
-              "text": "— ¿A qué hora te despiertas?",
+              "text": "— Es mejor cuestionar los estereotipos comunes.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— a kˈe ˈoɾa te ðespjˈeɾtas?"
+          "phonemes": "— ˈes mexˈoɾ kwˌestjonˈaɾ los ˌesteɾˌeotˈipos komˈunes."
         }
       ]
     },
@@ -325,129 +325,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "to wake up",
+      "text": "pace of life",
       "sentences": [
         {
-          "text": "to wake up",
+          "text": "pace of life",
           "segments": [
             {
-              "text": "to wake up",
+              "text": "pace of life",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə wˈeɪk ˈʌp"
+          "phonemes": "pˈeɪs ʌv lˈaɪf"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "to get up",
+      "text": "a nap",
       "sentences": [
         {
-          "text": "to get up",
+          "text": "a nap",
           "segments": [
             {
-              "text": "to get up",
+              "text": "a nap",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə ɡɛt ˈʌp"
+          "phonemes": "ɐ nˈæp"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "to shower",
+      "text": "a stereotype",
       "sentences": [
         {
-          "text": "to shower",
+          "text": "a stereotype",
           "segments": [
             {
-              "text": "to shower",
+              "text": "a stereotype",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə ʃˈaʊɚ"
+          "phonemes": "ɐ stˈɛɹɪˌoʊtaɪp"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "to get dressed",
+      "text": "shared",
       "sentences": [
         {
-          "text": "to get dressed",
+          "text": "shared",
           "segments": [
             {
-              "text": "to get dressed",
+              "text": "shared",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə ɡɛt dɹˈɛst"
+          "phonemes": "ʃˈɛɹd"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "to go to bed",
+      "text": "household labor",
       "sentences": [
         {
-          "text": "to go to bed",
+          "text": "household labor",
           "segments": [
             {
-              "text": "to go to bed",
+              "text": "household labor",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə ɡˌoʊ tə bˈɛd"
+          "phonemes": "hˈaʊshoʊld lˈeɪbɚ"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "early",
+      "text": "actual",
       "sentences": [
         {
-          "text": "early",
+          "text": "actual",
           "segments": [
             {
-              "text": "early",
+              "text": "actual",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ˈɜːli"
+          "phonemes": "ˈæktʃuːəl"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "late",
+      "text": "to question",
       "sentences": [
         {
-          "text": "late",
+          "text": "to question",
           "segments": [
             {
-              "text": "late",
+              "text": "to question",
               "lang": "en-us"
             }
           ],
-          "phonemes": "lˈeɪt"
+          "phonemes": "tə kwˈɛstʃən"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "now",
+      "text": "to assume",
       "sentences": [
         {
-          "text": "now",
+          "text": "to assume",
           "segments": [
             {
-              "text": "now",
+              "text": "to assume",
               "lang": "en-us"
             }
           ],
-          "phonemes": "nˈaʊ"
+          "phonemes": "tʊ ɐsˈuːm"
         }
       ]
     }

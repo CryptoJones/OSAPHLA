@@ -143,7 +143,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Lenguaje modelo. We're looking for someone who has experience. — Buscamos a alguien que tenga experiencia. I know the person who leads the project. — Conozco a la persona que dirige el proyecto. I need a place that is near the subway. — Necesito un lugar que esté cerca del metro. This is the issue that concerns me. — Este es el asunto que me preocupa. The author whose book won will speak. — Hablará la autora cuyo libro ganó.",
+      "text": "Lenguaje modelo. I'm going to defend my proposed criteria. — Voy a defender mi propuesta de criterios. I justify each point with an example. — Justifico cada punto con un ejemplo. I describe the ideal profile. — Describo el perfil ideal. I show why it's the ideal solution. — Muestro por qué es la solución ideal. I argue convincingly. — Argumento de forma convincente.",
       "sentences": [
         {
           "text": "Lenguaje modelo.",
@@ -156,104 +156,104 @@
           "phonemes": "leŋɡwˈaxe moðˈelo."
         },
         {
-          "text": "We're looking for someone who has experience.",
+          "text": "I'm going to defend my proposed criteria.",
           "segments": [
             {
-              "text": "We're looking for someone who has experience.",
+              "text": "I'm going to defend my proposed criteria.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wɪɹ lˈʊkɪŋ fɔːɹ sˈʌmwʌn hˌuː hɐz ɛkspˈiəɹɪəns."
+          "phonemes": "aɪm ɡˌoʊɪŋ tə dᵻfˈɛnd maɪ pɹəpˈoʊzd kɹaɪtˈiəɹɪə."
         },
         {
-          "text": "— Buscamos a alguien que tenga experiencia.",
+          "text": "— Voy a defender mi propuesta de criterios.",
           "segments": [
             {
-              "text": "— Buscamos a alguien que tenga experiencia.",
+              "text": "— Voy a defender mi propuesta de criterios.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— buskˈamos a ˈalɣjen ke tˈɛŋɡa ˌekspeɾjˈɛnsja."
+          "phonemes": "— bˈoɪ a ðˌefendˈeɾ mi pɾopwˈesta ðe kɾitˈeɾjos."
         },
         {
-          "text": "I know the person who leads the project.",
+          "text": "I justify each point with an example.",
           "segments": [
             {
-              "text": "I know the person who leads the project.",
+              "text": "I justify each point with an example.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪ nˈoʊ ðə pˈɜːsən hˌuː lˈiːdz ðə pɹˈɑːdʒɛkt."
+          "phonemes": "aɪ dʒˈʌstᵻfˌaɪ ˈiːtʃ pˈɔɪnt wɪð ɐn ɛɡzˈæmpəl."
         },
         {
-          "text": "— Conozco a la persona que dirige el proyecto.",
+          "text": "— Justifico cada punto con un ejemplo.",
           "segments": [
             {
-              "text": "— Conozco a la persona que dirige el proyecto.",
+              "text": "— Justifico cada punto con un ejemplo.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— konˈosko a la peɾsˈona ke ðiɾˈixe el pɾoʝˈekto."
+          "phonemes": "— xˌustifˈiko kˈaða pˈunto kon ˈun exˈemplo."
         },
         {
-          "text": "I need a place that is near the subway.",
+          "text": "I describe the ideal profile.",
           "segments": [
             {
-              "text": "I need a place that is near the subway.",
+              "text": "I describe the ideal profile.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪ nˈiːd ɐ plˈeɪs ðæt ɪz nˌɪɹ ðə sˈʌbweɪ."
+          "phonemes": "aɪ dᵻskɹˈaɪb ðɪ aɪdˈiəl pɹˈoʊfaɪl."
         },
         {
-          "text": "— Necesito un lugar que esté cerca del metro.",
+          "text": "— Describo el perfil ideal.",
           "segments": [
             {
-              "text": "— Necesito un lugar que esté cerca del metro.",
+              "text": "— Describo el perfil ideal.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— nˌesesˈito ˈun luɣˈaɾ ke estˈe sˈeɾka ðel mˈetɾo."
+          "phonemes": "— deskɾˈiβo el peɾfˈil ˌiðeˈal."
         },
         {
-          "text": "This is the issue that concerns me.",
+          "text": "I show why it's the ideal solution.",
           "segments": [
             {
-              "text": "This is the issue that concerns me.",
+              "text": "I show why it's the ideal solution.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðɪs ɪz ðɪ ˈɪʃuː ðæt kənsˈɜːnz mˌiː."
+          "phonemes": "aɪ ʃˈoʊ wˌaɪ ɪts ðɪ aɪdˈiəl səlˈuːʃən."
         },
         {
-          "text": "— Este es el asunto que me preocupa.",
+          "text": "— Muestro por qué es la solución ideal.",
           "segments": [
             {
-              "text": "— Este es el asunto que me preocupa.",
+              "text": "— Muestro por qué es la solución ideal.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— ˈeste ˈes el asˈunto ke me pɾˌeokˈupa."
+          "phonemes": "— mwˈestɾo poɾ kˈe ˈes la sˌolusjˈon ˌiðeˈal."
         },
         {
-          "text": "The author whose book won will speak.",
+          "text": "I argue convincingly.",
           "segments": [
             {
-              "text": "The author whose book won will speak.",
+              "text": "I argue convincingly.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðɪ ˈɔːθɚ hˌuːz bˈʊk wˈʌn wɪl spˈiːk."
+          "phonemes": "aɪ ˈɑːɹɡjuː kənvˈɪnsɪŋli."
         },
         {
-          "text": "— Hablará la autora cuyo libro ganó.",
+          "text": "— Argumento de forma convincente.",
           "segments": [
             {
-              "text": "— Hablará la autora cuyo libro ganó.",
+              "text": "— Argumento de forma convincente.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— ˌaβlaɾˈa la aʊtˈoɾa kˈuʝo lˈiβɾo ɣanˈo."
+          "phonemes": "— ˌaɾɣumˈɛnto ðe fˈoɾma kˌombinsˈɛnte."
         }
       ]
     },
@@ -305,129 +305,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "who",
+      "text": "to defend",
       "sentences": [
         {
-          "text": "who",
+          "text": "to defend",
           "segments": [
             {
-              "text": "who",
+              "text": "to defend",
               "lang": "en-us"
             }
           ],
-          "phonemes": "hˈuː"
+          "phonemes": "tə dᵻfˈɛnd"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "which",
+      "text": "to justify",
       "sentences": [
         {
-          "text": "which",
+          "text": "to justify",
           "segments": [
             {
-              "text": "which",
+              "text": "to justify",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wˈɪtʃ"
+          "phonemes": "tə dʒˈʌstᵻfˌaɪ"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "that",
+      "text": "a profile",
       "sentences": [
         {
-          "text": "that",
+          "text": "a profile",
           "segments": [
             {
-              "text": "that",
+              "text": "a profile",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðˈæt"
+          "phonemes": "ɐ pɹˈoʊfaɪl"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "whose",
+      "text": "ideal solution",
       "sentences": [
         {
-          "text": "whose",
+          "text": "ideal solution",
           "segments": [
             {
-              "text": "whose",
+              "text": "ideal solution",
               "lang": "en-us"
             }
           ],
-          "phonemes": "hˌuːz"
+          "phonemes": "aɪdˈiəl səlˈuːʃən"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "a requirement",
+      "text": "to argue",
       "sentences": [
         {
-          "text": "a requirement",
+          "text": "to argue",
           "segments": [
             {
-              "text": "a requirement",
+              "text": "to argue",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ ɹᵻkwˈaɪɚmənt"
+          "phonemes": "tʊ ˈɑːɹɡjuː"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "a candidate",
+      "text": "convincing",
       "sentences": [
         {
-          "text": "a candidate",
+          "text": "convincing",
           "segments": [
             {
-              "text": "a candidate",
+              "text": "convincing",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ kˈændᵻdˌeɪt"
+          "phonemes": "kənvˈɪnsɪŋ"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "experience",
+      "text": "an example",
       "sentences": [
         {
-          "text": "experience",
+          "text": "an example",
           "segments": [
             {
-              "text": "experience",
+              "text": "an example",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɛkspˈiəɹɪəns"
+          "phonemes": "ɐn ɛɡzˈæmpəl"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "available",
+      "text": "to present",
       "sentences": [
         {
-          "text": "available",
+          "text": "to present",
           "segments": [
             {
-              "text": "available",
+              "text": "to present",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐvˈeɪləbəl"
+          "phonemes": "tə pɹɪzˈɛnt"
         }
       ]
     }

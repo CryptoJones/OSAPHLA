@@ -29,7 +29,7 @@
     },
     {
       "file": "01.wav",
-      "text": "Forma y significado. There is/there are; be para ubicación y estado; preposiciones in, on, at, near, behind y across from.",
+      "text": "Forma y significado. Aplicación de la forma. Usa be (is/are) para ubicación y estado, y there is/there are para expresar existencia; no son intercambiables.",
       "sentences": [
         {
           "text": "Forma y significado.",
@@ -42,10 +42,40 @@
           "phonemes": "fˈoɾma i sˌiɡnifikˈaðo."
         },
         {
-          "text": "There is/there are; be para ubicación y estado; preposiciones in, on, at, near, behind y across from.",
+          "text": "Aplicación de la forma.",
           "segments": [
             {
-              "text": "There is",
+              "text": "Aplicación de la forma.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˌaplikasjˈon de la fˈoɾma."
+        },
+        {
+          "text": "Usa be (is/are) para ubicación y estado, y there is/there are para expresar existencia; no son intercambiables.",
+          "segments": [
+            {
+              "text": "Usa ",
+              "lang": "es-419"
+            },
+            {
+              "text": "be",
+              "lang": "en-us"
+            },
+            {
+              "text": " (",
+              "lang": "es-419"
+            },
+            {
+              "text": "is",
+              "lang": "en-us"
+            },
+            {
+              "text": "/are) para ubicación y estado, y ",
+              "lang": "es-419"
+            },
+            {
+              "text": "there is",
               "lang": "en-us"
             },
             {
@@ -57,41 +87,17 @@
               "lang": "en-us"
             },
             {
-              "text": "; ",
-              "lang": "es-419"
-            },
-            {
-              "text": "be",
-              "lang": "en-us"
-            },
-            {
-              "text": " para ubicación y estado; preposiciones in, on, at, ",
-              "lang": "es-419"
-            },
-            {
-              "text": "near",
-              "lang": "en-us"
-            },
-            {
-              "text": ", ",
-              "lang": "es-419"
-            },
-            {
-              "text": "behind",
-              "lang": "en-us"
-            },
-            {
-              "text": " y across from.",
+              "text": " para expresar existencia; no son intercambiables.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ðɛɹˈɪz bˈara ðɛɹˈɑːɹ ; bˈiː pˌaɾa ˌuβikasjˈon i estˈaðo; pɾˌeposisjˈones ˈin, ˈon, ˈat, nˈɪɹ , bᵻhˈaɪnd i akɾˈoss fɾˈom."
+          "phonemes": "ˈusa bˈiː ( ɪz bˈara ˈaɾe) pˌaɾa ˌuβikasjˈon i estˈaðo, i ðɛɹˈɪz bˈara ðɛɹˈɑːɹ pˌaɾa ˌekspɾesˈaɾ ˌeksistˈɛnsja; nˈo sˈon ˌinteɾkambjˈaβles."
         }
       ]
     },
     {
       "file": "02.wav",
-      "text": "Conjunto de modelos. The pharmacy is near the square. There's a bank in front of the hotel. The museum is closed today. Where are the restrooms? The meeting is in the blue room. La farmacia está cerca de la plaza. Hay un banco delante del hotel. El museo está cerrado hoy. ¿Dónde están los baños? La reunión es en la sala azul.",
+      "text": "Conjunto de modelos. The bank is between the pharmacy and the store. There's a chair next to the table. The books are on top of the desk. There's no one inside the office. We're outside the building. El banco está entre la farmacia y la tienda. Hay una silla al lado de la mesa. Los libros están encima del escritorio. No hay nadie dentro de la oficina. Estamos fuera del edificio.",
       "sentences": [
         {
           "text": "Conjunto de modelos.",
@@ -104,104 +110,104 @@
           "phonemes": "koŋxˈunto ðe moðˈelos."
         },
         {
-          "text": "The pharmacy is near the square.",
+          "text": "The bank is between the pharmacy and the store.",
           "segments": [
             {
-              "text": "The pharmacy is near the square.",
+              "text": "The bank is between the pharmacy and the store.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə fˈɑːɹməsi ɪz nˌɪɹ ðə skwˈɛɹ."
+          "phonemes": "ðə bˈæŋk ɪz bᵻtwˌiːn ðə fˈɑːɹməsi ænd ðə stˈɔːɹ."
         },
         {
-          "text": "There's a bank in front of the hotel.",
+          "text": "There's a chair next to the table.",
           "segments": [
             {
-              "text": "There's a bank in front of the hotel.",
+              "text": "There's a chair next to the table.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðɛɹz ɐ bˈæŋk ɪn fɹˈʌnt ʌvðə hoʊtˈɛl."
+          "phonemes": "ðɛɹz ɐ tʃˈɛɹ nˈɛkst tə ðə tˈeɪbəl."
         },
         {
-          "text": "The museum is closed today.",
+          "text": "The books are on top of the desk.",
           "segments": [
             {
-              "text": "The museum is closed today.",
+              "text": "The books are on top of the desk.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə mjuːzˈiəm ɪz klˈoʊzd tədˈeɪ."
+          "phonemes": "ðə bˈʊks ɑːɹ ˌɔn tˈɑːp ʌvðə dˈɛsk."
         },
         {
-          "text": "Where are the restrooms?",
+          "text": "There's no one inside the office.",
           "segments": [
             {
-              "text": "Where are the restrooms?",
+              "text": "There's no one inside the office.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wˌɛɹ ɑːɹ ðə ɹˈɛstɹuːmz?"
+          "phonemes": "ðɛɹz nˈoʊwˈʌn ɪnsˈaɪd ðɪ ˈɑːfɪs."
         },
         {
-          "text": "The meeting is in the blue room.",
+          "text": "We're outside the building.",
           "segments": [
             {
-              "text": "The meeting is in the blue room.",
+              "text": "We're outside the building.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə mˈiːɾɪŋ ɪz ɪnðə blˈuː ɹˈuːm."
+          "phonemes": "wɪɹ aʊtsˈaɪd ðə bˈɪldɪŋ."
         },
         {
-          "text": "La farmacia está cerca de la plaza.",
+          "text": "El banco está entre la farmacia y la tienda.",
           "segments": [
             {
-              "text": "La farmacia está cerca de la plaza.",
+              "text": "El banco está entre la farmacia y la tienda.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la faɾmˈasja estˈa sˈeɾka ðe la plˈasa."
+          "phonemes": "el βˈanko estˈa ˌentɾe la faɾmˈasja i la tjˈɛnda."
         },
         {
-          "text": "Hay un banco delante del hotel.",
+          "text": "Hay una silla al lado de la mesa.",
           "segments": [
             {
-              "text": "Hay un banco delante del hotel.",
+              "text": "Hay una silla al lado de la mesa.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˈaɪ ˈum bˈanko ðelˈante ðel otˈel."
+          "phonemes": "ˈaɪ ˈuna sˈijja al lˈaðo ðe la mˈesa."
         },
         {
-          "text": "El museo está cerrado hoy.",
+          "text": "Los libros están encima del escritorio.",
           "segments": [
             {
-              "text": "El museo está cerrado hoy.",
+              "text": "Los libros están encima del escritorio.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el musˈeo estˈa serˈaðo ˈoɪ."
+          "phonemes": "los lˈiβɾos estˈan ensˈima ðel ˌeskɾitˈoɾjo."
         },
         {
-          "text": "¿Dónde están los baños?",
+          "text": "No hay nadie dentro de la oficina.",
           "segments": [
             {
-              "text": "¿Dónde están los baños?",
+              "text": "No hay nadie dentro de la oficina.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "dˈonde estˈan los βˈaɲos?"
+          "phonemes": "nˈo ˈaɪ nˈaðje ðˈɛntɾo ðe la ˌofisˈina."
         },
         {
-          "text": "La reunión es en la sala azul.",
+          "text": "Estamos fuera del edificio.",
           "segments": [
             {
-              "text": "La reunión es en la sala azul.",
+              "text": "Estamos fuera del edificio.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la reʊnjˈon ˈes en la sˈala asˈul."
+          "phonemes": "estˈamos fwˈeɾa ðel ˌeðifˈisjo."
         }
       ]
     },
@@ -269,7 +275,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Lenguaje modelo. The pharmacy is near the square. — La farmacia está cerca de la plaza. There's a bank in front of the hotel. — Hay un banco delante del hotel. The museum is closed today. — El museo está cerrado hoy. Where are the restrooms? — ¿Dónde están los baños? The meeting is in the blue room. — La reunión es en la sala azul.",
+      "text": "Lenguaje modelo. The bank is between the pharmacy and the store. — El banco está entre la farmacia y la tienda. There's a chair next to the table. — Hay una silla al lado de la mesa. The books are on top of the desk. — Los libros están encima del escritorio. There's no one inside the office. — No hay nadie dentro de la oficina. We're outside the building. — Estamos fuera del edificio.",
       "sentences": [
         {
           "text": "Lenguaje modelo.",
@@ -282,104 +288,104 @@
           "phonemes": "leŋɡwˈaxe moðˈelo."
         },
         {
-          "text": "The pharmacy is near the square.",
+          "text": "The bank is between the pharmacy and the store.",
           "segments": [
             {
-              "text": "The pharmacy is near the square.",
+              "text": "The bank is between the pharmacy and the store.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə fˈɑːɹməsi ɪz nˌɪɹ ðə skwˈɛɹ."
+          "phonemes": "ðə bˈæŋk ɪz bᵻtwˌiːn ðə fˈɑːɹməsi ænd ðə stˈɔːɹ."
         },
         {
-          "text": "— La farmacia está cerca de la plaza.",
+          "text": "— El banco está entre la farmacia y la tienda.",
           "segments": [
             {
-              "text": "— La farmacia está cerca de la plaza.",
+              "text": "— El banco está entre la farmacia y la tienda.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— la faɾmˈasja estˈa sˈeɾka ðe la plˈasa."
+          "phonemes": "— el βˈanko estˈa ˌentɾe la faɾmˈasja i la tjˈɛnda."
         },
         {
-          "text": "There's a bank in front of the hotel.",
+          "text": "There's a chair next to the table.",
           "segments": [
             {
-              "text": "There's a bank in front of the hotel.",
+              "text": "There's a chair next to the table.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðɛɹz ɐ bˈæŋk ɪn fɹˈʌnt ʌvðə hoʊtˈɛl."
+          "phonemes": "ðɛɹz ɐ tʃˈɛɹ nˈɛkst tə ðə tˈeɪbəl."
         },
         {
-          "text": "— Hay un banco delante del hotel.",
+          "text": "— Hay una silla al lado de la mesa.",
           "segments": [
             {
-              "text": "— Hay un banco delante del hotel.",
+              "text": "— Hay una silla al lado de la mesa.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— ˈaɪ ˈum bˈanko ðelˈante ðel otˈel."
+          "phonemes": "— ˈaɪ ˈuna sˈijja al lˈaðo ðe la mˈesa."
         },
         {
-          "text": "The museum is closed today.",
+          "text": "The books are on top of the desk.",
           "segments": [
             {
-              "text": "The museum is closed today.",
+              "text": "The books are on top of the desk.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə mjuːzˈiəm ɪz klˈoʊzd tədˈeɪ."
+          "phonemes": "ðə bˈʊks ɑːɹ ˌɔn tˈɑːp ʌvðə dˈɛsk."
         },
         {
-          "text": "— El museo está cerrado hoy.",
+          "text": "— Los libros están encima del escritorio.",
           "segments": [
             {
-              "text": "— El museo está cerrado hoy.",
+              "text": "— Los libros están encima del escritorio.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— el musˈeo estˈa serˈaðo ˈoɪ."
+          "phonemes": "— los lˈiβɾos estˈan ensˈima ðel ˌeskɾitˈoɾjo."
         },
         {
-          "text": "Where are the restrooms?",
+          "text": "There's no one inside the office.",
           "segments": [
             {
-              "text": "Where are the restrooms?",
+              "text": "There's no one inside the office.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wˌɛɹ ɑːɹ ðə ɹˈɛstɹuːmz?"
+          "phonemes": "ðɛɹz nˈoʊwˈʌn ɪnsˈaɪd ðɪ ˈɑːfɪs."
         },
         {
-          "text": "— ¿Dónde están los baños?",
+          "text": "— No hay nadie dentro de la oficina.",
           "segments": [
             {
-              "text": "— ¿Dónde están los baños?",
+              "text": "— No hay nadie dentro de la oficina.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— dˈonde estˈan los βˈaɲos?"
+          "phonemes": "— nˈo ˈaɪ nˈaðje ðˈɛntɾo ðe la ˌofisˈina."
         },
         {
-          "text": "The meeting is in the blue room.",
+          "text": "We're outside the building.",
           "segments": [
             {
-              "text": "The meeting is in the blue room.",
+              "text": "We're outside the building.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə mˈiːɾɪŋ ɪz ɪnðə blˈuː ɹˈuːm."
+          "phonemes": "wɪɹ aʊtsˈaɪd ðə bˈɪldɪŋ."
         },
         {
-          "text": "— La reunión es en la sala azul.",
+          "text": "— Estamos fuera del edificio.",
           "segments": [
             {
-              "text": "— La reunión es en la sala azul.",
+              "text": "— Estamos fuera del edificio.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— la reʊnjˈon ˈes en la sˈala asˈul."
+          "phonemes": "— estˈamos fwˈeɾa ðel ˌeðifˈisjo."
         }
       ]
     },
@@ -431,129 +437,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "here",
+      "text": "to be",
       "sentences": [
         {
-          "text": "here",
+          "text": "to be",
           "segments": [
             {
-              "text": "here",
+              "text": "to be",
               "lang": "en-us"
             }
           ],
-          "phonemes": "hˈɪɹ"
+          "phonemes": "tə bˈiː"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "there",
+      "text": "there is/are",
       "sentences": [
         {
-          "text": "there",
+          "text": "there is/are",
           "segments": [
             {
-              "text": "there",
+              "text": "there is/are",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðˈɛɹ"
+          "phonemes": "ðɛɹ ɪz slˈæʃ ɑːɹ"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "near",
+      "text": "on top of",
       "sentences": [
         {
-          "text": "near",
+          "text": "on top of",
           "segments": [
             {
-              "text": "near",
+              "text": "on top of",
               "lang": "en-us"
             }
           ],
-          "phonemes": "nˈɪɹ"
+          "phonemes": "ˌɔn tˈɑːp ʌv"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "far",
+      "text": "under",
       "sentences": [
         {
-          "text": "far",
+          "text": "under",
           "segments": [
             {
-              "text": "far",
+              "text": "under",
               "lang": "en-us"
             }
           ],
-          "phonemes": "fˈɑːɹ"
+          "phonemes": "ˈʌndɚ"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "open",
+      "text": "inside",
       "sentences": [
         {
-          "text": "open",
+          "text": "inside",
           "segments": [
             {
-              "text": "open",
+              "text": "inside",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ˈoʊpən"
+          "phonemes": "ɪnsˈaɪd"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "closed",
+      "text": "outside",
       "sentences": [
         {
-          "text": "closed",
+          "text": "outside",
           "segments": [
             {
-              "text": "closed",
+              "text": "outside",
               "lang": "en-us"
             }
           ],
-          "phonemes": "klˈoʊzd"
+          "phonemes": "aʊtsˈaɪd"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "in front of",
+      "text": "between",
       "sentences": [
         {
-          "text": "in front of",
+          "text": "between",
           "segments": [
             {
-              "text": "in front of",
+              "text": "between",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɪn fɹˈʌnt ʌv"
+          "phonemes": "bᵻtwˈiːn"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "behind",
+      "text": "next to",
       "sentences": [
         {
-          "text": "behind",
+          "text": "next to",
           "segments": [
             {
-              "text": "behind",
+              "text": "next to",
               "lang": "en-us"
             }
           ],
-          "phonemes": "bᵻhˈaɪnd"
+          "phonemes": "nˈɛkst tuː"
         }
       ]
     }

@@ -105,8 +105,7 @@ for (const slug of ['es','en']) {
 
 ## Scope tracker
 
-- [x] Week 1 — done (both courses)
-- [ ] Weeks 2–36 — not started
+- [x] Weeks 1–36 — done (both courses)
 
 Work through weeks in order or in batches; there's no dependency between weeks, so this
 is safe to parallelize across multiple sessions if needed — just don't have two sessions

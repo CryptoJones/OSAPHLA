@@ -29,7 +29,7 @@
     },
     {
       "file": "01.wav",
-      "text": "Form and meaning. Imperfect forms; habitual past; age, time, weather, description, and ongoing background.",
+      "text": "Form and meaning. Applying the form. The imperfect describes ongoing or repeated past actions, age, time, weather, and background description — use era/tenía/había for state, and -aba/-ía endings for habitual action.",
       "sentences": [
         {
           "text": "Form and meaning.",
@@ -42,20 +42,62 @@
           "phonemes": "fˈɔːɹm ænd mˈiːnɪŋ."
         },
         {
-          "text": "Imperfect forms; habitual past; age, time, weather, description, and ongoing background.",
+          "text": "Applying the form.",
           "segments": [
             {
-              "text": "Imperfect forms; habitual past; age, time, weather, description, and ongoing background.",
+              "text": "Applying the form.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɪmpˈɜːfɛkt fˈɔːɹmz; hɐbˈɪtʃuːəl pˈæst; ˈeɪdʒ, tˈaɪm, wˈɛðɚ, dᵻskɹˈɪpʃən, ænd ˈɑːŋɡoʊɪŋ bˈækɡɹaʊnd."
+          "phonemes": "ɐplˈaɪɪŋ ðə fˈɔːɹm."
+        },
+        {
+          "text": "The imperfect describes ongoing or repeated past actions, age, time, weather, and background description — use era/tenía/había for state, and -aba/-ía endings for habitual action.",
+          "segments": [
+            {
+              "text": "The imperfect describes ongoing or repeated past actions, age, time, weather, and background description — use era/",
+              "lang": "en-us"
+            },
+            {
+              "text": "tenía",
+              "lang": "es-419"
+            },
+            {
+              "text": "/",
+              "lang": "en-us"
+            },
+            {
+              "text": "había",
+              "lang": "es-419"
+            },
+            {
+              "text": " for state, and ",
+              "lang": "en-us"
+            },
+            {
+              "text": "-aba",
+              "lang": "es-419"
+            },
+            {
+              "text": "/",
+              "lang": "en-us"
+            },
+            {
+              "text": "-ía",
+              "lang": "es-419"
+            },
+            {
+              "text": " endings for habitual action.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðɪ ɪmpˈɜːfɛkt dᵻskɹˈaɪbz ˈɑːŋɡoʊɪŋ ɔːɹ ɹᵻpˈiːɾᵻd pˈæst ˈækʃənz, ˈeɪdʒ, tˈaɪm, wˈɛðɚ, ænd bˈækɡɹaʊnd dᵻskɹˈɪpʃən — jˈuːs ˈiəɹə slˈæʃ tenˈia slˈæʃ aβˈia fɔːɹ stˈeɪt, ænd ˈaβa slˈæʃ ˈia ˈɛndɪŋz fɔːɹ hɐbˈɪtʃuːəl ˈækʃən."
         }
       ]
     },
     {
       "file": "02.wav",
-      "text": "Model set. Antes había menos edificios. De niña jugaba en esta plaza. Eran las ocho y llovía mucho. Mientras trabajábamos, escuchábamos la radio. La ciudad parecía más tranquila. There used to be fewer buildings. As a girl, I used to play in this plaza. It was eight o'clock and raining heavily. While we worked, we listened to the radio. The city seemed quieter.",
+      "text": "Model set. Yo tenía diez años. Tú vivías en otra ciudad. Él jugaba en la plaza. Nosotros éramos vecinos. Ellos hacían la tarea juntos. I was ten years old. You lived in another city. He played in the square. We were neighbors. They did homework together.",
       "sentences": [
         {
           "text": "Model set.",
@@ -68,104 +110,104 @@
           "phonemes": "mˈɑːdəl sˈɛt."
         },
         {
-          "text": "Antes había menos edificios.",
+          "text": "Yo tenía diez años.",
           "segments": [
             {
-              "text": "Antes había menos edificios.",
+              "text": "Yo tenía diez años.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˈantes aβˈia mˈenos ˌeðifˈisjos."
+          "phonemes": "ʝˈo tenˈia ðjˈes ˈaɲos."
         },
         {
-          "text": "De niña jugaba en esta plaza.",
+          "text": "Tú vivías en otra ciudad.",
           "segments": [
             {
-              "text": "De niña jugaba en esta plaza.",
+              "text": "Tú vivías en otra ciudad.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "de nˈiɲa xuɣˈaβa en ˈesta plˈasa."
+          "phonemes": "tˈu βiβˈias en ˈotɾa sjuðˈad."
         },
         {
-          "text": "Eran las ocho y llovía mucho.",
+          "text": "Él jugaba en la plaza.",
           "segments": [
             {
-              "text": "Eran las ocho y llovía mucho.",
+              "text": "Él jugaba en la plaza.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˈeɾan las ˈotʃo i ʝoβˈia mˈutʃo."
+          "phonemes": "ˈel xuɣˈaβa en la plˈasa."
         },
         {
-          "text": "Mientras trabajábamos, escuchábamos la radio.",
+          "text": "Nosotros éramos vecinos.",
           "segments": [
             {
-              "text": "Mientras trabajábamos, escuchábamos la radio.",
+              "text": "Nosotros éramos vecinos.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "mjˌentɾas tɾˌaβaxˈaβamos, ˌeskutʃˈaβamos la rˈaðjo."
+          "phonemes": "nosˈotɾos ˈeɾamos βesˈinos."
         },
         {
-          "text": "La ciudad parecía más tranquila.",
+          "text": "Ellos hacían la tarea juntos.",
           "segments": [
             {
-              "text": "La ciudad parecía más tranquila.",
+              "text": "Ellos hacían la tarea juntos.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la sjuðˈad pˌaɾesˈia mˈas tɾankˈila."
+          "phonemes": "ˈejjos asˈian la taɾˈea xˈuntos."
         },
         {
-          "text": "There used to be fewer buildings.",
+          "text": "I was ten years old.",
           "segments": [
             {
-              "text": "There used to be fewer buildings.",
+              "text": "I was ten years old.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðɛɹ jˈuːzd təbi fjˈuːɚ bˈɪldɪŋz."
+          "phonemes": "aɪ wʌz tˈɛn jˈɪɹz ˈoʊld."
         },
         {
-          "text": "As a girl, I used to play in this plaza.",
+          "text": "You lived in another city.",
           "segments": [
             {
-              "text": "As a girl, I used to play in this plaza.",
+              "text": "You lived in another city.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "æz ɐ ɡˈɜːl, aɪ jˈuːzd tə plˈeɪ ɪn ðɪs plˈɑːzə."
+          "phonemes": "juː lˈɪvd ɪn ɐnˈʌðɚ sˈɪɾi."
         },
         {
-          "text": "It was eight o'clock and raining heavily.",
+          "text": "He played in the square.",
           "segments": [
             {
-              "text": "It was eight o'clock and raining heavily.",
+              "text": "He played in the square.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɪt wʌz ˈeɪt əklˈɑːk ænd ɹˈeɪnɪŋ hˈɛvili."
+          "phonemes": "hiː plˈeɪd ɪnðə skwˈɛɹ."
         },
         {
-          "text": "While we worked, we listened to the radio.",
+          "text": "We were neighbors.",
           "segments": [
             {
-              "text": "While we worked, we listened to the radio.",
+              "text": "We were neighbors.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wˌaɪl wiː wˈɜːkt, wiː lˈɪsənd tə ðə ɹˈeɪdɪˌoʊ."
+          "phonemes": "wiː wɜː nˈeɪbɚz."
         },
         {
-          "text": "The city seemed quieter.",
+          "text": "They did homework together.",
           "segments": [
             {
-              "text": "The city seemed quieter.",
+              "text": "They did homework together.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə sˈɪɾi sˈiːmd kwˈaɪəɾɚ."
+          "phonemes": "ðeɪ dˈɪd hˈoʊmwɜːk təɡˈɛðɚ."
         }
       ]
     },
@@ -243,7 +285,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Model language. Antes había menos edificios. — There used to be fewer buildings. De niña jugaba en esta plaza. — As a girl, I used to play in this plaza. Eran las ocho y llovía mucho. — It was eight o'clock and raining heavily. Mientras trabajábamos, escuchábamos la radio. — While we worked, we listened to the radio. La ciudad parecía más tranquila. — The city seemed quieter.",
+      "text": "Model language. Yo tenía diez años. — I was ten years old. Tú vivías en otra ciudad. — You lived in another city. Él jugaba en la plaza. — He played in the square. Nosotros éramos vecinos. — We were neighbors. Ellos hacían la tarea juntos. — They did homework together.",
       "sentences": [
         {
           "text": "Model language.",
@@ -256,104 +298,104 @@
           "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
         },
         {
-          "text": "Antes había menos edificios.",
+          "text": "Yo tenía diez años.",
           "segments": [
             {
-              "text": "Antes había menos edificios.",
+              "text": "Yo tenía diez años.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˈantes aβˈia mˈenos ˌeðifˈisjos."
+          "phonemes": "ʝˈo tenˈia ðjˈes ˈaɲos."
         },
         {
-          "text": "— There used to be fewer buildings.",
+          "text": "— I was ten years old.",
           "segments": [
             {
-              "text": "— There used to be fewer buildings.",
+              "text": "— I was ten years old.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ðɛɹ jˈuːzd təbi fjˈuːɚ bˈɪldɪŋz."
+          "phonemes": "— aɪ wʌz tˈɛn jˈɪɹz ˈoʊld."
         },
         {
-          "text": "De niña jugaba en esta plaza.",
+          "text": "Tú vivías en otra ciudad.",
           "segments": [
             {
-              "text": "De niña jugaba en esta plaza.",
+              "text": "Tú vivías en otra ciudad.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "de nˈiɲa xuɣˈaβa en ˈesta plˈasa."
+          "phonemes": "tˈu βiβˈias en ˈotɾa sjuðˈad."
         },
         {
-          "text": "— As a girl, I used to play in this plaza.",
+          "text": "— You lived in another city.",
           "segments": [
             {
-              "text": "— As a girl, I used to play in this plaza.",
+              "text": "— You lived in another city.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— æz ɐ ɡˈɜːl, aɪ jˈuːzd tə plˈeɪ ɪn ðɪs plˈɑːzə."
+          "phonemes": "— juː lˈɪvd ɪn ɐnˈʌðɚ sˈɪɾi."
         },
         {
-          "text": "Eran las ocho y llovía mucho.",
+          "text": "Él jugaba en la plaza.",
           "segments": [
             {
-              "text": "Eran las ocho y llovía mucho.",
+              "text": "Él jugaba en la plaza.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˈeɾan las ˈotʃo i ʝoβˈia mˈutʃo."
+          "phonemes": "ˈel xuɣˈaβa en la plˈasa."
         },
         {
-          "text": "— It was eight o'clock and raining heavily.",
+          "text": "— He played in the square.",
           "segments": [
             {
-              "text": "— It was eight o'clock and raining heavily.",
+              "text": "— He played in the square.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ɪt wʌz ˈeɪt əklˈɑːk ænd ɹˈeɪnɪŋ hˈɛvili."
+          "phonemes": "— hiː plˈeɪd ɪnðə skwˈɛɹ."
         },
         {
-          "text": "Mientras trabajábamos, escuchábamos la radio.",
+          "text": "Nosotros éramos vecinos.",
           "segments": [
             {
-              "text": "Mientras trabajábamos, escuchábamos la radio.",
+              "text": "Nosotros éramos vecinos.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "mjˌentɾas tɾˌaβaxˈaβamos, ˌeskutʃˈaβamos la rˈaðjo."
+          "phonemes": "nosˈotɾos ˈeɾamos βesˈinos."
         },
         {
-          "text": "— While we worked, we listened to the radio.",
+          "text": "— We were neighbors.",
           "segments": [
             {
-              "text": "— While we worked, we listened to the radio.",
+              "text": "— We were neighbors.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— wˌaɪl wiː wˈɜːkt, wiː lˈɪsənd tə ðə ɹˈeɪdɪˌoʊ."
+          "phonemes": "— wiː wɜː nˈeɪbɚz."
         },
         {
-          "text": "La ciudad parecía más tranquila.",
+          "text": "Ellos hacían la tarea juntos.",
           "segments": [
             {
-              "text": "La ciudad parecía más tranquila.",
+              "text": "Ellos hacían la tarea juntos.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la sjuðˈad pˌaɾesˈia mˈas tɾankˈila."
+          "phonemes": "ˈejjos asˈian la taɾˈea xˈuntos."
         },
         {
-          "text": "— The city seemed quieter.",
+          "text": "— They did homework together.",
           "segments": [
             {
-              "text": "— The city seemed quieter.",
+              "text": "— They did homework together.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ðə sˈɪɾi sˈiːmd kwˈaɪəɾɚ."
+          "phonemes": "— ðeɪ dˈɪd hˈoʊmwɜːk təɡˈɛðɚ."
         }
       ]
     },
@@ -405,129 +447,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "antes",
+      "text": "yo tenía",
       "sentences": [
         {
-          "text": "antes",
+          "text": "yo tenía",
           "segments": [
             {
-              "text": "antes",
+              "text": "yo tenía",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˈantes"
+          "phonemes": "ʝˈo tenˈia"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "de niño",
+      "text": "tú vivías",
       "sentences": [
         {
-          "text": "de niño",
+          "text": "tú vivías",
           "segments": [
             {
-              "text": "de niño",
+              "text": "tú vivías",
               "lang": "es-419"
             }
           ],
-          "phonemes": "de nˈiɲo"
+          "phonemes": "tˈu βiβˈias"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "cada día",
+      "text": "él jugaba",
       "sentences": [
         {
-          "text": "cada día",
+          "text": "él jugaba",
           "segments": [
             {
-              "text": "cada día",
+              "text": "él jugaba",
               "lang": "es-419"
             }
           ],
-          "phonemes": "kˈaða ðˈia"
+          "phonemes": "ˈel xuɣˈaβa"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "mientras",
+      "text": "nosotros éramos",
       "sentences": [
         {
-          "text": "mientras",
+          "text": "nosotros éramos",
           "segments": [
             {
-              "text": "mientras",
+              "text": "nosotros éramos",
               "lang": "es-419"
             }
           ],
-          "phonemes": "mjˈɛntɾas"
+          "phonemes": "nosˈotɾos ˈeɾamos"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "era",
+      "text": "ellos hacían",
       "sentences": [
         {
-          "text": "era",
+          "text": "ellos hacían",
           "segments": [
             {
-              "text": "era",
+              "text": "ellos hacían",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˈeɾa"
+          "phonemes": "ˈejjos asˈian"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "había",
+      "text": "la edad",
       "sentences": [
         {
-          "text": "había",
+          "text": "la edad",
           "segments": [
             {
-              "text": "había",
+              "text": "la edad",
               "lang": "es-419"
             }
           ],
-          "phonemes": "aβˈia"
+          "phonemes": "la eðˈad"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "solía",
+      "text": "la costumbre",
       "sentences": [
         {
-          "text": "solía",
+          "text": "la costumbre",
           "segments": [
             {
-              "text": "solía",
+              "text": "la costumbre",
               "lang": "es-419"
             }
           ],
-          "phonemes": "solˈia"
+          "phonemes": "la kostˈumbɾe"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "parecía",
+      "text": "la descripción",
       "sentences": [
         {
-          "text": "parecía",
+          "text": "la descripción",
           "segments": [
             {
-              "text": "parecía",
+              "text": "la descripción",
               "lang": "es-419"
             }
           ],
-          "phonemes": "pˌaɾesˈia"
+          "phonemes": "la ðˌeskɾipsjˈon"
         }
       ]
     }

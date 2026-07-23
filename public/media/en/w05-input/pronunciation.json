@@ -183,7 +183,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Lenguaje modelo. The pharmacy is near the square. — La farmacia está cerca de la plaza. There's a bank in front of the hotel. — Hay un banco delante del hotel. The museum is closed today. — El museo está cerrado hoy. Where are the restrooms? — ¿Dónde están los baños? The meeting is in the blue room. — La reunión es en la sala azul.",
+      "text": "Lenguaje modelo. The information counter is next to the entrance. — El mostrador de información está junto a la entrada. There are free maps on the counter. — Hay mapas gratis sobre el mostrador. The café is closed today. — La cafetería está cerrada hoy. The restrooms are at the end of the hallway. — Los baños están al final del pasillo. There's no one at the entrance now. — No hay nadie en la entrada ahora.",
       "sentences": [
         {
           "text": "Lenguaje modelo.",
@@ -196,104 +196,104 @@
           "phonemes": "leŋɡwˈaxe moðˈelo."
         },
         {
-          "text": "The pharmacy is near the square.",
+          "text": "The information counter is next to the entrance.",
           "segments": [
             {
-              "text": "The pharmacy is near the square.",
+              "text": "The information counter is next to the entrance.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə fˈɑːɹməsi ɪz nˌɪɹ ðə skwˈɛɹ."
+          "phonemes": "ðɪ ˌɪnfɚmˈeɪʃən kˈaʊntɚɹ ɪz nˈɛkst tə ðɪ ˈɛntɹəns."
         },
         {
-          "text": "— La farmacia está cerca de la plaza.",
+          "text": "— El mostrador de información está junto a la entrada.",
           "segments": [
             {
-              "text": "— La farmacia está cerca de la plaza.",
+              "text": "— El mostrador de información está junto a la entrada.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— la faɾmˈasja estˈa sˈeɾka ðe la plˈasa."
+          "phonemes": "— el mˌostɾaðˈoɾ ðe ˌinfoɾmasjˈon estˈa xˈunto a la entɾˈaða."
         },
         {
-          "text": "There's a bank in front of the hotel.",
+          "text": "There are free maps on the counter.",
           "segments": [
             {
-              "text": "There's a bank in front of the hotel.",
+              "text": "There are free maps on the counter.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðɛɹz ɐ bˈæŋk ɪn fɹˈʌnt ʌvðə hoʊtˈɛl."
+          "phonemes": "ðɛɹˌɑːɹ fɹˈiː mˈæps ɔnðə kˈaʊntɚ."
         },
         {
-          "text": "— Hay un banco delante del hotel.",
+          "text": "— Hay mapas gratis sobre el mostrador.",
           "segments": [
             {
-              "text": "— Hay un banco delante del hotel.",
+              "text": "— Hay mapas gratis sobre el mostrador.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— ˈaɪ ˈum bˈanko ðelˈante ðel otˈel."
+          "phonemes": "— ˈaɪ mˈapas ɣɾˈatis sˌoβɾe el mˌostɾaðˈoɾ."
         },
         {
-          "text": "The museum is closed today.",
+          "text": "The café is closed today.",
           "segments": [
             {
-              "text": "The museum is closed today.",
+              "text": "The café is closed today.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə mjuːzˈiəm ɪz klˈoʊzd tədˈeɪ."
+          "phonemes": "ðə kæfˈeɪ ɪz klˈoʊzd tədˈeɪ."
         },
         {
-          "text": "— El museo está cerrado hoy.",
+          "text": "— La cafetería está cerrada hoy.",
           "segments": [
             {
-              "text": "— El museo está cerrado hoy.",
+              "text": "— La cafetería está cerrada hoy.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— el musˈeo estˈa serˈaðo ˈoɪ."
+          "phonemes": "— la kˌafeteɾˈia estˈa serˈaða ˈoɪ."
         },
         {
-          "text": "Where are the restrooms?",
+          "text": "The restrooms are at the end of the hallway.",
           "segments": [
             {
-              "text": "Where are the restrooms?",
+              "text": "The restrooms are at the end of the hallway.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wˌɛɹ ɑːɹ ðə ɹˈɛstɹuːmz?"
+          "phonemes": "ðə ɹˈɛstɹuːmz ɑːɹ æt ðɪ ˈɛnd ʌvðə hˈɔːlweɪ."
         },
         {
-          "text": "— ¿Dónde están los baños?",
+          "text": "— Los baños están al final del pasillo.",
           "segments": [
             {
-              "text": "— ¿Dónde están los baños?",
+              "text": "— Los baños están al final del pasillo.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— dˈonde estˈan los βˈaɲos?"
+          "phonemes": "— los βˈaɲos estˈan al finˈal ðel pasˈijjo."
         },
         {
-          "text": "The meeting is in the blue room.",
+          "text": "There's no one at the entrance now.",
           "segments": [
             {
-              "text": "The meeting is in the blue room.",
+              "text": "There's no one at the entrance now.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə mˈiːɾɪŋ ɪz ɪnðə blˈuː ɹˈuːm."
+          "phonemes": "ðɛɹz nˈoʊwˈʌn æt ðɪ ˈɛntɹəns nˈaʊ."
         },
         {
-          "text": "— La reunión es en la sala azul.",
+          "text": "— No hay nadie en la entrada ahora.",
           "segments": [
             {
-              "text": "— La reunión es en la sala azul.",
+              "text": "— No hay nadie en la entrada ahora.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— la reʊnjˈon ˈes en la sˈala asˈul."
+          "phonemes": "— nˈo ˈaɪ nˈaðje en la entɾˈaða aˈoɾa."
         }
       ]
     },
@@ -345,129 +345,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "here",
+      "text": "a counter",
       "sentences": [
         {
-          "text": "here",
+          "text": "a counter",
           "segments": [
             {
-              "text": "here",
+              "text": "a counter",
               "lang": "en-us"
             }
           ],
-          "phonemes": "hˈɪɹ"
+          "phonemes": "ɐ kˈaʊntɚ"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "there",
+      "text": "a map",
       "sentences": [
         {
-          "text": "there",
+          "text": "a map",
           "segments": [
             {
-              "text": "there",
+              "text": "a map",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðˈɛɹ"
+          "phonemes": "ɐ mˈæp"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "near",
+      "text": "free",
       "sentences": [
         {
-          "text": "near",
+          "text": "free",
           "segments": [
             {
-              "text": "near",
+              "text": "free",
               "lang": "en-us"
             }
           ],
-          "phonemes": "nˈɪɹ"
+          "phonemes": "fɹˈiː"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "far",
+      "text": "a hallway",
       "sentences": [
         {
-          "text": "far",
+          "text": "a hallway",
           "segments": [
             {
-              "text": "far",
+              "text": "a hallway",
               "lang": "en-us"
             }
           ],
-          "phonemes": "fˈɑːɹ"
+          "phonemes": "ɐ hˈɔːlweɪ"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "open",
+      "text": "at the end of",
       "sentences": [
         {
-          "text": "open",
+          "text": "at the end of",
           "segments": [
             {
-              "text": "open",
+              "text": "at the end of",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ˈoʊpən"
+          "phonemes": "æt ðɪ ˈɛnd ʌv"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "closed",
+      "text": "beside",
       "sentences": [
         {
-          "text": "closed",
+          "text": "beside",
           "segments": [
             {
-              "text": "closed",
+              "text": "beside",
               "lang": "en-us"
             }
           ],
-          "phonemes": "klˈoʊzd"
+          "phonemes": "bᵻsˈaɪd"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "in front of",
+      "text": "an entrance",
       "sentences": [
         {
-          "text": "in front of",
+          "text": "an entrance",
           "segments": [
             {
-              "text": "in front of",
+              "text": "an entrance",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɪn fɹˈʌnt ʌv"
+          "phonemes": "ɐn ˈɛntɹəns"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "behind",
+      "text": "a café",
       "sentences": [
         {
-          "text": "behind",
+          "text": "a café",
           "segments": [
             {
-              "text": "behind",
+              "text": "a café",
               "lang": "en-us"
             }
           ],
-          "phonemes": "bᵻhˈaɪnd"
+          "phonemes": "ɐ kæfˈeɪ"
         }
       ]
     }

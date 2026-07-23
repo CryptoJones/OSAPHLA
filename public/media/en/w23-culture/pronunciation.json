@@ -163,7 +163,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Lenguaje modelo. We've already completed the first phase. — Ya hemos completado la primera fase. The data haven't arrived yet. — Los datos todavía no han llegado. Have you ever worked abroad? — ¿Alguna vez has trabajado en el extranjero? I had sent the report before she called. — Había enviado el informe antes de que ella llamara. The situation has changed recently. — La situación ha cambiado recientemente.",
+      "text": "Lenguaje modelo. Regional preference shapes which past tense speakers choose. — La preferencia regional determina qué tiempo pasado eligen los hablantes. Present perfect and simple past can be nearly equivalent. — El presente perfecto y el pasado simple pueden ser casi equivalentes. Neither form is universally preferable. — Ninguna forma es universalmente preferible. Usage depends on the speaker. — El uso depende del hablante. Neither choice is incorrect. — Ninguna opción es incorrecta.",
       "sentences": [
         {
           "text": "Lenguaje modelo.",
@@ -176,104 +176,104 @@
           "phonemes": "leŋɡwˈaxe moðˈelo."
         },
         {
-          "text": "We've already completed the first phase.",
+          "text": "Regional preference shapes which past tense speakers choose.",
           "segments": [
             {
-              "text": "We've already completed the first phase.",
+              "text": "Regional preference shapes which past tense speakers choose.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wiːv ɔːlɹˌɛdi kəmplˈiːɾᵻd ðə fˈɜːst fˈeɪz."
+          "phonemes": "ɹˈiːdʒənəl pɹˈɛfɹəns ʃˈeɪps wˌɪtʃ pˈæst tˈɛns spˈiːkɚz tʃˈuːz."
         },
         {
-          "text": "— Ya hemos completado la primera fase.",
+          "text": "— La preferencia regional determina qué tiempo pasado eligen los hablantes.",
           "segments": [
             {
-              "text": "— Ya hemos completado la primera fase.",
+              "text": "— La preferencia regional determina qué tiempo pasado eligen los hablantes.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— ʝˈa ˈemos kˌompletˈaðo la pɾimˈeɾa fˈase."
+          "phonemes": "— la pɾˌefeɾˈɛnsja rˌexjonˈal ðˌeteɾmˈina kˈe tjˈempo pasˈaðo elˈixen los aβlˈantes."
         },
         {
-          "text": "The data haven't arrived yet.",
+          "text": "Present perfect and simple past can be nearly equivalent.",
           "segments": [
             {
-              "text": "The data haven't arrived yet.",
+              "text": "Present perfect and simple past can be nearly equivalent.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə dˈeɪɾə hˈævənt ɚɹˈaɪvd jˈɛt."
+          "phonemes": "pɹˈɛzənt pˈɜːfɛkt ænd sˈɪmpəl pˈæst kæn biː nˌɪɹli ɪkwˈɪvələnt."
         },
         {
-          "text": "— Los datos todavía no han llegado.",
+          "text": "— El presente perfecto y el pasado simple pueden ser casi equivalentes.",
           "segments": [
             {
-              "text": "— Los datos todavía no han llegado.",
+              "text": "— El presente perfecto y el pasado simple pueden ser casi equivalentes.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— los ðˈatos tˌoðaβˈia nˈo ˈan dʒeɣˈaðo."
+          "phonemes": "— el pɾesˈɛnte peɾfˈekto i el pasˈaðo sˈimple pwˈeðen sˈer kˈasi ˌekiβalˈɛntes."
         },
         {
-          "text": "Have you ever worked abroad?",
+          "text": "Neither form is universally preferable.",
           "segments": [
             {
-              "text": "Have you ever worked abroad?",
+              "text": "Neither form is universally preferable.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "hæv juː ˈɛvɚ wˈɜːkt ɐbɹˈɔːd?"
+          "phonemes": "nˈiːðɚ fˈɔːɹm ɪz jˌuːnɪvˈɜːsəli pɹɪfˈɜːɹəbəl."
         },
         {
-          "text": "— ¿Alguna vez has trabajado en el extranjero?",
+          "text": "— Ninguna forma es universalmente preferible.",
           "segments": [
             {
-              "text": "— ¿Alguna vez has trabajado en el extranjero?",
+              "text": "— Ninguna forma es universalmente preferible.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— alɣˈuna βˈes ˈas tɾˌaβaxˈaðo en el ˌekstɾaŋxˈeɾo?"
+          "phonemes": "— niŋɡˈuna fˈoɾma ˈes ˌuniβeɾsˈalmˈente pɾˌefeɾˈiβle."
         },
         {
-          "text": "I had sent the report before she called.",
+          "text": "Usage depends on the speaker.",
           "segments": [
             {
-              "text": "I had sent the report before she called.",
+              "text": "Usage depends on the speaker.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪ hæd sˈɛnt ðə ɹᵻpˈɔːɹt bᵻfˌɔːɹ ʃiː kˈɔːld."
+          "phonemes": "jˈuːsɪdʒ dᵻpˈɛndz ɔnðə spˈiːkɚ."
         },
         {
-          "text": "— Había enviado el informe antes de que ella llamara.",
+          "text": "— El uso depende del hablante.",
           "segments": [
             {
-              "text": "— Había enviado el informe antes de que ella llamara.",
+              "text": "— El uso depende del hablante.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— aβˈia embjˈaðo el infˈoɾme ˈantes ðe ke ˈejja ʝamˈaɾa."
+          "phonemes": "— el ˈuso ðepˈɛnde ðel aβlˈante."
         },
         {
-          "text": "The situation has changed recently.",
+          "text": "Neither choice is incorrect.",
           "segments": [
             {
-              "text": "The situation has changed recently.",
+              "text": "Neither choice is incorrect.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə sˌɪtʃuːˈeɪʃən hɐz tʃˈeɪndʒd ɹˈiːsəntli."
+          "phonemes": "nˈiːðɚ tʃˈɔɪs ɪz ɪŋkɚɹˈɛkt."
         },
         {
-          "text": "— La situación ha cambiado recientemente.",
+          "text": "— Ninguna opción es incorrecta.",
           "segments": [
             {
-              "text": "— La situación ha cambiado recientemente.",
+              "text": "— Ninguna opción es incorrecta.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— la sˌitwasjˈon ˈa kambjˈaðo resjˈɛntemˈente."
+          "phonemes": "— niŋɡˈuna opsjˈon ˈes ˌinkorˈekta."
         }
       ]
     },
@@ -325,129 +325,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "already",
+      "text": "regional preference",
       "sentences": [
         {
-          "text": "already",
+          "text": "regional preference",
           "segments": [
             {
-              "text": "already",
+              "text": "regional preference",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɔːlɹˈɛdi"
+          "phonemes": "ɹˈiːdʒənəl pɹˈɛfɹəns"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "yet",
+      "text": "present perfect",
       "sentences": [
         {
-          "text": "yet",
+          "text": "present perfect",
           "segments": [
             {
-              "text": "yet",
+              "text": "present perfect",
               "lang": "en-us"
             }
           ],
-          "phonemes": "jˈɛt"
+          "phonemes": "pɹˈɛzənt pˈɜːfɛkt"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "ever",
+      "text": "simple past",
       "sentences": [
         {
-          "text": "ever",
+          "text": "simple past",
           "segments": [
             {
-              "text": "ever",
+              "text": "simple past",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ˈɛvɚ"
+          "phonemes": "sˈɪmpəl pˈæst"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "never",
+      "text": "equivalent",
       "sentences": [
         {
-          "text": "never",
+          "text": "equivalent",
           "segments": [
             {
-              "text": "never",
+              "text": "equivalent",
               "lang": "en-us"
             }
           ],
-          "phonemes": "nˈɛvɚ"
+          "phonemes": "ɪkwˈɪvələnt"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "since",
+      "text": "universally preferable",
       "sentences": [
         {
-          "text": "since",
+          "text": "universally preferable",
           "segments": [
             {
-              "text": "since",
+              "text": "universally preferable",
               "lang": "en-us"
             }
           ],
-          "phonemes": "sˈɪns"
+          "phonemes": "jˌuːnɪvˈɜːsəli pɹɪfˈɜːɹəbəl"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "for",
+      "text": "usage",
       "sentences": [
         {
-          "text": "for",
+          "text": "usage",
           "segments": [
             {
-              "text": "for",
+              "text": "usage",
               "lang": "en-us"
             }
           ],
-          "phonemes": "fɔːɹ"
+          "phonemes": "jˈuːsɪdʒ"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "recently",
+      "text": "to vary",
       "sentences": [
         {
-          "text": "recently",
+          "text": "to vary",
           "segments": [
             {
-              "text": "recently",
+              "text": "to vary",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɹˈiːsəntli"
+          "phonemes": "tə vˈɛɹi"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "to complete",
+      "text": "a speaker",
       "sentences": [
         {
-          "text": "to complete",
+          "text": "a speaker",
           "segments": [
             {
-              "text": "to complete",
+              "text": "a speaker",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə kəmplˈiːt"
+          "phonemes": "ɐ spˈiːkɚ"
         }
       ]
     }

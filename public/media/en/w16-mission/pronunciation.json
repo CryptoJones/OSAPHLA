@@ -143,7 +143,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Lenguaje modelo. It's going to rain on the coast tomorrow. — Mañana va a llover en la costa. It's windy in the mountains. — Hace viento en las montañas. If the weather changes, we'll return early. — Si cambia el tiempo, regresaremos temprano. Fires are not allowed in the forest. — No se permiten fogatas en el bosque. We're protecting a water source. — Estamos protegiendo una fuente de agua.",
+      "text": "Lenguaje modelo. I'm going to inform the group about the weather. — Voy a informar al grupo sobre el clima. I describe the terrain in detail. — Describo el terreno con detalle. We modify the route for greater safety. — Modificamos la ruta para mayor seguridad. We review the plan in advance. — Revisamos el plan con anticipación. This way we travel safely. — Así viajamos de forma segura.",
       "sentences": [
         {
           "text": "Lenguaje modelo.",
@@ -156,104 +156,104 @@
           "phonemes": "leŋɡwˈaxe moðˈelo."
         },
         {
-          "text": "It's going to rain on the coast tomorrow.",
+          "text": "I'm going to inform the group about the weather.",
           "segments": [
             {
-              "text": "It's going to rain on the coast tomorrow.",
+              "text": "I'm going to inform the group about the weather.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɪts ɡˌoʊɪŋ tə ɹˈeɪn ɔnðə kˈoʊst təmˈɑːɹoʊ."
+          "phonemes": "aɪm ɡˌoʊɪŋ tʊ ɪnfˈɔːɹm ðə ɡɹˈuːp ɐbˌaʊt ðə wˈɛðɚ."
         },
         {
-          "text": "— Mañana va a llover en la costa.",
+          "text": "— Voy a informar al grupo sobre el clima.",
           "segments": [
             {
-              "text": "— Mañana va a llover en la costa.",
+              "text": "— Voy a informar al grupo sobre el clima.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— maɲˈana βˈa a ʝoβˈeɾ en la kˈosta."
+          "phonemes": "— bˈoɪ a ˌinfoɾmˈaɾ al ɣɾˈupo sˌoβɾe el klˈima."
         },
         {
-          "text": "It's windy in the mountains.",
+          "text": "I describe the terrain in detail.",
           "segments": [
             {
-              "text": "It's windy in the mountains.",
+              "text": "I describe the terrain in detail.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɪts wˈɪndi ɪnðə mˈaʊntɪnz."
+          "phonemes": "aɪ dᵻskɹˈaɪb ðə tɚɹˈeɪn ɪn diːtˈeɪl."
         },
         {
-          "text": "— Hace viento en las montañas.",
+          "text": "— Describo el terreno con detalle.",
           "segments": [
             {
-              "text": "— Hace viento en las montañas.",
+              "text": "— Describo el terreno con detalle.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— ˈase βjˈɛnto en las montˈaɲas."
+          "phonemes": "— deskɾˈiβo el terˈeno kon detˈajje."
         },
         {
-          "text": "If the weather changes, we'll return early.",
+          "text": "We modify the route for greater safety.",
           "segments": [
             {
-              "text": "If the weather changes, we'll return early.",
+              "text": "We modify the route for greater safety.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɪf ðə wˈɛðɚ tʃˈeɪndʒᵻz, wiːl ɹᵻtˈɜːn ˈɜːli."
+          "phonemes": "wiː mˈɑːdᵻfˌaɪ ðə ɹˈaʊt fɔːɹ ɡɹˈeɪɾɚ sˈeɪfti."
         },
         {
-          "text": "— Si cambia el tiempo, regresaremos temprano.",
+          "text": "— Modificamos la ruta para mayor seguridad.",
           "segments": [
             {
-              "text": "— Si cambia el tiempo, regresaremos temprano.",
+              "text": "— Modificamos la ruta para mayor seguridad.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— si kˈambja el tjˈempo, rˌeɣɾesaɾˈemos tempɾˈano."
+          "phonemes": "— mˌoðifikˈamos la rˈuta pˌaɾa maʝˈoɾ sˌeɣuɾiðˈad."
         },
         {
-          "text": "Fires are not allowed in the forest.",
+          "text": "We review the plan in advance.",
           "segments": [
             {
-              "text": "Fires are not allowed in the forest.",
+              "text": "We review the plan in advance.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "fˈaɪɚz ɑːɹ nˌɑːt ɐlˈaʊd ɪnðə fˈɔːɹɪst."
+          "phonemes": "wiː ɹᵻvjˈuː ðə plˈæn ɪn ɐdvˈæns."
         },
         {
-          "text": "— No se permiten fogatas en el bosque.",
+          "text": "— Revisamos el plan con anticipación.",
           "segments": [
             {
-              "text": "— No se permiten fogatas en el bosque.",
+              "text": "— Revisamos el plan con anticipación.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— nˈo se peɾmˈiten foɣˈatas en el βˈoske."
+          "phonemes": "— rˌeβisˈamos el plˈan kon ˌantisˌipasjˈon."
         },
         {
-          "text": "We're protecting a water source.",
+          "text": "This way we travel safely.",
           "segments": [
             {
-              "text": "We're protecting a water source.",
+              "text": "This way we travel safely.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wɪɹ pɹətˈɛktɪŋ ɐ wˈɔːɾɚ sˈɔːɹs."
+          "phonemes": "ðɪs wˈeɪ wiː tɹˈævəl sˈeɪfli."
         },
         {
-          "text": "— Estamos protegiendo una fuente de agua.",
+          "text": "— Así viajamos de forma segura.",
           "segments": [
             {
-              "text": "— Estamos protegiendo una fuente de agua.",
+              "text": "— Así viajamos de forma segura.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— estˈamos pɾˌotexjˈɛndo ˈuna fwˈɛnte ðe ˈaɣwa."
+          "phonemes": "— asˈi βjaxˈamos ðe fˈoɾma seɣˈuɾa."
         }
       ]
     },
@@ -305,129 +305,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "rain",
+      "text": "to inform",
       "sentences": [
         {
-          "text": "rain",
+          "text": "to inform",
           "segments": [
             {
-              "text": "rain",
+              "text": "to inform",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɹˈeɪn"
+          "phonemes": "tʊ ɪnfˈɔːɹm"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "wind",
+      "text": "terrain",
       "sentences": [
         {
-          "text": "wind",
+          "text": "terrain",
           "segments": [
             {
-              "text": "wind",
+              "text": "terrain",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wˈɪnd"
+          "phonemes": "tɚɹˈeɪn"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "a forecast",
+      "text": "to modify",
       "sentences": [
         {
-          "text": "a forecast",
+          "text": "to modify",
           "segments": [
             {
-              "text": "a forecast",
+              "text": "to modify",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ fˈɔːɹkæst"
+          "phonemes": "tə mˈɑːdᵻfˌaɪ"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "a mountain",
+      "text": "a checkpoint",
       "sentences": [
         {
-          "text": "a mountain",
+          "text": "a checkpoint",
           "segments": [
             {
-              "text": "a mountain",
+              "text": "a checkpoint",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ mˈaʊntɪn"
+          "phonemes": "ɐ tʃˈɛkpɔɪnt"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "a coast",
+      "text": "a group",
       "sentences": [
         {
-          "text": "a coast",
+          "text": "a group",
           "segments": [
             {
-              "text": "a coast",
+              "text": "a group",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ kˈoʊst"
+          "phonemes": "ɐ ɡɹˈuːp"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "a trail",
+      "text": "to review",
       "sentences": [
         {
-          "text": "a trail",
+          "text": "to review",
           "segments": [
             {
-              "text": "a trail",
+              "text": "to review",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ tɹˈeɪl"
+          "phonemes": "tə ɹᵻvjˈuː"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "safe",
+      "text": "safety",
       "sentences": [
         {
-          "text": "safe",
+          "text": "safety",
           "segments": [
             {
-              "text": "safe",
+              "text": "safety",
               "lang": "en-us"
             }
           ],
-          "phonemes": "sˈeɪf"
+          "phonemes": "sˈeɪfti"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "to change",
+      "text": "in advance",
       "sentences": [
         {
-          "text": "to change",
+          "text": "in advance",
           "segments": [
             {
-              "text": "to change",
+              "text": "in advance",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə tʃˈeɪndʒ"
+          "phonemes": "ɪn ɐdvˈæns"
         }
       ]
     }

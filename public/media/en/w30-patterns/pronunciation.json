@@ -29,7 +29,7 @@
     },
     {
       "file": "01.wav",
-      "text": "Forma y significado. Voz pasiva en varios tiempos; by para agente; have/get something done; construcciones impersonales.",
+      "text": "Forma y significado. Aplicación de la forma. La pasiva usa be + participio (was approved) y suele añadir by + agente; have/get something done describe una acción que otra persona realiza para ti.",
       "sentences": [
         {
           "text": "Forma y significado.",
@@ -42,10 +42,36 @@
           "phonemes": "fˈoɾma i sˌiɡnifikˈaðo."
         },
         {
-          "text": "Voz pasiva en varios tiempos; by para agente; have/get something done; construcciones impersonales.",
+          "text": "Aplicación de la forma.",
           "segments": [
             {
-              "text": "Voz pasiva en varios tiempos; ",
+              "text": "Aplicación de la forma.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˌaplikasjˈon de la fˈoɾma."
+        },
+        {
+          "text": "La pasiva usa be + participio (was approved) y suele añadir by + agente; have/get something done describe una acción que otra persona realiza para ti.",
+          "segments": [
+            {
+              "text": "La pasiva usa ",
+              "lang": "es-419"
+            },
+            {
+              "text": "be",
+              "lang": "en-us"
+            },
+            {
+              "text": " + participio (",
+              "lang": "es-419"
+            },
+            {
+              "text": "was approved",
+              "lang": "en-us"
+            },
+            {
+              "text": ") y suele añadir ",
               "lang": "es-419"
             },
             {
@@ -53,7 +79,7 @@
               "lang": "en-us"
             },
             {
-              "text": " para agente; ",
+              "text": " + agente; ",
               "lang": "es-419"
             },
             {
@@ -69,17 +95,17 @@
               "lang": "en-us"
             },
             {
-              "text": "; construcciones impersonales.",
+              "text": " describe una acción que otra persona realiza para ti.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "bˈos pasˈiβa em bˈaɾjos tjˈempos; bˈaɪ pˌaɾa axˈɛnte; hˈæv bˈara ɡɛt sˈʌmθɪŋ dˈʌn ; kˌonstɾuksjˈones ˌimpeɾsonˈales."
+          "phonemes": "la pasˈiβa ˈusa bˈiː mˈas pˌaɾtisˈipjo ( wʌz ɐpɹˈuːvd ) i swˈele ˌaɲaðˈiɾ bˈaɪ mˈas axˈɛnte; hˈæv bˈara ɡɛt sˈʌmθɪŋ dˈʌn deskɾˈiβe ˈuna aksjˈon ke ˈotɾa peɾsˈona rˌealˈisa pˌaɾa tˈi."
         }
       ]
     },
     {
       "file": "02.wav",
-      "text": "Conjunto de modelos. The measure was approved by the council. The results were published yesterday. We're having the system repaired. The service was closed because of funding cuts. Identification is required to enter. La medida fue aprobada por el consejo. Los resultados se publicaron ayer. Estamos haciendo reparar el sistema. El servicio se cerró por recortes de fondos. Se requiere identificación para entrar.",
+      "text": "Conjunto de modelos. The report was written by her. I work to improve the service. The law was approved by congress. The data were published yesterday. We had the system repaired last week. El informe fue escrito por ella. Trabajo para mejorar el servicio. La ley fue aprobada por el congreso. Los datos fueron publicados ayer. Hicimos reparar el sistema la semana pasada.",
       "sentences": [
         {
           "text": "Conjunto de modelos.",
@@ -92,104 +118,104 @@
           "phonemes": "koŋxˈunto ðe moðˈelos."
         },
         {
-          "text": "The measure was approved by the council.",
+          "text": "The report was written by her.",
           "segments": [
             {
-              "text": "The measure was approved by the council.",
+              "text": "The report was written by her.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə mˈɛʒɚ wʌz ɐpɹˈuːvd baɪ ðə kˈaʊnsəl."
+          "phonemes": "ðə ɹᵻpˈɔːɹt wʌz ɹˈɪʔn baɪ hɜː."
         },
         {
-          "text": "The results were published yesterday.",
+          "text": "I work to improve the service.",
           "segments": [
             {
-              "text": "The results were published yesterday.",
+              "text": "I work to improve the service.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə ɹɪzˈʌlts wɜː pˈʌblɪʃt jˈɛstɚdˌeɪ."
+          "phonemes": "aɪ wˈɜːk tʊ ɪmpɹˈuːv ðə sˈɜːvɪs."
         },
         {
-          "text": "We're having the system repaired.",
+          "text": "The law was approved by congress.",
           "segments": [
             {
-              "text": "We're having the system repaired.",
+              "text": "The law was approved by congress.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wɪɹ hˌævɪŋ ðə sˈɪstəm ɹᵻpˈɛɹd."
+          "phonemes": "ðə lˈɔː wʌz ɐpɹˈuːvd baɪ kˈɑːŋɡɹəs."
         },
         {
-          "text": "The service was closed because of funding cuts.",
+          "text": "The data were published yesterday.",
           "segments": [
             {
-              "text": "The service was closed because of funding cuts.",
+              "text": "The data were published yesterday.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə sˈɜːvɪs wʌz klˈoʊzd bɪkˈʌz ʌv fˈʌndɪŋ kˈʌts."
+          "phonemes": "ðə dˈeɪɾə wɜː pˈʌblɪʃt jˈɛstɚdˌeɪ."
         },
         {
-          "text": "Identification is required to enter.",
+          "text": "We had the system repaired last week.",
           "segments": [
             {
-              "text": "Identification is required to enter.",
+              "text": "We had the system repaired last week.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪdˈɛntɪfɪkˈeɪʃən ɪz ɹᵻkwˈaɪɚd tʊ ˈɛntɚ."
+          "phonemes": "wiː hæd ðə sˈɪstəm ɹᵻpˈɛɹd lˈæst wˈiːk."
         },
         {
-          "text": "La medida fue aprobada por el consejo.",
+          "text": "El informe fue escrito por ella.",
           "segments": [
             {
-              "text": "La medida fue aprobada por el consejo.",
+              "text": "El informe fue escrito por ella.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la meðˈiða fwˈe ˌapɾoβˈaða poɾ el konsˈexo."
+          "phonemes": "el infˈoɾme fwˈe eskɾˈito poɾ ˈejja."
         },
         {
-          "text": "Los resultados se publicaron ayer.",
+          "text": "Trabajo para mejorar el servicio.",
           "segments": [
             {
-              "text": "Los resultados se publicaron ayer.",
+              "text": "Trabajo para mejorar el servicio.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "los rˌesultˈaðos se pˌuβlikˈaɾon aʝˈeɾ."
+          "phonemes": "tɾaβˈaxo pˌaɾa mˌexoɾˈaɾ el seɾβˈisjo."
         },
         {
-          "text": "Estamos haciendo reparar el sistema.",
+          "text": "La ley fue aprobada por el congreso.",
           "segments": [
             {
-              "text": "Estamos haciendo reparar el sistema.",
+              "text": "La ley fue aprobada por el congreso.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "estˈamos asjˈɛndo rˌepaɾˈaɾ el sistˈema."
+          "phonemes": "la lˈeɪ fwˈe ˌapɾoβˈaða poɾ el koŋɡɾˈeso."
         },
         {
-          "text": "El servicio se cerró por recortes de fondos.",
+          "text": "Los datos fueron publicados ayer.",
           "segments": [
             {
-              "text": "El servicio se cerró por recortes de fondos.",
+              "text": "Los datos fueron publicados ayer.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el seɾβˈisjo se serˈo poɾ rekˈoɾtes ðe fˈondos."
+          "phonemes": "los ðˈatos fwˈeɾom pˌuβlikˈaðos aʝˈeɾ."
         },
         {
-          "text": "Se requiere identificación para entrar.",
+          "text": "Hicimos reparar el sistema la semana pasada.",
           "segments": [
             {
-              "text": "Se requiere identificación para entrar.",
+              "text": "Hicimos reparar el sistema la semana pasada.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "se rekjˈeɾe ˌiðentˌifikasjˈom pˌaɾa entɾˈaɾ."
+          "phonemes": "isˈimos rˌepaɾˈaɾ el sistˈema la semˈana pasˈaða."
         }
       ]
     },
@@ -257,7 +283,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Lenguaje modelo. The measure was approved by the council. — La medida fue aprobada por el consejo. The results were published yesterday. — Los resultados se publicaron ayer. We're having the system repaired. — Estamos haciendo reparar el sistema. The service was closed because of funding cuts. — El servicio se cerró por recortes de fondos. Identification is required to enter. — Se requiere identificación para entrar.",
+      "text": "Lenguaje modelo. The report was written by her. — El informe fue escrito por ella. I work to improve the service. — Trabajo para mejorar el servicio. The law was approved by congress. — La ley fue aprobada por el congreso. The data were published yesterday. — Los datos fueron publicados ayer. We had the system repaired last week. — Hicimos reparar el sistema la semana pasada.",
       "sentences": [
         {
           "text": "Lenguaje modelo.",
@@ -270,104 +296,104 @@
           "phonemes": "leŋɡwˈaxe moðˈelo."
         },
         {
-          "text": "The measure was approved by the council.",
+          "text": "The report was written by her.",
           "segments": [
             {
-              "text": "The measure was approved by the council.",
+              "text": "The report was written by her.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə mˈɛʒɚ wʌz ɐpɹˈuːvd baɪ ðə kˈaʊnsəl."
+          "phonemes": "ðə ɹᵻpˈɔːɹt wʌz ɹˈɪʔn baɪ hɜː."
         },
         {
-          "text": "— La medida fue aprobada por el consejo.",
+          "text": "— El informe fue escrito por ella.",
           "segments": [
             {
-              "text": "— La medida fue aprobada por el consejo.",
+              "text": "— El informe fue escrito por ella.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— la meðˈiða fwˈe ˌapɾoβˈaða poɾ el konsˈexo."
+          "phonemes": "— el infˈoɾme fwˈe eskɾˈito poɾ ˈejja."
         },
         {
-          "text": "The results were published yesterday.",
+          "text": "I work to improve the service.",
           "segments": [
             {
-              "text": "The results were published yesterday.",
+              "text": "I work to improve the service.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə ɹɪzˈʌlts wɜː pˈʌblɪʃt jˈɛstɚdˌeɪ."
+          "phonemes": "aɪ wˈɜːk tʊ ɪmpɹˈuːv ðə sˈɜːvɪs."
         },
         {
-          "text": "— Los resultados se publicaron ayer.",
+          "text": "— Trabajo para mejorar el servicio.",
           "segments": [
             {
-              "text": "— Los resultados se publicaron ayer.",
+              "text": "— Trabajo para mejorar el servicio.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— los rˌesultˈaðos se pˌuβlikˈaɾon aʝˈeɾ."
+          "phonemes": "— tɾaβˈaxo pˌaɾa mˌexoɾˈaɾ el seɾβˈisjo."
         },
         {
-          "text": "We're having the system repaired.",
+          "text": "The law was approved by congress.",
           "segments": [
             {
-              "text": "We're having the system repaired.",
+              "text": "The law was approved by congress.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wɪɹ hˌævɪŋ ðə sˈɪstəm ɹᵻpˈɛɹd."
+          "phonemes": "ðə lˈɔː wʌz ɐpɹˈuːvd baɪ kˈɑːŋɡɹəs."
         },
         {
-          "text": "— Estamos haciendo reparar el sistema.",
+          "text": "— La ley fue aprobada por el congreso.",
           "segments": [
             {
-              "text": "— Estamos haciendo reparar el sistema.",
+              "text": "— La ley fue aprobada por el congreso.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— estˈamos asjˈɛndo rˌepaɾˈaɾ el sistˈema."
+          "phonemes": "— la lˈeɪ fwˈe ˌapɾoβˈaða poɾ el koŋɡɾˈeso."
         },
         {
-          "text": "The service was closed because of funding cuts.",
+          "text": "The data were published yesterday.",
           "segments": [
             {
-              "text": "The service was closed because of funding cuts.",
+              "text": "The data were published yesterday.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə sˈɜːvɪs wʌz klˈoʊzd bɪkˈʌz ʌv fˈʌndɪŋ kˈʌts."
+          "phonemes": "ðə dˈeɪɾə wɜː pˈʌblɪʃt jˈɛstɚdˌeɪ."
         },
         {
-          "text": "— El servicio se cerró por recortes de fondos.",
+          "text": "— Los datos fueron publicados ayer.",
           "segments": [
             {
-              "text": "— El servicio se cerró por recortes de fondos.",
+              "text": "— Los datos fueron publicados ayer.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— el seɾβˈisjo se serˈo poɾ rekˈoɾtes ðe fˈondos."
+          "phonemes": "— los ðˈatos fwˈeɾom pˌuβlikˈaðos aʝˈeɾ."
         },
         {
-          "text": "Identification is required to enter.",
+          "text": "We had the system repaired last week.",
           "segments": [
             {
-              "text": "Identification is required to enter.",
+              "text": "We had the system repaired last week.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪdˈɛntɪfɪkˈeɪʃən ɪz ɹᵻkwˈaɪɚd tʊ ˈɛntɚ."
+          "phonemes": "wiː hæd ðə sˈɪstəm ɹᵻpˈɛɹd lˈæst wˈiːk."
         },
         {
-          "text": "— Se requiere identificación para entrar.",
+          "text": "— Hicimos reparar el sistema la semana pasada.",
           "segments": [
             {
-              "text": "— Se requiere identificación para entrar.",
+              "text": "— Hicimos reparar el sistema la semana pasada.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— se rekjˈeɾe ˌiðentˌifikasjˈom pˌaɾa entɾˈaɾ."
+          "phonemes": "— isˈimos rˌepaɾˈaɾ el sistˈema la semˈana pasˈaða."
         }
       ]
     },
@@ -419,129 +445,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "to approve",
+      "text": "was approved",
       "sentences": [
         {
-          "text": "to approve",
+          "text": "was approved",
           "segments": [
             {
-              "text": "to approve",
+              "text": "was approved",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tʊ ɐpɹˈuːv"
+          "phonemes": "wʌz ɐpɹˈuːvd"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "to publish",
+      "text": "were published",
       "sentences": [
         {
-          "text": "to publish",
+          "text": "were published",
           "segments": [
             {
-              "text": "to publish",
+              "text": "were published",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə pˈʌblɪʃ"
+          "phonemes": "wɜː pˈʌblɪʃt"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "to require",
+      "text": "to be repaired",
       "sentences": [
         {
-          "text": "to require",
+          "text": "to be repaired",
           "segments": [
             {
-              "text": "to require",
+              "text": "to be repaired",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə ɹᵻkwˈaɪɚ"
+          "phonemes": "təbi ɹᵻpˈɛɹd"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "to affect",
+      "text": "an agent",
       "sentences": [
         {
-          "text": "to affect",
+          "text": "an agent",
           "segments": [
             {
-              "text": "to affect",
+              "text": "an agent",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tʊ ɐfˈɛkt"
+          "phonemes": "ɐn ˈeɪdʒənt"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "a process",
+      "text": "a causative",
       "sentences": [
         {
-          "text": "a process",
+          "text": "a causative",
           "segments": [
             {
-              "text": "a process",
+              "text": "a causative",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ pɹˈɑːsɛs"
+          "phonemes": "ɐ kˈɔːsətˌɪv"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "a result",
+      "text": "to have something done",
       "sentences": [
         {
-          "text": "a result",
+          "text": "to have something done",
           "segments": [
             {
-              "text": "a result",
+              "text": "to have something done",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ ɹɪzˈʌlt"
+          "phonemes": "tə hæv sˈʌmθɪŋ dˈʌn"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "by",
+      "text": "to get something done",
       "sentences": [
         {
-          "text": "by",
+          "text": "to get something done",
           "segments": [
             {
-              "text": "by",
+              "text": "to get something done",
               "lang": "en-us"
             }
           ],
-          "phonemes": "bˈaɪ"
+          "phonemes": "tə ɡɛt sˈʌmθɪŋ dˈʌn"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "to repair",
+      "text": "the passive",
       "sentences": [
         {
-          "text": "to repair",
+          "text": "the passive",
           "segments": [
             {
-              "text": "to repair",
+              "text": "the passive",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə ɹᵻpˈɛɹ"
+          "phonemes": "ðə pˈæsɪv"
         }
       ]
     }

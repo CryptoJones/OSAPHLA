@@ -29,7 +29,7 @@
     },
     {
       "file": "01.wav",
-      "text": "Forma y significado. Artículos a, an y the; plurales regulares e irregulares; this/that/these/those; instrucciones de clase.",
+      "text": "Forma y significado. Aplicación de la forma. Usa a antes de sonido consonántico y an antes de sonido vocálico; añade -s para formar la mayoría de los plurales.",
       "sentences": [
         {
           "text": "Forma y significado.",
@@ -42,68 +42,46 @@
           "phonemes": "fˈoɾma i sˌiɡnifikˈaðo."
         },
         {
-          "text": "Artículos a, an y the; plurales regulares e irregulares; this/that/these/those; instrucciones de clase.",
+          "text": "Aplicación de la forma.",
           "segments": [
             {
-              "text": "Artículos ",
-              "lang": "es-419"
-            },
-            {
-              "text": "a, an",
-              "lang": "en-us"
-            },
-            {
-              "text": " y ",
-              "lang": "es-419"
-            },
-            {
-              "text": "the",
-              "lang": "en-us"
-            },
-            {
-              "text": "; plurales regulares e irregulares; ",
-              "lang": "es-419"
-            },
-            {
-              "text": "this",
-              "lang": "en-us"
-            },
-            {
-              "text": "/",
-              "lang": "es-419"
-            },
-            {
-              "text": "that",
-              "lang": "en-us"
-            },
-            {
-              "text": "/",
-              "lang": "es-419"
-            },
-            {
-              "text": "these",
-              "lang": "en-us"
-            },
-            {
-              "text": "/",
-              "lang": "es-419"
-            },
-            {
-              "text": "those",
-              "lang": "en-us"
-            },
-            {
-              "text": "; instrucciones de clase.",
+              "text": "Aplicación de la forma.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "aɾtˈikulos ˈeɪ, æn i ðə ; pluɾˈales rˌeɣulˈaɾes e ˌireɣulˈaɾes; ðˈɪs bˈara ðˈæt bˈara ðˈiːz bˈara ðˈoʊz ; ˌinstɾuksjˈones ðe klˈase."
+          "phonemes": "ˌaplikasjˈon de la fˈoɾma."
+        },
+        {
+          "text": "Usa a antes de sonido consonántico y an antes de sonido vocálico; añade -s para formar la mayoría de los plurales.",
+          "segments": [
+            {
+              "text": "Usa a antes de sonido consonántico y ",
+              "lang": "es-419"
+            },
+            {
+              "text": "an",
+              "lang": "en-us"
+            },
+            {
+              "text": " antes de sonido vocálico; añade ",
+              "lang": "es-419"
+            },
+            {
+              "text": "-s",
+              "lang": "en-us"
+            },
+            {
+              "text": " para formar la mayoría de los plurales.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˈusa a ˈantes ðe sonˈiðo kˌonsonˈantiko i æn ˈantes ðe sonˈiðo βokˈaliko; aɲˈaðe ˈɛs pˌaɾa foɾmˈaɾ la mˌaʝoɾˈia ðe los pluɾˈales."
         }
       ]
     },
     {
       "file": "02.wav",
-      "text": "Conjunto de modelos. There is a book on the table. What is this? It's an important question. Open your notebooks, please. The answers are on page ten. Hay un libro sobre la mesa. ¿Qué es esto? Es una pregunta importante. Abran sus cuadernos, por favor. Las respuestas están en la página diez.",
+      "text": "Conjunto de modelos. A book is on the table. An apple is on the desk. Two books are new. Three chairs are empty. Each question has one answer. Un libro está sobre la mesa. Una manzana está sobre el escritorio. Dos libros son nuevos. Tres sillas están vacías. Cada pregunta tiene una respuesta.",
       "sentences": [
         {
           "text": "Conjunto de modelos.",
@@ -116,104 +94,104 @@
           "phonemes": "koŋxˈunto ðe moðˈelos."
         },
         {
-          "text": "There is a book on the table.",
+          "text": "A book is on the table.",
           "segments": [
             {
-              "text": "There is a book on the table.",
+              "text": "A book is on the table.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðɛɹ ɪz ɐ bˈʊk ɔnðə tˈeɪbəl."
+          "phonemes": "ɐ bˈʊk ɪz ɔnðə tˈeɪbəl."
         },
         {
-          "text": "What is this?",
+          "text": "An apple is on the desk.",
           "segments": [
             {
-              "text": "What is this?",
+              "text": "An apple is on the desk.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wˌʌt ɪz ðˈɪs?"
+          "phonemes": "ɐn ˈæpəl ɪz ɔnðə dˈɛsk."
         },
         {
-          "text": "It's an important question.",
+          "text": "Two books are new.",
           "segments": [
             {
-              "text": "It's an important question.",
+              "text": "Two books are new.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɪts ɐn ɪmpˈɔːɹtənt kwˈɛstʃən."
+          "phonemes": "tˈuː bˈʊks ɑːɹ nˈuː."
         },
         {
-          "text": "Open your notebooks, please.",
+          "text": "Three chairs are empty.",
           "segments": [
             {
-              "text": "Open your notebooks, please.",
+              "text": "Three chairs are empty.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ˈoʊpən jʊɹ nˈoʊtbʊks, plˈiːz."
+          "phonemes": "θɹˈiː tʃˈɛɹz ɑːɹ ˈɛmpti."
         },
         {
-          "text": "The answers are on page ten.",
+          "text": "Each question has one answer.",
           "segments": [
             {
-              "text": "The answers are on page ten.",
+              "text": "Each question has one answer.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðɪ ˈænsɚz ɑːɹ ˌɔn pˈeɪdʒ tˈɛn."
+          "phonemes": "ˈiːtʃ kwˈɛstʃən hɐz wˈʌn ˈænsɚ."
         },
         {
-          "text": "Hay un libro sobre la mesa.",
+          "text": "Un libro está sobre la mesa.",
           "segments": [
             {
-              "text": "Hay un libro sobre la mesa.",
+              "text": "Un libro está sobre la mesa.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˈaɪ ˈun lˈiβɾo sˌoβɾe la mˈesa."
+          "phonemes": "ˈun lˈiβɾo estˈa sˌoβɾe la mˈesa."
         },
         {
-          "text": "¿Qué es esto?",
+          "text": "Una manzana está sobre el escritorio.",
           "segments": [
             {
-              "text": "¿Qué es esto?",
+              "text": "Una manzana está sobre el escritorio.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "kˈe ˈes ˈesto?"
+          "phonemes": "ˈuna mansˈana estˈa sˌoβɾe el ˌeskɾitˈoɾjo."
         },
         {
-          "text": "Es una pregunta importante.",
+          "text": "Dos libros son nuevos.",
           "segments": [
             {
-              "text": "Es una pregunta importante.",
+              "text": "Dos libros son nuevos.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˈes ˈuna pɾeɣˈunta ˌimpoɾtˈante."
+          "phonemes": "dˈos lˈiβɾos sˈon nwˈeβos."
         },
         {
-          "text": "Abran sus cuadernos, por favor.",
+          "text": "Tres sillas están vacías.",
           "segments": [
             {
-              "text": "Abran sus cuadernos, por favor.",
+              "text": "Tres sillas están vacías.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˈaβɾan sus kwaðˈeɾnos, poɾ faβˈoɾ."
+          "phonemes": "tɾˈes sˈijjas estˈam basˈias."
         },
         {
-          "text": "Las respuestas están en la página diez.",
+          "text": "Cada pregunta tiene una respuesta.",
           "segments": [
             {
-              "text": "Las respuestas están en la página diez.",
+              "text": "Cada pregunta tiene una respuesta.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "las respwˈestas estˈan en la pˈaxina ðjˈes."
+          "phonemes": "kˈaða pɾeɣˈunta tjˈene ˈuna respwˈesta."
         }
       ]
     },
@@ -281,7 +259,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Lenguaje modelo. There is a book on the table. — Hay un libro sobre la mesa. What is this? — ¿Qué es esto? It's an important question. — Es una pregunta importante. Open your notebooks, please. — Abran sus cuadernos, por favor. The answers are on page ten. — Las respuestas están en la página diez.",
+      "text": "Lenguaje modelo. A book is on the table. — Un libro está sobre la mesa. An apple is on the desk. — Una manzana está sobre el escritorio. Two books are new. — Dos libros son nuevos. Three chairs are empty. — Tres sillas están vacías. Each question has one answer. — Cada pregunta tiene una respuesta.",
       "sentences": [
         {
           "text": "Lenguaje modelo.",
@@ -294,104 +272,104 @@
           "phonemes": "leŋɡwˈaxe moðˈelo."
         },
         {
-          "text": "There is a book on the table.",
+          "text": "A book is on the table.",
           "segments": [
             {
-              "text": "There is a book on the table.",
+              "text": "A book is on the table.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðɛɹ ɪz ɐ bˈʊk ɔnðə tˈeɪbəl."
+          "phonemes": "ɐ bˈʊk ɪz ɔnðə tˈeɪbəl."
         },
         {
-          "text": "— Hay un libro sobre la mesa.",
+          "text": "— Un libro está sobre la mesa.",
           "segments": [
             {
-              "text": "— Hay un libro sobre la mesa.",
+              "text": "— Un libro está sobre la mesa.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— ˈaɪ ˈun lˈiβɾo sˌoβɾe la mˈesa."
+          "phonemes": "— ˈun lˈiβɾo estˈa sˌoβɾe la mˈesa."
         },
         {
-          "text": "What is this?",
+          "text": "An apple is on the desk.",
           "segments": [
             {
-              "text": "What is this?",
+              "text": "An apple is on the desk.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wˌʌt ɪz ðˈɪs?"
+          "phonemes": "ɐn ˈæpəl ɪz ɔnðə dˈɛsk."
         },
         {
-          "text": "— ¿Qué es esto?",
+          "text": "— Una manzana está sobre el escritorio.",
           "segments": [
             {
-              "text": "— ¿Qué es esto?",
+              "text": "— Una manzana está sobre el escritorio.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— kˈe ˈes ˈesto?"
+          "phonemes": "— ˈuna mansˈana estˈa sˌoβɾe el ˌeskɾitˈoɾjo."
         },
         {
-          "text": "It's an important question.",
+          "text": "Two books are new.",
           "segments": [
             {
-              "text": "It's an important question.",
+              "text": "Two books are new.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɪts ɐn ɪmpˈɔːɹtənt kwˈɛstʃən."
+          "phonemes": "tˈuː bˈʊks ɑːɹ nˈuː."
         },
         {
-          "text": "— Es una pregunta importante.",
+          "text": "— Dos libros son nuevos.",
           "segments": [
             {
-              "text": "— Es una pregunta importante.",
+              "text": "— Dos libros son nuevos.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— ˈes ˈuna pɾeɣˈunta ˌimpoɾtˈante."
+          "phonemes": "— dˈos lˈiβɾos sˈon nwˈeβos."
         },
         {
-          "text": "Open your notebooks, please.",
+          "text": "Three chairs are empty.",
           "segments": [
             {
-              "text": "Open your notebooks, please.",
+              "text": "Three chairs are empty.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ˈoʊpən jʊɹ nˈoʊtbʊks, plˈiːz."
+          "phonemes": "θɹˈiː tʃˈɛɹz ɑːɹ ˈɛmpti."
         },
         {
-          "text": "— Abran sus cuadernos, por favor.",
+          "text": "— Tres sillas están vacías.",
           "segments": [
             {
-              "text": "— Abran sus cuadernos, por favor.",
+              "text": "— Tres sillas están vacías.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— ˈaβɾan sus kwaðˈeɾnos, poɾ faβˈoɾ."
+          "phonemes": "— tɾˈes sˈijjas estˈam basˈias."
         },
         {
-          "text": "The answers are on page ten.",
+          "text": "Each question has one answer.",
           "segments": [
             {
-              "text": "The answers are on page ten.",
+              "text": "Each question has one answer.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðɪ ˈænsɚz ɑːɹ ˌɔn pˈeɪdʒ tˈɛn."
+          "phonemes": "ˈiːtʃ kwˈɛstʃən hɐz wˈʌn ˈænsɚ."
         },
         {
-          "text": "— Las respuestas están en la página diez.",
+          "text": "— Cada pregunta tiene una respuesta.",
           "segments": [
             {
-              "text": "— Las respuestas están en la página diez.",
+              "text": "— Cada pregunta tiene una respuesta.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— las respwˈestas estˈan en la pˈaxina ðjˈes."
+          "phonemes": "— kˈaða pɾeɣˈunta tjˈene ˈuna respwˈesta."
         }
       ]
     },
@@ -443,129 +421,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "a book",
+      "text": "an apple",
       "sentences": [
         {
-          "text": "a book",
+          "text": "an apple",
           "segments": [
             {
-              "text": "a book",
+              "text": "an apple",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ bˈʊk"
+          "phonemes": "ɐn ˈæpəl"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "a table",
+      "text": "an orange",
       "sentences": [
         {
-          "text": "a table",
+          "text": "an orange",
           "segments": [
             {
-              "text": "a table",
+              "text": "an orange",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ tˈeɪbəl"
+          "phonemes": "ɐn ˈɔɹɪndʒ"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "a chair",
+      "text": "two books",
       "sentences": [
         {
-          "text": "a chair",
+          "text": "two books",
           "segments": [
             {
-              "text": "a chair",
+              "text": "two books",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ tʃˈɛɹ"
+          "phonemes": "tˈuː bˈʊks"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "a notebook",
+      "text": "three chairs",
       "sentences": [
         {
-          "text": "a notebook",
+          "text": "three chairs",
           "segments": [
             {
-              "text": "a notebook",
+              "text": "three chairs",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ nˈoʊtbʊk"
+          "phonemes": "θɹˈiː tʃˈɛɹz"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "a question",
+      "text": "singular",
       "sentences": [
         {
-          "text": "a question",
+          "text": "singular",
           "segments": [
             {
-              "text": "a question",
+              "text": "singular",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ kwˈɛstʃən"
+          "phonemes": "sˈɪŋɡjʊlɚ"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "an answer",
+      "text": "plural",
       "sentences": [
         {
-          "text": "an answer",
+          "text": "plural",
           "segments": [
             {
-              "text": "an answer",
+              "text": "plural",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐn ˈænsɚ"
+          "phonemes": "plˈʊɹɹəl"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "to open",
+      "text": "to count",
       "sentences": [
         {
-          "text": "to open",
+          "text": "to count",
           "segments": [
             {
-              "text": "to open",
+              "text": "to count",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tʊ ˈoʊpən"
+          "phonemes": "tə kˈaʊnt"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "to close",
+      "text": "each",
       "sentences": [
         {
-          "text": "to close",
+          "text": "each",
           "segments": [
             {
-              "text": "to close",
+              "text": "each",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə klˈoʊz"
+          "phonemes": "ˈiːtʃ"
         }
       ]
     }

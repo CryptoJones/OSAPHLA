@@ -163,7 +163,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Model language. Ya hemos completado la primera fase. — We have already completed the first phase. Todavía no han llegado los datos. — The data have not arrived yet. ¿Alguna vez has trabajado en Chile? — Have you ever worked in Chile? Cuando llamó, yo ya había enviado el informe. — When he or she called, I had already sent the report. La situación ha cambiado recientemente. — The situation has changed recently.",
+      "text": "Model language. El proyecto ha avanzado bastante. — The project has moved forward quite a bit. Todavía no ha recibido la aprobación final. — It has not received final approval yet. El equipo ya había corregido los errores. — The team had already corrected the errors. Llegó una nueva solicitud antes del plazo. — A new request arrived before the deadline. Un punto sigue pendiente. — One point is still pending.",
       "sentences": [
         {
           "text": "Model language.",
@@ -176,104 +176,104 @@
           "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
         },
         {
-          "text": "Ya hemos completado la primera fase.",
+          "text": "El proyecto ha avanzado bastante.",
           "segments": [
             {
-              "text": "Ya hemos completado la primera fase.",
+              "text": "El proyecto ha avanzado bastante.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ʝˈa ˈemos kˌompletˈaðo la pɾimˈeɾa fˈase."
+          "phonemes": "el pɾoʝˈekto ˈa ˌaβansˈaðo βastˈante."
         },
         {
-          "text": "— We have already completed the first phase.",
+          "text": "— The project has moved forward quite a bit.",
           "segments": [
             {
-              "text": "— We have already completed the first phase.",
+              "text": "— The project has moved forward quite a bit.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— wiː hæv ɔːlɹˌɛdi kəmplˈiːɾᵻd ðə fˈɜːst fˈeɪz."
+          "phonemes": "— ðə pɹˈɑːdʒɛkt hɐz mˈuːvd fˈɔːɹwɚd kwˈaɪt ɐ bˈɪt."
         },
         {
-          "text": "Todavía no han llegado los datos.",
+          "text": "Todavía no ha recibido la aprobación final.",
           "segments": [
             {
-              "text": "Todavía no han llegado los datos.",
+              "text": "Todavía no ha recibido la aprobación final.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "tˌoðaβˈia nˈo ˈan dʒeɣˈaðo los ðˈatos."
+          "phonemes": "tˌoðaβˈia nˈo ˈa rˌesiβˈiðo la ˌapɾoβasjˈon finˈal."
         },
         {
-          "text": "— The data have not arrived yet.",
+          "text": "— It has not received final approval yet.",
           "segments": [
             {
-              "text": "— The data have not arrived yet.",
+              "text": "— It has not received final approval yet.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ðə dˈeɪɾə hɐvnˌɑːt ɚɹˈaɪvd jˈɛt."
+          "phonemes": "— ɪt həznɑːt ɹᵻsˈiːvd fˈaɪnəl ɐpɹˈuːvəl jˈɛt."
         },
         {
-          "text": "¿Alguna vez has trabajado en Chile?",
+          "text": "El equipo ya había corregido los errores.",
           "segments": [
             {
-              "text": "¿Alguna vez has trabajado en Chile?",
+              "text": "El equipo ya había corregido los errores.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "alɣˈuna βˈes ˈas tɾˌaβaxˈaðo en tʃˈile?"
+          "phonemes": "el ekˈipo ʝˈa aβˈia kˌorexˈiðo los erˈoɾes."
         },
         {
-          "text": "— Have you ever worked in Chile?",
+          "text": "— The team had already corrected the errors.",
           "segments": [
             {
-              "text": "— Have you ever worked in Chile?",
+              "text": "— The team had already corrected the errors.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— hæv juː ˈɛvɚ wˈɜːkt ɪn tʃˈɪli?"
+          "phonemes": "— ðə tˈiːm hæd ɔːlɹˌɛdi kɚɹˈɛktᵻd ðɪ ˈɛɹɚz."
         },
         {
-          "text": "Cuando llamó, yo ya había enviado el informe.",
+          "text": "Llegó una nueva solicitud antes del plazo.",
           "segments": [
             {
-              "text": "Cuando llamó, yo ya había enviado el informe.",
+              "text": "Llegó una nueva solicitud antes del plazo.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "kwˌando ʝamˈo, ʝˈo ʝˈa aβˈia embjˈaðo el infˈoɾme."
+          "phonemes": "ʝeɣˈo ˈuna nwˈeβa sˌolisitˈuð ˈantes ðel plˈaso."
         },
         {
-          "text": "— When he or she called, I had already sent the report.",
+          "text": "— A new request arrived before the deadline.",
           "segments": [
             {
-              "text": "— When he or she called, I had already sent the report.",
+              "text": "— A new request arrived before the deadline.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— wˌɛn hiː ɔːɹ ʃiː kˈɔːld, aɪ hæd ɔːlɹˌɛdi sˈɛnt ðə ɹᵻpˈɔːɹt."
+          "phonemes": "— ɐ nˈuː ɹᵻkwˈɛst ɚɹˈaɪvd bᵻfˌɔːɹ ðə dˈɛdlaɪn."
         },
         {
-          "text": "La situación ha cambiado recientemente.",
+          "text": "Un punto sigue pendiente.",
           "segments": [
             {
-              "text": "La situación ha cambiado recientemente.",
+              "text": "Un punto sigue pendiente.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la sˌitwasjˈon ˈa kambjˈaðo resjˈɛntemˈente."
+          "phonemes": "ˈum pˈunto sˈiɣe pendjˈɛnte."
         },
         {
-          "text": "— The situation has changed recently.",
+          "text": "— One point is still pending.",
           "segments": [
             {
-              "text": "— The situation has changed recently.",
+              "text": "— One point is still pending.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ðə sˌɪtʃuːˈeɪʃən hɐz tʃˈeɪndʒd ɹˈiːsəntli."
+          "phonemes": "— wˈʌn pˈɔɪnt ɪz stˈɪl pˈɛndɪŋ."
         }
       ]
     },
@@ -325,129 +325,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "todavía no",
+      "text": "avanzar",
       "sentences": [
         {
-          "text": "todavía no",
+          "text": "avanzar",
           "segments": [
             {
-              "text": "todavía no",
+              "text": "avanzar",
               "lang": "es-419"
             }
           ],
-          "phonemes": "tˌoðaβˈia nˈo"
+          "phonemes": "ˌaβansˈaɾ"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "ya",
+      "text": "la aprobación final",
       "sentences": [
         {
-          "text": "ya",
+          "text": "la aprobación final",
           "segments": [
             {
-              "text": "ya",
+              "text": "la aprobación final",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ʝˈa"
+          "phonemes": "la ˌapɾoβasjˈon finˈal"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "alguna vez",
+      "text": "la solicitud",
       "sentences": [
         {
-          "text": "alguna vez",
+          "text": "la solicitud",
           "segments": [
             {
-              "text": "alguna vez",
+              "text": "la solicitud",
               "lang": "es-419"
             }
           ],
-          "phonemes": "alɣˈuna βˈes"
+          "phonemes": "la sˌolisitˈud"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "nunca",
+      "text": "antes de",
       "sentences": [
         {
-          "text": "nunca",
+          "text": "antes de",
           "segments": [
             {
-              "text": "nunca",
+              "text": "antes de",
               "lang": "es-419"
             }
           ],
-          "phonemes": "nˈunka"
+          "phonemes": "ˈantes ðˈe"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "recientemente",
+      "text": "el error",
       "sentences": [
         {
-          "text": "recientemente",
+          "text": "el error",
           "segments": [
             {
-              "text": "recientemente",
+              "text": "el error",
               "lang": "es-419"
             }
           ],
-          "phonemes": "resjˈɛntemˈente"
+          "phonemes": "el erˈoɾ"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "completar",
+      "text": "recibir",
       "sentences": [
         {
-          "text": "completar",
+          "text": "recibir",
           "segments": [
             {
-              "text": "completar",
+              "text": "recibir",
               "lang": "es-419"
             }
           ],
-          "phonemes": "kˌompletˈaɾ"
+          "phonemes": "rˌesiβˈiɾ"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "mejorar",
+      "text": "pendiente",
       "sentences": [
         {
-          "text": "mejorar",
+          "text": "pendiente",
           "segments": [
             {
-              "text": "mejorar",
+              "text": "pendiente",
               "lang": "es-419"
             }
           ],
-          "phonemes": "mˌexoɾˈaɾ"
+          "phonemes": "pendjˈɛnte"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "cambiar",
+      "text": "nuevo",
       "sentences": [
         {
-          "text": "cambiar",
+          "text": "nuevo",
           "segments": [
             {
-              "text": "cambiar",
+              "text": "nuevo",
               "lang": "es-419"
             }
           ],
-          "phonemes": "kambjˈaɾ"
+          "phonemes": "nwˈeβo"
         }
       ]
     }
