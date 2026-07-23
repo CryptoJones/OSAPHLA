@@ -40,6 +40,24 @@ export function SpeechLab({ course, sectionId, target, meaning }: { course: Cour
     return () => URL.revokeObjectURL(url);
   }, [blob]);
   useEffect(() => () => worker.current?.terminate(), []);
+  // The lesson page reuses this same SpeechLab instance across section navigation (only
+  // its props change), so a recording, transcript, or status message from the section you
+  // just left would otherwise still be showing on the section you land on next.
+  useEffect(() => {
+    if (recorder.current) {
+      recorder.current.ondataavailable = null;
+      recorder.current.onstop = null;
+      try { if (recorder.current.state !== "inactive") recorder.current.stop(); } catch { /* already stopped */ }
+      recorder.current.stream?.getTracks().forEach((track) => track.stop());
+      recorder.current = null;
+    }
+    chunks.current = [];
+    setRecording(false);
+    setBlob(null);
+    setTranscript("");
+    setKeep(false);
+    setStatus(spanish ? "Listo. Tu audio nunca sale de este dispositivo." : "Ready. Your audio never leaves this device.");
+  }, [sectionId, course.slug]);
 
   async function start() {
     try {
