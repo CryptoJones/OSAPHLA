@@ -16,6 +16,10 @@ export function LessonPage({ course, progress, onProgress }: { course: Course; p
   const pronunciation = useRef<HTMLAudioElement | null>(null);
   const [pronunciationNotice, setPronunciationNotice] = useState("");
   useEffect(() => { if (section) void markStarted(course.slug, section.id).then(onProgress); }, [section?.id, course.slug]);
+  // This page instance is reused across "Continue to next section" navigation (only
+  // section/sectionId change, no remount), so a vocabulary word still narrating from the
+  // section just left would otherwise keep playing — and its notice keep showing — here.
+  useEffect(() => { pronunciation.current?.pause(); pronunciation.current = null; setPronunciationNotice(""); }, [section?.id, course.slug]);
   useEffect(() => () => { pronunciation.current?.pause(); }, []);
   if (!section) return <Navigate to={path("course")} replace />;
   const previous = course.sections[section.number - 2];

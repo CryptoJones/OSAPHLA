@@ -2,7 +2,7 @@ import { useEffect, useMemo, useState } from "react";
 import { Link } from "react-router-dom";
 import { useCourse } from "../course";
 import { isCorrect, selectAssessment } from "../lib/answers";
-import { recordAttempt } from "../lib/db";
+import { latestAttempt, recordAttempt } from "../lib/db";
 import type { Course, OrderingQuestion, Question, Section } from "../types";
 
 export function Assessment({ course, section, onComplete }: { course: Course; section: Section; onComplete: () => void }) {
@@ -10,11 +10,38 @@ export function Assessment({ course, section, onComplete }: { course: Course; se
   const { path } = useCourse();
   const next = course.sections[section.number];
   const [attemptSeed, setAttemptSeed] = useState(() => Date.now());
-  const questions = useMemo(() => selectAssessment(section.questions, attemptSeed), [section.id, attemptSeed]);
+  const [restoredQuestions, setRestoredQuestions] = useState<Question[] | null>(null);
+  const questions = useMemo(() => restoredQuestions ?? selectAssessment(section.questions, attemptSeed), [restoredQuestions, section.questions, attemptSeed]);
   const [answers, setAnswers] = useState<Record<string, string | string[]>>({});
   const [submitted, setSubmitted] = useState(false);
   const [startedAt, setStartedAt] = useState(() => new Date().toISOString());
   const [autoSaved, setAutoSaved] = useState(false);
+  // The lesson page keeps the same Assessment instance across "Continue to next section"
+  // navigation (only the section prop changes), so every field here must reset per
+  // section — and, if that section was already scored before, repopulate from the last
+  // attempt on file instead of starting blank, so returning to a lesson shows what was
+  // right and wrong last time rather than silently grading an empty new set against it.
+  useEffect(() => {
+    let cancelled = false;
+    setAttemptSeed(Date.now());
+    setRestoredQuestions(null);
+    setAnswers({});
+    setSubmitted(false);
+    setAutoSaved(false);
+    setStartedAt(new Date().toISOString());
+    void latestAttempt(course.slug, section.id).then((attempt) => {
+      if (cancelled || !attempt) return;
+      const byId = new Map(section.questions.map((question) => [question.id, question]));
+      const restored = attempt.questionIds.map((id) => byId.get(id)).filter((question): question is Question => Boolean(question));
+      if (restored.length !== attempt.questionIds.length) return; // curriculum content moved on since that attempt; start fresh instead
+      setRestoredQuestions(restored);
+      setAnswers(attempt.answers);
+      setSubmitted(true);
+      setStartedAt(attempt.startedAt);
+      setAutoSaved(attempt.score >= section.masteryThreshold);
+    });
+    return () => { cancelled = true; };
+  }, [course.slug, section.id]);
   const results = submitted ? questions.map((question) => isCorrect(question, answers[question.id] ?? "")) : [];
   const correct = results.filter((result) => result.correct).length;
   const score = questions.length ? correct / questions.length : 0;
@@ -38,7 +65,7 @@ export function Assessment({ course, section, onComplete }: { course: Course; se
     setAutoSaved(true);
     void recordAttempt({ courseSlug: course.slug, sectionId: section.id, startedAt, completedAt: new Date().toISOString(), score, questionIds: questions.map((question) => question.id), answers }, section.masteryThreshold).then(onComplete);
   }, [submitted, score, autoSaved]);
-  function newSet() { setAttemptSeed(Date.now()); setAnswers({}); setSubmitted(false); setAutoSaved(false); setStartedAt(new Date().toISOString()); }
+  function newSet() { setAttemptSeed(Date.now()); setRestoredQuestions(null); setAnswers({}); setSubmitted(false); setAutoSaved(false); setStartedAt(new Date().toISOString()); }
 
   return <section className="assessment" aria-labelledby="assessment-title">
     <header><p className="eyebrow">{spanish ? "Obligatorio después de cada sección" : "Required after every section"}</p><h2 id="assessment-title">{spanish ? "Comprobación de dominio" : "Mastery check"}</h2><p>{spanish ? "Doce reactivos: cuatro de opción múltiple, cuatro de espacios en blanco y cuatro de ordenación. Meta: 85 %." : "Twelve items: four multiple choice, four fill in the blank, and four ordering. Target: 85%."}</p></header>

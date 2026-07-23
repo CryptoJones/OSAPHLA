@@ -127,6 +127,11 @@ export async function markStarted(courseSlug: CourseSlug, sectionId: string) {
   if (!current) await db.courseProgress.put({ key, courseSlug, sectionId, status: "in-progress", bestScore: 0, attempts: 0, updatedAt: new Date().toISOString() });
 }
 
+export async function latestAttempt(courseSlug: CourseSlug, sectionId: string) {
+  const attempts = await db.courseAttempts.where("sectionId").equals(sectionId).and((attempt) => attempt.courseSlug === courseSlug).sortBy("completedAt");
+  return attempts.at(-1);
+}
+
 export async function recordAttempt(attempt: Attempt, threshold: number) {
   await db.transaction("rw", db.courseAttempts, db.courseProgress, async () => {
     await db.courseAttempts.add(attempt);
