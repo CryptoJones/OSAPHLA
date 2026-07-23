@@ -179,19 +179,11 @@
           "text": "Tengo fiebre desde ayer.",
           "segments": [
             {
-              "text": "Tengo fiebre desde ",
-              "lang": "en-us"
-            },
-            {
-              "text": "ayer",
+              "text": "Tengo fiebre desde ayer.",
               "lang": "es-419"
-            },
-            {
-              "text": ".",
-              "lang": "en-us"
             }
           ],
-          "phonemes": "tˈɛŋɡoʊ fˈiːbɚ dᵻsdˈɛ aʝˈeɾ ."
+          "phonemes": "tˈɛŋɡo fjˈeβɾe ðˌesðe aʝˈeɾ."
         },
         {
           "text": "— I have had a fever since yesterday.",

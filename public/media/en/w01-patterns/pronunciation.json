@@ -29,7 +29,7 @@
     },
     {
       "file": "01.wav",
-      "text": "Forma y significado. Relación entre sonidos y letras, nombres de las letras, sílabas, acento de palabra, schwa y puntuación básica.",
+      "text": "Forma y significado. Aplicación de la forma. Usa vocales, consonantes, mayúsculas, minúsculas y guiones para decidir cómo se escribe y se pronuncia cada modelo.",
       "sentences": [
         {
           "text": "Forma y significado.",
@@ -42,28 +42,30 @@
           "phonemes": "fˈoɾma i sˌiɡnifikˈaðo."
         },
         {
-          "text": "Relación entre sonidos y letras, nombres de las letras, sílabas, acento de palabra, schwa y puntuación básica.",
+          "text": "Aplicación de la forma.",
           "segments": [
             {
-              "text": "Relación entre sonidos y letras, nombres de las letras, sílabas, acento de palabra, ",
-              "lang": "es-419"
-            },
-            {
-              "text": "schwa",
-              "lang": "en-us"
-            },
-            {
-              "text": " y puntuación básica.",
+              "text": "Aplicación de la forma.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "rˌelasjˈon ˌentɾe sonˈiðos i lˈetɾas, nˈombɾes ðe las lˈetɾas, sˈilaβas, asˈɛnto ðe palˈaβɾa, ʃwˈɑː i pˌuntwasjˈom bˈasika."
+          "phonemes": "ˌaplikasjˈon de la fˈoɾma."
+        },
+        {
+          "text": "Usa vocales, consonantes, mayúsculas, minúsculas y guiones para decidir cómo se escribe y se pronuncia cada modelo.",
+          "segments": [
+            {
+              "text": "Usa vocales, consonantes, mayúsculas, minúsculas y guiones para decidir cómo se escribe y se pronuncia cada modelo.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˈusa βokˈales, kˌonsonˈantes, maʝˈuskulas, minˈuskulas i ɣjˈones pˌaɾa ðˌesiðˈiɾ kˈomo se eskɾˈiβe i se pɾonˈunsja kˈaða moðˈelo."
         }
       ]
     },
     {
       "file": "02.wav",
-      "text": "Conjunto de modelos. My name has five letters. The letter H has two common names around the world. I listen and repeat each word. Which syllable is stressed? Short, frequent practice works best. Mi nombre tiene cinco letras. La letra H tiene dos nombres comunes en el mundo. Escucho y repito cada palabra. ¿Qué sílaba lleva el acento? La práctica breve y frecuente funciona mejor.",
+      "text": "Conjunto de modelos. A is a vowel. I write my name with a capital letter. How do you pronounce this word? Please spell your last name. Spelling and sound don't always match in English. La A es una vocal. Escribo mi nombre con mayúscula. ¿Cómo pronuncias esta palabra? Deletrea tu apellido, por favor. La ortografía y el sonido no siempre coinciden en inglés.",
       "sentences": [
         {
           "text": "Conjunto de modelos.",
@@ -76,104 +78,104 @@
           "phonemes": "koŋxˈunto ðe moðˈelos."
         },
         {
-          "text": "My name has five letters.",
+          "text": "A is a vowel.",
           "segments": [
             {
-              "text": "My name has five letters.",
+              "text": "A is a vowel.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "maɪ nˈeɪm hɐz fˈaɪv lˈɛɾɚz."
+          "phonemes": "ɐ ɪz ɐ vˈaʊəl."
         },
         {
-          "text": "The letter H has two common names around the world.",
+          "text": "I write my name with a capital letter.",
           "segments": [
             {
-              "text": "The letter H has two common names around the world.",
+              "text": "I write my name with a capital letter.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə lˈɛɾɚɹ ˈeɪtʃ hɐz tˈuː kˈɑːmən nˈeɪmz ɚɹˈaʊnd ðə wˈɜːld."
+          "phonemes": "aɪ ɹˈaɪt maɪ nˈeɪm wɪð ɐ kˈæpɪɾəl lˈɛɾɚ."
         },
         {
-          "text": "I listen and repeat each word.",
+          "text": "How do you pronounce this word?",
           "segments": [
             {
-              "text": "I listen and repeat each word.",
+              "text": "How do you pronounce this word?",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪ lˈɪsən ænd ɹᵻpˈiːt ˈiːtʃ wˈɜːd."
+          "phonemes": "hˌaʊ dˈuː juː pɹənˈaʊns ðɪs wˈɜːd?"
         },
         {
-          "text": "Which syllable is stressed?",
+          "text": "Please spell your last name.",
           "segments": [
             {
-              "text": "Which syllable is stressed?",
+              "text": "Please spell your last name.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wˌɪtʃ sˈɪləbəl ɪz stɹˈɛst?"
+          "phonemes": "plˈiːz spˈɛl jʊɹ lˈæst nˈeɪm."
         },
         {
-          "text": "Short, frequent practice works best.",
+          "text": "Spelling and sound don't always match in English.",
           "segments": [
             {
-              "text": "Short, frequent practice works best.",
+              "text": "Spelling and sound don't always match in English.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ʃˈɔːɹt, fɹˈiːkwənt pɹˈæktɪs wˈɜːks bˈɛst."
+          "phonemes": "spˈɛlɪŋ ænd sˈaʊnd dˈoʊnt ˈɔːlweɪz mˈætʃ ɪn ˈɪŋɡlɪʃ."
         },
         {
-          "text": "Mi nombre tiene cinco letras.",
+          "text": "La A es una vocal.",
           "segments": [
             {
-              "text": "Mi nombre tiene cinco letras.",
+              "text": "La A es una vocal.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "mi nˈombɾe tjˈene sˈinko lˈetɾas."
+          "phonemes": "la a ˈes ˈuna βokˈal."
         },
         {
-          "text": "La letra H tiene dos nombres comunes en el mundo.",
+          "text": "Escribo mi nombre con mayúscula.",
           "segments": [
             {
-              "text": "La letra H tiene dos nombres comunes en el mundo.",
+              "text": "Escribo mi nombre con mayúscula.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la lˈetɾa ˈatʃe tjˈene ðˈos nˈombɾes komˈunes en el mˈundo."
+          "phonemes": "eskɾˈiβo mi nˈombɾe kon maʝˈuskula."
         },
         {
-          "text": "Escucho y repito cada palabra.",
+          "text": "¿Cómo pronuncias esta palabra?",
           "segments": [
             {
-              "text": "Escucho y repito cada palabra.",
+              "text": "¿Cómo pronuncias esta palabra?",
               "lang": "es-419"
             }
           ],
-          "phonemes": "eskˈutʃo i repˈito kˈaða palˈaβɾa."
+          "phonemes": "kˈomo pɾonˈunsjas ˈesta palˈaβɾa?"
         },
         {
-          "text": "¿Qué sílaba lleva el acento?",
+          "text": "Deletrea tu apellido, por favor.",
           "segments": [
             {
-              "text": "¿Qué sílaba lleva el acento?",
+              "text": "Deletrea tu apellido, por favor.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "kˈe sˈilaβa ʝˈeβa el asˈɛnto?"
+          "phonemes": "dˌeletɾˈea tu ˌapejjˈiðo, poɾ faβˈoɾ."
         },
         {
-          "text": "La práctica breve y frecuente funciona mejor.",
+          "text": "La ortografía y el sonido no siempre coinciden en inglés.",
           "segments": [
             {
-              "text": "La práctica breve y frecuente funciona mejor.",
+              "text": "La ortografía y el sonido no siempre coinciden en inglés.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la pɾˈaktika βɾˈeβe i fɾekwˈɛnte funsjˈona mexˈoɾ."
+          "phonemes": "la ˌoɾtoɣɾafˈia i el sonˈiðo nˈo sjˈempɾe koɪnsˈiðen en iŋɡlˈes."
         }
       ]
     },
@@ -241,7 +243,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Lenguaje modelo. My name has five letters. — Mi nombre tiene cinco letras. The letter H has two common names around the world. — La letra H tiene dos nombres comunes en el mundo. I listen and repeat each word. — Escucho y repito cada palabra. Which syllable is stressed? — ¿Qué sílaba lleva el acento? Short, frequent practice works best. — La práctica breve y frecuente funciona mejor.",
+      "text": "Lenguaje modelo. A is a vowel. — La A es una vocal. I write my name with a capital letter. — Escribo mi nombre con mayúscula. How do you pronounce this word? — ¿Cómo pronuncias esta palabra? Please spell your last name. — Deletrea tu apellido, por favor. Spelling and sound don't always match in English. — La ortografía y el sonido no siempre coinciden en inglés.",
       "sentences": [
         {
           "text": "Lenguaje modelo.",
@@ -254,104 +256,104 @@
           "phonemes": "leŋɡwˈaxe moðˈelo."
         },
         {
-          "text": "My name has five letters.",
+          "text": "A is a vowel.",
           "segments": [
             {
-              "text": "My name has five letters.",
+              "text": "A is a vowel.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "maɪ nˈeɪm hɐz fˈaɪv lˈɛɾɚz."
+          "phonemes": "ɐ ɪz ɐ vˈaʊəl."
         },
         {
-          "text": "— Mi nombre tiene cinco letras.",
+          "text": "— La A es una vocal.",
           "segments": [
             {
-              "text": "— Mi nombre tiene cinco letras.",
+              "text": "— La A es una vocal.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— mi nˈombɾe tjˈene sˈinko lˈetɾas."
+          "phonemes": "— la a ˈes ˈuna βokˈal."
         },
         {
-          "text": "The letter H has two common names around the world.",
+          "text": "I write my name with a capital letter.",
           "segments": [
             {
-              "text": "The letter H has two common names around the world.",
+              "text": "I write my name with a capital letter.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə lˈɛɾɚɹ ˈeɪtʃ hɐz tˈuː kˈɑːmən nˈeɪmz ɚɹˈaʊnd ðə wˈɜːld."
+          "phonemes": "aɪ ɹˈaɪt maɪ nˈeɪm wɪð ɐ kˈæpɪɾəl lˈɛɾɚ."
         },
         {
-          "text": "— La letra H tiene dos nombres comunes en el mundo.",
+          "text": "— Escribo mi nombre con mayúscula.",
           "segments": [
             {
-              "text": "— La letra H tiene dos nombres comunes en el mundo.",
+              "text": "— Escribo mi nombre con mayúscula.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— la lˈetɾa ˈatʃe tjˈene ðˈos nˈombɾes komˈunes en el mˈundo."
+          "phonemes": "— eskɾˈiβo mi nˈombɾe kon maʝˈuskula."
         },
         {
-          "text": "I listen and repeat each word.",
+          "text": "How do you pronounce this word?",
           "segments": [
             {
-              "text": "I listen and repeat each word.",
+              "text": "How do you pronounce this word?",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪ lˈɪsən ænd ɹᵻpˈiːt ˈiːtʃ wˈɜːd."
+          "phonemes": "hˌaʊ dˈuː juː pɹənˈaʊns ðɪs wˈɜːd?"
         },
         {
-          "text": "— Escucho y repito cada palabra.",
+          "text": "— ¿Cómo pronuncias esta palabra?",
           "segments": [
             {
-              "text": "— Escucho y repito cada palabra.",
+              "text": "— ¿Cómo pronuncias esta palabra?",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— eskˈutʃo i repˈito kˈaða palˈaβɾa."
+          "phonemes": "— kˈomo pɾonˈunsjas ˈesta palˈaβɾa?"
         },
         {
-          "text": "Which syllable is stressed?",
+          "text": "Please spell your last name.",
           "segments": [
             {
-              "text": "Which syllable is stressed?",
+              "text": "Please spell your last name.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wˌɪtʃ sˈɪləbəl ɪz stɹˈɛst?"
+          "phonemes": "plˈiːz spˈɛl jʊɹ lˈæst nˈeɪm."
         },
         {
-          "text": "— ¿Qué sílaba lleva el acento?",
+          "text": "— Deletrea tu apellido, por favor.",
           "segments": [
             {
-              "text": "— ¿Qué sílaba lleva el acento?",
+              "text": "— Deletrea tu apellido, por favor.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— kˈe sˈilaβa ʝˈeβa el asˈɛnto?"
+          "phonemes": "— dˌeletɾˈea tu ˌapejjˈiðo, poɾ faβˈoɾ."
         },
         {
-          "text": "Short, frequent practice works best.",
+          "text": "Spelling and sound don't always match in English.",
           "segments": [
             {
-              "text": "Short, frequent practice works best.",
+              "text": "Spelling and sound don't always match in English.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ʃˈɔːɹt, fɹˈiːkwənt pɹˈæktɪs wˈɜːks bˈɛst."
+          "phonemes": "spˈɛlɪŋ ænd sˈaʊnd dˈoʊnt ˈɔːlweɪz mˈætʃ ɪn ˈɪŋɡlɪʃ."
         },
         {
-          "text": "— La práctica breve y frecuente funciona mejor.",
+          "text": "— La ortografía y el sonido no siempre coinciden en inglés.",
           "segments": [
             {
-              "text": "— La práctica breve y frecuente funciona mejor.",
+              "text": "— La ortografía y el sonido no siempre coinciden en inglés.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— la pɾˈaktika βɾˈeβe i fɾekwˈɛnte funsjˈona mexˈoɾ."
+          "phonemes": "— la ˌoɾtoɣɾafˈia i el sonˈiðo nˈo sjˈempɾe koɪnsˈiðen en iŋɡlˈes."
         }
       ]
     },
@@ -403,129 +405,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "the alphabet",
+      "text": "a vowel",
       "sentences": [
         {
-          "text": "the alphabet",
+          "text": "a vowel",
           "segments": [
             {
-              "text": "the alphabet",
+              "text": "a vowel",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðɪ ˈælfəbˌɛt"
+          "phonemes": "ɐ vˈaʊəl"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "a letter",
+      "text": "a consonant",
       "sentences": [
         {
-          "text": "a letter",
+          "text": "a consonant",
           "segments": [
             {
-              "text": "a letter",
+              "text": "a consonant",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ lˈɛɾɚ"
+          "phonemes": "ɐ kˈɑːnsənənt"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "a sound",
+      "text": "a capital letter",
       "sentences": [
         {
-          "text": "a sound",
+          "text": "a capital letter",
           "segments": [
             {
-              "text": "a sound",
+              "text": "a capital letter",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ sˈaʊnd"
+          "phonemes": "ɐ kˈæpɪɾəl lˈɛɾɚ"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "a word",
+      "text": "a lowercase letter",
       "sentences": [
         {
-          "text": "a word",
+          "text": "a lowercase letter",
           "segments": [
             {
-              "text": "a word",
+              "text": "a lowercase letter",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ wˈɜːd"
+          "phonemes": "ɐ lˈoʊɚkˌeɪs lˈɛɾɚ"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "a syllable",
+      "text": "a hyphen",
       "sentences": [
         {
-          "text": "a syllable",
+          "text": "a hyphen",
           "segments": [
             {
-              "text": "a syllable",
+              "text": "a hyphen",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ sˈɪləbəl"
+          "phonemes": "ɐ hˈaɪfən"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "stress",
+      "text": "spelling",
       "sentences": [
         {
-          "text": "stress",
+          "text": "spelling",
           "segments": [
             {
-              "text": "stress",
+              "text": "spelling",
               "lang": "en-us"
             }
           ],
-          "phonemes": "stɹˈɛs"
+          "phonemes": "spˈɛlɪŋ"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "to listen",
+      "text": "to pronounce",
       "sentences": [
         {
-          "text": "to listen",
+          "text": "to pronounce",
           "segments": [
             {
-              "text": "to listen",
+              "text": "to pronounce",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə lˈɪsən"
+          "phonemes": "tə pɹənˈaʊns"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "to repeat",
+      "text": "to spell out",
       "sentences": [
         {
-          "text": "to repeat",
+          "text": "to spell out",
           "segments": [
             {
-              "text": "to repeat",
+              "text": "to spell out",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə ɹᵻpˈiːt"
+          "phonemes": "tə spˈɛl ˈaʊt"
         }
       ]
     }

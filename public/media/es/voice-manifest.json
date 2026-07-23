@@ -1,5 +1,6 @@
 {
   "version": 2,
+  "courseSlug": "es",
   "strategy": "balanced-seeded",
   "languageRouting": "phoneme-level es-419/en-us code-switching",
   "profiles": {

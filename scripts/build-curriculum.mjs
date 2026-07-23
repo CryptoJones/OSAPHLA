@@ -218,7 +218,7 @@ function contentFor(kind, week, readings, config) {
       ...teaching
     ],
     patterns: [
-      { heading: c.formAndMeaning, body: week.grammar },
+      { heading: c.formAndMeaning, body: week.formNote ?? week.grammar },
       { heading: c.modelSet, body: week.models.join(" "), translation: week.modelTranslations.join(" ") },
       { heading: c.contrastivePractice, body: c.contrastivePracticeBody },
       { heading: c.productionCheck, body: c.productionCheckBody(week.functions) },

@@ -163,7 +163,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Model language. Mi nombre se escribe con cinco letras. — My name is spelled with five letters. La h no tiene sonido. — The letter h has no sound. Escucho y repito cada palabra. — I listen to and repeat every word. ¿Cuál es la sílaba tónica? — Which is the stressed syllable? La práctica breve y frecuente funciona mejor. — Brief, frequent practice works better.",
+      "text": "Model language. Cada país tiene su propia pronunciación. — Each country has its own pronunciation. No hay un solo acento correcto. — There is no single correct accent. El español cambia según la región. — Spanish changes by region. Hay hispanohablantes en todas partes del mundo. — There are Spanish speakers all over the world. Esta palabra es común en varios países. — This word is common in several countries.",
       "sentences": [
         {
           "text": "Model language.",
@@ -176,104 +176,104 @@
           "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
         },
         {
-          "text": "Mi nombre se escribe con cinco letras.",
+          "text": "Cada país tiene su propia pronunciación.",
           "segments": [
             {
-              "text": "Mi nombre se escribe con cinco letras.",
+              "text": "Cada país tiene su propia pronunciación.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "mi nˈombɾe se eskɾˈiβe kon sˈinko lˈetɾas."
+          "phonemes": "kˈaða paˈis tjˈene su pɾˈopja pɾˌonunsjasjˈon."
         },
         {
-          "text": "— My name is spelled with five letters.",
+          "text": "— Each country has its own pronunciation.",
           "segments": [
             {
-              "text": "— My name is spelled with five letters.",
+              "text": "— Each country has its own pronunciation.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— maɪ nˈeɪm ɪz spˈɛld wɪð fˈaɪv lˈɛɾɚz."
+          "phonemes": "— ˈiːtʃ kˈʌntɹi hɐz ɪts ˈoʊn pɹənˌʌnsɪˈeɪʃən."
         },
         {
-          "text": "La h no tiene sonido.",
+          "text": "No hay un solo acento correcto.",
           "segments": [
             {
-              "text": "La h no tiene sonido.",
+              "text": "No hay un solo acento correcto.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la ˈatʃe nˈo tjˈene sonˈiðo."
+          "phonemes": "nˈo ˈaɪ ˈun sˈolo asˈɛnto korˈekto."
         },
         {
-          "text": "— The letter h has no sound.",
+          "text": "— There is no single correct accent.",
           "segments": [
             {
-              "text": "— The letter h has no sound.",
+              "text": "— There is no single correct accent.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ðə lˈɛɾɚɹ ˈeɪtʃ hɐz nˈoʊ sˈaʊnd."
+          "phonemes": "— ðɛɹ ɪz nˈoʊ sˈɪŋɡəl kɚɹˈɛkt ˈæksənt."
         },
         {
-          "text": "Escucho y repito cada palabra.",
+          "text": "El español cambia según la región.",
           "segments": [
             {
-              "text": "Escucho y repito cada palabra.",
+              "text": "El español cambia según la región.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "eskˈutʃo i repˈito kˈaða palˈaβɾa."
+          "phonemes": "el ˌespaɲˈol kˈambja seɣˈun la rexjˈon."
         },
         {
-          "text": "— I listen to and repeat every word.",
+          "text": "— Spanish changes by region.",
           "segments": [
             {
-              "text": "— I listen to and repeat every word.",
+              "text": "— Spanish changes by region.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— aɪ lˈɪsən tʊ ænd ɹᵻpˈiːt ˈɛvɹi wˈɜːd."
+          "phonemes": "— spˈænɪʃ tʃˈeɪndʒᵻz baɪ ɹˈiːdʒən."
         },
         {
-          "text": "¿Cuál es la sílaba tónica?",
+          "text": "Hay hispanohablantes en todas partes del mundo.",
           "segments": [
             {
-              "text": "¿Cuál es la sílaba tónica?",
+              "text": "Hay hispanohablantes en todas partes del mundo.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "kwˈal ˈes la sˈilaβa tˈonika?"
+          "phonemes": "ˈaɪ ˌispanˌoaβlˈantes en tˈoðas pˈaɾtes ðel mˈundo."
         },
         {
-          "text": "— Which is the stressed syllable?",
+          "text": "— There are Spanish speakers all over the world.",
           "segments": [
             {
-              "text": "— Which is the stressed syllable?",
+              "text": "— There are Spanish speakers all over the world.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— wˌɪtʃ ɪz ðə stɹˈɛst sˈɪləbəl?"
+          "phonemes": "— ðɛɹˌɑːɹ spˈænɪʃ spˈiːkɚz ˈɔːl ˌoʊvɚ ðə wˈɜːld."
         },
         {
-          "text": "La práctica breve y frecuente funciona mejor.",
+          "text": "Esta palabra es común en varios países.",
           "segments": [
             {
-              "text": "La práctica breve y frecuente funciona mejor.",
+              "text": "Esta palabra es común en varios países.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la pɾˈaktika βɾˈeβe i fɾekwˈɛnte funsjˈona mexˈoɾ."
+          "phonemes": "ˈesta palˈaβɾa ˈes komˈun em bˈaɾjos paˈises."
         },
         {
-          "text": "— Brief, frequent practice works better.",
+          "text": "— This word is common in several countries.",
           "segments": [
             {
-              "text": "— Brief, frequent practice works better.",
+              "text": "— This word is common in several countries.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— bɹˈiːf, fɹˈiːkwənt pɹˈæktɪs wˈɜːks bˈɛɾɚ."
+          "phonemes": "— ðɪs wˈɜːd ɪz kˈɑːmən ɪn sˈɛvɹəl kˈʌntɹiz."
         }
       ]
     },
@@ -325,129 +325,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "el alfabeto",
+      "text": "el país",
       "sentences": [
         {
-          "text": "el alfabeto",
+          "text": "el país",
           "segments": [
             {
-              "text": "el alfabeto",
+              "text": "el país",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el ˌalfaβˈeto"
+          "phonemes": "el paˈis"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "la letra",
+      "text": "la región",
       "sentences": [
         {
-          "text": "la letra",
+          "text": "la región",
           "segments": [
             {
-              "text": "la letra",
+              "text": "la región",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la lˈetɾa"
+          "phonemes": "la rexjˈon"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "el sonido",
+      "text": "la variante",
       "sentences": [
         {
-          "text": "el sonido",
+          "text": "la variante",
           "segments": [
             {
-              "text": "el sonido",
+              "text": "la variante",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el sonˈiðo"
+          "phonemes": "la βaɾjˈante"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "la palabra",
+      "text": "la pronunciación",
       "sentences": [
         {
-          "text": "la palabra",
+          "text": "la pronunciación",
           "segments": [
             {
-              "text": "la palabra",
+              "text": "la pronunciación",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la palˈaβɾa"
+          "phonemes": "la pɾˌonunsjasjˈon"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "la sílaba",
+      "text": "común",
       "sentences": [
         {
-          "text": "la sílaba",
+          "text": "común",
           "segments": [
             {
-              "text": "la sílaba",
+              "text": "común",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la sˈilaβa"
+          "phonemes": "komˈun"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "el acento",
+      "text": "diferente",
       "sentences": [
         {
-          "text": "el acento",
+          "text": "diferente",
           "segments": [
             {
-              "text": "el acento",
+              "text": "diferente",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el asˈɛnto"
+          "phonemes": "dˌifeɾˈɛnte"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "escuchar",
+      "text": "el hispanohablante",
       "sentences": [
         {
-          "text": "escuchar",
+          "text": "el hispanohablante",
           "segments": [
             {
-              "text": "escuchar",
+              "text": "el hispanohablante",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˌeskutʃˈaɾ"
+          "phonemes": "el ˌispanˌoaβlˈante"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "repetir",
+      "text": "en todas partes",
       "sentences": [
         {
-          "text": "repetir",
+          "text": "en todas partes",
           "segments": [
             {
-              "text": "repetir",
+              "text": "en todas partes",
               "lang": "es-419"
             }
           ],
-          "phonemes": "rˌepetˈiɾ"
+          "phonemes": "en tˈoðas pˈaɾtes"
         }
       ]
     }

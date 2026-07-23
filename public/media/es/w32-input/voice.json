@@ -1,5 +1,6 @@
 {
   "pipelineVersion": 3,
+  "courseSlug": "es",
   "profile": "y3",
   "label": "Younger Dora Y3",
   "assignment": "balanced-seeded-v1",

@@ -173,7 +173,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Lenguaje modelo. My name has five letters. — Mi nombre tiene cinco letras. The letter H has two common names around the world. — La letra H tiene dos nombres comunes en el mundo. I listen and repeat each word. — Escucho y repito cada palabra. Which syllable is stressed? — ¿Qué sílaba lleva el acento? Short, frequent practice works best. — La práctica breve y frecuente funciona mejor.",
+      "text": "Lenguaje modelo. Each country has its own pronunciation. — Cada país tiene su propia pronunciación. There is no single correct accent. — No hay un solo acento correcto. English changes by region. — El inglés cambia según la región. There are English speakers all over the world. — Hay angloparlantes en todas partes del mundo. This word is common in several countries. — Esta palabra es común en varios países.",
       "sentences": [
         {
           "text": "Lenguaje modelo.",
@@ -186,104 +186,104 @@
           "phonemes": "leŋɡwˈaxe moðˈelo."
         },
         {
-          "text": "My name has five letters.",
+          "text": "Each country has its own pronunciation.",
           "segments": [
             {
-              "text": "My name has five letters.",
+              "text": "Each country has its own pronunciation.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "maɪ nˈeɪm hɐz fˈaɪv lˈɛɾɚz."
+          "phonemes": "ˈiːtʃ kˈʌntɹi hɐz ɪts ˈoʊn pɹənˌʌnsɪˈeɪʃən."
         },
         {
-          "text": "— Mi nombre tiene cinco letras.",
+          "text": "— Cada país tiene su propia pronunciación.",
           "segments": [
             {
-              "text": "— Mi nombre tiene cinco letras.",
+              "text": "— Cada país tiene su propia pronunciación.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— mi nˈombɾe tjˈene sˈinko lˈetɾas."
+          "phonemes": "— kˈaða paˈis tjˈene su pɾˈopja pɾˌonunsjasjˈon."
         },
         {
-          "text": "The letter H has two common names around the world.",
+          "text": "There is no single correct accent.",
           "segments": [
             {
-              "text": "The letter H has two common names around the world.",
+              "text": "There is no single correct accent.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə lˈɛɾɚɹ ˈeɪtʃ hɐz tˈuː kˈɑːmən nˈeɪmz ɚɹˈaʊnd ðə wˈɜːld."
+          "phonemes": "ðɛɹ ɪz nˈoʊ sˈɪŋɡəl kɚɹˈɛkt ˈæksənt."
         },
         {
-          "text": "— La letra H tiene dos nombres comunes en el mundo.",
+          "text": "— No hay un solo acento correcto.",
           "segments": [
             {
-              "text": "— La letra H tiene dos nombres comunes en el mundo.",
+              "text": "— No hay un solo acento correcto.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— la lˈetɾa ˈatʃe tjˈene ðˈos nˈombɾes komˈunes en el mˈundo."
+          "phonemes": "— nˈo ˈaɪ ˈun sˈolo asˈɛnto korˈekto."
         },
         {
-          "text": "I listen and repeat each word.",
+          "text": "English changes by region.",
           "segments": [
             {
-              "text": "I listen and repeat each word.",
+              "text": "English changes by region.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪ lˈɪsən ænd ɹᵻpˈiːt ˈiːtʃ wˈɜːd."
+          "phonemes": "ˈɪŋɡlɪʃ tʃˈeɪndʒᵻz baɪ ɹˈiːdʒən."
         },
         {
-          "text": "— Escucho y repito cada palabra.",
+          "text": "— El inglés cambia según la región.",
           "segments": [
             {
-              "text": "— Escucho y repito cada palabra.",
+              "text": "— El inglés cambia según la región.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— eskˈutʃo i repˈito kˈaða palˈaβɾa."
+          "phonemes": "— el iŋɡlˈes kˈambja seɣˈun la rexjˈon."
         },
         {
-          "text": "Which syllable is stressed?",
+          "text": "There are English speakers all over the world.",
           "segments": [
             {
-              "text": "Which syllable is stressed?",
+              "text": "There are English speakers all over the world.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wˌɪtʃ sˈɪləbəl ɪz stɹˈɛst?"
+          "phonemes": "ðɛɹˌɑːɹ ˈɪŋɡlɪʃ spˈiːkɚz ˈɔːl ˌoʊvɚ ðə wˈɜːld."
         },
         {
-          "text": "— ¿Qué sílaba lleva el acento?",
+          "text": "— Hay angloparlantes en todas partes del mundo.",
           "segments": [
             {
-              "text": "— ¿Qué sílaba lleva el acento?",
+              "text": "— Hay angloparlantes en todas partes del mundo.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— kˈe sˈilaβa ʝˈeβa el asˈɛnto?"
+          "phonemes": "— ˈaɪ ˌaŋɡlopaɾlˈantes en tˈoðas pˈaɾtes ðel mˈundo."
         },
         {
-          "text": "Short, frequent practice works best.",
+          "text": "This word is common in several countries.",
           "segments": [
             {
-              "text": "Short, frequent practice works best.",
+              "text": "This word is common in several countries.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ʃˈɔːɹt, fɹˈiːkwənt pɹˈæktɪs wˈɜːks bˈɛst."
+          "phonemes": "ðɪs wˈɜːd ɪz kˈɑːmən ɪn sˈɛvɹəl kˈʌntɹiz."
         },
         {
-          "text": "— La práctica breve y frecuente funciona mejor.",
+          "text": "— Esta palabra es común en varios países.",
           "segments": [
             {
-              "text": "— La práctica breve y frecuente funciona mejor.",
+              "text": "— Esta palabra es común en varios países.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— la pɾˈaktika βɾˈeβe i fɾekwˈɛnte funsjˈona mexˈoɾ."
+          "phonemes": "— ˈesta palˈaβɾa ˈes komˈun em bˈaɾjos paˈises."
         }
       ]
     },
@@ -335,129 +335,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "the alphabet",
+      "text": "a country",
       "sentences": [
         {
-          "text": "the alphabet",
+          "text": "a country",
           "segments": [
             {
-              "text": "the alphabet",
+              "text": "a country",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðɪ ˈælfəbˌɛt"
+          "phonemes": "ɐ kˈʌntɹi"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "a letter",
+      "text": "a region",
       "sentences": [
         {
-          "text": "a letter",
+          "text": "a region",
           "segments": [
             {
-              "text": "a letter",
+              "text": "a region",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ lˈɛɾɚ"
+          "phonemes": "ɐ ɹˈiːdʒən"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "a sound",
+      "text": "a variant",
       "sentences": [
         {
-          "text": "a sound",
+          "text": "a variant",
           "segments": [
             {
-              "text": "a sound",
+              "text": "a variant",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ sˈaʊnd"
+          "phonemes": "ɐ vˈɛɹiənt"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "a word",
+      "text": "pronunciation",
       "sentences": [
         {
-          "text": "a word",
+          "text": "pronunciation",
           "segments": [
             {
-              "text": "a word",
+              "text": "pronunciation",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ wˈɜːd"
+          "phonemes": "pɹənˌʌnsɪˈeɪʃən"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "a syllable",
+      "text": "common",
       "sentences": [
         {
-          "text": "a syllable",
+          "text": "common",
           "segments": [
             {
-              "text": "a syllable",
+              "text": "common",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ sˈɪləbəl"
+          "phonemes": "kˈɑːmən"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "stress",
+      "text": "different",
       "sentences": [
         {
-          "text": "stress",
+          "text": "different",
           "segments": [
             {
-              "text": "stress",
+              "text": "different",
               "lang": "en-us"
             }
           ],
-          "phonemes": "stɹˈɛs"
+          "phonemes": "dˈɪfɹənt"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "to listen",
+      "text": "an English speaker",
       "sentences": [
         {
-          "text": "to listen",
+          "text": "an English speaker",
           "segments": [
             {
-              "text": "to listen",
+              "text": "an English speaker",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə lˈɪsən"
+          "phonemes": "ɐn ˈɪŋɡlɪʃ spˈiːkɚ"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "to repeat",
+      "text": "everywhere",
       "sentences": [
         {
-          "text": "to repeat",
+          "text": "everywhere",
           "segments": [
             {
-              "text": "to repeat",
+              "text": "everywhere",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə ɹᵻpˈiːt"
+          "phonemes": "ˈɛvɹɪwˌɛɹ"
         }
       ]
     }

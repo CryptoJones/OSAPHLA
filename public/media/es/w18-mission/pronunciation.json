@@ -209,19 +209,11 @@
           "text": "— There we met the new mayor.",
           "segments": [
             {
-              "text": "— There we met the new ",
-              "lang": "en-us"
-            },
-            {
-              "text": "mayor",
-              "lang": "es-419"
-            },
-            {
-              "text": ".",
+              "text": "— There we met the new mayor.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ðɛɹ wiː mˈɛt ðə nˈuː maʝˈoɾ ."
+          "phonemes": "— ðɛɹ wiː mˈɛt ðə nˈuː mˈeɪɚ."
         },
         {
           "text": "Supe la verdad esa misma tarde.",

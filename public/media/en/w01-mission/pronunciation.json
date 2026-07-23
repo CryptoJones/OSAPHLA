@@ -143,7 +143,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Lenguaje modelo. My name has five letters. — Mi nombre tiene cinco letras. The letter H has two common names around the world. — La letra H tiene dos nombres comunes en el mundo. I listen and repeat each word. — Escucho y repito cada palabra. Which syllable is stressed? — ¿Qué sílaba lleva el acento? Short, frequent practice works best. — La práctica breve y frecuente funciona mejor.",
+      "text": "Lenguaje modelo. I am going to record my introduction. — Voy a grabar mi presentación. I identify the stressed syllable in each word. — Identifico la sílaba tónica en cada palabra. I correct one mistake at a time. — Corrijo un error a la vez. My goal is to improve every week. — Mi meta es mejorar cada semana. I review the result of my first attempt. — Reviso el resultado de mi primer intento.",
       "sentences": [
         {
           "text": "Lenguaje modelo.",
@@ -156,104 +156,104 @@
           "phonemes": "leŋɡwˈaxe moðˈelo."
         },
         {
-          "text": "My name has five letters.",
+          "text": "I am going to record my introduction.",
           "segments": [
             {
-              "text": "My name has five letters.",
+              "text": "I am going to record my introduction.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "maɪ nˈeɪm hɐz fˈaɪv lˈɛɾɚz."
+          "phonemes": "aɪɐm ɡˌoʊɪŋ tə ɹᵻkˈɔːɹd maɪ ˌɪntɹədˈʌkʃən."
         },
         {
-          "text": "— Mi nombre tiene cinco letras.",
+          "text": "— Voy a grabar mi presentación.",
           "segments": [
             {
-              "text": "— Mi nombre tiene cinco letras.",
+              "text": "— Voy a grabar mi presentación.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— mi nˈombɾe tjˈene sˈinko lˈetɾas."
+          "phonemes": "— bˈoɪ a ɣɾaβˈaɾ mi pɾˌesentasjˈon."
         },
         {
-          "text": "The letter H has two common names around the world.",
+          "text": "I identify the stressed syllable in each word.",
           "segments": [
             {
-              "text": "The letter H has two common names around the world.",
+              "text": "I identify the stressed syllable in each word.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə lˈɛɾɚɹ ˈeɪtʃ hɐz tˈuː kˈɑːmən nˈeɪmz ɚɹˈaʊnd ðə wˈɜːld."
+          "phonemes": "aɪ aɪdˈɛntᵻfˌaɪ ðə stɹˈɛst sˈɪləbəl ɪn ˈiːtʃ wˈɜːd."
         },
         {
-          "text": "— La letra H tiene dos nombres comunes en el mundo.",
+          "text": "— Identifico la sílaba tónica en cada palabra.",
           "segments": [
             {
-              "text": "— La letra H tiene dos nombres comunes en el mundo.",
+              "text": "— Identifico la sílaba tónica en cada palabra.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— la lˈetɾa ˈatʃe tjˈene ðˈos nˈombɾes komˈunes en el mˈundo."
+          "phonemes": "— ˌiðentifˈiko la sˈilaβa tˈonika en kˈaða palˈaβɾa."
         },
         {
-          "text": "I listen and repeat each word.",
+          "text": "I correct one mistake at a time.",
           "segments": [
             {
-              "text": "I listen and repeat each word.",
+              "text": "I correct one mistake at a time.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪ lˈɪsən ænd ɹᵻpˈiːt ˈiːtʃ wˈɜːd."
+          "phonemes": "aɪ kɚɹˈɛkt wˈʌn mɪstˈeɪk æɾə tˈaɪm."
         },
         {
-          "text": "— Escucho y repito cada palabra.",
+          "text": "— Corrijo un error a la vez.",
           "segments": [
             {
-              "text": "— Escucho y repito cada palabra.",
+              "text": "— Corrijo un error a la vez.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— eskˈutʃo i repˈito kˈaða palˈaβɾa."
+          "phonemes": "— korˈixo ˈun erˈoɾ a la βˈes."
         },
         {
-          "text": "Which syllable is stressed?",
+          "text": "My goal is to improve every week.",
           "segments": [
             {
-              "text": "Which syllable is stressed?",
+              "text": "My goal is to improve every week.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wˌɪtʃ sˈɪləbəl ɪz stɹˈɛst?"
+          "phonemes": "maɪ ɡˈoʊl ɪz tʊ ɪmpɹˈuːv ˈɛvɹi wˈiːk."
         },
         {
-          "text": "— ¿Qué sílaba lleva el acento?",
+          "text": "— Mi meta es mejorar cada semana.",
           "segments": [
             {
-              "text": "— ¿Qué sílaba lleva el acento?",
+              "text": "— Mi meta es mejorar cada semana.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— kˈe sˈilaβa ʝˈeβa el asˈɛnto?"
+          "phonemes": "— mi mˈeta ˈes mˌexoɾˈaɾ kˈaða semˈana."
         },
         {
-          "text": "Short, frequent practice works best.",
+          "text": "I review the result of my first attempt.",
           "segments": [
             {
-              "text": "Short, frequent practice works best.",
+              "text": "I review the result of my first attempt.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ʃˈɔːɹt, fɹˈiːkwənt pɹˈæktɪs wˈɜːks bˈɛst."
+          "phonemes": "aɪ ɹᵻvjˈuː ðə ɹɪzˈʌlt ʌv maɪ fˈɜːst ɐtˈɛmpt."
         },
         {
-          "text": "— La práctica breve y frecuente funciona mejor.",
+          "text": "— Reviso el resultado de mi primer intento.",
           "segments": [
             {
-              "text": "— La práctica breve y frecuente funciona mejor.",
+              "text": "— Reviso el resultado de mi primer intento.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— la pɾˈaktika βɾˈeβe i fɾekwˈɛnte funsjˈona mexˈoɾ."
+          "phonemes": "— reβˈiso el rˌesultˈaðo ðe mi pɾimˈeɾ intˈɛnto."
         }
       ]
     },
@@ -305,129 +305,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "the alphabet",
+      "text": "to record",
       "sentences": [
         {
-          "text": "the alphabet",
+          "text": "to record",
           "segments": [
             {
-              "text": "the alphabet",
+              "text": "to record",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðɪ ˈælfəbˌɛt"
+          "phonemes": "tə ɹᵻkˈɔːɹd"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "a letter",
+      "text": "an introduction",
       "sentences": [
         {
-          "text": "a letter",
+          "text": "an introduction",
           "segments": [
             {
-              "text": "a letter",
+              "text": "an introduction",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ lˈɛɾɚ"
+          "phonemes": "ɐn ˌɪntɹədˈʌkʃən"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "a sound",
+      "text": "to identify",
       "sentences": [
         {
-          "text": "a sound",
+          "text": "to identify",
           "segments": [
             {
-              "text": "a sound",
+              "text": "to identify",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ sˈaʊnd"
+          "phonemes": "tʊ aɪdˈɛntᵻfˌaɪ"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "a word",
+      "text": "to correct",
       "sentences": [
         {
-          "text": "a word",
+          "text": "to correct",
           "segments": [
             {
-              "text": "a word",
+              "text": "to correct",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ wˈɜːd"
+          "phonemes": "tə kɚɹˈɛkt"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "a syllable",
+      "text": "to improve",
       "sentences": [
         {
-          "text": "a syllable",
+          "text": "to improve",
           "segments": [
             {
-              "text": "a syllable",
+              "text": "to improve",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ sˈɪləbəl"
+          "phonemes": "tʊ ɪmpɹˈuːv"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "stress",
+      "text": "an attempt",
       "sentences": [
         {
-          "text": "stress",
+          "text": "an attempt",
           "segments": [
             {
-              "text": "stress",
+              "text": "an attempt",
               "lang": "en-us"
             }
           ],
-          "phonemes": "stɹˈɛs"
+          "phonemes": "ɐn ɐtˈɛmpt"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "to listen",
+      "text": "a goal",
       "sentences": [
         {
-          "text": "to listen",
+          "text": "a goal",
           "segments": [
             {
-              "text": "to listen",
+              "text": "a goal",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə lˈɪsən"
+          "phonemes": "ɐ ɡˈoʊl"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "to repeat",
+      "text": "a result",
       "sentences": [
         {
-          "text": "to repeat",
+          "text": "a result",
           "segments": [
             {
-              "text": "to repeat",
+              "text": "a result",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə ɹᵻpˈiːt"
+          "phonemes": "ɐ ɹɪzˈʌlt"
         }
       ]
     }
