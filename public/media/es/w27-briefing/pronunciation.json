@@ -161,7 +161,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Model language. Recomiendo que revise los datos. — I recommend that you review the data. Es necesario que participen los vecinos. — It is necessary for the residents to participate. Me alegra que estés aquí. — I am glad you are here. El director pide que lleguemos temprano. — The director asks us to arrive early. Ojalá encuentren una solución justa. — I hope they find a fair solution.",
+      "text": "Model language. Recomiendo que revise los datos. — I recommend that you review the data. Es necesario que participen los vecinos. — It is necessary that residents participate. Me alegra que estés aquí. — I am glad you are here. El director pide que lleguemos temprano. — The director asks us to arrive early. Ojalá encuentren una solución justa. — I hope they find a fair solution.",
       "sentences": [
         {
           "text": "Model language.",
@@ -204,14 +204,14 @@
           "phonemes": "ˈes nˌesesˈaɾjo ke pˌaɾtisˈipen los βesˈinos."
         },
         {
-          "text": "— It is necessary for the residents to participate.",
+          "text": "— It is necessary that residents participate.",
           "segments": [
             {
-              "text": "— It is necessary for the residents to participate.",
+              "text": "— It is necessary that residents participate.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ɪɾ ɪz nˈɛsᵻsɚɹi fɚðə ɹˈɛzᵻdənts tə pɑːɹtˈɪsᵻpˌeɪt."
+          "phonemes": "— ɪɾ ɪz nˈɛsᵻsɚɹi ðæt ɹˈɛzᵻdənts pɑːɹtˈɪsᵻpˌeɪt."
         },
         {
           "text": "Me alegra que estés aquí.",

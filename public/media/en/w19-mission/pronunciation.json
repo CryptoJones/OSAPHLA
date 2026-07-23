@@ -143,7 +143,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Lenguaje modelo. There used to be fewer buildings. — Antes había menos edificios. I used to play in this square. — Yo jugaba en esta plaza. It was eight o'clock, and it was raining. — Eran las ocho y estaba lloviendo. We listened to the radio while we worked. — Escuchábamos la radio mientras trabajábamos. The city seemed quieter. — La ciudad parecía más tranquila.",
+      "text": "Lenguaje modelo. I'm going to describe a place from ten years ago. — Voy a describir un lugar de hace diez años. I compare the old building with the current one. — Comparo el edificio antiguo con el actual. Before, there weren't as many buildings. — Antes no existían tantos edificios. I notice three important changes. — Noto tres cambios importantes. The neighborhood transformed a lot. — El barrio se transformó mucho.",
       "sentences": [
         {
           "text": "Lenguaje modelo.",
@@ -156,104 +156,104 @@
           "phonemes": "leŋɡwˈaxe moðˈelo."
         },
         {
-          "text": "There used to be fewer buildings.",
+          "text": "I'm going to describe a place from ten years ago.",
           "segments": [
             {
-              "text": "There used to be fewer buildings.",
+              "text": "I'm going to describe a place from ten years ago.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðɛɹ jˈuːzd təbi fjˈuːɚ bˈɪldɪŋz."
+          "phonemes": "aɪm ɡˌoʊɪŋ tə dᵻskɹˈaɪb ɐ plˈeɪs fɹʌm tˈɛn jˈɪɹz ɐɡˈoʊ."
         },
         {
-          "text": "— Antes había menos edificios.",
+          "text": "— Voy a describir un lugar de hace diez años.",
           "segments": [
             {
-              "text": "— Antes había menos edificios.",
+              "text": "— Voy a describir un lugar de hace diez años.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— ˈantes aβˈia mˈenos ˌeðifˈisjos."
+          "phonemes": "— bˈoɪ a ðˌeskɾiβˈiɾ ˈun luɣˈaɾ ðe ˈase ðjˈes ˈaɲos."
         },
         {
-          "text": "I used to play in this square.",
+          "text": "I compare the old building with the current one.",
           "segments": [
             {
-              "text": "I used to play in this square.",
+              "text": "I compare the old building with the current one.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪ jˈuːzd tə plˈeɪ ɪn ðɪs skwˈɛɹ."
+          "phonemes": "aɪ kəmpˈɛɹ ðɪ ˈoʊld bˈɪldɪŋ wɪððə kˈɜːɹənt wˌʌn."
         },
         {
-          "text": "— Yo jugaba en esta plaza.",
+          "text": "— Comparo el edificio antiguo con el actual.",
           "segments": [
             {
-              "text": "— Yo jugaba en esta plaza.",
+              "text": "— Comparo el edificio antiguo con el actual.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— ʝˈo xuɣˈaβa en ˈesta plˈasa."
+          "phonemes": "— kompˈaɾo el ˌeðifˈisjo antˈiɣwo kon el aktwˈal."
         },
         {
-          "text": "It was eight o'clock, and it was raining.",
+          "text": "Before, there weren't as many buildings.",
           "segments": [
             {
-              "text": "It was eight o'clock, and it was raining.",
+              "text": "Before, there weren't as many buildings.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɪt wʌz ˈeɪt əklˈɑːk, ænd ɪt wʌz ɹˈeɪnɪŋ."
+          "phonemes": "bᵻfˈɔːɹ, ðɛɹ wˌɜːnt æz mˈɛni bˈɪldɪŋz."
         },
         {
-          "text": "— Eran las ocho y estaba lloviendo.",
+          "text": "— Antes no existían tantos edificios.",
           "segments": [
             {
-              "text": "— Eran las ocho y estaba lloviendo.",
+              "text": "— Antes no existían tantos edificios.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— ˈeɾan las ˈotʃo i estˈaβa ʝoβjˈɛndo."
+          "phonemes": "— ˈantes nˈo ˌeksistˈian tˈantos ˌeðifˈisjos."
         },
         {
-          "text": "We listened to the radio while we worked.",
+          "text": "I notice three important changes.",
           "segments": [
             {
-              "text": "We listened to the radio while we worked.",
+              "text": "I notice three important changes.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wiː lˈɪsənd tə ðə ɹˈeɪdɪˌoʊ wˌaɪl wiː wˈɜːkt."
+          "phonemes": "aɪ nˈoʊɾɪs θɹˈiː ɪmpˈɔːɹtənt tʃˈeɪndʒᵻz."
         },
         {
-          "text": "— Escuchábamos la radio mientras trabajábamos.",
+          "text": "— Noto tres cambios importantes.",
           "segments": [
             {
-              "text": "— Escuchábamos la radio mientras trabajábamos.",
+              "text": "— Noto tres cambios importantes.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— ˌeskutʃˈaβamos la rˈaðjo mjˌentɾas tɾˌaβaxˈaβamos."
+          "phonemes": "— nˈoto tɾˈes kˈambjos ˌimpoɾtˈantes."
         },
         {
-          "text": "The city seemed quieter.",
+          "text": "The neighborhood transformed a lot.",
           "segments": [
             {
-              "text": "The city seemed quieter.",
+              "text": "The neighborhood transformed a lot.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə sˈɪɾi sˈiːmd kwˈaɪəɾɚ."
+          "phonemes": "ðə nˈeɪbɚhˌʊd tɹænsfˈɔːɹmd ɐ lˈɑːt."
         },
         {
-          "text": "— La ciudad parecía más tranquila.",
+          "text": "— El barrio se transformó mucho.",
           "segments": [
             {
-              "text": "— La ciudad parecía más tranquila.",
+              "text": "— El barrio se transformó mucho.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— la sjuðˈad pˌaɾesˈia mˈas tɾankˈila."
+          "phonemes": "— el βˈario se tɾˌansfoɾmˈo mˈutʃo."
         }
       ]
     },
@@ -305,129 +305,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "before",
+      "text": "ten years ago",
       "sentences": [
         {
-          "text": "before",
+          "text": "ten years ago",
           "segments": [
             {
-              "text": "before",
+              "text": "ten years ago",
               "lang": "en-us"
             }
           ],
-          "phonemes": "bᵻfˈɔːɹ"
+          "phonemes": "tˈɛn jˈɪɹz ɐɡˈoʊ"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "now",
+      "text": "to compare",
       "sentences": [
         {
-          "text": "now",
+          "text": "to compare",
           "segments": [
             {
-              "text": "now",
+              "text": "to compare",
               "lang": "en-us"
             }
           ],
-          "phonemes": "nˈaʊ"
+          "phonemes": "tə kəmpˈɛɹ"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "while",
+      "text": "a building",
       "sentences": [
         {
-          "text": "while",
+          "text": "a building",
           "segments": [
             {
-              "text": "while",
+              "text": "a building",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wˈaɪl"
+          "phonemes": "ɐ bˈɪldɪŋ"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "to use to",
+      "text": "to build",
       "sentences": [
         {
-          "text": "to use to",
+          "text": "to build",
           "segments": [
             {
-              "text": "to use to",
+              "text": "to build",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə jˈuːz tuː"
+          "phonemes": "tə bˈɪld"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "quiet",
+      "text": "to notice",
       "sentences": [
         {
-          "text": "quiet",
+          "text": "to notice",
           "segments": [
             {
-              "text": "quiet",
+              "text": "to notice",
               "lang": "en-us"
             }
           ],
-          "phonemes": "kwˈaɪət"
+          "phonemes": "tə nˈoʊɾɪs"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "busy",
+      "text": "to transform",
       "sentences": [
         {
-          "text": "busy",
+          "text": "to transform",
           "segments": [
             {
-              "text": "busy",
+              "text": "to transform",
               "lang": "en-us"
             }
           ],
-          "phonemes": "bˈɪzi"
+          "phonemes": "tə tɹænsfˈɔːɹm"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "to remember",
+      "text": "former",
       "sentences": [
         {
-          "text": "to remember",
+          "text": "former",
           "segments": [
             {
-              "text": "to remember",
+              "text": "former",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə ɹᵻmˈɛmbɚ"
+          "phonemes": "fˈɔːɹmɚ"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "to change",
+      "text": "current",
       "sentences": [
         {
-          "text": "to change",
+          "text": "current",
           "segments": [
             {
-              "text": "to change",
+              "text": "current",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə tʃˈeɪndʒ"
+          "phonemes": "kˈɜːɹənt"
         }
       ]
     }

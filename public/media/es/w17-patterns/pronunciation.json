@@ -29,7 +29,7 @@
     },
     {
       "file": "01.wav",
-      "text": "Form and meaning. Regular preterite; spelling changes; time markers; completed event chains.",
+      "text": "Form and meaning. Applying the form. Regular preterite endings mark completed past action; verbs ending in -car, -gar, and -zar change spelling in the yo form (busqué, llegué, empecé) to keep the sound consistent.",
       "sentences": [
         {
           "text": "Form and meaning.",
@@ -42,20 +42,54 @@
           "phonemes": "fˈɔːɹm ænd mˈiːnɪŋ."
         },
         {
-          "text": "Regular preterite; spelling changes; time markers; completed event chains.",
+          "text": "Applying the form.",
           "segments": [
             {
-              "text": "Regular preterite; spelling changes; time markers; completed event chains.",
+              "text": "Applying the form.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɹˈɛɡjʊlɚ pɹɪtˈɛɹaɪt; spˈɛlɪŋ tʃˈeɪndʒᵻz; tˈaɪm mˈɑːɹkɚz; kəmplˈiːɾᵻd ᵻvˈɛnt tʃˈeɪnz."
+          "phonemes": "ɐplˈaɪɪŋ ðə fˈɔːɹm."
+        },
+        {
+          "text": "Regular preterite endings mark completed past action; verbs ending in -car, -gar, and -zar change spelling in the yo form (busqué, llegué, empecé) to keep the sound consistent.",
+          "segments": [
+            {
+              "text": "Regular preterite endings mark completed past action; verbs ending in -car, -gar, and -zar change spelling in the yo form (",
+              "lang": "en-us"
+            },
+            {
+              "text": "busqué",
+              "lang": "es-419"
+            },
+            {
+              "text": ", ",
+              "lang": "en-us"
+            },
+            {
+              "text": "llegué",
+              "lang": "es-419"
+            },
+            {
+              "text": ", ",
+              "lang": "en-us"
+            },
+            {
+              "text": "empecé",
+              "lang": "es-419"
+            },
+            {
+              "text": ") to keep the sound consistent.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɹˈɛɡjʊlɚ pɹɪtˈɛɹaɪt ˈɛndɪŋz mˈɑːɹk kəmplˈiːɾᵻd pˈæst ˈækʃən; vˈɜːbz ˈɛndɪŋ ɪn kˈɑːɹ, ɡˈɑːɹ, ænd zˈɑːɹ tʃˈeɪndʒ spˈɛlɪŋ ɪnðə jˈoʊ fˈɔːɹm ( buskˈe , ʝeɣˈe , ˌempesˈe ) tə kˈiːp ðə sˈaʊnd kənsˈɪstənt."
         }
       ]
     },
     {
       "file": "02.wav",
-      "text": "Model set. Ayer llegué temprano a la oficina. Primero revisamos el informe. Luego llamaron al supervisor. ¿Qué ocurrió después? La reunión terminó a las seis. Yesterday I arrived at the office early. First we reviewed the report. Then they called the supervisor. What happened afterward? The meeting ended at six.",
+      "text": "Model set. Hablé con mi jefe ayer. Comí en un restaurante nuevo. Viví en esa ciudad dos años. Busqué la información toda la tarde. Llegué temprano la semana pasada. I spoke with my boss yesterday. I ate at a new restaurant. I lived in that city for two years. I searched for the information all afternoon. I arrived early last week.",
       "sentences": [
         {
           "text": "Model set.",
@@ -68,104 +102,104 @@
           "phonemes": "mˈɑːdəl sˈɛt."
         },
         {
-          "text": "Ayer llegué temprano a la oficina.",
+          "text": "Hablé con mi jefe ayer.",
           "segments": [
             {
-              "text": "Ayer llegué temprano a la oficina.",
+              "text": "Hablé con mi jefe ayer.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "aʝˈeɾ ʝeɣˈe tempɾˈano a la ˌofisˈina."
+          "phonemes": "aβlˈe kon mi xˈefe aʝˈeɾ."
         },
         {
-          "text": "Primero revisamos el informe.",
+          "text": "Comí en un restaurante nuevo.",
           "segments": [
             {
-              "text": "Primero revisamos el informe.",
+              "text": "Comí en un restaurante nuevo.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "pɾimˈeɾo rˌeβisˈamos el infˈoɾme."
+          "phonemes": "komˈi en ˈun rˌestaʊɾˈante nwˈeβo."
         },
         {
-          "text": "Luego llamaron al supervisor.",
+          "text": "Viví en esa ciudad dos años.",
           "segments": [
             {
-              "text": "Luego llamaron al supervisor.",
+              "text": "Viví en esa ciudad dos años.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "luˈeɣo ʝamˈaɾon al sˌupeɾβisˈoɾ."
+          "phonemes": "biβˈi en ˈesa sjuðˈad ðˈos ˈaɲos."
         },
         {
-          "text": "¿Qué ocurrió después?",
+          "text": "Busqué la información toda la tarde.",
           "segments": [
             {
-              "text": "¿Qué ocurrió después?",
+              "text": "Busqué la información toda la tarde.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "kˈe ˌokuriˈo ðespwˈes?"
+          "phonemes": "buskˈe la ˌinfoɾmasjˈon tˈoða la tˈaɾðe."
         },
         {
-          "text": "La reunión terminó a las seis.",
+          "text": "Llegué temprano la semana pasada.",
           "segments": [
             {
-              "text": "La reunión terminó a las seis.",
+              "text": "Llegué temprano la semana pasada.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la reʊnjˈon tˌeɾminˈo a las sˈeɪs."
+          "phonemes": "ʝeɣˈe tempɾˈano la semˈana pasˈaða."
         },
         {
-          "text": "Yesterday I arrived at the office early.",
+          "text": "I spoke with my boss yesterday.",
           "segments": [
             {
-              "text": "Yesterday I arrived at the office early.",
+              "text": "I spoke with my boss yesterday.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "jˈɛstɚdˌeɪ aɪ ɚɹˈaɪvd æt ðɪ ˈɑːfɪs ˈɜːli."
+          "phonemes": "aɪ spˈoʊk wɪð maɪ bˈɔs jˈɛstɚdˌeɪ."
         },
         {
-          "text": "First we reviewed the report.",
+          "text": "I ate at a new restaurant.",
           "segments": [
             {
-              "text": "First we reviewed the report.",
+              "text": "I ate at a new restaurant.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "fˈɜːst wiː ɹᵻvjˈuːd ðə ɹᵻpˈɔːɹt."
+          "phonemes": "aɪ ˈeɪt æɾə nˈuː ɹˈɛstɹɑːnt."
         },
         {
-          "text": "Then they called the supervisor.",
+          "text": "I lived in that city for two years.",
           "segments": [
             {
-              "text": "Then they called the supervisor.",
+              "text": "I lived in that city for two years.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðˈɛn ðeɪ kˈɔːld ðə sˈuːpɚvˌaɪzɚ."
+          "phonemes": "aɪ lˈɪvd ɪn ðæt sˈɪɾi fɔːɹ tˈuː jˈɪɹz."
         },
         {
-          "text": "What happened afterward?",
+          "text": "I searched for the information all afternoon.",
           "segments": [
             {
-              "text": "What happened afterward?",
+              "text": "I searched for the information all afternoon.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wˌʌt hˈæpənd ˈæftɚwɚd?"
+          "phonemes": "aɪ sˈɜːtʃt fɚðɪ ˌɪnfɚmˈeɪʃən ˈɔːl ˌæftɚnˈuːn."
         },
         {
-          "text": "The meeting ended at six.",
+          "text": "I arrived early last week.",
           "segments": [
             {
-              "text": "The meeting ended at six.",
+              "text": "I arrived early last week.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə mˈiːɾɪŋ ˈɛndᵻd æt sˈɪks."
+          "phonemes": "aɪ ɚɹˈaɪvd ˈɜːli lˈæst wˈiːk."
         }
       ]
     },
@@ -243,7 +277,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Model language. Ayer llegué temprano a la oficina. — Yesterday I arrived at the office early. Primero revisamos el informe. — First we reviewed the report. Luego llamaron al supervisor. — Then they called the supervisor. ¿Qué ocurrió después? — What happened afterward? La reunión terminó a las seis. — The meeting ended at six.",
+      "text": "Model language. Hablé con mi jefe ayer. — I spoke with my boss yesterday. Comí en un restaurante nuevo. — I ate at a new restaurant. Viví en esa ciudad dos años. — I lived in that city for two years. Busqué la información toda la tarde. — I searched for the information all afternoon. Llegué temprano la semana pasada. — I arrived early last week.",
       "sentences": [
         {
           "text": "Model language.",
@@ -256,104 +290,104 @@
           "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
         },
         {
-          "text": "Ayer llegué temprano a la oficina.",
+          "text": "Hablé con mi jefe ayer.",
           "segments": [
             {
-              "text": "Ayer llegué temprano a la oficina.",
+              "text": "Hablé con mi jefe ayer.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "aʝˈeɾ ʝeɣˈe tempɾˈano a la ˌofisˈina."
+          "phonemes": "aβlˈe kon mi xˈefe aʝˈeɾ."
         },
         {
-          "text": "— Yesterday I arrived at the office early.",
+          "text": "— I spoke with my boss yesterday.",
           "segments": [
             {
-              "text": "— Yesterday I arrived at the office early.",
+              "text": "— I spoke with my boss yesterday.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— jˈɛstɚdˌeɪ aɪ ɚɹˈaɪvd æt ðɪ ˈɑːfɪs ˈɜːli."
+          "phonemes": "— aɪ spˈoʊk wɪð maɪ bˈɔs jˈɛstɚdˌeɪ."
         },
         {
-          "text": "Primero revisamos el informe.",
+          "text": "Comí en un restaurante nuevo.",
           "segments": [
             {
-              "text": "Primero revisamos el informe.",
+              "text": "Comí en un restaurante nuevo.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "pɾimˈeɾo rˌeβisˈamos el infˈoɾme."
+          "phonemes": "komˈi en ˈun rˌestaʊɾˈante nwˈeβo."
         },
         {
-          "text": "— First we reviewed the report.",
+          "text": "— I ate at a new restaurant.",
           "segments": [
             {
-              "text": "— First we reviewed the report.",
+              "text": "— I ate at a new restaurant.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— fˈɜːst wiː ɹᵻvjˈuːd ðə ɹᵻpˈɔːɹt."
+          "phonemes": "— aɪ ˈeɪt æɾə nˈuː ɹˈɛstɹɑːnt."
         },
         {
-          "text": "Luego llamaron al supervisor.",
+          "text": "Viví en esa ciudad dos años.",
           "segments": [
             {
-              "text": "Luego llamaron al supervisor.",
+              "text": "Viví en esa ciudad dos años.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "luˈeɣo ʝamˈaɾon al sˌupeɾβisˈoɾ."
+          "phonemes": "biβˈi en ˈesa sjuðˈad ðˈos ˈaɲos."
         },
         {
-          "text": "— Then they called the supervisor.",
+          "text": "— I lived in that city for two years.",
           "segments": [
             {
-              "text": "— Then they called the supervisor.",
+              "text": "— I lived in that city for two years.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ðˈɛn ðeɪ kˈɔːld ðə sˈuːpɚvˌaɪzɚ."
+          "phonemes": "— aɪ lˈɪvd ɪn ðæt sˈɪɾi fɔːɹ tˈuː jˈɪɹz."
         },
         {
-          "text": "¿Qué ocurrió después?",
+          "text": "Busqué la información toda la tarde.",
           "segments": [
             {
-              "text": "¿Qué ocurrió después?",
+              "text": "Busqué la información toda la tarde.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "kˈe ˌokuriˈo ðespwˈes?"
+          "phonemes": "buskˈe la ˌinfoɾmasjˈon tˈoða la tˈaɾðe."
         },
         {
-          "text": "— What happened afterward?",
+          "text": "— I searched for the information all afternoon.",
           "segments": [
             {
-              "text": "— What happened afterward?",
+              "text": "— I searched for the information all afternoon.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— wˌʌt hˈæpənd ˈæftɚwɚd?"
+          "phonemes": "— aɪ sˈɜːtʃt fɚðɪ ˌɪnfɚmˈeɪʃən ˈɔːl ˌæftɚnˈuːn."
         },
         {
-          "text": "La reunión terminó a las seis.",
+          "text": "Llegué temprano la semana pasada.",
           "segments": [
             {
-              "text": "La reunión terminó a las seis.",
+              "text": "Llegué temprano la semana pasada.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la reʊnjˈon tˌeɾminˈo a las sˈeɪs."
+          "phonemes": "ʝeɣˈe tempɾˈano la semˈana pasˈaða."
         },
         {
-          "text": "— The meeting ended at six.",
+          "text": "— I arrived early last week.",
           "segments": [
             {
-              "text": "— The meeting ended at six.",
+              "text": "— I arrived early last week.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ðə mˈiːɾɪŋ ˈɛndᵻd æt sˈɪks."
+          "phonemes": "— aɪ ɚɹˈaɪvd ˈɜːli lˈæst wˈiːk."
         }
       ]
     },
@@ -405,129 +439,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "ayer",
+      "text": "hablé",
       "sentences": [
         {
-          "text": "ayer",
+          "text": "hablé",
           "segments": [
             {
-              "text": "ayer",
+              "text": "hablé",
               "lang": "es-419"
             }
           ],
-          "phonemes": "aʝˈeɾ"
+          "phonemes": "aβlˈe"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "anoche",
+      "text": "comí",
       "sentences": [
         {
-          "text": "anoche",
+          "text": "comí",
           "segments": [
             {
-              "text": "anoche",
+              "text": "comí",
               "lang": "es-419"
             }
           ],
-          "phonemes": "anˈotʃe"
+          "phonemes": "komˈi"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "primero",
+      "text": "viví",
       "sentences": [
         {
-          "text": "primero",
+          "text": "viví",
           "segments": [
             {
-              "text": "primero",
+              "text": "viví",
               "lang": "es-419"
             }
           ],
-          "phonemes": "pɾimˈeɾo"
+          "phonemes": "biβˈi"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "luego",
+      "text": "busqué",
       "sentences": [
         {
-          "text": "luego",
+          "text": "busqué",
           "segments": [
             {
-              "text": "luego",
+              "text": "busqué",
               "lang": "es-419"
             }
           ],
-          "phonemes": "luˈeɣo"
+          "phonemes": "buskˈe"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "después",
+      "text": "llegué",
       "sentences": [
         {
-          "text": "después",
+          "text": "llegué",
           "segments": [
             {
-              "text": "después",
+              "text": "llegué",
               "lang": "es-419"
             }
           ],
-          "phonemes": "despwˈes"
+          "phonemes": "ʝeɣˈe"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "ocurrir",
+      "text": "la semana pasada",
       "sentences": [
         {
-          "text": "ocurrir",
+          "text": "la semana pasada",
           "segments": [
             {
-              "text": "ocurrir",
+              "text": "la semana pasada",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˌokurˈiɾ"
+          "phonemes": "la semˈana pasˈaða"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "llamar",
+      "text": "el mes pasado",
       "sentences": [
         {
-          "text": "llamar",
+          "text": "el mes pasado",
           "segments": [
             {
-              "text": "llamar",
+              "text": "el mes pasado",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ʝamˈaɾ"
+          "phonemes": "el mˈes pasˈaðo"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "terminar",
+      "text": "completar",
       "sentences": [
         {
-          "text": "terminar",
+          "text": "completar",
           "segments": [
             {
-              "text": "terminar",
+              "text": "completar",
               "lang": "es-419"
             }
           ],
-          "phonemes": "tˌeɾminˈaɾ"
+          "phonemes": "kˌompletˈaɾ"
         }
       ]
     }

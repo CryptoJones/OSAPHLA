@@ -183,7 +183,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Lenguaje modelo. Hello, I'm Alex. — Hola, soy Alex. Nice to meet you, Ms. Rivera. — Mucho gusto, señora Rivera. What's your name? — ¿Cómo te llamas? This is my classmate, Jordan. — Esta persona es Jordan, mi colega de clase. See you tomorrow. Have a good day. — Nos vemos mañana. Que tengas un buen día.",
+      "text": "Lenguaje modelo. Lucía arrives early at the office. — Lucía llega temprano a la oficina. She greets the receptionist politely. — Saluda a la recepcionista con cortesía. She introduces herself before the meeting. — Se presenta antes de la reunión. Afterward she meets a new classmate. — Después conoce a un compañero nuevo. They exchange names. — Intercambian nombres.",
       "sentences": [
         {
           "text": "Lenguaje modelo.",
@@ -196,138 +196,104 @@
           "phonemes": "leŋɡwˈaxe moðˈelo."
         },
         {
-          "text": "Hello, I'm Alex.",
+          "text": "Lucía arrives early at the office.",
           "segments": [
             {
-              "text": "Hello, I'm Alex.",
+              "text": "Lucía arrives early at the office.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "həlˈoʊ, aɪm ˈælɪks."
+          "phonemes": "lˈuːʃə ɚɹˈaɪvz ˈɜːli æt ðɪ ˈɑːfɪs."
         },
         {
-          "text": "— Hola, soy Alex.",
+          "text": "— Lucía llega temprano a la oficina.",
           "segments": [
             {
-              "text": "— Hola, soy Alex.",
+              "text": "— Lucía llega temprano a la oficina.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— ˈola, sˈoɪ alˈeks."
+          "phonemes": "— lusˈia ʝˈeɣa tempɾˈano a la ˌofisˈina."
         },
         {
-          "text": "Nice to meet you, Ms.",
+          "text": "She greets the receptionist politely.",
           "segments": [
             {
-              "text": "Nice to meet you, Ms.",
+              "text": "She greets the receptionist politely.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "nˈaɪs tə mˈiːt juː, ˌɛmˈɛs."
+          "phonemes": "ʃiː ɡɹˈiːts ðə ɹᵻsˈɛpʃənˌɪst pəlˈaɪtli."
         },
         {
-          "text": "Rivera.",
+          "text": "— Saluda a la recepcionista con cortesía.",
           "segments": [
             {
-              "text": "Rivera.",
-              "lang": "en-us"
-            }
-          ],
-          "phonemes": "ɹɪvˈɛɹə."
-        },
-        {
-          "text": "— Mucho gusto, señora Rivera.",
-          "segments": [
-            {
-              "text": "— Mucho gusto, señora ",
-              "lang": "es-419"
-            },
-            {
-              "text": "Rivera.",
-              "lang": "en-us"
-            }
-          ],
-          "phonemes": "— mˈutʃo ɣˈusto, seɲˈoɾa ɹɪvˈɛɹə."
-        },
-        {
-          "text": "What's your name?",
-          "segments": [
-            {
-              "text": "What's your name?",
-              "lang": "en-us"
-            }
-          ],
-          "phonemes": "wˌʌts jʊɹ nˈeɪm?"
-        },
-        {
-          "text": "— ¿Cómo te llamas?",
-          "segments": [
-            {
-              "text": "— ¿Cómo te llamas?",
+              "text": "— Saluda a la recepcionista con cortesía.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— kˈomo te ʝˈamas?"
+          "phonemes": "— salˈuða a la rˌesepsjonˈista kon kˌoɾtesˈia."
         },
         {
-          "text": "This is my classmate, Jordan.",
+          "text": "She introduces herself before the meeting.",
           "segments": [
             {
-              "text": "This is my classmate, Jordan.",
+              "text": "She introduces herself before the meeting.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðɪs ɪz maɪ klˈæsmeɪt, dʒˈɔːɹdən."
+          "phonemes": "ʃiː ˌɪntɹədˈuːsᵻz hɜːsˈɛlf bᵻfˌɔːɹ ðə mˈiːɾɪŋ."
         },
         {
-          "text": "— Esta persona es Jordan, mi colega de clase.",
+          "text": "— Se presenta antes de la reunión.",
           "segments": [
             {
-              "text": "— Esta persona es Jordan, mi colega de clase.",
+              "text": "— Se presenta antes de la reunión.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— ˈesta peɾsˈona ˈes xˈoɾðan, mi kolˈeɣa ðe klˈase."
+          "phonemes": "— se pɾesˈɛnta ˈantes ðe la reʊnjˈon."
         },
         {
-          "text": "See you tomorrow.",
+          "text": "Afterward she meets a new classmate.",
           "segments": [
             {
-              "text": "See you tomorrow.",
+              "text": "Afterward she meets a new classmate.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "sˈiː juː təmˈɑːɹoʊ."
+          "phonemes": "ˈæftɚwɚd ʃiː mˈiːts ɐ nˈuː klˈæsmeɪt."
         },
         {
-          "text": "Have a good day.",
+          "text": "— Después conoce a un compañero nuevo.",
           "segments": [
             {
-              "text": "Have a good day.",
+              "text": "— Después conoce a un compañero nuevo.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— despwˈes konˈose a ˈun kˌompaɲˈeɾo nwˈeβo."
+        },
+        {
+          "text": "They exchange names.",
+          "segments": [
+            {
+              "text": "They exchange names.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "hæv ɐ ɡˈʊd dˈeɪ."
+          "phonemes": "ðeɪ ɛkstʃˈeɪndʒ nˈeɪmz."
         },
         {
-          "text": "— Nos vemos mañana.",
+          "text": "— Intercambian nombres.",
           "segments": [
             {
-              "text": "— Nos vemos mañana.",
+              "text": "— Intercambian nombres.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— nos βˈemos maɲˈana."
-        },
-        {
-          "text": "Que tengas un buen día.",
-          "segments": [
-            {
-              "text": "Que tengas un buen día.",
-              "lang": "es-419"
-            }
-          ],
-          "phonemes": "ke tˈɛŋɡas ˈum bwˈen dˈia."
+          "phonemes": "— ˌinteɾkˈambjan nˈombɾes."
         }
       ]
     },
@@ -379,129 +345,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "hello",
+      "text": "to arrive",
       "sentences": [
         {
-          "text": "hello",
+          "text": "to arrive",
           "segments": [
             {
-              "text": "hello",
+              "text": "to arrive",
               "lang": "en-us"
             }
           ],
-          "phonemes": "həlˈoʊ"
+          "phonemes": "tʊ ɚɹˈaɪv"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "good morning",
+      "text": "early",
       "sentences": [
         {
-          "text": "good morning",
+          "text": "early",
           "segments": [
             {
-              "text": "good morning",
+              "text": "early",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɡˈʊd mˈɔːɹnɪŋ"
+          "phonemes": "ˈɜːli"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "good evening",
+      "text": "to greet",
       "sentences": [
         {
-          "text": "good evening",
+          "text": "to greet",
           "segments": [
             {
-              "text": "good evening",
+              "text": "to greet",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɡˈʊd ˈiːvnɪŋ"
+          "phonemes": "tə ɡɹˈiːt"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "goodbye",
+      "text": "to introduce oneself",
       "sentences": [
         {
-          "text": "goodbye",
+          "text": "to introduce oneself",
           "segments": [
             {
-              "text": "goodbye",
+              "text": "to introduce oneself",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɡʊdbˈaɪ"
+          "phonemes": "tʊ ˌɪntɹədˈuːs wʌnsˈɛlf"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "please",
+      "text": "to meet",
       "sentences": [
         {
-          "text": "please",
+          "text": "to meet",
           "segments": [
             {
-              "text": "please",
+              "text": "to meet",
               "lang": "en-us"
             }
           ],
-          "phonemes": "plˈiːz"
+          "phonemes": "tə mˈiːt"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "thank you",
+      "text": "afterward",
       "sentences": [
         {
-          "text": "thank you",
+          "text": "afterward",
           "segments": [
             {
-              "text": "thank you",
+              "text": "afterward",
               "lang": "en-us"
             }
           ],
-          "phonemes": "θˈæŋk juː"
+          "phonemes": "ˈæftɚwɚd"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "nice to meet you",
+      "text": "receptionist",
       "sentences": [
         {
-          "text": "nice to meet you",
+          "text": "receptionist",
           "segments": [
             {
-              "text": "nice to meet you",
+              "text": "receptionist",
               "lang": "en-us"
             }
           ],
-          "phonemes": "nˈaɪs tə mˈiːt juː"
+          "phonemes": "ɹᵻsˈɛpʃənˌɪst"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "What is your name?",
+      "text": "classmate",
       "sentences": [
         {
-          "text": "What is your name?",
+          "text": "classmate",
           "segments": [
             {
-              "text": "What is your name?",
+              "text": "classmate",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wˌʌt ɪz jʊɹ nˈeɪm?"
+          "phonemes": "klˈæsmeɪt"
         }
       ]
     }

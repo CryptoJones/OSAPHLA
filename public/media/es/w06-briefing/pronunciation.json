@@ -177,7 +177,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Model language. Trabajo por la mañana y estudio por la noche. — I work in the morning and study at night. ¿Dónde vives? — Where do you live? Comemos juntos los viernes. — We eat together on Fridays. Ella escribe en su diario cada día. — She writes in her journal every day. A veces bebo café después de comer. — Sometimes I drink coffee after eating.",
+      "text": "Model language. Trabajo por la mañana y estudio por la noche. — I work in the morning and study at night. ¿Dónde vives? — Where do you live? Comemos juntos los viernes. — We eat together on Fridays. Ella escribe en su diario cada día. — She writes in her journal every day. A veces bebo café después de comer. — I sometimes drink coffee after eating.",
       "sentences": [
         {
           "text": "Model language.",
@@ -280,14 +280,14 @@
           "phonemes": "a βˈeses βˈeβo kafˈe ðespwˈes ðe komˈeɾ."
         },
         {
-          "text": "— Sometimes I drink coffee after eating.",
+          "text": "— I sometimes drink coffee after eating.",
           "segments": [
             {
-              "text": "— Sometimes I drink coffee after eating.",
+              "text": "— I sometimes drink coffee after eating.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— sˈʌmtaɪmz aɪ dɹˈɪŋk kˈɔfi ˈæftɚɹ ˈiːɾɪŋ."
+          "phonemes": "— aɪ sˈʌmtaɪmz dɹˈɪŋk kˈɔfi ˈæftɚɹ ˈiːɾɪŋ."
         }
       ]
     },

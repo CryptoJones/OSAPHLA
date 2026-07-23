@@ -46,6 +46,24 @@ export const weeks = [
     vocabulary: V([["hola","hello"],["buenos días","good morning"],["buenas tardes","good afternoon"],["adiós","goodbye"],["por favor","please"],["gracias","thank you"],["mucho gusto","pleased to meet you"],["¿cómo se llama?","what is your name"]]),
     models: ["Hola, me llamo Alex.","Mucho gusto, señora Rivera.","¿Cómo te llamas?","Le presento a mi compañera.","Nos vemos mañana; que tenga buen día."],
     reading: "Lucía llega temprano. Saluda al recepcionista con buenos días y usa usted. Después conoce a Mateo, otro estudiante, y los dos usan tú.",
+    days: [
+      { vocabulary: V([["hola","hello"],["buenos días","good morning"],["buenas tardes","good afternoon"],["adiós","goodbye"],["por favor","please"],["gracias","thank you"],["mucho gusto","pleased to meet you"],["¿cómo se llama?","what is your name"]]),
+        models: ["Hola, me llamo Alex.","Mucho gusto, señora Rivera.","¿Cómo te llamas?","Le presento a mi compañera.","Nos vemos mañana; que tenga buen día."],
+        modelTranslations: ["Hello, my name is Alex.","Pleased to meet you, Mrs. Rivera.","What's your name?","This is my colleague.","See you tomorrow; have a good day."] },
+      { vocabulary: V([["yo","I"],["tú","you (informal)"],["usted","you (formal)"],["ella","she"],["nosotros","we"],["ser","to be"],["llamarse","to be named"],["¿de dónde eres?","where are you from"]]),
+        models: ["Yo soy nueva aquí.","¿Tú eres de aquí?","Usted es el director, ¿verdad?","Nosotros somos compañeros de clase.","Ella se llama Marta."],
+        modelTranslations: ["I am new here.","Are you from here?","You are the director, right?","We are classmates.","Her name is Marta."],
+        formNote: "Applying the form. Choose tú or usted based on formality and relationship; the verb ser changes with each subject pronoun." },
+      { vocabulary: V([["llegar","to arrive"],["temprano","early"],["saludar","to greet"],["presentarse","to introduce oneself"],["conocer","to meet"],["después","afterward"],["el/la recepcionista","receptionist"],["el/la compañero/a","classmate"]]),
+        models: ["Lucía llega temprano a la oficina.","Saluda a la recepcionista con cortesía.","Se presenta antes de la reunión.","Después conoce a un compañero nuevo.","Los dos intercambian nombres."],
+        modelTranslations: ["Lucía arrives early at the office.","She greets the receptionist politely.","She introduces herself before the meeting.","Afterward she meets a new classmate.","The two exchange names."] },
+      { vocabulary: V([["el saludo","greeting"],["el beso","cheek-kiss"],["el abrazo","hug"],["la distancia","distance"],["el título","title"],["formal","formal"],["informal","informal"],["la costumbre","custom"]]),
+        models: ["El saludo cambia según el país.","En algunos lugares se dan un beso; en otros, la mano.","La distancia personal varía entre culturas.","Usar el título correcto muestra respeto.","Cada costumbre tiene su propio contexto."],
+        modelTranslations: ["The greeting changes by country.","In some places people cheek-kiss; in others, they shake hands.","Personal distance varies between cultures.","Using the correct title shows respect.","Each custom has its own context."] },
+      { vocabulary: V([["presentar","to introduce"],["practicar","to practice"],["grabar","to record"],["repetir","to repeat"],["la presentación","introduction"],["el registro","register/tone"],["corregir","to correct"],["mejorar","to improve"]]),
+        models: ["Voy a presentarme dos veces.","Practico el registro formal primero.","Grabo mi presentación informal después.","Repito la parte que salió mal.","Corrijo el tono para mejorar la próxima vez."],
+        modelTranslations: ["I am going to introduce myself twice.","I practice the formal register first.","I record my informal introduction afterward.","I repeat the part that went wrong.","I correct the tone to improve next time."] }
+    ]
   },
   {
     week: 3, phase: "Foundations", level: "ILR 0+", title: "Objects, Gender, and the Classroom",
@@ -64,6 +82,24 @@ export const weeks = [
     vocabulary: V([["el libro","book"],["la mesa","table"],["la silla","chair"],["el cuaderno","notebook"],["la pregunta","question"],["la respuesta","answer"],["abrir","to open"],["cerrar","to close"]]),
     models: ["Hay un libro sobre la mesa.","¿Qué es esto?","Es una pregunta importante.","Abran los cuadernos, por favor.","Las respuestas están en la página diez."],
     reading: "En el aula hay veinte sillas y diez mesas. La profesora abre un libro y escribe una pregunta. Los estudiantes buscan la respuesta en sus cuadernos.",
+    days: [
+      { vocabulary: V([["el libro","book"],["la mesa","table"],["la silla","chair"],["el cuaderno","notebook"],["la pregunta","question"],["la respuesta","answer"],["abrir","to open"],["cerrar","to close"]]),
+        models: ["Hay un libro sobre la mesa.","¿Qué es esto?","Es una pregunta importante.","Abran los cuadernos, por favor.","Las respuestas están en la página diez."],
+        modelTranslations: ["There is a book on the table.","What is this?","It is an important question.","Open your notebooks, please.","The answers are on page ten."] },
+      { vocabulary: V([["el/la","the (masc./fem.)"],["un/una","a/an (masc./fem.)"],["los/las","the (plural)"],["unos/unas","some"],["masculino","masculine"],["femenino","feminine"],["singular","singular"],["plural","plural"]]),
+        models: ["El libro es nuevo.","La mesa es nueva.","Los libros son nuevos.","Las preguntas son nuevas.","Un cuaderno y una silla están aquí."],
+        modelTranslations: ["The book is new.","The table is new.","The books are new.","The questions are new.","A notebook and a chair are here."],
+        formNote: "Applying the form. Match every article to its noun's gender and number: el/la, un/una, los/las, unos/unas." },
+      { vocabulary: V([["el aula","classroom"],["veinte","twenty"],["diez","ten"],["escribir","to write"],["buscar","to look for"],["encontrar","to find"],["la página","page"],["la profesora","teacher"]]),
+        models: ["En el aula hay veinte sillas.","También hay diez mesas.","La profesora escribe una pregunta.","Los estudiantes buscan la respuesta.","La encuentran en la página diez."],
+        modelTranslations: ["In the classroom there are twenty chairs.","There are also ten tables.","The teacher writes a question.","The students look for the answer.","They find it on page ten."] },
+      { vocabulary: V([["el horario","schedule"],["la nota","grade"],["el profesor","teacher (m.)"],["el estudiante","student"],["dirigirse a","to address"],["el sistema educativo","education system"],["la calificación","mark"],["respetuoso","respectful"]]),
+        models: ["El horario cambia según el país.","Las notas se explican de forma distinta.","Los estudiantes se dirigen al profesor con respeto.","Cada sistema educativo tiene sus propias normas.","Usar un tono respetuoso es importante."],
+        modelTranslations: ["The schedule changes by country.","Grades are explained differently.","Students address the teacher respectfully.","Each education system has its own norms.","Using a respectful tone matters."] },
+      { vocabulary: V([["inventariar","to inventory"],["contar","to count"],["señalar","to point out"],["la instrucción","instruction"],["seguir","to follow"],["el objeto","object"],["el espacio","space"],["ordenar","to organize"]]),
+        models: ["Voy a inventariar mi espacio de estudio.","Cuento los objetos en la mesa.","Señalo cada objeto por su nombre.","Sigo las instrucciones con cuidado.","Ordeno mis libros antes de terminar."],
+        modelTranslations: ["I am going to inventory my study space.","I count the objects on the table.","I point out each object by name.","I follow the instructions carefully.","I organize my books before finishing."] }
+    ]
   },
   {
     week: 4, phase: "Foundations", level: "ILR 0+", title: "Identity, Origin, Numbers, and Time",
@@ -75,6 +111,24 @@ export const weeks = [
     vocabulary: V([["el nombre","name"],["el apellido","surname"],["el país","country"],["la ciudad","city"],["el número","number"],["la fecha","date"],["la hora","time"],["hoy","today"]]),
     models: ["Soy de los Estados Unidos.","Mi apellido es Clark.","Hoy es el diecinueve de julio.","Son las tres y cuarto.","¿A qué hora es la reunión?"],
     reading: "El formulario pide el nombre, los apellidos y el país de origen. La cita es el martes a las nueve y media. Elena confirma la fecha y guarda el número de contacto.",
+    days: [
+      { vocabulary: V([["el nombre","name"],["el apellido","surname"],["el país","country"],["la ciudad","city"],["el número","number"],["la fecha","date"],["la hora","time"],["hoy","today"]]),
+        models: ["Soy de los Estados Unidos.","Mi apellido es Clark.","Hoy es el diecinueve de julio.","Son las tres y cuarto.","¿A qué hora es la reunión?"],
+        modelTranslations: ["I am from the United States.","My last name is Clark.","Today is July nineteenth.","It is a quarter past three.","What time is the meeting?"] },
+      { vocabulary: V([["soy","I am"],["eres","you are"],["es","he/she/it is"],["somos","we are"],["el número de teléfono","phone number"],["¿cuántos?","how many"],["treinta","thirty"],["cien","one hundred"]]),
+        models: ["Soy de Perú.","Eres estudiante, ¿verdad?","Es las tres de la tarde.","Somos de la misma ciudad.","Mi número tiene diez dígitos."],
+        modelTranslations: ["I am from Peru.","You are a student, right?","It is three in the afternoon.","We are from the same city.","My number has ten digits."],
+        formNote: "Applying the form. Use soy/eres/es/somos/son (from ser) for identity and origin, and pair cardinal numbers directly with the noun they count." },
+      { vocabulary: V([["el formulario","form"],["pedir","to ask for"],["la cita","appointment"],["confirmar","to confirm"],["guardar","to save"],["el contacto","contact"],["completar","to complete"],["martes","Tuesday"]]),
+        models: ["El formulario pide el nombre y los apellidos.","También pide el país de origen.","La cita es el martes a las nueve y media.","Elena confirma la fecha.","Guarda el número de contacto."],
+        modelTranslations: ["The form asks for a first and last name.","It also asks for the country of origin.","The appointment is Tuesday at nine thirty.","Elena confirms the date.","She saves the contact number."] },
+      { vocabulary: V([["el primer apellido","first surname"],["el segundo apellido","second surname"],["el formato de fecha","date format"],["el reloj de veinticuatro horas","24-hour clock"],["el orden","order"],["variar","to vary"],["la convención","convention"],["depender de","to depend on"]]),
+        models: ["En muchos países se usan dos apellidos.","El orden del nombre varía según la cultura.","El formato de fecha depende del país.","Muchos lugares usan el reloj de veinticuatro horas.","Estas convenciones no son universales."],
+        modelTranslations: ["Many countries use two surnames.","Name order varies by culture.","Date format depends on the country.","Many places use the 24-hour clock.","These conventions aren't universal."] },
+      { vocabulary: V([["registrar","to register"],["identificar","to identify"],["el origen","origin"],["el teléfono","telephone number"],["la fecha de nacimiento","birth date"],["la hora de la cita","appointment time"],["verificar","to verify"],["el registro","record"]]),
+        models: ["Voy a registrar mis datos.","Identifico mi país de origen.","Doy mi número de teléfono.","Confirmo mi fecha de nacimiento.","Verifico la hora de la cita."],
+        modelTranslations: ["I am going to register my information.","I identify my country of origin.","I give my telephone number.","I confirm my birth date.","I verify the appointment time."] }
+    ]
   },
   {
     week: 5, phase: "Foundations", level: "ILR 1", title: "Location, Condition, and Existence",
@@ -86,6 +140,24 @@ export const weeks = [
     vocabulary: V([["aquí","here"],["allí","there"],["cerca","near"],["lejos","far"],["abierto","open"],["cerrado","closed"],["delante de","in front of"],["detrás de","behind"]]),
     models: ["La farmacia está cerca de la plaza.","Hay un banco delante del hotel.","El museo está cerrado hoy.","¿Dónde están los baños?","La reunión es en la sala azul."],
     reading: "El centro de información está junto a la entrada. Hay mapas gratis sobre el mostrador, pero la cafetería está cerrada. Los baños están al final del pasillo.",
+    days: [
+      { vocabulary: V([["aquí","here"],["allí","there"],["cerca","near"],["lejos","far"],["abierto","open"],["cerrado","closed"],["delante de","in front of"],["detrás de","behind"]]),
+        models: ["La farmacia está cerca de la plaza.","Hay un banco delante del hotel.","El museo está cerrado hoy.","¿Dónde están los baños?","La reunión es en la sala azul."],
+        modelTranslations: ["The pharmacy is near the square.","There is a bank in front of the hotel.","The museum is closed today.","Where are the restrooms?","The meeting is in the blue room."] },
+      { vocabulary: V([["estar","to be (location/condition)"],["hay","there is/are"],["encima de","on top of"],["debajo de","under"],["dentro de","inside"],["fuera de","outside"],["entre","between"],["al lado de","next to"]]),
+        models: ["El banco está entre la farmacia y la tienda.","Hay una silla al lado de la mesa.","Los libros están encima del escritorio.","No hay nadie dentro de la oficina.","Estamos fuera del edificio."],
+        modelTranslations: ["The bank is between the pharmacy and the store.","There is a chair next to the table.","The books are on top of the desk.","There is no one inside the office.","We are outside the building."],
+        formNote: "Applying the form. Use estar for location and temporary condition, and hay (from haber) for existence — they are not interchangeable." },
+      { vocabulary: V([["el mostrador","counter"],["el mapa","map"],["gratis","free"],["el pasillo","hallway"],["al final de","at the end of"],["junto a","next to"],["la entrada","entrance"],["la cafetería","café"]]),
+        models: ["El mostrador de información está junto a la entrada.","Hay mapas gratis sobre el mostrador.","La cafetería está cerrada hoy.","Los baños están al final del pasillo.","No hay nadie en la entrada ahora."],
+        modelTranslations: ["The information counter is next to the entrance.","There are free maps on the counter.","The café is closed today.","The restrooms are at the end of the hallway.","There is no one at the entrance now."] },
+      { vocabulary: V([["la plaza","square"],["el centro","center"],["reunirse","to gather"],["el espacio público","public space"],["la comunidad","community"],["caminar","to walk"],["alrededor de","around"],["social","social"]]),
+        models: ["La plaza es el centro de la comunidad.","La gente se reúne alrededor de la fuente.","Caminamos por el espacio público cada tarde.","Este lugar tiene mucha vida social.","No todas las plazas cumplen la misma función."],
+        modelTranslations: ["The square is the center of the community.","People gather around the fountain.","We walk through the public space every afternoon.","This place has a lot of social life.","Not every square serves the same function."] },
+      { vocabulary: V([["guiar","to guide"],["indicar","to indicate"],["el servicio","service"],["disponible","available"],["el edificio","building"],["preguntar","to ask"],["confirmar","to confirm"],["el recorrido","route"]]),
+        models: ["Voy a guiar a un visitante por el edificio.","Indico qué servicios están disponibles.","Pregunto si el museo está abierto.","Confirmo el recorrido antes de salir.","Explico dónde está cada servicio."],
+        modelTranslations: ["I am going to guide a visitor through the building.","I indicate which services are available.","I ask whether the museum is open.","I confirm the route before leaving.","I explain where each service is."] }
+    ]
   },
   {
     week: 6, phase: "Foundations", level: "ILR 1", title: "The Present: Regular Actions",
@@ -97,6 +169,24 @@ export const weeks = [
     vocabulary: V([["trabajar","to work"],["estudiar","to study"],["comer","to eat"],["beber","to drink"],["vivir","to live"],["escribir","to write"],["siempre","always"],["a veces","sometimes"]]),
     models: ["Trabajo por la mañana y estudio por la noche.","¿Dónde vives?","Comemos juntos los viernes.","Ella escribe en su diario cada día.","A veces bebo café después de comer."],
     reading: "Raúl vive cerca de su trabajo. Camina a la oficina, come con sus compañeros y estudia inglés por la noche. Los fines de semana escribe a su familia.",
+    days: [
+      { vocabulary: V([["trabajar","to work"],["estudiar","to study"],["comer","to eat"],["beber","to drink"],["vivir","to live"],["escribir","to write"],["siempre","always"],["a veces","sometimes"]]),
+        models: ["Trabajo por la mañana y estudio por la noche.","¿Dónde vives?","Comemos juntos los viernes.","Ella escribe en su diario cada día.","A veces bebo café después de comer."],
+        modelTranslations: ["I work in the morning and study at night.","Where do you live?","We eat together on Fridays.","She writes in her journal every day.","I sometimes drink coffee after eating."] },
+      { vocabulary: V([["yo trabajo","I work"],["tú estudias","you study"],["él vive","he lives"],["nosotros comemos","we eat"],["ellos escriben","they write"],["nunca","never"],["todos los días","every day"],["una vez por semana","once a week"]]),
+        models: ["Yo trabajo por la mañana.","Tú estudias por la noche.","Él vive en la ciudad.","Nosotros comemos juntos los viernes.","Ellos escriben todos los días."],
+        modelTranslations: ["I work in the morning.","You study at night.","He lives in the city.","We eat together on Fridays.","They write every day."],
+        formNote: "Applying the form. Regular -ar/-er/-ir verbs take a different ending for each subject; Spanish often omits the subject pronoun because the verb ending already shows who acts." },
+      { vocabulary: V([["caminar","to walk"],["cerca de","near"],["el compañero","coworker"],["el fin de semana","weekend"],["la familia","family"],["la oficina","office"],["por la noche","at night"],["juntos","together"]]),
+        models: ["Raúl vive cerca de su trabajo.","Camina a la oficina cada mañana.","Come con sus compañeros al mediodía.","Estudia inglés por la noche.","Los fines de semana escribe a su familia."],
+        modelTranslations: ["Raúl lives near his job.","He walks to the office every morning.","He eats with his coworkers at noon.","He studies English at night.","On weekends he writes to his family."] },
+      { vocabulary: V([["el horario laboral","work schedule"],["la comida principal","main meal"],["rural","rural"],["urbano","urban"],["variar","to vary"],["la costumbre","custom"],["compartir","to share"],["el contexto","context"]]),
+        models: ["El horario laboral cambia según el país.","La comida principal no siempre es al mediodía.","Las costumbres varían entre zonas rurales y urbanas.","Muchas familias comparten la cena.","El contexto determina el horario de cada persona."],
+        modelTranslations: ["The work schedule changes by country.","The main meal is not always at midday.","Customs vary between rural and urban areas.","Many families share dinner.","Context determines each person's schedule."] },
+      { vocabulary: V([["comparar","to compare"],["el horario","schedule"],["la rutina","routine"],["similar","similar"],["diferente","different"],["preguntar","to ask"],["responder","to answer"],["anotar","to write down"]]),
+        models: ["Voy a comparar mi horario con el de un compañero.","Le pregunto sobre su rutina diaria.","Anoto las diferencias entre los dos horarios.","Encuentro un horario similar al mío.","Respondo sus preguntas sobre mi rutina."],
+        modelTranslations: ["I am going to compare my schedule with a coworker's.","I ask about their daily routine.","I write down the differences between the two schedules.","I find a schedule similar to mine.","I answer their questions about my routine."] }
+    ]
   },
   {
     week: 7, phase: "Foundations", level: "ILR 1", title: "Questions and High-Frequency Irregulars",
@@ -108,6 +198,24 @@ export const weeks = [
     vocabulary: V([["qué","what"],["quién","who"],["cuándo","when"],["dónde","where"],["por qué","why"],["cómo","how"],["poder","to be able"],["querer","to want"]]),
     models: ["¿Qué quiere hacer hoy?","¿Cuándo viene el autobús?","No sé; ¿puede repetirlo?","Tengo que hacer una llamada.","¿Por qué dices eso?"],
     reading: "Marta quiere visitar el mercado, pero no sabe cuándo abre. Llama a información, pregunta por el horario y pide que repitan la dirección.",
+    days: [
+      { vocabulary: V([["qué","what"],["quién","who"],["cuándo","when"],["dónde","where"],["por qué","why"],["cómo","how"],["poder","to be able"],["querer","to want"]]),
+        models: ["¿Qué quiere hacer hoy?","¿Cuándo viene el autobús?","No sé; ¿puede repetirlo?","Tengo que hacer una llamada.","¿Por qué dices eso?"],
+        modelTranslations: ["What do you want to do today?","When does the bus arrive?","I don't know; can you repeat that?","I have to make a call.","Why do you say that?"] },
+      { vocabulary: V([["cuál","which"],["cuánto","how much"],["cuántos","how many"],["cuál es tu nombre","what is your name"],["saber","to know a fact"],["conocer","to know a person/place"],["sí o no","yes or no"],["la respuesta corta","short answer"]]),
+        models: ["¿Cuál es la mejor opción?","¿Cuánto cuesta esto?","¿Cuántos años tiene?","No sé la respuesta.","¿Conoces este lugar?"],
+        modelTranslations: ["Which is the best option?","How much does this cost?","How old is he?","I don't know the answer.","Do you know this place?"],
+        formNote: "Applying the form. Place the interrogative word first, then invert to verb-subject order; use saber for facts and conocer for people or places." },
+      { vocabulary: V([["la información","information desk"],["el horario","schedule"],["abrir","to open"],["repetir","to repeat"],["la dirección","address"],["llamar","to call"],["esperar","to wait"],["explicar","to explain"]]),
+        models: ["Marta llama a información.","Pregunta por el horario del mercado.","No sabe cuándo abre.","Pide que repitan la dirección.","Espera una respuesta clara."],
+        modelTranslations: ["Marta calls information.","She asks about the market's schedule.","She doesn't know when it opens.","She asks them to repeat the address.","She waits for a clear answer."] },
+      { vocabulary: V([["la franqueza","directness"],["el atenuante","softener"],["cortés","polite"],["el servicio de atención","service encounter"],["depender de","to depend on"],["el contexto","context"],["el tono","tone"],["suavizar","to soften"]]),
+        models: ["La franqueza cambia según el contexto.","Un buen atenuante suaviza la petición.","No toda cultura usa el mismo tono.","El servicio de atención requiere cortesía.","Esto depende de la situación."],
+        modelTranslations: ["Directness changes depending on context.","A good softener smooths the request.","Not every culture uses the same tone.","Service encounters require politeness.","This depends on the situation."] },
+      { vocabulary: V([["realizar","to conduct"],["la entrevista","interview"],["formular","to formulate"],["la pregunta","question"],["distinto","different"],["obtener","to obtain"],["el dato","piece of information"],["registrar","to record"]]),
+        models: ["Voy a realizar una entrevista de información.","Formulo seis preguntas distintas.","Obtengo datos claros de cada persona.","Registro las respuestas con cuidado.","Uso al menos seis palabras interrogativas."],
+        modelTranslations: ["I am going to conduct an information interview.","I formulate six different questions.","I obtain clear information from each person.","I record the answers carefully.","I use at least six interrogative words."] }
+    ]
   },
   {
     week: 8, phase: "Daily Life", level: "ILR 1", title: "Family, Description, and Possession",
@@ -124,6 +232,24 @@ export const weeks = [
     vocabulary: V([["la familia","family"],["la madre","mother"],["el padre","father"],["la hermana","sister"],["el amigo","friend"],["joven","young"],["mayor","older"],["amable","kind"]]),
     models: ["Mi hermana mayor es muy amable.","Conozco a los padres de Elena.","Nuestra familia vive en tres ciudades.","¿Es suyo este retrato?","Tengo dos hermanos y una prima."],
     reading: "La familia de Inés es grande y vive en varios países. Su prima mayor es médica, sus hermanos son estudiantes y su mejor amigo participa en todas las celebraciones.",
+    days: [
+      { vocabulary: V([["la familia","family"],["la madre","mother"],["el padre","father"],["la hermana","sister"],["el amigo","friend"],["joven","young"],["mayor","older"],["amable","kind"]]),
+        models: ["Mi hermana mayor es muy amable.","Conozco a los padres de Elena.","Nuestra familia vive en tres ciudades.","¿Es suyo este retrato?","Tengo dos hermanos y una prima."],
+        modelTranslations: ["My older sister is very kind.","I know Elena's parents.","Our family lives in three cities.","Is this portrait yours?","I have two brothers and one female cousin."] },
+      { vocabulary: V([["alto/alta","tall"],["bajo/baja","short"],["simpático/simpática","nice"],["trabajador/trabajadora","hardworking"],["inteligente","intelligent"],["paciente","patient"],["el adjetivo","adjective"],["concordar","to agree"]]),
+        models: ["Mi amigo es alto y simpático.","Mi amiga es alta y simpática.","Los estudiantes son trabajadores.","Las estudiantes son trabajadoras.","Ella es inteligente y paciente."],
+        modelTranslations: ["My friend is tall and nice.","My friend is tall and nice.","The students are hardworking.","The students are hardworking.","She is intelligent and patient."],
+        formNote: "Applying the form. Match variable adjectives to the noun's gender and number (alto/alta/altos/altas); adjectives ending in -e or most consonants keep one form for gender but still change for plural." },
+      { vocabulary: V([["grande","large"],["el país","country"],["la médica","doctor"],["el estudiante","student"],["la celebración","celebration"],["participar","to participate"],["varios","several"],["vivir","to live"]]),
+        models: ["La familia de Inés es grande.","Vive en varios países.","Su prima mayor es médica.","Sus hermanos son estudiantes.","Su mejor amigo participa en cada celebración."],
+        modelTranslations: ["Inés's family is large.","It lives in several countries.","Her older cousin is a doctor.","Her brothers are students.","Her best friend participates in every celebration."] },
+      { vocabulary: V([["la familia extendida","extended family"],["la familia elegida","chosen family"],["el hogar","household"],["diverso","diverse"],["el respeto","respect"],["la relación","relationship"],["depender de","to depend on"],["incluir","to include"]]),
+        models: ["Muchas familias son extendidas.","Algunas personas tienen una familia elegida.","Cada hogar es diferente.","El respeto no depende de la estructura familiar.","Es importante describir las relaciones con precisión."],
+        modelTranslations: ["Many families are extended.","Some people have a chosen family.","Every household is different.","Respect doesn't depend on family structure.","It's important to describe relationships precisely."] },
+      { vocabulary: V([["presentar","to present"],["la red","network"],["explicar","to explain"],["el parentesco","kinship"],["real","real"],["ficticio","fictional"],["elegir","to choose"],["detallar","to detail"]]),
+        models: ["Voy a presentar mi red familiar.","Explico el parentesco de cada persona.","La familia puede ser real o ficticia.","Elijo tres relaciones para explicar.","Detallo cada conexión con cuidado."],
+        modelTranslations: ["I am going to present my family network.","I explain each person's kinship.","The family can be real or fictional.","I choose three relationships to explain.","I detail each connection carefully."] }
+    ]
   },
   {
     week: 9, phase: "Daily Life", level: "ILR 1", title: "Daily Routine and Reflexive Verbs",
@@ -135,6 +261,24 @@ export const weeks = [
     vocabulary: V([["despertarse","to wake up"],["levantarse","to get up"],["ducharse","to shower"],["vestirse","to get dressed"],["acostarse","to go to bed"],["temprano","early"],["tarde","late"],["ahora","now"]]),
     models: ["Me levanto a las seis y media.","Después de vestirme, preparo el desayuno.","Ahora estoy esperando el tren.","Los niños se acuestan temprano.","¿A qué hora te despiertas?"],
     reading: "Normalmente Julia se despierta temprano, pero hoy su alarma no funciona. Ahora se viste rápidamente mientras su pareja prepara café y llama a un taxi.",
+    days: [
+      { vocabulary: V([["despertarse","to wake up"],["levantarse","to get up"],["ducharse","to shower"],["vestirse","to get dressed"],["acostarse","to go to bed"],["temprano","early"],["tarde","late"],["ahora","now"]]),
+        models: ["Me levanto a las seis y media.","Después de vestirme, preparo el desayuno.","Ahora estoy esperando el tren.","Los niños se acuestan temprano.","¿A qué hora te despiertas?"],
+        modelTranslations: ["I get up at six thirty.","After I get dressed, I make breakfast.","I'm waiting for the train now.","The children go to bed early.","What time do you wake up?"] },
+      { vocabulary: V([["me despierto","I wake up"],["te levantas","you get up"],["se ducha","he/she showers"],["nos vestimos","we get dressed"],["se acuestan","they go to bed"],["primero","first"],["luego","then"],["por último","lastly"]]),
+        models: ["Me despierto y luego me levanto.","Te levantas antes que yo.","Se ducha por la mañana.","Nos vestimos rápido los lunes.","Por último, se acuestan a las diez."],
+        modelTranslations: ["I wake up and then I get up.","You get up before me.","He/she showers in the morning.","We get dressed quickly on Mondays.","Lastly, they go to bed at ten."],
+        formNote: "Applying the form. Reflexive verbs need a pronoun that matches the subject (me, te, se, nos, se) placed right before the conjugated verb." },
+      { vocabulary: V([["normalmente","normally"],["hoy","today"],["la alarma","alarm"],["funcionar","to work/function"],["rápidamente","quickly"],["la pareja","partner"],["preparar","to prepare"],["llamar","to call"]]),
+        models: ["Normalmente Julia se despierta temprano.","Hoy su alarma no funciona.","Ahora se viste rápidamente.","Su pareja prepara café.","Su pareja llama a un taxi."],
+        modelTranslations: ["Julia normally wakes up early.","Today her alarm isn't working.","Now she is getting dressed quickly.","Her partner prepares coffee.","Her partner calls a taxi."] },
+      { vocabulary: V([["el ritmo de vida","pace of life"],["la siesta","siesta"],["el estereotipo","stereotype"],["compartido","shared"],["el trabajo doméstico","household labor"],["real","real/actual"],["cuestionar","to question"],["asumir","to assume"]]),
+        models: ["El ritmo de vida cambia según el trabajo.","La siesta es un estereotipo, no siempre una realidad.","El trabajo doméstico puede ser compartido.","No debemos asumir que todos viven igual.","Es mejor cuestionar los estereotipos comunes."],
+        modelTranslations: ["The pace of life changes with work.","The siesta is a stereotype, not always a reality.","Household labor can be shared.","We shouldn't assume everyone lives the same way.","It's better to question common stereotypes."] },
+      { vocabulary: V([["narrar","to narrate"],["completo","complete"],["informar","to report"],["inesperado","unexpected"],["el cambio","change"],["ocurrir","to occur"],["mientras tanto","meanwhile"],["reaccionar","to react"]]),
+        models: ["Voy a narrar un día completo.","Informo un cambio inesperado.","El cambio ocurre mientras estudio.","Mientras tanto, reacciono con calma.","Explico cómo resolví la situación."],
+        modelTranslations: ["I am going to narrate a full day.","I report an unexpected change.","The change occurs while I am studying.","Meanwhile, I react calmly.","I explain how I resolved the situation."] }
+    ]
   },
   {
     week: 10, phase: "Daily Life", level: "ILR 1", title: "Likes, Preferences, and Leisure",
@@ -146,6 +290,24 @@ export const weeks = [
     vocabulary: V([["gustar","to like"],["encantar","to love"],["interesar","to interest"],["preferir","to prefer"],["el cine","cinema"],["la música","music"],["el deporte","sport"],["juntos","together"]]),
     models: ["Me gusta escuchar música en vivo.","A Tomás le interesan los documentales.","¿Prefieres salir o quedarte en casa?","Nos encanta jugar juntos.","El senderismo es más tranquilo que el fútbol."],
     reading: "A Camila le encanta el cine, pero a Diego le interesan más los deportes. Buscan una actividad que puedan disfrutar juntos y eligen un festival al aire libre.",
+    days: [
+      { vocabulary: V([["gustar","to like"],["encantar","to love"],["interesar","to interest"],["preferir","to prefer"],["el cine","cinema"],["la música","music"],["el deporte","sport"],["juntos","together"]]),
+        models: ["Me gusta escuchar música en vivo.","A Tomás le interesan los documentales.","¿Prefieres salir o quedarte en casa?","Nos encanta jugar juntos.","El senderismo es más tranquilo que el fútbol."],
+        modelTranslations: ["I like listening to live music.","Tomás is interested in documentaries.","Do you prefer going out or staying home?","We love playing together.","Hiking is calmer than soccer."] },
+      { vocabulary: V([["me gusta","I like"],["te gusta","you like"],["le interesa","it interests him/her"],["nos encanta","we love"],["les gusta","they like"],["el pronombre indirecto","indirect object pronoun"],["el infinitivo","infinitive"],["comparar","to compare"]]),
+        models: ["Me gusta el cine.","Te gusta la música.","Le interesa el arte.","Nos encanta viajar.","Les gusta el deporte."],
+        modelTranslations: ["I like the cinema.","You like music.","Art interests him/her.","We love traveling.","They like sports."],
+        formNote: "Applying the form. Gustar-type verbs agree with the thing liked, not the person; use an indirect-object pronoun (me, te, le, nos, les) before the verb." },
+      { vocabulary: V([["el festival","festival"],["al aire libre","outdoors"],["disfrutar","to enjoy"],["buscar","to look for"],["elegir","to choose"],["la actividad","activity"],["el documental","documentary"],["el senderismo","hiking"]]),
+        models: ["A Camila le encanta el cine.","A Diego le interesan más los deportes.","Buscan una actividad para disfrutar juntos.","Eligen un festival al aire libre.","El senderismo también les gusta a veces."],
+        modelTranslations: ["Camila loves the cinema.","Diego is more interested in sports.","They look for an activity to enjoy together.","They choose an outdoor festival.","They also like hiking sometimes."] },
+      { vocabulary: V([["el fútbol","soccer"],["el espacio verde","green space"],["el acceso","access"],["económico","economic"],["moldear","to shape"],["distinto","distinct"],["la afición","hobby"],["popular","popular"]]),
+        models: ["El fútbol es muy popular en muchos países.","El acceso a espacios verdes no es igual para todos.","Los ingresos moldean las opciones de ocio.","Cada país tiene aficiones distintas.","La música también varía mucho según la región."],
+        modelTranslations: ["Soccer is very popular in many countries.","Access to green spaces isn't equal for everyone.","Income shapes leisure options.","Every country has distinct hobbies.","Music also varies a lot by region."] },
+      { vocabulary: V([["planificar","to plan"],["la restricción","constraint"],["la tarde libre","free evening"],["considerar","to consider"],["acordar","to agree on"],["proponer","to propose"],["satisfacer","to satisfy"],["el compromiso","compromise"]]),
+        models: ["Voy a planificar una tarde libre para tres personas.","Considero las restricciones de cada persona.","Propongo dos actividades distintas.","Acordamos una opción que satisface a todos.","Buscamos un compromiso justo."],
+        modelTranslations: ["I am going to plan a free evening for three people.","I consider each person's constraints.","I propose two different activities.","We agree on an option that satisfies everyone.","We look for a fair compromise."] }
+    ]
   },
   {
     week: 11, phase: "Daily Life", level: "ILR 1", title: "Food, Markets, and Restaurants",
@@ -157,6 +319,24 @@ export const weeks = [
     vocabulary: V([["el mercado","market"],["la cuenta","bill"],["el plato","dish"],["la bebida","drink"],["un kilo","one kilogram"],["sin","without"],["quisiera","I would like"],["probar","to try"]]),
     models: ["Quisiera probar el plato del día.","¿Cuánto cuesta un kilo de tomates?","Para mí, una sopa sin carne.","El camarero nos trae la cuenta.","Disculpe, pedí agua y no refresco."],
     reading: "En el mercado, Sara compara precios y compra verduras frescas. Más tarde pide el menú del día, pregunta por los ingredientes y explica que no puede comer nueces.",
+    days: [
+      { vocabulary: V([["el mercado","market"],["la cuenta","bill"],["el plato","dish"],["la bebida","drink"],["un kilo","one kilogram"],["sin","without"],["quisiera","I would like"],["probar","to try"]]),
+        models: ["Quisiera probar el plato del día.","¿Cuánto cuesta un kilo de tomates?","Para mí, una sopa sin carne.","El camarero nos trae la cuenta.","Disculpe, pedí agua y no refresco."],
+        modelTranslations: ["I would like to try the daily special.","How much does a kilogram of tomatoes cost?","For me, a soup without meat.","The waiter brings us the bill.","Excuse me, I ordered water, not soda."] },
+      { vocabulary: V([["cuánto","how much"],["cuántos","how many"],["medio kilo","half a kilo"],["una docena","a dozen"],["podría","could"],["¿me trae...?","could you bring me...?"],["el objeto directo","direct object"],["pedir","to order"]]),
+        models: ["¿Cuánto cuesta esto?","Quisiera medio kilo de queso.","¿Me trae la cuenta, por favor?","¿Podría traerme una servilleta?","Pido el plato sin cebolla."],
+        modelTranslations: ["How much does this cost?","I would like half a kilo of cheese.","Could you bring me the bill, please?","Could you bring me a napkin?","I order the dish without onion."],
+        formNote: "Applying the form. Use quisiera or podría for polite requests, and place the direct object right after the verb: pido el plato." },
+      { vocabulary: V([["comparar","to compare"],["el precio","price"],["fresco","fresh"],["el ingrediente","ingredient"],["la alergia","allergy"],["la nuez","nut"],["explicar","to explain"],["el menú del día","daily menu"]]),
+        models: ["Sara compara precios en el mercado.","Compra verduras frescas.","Pide el plato del día.","Pregunta por los ingredientes.","Explica que tiene alergia a las nueces."],
+        modelTranslations: ["Sara compares prices at the market.","She buys fresh vegetables.","She orders the daily special.","She asks about the ingredients.","She explains that she is allergic to nuts."] },
+      { vocabulary: V([["la propina","tip"],["la etiqueta","etiquette"],["el mesero","server"],["regional","regional"],["el plato típico","typical dish"],["compartir","to share"],["el horario de comida","meal schedule"],["esperado","expected"]]),
+        models: ["La propina no es obligatoria en todos los países.","Cada mesero espera un trato distinto.","Los platos típicos varían por región.","Compartir comida es común en muchas culturas.","El horario de comida cambia mucho entre países."],
+        modelTranslations: ["The tip isn't mandatory in every country.","Each server expects different treatment.","Typical dishes vary by region.","Sharing food is common in many cultures.","Meal schedules change a lot between countries."] },
+      { vocabulary: V([["el presupuesto","budget"],["comprar","to buy"],["ordenar","to order"],["resolver","to resolve"],["el error","mistake"],["cortés","polite"],["devolver","to return"],["corregir","to correct"]]),
+        models: ["Voy a comprar dentro de mi presupuesto.","Pido una comida en el restaurante.","Recibo un plato equivocado.","Resuelvo el error con cortesía.","Pido que corrijan mi pedido."],
+        modelTranslations: ["I am going to buy within my budget.","I order a meal at the restaurant.","I receive the wrong dish.","I resolve the mistake politely.","I ask them to correct my order."] }
+    ]
   },
   {
     week: 12, phase: "Daily Life", level: "ILR 1", title: "Shopping, Clothing, and Demonstratives",
@@ -168,6 +348,24 @@ export const weeks = [
     vocabulary: V([["la tienda","store"],["la talla","size"],["el precio","price"],["barato","inexpensive"],["caro","expensive"],["este","this"],["ese","that"],["devolver","to return"]]),
     models: ["¿Tiene esta camisa en otra talla?","Esos zapatos me quedan bien.","Aquella chaqueta es demasiado cara.","Quiero devolver este artículo.","El precio incluye los impuestos."],
     reading: "Nora necesita ropa para una entrevista. Esta chaqueta le queda bien, pero es cara. Encuentra otra más barata y pregunta si puede devolverla con el recibo.",
+    days: [
+      { vocabulary: V([["la tienda","store"],["la talla","size"],["el precio","price"],["barato","inexpensive"],["caro","expensive"],["este","this"],["ese","that"],["devolver","to return"]]),
+        models: ["¿Tiene esta camisa en otra talla?","Esos zapatos me quedan bien.","Aquella chaqueta es demasiado cara.","Quiero devolver este artículo.","El precio incluye los impuestos."],
+        modelTranslations: ["Do you have this shirt in another size?","Those shoes fit me well.","That jacket over there is too expensive.","I want to return this item.","The price includes taxes."] },
+      { vocabulary: V([["aquel/aquella","that (over there)"],["estos/estas","these"],["esos/esas","those"],["quedar bien","to fit well"],["costar","to cost"],["el color","color"],["doscientos","two hundred"],["quinientos","five hundred"]]),
+        models: ["Esta camisa me queda bien.","Aquella chaqueta cuesta doscientos dólares.","Estos zapatos son cómodos.","Esas botas son caras.","El vestido cuesta quinientos pesos."],
+        modelTranslations: ["This shirt fits me well.","That jacket over there costs two hundred dollars.","These shoes are comfortable.","Those boots are expensive.","The dress costs five hundred pesos."],
+        formNote: "Applying the form. Match demonstratives to the noun's gender, number, and distance (este/esta/estos/estas near; ese/esa nearby; aquel/aquella far); use quedar for fit and costar for price." },
+      { vocabulary: V([["la entrevista","interview"],["necesitar","to need"],["encontrar","to find"],["el recibo","receipt"],["cambiar","to exchange"],["permitir","to allow"],["la política","policy"],["útil","useful"]]),
+        models: ["Nora necesita ropa para una entrevista.","Esta chaqueta le queda bien, pero es cara.","Encuentra otra más barata.","Pregunta si puede cambiarla con el recibo.","La política de la tienda permite cambios."],
+        modelTranslations: ["Nora needs clothes for an interview.","This jacket fits her well, but it's expensive.","She finds a cheaper one.","She asks if she can exchange it with the receipt.","The store's policy allows exchanges."] },
+      { vocabulary: V([["el precio fijo","fixed price"],["regatear","to bargain"],["el impuesto","tax"],["la talla local","local size"],["el consumidor","consumer"],["esperar","to expect"],["la expectativa","expectation"],["depender del lugar","to depend on the place"]]),
+        models: ["Algunas tiendas tienen precio fijo.","En otros lugares se puede regatear.","El impuesto se suma al precio final.","La talla local no siempre coincide con la internacional.","El consumidor espera un trato justo."],
+        modelTranslations: ["Some stores have fixed prices.","In other places you can bargain.","The tax is added to the final price.","The local size doesn't always match the international one.","The consumer expects fair treatment."] },
+      { vocabulary: V([["elegir","to choose"],["el evento formal","formal event"],["negociar","to negotiate"],["el cambio","exchange"],["la talla incorrecta","wrong size"],["amablemente","kindly"],["insistir","to insist"],["aceptar","to accept"]]),
+        models: ["Voy a elegir ropa para un evento formal.","Negocio el cambio de una talla incorrecta.","Explico el problema amablemente.","La tienda acepta el cambio.","No insisto más de lo necesario."],
+        modelTranslations: ["I am going to choose clothing for a formal event.","I negotiate the exchange of the wrong size.","I explain the problem kindly.","The store accepts the exchange.","I don't insist more than necessary."] }
+    ]
   },
   {
     week: 13, phase: "Mobility", level: "ILR 1", title: "City, Directions, and Public Services",
@@ -179,6 +377,24 @@ export const weeks = [
     vocabulary: V([["la calle","street"],["la esquina","corner"],["derecho","straight"],["la derecha","right"],["la izquierda","left"],["doblar","to turn"],["seguir","to continue"],["perderse","to get lost"]]),
     models: ["Siga derecho hasta la plaza.","Doble a la izquierda en la segunda esquina.","¿Voy bien para el ayuntamiento?","Nos perdimos cerca de la estación.","El banco queda enfrente del correo."],
     reading: "Un visitante busca el museo, pero toma la calle equivocada. Una vecina le indica que siga derecho, cruce la plaza y doble después del correo.",
+    days: [
+      { vocabulary: V([["la calle","street"],["la esquina","corner"],["derecho","straight"],["la derecha","right"],["la izquierda","left"],["doblar","to turn"],["seguir","to continue"],["perderse","to get lost"]]),
+        models: ["Siga derecho hasta la plaza.","Doble a la izquierda en la segunda esquina.","¿Voy bien para el ayuntamiento?","Nos perdimos cerca de la estación.","El banco queda enfrente del correo."],
+        modelTranslations: ["Go straight to the square.","Turn left at the second corner.","Am I going the right way to city hall?","We got lost near the station.","The bank is across from the post office."] },
+      { vocabulary: V([["siga","follow (usted command)"],["doble","turn (usted command)"],["cruce","cross (usted command)"],["camine","walk (usted command)"],["vaya","go (usted command)"],["el imperativo","imperative"],["usted","you (formal)"],["la cuadra","block"]]),
+        models: ["Siga derecho hasta la plaza.","Doble a la izquierda en la esquina.","Cruce la calle con cuidado.","Camine dos cuadras más.","Vaya hacia el norte."],
+        modelTranslations: ["Go straight to the square.","Turn left at the corner.","Cross the street carefully.","Walk two more blocks.","Go north."],
+        formNote: "Applying the form. Formal (usted) commands drop the -ar/-er/-ir ending and add the opposite-vowel ending: siga, doble, cruce, camine, vaya." },
+      { vocabulary: V([["el visitante","visitor"],["equivocado","wrong"],["la vecina","neighbor"],["indicar","to indicate"],["cruzar","to cross"],["después de","after"],["el correo","post office"],["el museo","museum"]]),
+        models: ["Un visitante busca el museo.","Toma la calle equivocada.","Una vecina le indica el camino.","Le dice que siga derecho.","Le dice que cruce la plaza después del correo."],
+        modelTranslations: ["A visitor is looking for the museum.","He takes the wrong street.","A neighbor shows him the way.","She tells him to go straight.","She tells him to cross the square after the post office."] },
+      { vocabulary: V([["la cuadrícula","grid"],["el centro histórico","historic center"],["la dirección","address"],["el punto de referencia","landmark"],["el transporte urbano","urban transport"],["variar","to vary"],["el sistema","system"],["funcionar","to work"]]),
+        models: ["Muchas ciudades usan una cuadrícula de calles.","El centro histórico suele tener calles estrechas.","Las direcciones a veces usan puntos de referencia.","El transporte urbano varía mucho entre ciudades.","Cada sistema funciona de forma distinta."],
+        modelTranslations: ["Many cities use a street grid.","The historic center usually has narrow streets.","Addresses sometimes use landmarks.","Urban transport varies a lot between cities.","Each system works differently."] },
+      { vocabulary: V([["guiar","to guide"],["la parada","stop"],["recuperarse","to recover"],["el giro","turn"],["equivocarse","to make a mistake"],["corregir","to correct"],["confirmar","to confirm"],["el servicio","service"]]),
+        models: ["Voy a guiar a un visitante desde la parada.","Lo llevo a tres servicios diferentes.","Si me equivoco, corrijo el giro.","Confirmo la ruta con el mapa.","Me recupero rápido de un error."],
+        modelTranslations: ["I am going to guide a visitor from the stop.","I take them to three different services.","If I make a mistake, I correct the turn.","I confirm the route with the map.","I recover quickly from an error."] }
+    ]
   },
   {
     week: 14, phase: "Mobility", level: "ILR 1", title: "Travel, Transport, and Lodging",
@@ -190,6 +406,24 @@ export const weeks = [
     vocabulary: V([["el billete","ticket"],["el vuelo","flight"],["el andén","platform"],["la reserva","reservation"],["la habitación","room"],["el equipaje","luggage"],["salir","to depart"],["llegar","to arrive"]]),
     models: ["El tren sale del andén cuatro.","Acabamos de llegar al aeropuerto.","Tengo una reserva a nombre de Rivera.","Mi equipaje no aparece.","Vamos a quedarnos tres noches."],
     reading: "El vuelo de Omar llega tarde y pierde el último autobús. Llama al hotel para mantener la reserva y pregunta cómo llegar en transporte compartido.",
+    days: [
+      { vocabulary: V([["el billete","ticket"],["el vuelo","flight"],["el andén","platform"],["la reserva","reservation"],["la habitación","room"],["el equipaje","luggage"],["salir","to depart"],["llegar","to arrive"]]),
+        models: ["El tren sale del andén cuatro.","Acabamos de llegar al aeropuerto.","Tengo una reserva a nombre de Rivera.","Mi equipaje no aparece.","Vamos a quedarnos tres noches."],
+        modelTranslations: ["The train leaves from platform four.","We have just arrived at the airport.","I have a reservation under the name Rivera.","My luggage is missing.","We are going to stay three nights."] },
+      { vocabulary: V([["acabar de","to have just"],["tener que","to have to"],["ir a + infinitivo","going to"],["el itinerario","itinerary"],["cambiar","to change"],["perder","to miss"],["retrasarse","to be delayed"],["confirmar","to confirm"]]),
+        models: ["Acabo de llegar al aeropuerto.","Tengo que confirmar mi vuelo.","Voy a cambiar de tren.","No quiero perder el autobús.","El vuelo se retrasa una hora."],
+        modelTranslations: ["I have just arrived at the airport.","I have to confirm my flight.","I am going to change trains.","I don't want to miss the bus.","The flight is delayed an hour."],
+        formNote: "Applying the form. Use acabar de + infinitive for something just finished, tener que + infinitive for obligation, and ir a + infinitive for near-future plans." },
+      { vocabulary: V([["llegar tarde","to arrive late"],["el transporte compartido","shared transport"],["conservar","to keep"],["el hotel","hotel"],["llamar","to call"],["el último","the last"],["el autobús","bus"],["preguntar","to ask"]]),
+        models: ["El vuelo de Omar llega tarde.","Pierde el último autobús.","Llama al hotel para conservar la reserva.","Pregunta por el transporte compartido.","El hotel confirma la reserva."],
+        modelTranslations: ["Omar's flight arrives late.","He misses the last bus.","He calls the hotel to keep the reservation.","He asks about shared transport.","The hotel confirms the reservation."] },
+      { vocabulary: V([["el tren","train"],["la pensión","guesthouse"],["el albergue","hostel"],["el sistema ferroviario","rail system"],["compartido","shared"],["variar","to vary"],["el vocabulario","vocabulary"],["la expectativa","expectation"]]),
+        models: ["El sistema ferroviario varía entre países.","Algunos viajeros prefieren la pensión al hotel.","Otros se quedan en un albergue.","El transporte compartido es común en varias regiones.","El vocabulario de viaje cambia según el país."],
+        modelTranslations: ["The rail system varies between countries.","Some travelers prefer a guesthouse to a hotel.","Others stay in a hostel.","Shared transport is common in several regions.","Travel vocabulary changes by country."] },
+      { vocabulary: V([["la etapa","leg (of a trip)"],["el retraso","delay"],["ausente","missing"],["completar","to complete"],["a pesar de","despite"],["resolver","to resolve"],["continuar","to continue"],["el plan alternativo","backup plan"]]),
+        models: ["Voy a completar un viaje con varias etapas.","Hay un retraso en el primer tramo.","Mi reserva está ausente en el sistema.","A pesar del problema, continúo el viaje.","Resuelvo cada etapa con un plan alternativo."],
+        modelTranslations: ["I am going to complete a multi-leg trip.","There is a delay on the first leg.","My reservation is missing from the system.","Despite the problem, I continue the trip.","I resolve each leg with a backup plan."] }
+    ]
   },
   {
     week: 15, phase: "Mobility", level: "ILR 1", title: "Health, Body, and Emergencies",
@@ -201,6 +435,24 @@ export const weeks = [
     vocabulary: V([["la salud","health"],["el dolor","pain"],["la cabeza","head"],["el brazo","arm"],["la fiebre","fever"],["la farmacia","pharmacy"],["la emergencia","emergency"],["ayuda","help"]]),
     models: ["Me duele mucho la cabeza.","Tengo fiebre desde ayer.","¿Es alérgico a algún medicamento?","Llame a una ambulancia.","Se cayó y se lastimó el brazo."],
     reading: "Durante una caminata, Luis se cae y se lastima el brazo. Su amiga llama a emergencias, describe el lugar y explica que él está consciente pero tiene mucho dolor.",
+    days: [
+      { vocabulary: V([["la salud","health"],["el dolor","pain"],["la cabeza","head"],["el brazo","arm"],["la fiebre","fever"],["la farmacia","pharmacy"],["la emergencia","emergency"],["ayuda","help"]]),
+        models: ["Me duele mucho la cabeza.","Tengo fiebre desde ayer.","¿Es alérgico a algún medicamento?","Llame a una ambulancia.","Se cayó y se lastimó el brazo."],
+        modelTranslations: ["My head hurts a lot.","I have had a fever since yesterday.","Are you allergic to any medication?","Call an ambulance.","He or she fell and hurt an arm."] },
+      { vocabulary: V([["doler","to hurt"],["sentirse","to feel"],["la pierna","leg"],["el estómago","stomach"],["desde hace","for (duration)"],["llame","call (command)"],["venga","come (command)"],["espere","wait (command)"]]),
+        models: ["Me duele la pierna desde hace dos días.","Me siento mal.","Me duele el estómago.","¡Llame a un médico!","Espere aquí, por favor."],
+        modelTranslations: ["My leg has hurt for two days.","I feel bad.","My stomach hurts.","Call a doctor!","Wait here, please."],
+        formNote: "Applying the form. Use doler with an indirect-object pronoun and the definite article for body parts (me duele la cabeza), and desde hace + time to say how long a symptom has lasted." },
+      { vocabulary: V([["la caminata","hike"],["caerse","to fall"],["lastimarse","to hurt oneself"],["consciente","conscious"],["describir","to describe"],["el lugar","place"],["explicar","to explain"],["mucho","a lot"]]),
+        models: ["Durante una caminata, Luis se cae.","Se lastima el brazo.","Su amiga llama a emergencias.","Describe el lugar con claridad.","Explica que él está consciente."],
+        modelTranslations: ["During a hike, Luis falls.","He hurts his arm.","His friend calls emergency services.","She describes the location clearly.","She explains that he is conscious."] },
+      { vocabulary: V([["la clínica","clinic"],["el seguro médico","health insurance"],["la expectativa de formalidad","formality expectation"],["el sistema de salud","healthcare system"],["acceder a","to access"],["gratuito","free of charge"],["privado","private"],["público","public"]]),
+        models: ["No todas las clínicas aceptan seguro médico.","El sistema de salud varía por país.","Algunos servicios son gratuitos; otros son privados.","Acceder a atención pública puede tardar más.","La formalidad esperada cambia según el lugar."],
+        modelTranslations: ["Not every clinic accepts health insurance.","The healthcare system varies by country.","Some services are free; others are private.","Accessing public care can take longer.","Expected formality changes by place."] },
+      { vocabulary: V([["pedir ayuda","to ask for help"],["explicar lo ocurrido","to explain what happened"],["responder","to answer"],["la pregunta de admisión","intake question"],["el clínico","clinician"],["urgente","urgent"],["tranquilizar","to reassure"],["llamar","to call"]]),
+        models: ["Voy a pedir ayuda de inmediato.","Explico lo ocurrido con calma.","Respondo cada pregunta de admisión.","El clínico hace preguntas urgentes.","Trato de tranquilizar a la persona herida."],
+        modelTranslations: ["I am going to ask for help immediately.","I explain what happened calmly.","I answer every intake question.","The clinician asks urgent questions.","I try to reassure the injured person."] }
+    ]
   },
   {
     week: 16, phase: "Mobility", level: "ILR 1+", title: "Weather, Nature, and Plans",
@@ -212,6 +464,24 @@ export const weeks = [
     vocabulary: V([["el tiempo","weather"],["la lluvia","rain"],["el viento","wind"],["la montaña","mountain"],["el bosque","forest"],["la costa","coast"],["la sequía","drought"],["proteger","to protect"]]),
     models: ["Mañana va a llover en la costa.","Hace viento en las zonas altas.","Si cambia el tiempo, regresamos temprano.","Se prohíbe encender fuego en el bosque.","Estamos protegiendo una fuente de agua."],
     reading: "El pronóstico anuncia lluvia intensa y viento en la montaña. El grupo cambia la ruta, lleva más agua y evita una zona cerrada por riesgo de incendio.",
+    days: [
+      { vocabulary: V([["el tiempo","weather"],["la lluvia","rain"],["el viento","wind"],["la montaña","mountain"],["el bosque","forest"],["la costa","coast"],["la sequía","drought"],["proteger","to protect"]]),
+        models: ["Mañana va a llover en la costa.","Hace viento en las zonas altas.","Si cambia el tiempo, regresamos temprano.","Se prohíbe encender fuego en el bosque.","Estamos protegiendo una fuente de agua."],
+        modelTranslations: ["Tomorrow it is going to rain on the coast.","It is windy in the highlands.","If the weather changes, we will return early.","Lighting fires in the forest is prohibited.","We are protecting a water source."] },
+      { vocabulary: V([["hace sol","it's sunny"],["hace calor","it's hot"],["hace frío","it's cold"],["está nublado","it's cloudy"],["si + presente","if + present"],["entonces","then"],["cambiar de opinión","to change one's mind"],["el plan","plan"]]),
+        models: ["Hace sol hoy, pero va a llover mañana.","Si llueve, cambiamos el plan.","Está nublado en la montaña.","Hace mucho frío en la costa.","Si hace calor, vamos a la playa."],
+        modelTranslations: ["It's sunny today, but it's going to rain tomorrow.","If it rains, we change the plan.","It's cloudy in the mountains.","It's very cold on the coast.","If it's hot, we go to the beach."],
+        formNote: "Applying the form. Combine si + present tense with another present or near-future clause to describe a likely condition and its result: si llueve, cambiamos el plan." },
+      { vocabulary: V([["el pronóstico","forecast"],["anunciar","to announce"],["intenso","intense"],["cambiar de ruta","to change route"],["llevar","to carry"],["evitar","to avoid"],["la zona","zone"],["el riesgo","risk"]]),
+        models: ["El pronóstico anuncia lluvia intensa.","También anuncia viento en la montaña.","El grupo cambia de ruta.","Lleva más agua por seguridad.","Evita una zona con riesgo de incendio."],
+        modelTranslations: ["The forecast announces heavy rain.","It also announces wind in the mountains.","The group changes route.","It carries more water for safety.","It avoids an area with fire risk."] },
+      { vocabulary: V([["el clima","climate"],["diverso","diverse"],["el ecoturismo","ecotourism"],["la biodiversidad","biodiversity"],["la imagen simplificada","oversimplified image"],["generalizar","to generalize"],["el hemisferio","hemisphere"],["extremo","extreme"]]),
+        models: ["El clima del mundo hispanohablante es muy diverso.","Va del Caribe hasta la Patagonia.","El ecoturismo depende de la biodiversidad local.","Es fácil caer en una imagen simplificada.","Mejor evitar generalizar sobre un continente entero."],
+        modelTranslations: ["The climate of the Spanish-speaking world is very diverse.","It ranges from the Caribbean to Patagonia.","Ecotourism depends on local biodiversity.","It's easy to fall into an oversimplified image.","Better to avoid generalizing about an entire continent."] },
+      { vocabulary: V([["informar","to inform"],["el terreno","terrain"],["modificar","to modify"],["seguro","safe"],["el grupo","group"],["revisar","to review"],["la seguridad","safety"],["con anticipación","in advance"]]),
+        models: ["Voy a informar al grupo sobre el clima.","Describo el terreno con detalle.","Modificamos la ruta para mayor seguridad.","Revisamos el plan con anticipación.","Así viajamos de forma segura."],
+        modelTranslations: ["I am going to inform the group about the weather.","I describe the terrain in detail.","We modify the route for greater safety.","We review the plan in advance.","This way we travel safely."] }
+    ]
   },
   {
     week: 17, phase: "Narrative", level: "ILR 1+", title: "Preterite: Completed Events",
@@ -223,6 +493,24 @@ export const weeks = [
     vocabulary: V([["ayer","yesterday"],["anoche","last night"],["primero","first"],["luego","then"],["después","afterward"],["ocurrir","to occur"],["llamar","to call"],["terminar","to finish"]]),
     models: ["Ayer llegué temprano a la oficina.","Primero revisamos el informe.","Luego llamaron al supervisor.","¿Qué ocurrió después?","La reunión terminó a las seis."],
     reading: "Ayer un apagón afectó el barrio. Primero los vecinos llamaron a la compañía eléctrica. Luego organizaron luces y comida para las personas mayores.",
+    days: [
+      { vocabulary: V([["ayer","yesterday"],["anoche","last night"],["primero","first"],["luego","then"],["después","afterward"],["ocurrir","to occur"],["llamar","to call"],["terminar","to finish"]]),
+        models: ["Ayer llegué temprano a la oficina.","Primero revisamos el informe.","Luego llamaron al supervisor.","¿Qué ocurrió después?","La reunión terminó a las seis."],
+        modelTranslations: ["Yesterday I arrived early at the office.","First we reviewed the report.","Then they called the supervisor.","What happened afterward?","The meeting finished at six."] },
+      { vocabulary: V([["hablé","I spoke"],["comí","I ate"],["viví","I lived"],["busqué","I searched"],["llegué","I arrived"],["la semana pasada","last week"],["el mes pasado","last month"],["completar","to complete"]]),
+        models: ["Hablé con mi jefe ayer.","Comí en un restaurante nuevo.","Viví en esa ciudad dos años.","Busqué la información toda la tarde.","Llegué temprano la semana pasada."],
+        modelTranslations: ["I spoke with my boss yesterday.","I ate at a new restaurant.","I lived in that city for two years.","I searched for the information all afternoon.","I arrived early last week."],
+        formNote: "Applying the form. Regular preterite endings mark completed past action; verbs ending in -car, -gar, and -zar change spelling in the yo form (busqué, llegué, empecé) to keep the sound consistent." },
+      { vocabulary: V([["el apagón","power outage"],["afectar","to affect"],["el barrio","neighborhood"],["la compañía eléctrica","electric company"],["organizar","to organize"],["las luces","lights"],["la comida","food"],["mayor","elderly"]]),
+        models: ["Ayer un apagón afectó el barrio.","Primero los vecinos llamaron a la compañía eléctrica.","Luego organizaron luces para todos.","También llevaron comida a las personas mayores.","El apagón terminó por la noche."],
+        modelTranslations: ["Yesterday a power outage affected the neighborhood.","First the neighbors called the electric company.","Then they organized lights for everyone.","They also brought food to the elderly.","The outage ended at night."] },
+      { vocabulary: V([["la narración oral","oral storytelling"],["el titular","news headline"],["la cronología","chronology"],["el orden temporal","temporal order"],["el punto de vista","point of view"],["relatar","to recount"],["el evento","event"],["resumir","to summarize"]]),
+        models: ["La narración oral organiza los hechos de forma distinta a las noticias.","Un buen titular resume el evento principal.","La cronología ayuda a entender qué ocurrió primero.","Cada punto de vista cambia el relato.","Es útil relatar los hechos en orden."],
+        modelTranslations: ["Oral storytelling organizes facts differently than the news.","A good headline summarizes the main event.","Chronology helps understand what happened first.","Each point of view changes the account.","It's useful to recount the facts in order."] },
+      { vocabulary: V([["el informe","report"],["conciso","concise"],["el resultado","outcome"],["quién","who"],["qué","what"],["cuándo","when"],["dónde","where"],["presentar","to present"]]),
+        models: ["Voy a presentar un informe conciso.","Explico quién, qué, cuándo y dónde.","También incluyo el resultado final.","El informe no debe ser demasiado largo.","Termino con una conclusión clara."],
+        modelTranslations: ["I am going to present a concise report.","I explain who, what, when, and where.","I also include the final outcome.","The report shouldn't be too long.","I finish with a clear conclusion."] }
+    ]
   },
   {
     week: 18, phase: "Narrative", level: "ILR 1+", title: "Irregular Preterite and Meaning Change",
@@ -234,6 +522,24 @@ export const weeks = [
     vocabulary: V([["pude","I managed"],["quise","I tried/wanted"],["supe","I found out"],["tuve","I had"],["hice","I did"],["vine","I came"],["fui","I went/was"],["dije","I said"]]),
     models: ["No pude entrar porque perdí la llave.","Fuimos al pueblo por otra carretera.","Allí conocimos al nuevo alcalde.","Supe la verdad esa misma tarde.","Quiso ayudar, pero no tuvo tiempo."],
     reading: "El equipo quiso cruzar el puente, pero no pudo. Fue por otra ruta y allí supo que una tormenta dañó la carretera. Finalmente tuvo que regresar.",
+    days: [
+      { vocabulary: V([["pude","I managed"],["quise","I tried/wanted"],["supe","I found out"],["tuve","I had"],["hice","I did"],["vine","I came"],["fui","I went/was"],["dije","I said"]]),
+        models: ["No pude entrar porque perdí la llave.","Fuimos al pueblo por otra carretera.","Allí conocimos al nuevo alcalde.","Supe la verdad esa misma tarde.","Quiso ayudar, pero no tuvo tiempo."],
+        modelTranslations: ["I couldn't enter because I lost the key.","We went to the town by another road.","There we met the new mayor.","I found out the truth that same afternoon.","He or she wanted to help but didn't have time."] },
+      { vocabulary: V([["pudimos","we managed"],["quisieron","they tried/wanted"],["supimos","we found out"],["tuvimos","we had"],["hicimos","we did"],["vinimos","we came"],["fuimos","we went/were"],["dijimos","we said"]]),
+        models: ["No pudimos terminar a tiempo.","Quisieron ayudar, pero no tuvieron tiempo.","Supimos la noticia esa tarde.","Fuimos al pueblo por otra carretera.","Dijimos la verdad desde el principio."],
+        modelTranslations: ["We couldn't finish on time.","They wanted to help, but they didn't have time.","We found out the news that afternoon.","We went to town by another road.","We told the truth from the beginning."],
+        formNote: "Applying the form. Irregular preterite stems change their base and often shift meaning: saber→supe (found out), poder→pude (managed to), querer→quise (tried to)." },
+      { vocabulary: V([["el equipo","team"],["el puente","bridge"],["cruzar","to cross"],["la tormenta","storm"],["dañar","to damage"],["la carretera","road"],["regresar","to return"],["finalmente","finally"]]),
+        models: ["El equipo quiso cruzar el puente.","No pudo cruzar por la tormenta.","Fue por otra carretera.","Allí supo que la tormenta dañó el camino.","Finalmente tuvo que regresar."],
+        modelTranslations: ["The team wanted to cross the bridge.","It couldn't cross because of the storm.","It went by another road.","There it found out the storm had damaged the road.","In the end it had to return."] },
+      { vocabulary: V([["la anécdota","anecdote"],["la conexión social","social connection"],["contar una historia","to tell a story"],["el propósito","purpose"],["la memoria","memory"],["personal","personal"],["recordar","to remember"],["enriquecer","to enrich"]]),
+        models: ["Las anécdotas personales crean una conexión social.","Contar una historia tiene un propósito.","No siempre es evidencia general.","Cada persona recuerda algo distinto.","La memoria personal enriquece la conversación."],
+        modelTranslations: ["Personal anecdotes create a social connection.","Telling a story has a purpose.","It isn't always general evidence.","Each person remembers something different.","Personal memory enriches the conversation."] },
+      { vocabulary: V([["el plan fallido","failed plan"],["el descubrimiento","discovery"],["inesperado","unexpected"],["la resolución","resolution"],["explicar","to explain"],["resultar","to turn out"],["al final","in the end"],["lograr","to achieve"]]),
+        models: ["Voy a explicar un plan fallido.","Describo el descubrimiento inesperado.","Al final, la situación se resolvió bien.","No logramos todo lo planeado.","La resolución final fue positiva."],
+        modelTranslations: ["I am going to explain a failed plan.","I describe the unexpected discovery.","In the end, the situation resolved well.","We didn't achieve everything planned.","The final resolution was positive."] }
+    ]
   },
   {
     week: 19, phase: "Narrative", level: "ILR 1+", title: "Imperfect: Background and Habit",
@@ -245,6 +551,24 @@ export const weeks = [
     vocabulary: V([["antes","before"],["de niño","as a child"],["cada día","every day"],["mientras","while"],["era","was"],["había","there was/were"],["solía","used to"],["parecía","seemed"]]),
     models: ["Antes había menos edificios.","De niña jugaba en esta plaza.","Eran las ocho y llovía mucho.","Mientras trabajábamos, escuchábamos la radio.","La ciudad parecía más tranquila."],
     reading: "Cuando Teresa era niña, su calle tenía pocos autos y todos conocían a los vecinos. Cada tarde jugaba en la plaza mientras sus abuelos conversaban afuera.",
+    days: [
+      { vocabulary: V([["antes","before"],["de niño","as a child"],["cada día","every day"],["mientras","while"],["era","was"],["había","there was/were"],["solía","used to"],["parecía","seemed"]]),
+        models: ["Antes había menos edificios.","De niña jugaba en esta plaza.","Eran las ocho y llovía mucho.","Mientras trabajábamos, escuchábamos la radio.","La ciudad parecía más tranquila."],
+        modelTranslations: ["Before there were fewer buildings.","As a child I used to play in this square.","It was eight o'clock and it was raining a lot.","While we worked, we listened to the radio.","The city seemed calmer."] },
+      { vocabulary: V([["yo tenía","I was/had"],["tú vivías","you lived"],["él jugaba","he played"],["nosotros éramos","we were"],["ellos hacían","they did/made"],["la edad","age"],["la costumbre","habit"],["la descripción","description"]]),
+        models: ["Yo tenía diez años.","Tú vivías en otra ciudad.","Él jugaba en la plaza.","Nosotros éramos vecinos.","Ellos hacían la tarea juntos."],
+        modelTranslations: ["I was ten years old.","You lived in another city.","He played in the square.","We were neighbors.","They did homework together."],
+        formNote: "Applying the form. The imperfect describes ongoing or repeated past actions, age, time, weather, and background description — use era/tenía/había for state, and -aba/-ía endings for habitual action." },
+      { vocabulary: V([["la calle","street"],["pocos","few"],["el vecino","neighbor"],["conocerse","to know each other"],["cada tarde","every afternoon"],["el abuelo","grandfather"],["conversar","to converse"],["afuera","outside"]]),
+        models: ["Cuando Teresa era niña, su calle tenía pocos autos.","Todos los vecinos se conocían.","Cada tarde jugaba en la plaza.","Sus abuelos conversaban afuera.","La ciudad parecía más tranquila."],
+        modelTranslations: ["When Teresa was a child, her street had few cars.","All the neighbors knew each other.","Every afternoon she played in the square.","Her grandparents talked outside.","The city seemed calmer."] },
+      { vocabulary: V([["la nostalgia","nostalgia"],["la generación","generation"],["el cambio generacional","generational change"],["asumir","to assume"],["compartido","shared"],["el recuerdo","memory"],["único","unique"],["evitar","to avoid"]]),
+        models: ["La nostalgia depende de cada generación.","El cambio generacional no es igual para todos.","No debemos asumir un recuerdo compartido.","Cada recuerdo es único.","Es mejor evitar generalizar sobre el pasado."],
+        modelTranslations: ["Nostalgia depends on each generation.","Generational change isn't the same for everyone.","We shouldn't assume a shared memory.","Each memory is unique.","It's better to avoid generalizing about the past."] },
+      { vocabulary: V([["hace diez años","ten years ago"],["comparar","to compare"],["el edificio","building"],["construir","to build"],["notar","to notice"],["transformarse","to transform"],["antiguo","old/former"],["actual","current"]]),
+        models: ["Voy a describir un lugar de hace diez años.","Comparo el edificio antiguo con el actual.","Antes no existían tantos edificios.","Noto tres cambios importantes.","El barrio se transformó mucho."],
+        modelTranslations: ["I am going to describe a place from ten years ago.","I compare the old building with the current one.","Before, there weren't as many buildings.","I notice three important changes.","The neighborhood transformed a lot."] }
+    ]
   },
   {
     week: 20, phase: "Narrative", level: "ILR 1+", title: "Preterite and Imperfect Together",
@@ -256,6 +580,24 @@ export const weeks = [
     vocabulary: V([["de repente","suddenly"],["en ese momento","at that moment"],["cuando","when"],["mientras","while"],["todavía","still"],["ya","already"],["resultar","to turn out"],["resolver","to resolve"]]),
     models: ["Caminaba a casa cuando empezó la tormenta.","Mientras todos dormían, sonó la alarma.","Ya había poca luz cuando llegamos.","De repente, un vecino abrió la puerta.","Al final resolvimos el problema juntos."],
     reading: "Elena volvía del trabajo cuando vio humo. Mientras llamaba a emergencias, dos vecinos ayudaron a salir a una familia. Los bomberos llegaron y controlaron el incendio.",
+    days: [
+      { vocabulary: V([["de repente","suddenly"],["en ese momento","at that moment"],["cuando","when"],["mientras","while"],["todavía","still"],["ya","already"],["resultar","to turn out"],["resolver","to resolve"]]),
+        models: ["Caminaba a casa cuando empezó la tormenta.","Mientras todos dormían, sonó la alarma.","Ya había poca luz cuando llegamos.","De repente, un vecino abrió la puerta.","Al final resolvimos el problema juntos."],
+        modelTranslations: ["I was walking home when the storm started.","While everyone slept, the alarm went off.","There was already little light when we arrived.","Suddenly, a neighbor opened the door.","In the end we solved the problem together."] },
+      { vocabulary: V([["caminaba","was walking"],["empezó","started"],["estaba","was"],["sonó","rang"],["llegamos","we arrived"],["el primer plano","foreground"],["el fondo","background"],["interrumpir","to interrupt"]]),
+        models: ["Caminaba a casa cuando empezó a llover.","Estaba durmiendo cuando sonó el teléfono.","Ya llegamos cuando empezó la reunión.","Mientras cenábamos, sonó la alarma.","De repente, alguien interrumpió la clase."],
+        modelTranslations: ["I was walking home when it started to rain.","I was sleeping when the phone rang.","We had already arrived when the meeting started.","While we were having dinner, the alarm rang.","Suddenly, someone interrupted the class."],
+        formNote: "Applying the form. Use the imperfect for background description (caminaba, estaba) and the preterite for the interrupting event (empezó, sonó): caminaba a casa cuando empezó a llover." },
+      { vocabulary: V([["volver","to return"],["el humo","smoke"],["ayudar","to help"],["salir","to leave"],["el bombero","firefighter"],["controlar","to control"],["el incendio","fire"],["rápido","quickly"]]),
+        models: ["Elena volvía del trabajo cuando vio humo.","Mientras llamaba a emergencias, dos vecinos ayudaron a una familia a salir.","Los bomberos llegaron rápido.","Controlaron el incendio en minutos.","Todo terminó bien."],
+        modelTranslations: ["Elena was returning from work when she saw smoke.","While she called emergency services, two neighbors helped a family leave.","The firefighters arrived quickly.","They controlled the fire in minutes.","Everything ended well."] },
+      { vocabulary: V([["la postura narrativa","narrative stance"],["el periodismo","journalism"],["el testimonio","testimony"],["el informe institucional","institutional report"],["el enfoque","focus"],["objetivo","objective"],["subjetivo","subjective"],["interpretar","to interpret"]]),
+        models: ["La postura narrativa cambia según el medio.","El periodismo busca objetividad.","Un testimonio puede ser más subjetivo.","Cada informe institucional tiene su propio enfoque.","Interpretar bien la fuente es importante."],
+        modelTranslations: ["Narrative stance changes depending on the medium.","Journalism seeks objectivity.","A testimony can be more subjective.","Each institutional report has its own focus.","Interpreting the source well matters."] },
+      { vocabulary: V([["el escenario","setting"],["la complicación","complication"],["la reacción","response"],["el resultado","outcome"],["estructurar","to structure"],["el clímax","climax"],["cronometrar","to time"],["practicar","to practice"]]),
+        models: ["Voy a describir el escenario primero.","Presento una complicación clara.","Muestro la reacción de los personajes.","Termino con el resultado final.","Cronometro mi historia en dos minutos."],
+        modelTranslations: ["I am going to describe the setting first.","I present a clear complication.","I show the characters' response.","I finish with the final outcome.","I time my story at two minutes."] }
+    ]
   },
   {
     week: 21, phase: "Precision", level: "ILR 2", title: "Direct and Indirect Objects",
@@ -267,6 +609,24 @@ export const weeks = [
     vocabulary: V([["entregar","to deliver"],["prestar","to lend"],["devolver","to return"],["enviar","to send"],["mostrar","to show"],["explicar","to explain"],["el paquete","package"],["el mensaje","message"]]),
     models: ["Le envié el mensaje esta mañana.","El paquete lo recibió otra persona.","¿Puedes mostrármelo?","No les expliqué el cambio.","Devuélvale los documentos al gerente."],
     reading: "La oficina envió dos paquetes, pero el mensajero los entregó a destinatarios equivocados. La gerente les explicó el error y pidió que se los devolvieran.",
+    days: [
+      { vocabulary: V([["entregar","to deliver"],["prestar","to lend"],["devolver","to return"],["enviar","to send"],["mostrar","to show"],["explicar","to explain"],["el paquete","package"],["el mensaje","message"]]),
+        models: ["Le envié el mensaje esta mañana.","El paquete lo recibió otra persona.","¿Puedes mostrármelo?","No les expliqué el cambio.","Devuélvale los documentos al gerente."],
+        modelTranslations: ["I sent her the message this morning.","The package was received by someone else.","Can you show it to me?","I didn't explain the change to them.","Return the documents to the manager."] },
+      { vocabulary: V([["lo","it (direct, m.)"],["la","it (direct, f.)"],["le","to him/her (indirect)"],["se lo","it to him/her (combined)"],["me lo","it to me (combined)"],["el pronombre de objeto directo","direct object pronoun"],["el pronombre de objeto indirecto","indirect object pronoun"],["colocar","to place"]]),
+        models: ["Lo envié ayer.","La recibí esta mañana.","Le mandé el mensaje.","Se lo expliqué con calma.","Me lo mostraron primero."],
+        modelTranslations: ["I sent it yesterday.","I received it this morning.","I sent him/her the message.","I explained it to him/her calmly.","They showed it to me first."],
+        formNote: "Applying the form. Object pronouns attach before a conjugated verb (lo envié) or after an infinitive/gerund/command (enviarlo); when le/les meets lo/la/los/las, le/les becomes se." },
+      { vocabulary: V([["la oficina","office"],["el mensajero","courier"],["el destinatario","recipient"],["equivocado","wrong"],["la gerente","manager"],["pedir","to ask"],["corregir","to correct"],["dos","two"]]),
+        models: ["La oficina envió dos paquetes.","El mensajero los entregó a destinatarios equivocados.","La gerente pidió disculpas.","Corrigió el error rápidamente.","Los paquetes llegaron a tiempo."],
+        modelTranslations: ["The office sent two packages.","The courier delivered them to the wrong recipients.","The manager apologized.","She corrected the mistake quickly.","The packages arrived on time."] },
+      { vocabulary: V([["el regalo","gift"],["el favor","favor"],["la reciprocidad","reciprocity"],["explícito","explicit"],["implícito","implicit"],["agradecer","to thank"],["corresponder","to reciprocate"],["la expectativa","expectation"]]),
+        models: ["Un regalo no siempre espera reciprocidad.","Un favor puede ser explícito o implícito.","Es común agradecer un favor recibido.","Corresponder no siempre es obligatorio.","Cada cultura tiene su propia expectativa."],
+        modelTranslations: ["A gift doesn't always expect reciprocity.","A favor can be explicit or implicit.","It's common to thank a favor received.","Reciprocating isn't always required.","Each culture has its own expectation."] },
+      { vocabulary: V([["identificar","to identify"],["exactamente","exactly"],["cada artículo","each item"],["rastrear","to track"],["el remitente","sender"],["el receptor","receiver"],["documentar","to document"],["verificar","to verify"]]),
+        models: ["Voy a identificar quién envió cada paquete.","Rastreo el paquete hasta el remitente.","Confirmo quién es el receptor correcto.","Documento cada paso del proceso.","Verifico que todo esté exacto."],
+        modelTranslations: ["I am going to identify who sent each package.","I track the package back to the sender.","I confirm who the correct receiver is.","I document each step of the process.","I verify that everything is exact."] }
+    ]
   },
   {
     week: 22, phase: "Precision", level: "ILR 2", title: "Double Pronouns, Se, and Reference",
@@ -278,6 +638,24 @@ export const weeks = [
     vocabulary: V([["romperse","to break accidentally"],["perderse","to get lost"],["olvidarse","to be forgotten"],["caerse","to fall"],["la llave","key"],["el archivo","file"],["la culpa","blame"],["la solución","solution"]]),
     models: ["Se me perdieron las llaves.","El informe se lo mandé a Clara.","A ellos se les olvidó la cita.","Explícaselo antes de la reunión.","No se nos cayó el equipo; falló el soporte."],
     reading: "A Julia se le borró un archivo importante. Se lo comunicó al equipo, recuperaron una copia y documentaron la solución para que no volviera a ocurrir.",
+    days: [
+      { vocabulary: V([["romperse","to break accidentally"],["perderse","to get lost"],["olvidarse","to be forgotten"],["caerse","to fall"],["la llave","key"],["el archivo","file"],["la culpa","blame"],["la solución","solution"]]),
+        models: ["Se me perdieron las llaves.","El informe se lo mandé a Clara.","A ellos se les olvidó la cita.","Explícaselo antes de la reunión.","No se nos cayó el equipo; falló el soporte."],
+        modelTranslations: ["I lost my keys.","I sent the report to Clara.","They forgot the appointment.","Explain it to him or her before the meeting.","We did not drop the equipment; the support failed."] },
+      { vocabulary: V([["se me","to me (accidental)"],["se te","to you (accidental)"],["se le","to him/her (accidental)"],["se nos","to us (accidental)"],["olvidársele a alguien","to forget something (accidental)"],["romperse algo","to break something (accidental)"],["el objeto perdido","lost object"],["intencional","intentional"]]),
+        models: ["Se me rompió el vaso.","Se te olvidó la cita.","Se le perdieron las llaves.","Se nos cayó el papel.","No fue mi culpa; se rompió solo."],
+        modelTranslations: ["I broke the glass (accidentally).","You forgot the appointment.","He or she lost the keys.","We dropped the paper.","It wasn't my fault; it broke on its own."],
+        formNote: "Applying the form. Accidental se constructions use se + indirect pronoun + verb + subject to show something happened unintentionally: se me rompió el vaso." },
+      { vocabulary: V([["borrar","to delete"],["el archivo importante","important file"],["comunicar","to communicate"],["el equipo","team"],["recuperar","to recover"],["la copia","copy"],["documentar","to document"],["volver a ocurrir","to happen again"]]),
+        models: ["A Julia se le borró un archivo importante.","Se lo comunicó al equipo.","Recuperaron una copia.","Documentaron la solución.","Así evitaron que volviera a ocurrir."],
+        modelTranslations: ["An important file got deleted on Julia.","She told the team.","They recovered a copy.","They documented the solution.","That way they avoided it happening again."] },
+      { vocabulary: V([["la responsabilidad","responsibility"],["atenuar","to mitigate"],["enfatizar","to emphasize"],["el actor","the doer"],["el enfoque lingüístico","linguistic approach"],["indirecto","indirect"],["directo","direct"],["el matiz","nuance"]]),
+        models: ["El enfoque lingüístico puede atenuar la responsabilidad.","Algunas construcciones enfatizan quién actuó.","Otras ocultan al actor por completo.","El matiz cambia el significado.","Un enfoque indirecto suena menos acusatorio."],
+        modelTranslations: ["The linguistic approach can soften responsibility.","Some constructions emphasize who acted.","Others hide the doer completely.","The nuance changes the meaning.","An indirect approach sounds less accusatory."] },
+      { vocabulary: V([["el percance","mishap"],["asignar","to assign"],["la tarea de seguimiento","follow-up task"],["ambiguo","ambiguous"],["la referencia","reference"],["claro","clear"],["tres","three"],["evitar","to avoid"]]),
+        models: ["Voy a informar tres percances con precisión.","Asigno una tarea de seguimiento a cada persona.","Evito referencias ambiguas.","Uso un lenguaje claro.","Cada persona sabe exactamente qué hacer."],
+        modelTranslations: ["I am going to report three mishaps accurately.","I assign a follow-up task to each person.","I avoid ambiguous references.","I use clear language.","Each person knows exactly what to do."] }
+    ]
   },
   {
     week: 23, phase: "Precision", level: "ILR 2", title: "Perfect Tenses and Relevant Past",
@@ -289,6 +667,24 @@ export const weeks = [
     vocabulary: V([["todavía no","not yet"],["ya","already"],["alguna vez","ever"],["nunca","never"],["recientemente","recently"],["completar","to complete"],["mejorar","to improve"],["cambiar","to change"]]),
     models: ["Ya hemos completado la primera fase.","Todavía no han llegado los datos.","¿Alguna vez has trabajado en Chile?","Cuando llamó, yo ya había enviado el informe.","La situación ha cambiado recientemente."],
     reading: "El proyecto ha avanzado, pero todavía no ha recibido la aprobación final. El equipo ya había corregido los errores cuando llegó una nueva solicitud.",
+    days: [
+      { vocabulary: V([["todavía no","not yet"],["ya","already"],["alguna vez","ever"],["nunca","never"],["recientemente","recently"],["completar","to complete"],["mejorar","to improve"],["cambiar","to change"]]),
+        models: ["Ya hemos completado la primera fase.","Todavía no han llegado los datos.","¿Alguna vez has trabajado en Chile?","Cuando llamó, yo ya había enviado el informe.","La situación ha cambiado recientemente."],
+        modelTranslations: ["We have already completed the first phase.","The data have not arrived yet.","Have you ever worked in Chile?","When he or she called, I had already sent the report.","The situation has changed recently."] },
+      { vocabulary: V([["he trabajado","I have worked"],["has vivido","you have lived"],["ha llegado","he/she has arrived"],["hemos terminado","we have finished"],["han cambiado","they have changed"],["el participio","participle"],["haber","auxiliary verb"],["el pasado reciente","recent past"]]),
+        models: ["He trabajado aquí dos años.","Has vivido en varios países.","Ha llegado tarde hoy.","Hemos terminado el proyecto.","Han cambiado las reglas."],
+        modelTranslations: ["I have worked here for two years.","You have lived in several countries.","He/she has arrived late today.","We have finished the project.","They have changed the rules."],
+        formNote: "Applying the form. Present perfect combines haber (he/has/ha/hemos/han) with a past participle to link a past action to the present: he trabajado, ha llegado." },
+      { vocabulary: V([["avanzar","to move forward"],["la aprobación final","final approval"],["la solicitud","request"],["antes de","before"],["el error","error"],["recibir","to receive"],["pendiente","pending"],["nuevo","new"]]),
+        models: ["El proyecto ha avanzado bastante.","Todavía no ha recibido la aprobación final.","El equipo ya había corregido los errores.","Llegó una nueva solicitud antes del plazo.","Un punto sigue pendiente."],
+        modelTranslations: ["The project has moved forward quite a bit.","It has not received final approval yet.","The team had already corrected the errors.","A new request arrived before the deadline.","One point is still pending."] },
+      { vocabulary: V([["la preferencia regional","regional preference"],["he comido","I have eaten"],["comí","I ate"],["equivalente","equivalent"],["universalmente preferible","universally preferable"],["el uso","usage"],["variar","to vary"],["el hablante","speaker"]]),
+        models: ["En algunas regiones se prefiere 'he comido'.","En otras se prefiere 'comí'.","Ambas formas no son universalmente preferibles.","El uso depende del hablante.","No hay una forma incorrecta."],
+        modelTranslations: ["In some regions, 'he comido' is preferred.","In others, 'comí' is preferred.","Neither form is universally preferable.","Usage depends on the speaker.","Neither form is incorrect."] },
+      { vocabulary: V([["la actualización","update"],["separar","to separate"],["el trabajo completado","completed work"],["el cambio reciente","recent change"],["el plazo","deadline"],["anterior","prior"],["presentar","to present"],["claramente","clearly"]]),
+        models: ["Voy a dar una actualización clara.","Separo el trabajo completado del pendiente.","Informo el cambio reciente.","Menciono el trabajo anterior al plazo.","Presento todo claramente."],
+        modelTranslations: ["I am going to give a clear update.","I separate the completed work from the pending work.","I report the recent change.","I mention the work prior to the deadline.","I present everything clearly."] }
+    ]
   },
   {
     week: 24, phase: "Precision", level: "ILR 2", title: "Commands, Advice, and Procedures",
@@ -300,6 +696,24 @@ export const weeks = [
     vocabulary: V([["apagar","to turn off"],["encender","to turn on"],["comprobar","to check"],["guardar","to save"],["evitar","to avoid"],["asegurarse","to make sure"],["el paso","step"],["la instrucción","instruction"]]),
     models: ["Apague el equipo antes de abrirlo.","No compartas esa contraseña.","Asegúrense de guardar una copia.","Comprobemos los datos otra vez.","Conviene evitar este camino de noche."],
     reading: "Las instrucciones exigen apagar el sistema, guardar una copia y comprobar la conexión. Un técnico omite el segundo paso y el equipo debe repetir el proceso.",
+    days: [
+      { vocabulary: V([["apagar","to turn off"],["encender","to turn on"],["comprobar","to check"],["guardar","to save"],["evitar","to avoid"],["asegurarse","to make sure"],["el paso","step"],["la instrucción","instruction"]]),
+        models: ["Apague el equipo antes de abrirlo.","No compartas esa contraseña.","Asegúrense de guardar una copia.","Comprobemos los datos otra vez.","Conviene evitar este camino de noche."],
+        modelTranslations: ["Turn off the equipment before opening it.","Do not share that password.","Make sure you save a copy.","Let's check the data again.","It is advisable to avoid this road at night."] },
+      { vocabulary: V([["apaga","turn off (tú)"],["apague","turn off (usted)"],["apaguen","turn off (ustedes)"],["apaguemos","let's turn off (nosotros)"],["no compartas","don't share (tú negative)"],["el mandato","command"],["afirmativo","affirmative"],["negativo","negative"]]),
+        models: ["Apaga la luz, por favor.","Apague el sistema con cuidado.","Apaguen todos los equipos.","Apaguemos las pantallas antes de salir.","No compartas la contraseña."],
+        modelTranslations: ["Turn off the light, please.","Turn off the system carefully.","Turn off all the equipment.","Let's turn off the screens before leaving.","Don't share the password."],
+        formNote: "Applying the form. Tú commands use the usted-form for negative (no compartas) but a special affirmative form; usted/ustedes commands use the opposite-vowel ending; nosotros commands mean let's." },
+      { vocabulary: V([["exigir","to require"],["el sistema","system"],["omitir","to skip"],["repetir","to repeat"],["el técnico","technician"],["segundo","second"],["el proceso","process"],["comprobar cada paso","to check each step"]]),
+        models: ["Las instrucciones exigen apagar el sistema.","También piden guardar una copia.","Un técnico omite el segundo paso.","El equipo debe repetir el proceso.","Comprobar cada paso evita errores."],
+        modelTranslations: ["The instructions require turning off the system.","They also ask for a saved copy.","A technician skips the second step.","The team has to repeat the process.","Checking each step avoids mistakes."] },
+      { vocabulary: V([["la jerarquía","hierarchy"],["la formalidad","formality"],["el lugar de trabajo","workplace"],["el servicio público","public service"],["mitigar","to mitigate"],["influir","to influence"],["la cortesía","courtesy"],["profesional","professional"]]),
+        models: ["La jerarquía influye en cómo se da una instrucción.","La formalidad esperada cambia según el lugar de trabajo.","Los servicios públicos suelen ser más formales.","La cortesía puede mitigar una orden directa.","Cada contexto profesional tiene su propio tono."],
+        modelTranslations: ["Hierarchy influences how an instruction is given.","Expected formality changes by workplace.","Public services tend to be more formal.","Courtesy can soften a direct order.","Each professional context has its own tone."] },
+      { vocabulary: V([["enseñar","to teach"],["el registro formal","formal register"],["el registro informal","informal register"],["corregir un paso","to correct a step"],["omitido","omitted"],["solucionar","to solve"],["practicar","to practice"],["verificar","to verify"]]),
+        models: ["Voy a enseñar un procedimiento de emergencia.","Lo explico en registro formal primero.","Después lo explico en registro informal.","Corrijo un paso omitido.","Practicamos hasta solucionar el problema."],
+        modelTranslations: ["I am going to teach an emergency procedure.","I explain it in the formal register first.","Then I explain it in the informal register.","I correct an omitted step.","We practice until we solve the problem."] }
+    ]
   },
   {
     week: 25, phase: "Projection", level: "ILR 2", title: "Future, Probability, and Forecasting",
@@ -311,6 +725,24 @@ export const weeks = [
     vocabulary: V([["el futuro","future"],["el cambio","change"],["aumentar","to increase"],["disminuir","to decrease"],["lograr","to achieve"],["seguir","to continue"],["probablemente","probably"],["dentro de","within/in"]]),
     models: ["La población urbana aumentará.","Seguiremos midiendo los resultados.","¿Dónde estará Marta ahora?","Cuando termine el estudio, publicaremos los datos.","Dentro de cinco años habrá nuevas opciones."],
     reading: "Durante la próxima década, varias ciudades ampliarán el transporte público. Probablemente habrá desacuerdos, pero los proyectos seguirán avanzando.",
+    days: [
+      { vocabulary: V([["el futuro","future"],["el cambio","change"],["aumentar","to increase"],["disminuir","to decrease"],["lograr","to achieve"],["seguir","to continue"],["probablemente","probably"],["dentro de","within/in"]]),
+        models: ["La población urbana aumentará.","Seguiremos midiendo los resultados.","¿Dónde estará Marta ahora?","Cuando termine el estudio, publicaremos los datos.","Dentro de cinco años habrá nuevas opciones."],
+        modelTranslations: ["The urban population will increase.","We will continue measuring the results.","Where could Marta be now?","When the study ends, we will publish the data.","Within five years there will be new options."] },
+      { vocabulary: V([["haré","I will do"],["tendré","I will have"],["podré","I will be able"],["estará","he/she will be"],["tendrá","he/she will have"],["el futuro irregular","irregular future"],["la probabilidad","probability"],["quizás","maybe"]]),
+        models: ["Haré la tarea mañana.","Tendré tiempo la próxima semana.","Podré ayudarte más tarde.","Estará en casa ahora.","Tendrá unos treinta años."],
+        modelTranslations: ["I will do the homework tomorrow.","I will have time next week.","I will be able to help you later.","He/she is probably home now.","He/she is probably about thirty."],
+        formNote: "Applying the form. Some verbs use an irregular future stem (haré, tendré, podré) instead of the infinitive; the future tense can also express present probability: estará en casa (he's probably home)." },
+      { vocabulary: V([["la década","decade"],["ampliar","to expand"],["el transporte público","public transportation"],["el desacuerdo","disagreement"],["continuar","to continue"],["varias","several"],["el proyecto","project"],["avanzar","to advance"]]),
+        models: ["Durante la próxima década, varias ciudades ampliarán el transporte público.","El proyecto avanzará poco a poco.","Es posible que haya desacuerdos.","Aun así, el proyecto continuará.","Muchas ciudades ya lo están planeando."],
+        modelTranslations: ["Over the next decade, several cities will expand public transportation.","The project will advance little by little.","There may be disagreements.","Even so, the project will continue.","Many cities are already planning it."] },
+      { vocabulary: V([["la demografía","demographics"],["el medio ambiente","environment"],["la tecnología","technology"],["la vida económica","economic life"],["separar","to separate"],["la especulación","speculation"],["la evidencia","evidence"],["calibrar","to calibrate"]]),
+        models: ["Los pronósticos sobre demografía cambian con el tiempo.","El medio ambiente influye en la tecnología futura.","La vida económica depende de muchos factores.","Es importante separar evidencia de especulación.","Calibrar bien un pronóstico es difícil."],
+        modelTranslations: ["Forecasts about demographics change over time.","The environment influences future technology.","Economic life depends on many factors.","It's important to separate evidence from speculation.","Calibrating a forecast well is difficult."] },
+      { vocabulary: V([["el pronóstico a cinco años","five-year forecast"],["distinguir","to distinguish"],["comprometerse","to commit"],["la acción","action"],["dos","two"],["medible","measurable"],["razonable","reasonable"],["exagerado","exaggerated"]]),
+        models: ["Voy a dar un pronóstico a cinco años.","Distingo entre evidencia y especulación.","Me comprometo a dos acciones concretas.","Uso datos medibles cuando puedo.","Mi pronóstico es razonable, no exagerado."],
+        modelTranslations: ["I am going to give a five-year forecast.","I distinguish between evidence and speculation.","I commit to two concrete actions.","I use measurable data when I can.","My forecast is reasonable, not exaggerated."] }
+    ]
   },
   {
     week: 26, phase: "Projection", level: "ILR 2", title: "Conditional, Courtesy, and Hypothesis",
@@ -322,6 +754,24 @@ export const weeks = [
     vocabulary: V([["la opción","option"],["la ventaja","advantage"],["la desventaja","disadvantage"],["el riesgo","risk"],["convendría","it would be advisable"],["podría","could"],["debería","should"],["en cambio","on the other hand"]]),
     models: ["Yo elegiría la segunda opción.","¿Podría enviarme los detalles?","El cambio reduciría el riesgo.","Dijo que llegaría al día siguiente.","En cambio, ese plan costaría demasiado."],
     reading: "La primera propuesta sería rápida, pero aumentaría el riesgo. La segunda tardaría más y costaría menos. El comité debería comparar los efectos a largo plazo.",
+    days: [
+      { vocabulary: V([["la opción","option"],["la ventaja","advantage"],["la desventaja","disadvantage"],["el riesgo","risk"],["convendría","it would be advisable"],["podría","could"],["debería","should"],["en cambio","on the other hand"]]),
+        models: ["Yo elegiría la segunda opción.","¿Podría enviarme los detalles?","El cambio reduciría el riesgo.","Dijo que llegaría al día siguiente.","En cambio, ese plan costaría demasiado."],
+        modelTranslations: ["I would choose the second option.","Could you send me the details?","The change would reduce the risk.","He or she said that they would arrive the following day.","On the other hand, that plan would cost too much."] },
+      { vocabulary: V([["haría","I would do"],["tendría","I would have"],["podrías","you could"],["diría","I would say"],["vendría","I would come"],["el condicional irregular","irregular conditional"],["el discurso indirecto","reported speech"],["la cortesía","courtesy"]]),
+        models: ["Yo haría lo mismo.","Tendría más tiempo si trabajara menos.","¿Podrías ayudarme, por favor?","Dijo que vendría mañana.","Diría que sí, pero no estoy seguro."],
+        modelTranslations: ["I would do the same.","I would have more time if I worked less.","Could you help me, please?","He/she said they would come tomorrow.","I would say yes, but I'm not sure."],
+        formNote: "Applying the form. The conditional uses the same irregular stems as the future (haría, tendría, podría) plus -ía endings, and softens requests and hypothetical statements." },
+      { vocabulary: V([["la propuesta","proposal"],["rápido","fast"],["tardar","to take time"],["comparar","to compare"],["el efecto","effect"],["a largo plazo","long-term"],["el comité","committee"],["los costos","costs"]]),
+        models: ["La primera propuesta sería rápida.","Pero tardaría menos en dar resultados.","La segunda tardaría más tiempo.","El comité compara los costos de cada una.","Ambas tienen efectos a largo plazo."],
+        modelTranslations: ["The first proposal would be fast.","But it would take less time to show results.","The second would take longer.","The committee compares the costs of each.","Both have long-term effects."] },
+      { vocabulary: V([["la indirección","indirectness"],["proteger la imagen","to save face"],["el desacuerdo","disagreement"],["la estrategia","strategy"],["suavizar","to soften"],["directo","direct"],["según la relación","depending on the relationship"],["variar","to vary"]]),
+        models: ["La indirección ayuda a proteger la imagen social.","Algunas personas suavizan un desacuerdo.","Otras usan una estrategia más directa.","Esto varía según la relación.","No hay una única forma correcta."],
+        modelTranslations: ["Indirectness helps save social face.","Some people soften a disagreement.","Others use a more direct strategy.","This varies depending on the relationship.","There isn't a single correct way."] },
+      { vocabulary: V([["recomendar","to recommend"],["la incertidumbre","uncertainty"],["responder","to respond"],["la objeción","objection"],["con tacto","tactfully"],["justificar","to justify"],["tres","three"],["el plan","plan"]]),
+        models: ["Voy a recomendar uno de tres planes.","Explico la incertidumbre de cada opción.","Respondo a cada objeción con tacto.","Justifico mi elección con datos.","Al final, propongo un plan claro."],
+        modelTranslations: ["I am going to recommend one of three plans.","I explain the uncertainty of each option.","I respond to each objection tactfully.","I justify my choice with data.","In the end, I propose a clear plan."] }
+    ]
   },
   {
     week: 27, phase: "Projection", level: "ILR 2", title: "Present Subjunctive: Will and Emotion",
@@ -333,6 +783,24 @@ export const weeks = [
     vocabulary: V([["recomendar","to recommend"],["pedir","to request"],["exigir","to require"],["esperar","to hope"],["alegrarse","to be glad"],["lamentar","to regret"],["es necesario","it is necessary"],["ojalá","hopefully"]]),
     models: ["Recomiendo que revise los datos.","Es necesario que participen los vecinos.","Me alegra que estés aquí.","El director pide que lleguemos temprano.","Ojalá encuentren una solución justa."],
     reading: "Los residentes exigen que la ciudad repare el puente. La ingeniera recomienda que se cierre temporalmente y espera que el trabajo termine antes de la temporada de lluvias.",
+    days: [
+      { vocabulary: V([["recomendar","to recommend"],["pedir","to request"],["exigir","to require"],["esperar","to hope"],["alegrarse","to be glad"],["lamentar","to regret"],["es necesario","it is necessary"],["ojalá","hopefully"]]),
+        models: ["Recomiendo que revise los datos.","Es necesario que participen los vecinos.","Me alegra que estés aquí.","El director pide que lleguemos temprano.","Ojalá encuentren una solución justa."],
+        modelTranslations: ["I recommend that you review the data.","It is necessary that residents participate.","I am glad you are here.","The director asks us to arrive early.","I hope they find a fair solution."] },
+      { vocabulary: V([["que revise","that you review (subj.)"],["que participen","that they participate (subj.)"],["que estés","that you are (subj.)"],["que lleguemos","that we arrive (subj.)"],["que encuentren","that they find (subj.)"],["el subjuntivo","subjunctive"],["el cambio de sujeto","subject change"],["que","that (connector)"]]),
+        models: ["Recomiendo que revise los datos.","Pido que participen todos.","Me alegra que estés aquí.","Es necesario que lleguemos temprano.","Ojalá que encuentren la solución."],
+        modelTranslations: ["I recommend that you review the data.","I ask that everyone participate.","I'm glad that you're here.","It's necessary that we arrive early.","I hope that they find the solution."],
+        formNote: "Applying the form. The subjunctive appears in a noun clause after que when the main clause expresses will, influence, recommendation, necessity, or emotion, and the subject changes between clauses." },
+      { vocabulary: V([["el puente","bridge"],["reparar","to repair"],["cerrar temporalmente","to close temporarily"],["la temporada de lluvias","rainy season"],["la ingeniera","engineer"],["antes de que","before"],["terminar","to finish"],["esperar que","to hope that"]]),
+        models: ["Los residentes exigen que se repare el puente.","La ingeniera recomienda cerrarlo temporalmente.","Espera que el trabajo termine antes de la temporada de lluvias.","Antes de que empiece a llover, quiere terminar la obra.","Todos esperan una solución rápida."],
+        modelTranslations: ["Residents demand that the bridge be repaired.","The engineer recommends closing it temporarily.","She hopes the work finishes before the rainy season.","Before it starts raining, she wants to finish the work.","Everyone hopes for a quick solution."] },
+      { vocabulary: V([["el consejo","advice"],["la norma institucional","institutional norm"],["la reacción emocional","emotional reaction"],["la autoridad","authority"],["privado","private"],["público","public"],["formal","formal"],["el contexto","context"]]),
+        models: ["Un buen consejo no siempre es una norma institucional.","La reacción emocional varía según la persona.","No toda autoridad tiene el mismo peso.","Algunos consejos son privados; otros son públicos.","El contexto formal cambia el tono del consejo."],
+        modelTranslations: ["Good advice isn't always an institutional norm.","Emotional reaction varies by person.","Not every authority carries the same weight.","Some advice is private; other advice is public.","A formal context changes the tone of the advice."] },
+      { vocabulary: V([["el problema comunitario","community problem"],["el vecino","neighbor"],["la parte interesada","stakeholder"],["proponer","to propose"],["tres perspectivas","three perspectives"],["considerar","to consider"],["equilibrar","to balance"],["el punto en común","common ground"]]),
+        models: ["Voy a responder a un problema comunitario.","Escucho a cada vecino y cada parte interesada.","Considero tres perspectivas distintas.","Propongo una solución que equilibre los intereses.","Buscamos un punto en común."],
+        modelTranslations: ["I am going to respond to a community problem.","I listen to each neighbor and stakeholder.","I consider three different perspectives.","I propose a solution that balances the interests.","We look for common ground."] }
+    ]
   },
   {
     week: 28, phase: "Projection", level: "ILR 2", title: "Subjunctive: Doubt, Purpose, and Contingency",
@@ -344,6 +812,24 @@ export const weeks = [
     vocabulary: V([["dudar","to doubt"],["negar","to deny"],["es posible","it is possible"],["es probable","it is probable"],["para que","so that"],["a menos que","unless"],["antes de que","before"],["en cuanto","as soon as"]]),
     models: ["Dudo que la cifra sea correcta.","Es probable que llueva esta noche.","Salimos temprano para que haya tiempo suficiente.","No firmaremos a menos que cambien la cláusula.","Llámame en cuanto llegues."],
     reading: "Es posible que el informe contenga errores. Antes de que el consejo vote, los analistas revisarán las fuentes para que todos comprendan los riesgos.",
+    days: [
+      { vocabulary: V([["dudar","to doubt"],["negar","to deny"],["es posible","it is possible"],["es probable","it is probable"],["para que","so that"],["a menos que","unless"],["antes de que","before"],["en cuanto","as soon as"]]),
+        models: ["Dudo que la cifra sea correcta.","Es probable que llueva esta noche.","Salimos temprano para que haya tiempo suficiente.","No firmaremos a menos que cambien la cláusula.","Llámame en cuanto llegues."],
+        modelTranslations: ["I doubt that the figure is correct.","It will probably rain tonight.","We are leaving early so that there is enough time.","We will not sign unless they change the clause.","Call me as soon as you arrive."] },
+      { vocabulary: V([["dude que","doubt that (subj.)"],["niegue que","deny that (subj.)"],["cuando + subjuntivo","when + subj. (future)"],["hasta que","until"],["tan pronto como","as soon as"],["el indicativo","indicative"],["la certeza","certainty"],["la incertidumbre","uncertainty"]]),
+        models: ["Dudo que llegue a tiempo.","No niego que sea difícil.","Cuando termine el proyecto, avísame.","Espera hasta que confirmen.","Tan pronto como sepa algo, te llamo."],
+        modelTranslations: ["I doubt that he/she will arrive on time.","I don't deny that it's difficult.","When you finish the project, let me know.","Wait until they confirm.","As soon as I know something, I'll call you."],
+        formNote: "Applying the form. Use the subjunctive after expressions of doubt or denial, and after adverbial conjunctions like cuando, hasta que, and en cuanto when referring to a future, not-yet-realized event." },
+      { vocabulary: V([["el consejo","council"],["votar","to vote"],["el analista","analyst"],["la fuente","source"],["comprender","to understand"],["el riesgo","risk"],["revisar","to review"],["contener","to contain"]]),
+        models: ["Antes de que el consejo vote, revisan las fuentes.","Los analistas comprenden mejor los riesgos así.","Es posible que el informe contenga errores.","Cada fuente aporta algo distinto.","Todos comprenden mejor la situación al final."],
+        modelTranslations: ["Before the council votes, they review the sources.","Analysts understand the risks better this way.","The report may contain errors.","Each source contributes something different.","Everyone understands the situation better in the end."] },
+      { vocabulary: V([["el rumor","rumor"],["el hecho","fact"],["la inferencia","inference"],["verificable","verifiable"],["confiable","reliable"],["la afirmación","claim"],["distinguir","to distinguish"],["el sesgo","bias"]]),
+        models: ["Un rumor no es lo mismo que un hecho.","Una inferencia debe basarse en evidencia verificable.","No toda fuente es igual de confiable.","Hay que distinguir una afirmación de una prueba.","El sesgo puede afectar la interpretación."],
+        modelTranslations: ["A rumor is not the same as a fact.","An inference should be based on verifiable evidence.","Not every source is equally reliable.","You have to distinguish a claim from proof.","Bias can affect interpretation."] },
+      { vocabulary: V([["evaluar","to evaluate"],["el informe incierto","uncertain report"],["proponer","to propose"],["el propósito","purpose"],["la fecha límite","deadline"],["la alternativa","alternative"],["el plan de contingencia","contingency plan"],["salvo que","unless"]]),
+        models: ["Voy a evaluar un informe incierto.","Propongo un plan con un propósito claro.","Incluyo una fecha límite realista.","Preparo una alternativa por si acaso.","Tengo un plan de contingencia salvo que todo salga bien."],
+        modelTranslations: ["I am going to evaluate an uncertain report.","I propose a plan with a clear purpose.","I include a realistic deadline.","I prepare an alternative just in case.","I have a contingency plan unless everything goes well."] }
+    ]
   },
   {
     week: 29, phase: "Projection", level: "ILR 2+", title: "Relative Clauses and Unknown Referents",
@@ -355,6 +841,24 @@ export const weeks = [
     vocabulary: V([["el requisito","requirement"],["el candidato","candidate"],["la experiencia","experience"],["disponible","available"],["adecuado","suitable"],["cuyo","whose"],["lo que","what/that which"],["cualquiera","whichever/any"]]),
     models: ["Buscamos a alguien que tenga experiencia.","Conozco a la persona que dirige el proyecto.","Necesito un lugar que esté cerca del metro.","Eso es lo que me preocupa.","La autora, cuyo libro ganó el premio, dará una charla."],
     reading: "La organización busca a una persona que conozca la región y pueda trabajar de inmediato. Ya entrevistó a un candidato que vivió allí durante cinco años.",
+    days: [
+      { vocabulary: V([["el requisito","requirement"],["el candidato","candidate"],["la experiencia","experience"],["disponible","available"],["adecuado","suitable"],["cuyo","whose"],["lo que","what/that which"],["cualquiera","whichever/any"]]),
+        models: ["Buscamos a alguien que tenga experiencia.","Conozco a la persona que dirige el proyecto.","Necesito un lugar que esté cerca del metro.","Eso es lo que me preocupa.","La autora, cuyo libro ganó el premio, dará una charla."],
+        modelTranslations: ["We're looking for someone who has experience.","I know the person who directs the project.","I need a place that is near the subway.","That is what worries me.","The author, whose book won the prize, will give a talk."] },
+      { vocabulary: V([["que","that/who"],["quien","who"],["el que/la que","the one who"],["lo cual","which"],["donde","where (relative)"],["conocido","known"],["desconocido","unknown"],["el antecedente","antecedent"]]),
+        models: ["Busco a alguien que tenga experiencia.","Conozco a la persona que tiene experiencia.","El lugar donde vivo es tranquilo.","Necesito algo que funcione bien.","Uso lo que ya tengo."],
+        modelTranslations: ["I'm looking for someone who has experience.","I know the person who has experience.","The place where I live is quiet.","I need something that works well.","I use what I already have."],
+        formNote: "Applying the form. Use the indicative in a relative clause when the antecedent is known/specific, and the subjunctive when it's unknown or hypothetical: conozco a alguien que tiene (known) vs. busco a alguien que tenga (unknown)." },
+      { vocabulary: V([["la organización","organization"],["conocer la región","to know the region"],["comenzar de inmediato","to start immediately"],["entrevistar","to interview"],["vivir","to live"],["cinco años","five years"],["el candidato ideal","ideal candidate"],["buscar","to look for"]]),
+        models: ["La organización busca a alguien que conozca la región.","Necesita a alguien que pueda comenzar de inmediato.","Ya entrevistó a un candidato ideal.","Ese candidato vivió allí cinco años.","Sigue buscando más opciones."],
+        modelTranslations: ["The organization is looking for someone who knows the region.","It needs someone who can start immediately.","It has already interviewed an ideal candidate.","That candidate lived there for five years.","It keeps looking for more options."] },
+      { vocabulary: V([["el anuncio","posting"],["la vivienda","housing"],["el criterio","criterion"],["discriminatorio","discriminatory"],["preciso","precise"],["el requisito legal","legal requirement"],["justo","fair"],["redactar","to draft"]]),
+        models: ["Un buen anuncio de vivienda es preciso.","Los criterios no deben ser discriminatorios.","Cada requisito legal debe respetarse.","Un anuncio justo atrae a más candidatos.","Redactar bien un anuncio evita malentendidos."],
+        modelTranslations: ["A good housing posting is precise.","Criteria must not be discriminatory.","Every legal requirement must be respected.","A fair posting attracts more candidates.","Drafting a posting well avoids misunderstandings."] },
+      { vocabulary: V([["defender","to defend"],["justificar","to justify"],["el perfil","profile"],["la solución ideal","ideal solution"],["argumentar","to argue"],["convincente","convincing"],["el ejemplo","example"],["presentar","to present"]]),
+        models: ["Voy a defender mi propuesta de criterios.","Justifico cada punto con un ejemplo.","Describo el perfil ideal.","Muestro por qué es la solución ideal.","Argumento de forma convincente."],
+        modelTranslations: ["I am going to defend my proposal of criteria.","I justify each point with an example.","I describe the ideal profile.","I show why it's the ideal solution.","I argue convincingly."] }
+    ]
   },
   {
     week: 30, phase: "Systems", level: "ILR 2+", title: "Por, Para, Passive, and Impersonal Se",
@@ -366,6 +870,24 @@ export const weeks = [
     vocabulary: V([["por causa de","because of"],["para lograr","in order to achieve"],["por medio de","by means of"],["la medida","measure/policy"],["aprobar","to approve"],["publicar","to publish"],["se requiere","is required"],["se permite","is permitted"]]),
     models: ["La medida fue aprobada por el consejo.","Se publicaron los resultados ayer.","Trabajamos para mejorar el acceso.","El servicio cerró por falta de fondos.","Se requiere identificación para entrar."],
     reading: "La nueva norma fue aprobada por el ayuntamiento para reducir el tráfico. Se permitirán entregas por la mañana y se medirán los resultados durante seis meses.",
+    days: [
+      { vocabulary: V([["por causa de","because of"],["para lograr","in order to achieve"],["por medio de","by means of"],["la medida","measure/policy"],["aprobar","to approve"],["publicar","to publish"],["se requiere","is required"],["se permite","is permitted"]]),
+        models: ["La medida fue aprobada por el consejo.","Se publicaron los resultados ayer.","Trabajamos para mejorar el acceso.","El servicio cerró por falta de fondos.","Se requiere identificación para entrar."],
+        modelTranslations: ["The measure was approved by the council.","The results were published yesterday.","We work to improve access.","The service closed because of a lack of funding.","Identification is required to enter."] },
+      { vocabulary: V([["por","by/for (reason, means)"],["para","for/in order to (purpose)"],["fue aprobado","was approved"],["fueron publicados","were published"],["el agente","agent"],["la voz pasiva","passive voice"],["ser + participio","be + participle"],["el propósito","purpose"]]),
+        models: ["El informe fue escrito por ella.","Trabajo para mejorar el servicio.","La ley fue aprobada por el congreso.","Los datos fueron publicados ayer.","Uso 'para' para expresar propósito."],
+        modelTranslations: ["The report was written by her.","I work to improve the service.","The law was approved by congress.","The data were published yesterday.","I use 'para' to express purpose."],
+        formNote: "Applying the form. Por expresses cause, means, or duration; para expresses purpose or destination; the passive voice uses ser + past participle, often with por + agent." },
+      { vocabulary: V([["la norma","rule"],["el ayuntamiento","city hall"],["reducir","to reduce"],["el tráfico","traffic"],["permitir","to allow"],["la entrega","delivery"],["medir","to measure"],["seis meses","six months"]]),
+        models: ["La nueva norma fue aprobada por el ayuntamiento.","Busca reducir el tráfico en el centro.","Se permitirán entregas por la mañana.","Los resultados se medirán durante seis meses.","La medida entra en vigor pronto."],
+        modelTranslations: ["The new rule was approved by city hall.","It seeks to reduce traffic downtown.","Deliveries will be allowed in the morning.","The results will be measured for six months.","The measure takes effect soon."] },
+      { vocabulary: V([["el aviso institucional","institutional notice"],["el periodismo","journalism"],["preferir","to prefer"],["ocultar","to hide"],["la responsabilidad","responsibility"],["el estilo","style"],["impersonal","impersonal"],["formal","formal"]]),
+        models: ["Un aviso institucional suele ser impersonal.","El periodismo a veces prefiere la voz pasiva.","La pasiva puede ocultar la responsabilidad.","El estilo formal usa más construcciones con se.","Cada medio elige su propio estilo."],
+        modelTranslations: ["An institutional notice is usually impersonal.","Journalism sometimes prefers the passive voice.","The passive can hide responsibility.","Formal style uses more se constructions.","Each outlet chooses its own style."] },
+      { vocabulary: V([["explicar","to explain"],["el funcionamiento","functioning"],["por qué","why"],["cambiar","to change"],["afectar","to affect"],["quién","who"],["el ciudadano","citizen"],["el servicio público","public service"]]),
+        models: ["Voy a explicar el funcionamiento de un servicio público.","Explico por qué cambió.","Digo quién resulta afectado.","Uso ejemplos claros para los ciudadanos.","Termino con un resumen breve."],
+        modelTranslations: ["I am going to explain how a public service works.","I explain why it changed.","I say who is affected.","I use clear examples for citizens.","I finish with a brief summary."] }
+    ]
   },
   {
     week: 31, phase: "Systems", level: "ILR 2+", title: "Comparison, Register, and Idiomatic Force",
@@ -377,6 +899,24 @@ export const weeks = [
     vocabulary: V([["sin embargo","however"],["aun así","even so"],["por lo tanto","therefore"],["meter la pata","to put one’s foot in it"],["ir viento en popa","to go very well"],["estar en las nubes","to be daydreaming"],["dar en el clavo","to hit the nail on the head"],["tomar con pinzas","to treat cautiously"]]),
     models: ["La segunda opción es mucho más viable.","El informe menos claro fue el primero.","El proyecto va viento en popa.","Ese dato hay que tomarlo con pinzas.","Su análisis dio en el clavo; sin embargo, faltan pruebas."],
     reading: "El equipo celebró porque el proyecto iba viento en popa, pero una analista pidió tomar las cifras con pinzas. Su cautela dio en el clavo cuando apareció un error.",
+    days: [
+      { vocabulary: V([["sin embargo","however"],["aun así","even so"],["por lo tanto","therefore"],["meter la pata","to put one's foot in it"],["ir viento en popa","to go very well"],["estar en las nubes","to be daydreaming"],["dar en el clavo","to hit the nail on the head"],["tomar con pinzas","to treat cautiously"]]),
+        models: ["La segunda opción es mucho más viable.","El informe menos claro fue el primero.","El proyecto va viento en popa.","Ese dato hay que tomarlo con pinzas.","Su análisis dio en el clavo; sin embargo, faltan pruebas."],
+        modelTranslations: ["The second option is much more viable.","The least clear report was the first one.","The project is going very well.","That data point should be treated cautiously.","His or her analysis hit the nail on the head; however, evidence is still lacking."] },
+      { vocabulary: V([["más...que","more...than"],["menos...que","less...than"],["el/la más","the most"],["tan...como","as...as"],["con diferencia","by far"],["el superlativo","superlative"],["el intensificador","intensifier"],["notablemente","notably"]]),
+        models: ["Esta opción es mucho más eficiente que la anterior.","Es la propuesta menos clara de todas.","Es tan buena como esperábamos.","Es, con diferencia, la mejor opción.","El proyecto mejoró notablemente."],
+        modelTranslations: ["This option is much more efficient than the previous one.","It's the least clear proposal of all.","It's as good as we expected.","It's by far the best option.","The project improved notably."],
+        formNote: "Applying the form. Use más/menos + adjective + que for comparisons, el/la más + adjective for superlatives, and tan + adjective + como for equality." },
+      { vocabulary: V([["celebrar","to celebrate"],["el equipo","team"],["la analista","analyst"],["la cautela","caution"],["la advertencia","warning"],["resultar correcto","to prove correct"],["aparecer","to appear"],["poco después","shortly after"]]),
+        models: ["El equipo celebró el avance del proyecto.","Iba viento en popa hasta ese momento.","Una analista pidió cautela con las cifras.","Su advertencia resultó correcta.","Un error apareció poco después."],
+        modelTranslations: ["The team celebrated the project's progress.","It was going very well up to that point.","An analyst asked for caution with the figures.","Her warning proved correct.","A mistake appeared shortly after."] },
+      { vocabulary: V([["la región","region"],["el registro","register"],["reconocer","to recognize"],["producir","to produce"],["indiscriminadamente","indiscriminately"],["el contexto adecuado","appropriate context"],["limitado","limited"],["comprender","to understand"]]),
+        models: ["Cada región tiene sus propios modismos.","El registro determina si un modismo es apropiado.","Hay que reconocer un modismo antes de producirlo.","No conviene usarlos indiscriminadamente.","El significado depende del contexto adecuado."],
+        modelTranslations: ["Each region has its own idioms.","Register determines whether an idiom is appropriate.","You have to recognize an idiom before producing it.","It's not advisable to use them indiscriminately.","The meaning depends on the appropriate context."] },
+      { vocabulary: V([["comparar","to compare"],["formalmente","formally"],["interpretar","to interpret"],["la reacción informal","informal reaction"],["el significado literal","literal meaning"],["el significado figurado","figurative meaning"],["deducir","to deduce"],["el matiz","nuance"]]),
+        models: ["Voy a comparar dos propuestas formalmente.","Después interpreto una reacción informal.","Distingo el significado literal del figurado.","Deduzco el sentido por el contexto.","Explico el matiz con un ejemplo."],
+        modelTranslations: ["I am going to compare two proposals formally.","Then I interpret an informal reaction.","I distinguish the literal meaning from the figurative one.","I deduce the meaning from context.","I explain the nuance with an example."] }
+    ]
   },
   {
     week: 32, phase: "Systems", level: "ILR 2+", title: "Work, Technology, and Formal Communication",
@@ -388,6 +928,24 @@ export const weeks = [
     vocabulary: V([["la reunión","meeting"],["el plazo","deadline"],["el informe","report"],["la red","network"],["la contraseña","password"],["el archivo adjunto","attachment"],["según","according to"],["con respecto a","regarding"]]),
     models: ["Según la técnica, la red ya funciona.","Nos comunicamos por un canal seguro.","El director dijo que ampliarían el plazo.","Adjunto encontrará el informe solicitado.","Con respecto al incidente, faltan dos datos."],
     reading: "Durante la reunión, el equipo técnico explicó que la interrupción no afectó los archivos. La directora pidió un informe y anunció que revisarían el protocolo.",
+    days: [
+      { vocabulary: V([["la reunión","meeting"],["el plazo","deadline"],["el informe","report"],["la red","network"],["la contraseña","password"],["el archivo adjunto","attachment"],["según","according to"],["con respecto a","regarding"]]),
+        models: ["Según la técnica, la red ya funciona.","Nos comunicamos por un canal seguro.","El director dijo que ampliarían el plazo.","Adjunto encontrará el informe solicitado.","Con respecto al incidente, faltan dos datos."],
+        modelTranslations: ["According to the technician, the network is working.","We communicate through a secure channel.","The director said that they would extend the deadline.","Attached you will find the requested report.","Regarding the incident, two details are missing."] },
+      { vocabulary: V([["dijo que","said that"],["según él/ella","according to him/her"],["el mío/la mía","mine"],["el suyo/la suya","his/hers"],["además","furthermore"],["por consiguiente","consequently"],["el conector formal","formal connector"],["el estilo nominal","nominal style"]]),
+        models: ["Dijo que llegaría tarde.","Según ella, el sistema funciona bien.","Este archivo es el mío.","Esa contraseña es la suya.","Además, el plazo se extendió."],
+        modelTranslations: ["He/she said that he/she would arrive late.","According to her, the system works well.","This file is mine.","That password is his/hers.","Furthermore, the deadline was extended."],
+        formNote: "Applying the form. Reported speech shifts verb tense back one step (dice → dijo que decía); stressed possessives (el mío, la suya) replace a noun already mentioned." },
+      { vocabulary: V([["la interrupción","outage"],["afectar","to affect"],["el archivo","file"],["pedir un informe","to request a report"],["anunciar","to announce"],["revisar","to review"],["el protocolo","protocol"],["técnico","technical"]]),
+        models: ["El equipo técnico explicó la interrupción.","Los archivos no se vieron afectados.","La directora pidió un informe.","Anunció que revisarían el protocolo.","Todo se resolvió rápido."],
+        modelTranslations: ["The technical team explained the outage.","The files were not affected.","The director requested a report.","She announced that they would review the protocol.","Everything was resolved quickly."] },
+      { vocabulary: V([["el correo electrónico","email"],["el saludo formal","formal greeting"],["el mensaje instantáneo","instant message"],["el trabajo remoto","remote work"],["el acceso tecnológico","technological access"],["la norma","norm"],["la jerarquía","hierarchy"],["variar","to vary"]]),
+        models: ["El correo electrónico suele empezar con un saludo formal.","El mensaje instantáneo es más informal.","El trabajo remoto cambia la comunicación diaria.","El acceso tecnológico no es igual en todas partes.","La jerarquía influye en el tono del mensaje."],
+        modelTranslations: ["Email usually starts with a formal greeting.","Instant messaging is more informal.","Remote work changes daily communication.","Technological access isn't the same everywhere.","Hierarchy influences the tone of the message."] },
+      { vocabulary: V([["informar","to inform"],["la avería","breakdown"],["resumir","to summarize"],["la declaración","statement"],["el próximo paso","next step"],["recomendar","to recommend"],["la supervisora","supervisor"],["detalladamente","in detail"]]),
+        models: ["Voy a informar a mi supervisora sobre la avería.","Resumo las declaraciones de cada persona.","Explico todo detalladamente.","Recomiendo el próximo paso.","Termino con una pregunta abierta."],
+        modelTranslations: ["I am going to inform my supervisor about the breakdown.","I summarize each person's statement.","I explain everything in detail.","I recommend the next step.","I finish with an open question."] }
+    ]
   },
   {
     week: 33, phase: "Systems", level: "ILR 2+", title: "History, Society, and Multiple Perspectives",
@@ -399,6 +957,24 @@ export const weeks = [
     vocabulary: V([["la fuente","source"],["la evidencia","evidence"],["el testimonio","testimony"],["la memoria","memory"],["la desigualdad","inequality"],["la migración","migration"],["aunque","although"],["debido a","due to"]]),
     models: ["La fuente afirma que la reforma amplió derechos.","Otros sostienen que la desigualdad continuó.","Cuando cambió el gobierno, muchas personas ya habían emigrado.","Aunque existe consenso sobre los hechos, su significado se debate.","El testimonio aporta una perspectiva personal."],
     reading: "Dos fuentes describen la misma protesta. El periódico destaca el cambio político, mientras un testimonio recuerda el miedo cotidiano. Ambas perspectivas aportan datos distintos.",
+    days: [
+      { vocabulary: V([["la fuente","source"],["la evidencia","evidence"],["el testimonio","testimony"],["la memoria","memory"],["la desigualdad","inequality"],["la migración","migration"],["aunque","although"],["debido a","due to"]]),
+        models: ["La fuente afirma que la reforma amplió derechos.","Otros sostienen que la desigualdad continuó.","Cuando cambió el gobierno, muchas personas ya habían emigrado.","Aunque existe consenso sobre los hechos, su significado se debate.","El testimonio aporta una perspectiva personal."],
+        modelTranslations: ["The source affirms that the reform expanded rights.","Others maintain that inequality continued.","When the government changed, many people had already emigrated.","Although there is consensus about the facts, their meaning is debated.","The testimony contributes a personal perspective."] },
+      { vocabulary: V([["había ocurrido","had occurred"],["había cambiado","had changed"],["según se afirma","as is claimed"],["aunque + indicativo","although + indicative"],["a pesar de que","despite the fact that"],["el hecho consumado","fait accompli"],["la concesión","concession"],["la consecuencia","consequence"]]),
+        models: ["El cambio ya había ocurrido antes del informe.","Según se afirma, la reforma amplió derechos.","Aunque hay consenso, el debate continúa.","A pesar de que hay evidencia, algunos dudan.","La consecuencia fue inmediata."],
+        modelTranslations: ["The change had already occurred before the report.","As is claimed, the reform expanded rights.","Although there is consensus, the debate continues.","Despite there being evidence, some doubt it.","The consequence was immediate."],
+        formNote: "Applying the form. Use había + participle for an action completed before another past event, and aunque + indicative for a known concession (aunque hay) vs. aunque + subjunctive for a hypothetical one." },
+      { vocabulary: V([["la protesta","protest"],["el periódico","newspaper"],["destacar","to highlight"],["recordar","to remember"],["cotidiano","everyday"],["aportar","to contribute"],["distinto","distinct"],["el dato","piece of information"]]),
+        models: ["Dos fuentes describen la misma protesta.","El periódico destaca el cambio político.","Un testimonio recuerda el miedo cotidiano.","Cada fuente aporta un dato distinto.","Juntas dan una imagen más completa."],
+        modelTranslations: ["Two sources describe the same protest.","The newspaper highlights the political change.","A testimony remembers the everyday fear.","Each source contributes a different piece of information.","Together they give a more complete picture."] },
+      { vocabulary: V([["la colonización","colonization"],["la independencia","independence"],["la dictadura","dictatorship"],["la democracia","democracy"],["la identidad","identity"],["el marco específico","specific framing"],["generalizar","to generalize"],["el país concreto","specific country"]]),
+        models: ["La colonización requiere un marco específico.","Lo mismo ocurre con la independencia.","La dictadura y la democracia se viven distinto según el país.","La identidad no se puede generalizar.","Cada país concreto tiene su propia historia."],
+        modelTranslations: ["Colonization requires specific framing.","The same is true of independence.","Dictatorship and democracy are experienced differently by country.","Identity cannot be generalized.","Each specific country has its own history."] },
+      { vocabulary: V([["presentar","to present"],["el acontecimiento","event"],["disputado","contested"],["la fuente citada","cited source"],["dos perspectivas","two perspectives"],["atribuir","to attribute"],["claramente","clearly"],["el sesgo","bias"]]),
+        models: ["Voy a presentar un acontecimiento disputado.","Uso dos perspectivas distintas.","Atribuyo cada fuente citada claramente.","Explico el sesgo posible de cada una.","Dejo que el público saque sus propias conclusiones."],
+        modelTranslations: ["I am going to present a contested event.","I use two different perspectives.","I attribute each cited source clearly.","I explain the possible bias of each.","I let the audience draw their own conclusions."] }
+    ]
   },
   {
     week: 34, phase: "Systems", level: "ILR 2+", title: "Pan-Hispanic Variation and Dialect Listening",
@@ -410,6 +986,24 @@ export const weeks = [
     vocabulary: V([["el autobús","bus"],["el camión","bus in Mexico"],["la guagua","bus in parts of Caribbean/Canaries"],["el móvil","mobile phone in Spain"],["el celular","cell phone"],["vos tenés","you have in voseo"],["vosotros tenéis","you all have in Spain"],["ustedes tienen","you all have"]]),
     models: ["¿Vos tenés tiempo mañana?","Vosotros podéis entrar por aquí.","Ustedes esperan la guagua en esa esquina.","En México, camión puede significar autobús.","No entendí esa palabra; ¿qué significa aquí?"],
     reading: "Tres hablantes organizan el mismo viaje. Una persona toma el camión, otra espera la guagua y otra consulta el horario del autobús. El vehículo es similar; la palabra cambia.",
+    days: [
+      { vocabulary: V([["el autobús","bus"],["el camión","bus in Mexico"],["la guagua","bus in parts of Caribbean/Canaries"],["el móvil","mobile phone in Spain"],["el celular","cell phone"],["vos tenés","you have in voseo"],["vosotros tenéis","you all have in Spain"],["ustedes tienen","you all have"]]),
+        models: ["¿Vos tenés tiempo mañana?","Vosotros podéis entrar por aquí.","Ustedes esperan la guagua en esa esquina.","En México, camión puede significar autobús.","No entendí esa palabra; ¿qué significa aquí?"],
+        modelTranslations: ["Do you have time tomorrow?","You all can come in this way.","You all wait for the bus on that corner.","In Mexico, camión can mean bus.","I didn't understand that word; what does it mean here?"] },
+      { vocabulary: V([["tú tienes","you have (tú)"],["vos podés","you can (vos)"],["usted tiene","you have (usted)"],["vosotros podéis","you all can (Spain)"],["el leísmo","leísmo"],["el voseo","voseo"],["reconocer sin juzgar","to recognize without judging"],["el sistema de tratamiento","address system"]]),
+        models: ["Tú tienes razón.","Vos tenés razón.","Usted tiene razón.","Vosotros tenéis razón.","Cada sistema de tratamiento es válido."],
+        modelTranslations: ["You are right.","You are right.","You are right.","You all are right.","Each address system is valid."],
+        formNote: "Applying the form. Tú/vos/usted/vosotros are regional address systems, not errors to correct — recognize each verb form (tienes/tenés/tiene/tenéis) without judging one as more correct." },
+      { vocabulary: V([["organizar","to organize"],["el viaje","trip"],["el vehículo","vehicle"],["similar","similar"],["la palabra","word"],["el horario","schedule"],["consultar","to consult"],["esperar","to wait"]]),
+        models: ["Tres hablantes organizan el mismo viaje.","Uno toma el camión.","Otro espera la guagua.","Otro consulta el horario del autobús.","El vehículo es similar; la palabra cambia."],
+        modelTranslations: ["Three speakers organize the same trip.","One takes the camión.","Another waits for the guagua.","Another checks the bus schedule.","The vehicle is similar; the word changes."] },
+      { vocabulary: V([["el país hispanohablante","Spanish-speaking country"],["el Caribe","the Caribbean"],["los Andes","the Andes"],["el Río de la Plata","River Plate"],["internamente diverso","internally diverse"],["representar","to represent"],["la totalidad","the whole"],["evitar la caricatura","to avoid caricature"]]),
+        models: ["España, México y el Caribe no hablan igual.","Los Andes y el Río de la Plata también son distintos.","Cada país hispanohablante es internamente diverso.","Ningún país representa la totalidad del español.","Es mejor evitar la caricatura de un acento."],
+        modelTranslations: ["Spain, Mexico, and the Caribbean don't speak the same way.","The Andes and the River Plate are also different.","Every Spanish-speaking country is internally diverse.","No country represents the whole of Spanish.","It's best to avoid caricaturing an accent."] },
+      { vocabulary: V([["interpretar","to interpret"],["el intercambio","exchange"],["reformular","to reformulate"],["neutral","neutral"],["el modelo instructivo","instructional model"],["comprender","to understand"],["siete","seven"],["breve","brief"]]),
+        models: ["Voy a interpretar siete intercambios regionales.","Cada intercambio es breve.","Reformulo el contenido en un modelo neutral.","Uso el modelo instructivo del curso.","Así todos pueden comprender el mensaje."],
+        modelTranslations: ["I am going to interpret seven regional exchanges.","Each exchange is brief.","I reformulate the content in a neutral model.","I use the course's instructional model.","This way everyone can understand the message."] }
+    ]
   },
   {
     week: 35, phase: "Capstone", level: "ILR 2+ stretch", title: "Analysis, Argument, and Professional Listening",
@@ -421,6 +1015,24 @@ export const weeks = [
     vocabulary: V([["el asunto","issue"],["el argumento","argument"],["la postura","position"],["el hallazgo","finding"],["el alcance","scope"],["la consecuencia","consequence"],["cabe destacar","it is worth noting"],["en conclusión","in conclusion"]]),
     models: ["El argumento principal se apoya en tres hallazgos.","Cabe destacar que la muestra fue pequeña.","Aunque la propuesta tiene ventajas, su alcance es limitado.","La consecuencia más probable sería un aumento gradual.","En conclusión, recomiendo una prueba controlada."],
     reading: "Un estudio propone ampliar un servicio público. Los datos muestran beneficios, aunque la muestra es limitada. La autora recomienda una prueba regional antes de adoptar la medida nacionalmente.",
+    days: [
+      { vocabulary: V([["el asunto","issue"],["el argumento","argument"],["la postura","position"],["el hallazgo","finding"],["el alcance","scope"],["la consecuencia","consequence"],["cabe destacar","it is worth noting"],["en conclusión","in conclusion"]]),
+        models: ["El argumento principal se apoya en tres hallazgos.","Cabe destacar que la muestra fue pequeña.","Aunque la propuesta tiene ventajas, su alcance es limitado.","La consecuencia más probable sería un aumento gradual.","En conclusión, recomiendo una prueba controlada."],
+        modelTranslations: ["The main argument is supported by three findings.","It is worth noting that the sample was small.","Although the proposal has advantages, its scope is limited.","The most likely consequence would be a gradual increase.","In conclusion, I recommend a controlled trial."] },
+      { vocabulary: V([["por un lado","on one hand"],["por otro lado","on the other hand"],["en primer lugar","in the first place"],["en segundo lugar","in the second place"],["sostener que","to maintain that"],["refutar","to refute"],["la estructura argumentativa","argumentative structure"],["el enlace lógico","logical connector"]]),
+        models: ["Por un lado, hay beneficios claros.","Por otro lado, existen riesgos.","En primer lugar, revisamos los datos.","Sostengo que la propuesta es sólida.","Alguien podría refutar este punto."],
+        modelTranslations: ["On one hand, there are clear benefits.","On the other hand, there are risks.","In the first place, we reviewed the data.","I maintain that the proposal is solid.","Someone could refute this point."],
+        formNote: "Applying the form. Build formal arguments with sequencing connectors (en primer/segundo lugar) and contrast connectors (por un lado/por otro lado), then support each claim with sostener que + evidence." },
+      { vocabulary: V([["el estudio","study"],["proponer","to propose"],["ampliar","to expand"],["el beneficio","benefit"],["la muestra","sample"],["limitada","limited"],["recomendar","to recommend"],["nacionalmente","nationally"]]),
+        models: ["Un estudio propone ampliar un servicio público.","Los datos muestran beneficios claros.","Sin embargo, la muestra es limitada.","La autora recomienda una prueba regional.","Después sugiere adoptarlo nacionalmente."],
+        modelTranslations: ["A study proposes expanding a public service.","The data show clear benefits.","However, the sample is limited.","The author recommends a regional trial.","Afterward she suggests adopting it nationally."] },
+      { vocabulary: V([["la sociedad","society"],["la economía","economy"],["el medio ambiente","environment"],["la política pública","public policy"],["la ciencia","science"],["la seguridad","security"],["sin necesitar jerga","without needing jargon"],["abordar","to address"]]),
+        models: ["Los temas profesionales incluyen sociedad y economía.","También incluyen medio ambiente y política pública.","La ciencia y la seguridad son temas comunes.","Se puede hablar de esto sin necesitar jerga especializada.","Cada tema se puede abordar con claridad."],
+        modelTranslations: ["Professional topics include society and economy.","They also include environment and public policy.","Science and security are common topics.","You can discuss this without needing specialized jargon.","Each topic can be addressed clearly."] },
+      { vocabulary: V([["escuchar","to listen"],["tomar notas","to take notes"],["resumir","to summarize"],["defender","to defend"],["bajo cuestionamiento","under questioning"],["la exposición","briefing"],["la nota","note"],["multipárrafo","multi-paragraph"]]),
+        models: ["Voy a escuchar una exposición de varios párrafos.","Tomo notas mientras escucho.","Resumo la exposición multipárrafo.","Defiendo una recomendación bajo cuestionamiento.","Uso mis notas para responder con seguridad."],
+        modelTranslations: ["I am going to listen to a multi-paragraph briefing.","I take notes while I listen.","I summarize the multi-paragraph briefing.","I defend a recommendation under questioning.","I use my notes to answer confidently."] }
+    ]
   },
   {
     week: 36, phase: "Capstone", level: "ILR 2+/2+/2 stretch", title: "Integrated Field Capstone",
@@ -432,6 +1044,24 @@ export const weeks = [
     vocabulary: V([["aclarar","to clarify"],["comprobar","to verify"],["negociar","to negotiate"],["resumir","to summarize"],["justificar","to justify"],["adaptarse","to adapt"],["la competencia","proficiency"],["el mantenimiento","maintenance"]]),
     models: ["Permítame aclarar lo que entendí.","Antes de actuar, debemos comprobar la fuente.","Puedo resumir las dos posturas y justificar mi recomendación.","Me adapto al registro sin imitar un acento.","Mi plan de mantenimiento combina lectura, escucha, conversación y escritura."],
     reading: "Al terminar el curso, la meta no es saber cada palabra. La meta es comprender, actuar, reparar errores y seguir aprendiendo. La competencia se mantiene con contacto frecuente y tareas cada vez más exigentes.",
+    days: [
+      { vocabulary: V([["aclarar","to clarify"],["comprobar","to verify"],["negociar","to negotiate"],["resumir","to summarize"],["justificar","to justify"],["adaptarse","to adapt"],["la competencia","proficiency"],["el mantenimiento","maintenance"]]),
+        models: ["Permítame aclarar lo que entendí.","Antes de actuar, debemos comprobar la fuente.","Puedo resumir las dos posturas y justificar mi recomendación.","Me adapto al registro sin imitar un acento.","Mi plan de mantenimiento combina lectura, escucha, conversación y escritura."],
+        modelTranslations: ["Allow me to clarify what I understood.","Before acting, we must verify the source.","I can summarize the two positions and justify my recommendation.","I adapt my register without imitating an accent.","My maintenance plan combines reading, listening, speaking, and writing."] },
+      { vocabulary: V([["repararse a sí mismo","to self-correct"],["el registro apropiado","appropriate register"],["monitorear","to monitor"],["intercambiar","to exchange"],["la intercomprensión","mutual intelligibility"],["sostenido","sustained"],["estratégico","strategic"],["tolerar la variación","to tolerate variation"]]),
+        models: ["Me monitoreo mientras hablo.","Reparo un error de forma estratégica.","Adapto mi registro según la situación.","Sostengo una conversación larga sin perder el hilo.","Tolero la variación regional sin juzgar."],
+        modelTranslations: ["I monitor myself while I speak.","I repair a mistake strategically.","I adapt my register to the situation.","I sustain a long conversation without losing the thread.","I tolerate regional variation without judging it."],
+        formNote: "Applying the form. Integrated proficiency means self-monitoring in real time, choosing repair strategies strategically, and sustaining intelligibility across a long interaction — not using every structure perfectly." },
+      { vocabulary: V([["la meta","goal"],["la palabra","word"],["actuar","to act"],["reparar errores","to repair mistakes"],["seguir aprendiendo","to keep learning"],["el contacto frecuente","frequent contact"],["la tarea exigente","demanding task"],["mantenerse","to be maintained"]]),
+        models: ["Al terminar el curso, la meta no es saber cada palabra.","La meta es comprender y actuar.","También es reparar errores con calma.","Seguir aprendiendo es parte del proceso.","La competencia se mantiene con contacto frecuente."],
+        modelTranslations: ["When the course ends, the goal is not to know every word.","The goal is to understand and act.","It's also to repair mistakes calmly.","Continuing to learn is part of the process.","Proficiency is maintained through frequent contact."] },
+      { vocabulary: V([["observar","to observe"],["preguntar","to ask"],["ajustarse","to adjust"],["evitar la generalización","to avoid generalization"],["representar a todos","to represent everyone"],["la competencia intercultural","intercultural competence"],["el respeto mutuo","mutual respect"],["la humildad","humility"]]),
+        models: ["La competencia intercultural exige observar primero.","También exige preguntar sin asumir.","Ajustarse a cada contexto es clave.","Ninguna persona representa a todas las demás.","El respeto mutuo evita la generalización."],
+        modelTranslations: ["Intercultural competence requires observing first.","It also requires asking without assuming.","Adjusting to each context is key.","No single person represents everyone else.","Mutual respect avoids generalization."] },
+      { vocabulary: V([["la simulación final","final simulation"],["la interrupción de viaje","travel disruption"],["el informe comunitario","community briefing"],["el análisis de fuentes","source analysis"],["el mensaje formal","formal message"],["la entrevista grabada","recorded interview"],["integrar","to integrate"],["culminar","to culminate"]]),
+        models: ["Voy a completar la simulación final del curso.","Resuelvo una interrupción de viaje.","Doy un informe comunitario claro.","Hago un análisis de fuentes cuidadoso.","Culmino con una entrevista grabada."],
+        modelTranslations: ["I am going to complete the course's final simulation.","I resolve a travel disruption.","I give a clear community briefing.","I do a careful source analysis.","I culminate with a recorded interview."] }
+    ]
   }
 ];
 

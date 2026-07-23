@@ -163,7 +163,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Lenguaje modelo. It's going to rain on the coast tomorrow. — Mañana va a llover en la costa. It's windy in the mountains. — Hace viento en las montañas. If the weather changes, we'll return early. — Si cambia el tiempo, regresaremos temprano. Fires are not allowed in the forest. — No se permiten fogatas en el bosque. We're protecting a water source. — Estamos protegiendo una fuente de agua.",
+      "text": "Lenguaje modelo. The English-speaking world's climate is very diverse. — El clima del mundo angloparlante es muy diverso. It ranges from the Caribbean to the Arctic. — Va del Caribe hasta el Ártico. Ecotourism depends on local biodiversity. — El ecoturismo depende de la biodiversidad local. It's easy to fall into an oversimplified image. — Es fácil caer en una imagen simplificada. It's better to avoid generalizing about an entire region. — Mejor evitar generalizar sobre una región entera.",
       "sentences": [
         {
           "text": "Lenguaje modelo.",
@@ -176,104 +176,104 @@
           "phonemes": "leŋɡwˈaxe moðˈelo."
         },
         {
-          "text": "It's going to rain on the coast tomorrow.",
+          "text": "The English-speaking world's climate is very diverse.",
           "segments": [
             {
-              "text": "It's going to rain on the coast tomorrow.",
+              "text": "The English-speaking world's climate is very diverse.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɪts ɡˌoʊɪŋ tə ɹˈeɪn ɔnðə kˈoʊst təmˈɑːɹoʊ."
+          "phonemes": "ðɪ ˈɪŋɡlɪʃspˈiːkɪŋ wˈɜːldz klˈaɪmət ɪz vˈɛɹi daɪvˈɜːs."
         },
         {
-          "text": "— Mañana va a llover en la costa.",
+          "text": "— El clima del mundo angloparlante es muy diverso.",
           "segments": [
             {
-              "text": "— Mañana va a llover en la costa.",
+              "text": "— El clima del mundo angloparlante es muy diverso.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— maɲˈana βˈa a ʝoβˈeɾ en la kˈosta."
+          "phonemes": "— el klˈima ðel mˈundo ˌaŋɡlopaɾlˈante ˈes mˈuj ðiβˈeɾso."
         },
         {
-          "text": "It's windy in the mountains.",
+          "text": "It ranges from the Caribbean to the Arctic.",
           "segments": [
             {
-              "text": "It's windy in the mountains.",
+              "text": "It ranges from the Caribbean to the Arctic.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɪts wˈɪndi ɪnðə mˈaʊntɪnz."
+          "phonemes": "ɪt ɹˈeɪndʒᵻz fɹʌmðə kˌæɹəbˈiən tə ðɪ ˈɑːɹktɪk."
         },
         {
-          "text": "— Hace viento en las montañas.",
+          "text": "— Va del Caribe hasta el Ártico.",
           "segments": [
             {
-              "text": "— Hace viento en las montañas.",
+              "text": "— Va del Caribe hasta el Ártico.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— ˈase βjˈɛnto en las montˈaɲas."
+          "phonemes": "— bˈa ðel kaɾˈiβe ˌasta el ˈaɾtiko."
         },
         {
-          "text": "If the weather changes, we'll return early.",
+          "text": "Ecotourism depends on local biodiversity.",
           "segments": [
             {
-              "text": "If the weather changes, we'll return early.",
+              "text": "Ecotourism depends on local biodiversity.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɪf ðə wˈɛðɚ tʃˈeɪndʒᵻz, wiːl ɹᵻtˈɜːn ˈɜːli."
+          "phonemes": "ˈɛkətˌʊɹɹɪzəm dᵻpˈɛndz ˌɔn lˈoʊkəl bˌaɪoʊdaɪvˈɜːsᵻɾi."
         },
         {
-          "text": "— Si cambia el tiempo, regresaremos temprano.",
+          "text": "— El ecoturismo depende de la biodiversidad local.",
           "segments": [
             {
-              "text": "— Si cambia el tiempo, regresaremos temprano.",
+              "text": "— El ecoturismo depende de la biodiversidad local.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— si kˈambja el tjˈempo, rˌeɣɾesaɾˈemos tempɾˈano."
+          "phonemes": "— el ˌekotuɾˈismo ðepˈɛnde ðe la βjˌoðiβˌeɾsiðˈad lokˈal."
         },
         {
-          "text": "Fires are not allowed in the forest.",
+          "text": "It's easy to fall into an oversimplified image.",
           "segments": [
             {
-              "text": "Fires are not allowed in the forest.",
+              "text": "It's easy to fall into an oversimplified image.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "fˈaɪɚz ɑːɹ nˌɑːt ɐlˈaʊd ɪnðə fˈɔːɹɪst."
+          "phonemes": "ɪts ˈiːzi tə fˈɔːl ˌɪntʊ ɐn ˌoʊvɚsˈɪmplᵻfˌaɪd ˈɪmɪdʒ."
         },
         {
-          "text": "— No se permiten fogatas en el bosque.",
+          "text": "— Es fácil caer en una imagen simplificada.",
           "segments": [
             {
-              "text": "— No se permiten fogatas en el bosque.",
+              "text": "— Es fácil caer en una imagen simplificada.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— nˈo se peɾmˈiten foɣˈatas en el βˈoske."
+          "phonemes": "— ˈes fˈasil kaˈeɾ en ˈuna imˈaxen sˌimplifikˈaða."
         },
         {
-          "text": "We're protecting a water source.",
+          "text": "It's better to avoid generalizing about an entire region.",
           "segments": [
             {
-              "text": "We're protecting a water source.",
+              "text": "It's better to avoid generalizing about an entire region.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wɪɹ pɹətˈɛktɪŋ ɐ wˈɔːɾɚ sˈɔːɹs."
+          "phonemes": "ɪts bˈɛɾɚ tʊ ɐvˈɔɪd dʒˈɛnɚɹəlˌaɪzɪŋ ɐbˌaʊt ɐn ɛntˈaɪɚ ɹˈiːdʒən."
         },
         {
-          "text": "— Estamos protegiendo una fuente de agua.",
+          "text": "— Mejor evitar generalizar sobre una región entera.",
           "segments": [
             {
-              "text": "— Estamos protegiendo una fuente de agua.",
+              "text": "— Mejor evitar generalizar sobre una región entera.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— estˈamos pɾˌotexjˈɛndo ˈuna fwˈɛnte ðe ˈaɣwa."
+          "phonemes": "— mexˈoɾ ˌeβitˈaɾ xˌeneɾˌalisˈaɾ sˌoβɾe ˈuna rexjˈon entˈeɾa."
         }
       ]
     },
@@ -325,129 +325,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "rain",
+      "text": "climate",
       "sentences": [
         {
-          "text": "rain",
+          "text": "climate",
           "segments": [
             {
-              "text": "rain",
+              "text": "climate",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɹˈeɪn"
+          "phonemes": "klˈaɪmət"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "wind",
+      "text": "diverse",
       "sentences": [
         {
-          "text": "wind",
+          "text": "diverse",
           "segments": [
             {
-              "text": "wind",
+              "text": "diverse",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wˈɪnd"
+          "phonemes": "daɪvˈɜːs"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "a forecast",
+      "text": "ecotourism",
       "sentences": [
         {
-          "text": "a forecast",
+          "text": "ecotourism",
           "segments": [
             {
-              "text": "a forecast",
+              "text": "ecotourism",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ fˈɔːɹkæst"
+          "phonemes": "ˈɛkətˌʊɹɹɪzəm"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "a mountain",
+      "text": "biodiversity",
       "sentences": [
         {
-          "text": "a mountain",
+          "text": "biodiversity",
           "segments": [
             {
-              "text": "a mountain",
+              "text": "biodiversity",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ mˈaʊntɪn"
+          "phonemes": "bˌaɪoʊdaɪvˈɜːsᵻɾi"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "a coast",
+      "text": "an oversimplified image",
       "sentences": [
         {
-          "text": "a coast",
+          "text": "an oversimplified image",
           "segments": [
             {
-              "text": "a coast",
+              "text": "an oversimplified image",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ kˈoʊst"
+          "phonemes": "ɐn ˌoʊvɚsˈɪmplᵻfˌaɪd ˈɪmɪdʒ"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "a trail",
+      "text": "to generalize",
       "sentences": [
         {
-          "text": "a trail",
+          "text": "to generalize",
           "segments": [
             {
-              "text": "a trail",
+              "text": "to generalize",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ tɹˈeɪl"
+          "phonemes": "tə dʒˈɛnɚɹəlˌaɪz"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "safe",
+      "text": "a hemisphere",
       "sentences": [
         {
-          "text": "safe",
+          "text": "a hemisphere",
           "segments": [
             {
-              "text": "safe",
+              "text": "a hemisphere",
               "lang": "en-us"
             }
           ],
-          "phonemes": "sˈeɪf"
+          "phonemes": "ɐ hˈɛmɪsfˌɪɹ"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "to change",
+      "text": "extreme",
       "sentences": [
         {
-          "text": "to change",
+          "text": "extreme",
           "segments": [
             {
-              "text": "to change",
+              "text": "extreme",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə tʃˈeɪndʒ"
+          "phonemes": "ɛkstɹˈiːm"
         }
       ]
     }

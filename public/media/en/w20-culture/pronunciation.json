@@ -163,7 +163,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Lenguaje modelo. I was walking home when the storm began. — Caminaba a casa cuando empezó la tormenta. The alarm went off while everyone was sleeping. — La alarma sonó mientras todos dormían. There was little light when we arrived. — Había poca luz cuando llegamos. Suddenly, a neighbor opened the door. — De repente, un vecino abrió la puerta. In the end, we solved the problem together. — Al final resolvimos el problema juntos.",
+      "text": "Lenguaje modelo. Narrative stance changes depending on the medium. — La postura narrativa cambia según el medio. Journalism seeks objectivity. — El periodismo busca objetividad. A testimony can be more subjective. — Un testimonio puede ser más subjetivo. Each institutional report has its own focus. — Cada informe institucional tiene su propio enfoque. Interpreting the source well matters. — Interpretar bien la fuente es importante.",
       "sentences": [
         {
           "text": "Lenguaje modelo.",
@@ -176,104 +176,104 @@
           "phonemes": "leŋɡwˈaxe moðˈelo."
         },
         {
-          "text": "I was walking home when the storm began.",
+          "text": "Narrative stance changes depending on the medium.",
           "segments": [
             {
-              "text": "I was walking home when the storm began.",
+              "text": "Narrative stance changes depending on the medium.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪ wʌz wˈɔːkɪŋ hˈoʊm wɛn ðə stˈɔːɹm bɪɡˈæn."
+          "phonemes": "nˈæɹətˌɪv stˈæns tʃˈeɪndʒᵻz dᵻpˈɛndɪŋ ɔnðə mˈiːdiəm."
         },
         {
-          "text": "— Caminaba a casa cuando empezó la tormenta.",
+          "text": "— La postura narrativa cambia según el medio.",
           "segments": [
             {
-              "text": "— Caminaba a casa cuando empezó la tormenta.",
+              "text": "— La postura narrativa cambia según el medio.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— kˌaminˈaβa a kˈasa kwˌando ˌempesˈo la toɾmˈɛnta."
+          "phonemes": "— la postˈuɾa nˌaratˈiβa kˈambja seɣˈun el mˈeðjo."
         },
         {
-          "text": "The alarm went off while everyone was sleeping.",
+          "text": "Journalism seeks objectivity.",
           "segments": [
             {
-              "text": "The alarm went off while everyone was sleeping.",
+              "text": "Journalism seeks objectivity.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðɪ ɐlˈɑːɹm wɛnt ˈɔf wˌaɪl ˈɛvɹɪwˌʌn wʌz slˈiːpɪŋ."
+          "phonemes": "dʒˈɜːnəlˌɪzəm sˈiːks ɑːbdʒɪktˈɪvᵻɾi."
         },
         {
-          "text": "— La alarma sonó mientras todos dormían.",
+          "text": "— El periodismo busca objetividad.",
           "segments": [
             {
-              "text": "— La alarma sonó mientras todos dormían.",
+              "text": "— El periodismo busca objetividad.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— la alˈaɾma sonˈo mjˌentɾas tˈoðos ðoɾmˈian."
+          "phonemes": "— el pˌeɾjoðˈismo βˈuska ˌoβxetˌiβiðˈad."
         },
         {
-          "text": "There was little light when we arrived.",
+          "text": "A testimony can be more subjective.",
           "segments": [
             {
-              "text": "There was little light when we arrived.",
+              "text": "A testimony can be more subjective.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðɛɹwˌʌz lˈɪɾəl lˈaɪt wɛn wiː ɚɹˈaɪvd."
+          "phonemes": "ɐ tˈɛstᵻməni kæn biː mˈɔːɹ sʌbdʒˈɛktɪv."
         },
         {
-          "text": "— Había poca luz cuando llegamos.",
+          "text": "— Un testimonio puede ser más subjetivo.",
           "segments": [
             {
-              "text": "— Había poca luz cuando llegamos.",
+              "text": "— Un testimonio puede ser más subjetivo.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— aβˈia pˈoka lˈus kwˌando ʝeɣˈamos."
+          "phonemes": "— ˈun tˌestimˈonjo pwˈeðe sˈer mˈas sˌuβxetˈiβo."
         },
         {
-          "text": "Suddenly, a neighbor opened the door.",
+          "text": "Each institutional report has its own focus.",
           "segments": [
             {
-              "text": "Suddenly, a neighbor opened the door.",
+              "text": "Each institutional report has its own focus.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "sˈʌdənli, ɐ nˈeɪbɚɹ ˈoʊpənd ðə dˈɔːɹ."
+          "phonemes": "ˈiːtʃ ˌɪnstɪtˈuːʃənəl ɹᵻpˈɔːɹt hɐz ɪts ˈoʊn fˈoʊkəs."
         },
         {
-          "text": "— De repente, un vecino abrió la puerta.",
+          "text": "— Cada informe institucional tiene su propio enfoque.",
           "segments": [
             {
-              "text": "— De repente, un vecino abrió la puerta.",
+              "text": "— Cada informe institucional tiene su propio enfoque.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— de repˈɛnte, ˈum besˈino ˌaβɾiˈo la pwˈeɾta."
+          "phonemes": "— kˈaða infˈoɾme ˌinstitˌusjonˈal tjˈene su pɾˈopjo enfˈoke."
         },
         {
-          "text": "In the end, we solved the problem together.",
+          "text": "Interpreting the source well matters.",
           "segments": [
             {
-              "text": "In the end, we solved the problem together.",
+              "text": "Interpreting the source well matters.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɪnðɪ ˈɛnd, wiː sˈɑːlvd ðə pɹˈɑːbləm təɡˈɛðɚ."
+          "phonemes": "ɪntˈɜːpɹɪɾɪŋ ðə sˈɔːɹs wˈɛl mˈæɾɚz."
         },
         {
-          "text": "— Al final resolvimos el problema juntos.",
+          "text": "— Interpretar bien la fuente es importante.",
           "segments": [
             {
-              "text": "— Al final resolvimos el problema juntos.",
+              "text": "— Interpretar bien la fuente es importante.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— al finˈal rˌesolβˈimos el pɾoβlˈema xˈuntos."
+          "phonemes": "— ˌinteɾpɾetˈaɾ βjˈen la fwˈɛnte ˈes ˌimpoɾtˈante."
         }
       ]
     },
@@ -325,129 +325,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "suddenly",
+      "text": "narrative stance",
       "sentences": [
         {
-          "text": "suddenly",
+          "text": "narrative stance",
           "segments": [
             {
-              "text": "suddenly",
+              "text": "narrative stance",
               "lang": "en-us"
             }
           ],
-          "phonemes": "sˈʌdənli"
+          "phonemes": "nˈæɹətˌɪv stˈæns"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "while",
+      "text": "journalism",
       "sentences": [
         {
-          "text": "while",
+          "text": "journalism",
           "segments": [
             {
-              "text": "while",
+              "text": "journalism",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wˈaɪl"
+          "phonemes": "dʒˈɜːnəlˌɪzəm"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "when",
+      "text": "testimony",
       "sentences": [
         {
-          "text": "when",
+          "text": "testimony",
           "segments": [
             {
-              "text": "when",
+              "text": "testimony",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wˌɛn"
+          "phonemes": "tˈɛstᵻməni"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "already",
+      "text": "institutional report",
       "sentences": [
         {
-          "text": "already",
+          "text": "institutional report",
           "segments": [
             {
-              "text": "already",
+              "text": "institutional report",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɔːlɹˈɛdi"
+          "phonemes": "ˌɪnstɪtˈuːʃənəl ɹᵻpˈɔːɹt"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "in the end",
+      "text": "a focus",
       "sentences": [
         {
-          "text": "in the end",
+          "text": "a focus",
           "segments": [
             {
-              "text": "in the end",
+              "text": "a focus",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɪnðɪ ˈɛnd"
+          "phonemes": "ɐ fˈoʊkəs"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "smoke",
+      "text": "objective",
       "sentences": [
         {
-          "text": "smoke",
+          "text": "objective",
           "segments": [
             {
-              "text": "smoke",
+              "text": "objective",
               "lang": "en-us"
             }
           ],
-          "phonemes": "smˈoʊk"
+          "phonemes": "ɑːbdʒˈɛktɪv"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "an alarm",
+      "text": "subjective",
       "sentences": [
         {
-          "text": "an alarm",
+          "text": "subjective",
           "segments": [
             {
-              "text": "an alarm",
+              "text": "subjective",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐn ɐlˈɑːɹm"
+          "phonemes": "sʌbdʒˈɛktɪv"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "to solve",
+      "text": "to interpret",
       "sentences": [
         {
-          "text": "to solve",
+          "text": "to interpret",
           "segments": [
             {
-              "text": "to solve",
+              "text": "to interpret",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə sˈɑːlv"
+          "phonemes": "tʊ ɪntˈɜːpɹɪt"
         }
       ]
     }

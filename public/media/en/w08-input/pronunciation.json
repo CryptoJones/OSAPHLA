@@ -163,7 +163,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Lenguaje modelo. My older sister is very kind. — Mi hermana mayor es muy amable. I know Elena's parents. — Conozco a los padres de Elena. Our family lives in three cities. — Nuestra familia vive en tres ciudades. Is this portrait yours? — ¿Es tuyo este retrato? I have two brothers and a cousin. — Tengo dos hermanos y una prima o un primo.",
+      "text": "Lenguaje modelo. Inés's family is large. — La familia de Inés es grande. It lives in several countries. — Vive en varios países. Her older cousin is a doctor. — Su prima mayor es médica. Her brothers are students. — Sus hermanos son estudiantes. Her best friend participates in every celebration. — Su mejor amigo participa en cada celebración.",
       "sentences": [
         {
           "text": "Lenguaje modelo.",
@@ -176,104 +176,104 @@
           "phonemes": "leŋɡwˈaxe moðˈelo."
         },
         {
-          "text": "My older sister is very kind.",
+          "text": "Inés's family is large.",
           "segments": [
             {
-              "text": "My older sister is very kind.",
+              "text": "Inés's family is large.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "maɪ ˈoʊldɚ sˈɪstɚɹ ɪz vˈɛɹi kˈaɪnd."
+          "phonemes": "ɪnˌiːɐkjˈuːtzᵻz fˈæmɪli ɪz lˈɑːɹdʒ."
         },
         {
-          "text": "— Mi hermana mayor es muy amable.",
+          "text": "— La familia de Inés es grande.",
           "segments": [
             {
-              "text": "— Mi hermana mayor es muy amable.",
+              "text": "— La familia de Inés es grande.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— mi eɾmˈana maʝˈoɾ ˈes mˈuj amˈaβle."
+          "phonemes": "— la famˈilja ðe inˈes ˈes ɣɾˈande."
         },
         {
-          "text": "I know Elena's parents.",
+          "text": "It lives in several countries.",
           "segments": [
             {
-              "text": "I know Elena's parents.",
+              "text": "It lives in several countries.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪ nˈoʊ ᵻlˈiːnəz pˈɛɹənts."
+          "phonemes": "ɪt lˈɪvz ɪn sˈɛvɹəl kˈʌntɹiz."
         },
         {
-          "text": "— Conozco a los padres de Elena.",
+          "text": "— Vive en varios países.",
           "segments": [
             {
-              "text": "— Conozco a los padres de Elena.",
+              "text": "— Vive en varios países.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— konˈosko a los pˈaðɾes ðe elˈena."
+          "phonemes": "— bˈiβe em bˈaɾjos paˈises."
         },
         {
-          "text": "Our family lives in three cities.",
+          "text": "Her older cousin is a doctor.",
           "segments": [
             {
-              "text": "Our family lives in three cities.",
+              "text": "Her older cousin is a doctor.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ˌaʊɚ fˈæmɪli lˈaɪvz ɪn θɹˈiː sˈɪɾiz."
+          "phonemes": "hɜːɹ ˈoʊldɚ kˈʌzən ɪz ɐ dˈɑːktɚ."
         },
         {
-          "text": "— Nuestra familia vive en tres ciudades.",
+          "text": "— Su prima mayor es médica.",
           "segments": [
             {
-              "text": "— Nuestra familia vive en tres ciudades.",
+              "text": "— Su prima mayor es médica.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— nwˌestɾa famˈilja βˈiβe en tɾˈes sjuðˈaðes."
+          "phonemes": "— su pɾˈima maʝˈoɾ ˈes mˈeðika."
         },
         {
-          "text": "Is this portrait yours?",
+          "text": "Her brothers are students.",
           "segments": [
             {
-              "text": "Is this portrait yours?",
+              "text": "Her brothers are students.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɪz ðɪs pˈɔːɹtɹɪt jˈɔːɹz?"
+          "phonemes": "hɜː bɹˈʌðɚz ɑːɹ stˈuːdənts."
         },
         {
-          "text": "— ¿Es tuyo este retrato?",
+          "text": "— Sus hermanos son estudiantes.",
           "segments": [
             {
-              "text": "— ¿Es tuyo este retrato?",
+              "text": "— Sus hermanos son estudiantes.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— ˈes tˈuʝo ˈeste retɾˈato?"
+          "phonemes": "— sus eɾmˈanos sˈon ˌestuðjˈantes."
         },
         {
-          "text": "I have two brothers and a cousin.",
+          "text": "Her best friend participates in every celebration.",
           "segments": [
             {
-              "text": "I have two brothers and a cousin.",
+              "text": "Her best friend participates in every celebration.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪ hæv tˈuː bɹˈʌðɚz ænd ɐ kˈʌzən."
+          "phonemes": "hɜː bˈɛst fɹˈɛnd pɑːɹtˈɪsᵻpˌeɪts ɪn ˈɛvɹi sˌɛləbɹˈeɪʃən."
         },
         {
-          "text": "— Tengo dos hermanos y una prima o un primo.",
+          "text": "— Su mejor amigo participa en cada celebración.",
           "segments": [
             {
-              "text": "— Tengo dos hermanos y una prima o un primo.",
+              "text": "— Su mejor amigo participa en cada celebración.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— tˈɛŋɡo ðˈos eɾmˈanos i ˈuna pɾˈima o ˈum pɾˈimo."
+          "phonemes": "— su mexˈoɾ amˈiɣo pˌaɾtisˈipa en kˈaða sˌeleβɾasjˈon."
         }
       ]
     },
@@ -325,129 +325,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "family",
+      "text": "large",
       "sentences": [
         {
-          "text": "family",
+          "text": "large",
           "segments": [
             {
-              "text": "family",
+              "text": "large",
               "lang": "en-us"
             }
           ],
-          "phonemes": "fˈæmɪli"
+          "phonemes": "lˈɑːɹdʒ"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "mother",
+      "text": "a country",
       "sentences": [
         {
-          "text": "mother",
+          "text": "a country",
           "segments": [
             {
-              "text": "mother",
+              "text": "a country",
               "lang": "en-us"
             }
           ],
-          "phonemes": "mˈʌðɚ"
+          "phonemes": "ɐ kˈʌntɹi"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "father",
+      "text": "a doctor",
       "sentences": [
         {
-          "text": "father",
+          "text": "a doctor",
           "segments": [
             {
-              "text": "father",
+              "text": "a doctor",
               "lang": "en-us"
             }
           ],
-          "phonemes": "fˈɑːðɚ"
+          "phonemes": "ɐ dˈɑːktɚ"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "sister",
+      "text": "a student",
       "sentences": [
         {
-          "text": "sister",
+          "text": "a student",
           "segments": [
             {
-              "text": "sister",
+              "text": "a student",
               "lang": "en-us"
             }
           ],
-          "phonemes": "sˈɪstɚ"
+          "phonemes": "ɐ stˈuːdənt"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "friend",
+      "text": "a celebration",
       "sentences": [
         {
-          "text": "friend",
+          "text": "a celebration",
           "segments": [
             {
-              "text": "friend",
+              "text": "a celebration",
               "lang": "en-us"
             }
           ],
-          "phonemes": "fɹˈɛnd"
+          "phonemes": "ɐ sˌɛləbɹˈeɪʃən"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "young",
+      "text": "to participate",
       "sentences": [
         {
-          "text": "young",
+          "text": "to participate",
           "segments": [
             {
-              "text": "young",
+              "text": "to participate",
               "lang": "en-us"
             }
           ],
-          "phonemes": "jˈʌŋ"
+          "phonemes": "tə pɑːɹtˈɪsᵻpˌeɪt"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "older",
+      "text": "several",
       "sentences": [
         {
-          "text": "older",
+          "text": "several",
           "segments": [
             {
-              "text": "older",
+              "text": "several",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ˈoʊldɚ"
+          "phonemes": "sˈɛvɹəl"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "kind",
+      "text": "to live",
       "sentences": [
         {
-          "text": "kind",
+          "text": "to live",
           "segments": [
             {
-              "text": "kind",
+              "text": "to live",
               "lang": "en-us"
             }
           ],
-          "phonemes": "kˈaɪnd"
+          "phonemes": "tə lˈɪv"
         }
       ]
     }

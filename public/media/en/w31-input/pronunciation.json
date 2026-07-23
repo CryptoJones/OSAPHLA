@@ -163,7 +163,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Lenguaje modelo. The second option is far more viable. — La segunda opción es mucho más viable. The least clear report was the first one. — El informe menos claro fue el primero. The project is working out well. — El proyecto está saliendo bien. That figure should be treated cautiously. — Esa cifra debe tratarse con cautela. The analysis was right, but evidence is still missing. — El análisis fue correcto, pero todavía falta evidencia.",
+      "text": "Lenguaje modelo. The team celebrated the project's progress. — El equipo celebró el avance del proyecto. It was going very well up to that point. — Iba viento en popa hasta ese momento. An analyst asked for caution with the figures. — Una analista pidió cautela con las cifras. Her warning proved correct. — Su advertencia resultó correcta. A mistake appeared shortly after. — Un error apareció poco después.",
       "sentences": [
         {
           "text": "Lenguaje modelo.",
@@ -176,112 +176,104 @@
           "phonemes": "leŋɡwˈaxe moðˈelo."
         },
         {
-          "text": "The second option is far more viable.",
+          "text": "The team celebrated the project's progress.",
           "segments": [
             {
-              "text": "The second option is far more viable.",
+              "text": "The team celebrated the project's progress.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə sˈɛkənd ˈɑːpʃən ɪz fˈɑːɹmˌɔːɹ vˈaɪəbəl."
+          "phonemes": "ðə tˈiːm sˈɛləbɹˌeɪɾᵻd ðə pɹˈɑːdʒɛkts pɹˈɑːɡɹɛs."
         },
         {
-          "text": "— La segunda opción es mucho más viable.",
+          "text": "— El equipo celebró el avance del proyecto.",
           "segments": [
             {
-              "text": "— La segunda opción es mucho más ",
-              "lang": "es-419"
-            },
-            {
-              "text": "viable",
-              "lang": "en-us"
-            },
-            {
-              "text": ".",
+              "text": "— El equipo celebró el avance del proyecto.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— la seɣˈunda opsjˈon ˈes mˈutʃo mˈas vˈaɪəbəl ."
+          "phonemes": "— el ekˈipo sˌeleβɾˈo el aβˈanse ðel pɾoʝˈekto."
         },
         {
-          "text": "The least clear report was the first one.",
+          "text": "It was going very well up to that point.",
           "segments": [
             {
-              "text": "The least clear report was the first one.",
+              "text": "It was going very well up to that point.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə lˈiːst klˈɪɹ ɹᵻpˈɔːɹt wʌzðə fˈɜːst wˌʌn."
+          "phonemes": "ɪt wʌz ɡˌoʊɪŋ vˈɛɹi wˈɛl ˌʌp tə ðæt pˈɔɪnt."
         },
         {
-          "text": "— El informe menos claro fue el primero.",
+          "text": "— Iba viento en popa hasta ese momento.",
           "segments": [
             {
-              "text": "— El informe menos claro fue el primero.",
+              "text": "— Iba viento en popa hasta ese momento.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— el infˈoɾme mˈenos klˈaɾo fwˈe el pɾimˈeɾo."
+          "phonemes": "— ˈiβa βjˈɛnto em pˈopa ˌasta ˈese momˈɛnto."
         },
         {
-          "text": "The project is working out well.",
+          "text": "An analyst asked for caution with the figures.",
           "segments": [
             {
-              "text": "The project is working out well.",
+              "text": "An analyst asked for caution with the figures.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə pɹˈɑːdʒɛkt ɪz wˈɜːkɪŋ ˈaʊt wˈɛl."
+          "phonemes": "ɐn ˈænɐlˌɪst ˈæskt fɔːɹ kˈɔːʃən wɪððə fˈɪɡjɚz."
         },
         {
-          "text": "— El proyecto está saliendo bien.",
+          "text": "— Una analista pidió cautela con las cifras.",
           "segments": [
             {
-              "text": "— El proyecto está saliendo bien.",
+              "text": "— Una analista pidió cautela con las cifras.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— el pɾoʝˈekto estˈa saljˈɛndo βjˈen."
+          "phonemes": "— ˈuna ˌanalˈista piðjˈo kaʊtˈela kon las sˈifɾas."
         },
         {
-          "text": "That figure should be treated cautiously.",
+          "text": "Her warning proved correct.",
           "segments": [
             {
-              "text": "That figure should be treated cautiously.",
+              "text": "Her warning proved correct.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðæt fˈɪɡjɚ ʃˌʊd biː tɹˈiːɾᵻd kˈɔːʃəsli."
+          "phonemes": "hɜː wˈɔːɹnɪŋ pɹˈuːvd kɚɹˈɛkt."
         },
         {
-          "text": "— Esa cifra debe tratarse con cautela.",
+          "text": "— Su advertencia resultó correcta.",
           "segments": [
             {
-              "text": "— Esa cifra debe tratarse con cautela.",
+              "text": "— Su advertencia resultó correcta.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— ˈesa sˈifɾa ðˈeβe tɾatˈaɾse kon kaʊtˈela."
+          "phonemes": "— su ˌaðβeɾtˈɛnsja rˌesultˈo korˈekta."
         },
         {
-          "text": "The analysis was right, but evidence is still missing.",
+          "text": "A mistake appeared shortly after.",
           "segments": [
             {
-              "text": "The analysis was right, but evidence is still missing.",
+              "text": "A mistake appeared shortly after.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðɪ ɐnˈæləsˌɪs wʌz ɹˈaɪt, bˌʌt ˈɛvɪdəns ɪz stˈɪl mˈɪsɪŋ."
+          "phonemes": "ɐ mɪstˈeɪk ɐpˈɪɹd ʃˈɔːɹtli ˈæftɚ."
         },
         {
-          "text": "— El análisis fue correcto, pero todavía falta evidencia.",
+          "text": "— Un error apareció poco después.",
           "segments": [
             {
-              "text": "— El análisis fue correcto, pero todavía falta evidencia.",
+              "text": "— Un error apareció poco después.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— el anˈalisis fwˈe korˈekto, pˌeɾo tˌoðaβˈia fˈalta ˌeβiðˈɛnsja."
+          "phonemes": "— ˈun erˈoɾ ˌapaɾesjˈo pˈoko ðespwˈes."
         }
       ]
     },
@@ -333,129 +325,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "viable",
+      "text": "to celebrate",
       "sentences": [
         {
-          "text": "viable",
+          "text": "to celebrate",
           "segments": [
             {
-              "text": "viable",
+              "text": "to celebrate",
               "lang": "en-us"
             }
           ],
-          "phonemes": "vˈaɪəbəl"
+          "phonemes": "tə sˈɛləbɹˌeɪt"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "efficient",
+      "text": "a team",
       "sentences": [
         {
-          "text": "efficient",
+          "text": "a team",
           "segments": [
             {
-              "text": "efficient",
+              "text": "a team",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɪfˈɪʃənt"
+          "phonemes": "ɐ tˈiːm"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "reliable",
+      "text": "an analyst",
       "sentences": [
         {
-          "text": "reliable",
+          "text": "an analyst",
           "segments": [
             {
-              "text": "reliable",
+              "text": "an analyst",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɹᵻlˈaɪəbəl"
+          "phonemes": "ɐn ˈænɐlˌɪst"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "slightly",
+      "text": "caution",
       "sentences": [
         {
-          "text": "slightly",
+          "text": "caution",
           "segments": [
             {
-              "text": "slightly",
+              "text": "caution",
               "lang": "en-us"
             }
           ],
-          "phonemes": "slˈaɪtli"
+          "phonemes": "kˈɔːʃən"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "far more",
+      "text": "a warning",
       "sentences": [
         {
-          "text": "far more",
+          "text": "a warning",
           "segments": [
             {
-              "text": "far more",
+              "text": "a warning",
               "lang": "en-us"
             }
           ],
-          "phonemes": "fˈɑːɹmˌɔːɹ"
+          "phonemes": "ɐ wˈɔːɹnɪŋ"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "to work out",
+      "text": "to prove correct",
       "sentences": [
         {
-          "text": "to work out",
+          "text": "to prove correct",
           "segments": [
             {
-              "text": "to work out",
+              "text": "to prove correct",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə wˈɜːk ˈaʊt"
+          "phonemes": "tə pɹˈuːv kɚɹˈɛkt"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "to point out",
+      "text": "to appear",
       "sentences": [
         {
-          "text": "to point out",
+          "text": "to appear",
           "segments": [
             {
-              "text": "to point out",
+              "text": "to appear",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə pˈɔɪnt ˈaʊt"
+          "phonemes": "tʊ ɐpˈɪɹ"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "cautiously",
+      "text": "shortly after",
       "sentences": [
         {
-          "text": "cautiously",
+          "text": "shortly after",
           "segments": [
             {
-              "text": "cautiously",
+              "text": "shortly after",
               "lang": "en-us"
             }
           ],
-          "phonemes": "kˈɔːʃəsli"
+          "phonemes": "ʃˈɔːɹtli ˈæftɚ"
         }
       ]
     }

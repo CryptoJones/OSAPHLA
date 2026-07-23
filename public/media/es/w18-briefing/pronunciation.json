@@ -201,7 +201,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Model language. No pude entrar porque perdí la llave. — I couldn't get in because I lost the key. Fuimos al pueblo por otra carretera. — We went to the town by another road. Allí conocimos al nuevo alcalde. — There we met the new mayor. Supe la verdad esa misma tarde. — I learned the truth that same afternoon. Quiso ayudar, pero no tuvo tiempo. — He or she wanted to help but did not have time.",
+      "text": "Model language. No pude entrar porque perdí la llave. — I couldn't enter because I lost the key. Fuimos al pueblo por otra carretera. — We went to the town by another road. Allí conocimos al nuevo alcalde. — There we met the new mayor. Supe la verdad esa misma tarde. — I found out the truth that same afternoon. Quiso ayudar, pero no tuvo tiempo. — He or she wanted to help but didn't have time.",
       "sentences": [
         {
           "text": "Model language.",
@@ -224,14 +224,14 @@
           "phonemes": "nˈo pˈuðe entɾˈaɾ pˌoɾke peɾðˈi la ʝˈaβe."
         },
         {
-          "text": "— I couldn't get in because I lost the key.",
+          "text": "— I couldn't enter because I lost the key.",
           "segments": [
             {
-              "text": "— I couldn't get in because I lost the key.",
+              "text": "— I couldn't enter because I lost the key.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— aɪ kˌʊdənt ɡɛt ɪn bɪkˈʌz aɪ lˈɔst ðə kˈiː."
+          "phonemes": "— aɪ kˌʊdənt ˈɛntɚ bɪkˈʌz aɪ lˈɔst ðə kˈiː."
         },
         {
           "text": "Fuimos al pueblo por otra carretera.",
@@ -284,14 +284,14 @@
           "phonemes": "sˈupe la βeɾðˈað ˈesa mˈisma tˈaɾðe."
         },
         {
-          "text": "— I learned the truth that same afternoon.",
+          "text": "— I found out the truth that same afternoon.",
           "segments": [
             {
-              "text": "— I learned the truth that same afternoon.",
+              "text": "— I found out the truth that same afternoon.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— aɪ lˈɜːnd ðə tɹˈuːθ ðæt sˈeɪm ˌæftɚnˈuːn."
+          "phonemes": "— aɪ fˈaʊnd ˈaʊt ðə tɹˈuːθ ðæt sˈeɪm ˌæftɚnˈuːn."
         },
         {
           "text": "Quiso ayudar, pero no tuvo tiempo.",
@@ -304,14 +304,14 @@
           "phonemes": "kˈiso ˌaʝuðˈaɾ, pˌeɾo nˈo tˈuβo tjˈempo."
         },
         {
-          "text": "— He or she wanted to help but did not have time.",
+          "text": "— He or she wanted to help but didn't have time.",
           "segments": [
             {
-              "text": "— He or she wanted to help but did not have time.",
+              "text": "— He or she wanted to help but didn't have time.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— hiː ɔːɹ ʃiː wˈɔntᵻd tə hˈɛlp bˌʌt dɪdnˌɑːt hæv tˈaɪm."
+          "phonemes": "— hiː ɔːɹ ʃiː wˈɔntᵻd tə hˈɛlp bˌʌt dˈɪdnt hæv tˈaɪm."
         }
       ]
     },

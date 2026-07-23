@@ -183,7 +183,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Model language. Caminaba a casa cuando empezó la tormenta. — I was walking home when the storm began. Mientras todos dormían, sonó la alarma. — While everyone was sleeping, the alarm went off. Ya había poca luz cuando llegamos. — There was already little light when we arrived. De repente, un vecino abrió la puerta. — Suddenly, a neighbor opened the door. Al final resolvimos el problema juntos. — In the end, we solved the problem together.",
+      "text": "Model language. Elena volvía del trabajo cuando vio humo. — Elena was returning from work when she saw smoke. Mientras llamaba a emergencias, dos vecinos ayudaron a una familia a salir. — While she called emergency services, two neighbors helped a family leave. Los bomberos llegaron rápido. — The firefighters arrived quickly. Controlaron el incendio en minutos. — They controlled the fire in minutes. Todo terminó bien. — Everything ended well.",
       "sentences": [
         {
           "text": "Model language.",
@@ -196,104 +196,104 @@
           "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
         },
         {
-          "text": "Caminaba a casa cuando empezó la tormenta.",
+          "text": "Elena volvía del trabajo cuando vio humo.",
           "segments": [
             {
-              "text": "Caminaba a casa cuando empezó la tormenta.",
+              "text": "Elena volvía del trabajo cuando vio humo.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "kˌaminˈaβa a kˈasa kwˌando ˌempesˈo la toɾmˈɛnta."
+          "phonemes": "elˈena βolβˈia ðel tɾaβˈaxo kwˌando βjˈo ˈumo."
         },
         {
-          "text": "— I was walking home when the storm began.",
+          "text": "— Elena was returning from work when she saw smoke.",
           "segments": [
             {
-              "text": "— I was walking home when the storm began.",
+              "text": "— Elena was returning from work when she saw smoke.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— aɪ wʌz wˈɔːkɪŋ hˈoʊm wɛn ðə stˈɔːɹm bɪɡˈæn."
+          "phonemes": "— ᵻlˈiːnə wʌz ɹᵻtˈɜːnɪŋ fɹʌm wˈɜːk wɛn ʃiː sˈɔː smˈoʊk."
         },
         {
-          "text": "Mientras todos dormían, sonó la alarma.",
+          "text": "Mientras llamaba a emergencias, dos vecinos ayudaron a una familia a salir.",
           "segments": [
             {
-              "text": "Mientras todos dormían, sonó la alarma.",
+              "text": "Mientras llamaba a emergencias, dos vecinos ayudaron a una familia a salir.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "mjˌentɾas tˈoðos ðoɾmˈian, sonˈo la alˈaɾma."
+          "phonemes": "mjˌentɾas ʝamˈaβa a ˌemeɾxˈɛnsjas, dˈos βesˈinos ˌaʝuðˈaɾon a ˈuna famˈilja a salˈiɾ."
         },
         {
-          "text": "— While everyone was sleeping, the alarm went off.",
+          "text": "— While she called emergency services, two neighbors helped a family leave.",
           "segments": [
             {
-              "text": "— While everyone was sleeping, the alarm went off.",
+              "text": "— While she called emergency services, two neighbors helped a family leave.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— wˌaɪl ˈɛvɹɪwˌʌn wʌz slˈiːpɪŋ, ðɪ ɐlˈɑːɹm wɛnt ˈɔf."
+          "phonemes": "— wˌaɪl ʃiː kˈɔːld ɪmˈɜːdʒənsi sˈɜːvɪsᵻz, tˈuː nˈeɪbɚz hˈɛlpt ɐ fˈæmɪli lˈiːv."
         },
         {
-          "text": "Ya había poca luz cuando llegamos.",
+          "text": "Los bomberos llegaron rápido.",
           "segments": [
             {
-              "text": "Ya había poca luz cuando llegamos.",
+              "text": "Los bomberos llegaron rápido.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ʝˈa aβˈia pˈoka lˈus kwˌando ʝeɣˈamos."
+          "phonemes": "los βombˈeɾos ʝeɣˈaɾon rˈapiðo."
         },
         {
-          "text": "— There was already little light when we arrived.",
+          "text": "— The firefighters arrived quickly.",
           "segments": [
             {
-              "text": "— There was already little light when we arrived.",
+              "text": "— The firefighters arrived quickly.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ðɛɹwˌʌz ɔːlɹˌɛdi lˈɪɾəl lˈaɪt wɛn wiː ɚɹˈaɪvd."
+          "phonemes": "— ðə fˈaɪɚfaɪɾɚz ɚɹˈaɪvd kwˈɪkli."
         },
         {
-          "text": "De repente, un vecino abrió la puerta.",
+          "text": "Controlaron el incendio en minutos.",
           "segments": [
             {
-              "text": "De repente, un vecino abrió la puerta.",
+              "text": "Controlaron el incendio en minutos.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "de repˈɛnte, ˈum besˈino ˌaβɾiˈo la pwˈeɾta."
+          "phonemes": "kˌontɾolˈaɾon el insˈɛndjo en minˈutos."
         },
         {
-          "text": "— Suddenly, a neighbor opened the door.",
+          "text": "— They controlled the fire in minutes.",
           "segments": [
             {
-              "text": "— Suddenly, a neighbor opened the door.",
+              "text": "— They controlled the fire in minutes.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— sˈʌdənli, ɐ nˈeɪbɚɹ ˈoʊpənd ðə dˈɔːɹ."
+          "phonemes": "— ðeɪ kəntɹˈoʊld ðə fˈaɪɚɹ ɪn mˈɪnɪts."
         },
         {
-          "text": "Al final resolvimos el problema juntos.",
+          "text": "Todo terminó bien.",
           "segments": [
             {
-              "text": "Al final resolvimos el problema juntos.",
+              "text": "Todo terminó bien.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "al finˈal rˌesolβˈimos el pɾoβlˈema xˈuntos."
+          "phonemes": "tˈoðo tˌeɾminˈo βjˈen."
         },
         {
-          "text": "— In the end, we solved the problem together.",
+          "text": "— Everything ended well.",
           "segments": [
             {
-              "text": "— In the end, we solved the problem together.",
+              "text": "— Everything ended well.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ɪnðɪ ˈɛnd, wiː sˈɑːlvd ðə pɹˈɑːbləm təɡˈɛðɚ."
+          "phonemes": "— ˈɛvɹɪθˌɪŋ ˈɛndᵻd wˈɛl."
         }
       ]
     },
@@ -345,129 +345,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "de repente",
+      "text": "volver",
       "sentences": [
         {
-          "text": "de repente",
+          "text": "volver",
           "segments": [
             {
-              "text": "de repente",
+              "text": "volver",
               "lang": "es-419"
             }
           ],
-          "phonemes": "de repˈɛnte"
+          "phonemes": "bolβˈeɾ"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "en ese momento",
+      "text": "el humo",
       "sentences": [
         {
-          "text": "en ese momento",
+          "text": "el humo",
           "segments": [
             {
-              "text": "en ese momento",
+              "text": "el humo",
               "lang": "es-419"
             }
           ],
-          "phonemes": "en ˈese momˈɛnto"
+          "phonemes": "el ˈumo"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "cuando",
+      "text": "ayudar",
       "sentences": [
         {
-          "text": "cuando",
+          "text": "ayudar",
           "segments": [
             {
-              "text": "cuando",
+              "text": "ayudar",
               "lang": "es-419"
             }
           ],
-          "phonemes": "kwˈando"
+          "phonemes": "ˌaʝuðˈaɾ"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "mientras",
+      "text": "salir",
       "sentences": [
         {
-          "text": "mientras",
+          "text": "salir",
           "segments": [
             {
-              "text": "mientras",
+              "text": "salir",
               "lang": "es-419"
             }
           ],
-          "phonemes": "mjˈɛntɾas"
+          "phonemes": "salˈiɾ"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "todavía",
+      "text": "el bombero",
       "sentences": [
         {
-          "text": "todavía",
+          "text": "el bombero",
           "segments": [
             {
-              "text": "todavía",
+              "text": "el bombero",
               "lang": "es-419"
             }
           ],
-          "phonemes": "tˌoðaβˈia"
+          "phonemes": "el βombˈeɾo"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "ya",
+      "text": "controlar",
       "sentences": [
         {
-          "text": "ya",
+          "text": "controlar",
           "segments": [
             {
-              "text": "ya",
+              "text": "controlar",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ʝˈa"
+          "phonemes": "kˌontɾolˈaɾ"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "resultar",
+      "text": "el incendio",
       "sentences": [
         {
-          "text": "resultar",
+          "text": "el incendio",
           "segments": [
             {
-              "text": "resultar",
+              "text": "el incendio",
               "lang": "es-419"
             }
           ],
-          "phonemes": "rˌesultˈaɾ"
+          "phonemes": "el insˈɛndjo"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "resolver",
+      "text": "rápido",
       "sentences": [
         {
-          "text": "resolver",
+          "text": "rápido",
           "segments": [
             {
-              "text": "resolver",
+              "text": "rápido",
               "lang": "es-419"
             }
           ],
-          "phonemes": "rˌesolβˈeɾ"
+          "phonemes": "rˈapiðo"
         }
       ]
     }

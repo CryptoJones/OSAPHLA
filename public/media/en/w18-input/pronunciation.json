@@ -183,7 +183,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Lenguaje modelo. I couldn't enter because I lost the key. — No pude entrar porque perdí la llave. We went to town by another road. — Fuimos al pueblo por otra carretera. We met the new mayor there. — Allí conocimos a la nueva alcaldesa. I learned the truth that afternoon. — Supe la verdad esa tarde. They wanted to help but didn't have time. — Querían ayudar, pero no tenían tiempo.",
+      "text": "Lenguaje modelo. The team wanted to cross the bridge. — El equipo quiso cruzar el puente. It couldn't cross because of the storm. — No pudo cruzar por la tormenta. It went by another road. — Fue por otra carretera. There it found out the storm had damaged the road. — Allí supo que la tormenta dañó el camino. In the end it had to return. — Finalmente tuvo que regresar.",
       "sentences": [
         {
           "text": "Lenguaje modelo.",
@@ -196,104 +196,104 @@
           "phonemes": "leŋɡwˈaxe moðˈelo."
         },
         {
-          "text": "I couldn't enter because I lost the key.",
+          "text": "The team wanted to cross the bridge.",
           "segments": [
             {
-              "text": "I couldn't enter because I lost the key.",
+              "text": "The team wanted to cross the bridge.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪ kˌʊdənt ˈɛntɚ bɪkˈʌz aɪ lˈɔst ðə kˈiː."
+          "phonemes": "ðə tˈiːm wˈɔntᵻd tə kɹˈɔs ðə bɹˈɪdʒ."
         },
         {
-          "text": "— No pude entrar porque perdí la llave.",
+          "text": "— El equipo quiso cruzar el puente.",
           "segments": [
             {
-              "text": "— No pude entrar porque perdí la llave.",
+              "text": "— El equipo quiso cruzar el puente.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— nˈo pˈuðe entɾˈaɾ pˌoɾke peɾðˈi la ʝˈaβe."
+          "phonemes": "— el ekˈipo kˈiso kɾusˈaɾ el pwˈɛnte."
         },
         {
-          "text": "We went to town by another road.",
+          "text": "It couldn't cross because of the storm.",
           "segments": [
             {
-              "text": "We went to town by another road.",
+              "text": "It couldn't cross because of the storm.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wiː wɛnt tə tˈaʊn baɪ ɐnˈʌðɚ ɹˈoʊd."
+          "phonemes": "ɪt kˌʊdənt kɹˈɔs bɪkˈʌz ʌvðə stˈɔːɹm."
         },
         {
-          "text": "— Fuimos al pueblo por otra carretera.",
+          "text": "— No pudo cruzar por la tormenta.",
           "segments": [
             {
-              "text": "— Fuimos al pueblo por otra carretera.",
+              "text": "— No pudo cruzar por la tormenta.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— fwˈimos al pwˈeβlo poɾ ˈotɾa kˌaretˈeɾa."
+          "phonemes": "— nˈo pˈuðo kɾusˈaɾ poɾ la toɾmˈɛnta."
         },
         {
-          "text": "We met the new mayor there.",
+          "text": "It went by another road.",
           "segments": [
             {
-              "text": "We met the new mayor there.",
+              "text": "It went by another road.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wiː mˈɛt ðə nˈuː mˈeɪɚ ðˈɛɹ."
+          "phonemes": "ɪt wɛnt baɪ ɐnˈʌðɚ ɹˈoʊd."
         },
         {
-          "text": "— Allí conocimos a la nueva alcaldesa.",
+          "text": "— Fue por otra carretera.",
           "segments": [
             {
-              "text": "— Allí conocimos a la nueva alcaldesa.",
+              "text": "— Fue por otra carretera.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— ajjˈi kˌonosˈimos a la nwˈeβa ˌalkalðˈesa."
+          "phonemes": "— fwˈe poɾ ˈotɾa kˌaretˈeɾa."
         },
         {
-          "text": "I learned the truth that afternoon.",
+          "text": "There it found out the storm had damaged the road.",
           "segments": [
             {
-              "text": "I learned the truth that afternoon.",
+              "text": "There it found out the storm had damaged the road.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪ lˈɜːnd ðə tɹˈuːθ ðæt ˌæftɚnˈuːn."
+          "phonemes": "ðɛɹ ɪt fˈaʊnd ˈaʊt ðə stˈɔːɹm hæd dˈæmɪdʒd ðə ɹˈoʊd."
         },
         {
-          "text": "— Supe la verdad esa tarde.",
+          "text": "— Allí supo que la tormenta dañó el camino.",
           "segments": [
             {
-              "text": "— Supe la verdad esa tarde.",
+              "text": "— Allí supo que la tormenta dañó el camino.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— sˈupe la βeɾðˈað ˈesa tˈaɾðe."
+          "phonemes": "— ajjˈi sˈupo ke la toɾmˈɛnta ðaɲˈo el kamˈino."
         },
         {
-          "text": "They wanted to help but didn't have time.",
+          "text": "In the end it had to return.",
           "segments": [
             {
-              "text": "They wanted to help but didn't have time.",
+              "text": "In the end it had to return.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðeɪ wˈɔntᵻd tə hˈɛlp bˌʌt dˈɪdnt hæv tˈaɪm."
+          "phonemes": "ɪnðɪ ˈɛnd ɪt hædtə ɹᵻtˈɜːn."
         },
         {
-          "text": "— Querían ayudar, pero no tenían tiempo.",
+          "text": "— Finalmente tuvo que regresar.",
           "segments": [
             {
-              "text": "— Querían ayudar, pero no tenían tiempo.",
+              "text": "— Finalmente tuvo que regresar.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— keɾˈian ˌaʝuðˈaɾ, pˌeɾo nˈo tenˈian tjˈempo."
+          "phonemes": "— finˈalmˈente tˈuβo ke rˌeɣɾesˈaɾ."
         }
       ]
     },
@@ -345,129 +345,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "to go",
+      "text": "a team",
       "sentences": [
         {
-          "text": "to go",
+          "text": "a team",
           "segments": [
             {
-              "text": "to go",
+              "text": "a team",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə ɡˈoʊ"
+          "phonemes": "ɐ tˈiːm"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "to see",
+      "text": "a bridge",
       "sentences": [
         {
-          "text": "to see",
+          "text": "a bridge",
           "segments": [
             {
-              "text": "to see",
+              "text": "a bridge",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə sˈiː"
+          "phonemes": "ɐ bɹˈɪdʒ"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "to find",
+      "text": "to cross",
       "sentences": [
         {
-          "text": "to find",
+          "text": "to cross",
           "segments": [
             {
-              "text": "to find",
+              "text": "to cross",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə fˈaɪnd"
+          "phonemes": "tə kɹˈɔs"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "to know",
+      "text": "a storm",
       "sentences": [
         {
-          "text": "to know",
+          "text": "a storm",
           "segments": [
             {
-              "text": "to know",
+              "text": "a storm",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə nˈoʊ"
+          "phonemes": "ɐ stˈɔːɹm"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "to lose",
+      "text": "to damage",
       "sentences": [
         {
-          "text": "to lose",
+          "text": "to damage",
           "segments": [
             {
-              "text": "to lose",
+              "text": "to damage",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə lˈuːz"
+          "phonemes": "tə dˈæmɪdʒ"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "to take",
+      "text": "a road",
       "sentences": [
         {
-          "text": "to take",
+          "text": "a road",
           "segments": [
             {
-              "text": "to take",
+              "text": "a road",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə tˈeɪk"
+          "phonemes": "ɐ ɹˈoʊd"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "to come",
+      "text": "to return",
       "sentences": [
         {
-          "text": "to come",
+          "text": "to return",
           "segments": [
             {
-              "text": "to come",
+              "text": "to return",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə kˈʌm"
+          "phonemes": "tə ɹᵻtˈɜːn"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "to learn",
+      "text": "finally",
       "sentences": [
         {
-          "text": "to learn",
+          "text": "finally",
           "segments": [
             {
-              "text": "to learn",
+              "text": "finally",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə lˈɜːn"
+          "phonemes": "fˈaɪnəli"
         }
       ]
     }

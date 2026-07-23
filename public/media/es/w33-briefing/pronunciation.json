@@ -153,7 +153,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Model language. La fuente afirma que la reforma amplió derechos. — The source states that the reform expanded rights. Otros sostienen que la desigualdad continuó. — Others maintain that inequality continued. Cuando cambió el gobierno, muchas personas ya habían emigrado. — When the government changed, many people had already emigrated. Aunque existe consenso sobre los hechos, su significado se debate. — Although there is consensus about the facts, their meaning is debated. El testimonio aporta una perspectiva personal. — The testimony provides a personal perspective.",
+      "text": "Model language. La fuente afirma que la reforma amplió derechos. — The source affirms that the reform expanded rights. Otros sostienen que la desigualdad continuó. — Others maintain that inequality continued. Cuando cambió el gobierno, muchas personas ya habían emigrado. — When the government changed, many people had already emigrated. Aunque existe consenso sobre los hechos, su significado se debate. — Although there is consensus about the facts, their meaning is debated. El testimonio aporta una perspectiva personal. — The testimony contributes a personal perspective.",
       "sentences": [
         {
           "text": "Model language.",
@@ -176,14 +176,14 @@
           "phonemes": "la fwˈɛnte afˈiɾma ke la refˈoɾma ˌampliˈo ðeɾˈetʃos."
         },
         {
-          "text": "— The source states that the reform expanded rights.",
+          "text": "— The source affirms that the reform expanded rights.",
           "segments": [
             {
-              "text": "— The source states that the reform expanded rights.",
+              "text": "— The source affirms that the reform expanded rights.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ðə sˈɔːɹs stˈeɪts ðætðə ɹᵻfˈɔːɹm ɛkspˈændᵻd ɹˈaɪts."
+          "phonemes": "— ðə sˈɔːɹs ɐfˈɜːmz ðætðə ɹᵻfˈɔːɹm ɛkspˈændᵻd ɹˈaɪts."
         },
         {
           "text": "Otros sostienen que la desigualdad continuó.",
@@ -256,14 +256,14 @@
           "phonemes": "el tˌestimˈonjo apˈoɾta ˈuna pˌeɾspektˈiβa pˌeɾsonˈal."
         },
         {
-          "text": "— The testimony provides a personal perspective.",
+          "text": "— The testimony contributes a personal perspective.",
           "segments": [
             {
-              "text": "— The testimony provides a personal perspective.",
+              "text": "— The testimony contributes a personal perspective.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ðə tˈɛstᵻməni pɹəvˈaɪdz ɐ pˈɜːsənəl pɚspˈɛktɪv."
+          "phonemes": "— ðə tˈɛstᵻməni kəntɹˈɪbjuːts ɐ pˈɜːsənəl pɚspˈɛktɪv."
         }
       ]
     },

@@ -111,11 +111,19 @@
           "text": "The vehicle is similar; the word changes.",
           "segments": [
             {
-              "text": "The vehicle is similar; the word changes.",
+              "text": "The vehicle is ",
+              "lang": "en-us"
+            },
+            {
+              "text": "similar",
+              "lang": "es-419"
+            },
+            {
+              "text": "; the word changes.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə vˈiəkəl ɪz sˈɪmɪlɚ; ðə wˈɜːd tʃˈeɪndʒᵻz."
+          "phonemes": "ðə vˈiəkəl ɪz sˌimilˈaɾ ; ðə wˈɜːd tʃˈeɪndʒᵻz."
         }
       ]
     },
@@ -199,7 +207,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Model language. ¿Vos tenés tiempo mañana? — Do you have time tomorrow? Vosotros podéis entrar por aquí. — You all can enter here. Ustedes esperan la guagua en esa esquina. — You all wait for the bus on that corner. En México, camión puede significar autobús. — In Mexico, camión can mean bus. No entendí esa palabra; ¿qué significa aquí? — I did not understand that word; what does it mean here?",
+      "text": "Model language. Tres hablantes organizan el mismo viaje. — Three speakers organize the same trip. Uno toma el camión. — One takes the camión. Otro espera la guagua. — Another waits for the guagua. Otro consulta el horario del autobús. — Another checks the bus schedule. El vehículo es similar; la palabra cambia. — The vehicle is similar; the word changes.",
       "sentences": [
         {
           "text": "Model language.",
@@ -212,80 +220,40 @@
           "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
         },
         {
-          "text": "¿Vos tenés tiempo mañana?",
+          "text": "Tres hablantes organizan el mismo viaje.",
           "segments": [
             {
-              "text": "¿Vos tenés tiempo mañana?",
+              "text": "Tres hablantes organizan el mismo viaje.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "bˈos tenˈes tjˈempo maɲˈana?"
+          "phonemes": "tɾˈes aβlˈantes ˌoɾɣanˈisan el mˈismo βjˈaxe."
         },
         {
-          "text": "— Do you have time tomorrow?",
+          "text": "— Three speakers organize the same trip.",
           "segments": [
             {
-              "text": "— Do you have time tomorrow?",
+              "text": "— Three speakers organize the same trip.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— dˈuː juː hæv tˈaɪm təmˈɑːɹoʊ?"
+          "phonemes": "— θɹˈiː spˈiːkɚz ˈɔːɹɡənˌaɪz ðə sˈeɪm tɹˈɪp."
         },
         {
-          "text": "Vosotros podéis entrar por aquí.",
+          "text": "Uno toma el camión.",
           "segments": [
             {
-              "text": "Vosotros podéis entrar por aquí.",
+              "text": "Uno toma el camión.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "bosˈotɾos poðˈeis entɾˈaɾ poɾ akˈi."
+          "phonemes": "ˈuno tˈoma el kamjˈon."
         },
         {
-          "text": "— You all can enter here.",
+          "text": "— One takes the camión.",
           "segments": [
             {
-              "text": "— You all can enter here.",
-              "lang": "en-us"
-            }
-          ],
-          "phonemes": "— juː ˈɔːl kæn ˈɛntɚ hˈɪɹ."
-        },
-        {
-          "text": "Ustedes esperan la guagua en esa esquina.",
-          "segments": [
-            {
-              "text": "Ustedes esperan la guagua en esa esquina.",
-              "lang": "es-419"
-            }
-          ],
-          "phonemes": "ustˈeðes espˈeɾan la ɣwˈaɣwa en ˈesa eskˈina."
-        },
-        {
-          "text": "— You all wait for the bus on that corner.",
-          "segments": [
-            {
-              "text": "— You all wait for the bus on that corner.",
-              "lang": "en-us"
-            }
-          ],
-          "phonemes": "— juː ˈɔːl wˈeɪt fɚðə bˈʌs ˌɔn ðæt kˈɔːɹnɚ."
-        },
-        {
-          "text": "En México, camión puede significar autobús.",
-          "segments": [
-            {
-              "text": "En México, camión puede significar autobús.",
-              "lang": "es-419"
-            }
-          ],
-          "phonemes": "en mˈɛxiko, kamjˈom pwˈeðe sˌiɡnifikˈaɾ ˌaʊtoβˈus."
-        },
-        {
-          "text": "— In Mexico, camión can mean bus.",
-          "segments": [
-            {
-              "text": "— In Mexico, ",
+              "text": "— One takes the ",
               "lang": "en-us"
             },
             {
@@ -293,31 +261,79 @@
               "lang": "es-419"
             },
             {
-              "text": " can mean bus.",
+              "text": ".",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ɪn mˈɛksɪkˌoʊ, kamjˈon kæn mˈiːn bˈʌs."
+          "phonemes": "— wˈʌn tˈeɪks ðə kamjˈon ."
         },
         {
-          "text": "No entendí esa palabra; ¿qué significa aquí?",
+          "text": "Otro espera la guagua.",
           "segments": [
             {
-              "text": "No entendí esa palabra; ¿qué significa aquí?",
+              "text": "Otro espera la guagua.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "nˈo ˌentendˈi ˈesa palˈaβɾa; kˈe sˌiɡnifˈika akˈi?"
+          "phonemes": "ˈotɾo espˈeɾa la ɣwˈaɣwa."
         },
         {
-          "text": "— I did not understand that word; what does it mean here?",
+          "text": "— Another waits for the guagua.",
           "segments": [
             {
-              "text": "— I did not understand that word; what does it mean here?",
+              "text": "— Another waits for the guagua.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— aɪ dɪdnˌɑːt ˌʌndɚstˈænd ðæt wˈɜːd; wˌʌt dˈʌz ɪt mˈiːn hˈɪɹ?"
+          "phonemes": "— ɐnˈʌðɚ wˈeɪts fɚðə ɡwˈɑːɡjuːə."
+        },
+        {
+          "text": "Otro consulta el horario del autobús.",
+          "segments": [
+            {
+              "text": "Otro consulta el horario del autobús.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˈotɾo konsˈulta el oɾˈaɾjo ðel ˌaʊtoβˈus."
+        },
+        {
+          "text": "— Another checks the bus schedule.",
+          "segments": [
+            {
+              "text": "— Another checks the bus schedule.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— ɐnˈʌðɚ tʃˈɛks ðə bˈʌs skˈɛdʒuːl."
+        },
+        {
+          "text": "El vehículo es similar; la palabra cambia.",
+          "segments": [
+            {
+              "text": "El vehículo es similar; la palabra cambia.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "el βeˈikulo ˈes sˌimilˈaɾ; la palˈaβɾa kˈambja."
+        },
+        {
+          "text": "— The vehicle is similar; the word changes.",
+          "segments": [
+            {
+              "text": "— The vehicle is ",
+              "lang": "en-us"
+            },
+            {
+              "text": "similar",
+              "lang": "es-419"
+            },
+            {
+              "text": "; the word changes.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— ðə vˈiəkəl ɪz sˌimilˈaɾ ; ðə wˈɜːd tʃˈeɪndʒᵻz."
         }
       ]
     },
@@ -369,129 +385,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "el autobús",
+      "text": "organizar",
       "sentences": [
         {
-          "text": "el autobús",
+          "text": "organizar",
           "segments": [
             {
-              "text": "el autobús",
+              "text": "organizar",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el ˌaʊtoβˈus"
+          "phonemes": "ˌoɾɣanisˈaɾ"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "el camión",
+      "text": "el viaje",
       "sentences": [
         {
-          "text": "el camión",
+          "text": "el viaje",
           "segments": [
             {
-              "text": "el camión",
+              "text": "el viaje",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el kamjˈon"
+          "phonemes": "el βjˈaxe"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "la guagua",
+      "text": "el vehículo",
       "sentences": [
         {
-          "text": "la guagua",
+          "text": "el vehículo",
           "segments": [
             {
-              "text": "la guagua",
+              "text": "el vehículo",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la ɣwˈaɣwa"
+          "phonemes": "el βeˈikulo"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "el móvil",
+      "text": "similar",
       "sentences": [
         {
-          "text": "el móvil",
+          "text": "similar",
           "segments": [
             {
-              "text": "el móvil",
+              "text": "similar",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el mˈoβil"
+          "phonemes": "sˌimilˈaɾ"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "el celular",
+      "text": "la palabra",
       "sentences": [
         {
-          "text": "el celular",
+          "text": "la palabra",
           "segments": [
             {
-              "text": "el celular",
+              "text": "la palabra",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el sˌelulˈaɾ"
+          "phonemes": "la palˈaβɾa"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "vos tenés",
+      "text": "el horario",
       "sentences": [
         {
-          "text": "vos tenés",
+          "text": "el horario",
           "segments": [
             {
-              "text": "vos tenés",
+              "text": "el horario",
               "lang": "es-419"
             }
           ],
-          "phonemes": "bˈos tenˈes"
+          "phonemes": "el oɾˈaɾjo"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "vosotros tenéis",
+      "text": "consultar",
       "sentences": [
         {
-          "text": "vosotros tenéis",
+          "text": "consultar",
           "segments": [
             {
-              "text": "vosotros tenéis",
+              "text": "consultar",
               "lang": "es-419"
             }
           ],
-          "phonemes": "bosˈotɾos tenˈeis"
+          "phonemes": "kˌonsultˈaɾ"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "ustedes tienen",
+      "text": "esperar",
       "sentences": [
         {
-          "text": "ustedes tienen",
+          "text": "esperar",
           "segments": [
             {
-              "text": "ustedes tienen",
+              "text": "esperar",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ustˈeðes tjˈenen"
+          "phonemes": "ˌespeɾˈaɾ"
         }
       ]
     }

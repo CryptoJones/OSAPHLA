@@ -163,7 +163,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Model language. Recomiendo que revise los datos. — I recommend that you review the data. Es necesario que participen los vecinos. — It is necessary for the residents to participate. Me alegra que estés aquí. — I am glad you are here. El director pide que lleguemos temprano. — The director asks us to arrive early. Ojalá encuentren una solución justa. — I hope they find a fair solution.",
+      "text": "Model language. Los residentes exigen que se repare el puente. — Residents demand that the bridge be repaired. La ingeniera recomienda cerrarlo temporalmente. — The engineer recommends closing it temporarily. Espera que el trabajo termine antes de la temporada de lluvias. — She hopes the work finishes before the rainy season. Antes de que empiece a llover, quiere terminar la obra. — Before it starts raining, she wants to finish the work. Todos esperan una solución rápida. — Everyone hopes for a quick solution.",
       "sentences": [
         {
           "text": "Model language.",
@@ -176,104 +176,104 @@
           "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
         },
         {
-          "text": "Recomiendo que revise los datos.",
+          "text": "Los residentes exigen que se repare el puente.",
           "segments": [
             {
-              "text": "Recomiendo que revise los datos.",
+              "text": "Los residentes exigen que se repare el puente.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "rˌekomjˈɛndo ke reβˈise los ðˈatos."
+          "phonemes": "los rˌesiðˈɛntes eksˈixen ke se repˈaɾe el pwˈɛnte."
         },
         {
-          "text": "— I recommend that you review the data.",
+          "text": "— Residents demand that the bridge be repaired.",
           "segments": [
             {
-              "text": "— I recommend that you review the data.",
+              "text": "— Residents demand that the bridge be repaired.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— aɪ ɹˌɛkəmˈɛnd ðæt juː ɹᵻvjˈuː ðə dˈeɪɾə."
+          "phonemes": "— ɹˈɛzᵻdənts dᵻmˈænd ðætðə bɹˈɪdʒ biː ɹᵻpˈɛɹd."
         },
         {
-          "text": "Es necesario que participen los vecinos.",
+          "text": "La ingeniera recomienda cerrarlo temporalmente.",
           "segments": [
             {
-              "text": "Es necesario que participen los vecinos.",
+              "text": "La ingeniera recomienda cerrarlo temporalmente.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˈes nˌesesˈaɾjo ke pˌaɾtisˈipen los βesˈinos."
+          "phonemes": "la ˌiŋxenjˈeɾa rˌekomjˈɛnda serˈaɾlo tˌempoɾˈalmˈente."
         },
         {
-          "text": "— It is necessary for the residents to participate.",
+          "text": "— The engineer recommends closing it temporarily.",
           "segments": [
             {
-              "text": "— It is necessary for the residents to participate.",
+              "text": "— The engineer recommends closing it temporarily.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ɪɾ ɪz nˈɛsᵻsɚɹi fɚðə ɹˈɛzᵻdənts tə pɑːɹtˈɪsᵻpˌeɪt."
+          "phonemes": "— ðɪ ˌɛndʒɪnˈɪɹ ɹˌɛkəmˈɛndz klˈoʊzɪŋ ɪt tˌɛmpɚɹˈɛɹᵻli."
         },
         {
-          "text": "Me alegra que estés aquí.",
+          "text": "Espera que el trabajo termine antes de la temporada de lluvias.",
           "segments": [
             {
-              "text": "Me alegra que estés aquí.",
+              "text": "Espera que el trabajo termine antes de la temporada de lluvias.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "me alˈeɣɾa ke estˈes akˈi."
+          "phonemes": "espˈeɾa ke el tɾaβˈaxo teɾmˈine ˈantes ðe la tˌempoɾˈaða ðe ʝˈuβjas."
         },
         {
-          "text": "— I am glad you are here.",
+          "text": "— She hopes the work finishes before the rainy season.",
           "segments": [
             {
-              "text": "— I am glad you are here.",
+              "text": "— She hopes the work finishes before the rainy season.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— aɪɐm ɡlˈæd juː ɑːɹ hˈɪɹ."
+          "phonemes": "— ʃiː hˈoʊps ðə wˈɜːk fˈɪnɪʃᵻz bᵻfˌɔːɹ ðə ɹˈeɪni sˈiːzən."
         },
         {
-          "text": "El director pide que lleguemos temprano.",
+          "text": "Antes de que empiece a llover, quiere terminar la obra.",
           "segments": [
             {
-              "text": "El director pide que lleguemos temprano.",
+              "text": "Antes de que empiece a llover, quiere terminar la obra.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el ðˌiɾektˈoɾ pˈiðe ke ʝeɣˈemos tempɾˈano."
+          "phonemes": "ˈantes ðe ke empjˈese a ʝoβˈeɾ, kjˈeɾe tˌeɾminˈaɾ la ˈoβɾa."
         },
         {
-          "text": "— The director asks us to arrive early.",
+          "text": "— Before it starts raining, she wants to finish the work.",
           "segments": [
             {
-              "text": "— The director asks us to arrive early.",
+              "text": "— Before it starts raining, she wants to finish the work.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ðə dᵻɹˈɛktɚɹ ˈæsks ˌʌs tʊ ɚɹˈaɪv ˈɜːli."
+          "phonemes": "— bᵻfˌɔːɹ ɪt stˈɑːɹts ɹˈeɪnɪŋ, ʃiː wˈɔnts tə fˈɪnɪʃ ðə wˈɜːk."
         },
         {
-          "text": "Ojalá encuentren una solución justa.",
+          "text": "Todos esperan una solución rápida.",
           "segments": [
             {
-              "text": "Ojalá encuentren una solución justa.",
+              "text": "Todos esperan una solución rápida.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˌoxalˈa enkwˈɛntɾen ˈuna sˌolusjˈon xˈusta."
+          "phonemes": "tˈoðos espˈeɾan ˈuna sˌolusjˈon rˈapiða."
         },
         {
-          "text": "— I hope they find a fair solution.",
+          "text": "— Everyone hopes for a quick solution.",
           "segments": [
             {
-              "text": "— I hope they find a fair solution.",
+              "text": "— Everyone hopes for a quick solution.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— aɪ hˈoʊp ðeɪ fˈaɪnd ɐ fˈɛɹ səlˈuːʃən."
+          "phonemes": "— ˈɛvɹɪwˌʌn hˈoʊps fɚɹə kwˈɪk səlˈuːʃən."
         }
       ]
     },
@@ -325,129 +325,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "recomendar",
+      "text": "el puente",
       "sentences": [
         {
-          "text": "recomendar",
+          "text": "el puente",
           "segments": [
             {
-              "text": "recomendar",
+              "text": "el puente",
               "lang": "es-419"
             }
           ],
-          "phonemes": "rˌekomendˈaɾ"
+          "phonemes": "el pwˈɛnte"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "pedir",
+      "text": "reparar",
       "sentences": [
         {
-          "text": "pedir",
+          "text": "reparar",
           "segments": [
             {
-              "text": "pedir",
+              "text": "reparar",
               "lang": "es-419"
             }
           ],
-          "phonemes": "peðˈiɾ"
+          "phonemes": "rˌepaɾˈaɾ"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "exigir",
+      "text": "cerrar temporalmente",
       "sentences": [
         {
-          "text": "exigir",
+          "text": "cerrar temporalmente",
           "segments": [
             {
-              "text": "exigir",
+              "text": "cerrar temporalmente",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˌeksixˈiɾ"
+          "phonemes": "serˈaɾ tˌempoɾˈalmˈente"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "esperar",
+      "text": "la temporada de lluvias",
       "sentences": [
         {
-          "text": "esperar",
+          "text": "la temporada de lluvias",
           "segments": [
             {
-              "text": "esperar",
+              "text": "la temporada de lluvias",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˌespeɾˈaɾ"
+          "phonemes": "la tˌempoɾˈaða ðe ʝˈuβjas"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "alegrarse",
+      "text": "la ingeniera",
       "sentences": [
         {
-          "text": "alegrarse",
+          "text": "la ingeniera",
           "segments": [
             {
-              "text": "alegrarse",
+              "text": "la ingeniera",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˌaleɣɾˈaɾse"
+          "phonemes": "la ˌiŋxenjˈeɾa"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "lamentar",
+      "text": "antes de que",
       "sentences": [
         {
-          "text": "lamentar",
+          "text": "antes de que",
           "segments": [
             {
-              "text": "lamentar",
+              "text": "antes de que",
               "lang": "es-419"
             }
           ],
-          "phonemes": "lˌamentˈaɾ"
+          "phonemes": "ˈantes ðe kˈe"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "es necesario",
+      "text": "terminar",
       "sentences": [
         {
-          "text": "es necesario",
+          "text": "terminar",
           "segments": [
             {
-              "text": "es necesario",
+              "text": "terminar",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˈes nˌesesˈaɾjo"
+          "phonemes": "tˌeɾminˈaɾ"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "ojalá",
+      "text": "esperar que",
       "sentences": [
         {
-          "text": "ojalá",
+          "text": "esperar que",
           "segments": [
             {
-              "text": "ojalá",
+              "text": "esperar que",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˌoxalˈa"
+          "phonemes": "ˌespeɾˈaɾ kˈe"
         }
       ]
     }

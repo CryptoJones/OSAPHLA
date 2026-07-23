@@ -155,7 +155,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Model language. Hola, me llamo Alex. — Hello, my name is Alex. Mucho gusto, señora Rivera. — Nice to meet you, Mrs. Rivera. ¿Cómo te llamas? — What is your name? Le presento a mi compañera. — Let me introduce you to my classmate. Nos vemos mañana; que tenga buen día. — See you tomorrow; have a good day.",
+      "text": "Model language. Voy a presentarme dos veces. — I am going to introduce myself twice. Practico el registro formal primero. — I practice the formal register first. Grabo mi presentación informal después. — I record my informal introduction afterward. Repito la parte que salió mal. — I repeat the part that went wrong. Corrijo el tono para mejorar la próxima vez. — I correct the tone to improve next time.",
       "sentences": [
         {
           "text": "Model language.",
@@ -168,114 +168,104 @@
           "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
         },
         {
-          "text": "Hola, me llamo Alex.",
+          "text": "Voy a presentarme dos veces.",
           "segments": [
             {
-              "text": "Hola, me llamo Alex.",
+              "text": "Voy a presentarme dos veces.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˈola, me ʝˈamo alˈeks."
+          "phonemes": "bˈoɪ a pɾˌesentˈaɾme ðˈos βˈeses."
         },
         {
-          "text": "— Hello, my name is Alex.",
+          "text": "— I am going to introduce myself twice.",
           "segments": [
             {
-              "text": "— Hello, my name is Alex.",
+              "text": "— I am going to introduce myself twice.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— həlˈoʊ, maɪ nˈeɪm ɪz ˈælɪks."
+          "phonemes": "— aɪɐm ɡˌoʊɪŋ tʊ ˌɪntɹədˈuːs maɪsˈɛlf twˈaɪs."
         },
         {
-          "text": "Mucho gusto, señora Rivera.",
+          "text": "Practico el registro formal primero.",
           "segments": [
             {
-              "text": "Mucho gusto, señora Rivera.",
+              "text": "Practico el registro formal primero.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "mˈutʃo ɣˈusto, seɲˈoɾa riβˈeɾa."
+          "phonemes": "pɾaktˈiko el rexˈistɾo foɾmˈal pɾimˈeɾo."
         },
         {
-          "text": "— Nice to meet you, Mrs.",
+          "text": "— I practice the formal register first.",
           "segments": [
             {
-              "text": "— Nice to meet you, Mrs.",
+              "text": "— I practice the formal register first.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— nˈaɪs tə mˈiːt juː, mˈɪsɪz."
+          "phonemes": "— aɪ pɹˈæktɪs ðə fˈɔːɹməl ɹˈɛdʒɪstɚ fˈɜːst."
         },
         {
-          "text": "Rivera.",
+          "text": "Grabo mi presentación informal después.",
           "segments": [
             {
-              "text": "Rivera.",
-              "lang": "en-us"
-            }
-          ],
-          "phonemes": "ɹɪvˈɛɹə."
-        },
-        {
-          "text": "¿Cómo te llamas?",
-          "segments": [
-            {
-              "text": "¿Cómo te llamas?",
+              "text": "Grabo mi presentación informal después.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "kˈomo te ʝˈamas?"
+          "phonemes": "ɡɾˈaβo mi pɾˌesentasjˈon ˌinfoɾmˈal ðespwˈes."
         },
         {
-          "text": "— What is your name?",
+          "text": "— I record my informal introduction afterward.",
           "segments": [
             {
-              "text": "— What is your name?",
+              "text": "— I record my informal introduction afterward.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— wˌʌt ɪz jʊɹ nˈeɪm?"
+          "phonemes": "— aɪ ɹᵻkˈɔːɹd maɪ ɪnfˈɔːɹməl ˌɪntɹədˈʌkʃən ˈæftɚwɚd."
         },
         {
-          "text": "Le presento a mi compañera.",
+          "text": "Repito la parte que salió mal.",
           "segments": [
             {
-              "text": "Le presento a mi compañera.",
+              "text": "Repito la parte que salió mal.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "le pɾesˈɛnto a mi kˌompaɲˈeɾa."
+          "phonemes": "repˈito la pˈaɾte ke saljˈo mˈal."
         },
         {
-          "text": "— Let me introduce you to my classmate.",
+          "text": "— I repeat the part that went wrong.",
           "segments": [
             {
-              "text": "— Let me introduce you to my classmate.",
+              "text": "— I repeat the part that went wrong.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— lˈɛt mˌiː ˌɪntɹədˈuːs juː tə maɪ klˈæsmeɪt."
+          "phonemes": "— aɪ ɹᵻpˈiːt ðə pˈɑːɹt ðæt wɛnt ɹˈɔŋ."
         },
         {
-          "text": "Nos vemos mañana; que tenga buen día.",
+          "text": "Corrijo el tono para mejorar la próxima vez.",
           "segments": [
             {
-              "text": "Nos vemos mañana; que tenga buen día.",
+              "text": "Corrijo el tono para mejorar la próxima vez.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "nos βˈemos maɲˈana; ke tˈɛŋɡa βwˈen dˈia."
+          "phonemes": "korˈixo el tˈono pˌaɾa mˌexoɾˈaɾ la pɾˈoksima βˈes."
         },
         {
-          "text": "— See you tomorrow; have a good day.",
+          "text": "— I correct the tone to improve next time.",
           "segments": [
             {
-              "text": "— See you tomorrow; have a good day.",
+              "text": "— I correct the tone to improve next time.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— sˈiː juː təmˈɑːɹoʊ; hæv ɐ ɡˈʊd dˈeɪ."
+          "phonemes": "— aɪ kɚɹˈɛkt ðə tˈoʊn tʊ ɪmpɹˈuːv nˈɛkst tˈaɪm."
         }
       ]
     },
@@ -327,129 +317,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "hola",
+      "text": "presentar",
       "sentences": [
         {
-          "text": "hola",
+          "text": "presentar",
           "segments": [
             {
-              "text": "hola",
+              "text": "presentar",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˈola"
+          "phonemes": "pɾˌesentˈaɾ"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "buenos días",
+      "text": "practicar",
       "sentences": [
         {
-          "text": "buenos días",
+          "text": "practicar",
           "segments": [
             {
-              "text": "buenos días",
+              "text": "practicar",
               "lang": "es-419"
             }
           ],
-          "phonemes": "bwˈenos ðˈias"
+          "phonemes": "pɾˌaktikˈaɾ"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "buenas tardes",
+      "text": "grabar",
       "sentences": [
         {
-          "text": "buenas tardes",
+          "text": "grabar",
           "segments": [
             {
-              "text": "buenas tardes",
+              "text": "grabar",
               "lang": "es-419"
             }
           ],
-          "phonemes": "bwˈenas tˈaɾðes"
+          "phonemes": "ɡɾaβˈaɾ"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "adiós",
+      "text": "repetir",
       "sentences": [
         {
-          "text": "adiós",
+          "text": "repetir",
           "segments": [
             {
-              "text": "adiós",
+              "text": "repetir",
               "lang": "es-419"
             }
           ],
-          "phonemes": "aðjˈos"
+          "phonemes": "rˌepetˈiɾ"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "por favor",
+      "text": "la presentación",
       "sentences": [
         {
-          "text": "por favor",
+          "text": "la presentación",
           "segments": [
             {
-              "text": "por favor",
+              "text": "la presentación",
               "lang": "es-419"
             }
           ],
-          "phonemes": "poɾ faβˈoɾ"
+          "phonemes": "la pɾˌesentasjˈon"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "gracias",
+      "text": "el registro",
       "sentences": [
         {
-          "text": "gracias",
+          "text": "el registro",
           "segments": [
             {
-              "text": "gracias",
+              "text": "el registro",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ɡɾˈasjas"
+          "phonemes": "el rexˈistɾo"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "mucho gusto",
+      "text": "corregir",
       "sentences": [
         {
-          "text": "mucho gusto",
+          "text": "corregir",
           "segments": [
             {
-              "text": "mucho gusto",
+              "text": "corregir",
               "lang": "es-419"
             }
           ],
-          "phonemes": "mˈutʃo ɣˈusto"
+          "phonemes": "kˌorexˈiɾ"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "¿cómo se llama?",
+      "text": "mejorar",
       "sentences": [
         {
-          "text": "¿cómo se llama?",
+          "text": "mejorar",
           "segments": [
             {
-              "text": "¿cómo se llama?",
+              "text": "mejorar",
               "lang": "es-419"
             }
           ],
-          "phonemes": "kˈomo se ʝˈama?"
+          "phonemes": "mˌexoɾˈaɾ"
         }
       ]
     }

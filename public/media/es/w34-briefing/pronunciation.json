@@ -217,7 +217,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Model language. ¿Vos tenés tiempo mañana? — Do you have time tomorrow? Vosotros podéis entrar por aquí. — You all can enter here. Ustedes esperan la guagua en esa esquina. — You all wait for the bus on that corner. En México, camión puede significar autobús. — In Mexico, camión can mean bus. No entendí esa palabra; ¿qué significa aquí? — I did not understand that word; what does it mean here?",
+      "text": "Model language. ¿Vos tenés tiempo mañana? — Do you have time tomorrow? Vosotros podéis entrar por aquí. — You all can come in this way. Ustedes esperan la guagua en esa esquina. — You all wait for the bus on that corner. En México, camión puede significar autobús. — In Mexico, camión can mean bus. No entendí esa palabra; ¿qué significa aquí? — I didn't understand that word; what does it mean here?",
       "sentences": [
         {
           "text": "Model language.",
@@ -260,14 +260,14 @@
           "phonemes": "bosˈotɾos poðˈeis entɾˈaɾ poɾ akˈi."
         },
         {
-          "text": "— You all can enter here.",
+          "text": "— You all can come in this way.",
           "segments": [
             {
-              "text": "— You all can enter here.",
+              "text": "— You all can come in this way.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— juː ˈɔːl kæn ˈɛntɚ hˈɪɹ."
+          "phonemes": "— juː ˈɔːl kæn kˈʌm ɪn ðɪs wˈeɪ."
         },
         {
           "text": "Ustedes esperan la guagua en esa esquina.",
@@ -328,14 +328,14 @@
           "phonemes": "nˈo ˌentendˈi ˈesa palˈaβɾa; kˈe sˌiɡnifˈika akˈi?"
         },
         {
-          "text": "— I did not understand that word; what does it mean here?",
+          "text": "— I didn't understand that word; what does it mean here?",
           "segments": [
             {
-              "text": "— I did not understand that word; what does it mean here?",
+              "text": "— I didn't understand that word; what does it mean here?",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— aɪ dɪdnˌɑːt ˌʌndɚstˈænd ðæt wˈɜːd; wˌʌt dˈʌz ɪt mˈiːn hˈɪɹ?"
+          "phonemes": "— aɪ dˈɪdnt ˌʌndɚstˈænd ðæt wˈɜːd; wˌʌt dˈʌz ɪt mˈiːn hˈɪɹ?"
         }
       ]
     },

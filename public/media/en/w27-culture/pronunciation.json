@@ -163,7 +163,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Lenguaje modelo. I recommend that you review the data. — Recomiendo que revises los datos. Residents have to participate. — Los residentes tienen que participar. I'm glad you're here. — Me alegra que estés aquí. The director asked us to arrive early. — La directora nos pidió llegar temprano. They might find a fair solution. — Quizá encuentren una solución justa.",
+      "text": "Lenguaje modelo. Good advice isn't always an institutional norm. — Un buen consejo no siempre es una norma institucional. Emotional reaction varies by person. — La reacción emocional varía según la persona. Not every authority carries the same weight. — No toda autoridad tiene el mismo peso. Some advice is private; other advice is public. — Algunos consejos son privados; otros son públicos. A formal context changes the tone of the advice. — El contexto formal cambia el tono del consejo.",
       "sentences": [
         {
           "text": "Lenguaje modelo.",
@@ -176,104 +176,112 @@
           "phonemes": "leŋɡwˈaxe moðˈelo."
         },
         {
-          "text": "I recommend that you review the data.",
+          "text": "Good advice isn't always an institutional norm.",
           "segments": [
             {
-              "text": "I recommend that you review the data.",
+              "text": "Good advice isn't always an institutional norm.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪ ɹˌɛkəmˈɛnd ðæt juː ɹᵻvjˈuː ðə dˈeɪɾə."
+          "phonemes": "ɡˈʊd ɐdvˈaɪs ˌɪzənt ˈɔːlweɪz ɐn ˌɪnstɪtˈuːʃənəl nˈɔːɹm."
         },
         {
-          "text": "— Recomiendo que revises los datos.",
+          "text": "— Un buen consejo no siempre es una norma institucional.",
           "segments": [
             {
-              "text": "— Recomiendo que revises los datos.",
+              "text": "— Un buen consejo no siempre es una norma institucional.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— rˌekomjˈɛndo ke reβˈises los ðˈatos."
+          "phonemes": "— ˈum bwˈen konsˈexo nˈo sjˈempɾe ˈes ˈuna nˈoɾma ˌinstitˌusjonˈal."
         },
         {
-          "text": "Residents have to participate.",
+          "text": "Emotional reaction varies by person.",
           "segments": [
             {
-              "text": "Residents have to participate.",
+              "text": "Emotional reaction varies by person.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɹˈɛzᵻdənts hæv tə pɑːɹtˈɪsᵻpˌeɪt."
+          "phonemes": "ɪmˈoʊʃənəl ɹɪˈækʃən vˈɛɹiz baɪ pˈɜːsən."
         },
         {
-          "text": "— Los residentes tienen que participar.",
+          "text": "— La reacción emocional varía según la persona.",
           "segments": [
             {
-              "text": "— Los residentes tienen que participar.",
+              "text": "— La reacción emocional varía según la persona.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— los rˌesiðˈɛntes tjˈenen ke pˌaɾtisipˈaɾ."
+          "phonemes": "— la rˌeaksjˈon ˌemosjonˈal βaɾˈia seɣˈun la peɾsˈona."
         },
         {
-          "text": "I'm glad you're here.",
+          "text": "Not every authority carries the same weight.",
           "segments": [
             {
-              "text": "I'm glad you're here.",
+              "text": "Not every authority carries the same weight.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪm ɡlˈæd jʊɹ hˈɪɹ."
+          "phonemes": "nˌɑːt ˈɛvɹi ɐθˈɔːɹɪɾi kˈæɹiz ðə sˈeɪm wˈeɪt."
         },
         {
-          "text": "— Me alegra que estés aquí.",
+          "text": "— No toda autoridad tiene el mismo peso.",
           "segments": [
             {
-              "text": "— Me alegra que estés aquí.",
+              "text": "— No toda autoridad tiene el mismo peso.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— me alˈeɣɾa ke estˈes akˈi."
+          "phonemes": "— nˈo tˈoða ˌaʊtoɾiðˈad tjˈene el mˈismo pˈeso."
         },
         {
-          "text": "The director asked us to arrive early.",
+          "text": "Some advice is private; other advice is public.",
           "segments": [
             {
-              "text": "The director asked us to arrive early.",
+              "text": "Some advice is private; other advice is public.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə dᵻɹˈɛktɚɹ ˈæskt ˌʌs tʊ ɚɹˈaɪv ˈɜːli."
+          "phonemes": "sˌʌm ɐdvˈaɪs ɪz pɹˈaɪvət; ˈʌðɚɹ ɐdvˈaɪs ɪz pˈʌblɪk."
         },
         {
-          "text": "— La directora nos pidió llegar temprano.",
+          "text": "— Algunos consejos son privados; otros son públicos.",
           "segments": [
             {
-              "text": "— La directora nos pidió llegar temprano.",
+              "text": "— Algunos consejos son privados; otros son públicos.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— la ðˌiɾektˈoɾa nos piðjˈo ʝeɣˈaɾ tempɾˈano."
+          "phonemes": "— alɣˈunos konsˈexos sˈom pɾiβˈaðos; ˈotɾos sˈom pˈuβlikos."
         },
         {
-          "text": "They might find a fair solution.",
+          "text": "A formal context changes the tone of the advice.",
           "segments": [
             {
-              "text": "They might find a fair solution.",
+              "text": "A formal context changes the tone of the advice.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðeɪ mˌaɪt fˈaɪnd ɐ fˈɛɹ səlˈuːʃən."
+          "phonemes": "ɐ fˈɔːɹməl kˈɑːntɛkst tʃˈeɪndʒᵻz ðə tˈoʊn ʌvðɪ ɐdvˈaɪs."
         },
         {
-          "text": "— Quizá encuentren una solución justa.",
+          "text": "— El contexto formal cambia el tono del consejo.",
           "segments": [
             {
-              "text": "— Quizá encuentren una solución justa.",
+              "text": "— El contexto ",
+              "lang": "es-419"
+            },
+            {
+              "text": "formal",
+              "lang": "en-us"
+            },
+            {
+              "text": " cambia el tono del consejo.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— kisˈa enkwˈɛntɾen ˈuna sˌolusjˈon xˈusta."
+          "phonemes": "— el kontˈeksto fˈɔːɹməl kˈambja el tˈono ðel konsˈexo."
         }
       ]
     },
@@ -325,129 +333,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "to recommend",
+      "text": "guidance",
       "sentences": [
         {
-          "text": "to recommend",
+          "text": "guidance",
           "segments": [
             {
-              "text": "to recommend",
+              "text": "guidance",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə ɹˌɛkəmˈɛnd"
+          "phonemes": "ɡˈaɪdəns"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "necessary",
+      "text": "institutional norm",
       "sentences": [
         {
-          "text": "necessary",
+          "text": "institutional norm",
           "segments": [
             {
-              "text": "necessary",
+              "text": "institutional norm",
               "lang": "en-us"
             }
           ],
-          "phonemes": "nˈɛsᵻsɚɹi"
+          "phonemes": "ˌɪnstɪtˈuːʃənəl nˈɔːɹm"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "required",
+      "text": "emotional reaction",
       "sentences": [
         {
-          "text": "required",
+          "text": "emotional reaction",
           "segments": [
             {
-              "text": "required",
+              "text": "emotional reaction",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɹᵻkwˈaɪɚd"
+          "phonemes": "ɪmˈoʊʃənəl ɹɪˈækʃən"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "possible",
+      "text": "authority",
       "sentences": [
         {
-          "text": "possible",
+          "text": "authority",
           "segments": [
             {
-              "text": "possible",
+              "text": "authority",
               "lang": "en-us"
             }
           ],
-          "phonemes": "pˈɑːsᵻbəl"
+          "phonemes": "ɐθˈɔːɹɪɾi"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "a rule",
+      "text": "private",
       "sentences": [
         {
-          "text": "a rule",
+          "text": "private",
           "segments": [
             {
-              "text": "a rule",
+              "text": "private",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ ɹˈuːl"
+          "phonemes": "pɹˈaɪvət"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "advice",
+      "text": "public",
       "sentences": [
         {
-          "text": "advice",
+          "text": "public",
           "segments": [
             {
-              "text": "advice",
+              "text": "public",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐdvˈaɪs"
+          "phonemes": "pˈʌblɪk"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "permission",
+      "text": "formal",
       "sentences": [
         {
-          "text": "permission",
+          "text": "formal",
           "segments": [
             {
-              "text": "permission",
+              "text": "formal",
               "lang": "en-us"
             }
           ],
-          "phonemes": "pɚmˈɪʃən"
+          "phonemes": "fˈɔːɹməl"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "a solution",
+      "text": "context",
       "sentences": [
         {
-          "text": "a solution",
+          "text": "context",
           "segments": [
             {
-              "text": "a solution",
+              "text": "context",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ səlˈuːʃən"
+          "phonemes": "kˈɑːntɛkst"
         }
       ]
     }

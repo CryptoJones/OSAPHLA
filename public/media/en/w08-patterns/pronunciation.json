@@ -29,7 +29,7 @@
     },
     {
       "file": "01.wav",
-      "text": "Forma y significado. Adjetivos sin concordancia de género; orden adjetivo-sustantivo; have; posesivos y genitivo con apóstrofo.",
+      "text": "Forma y significado. Aplicación de la forma. Los adjetivos en inglés no cambian por género ni número y normalmente van antes del sustantivo: a tall friend, no a friend tall.",
       "sentences": [
         {
           "text": "Forma y significado.",
@@ -42,28 +42,46 @@
           "phonemes": "fˈoɾma i sˌiɡnifikˈaðo."
         },
         {
-          "text": "Adjetivos sin concordancia de género; orden adjetivo-sustantivo; have; posesivos y genitivo con apóstrofo.",
+          "text": "Aplicación de la forma.",
           "segments": [
             {
-              "text": "Adjetivos sin concordancia de género; orden adjetivo-sustantivo; ",
-              "lang": "es-419"
-            },
-            {
-              "text": "have",
-              "lang": "en-us"
-            },
-            {
-              "text": "; posesivos y genitivo con apóstrofo.",
+              "text": "Aplicación de la forma.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˌaðxetˈiβos sin kˌonkoɾðˈansja ðe xˈeneɾo; ˈoɾðen ˌaðxetˈiβosˌustantˈiβo; hˈæv ; pˌosesˈiβos i xˌenitˈiβo kon apˈostɾofo."
+          "phonemes": "ˌaplikasjˈon de la fˈoɾma."
+        },
+        {
+          "text": "Los adjetivos en inglés no cambian por género ni número y normalmente van antes del sustantivo: a tall friend, no a friend tall.",
+          "segments": [
+            {
+              "text": "Los adjetivos en inglés no cambian por género ni número y normalmente van antes del sustantivo: a ",
+              "lang": "es-419"
+            },
+            {
+              "text": "tall",
+              "lang": "en-us"
+            },
+            {
+              "text": " friend, no a friend ",
+              "lang": "es-419"
+            },
+            {
+              "text": "tall",
+              "lang": "en-us"
+            },
+            {
+              "text": ".",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "los ˌaðxetˈiβos en iŋɡlˈes nˈo kˈambjam poɾ xˈeneɾo nˈi nˈumeɾo i noɾmˈalmˈente βˈan ˈantes ðel sˌustantˈiβo: ˈa tˈɔːl fɾiˈɛnd, nˈo a fɾiˈɛnd tˈɔːl ."
         }
       ]
     },
     {
       "file": "02.wav",
-      "text": "Conjunto de modelos. My older sister is very kind. I know Elena's parents. Our family lives in three cities. Is this portrait yours? I have two brothers and a cousin. Mi hermana mayor es muy amable. Conozco a los padres de Elena. Nuestra familia vive en tres ciudades. ¿Es tuyo este retrato? Tengo dos hermanos y una prima o un primo.",
+      "text": "Conjunto de modelos. My friend is tall and nice. The students are hardworking. She is intelligent and patient. English adjectives don't change for gender. A tall friend and a kind family. Mi amigo es alto y simpático. Los estudiantes son trabajadores. Ella es inteligente y paciente. Los adjetivos en inglés no cambian por género. Un amigo alto y una familia amable.",
       "sentences": [
         {
           "text": "Conjunto de modelos.",
@@ -76,104 +94,104 @@
           "phonemes": "koŋxˈunto ðe moðˈelos."
         },
         {
-          "text": "My older sister is very kind.",
+          "text": "My friend is tall and nice.",
           "segments": [
             {
-              "text": "My older sister is very kind.",
+              "text": "My friend is tall and nice.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "maɪ ˈoʊldɚ sˈɪstɚɹ ɪz vˈɛɹi kˈaɪnd."
+          "phonemes": "maɪ fɹˈɛnd ɪz tˈɔːl ænd nˈaɪs."
         },
         {
-          "text": "I know Elena's parents.",
+          "text": "The students are hardworking.",
           "segments": [
             {
-              "text": "I know Elena's parents.",
+              "text": "The students are hardworking.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪ nˈoʊ ᵻlˈiːnəz pˈɛɹənts."
+          "phonemes": "ðə stˈuːdənts ɑːɹ hˈɑːɹdwɜːkɪŋ."
         },
         {
-          "text": "Our family lives in three cities.",
+          "text": "She is intelligent and patient.",
           "segments": [
             {
-              "text": "Our family lives in three cities.",
+              "text": "She is intelligent and patient.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ˌaʊɚ fˈæmɪli lˈaɪvz ɪn θɹˈiː sˈɪɾiz."
+          "phonemes": "ʃiː ɪz ɪntˈɛlɪdʒənt ænd pˈeɪʃənt."
         },
         {
-          "text": "Is this portrait yours?",
+          "text": "English adjectives don't change for gender.",
           "segments": [
             {
-              "text": "Is this portrait yours?",
+              "text": "English adjectives don't change for gender.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɪz ðɪs pˈɔːɹtɹɪt jˈɔːɹz?"
+          "phonemes": "ˈɪŋɡlɪʃ ˈædʒɪktˌɪvz dˈoʊnt tʃˈeɪndʒ fɔːɹ dʒˈɛndɚ."
         },
         {
-          "text": "I have two brothers and a cousin.",
+          "text": "A tall friend and a kind family.",
           "segments": [
             {
-              "text": "I have two brothers and a cousin.",
+              "text": "A tall friend and a kind family.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪ hæv tˈuː bɹˈʌðɚz ænd ɐ kˈʌzən."
+          "phonemes": "ɐ tˈɔːl fɹˈɛnd ænd ɐ kˈaɪnd fˈæmɪli."
         },
         {
-          "text": "Mi hermana mayor es muy amable.",
+          "text": "Mi amigo es alto y simpático.",
           "segments": [
             {
-              "text": "Mi hermana mayor es muy amable.",
+              "text": "Mi amigo es alto y simpático.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "mi eɾmˈana maʝˈoɾ ˈes mˈuj amˈaβle."
+          "phonemes": "mi amˈiɣo ˈes ˈalto i simpˈatiko."
         },
         {
-          "text": "Conozco a los padres de Elena.",
+          "text": "Los estudiantes son trabajadores.",
           "segments": [
             {
-              "text": "Conozco a los padres de Elena.",
+              "text": "Los estudiantes son trabajadores.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "konˈosko a los pˈaðɾes ðe elˈena."
+          "phonemes": "los ˌestuðjˈantes sˈon tɾˌaβaxaðˈoɾes."
         },
         {
-          "text": "Nuestra familia vive en tres ciudades.",
+          "text": "Ella es inteligente y paciente.",
           "segments": [
             {
-              "text": "Nuestra familia vive en tres ciudades.",
+              "text": "Ella es inteligente y paciente.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "nwˌestɾa famˈilja βˈiβe en tɾˈes sjuðˈaðes."
+          "phonemes": "ˈejja ˈes ˌintelixˈɛnte i pasjˈɛnte."
         },
         {
-          "text": "¿Es tuyo este retrato?",
+          "text": "Los adjetivos en inglés no cambian por género.",
           "segments": [
             {
-              "text": "¿Es tuyo este retrato?",
+              "text": "Los adjetivos en inglés no cambian por género.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˈes tˈuʝo ˈeste retɾˈato?"
+          "phonemes": "los ˌaðxetˈiβos en iŋɡlˈes nˈo kˈambjam poɾ xˈeneɾo."
         },
         {
-          "text": "Tengo dos hermanos y una prima o un primo.",
+          "text": "Un amigo alto y una familia amable.",
           "segments": [
             {
-              "text": "Tengo dos hermanos y una prima o un primo.",
+              "text": "Un amigo alto y una familia amable.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "tˈɛŋɡo ðˈos eɾmˈanos i ˈuna pɾˈima o ˈum pɾˈimo."
+          "phonemes": "ˈun amˈiɣo ˈalto i ˈuna famˈilja amˈaβle."
         }
       ]
     },
@@ -241,7 +259,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Lenguaje modelo. My older sister is very kind. — Mi hermana mayor es muy amable. I know Elena's parents. — Conozco a los padres de Elena. Our family lives in three cities. — Nuestra familia vive en tres ciudades. Is this portrait yours? — ¿Es tuyo este retrato? I have two brothers and a cousin. — Tengo dos hermanos y una prima o un primo.",
+      "text": "Lenguaje modelo. My friend is tall and nice. — Mi amigo es alto y simpático. The students are hardworking. — Los estudiantes son trabajadores. She is intelligent and patient. — Ella es inteligente y paciente. English adjectives don't change for gender. — Los adjetivos en inglés no cambian por género. A tall friend and a kind family. — Un amigo alto y una familia amable.",
       "sentences": [
         {
           "text": "Lenguaje modelo.",
@@ -254,104 +272,104 @@
           "phonemes": "leŋɡwˈaxe moðˈelo."
         },
         {
-          "text": "My older sister is very kind.",
+          "text": "My friend is tall and nice.",
           "segments": [
             {
-              "text": "My older sister is very kind.",
+              "text": "My friend is tall and nice.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "maɪ ˈoʊldɚ sˈɪstɚɹ ɪz vˈɛɹi kˈaɪnd."
+          "phonemes": "maɪ fɹˈɛnd ɪz tˈɔːl ænd nˈaɪs."
         },
         {
-          "text": "— Mi hermana mayor es muy amable.",
+          "text": "— Mi amigo es alto y simpático.",
           "segments": [
             {
-              "text": "— Mi hermana mayor es muy amable.",
+              "text": "— Mi amigo es alto y simpático.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— mi eɾmˈana maʝˈoɾ ˈes mˈuj amˈaβle."
+          "phonemes": "— mi amˈiɣo ˈes ˈalto i simpˈatiko."
         },
         {
-          "text": "I know Elena's parents.",
+          "text": "The students are hardworking.",
           "segments": [
             {
-              "text": "I know Elena's parents.",
+              "text": "The students are hardworking.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪ nˈoʊ ᵻlˈiːnəz pˈɛɹənts."
+          "phonemes": "ðə stˈuːdənts ɑːɹ hˈɑːɹdwɜːkɪŋ."
         },
         {
-          "text": "— Conozco a los padres de Elena.",
+          "text": "— Los estudiantes son trabajadores.",
           "segments": [
             {
-              "text": "— Conozco a los padres de Elena.",
+              "text": "— Los estudiantes son trabajadores.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— konˈosko a los pˈaðɾes ðe elˈena."
+          "phonemes": "— los ˌestuðjˈantes sˈon tɾˌaβaxaðˈoɾes."
         },
         {
-          "text": "Our family lives in three cities.",
+          "text": "She is intelligent and patient.",
           "segments": [
             {
-              "text": "Our family lives in three cities.",
+              "text": "She is intelligent and patient.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ˌaʊɚ fˈæmɪli lˈaɪvz ɪn θɹˈiː sˈɪɾiz."
+          "phonemes": "ʃiː ɪz ɪntˈɛlɪdʒənt ænd pˈeɪʃənt."
         },
         {
-          "text": "— Nuestra familia vive en tres ciudades.",
+          "text": "— Ella es inteligente y paciente.",
           "segments": [
             {
-              "text": "— Nuestra familia vive en tres ciudades.",
+              "text": "— Ella es inteligente y paciente.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— nwˌestɾa famˈilja βˈiβe en tɾˈes sjuðˈaðes."
+          "phonemes": "— ˈejja ˈes ˌintelixˈɛnte i pasjˈɛnte."
         },
         {
-          "text": "Is this portrait yours?",
+          "text": "English adjectives don't change for gender.",
           "segments": [
             {
-              "text": "Is this portrait yours?",
+              "text": "English adjectives don't change for gender.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɪz ðɪs pˈɔːɹtɹɪt jˈɔːɹz?"
+          "phonemes": "ˈɪŋɡlɪʃ ˈædʒɪktˌɪvz dˈoʊnt tʃˈeɪndʒ fɔːɹ dʒˈɛndɚ."
         },
         {
-          "text": "— ¿Es tuyo este retrato?",
+          "text": "— Los adjetivos en inglés no cambian por género.",
           "segments": [
             {
-              "text": "— ¿Es tuyo este retrato?",
+              "text": "— Los adjetivos en inglés no cambian por género.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— ˈes tˈuʝo ˈeste retɾˈato?"
+          "phonemes": "— los ˌaðxetˈiβos en iŋɡlˈes nˈo kˈambjam poɾ xˈeneɾo."
         },
         {
-          "text": "I have two brothers and a cousin.",
+          "text": "A tall friend and a kind family.",
           "segments": [
             {
-              "text": "I have two brothers and a cousin.",
+              "text": "A tall friend and a kind family.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪ hæv tˈuː bɹˈʌðɚz ænd ɐ kˈʌzən."
+          "phonemes": "ɐ tˈɔːl fɹˈɛnd ænd ɐ kˈaɪnd fˈæmɪli."
         },
         {
-          "text": "— Tengo dos hermanos y una prima o un primo.",
+          "text": "— Un amigo alto y una familia amable.",
           "segments": [
             {
-              "text": "— Tengo dos hermanos y una prima o un primo.",
+              "text": "— Un amigo alto y una familia amable.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— tˈɛŋɡo ðˈos eɾmˈanos i ˈuna pɾˈima o ˈum pɾˈimo."
+          "phonemes": "— ˈun amˈiɣo ˈalto i ˈuna famˈilja amˈaβle."
         }
       ]
     },
@@ -403,129 +421,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "family",
+      "text": "tall",
       "sentences": [
         {
-          "text": "family",
+          "text": "tall",
           "segments": [
             {
-              "text": "family",
+              "text": "tall",
               "lang": "en-us"
             }
           ],
-          "phonemes": "fˈæmɪli"
+          "phonemes": "tˈɔːl"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "mother",
+      "text": "short",
       "sentences": [
         {
-          "text": "mother",
+          "text": "short",
           "segments": [
             {
-              "text": "mother",
+              "text": "short",
               "lang": "en-us"
             }
           ],
-          "phonemes": "mˈʌðɚ"
+          "phonemes": "ʃˈɔːɹt"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "father",
+      "text": "nice",
       "sentences": [
         {
-          "text": "father",
+          "text": "nice",
           "segments": [
             {
-              "text": "father",
+              "text": "nice",
               "lang": "en-us"
             }
           ],
-          "phonemes": "fˈɑːðɚ"
+          "phonemes": "nˈaɪs"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "sister",
+      "text": "hardworking",
       "sentences": [
         {
-          "text": "sister",
+          "text": "hardworking",
           "segments": [
             {
-              "text": "sister",
+              "text": "hardworking",
               "lang": "en-us"
             }
           ],
-          "phonemes": "sˈɪstɚ"
+          "phonemes": "hˈɑːɹdwɜːkɪŋ"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "friend",
+      "text": "intelligent",
       "sentences": [
         {
-          "text": "friend",
+          "text": "intelligent",
           "segments": [
             {
-              "text": "friend",
+              "text": "intelligent",
               "lang": "en-us"
             }
           ],
-          "phonemes": "fɹˈɛnd"
+          "phonemes": "ɪntˈɛlɪdʒənt"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "young",
+      "text": "patient",
       "sentences": [
         {
-          "text": "young",
+          "text": "patient",
           "segments": [
             {
-              "text": "young",
+              "text": "patient",
               "lang": "en-us"
             }
           ],
-          "phonemes": "jˈʌŋ"
+          "phonemes": "pˈeɪʃənt"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "older",
+      "text": "an adjective",
       "sentences": [
         {
-          "text": "older",
+          "text": "an adjective",
           "segments": [
             {
-              "text": "older",
+              "text": "an adjective",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ˈoʊldɚ"
+          "phonemes": "ɐn ˈædʒɪktˌɪv"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "kind",
+      "text": "before the noun",
       "sentences": [
         {
-          "text": "kind",
+          "text": "before the noun",
           "segments": [
             {
-              "text": "kind",
+              "text": "before the noun",
               "lang": "en-us"
             }
           ],
-          "phonemes": "kˈaɪnd"
+          "phonemes": "bᵻfˌɔːɹ ðə nˈaʊn"
         }
       ]
     }

@@ -29,7 +29,7 @@
     },
     {
       "file": "01.wav",
-      "text": "Forma y significado. Presente para horarios; presente continuo y going to para planes; have to/must; reservas y secuencias futuras.",
+      "text": "Forma y significado. Aplicación de la forma. Usa have just + participio para algo recién terminado, have to + infinitivo para obligación, y going to + infinitivo para planes cercanos.",
       "sentences": [
         {
           "text": "Forma y significado.",
@@ -42,18 +42,28 @@
           "phonemes": "fˈoɾma i sˌiɡnifikˈaðo."
         },
         {
-          "text": "Presente para horarios; presente continuo y going to para planes; have to/must; reservas y secuencias futuras.",
+          "text": "Aplicación de la forma.",
           "segments": [
             {
-              "text": "Presente para horarios; presente continuo y ",
+              "text": "Aplicación de la forma.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˌaplikasjˈon de la fˈoɾma."
+        },
+        {
+          "text": "Usa have just + participio para algo recién terminado, have to + infinitivo para obligación, y going to + infinitivo para planes cercanos.",
+          "segments": [
+            {
+              "text": "Usa ",
               "lang": "es-419"
             },
             {
-              "text": "going to",
+              "text": "have",
               "lang": "en-us"
             },
             {
-              "text": " para planes; ",
+              "text": " just + participio para algo recién terminado, ",
               "lang": "es-419"
             },
             {
@@ -61,25 +71,25 @@
               "lang": "en-us"
             },
             {
-              "text": "/",
+              "text": " + infinitivo para obligación, y ",
               "lang": "es-419"
             },
             {
-              "text": "must",
+              "text": "going to",
               "lang": "en-us"
             },
             {
-              "text": "; reservas y secuencias futuras.",
+              "text": " + infinitivo para planes cercanos.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "pɾesˈɛnte pˌaɾa oɾˈaɾjos; pɾesˈɛnte kontˈinwo i ɡˈoʊɪŋ tuː pˌaɾa plˈanes; hˈæv tuː bˈara mˈʌst ; resˈeɾβas i sekwˈɛnsjas futˈuɾas."
+          "phonemes": "ˈusa hˈæv xˈust mˈas pˌaɾtisˈipjo pˌaɾa ˈalɣo resjˈen tˌeɾminˈaðo, hˈæv tuː mˈas ˌinfinitˈiβo pˌaɾa ˌoβliɣasjˈon, i ɡˈoʊɪŋ tuː mˈas ˌinfinitˈiβo pˌaɾa plˈanes seɾkˈanos."
         }
       ]
     },
     {
       "file": "02.wav",
-      "text": "Conjunto de modelos. The train leaves from platform four. We've just arrived at the airport. I have a reservation under Rivera. My luggage is missing. We're going to stay for three nights. El tren sale del andén cuatro. Acabamos de llegar al aeropuerto. Tengo una reserva a nombre de Rivera. No aparece mi equipaje. Vamos a quedarnos tres noches.",
+      "text": "Conjunto de modelos. I've just arrived at the airport. I have to confirm my flight. I'm going to change trains. I don't want to miss the bus. The flight is delayed an hour. Acabo de llegar al aeropuerto. Tengo que confirmar mi vuelo. Voy a cambiar de tren. No quiero perder el autobús. El vuelo se retrasa una hora.",
       "sentences": [
         {
           "text": "Conjunto de modelos.",
@@ -92,104 +102,104 @@
           "phonemes": "koŋxˈunto ðe moðˈelos."
         },
         {
-          "text": "The train leaves from platform four.",
+          "text": "I've just arrived at the airport.",
           "segments": [
             {
-              "text": "The train leaves from platform four.",
+              "text": "I've just arrived at the airport.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə tɹˈeɪn lˈiːvz fɹʌm plˈætfɔːɹm fˈɔːɹ."
+          "phonemes": "aɪv dʒˈʌst ɚɹˈaɪvd æt ðɪ ˈɛɹpɔːɹt."
         },
         {
-          "text": "We've just arrived at the airport.",
+          "text": "I have to confirm my flight.",
           "segments": [
             {
-              "text": "We've just arrived at the airport.",
+              "text": "I have to confirm my flight.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wiːv dʒˈʌst ɚɹˈaɪvd æt ðɪ ˈɛɹpɔːɹt."
+          "phonemes": "aɪ hæv tə kənfˈɜːm maɪ flˈaɪt."
         },
         {
-          "text": "I have a reservation under Rivera.",
+          "text": "I'm going to change trains.",
           "segments": [
             {
-              "text": "I have a reservation under Rivera.",
+              "text": "I'm going to change trains.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪ hæv ɐ ɹˌɛzɚvˈeɪʃən ˌʌndɚ ɹɪvˈɛɹə."
+          "phonemes": "aɪm ɡˌoʊɪŋ tə tʃˈeɪndʒ tɹˈeɪnz."
         },
         {
-          "text": "My luggage is missing.",
+          "text": "I don't want to miss the bus.",
           "segments": [
             {
-              "text": "My luggage is missing.",
+              "text": "I don't want to miss the bus.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "maɪ lˈʌɡɪdʒ ɪz mˈɪsɪŋ."
+          "phonemes": "aɪ dˈoʊnt wˈɔnt tə mˈɪs ðə bˈʌs."
         },
         {
-          "text": "We're going to stay for three nights.",
+          "text": "The flight is delayed an hour.",
           "segments": [
             {
-              "text": "We're going to stay for three nights.",
+              "text": "The flight is delayed an hour.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wɪɹ ɡˌoʊɪŋ tə stˈeɪ fɔːɹ θɹˈiː nˈaɪts."
+          "phonemes": "ðə flˈaɪt ɪz dᵻlˈeɪd ɐn ˈaʊɚ."
         },
         {
-          "text": "El tren sale del andén cuatro.",
+          "text": "Acabo de llegar al aeropuerto.",
           "segments": [
             {
-              "text": "El tren sale del andén cuatro.",
+              "text": "Acabo de llegar al aeropuerto.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el tɾˈen sˈale ðel andˈen kwˈatɾo."
+          "phonemes": "akˈaβo ðe ʝeɣˈaɾ al ˌaeɾopwˈeɾto."
         },
         {
-          "text": "Acabamos de llegar al aeropuerto.",
+          "text": "Tengo que confirmar mi vuelo.",
           "segments": [
             {
-              "text": "Acabamos de llegar al aeropuerto.",
+              "text": "Tengo que confirmar mi vuelo.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˌakaβˈamos ðe ʝeɣˈaɾ al ˌaeɾopwˈeɾto."
+          "phonemes": "tˈɛŋɡo ke kˌonfiɾmˈaɾ mi βwˈelo."
         },
         {
-          "text": "Tengo una reserva a nombre de Rivera.",
+          "text": "Voy a cambiar de tren.",
           "segments": [
             {
-              "text": "Tengo una reserva a nombre de Rivera.",
+              "text": "Voy a cambiar de tren.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "tˈɛŋɡo ˈuna resˈeɾβa a nˈombɾe ðe riβˈeɾa."
+          "phonemes": "bˈoɪ a kambjˈaɾ ðe tɾˈen."
         },
         {
-          "text": "No aparece mi equipaje.",
+          "text": "No quiero perder el autobús.",
           "segments": [
             {
-              "text": "No aparece mi equipaje.",
+              "text": "No quiero perder el autobús.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "nˈo ˌapaɾˈese mi ˌekipˈaxe."
+          "phonemes": "nˈo kjˈeɾo peɾðˈeɾ el ˌaʊtoβˈus."
         },
         {
-          "text": "Vamos a quedarnos tres noches.",
+          "text": "El vuelo se retrasa una hora.",
           "segments": [
             {
-              "text": "Vamos a quedarnos tres noches.",
+              "text": "El vuelo se retrasa una hora.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "bˈamos a keðˈaɾnos tɾˈes nˈotʃes."
+          "phonemes": "el βwˈelo se retɾˈasa ˈuna ˈoɾa."
         }
       ]
     },
@@ -257,7 +267,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Lenguaje modelo. The train leaves from platform four. — El tren sale del andén cuatro. We've just arrived at the airport. — Acabamos de llegar al aeropuerto. I have a reservation under Rivera. — Tengo una reserva a nombre de Rivera. My luggage is missing. — No aparece mi equipaje. We're going to stay for three nights. — Vamos a quedarnos tres noches.",
+      "text": "Lenguaje modelo. I've just arrived at the airport. — Acabo de llegar al aeropuerto. I have to confirm my flight. — Tengo que confirmar mi vuelo. I'm going to change trains. — Voy a cambiar de tren. I don't want to miss the bus. — No quiero perder el autobús. The flight is delayed an hour. — El vuelo se retrasa una hora.",
       "sentences": [
         {
           "text": "Lenguaje modelo.",
@@ -270,104 +280,104 @@
           "phonemes": "leŋɡwˈaxe moðˈelo."
         },
         {
-          "text": "The train leaves from platform four.",
+          "text": "I've just arrived at the airport.",
           "segments": [
             {
-              "text": "The train leaves from platform four.",
+              "text": "I've just arrived at the airport.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə tɹˈeɪn lˈiːvz fɹʌm plˈætfɔːɹm fˈɔːɹ."
+          "phonemes": "aɪv dʒˈʌst ɚɹˈaɪvd æt ðɪ ˈɛɹpɔːɹt."
         },
         {
-          "text": "— El tren sale del andén cuatro.",
+          "text": "— Acabo de llegar al aeropuerto.",
           "segments": [
             {
-              "text": "— El tren sale del andén cuatro.",
+              "text": "— Acabo de llegar al aeropuerto.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— el tɾˈen sˈale ðel andˈen kwˈatɾo."
+          "phonemes": "— akˈaβo ðe ʝeɣˈaɾ al ˌaeɾopwˈeɾto."
         },
         {
-          "text": "We've just arrived at the airport.",
+          "text": "I have to confirm my flight.",
           "segments": [
             {
-              "text": "We've just arrived at the airport.",
+              "text": "I have to confirm my flight.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wiːv dʒˈʌst ɚɹˈaɪvd æt ðɪ ˈɛɹpɔːɹt."
+          "phonemes": "aɪ hæv tə kənfˈɜːm maɪ flˈaɪt."
         },
         {
-          "text": "— Acabamos de llegar al aeropuerto.",
+          "text": "— Tengo que confirmar mi vuelo.",
           "segments": [
             {
-              "text": "— Acabamos de llegar al aeropuerto.",
+              "text": "— Tengo que confirmar mi vuelo.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— ˌakaβˈamos ðe ʝeɣˈaɾ al ˌaeɾopwˈeɾto."
+          "phonemes": "— tˈɛŋɡo ke kˌonfiɾmˈaɾ mi βwˈelo."
         },
         {
-          "text": "I have a reservation under Rivera.",
+          "text": "I'm going to change trains.",
           "segments": [
             {
-              "text": "I have a reservation under Rivera.",
+              "text": "I'm going to change trains.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪ hæv ɐ ɹˌɛzɚvˈeɪʃən ˌʌndɚ ɹɪvˈɛɹə."
+          "phonemes": "aɪm ɡˌoʊɪŋ tə tʃˈeɪndʒ tɹˈeɪnz."
         },
         {
-          "text": "— Tengo una reserva a nombre de Rivera.",
+          "text": "— Voy a cambiar de tren.",
           "segments": [
             {
-              "text": "— Tengo una reserva a nombre de Rivera.",
+              "text": "— Voy a cambiar de tren.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— tˈɛŋɡo ˈuna resˈeɾβa a nˈombɾe ðe riβˈeɾa."
+          "phonemes": "— bˈoɪ a kambjˈaɾ ðe tɾˈen."
         },
         {
-          "text": "My luggage is missing.",
+          "text": "I don't want to miss the bus.",
           "segments": [
             {
-              "text": "My luggage is missing.",
+              "text": "I don't want to miss the bus.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "maɪ lˈʌɡɪdʒ ɪz mˈɪsɪŋ."
+          "phonemes": "aɪ dˈoʊnt wˈɔnt tə mˈɪs ðə bˈʌs."
         },
         {
-          "text": "— No aparece mi equipaje.",
+          "text": "— No quiero perder el autobús.",
           "segments": [
             {
-              "text": "— No aparece mi equipaje.",
+              "text": "— No quiero perder el autobús.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— nˈo ˌapaɾˈese mi ˌekipˈaxe."
+          "phonemes": "— nˈo kjˈeɾo peɾðˈeɾ el ˌaʊtoβˈus."
         },
         {
-          "text": "We're going to stay for three nights.",
+          "text": "The flight is delayed an hour.",
           "segments": [
             {
-              "text": "We're going to stay for three nights.",
+              "text": "The flight is delayed an hour.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wɪɹ ɡˌoʊɪŋ tə stˈeɪ fɔːɹ θɹˈiː nˈaɪts."
+          "phonemes": "ðə flˈaɪt ɪz dᵻlˈeɪd ɐn ˈaʊɚ."
         },
         {
-          "text": "— Vamos a quedarnos tres noches.",
+          "text": "— El vuelo se retrasa una hora.",
           "segments": [
             {
-              "text": "— Vamos a quedarnos tres noches.",
+              "text": "— El vuelo se retrasa una hora.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— bˈamos a keðˈaɾnos tɾˈes nˈotʃes."
+          "phonemes": "— el βwˈelo se retɾˈasa ˈuna ˈoɾa."
         }
       ]
     },
@@ -419,129 +429,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "a ticket",
+      "text": "to have just",
       "sentences": [
         {
-          "text": "a ticket",
+          "text": "to have just",
           "segments": [
             {
-              "text": "a ticket",
+              "text": "to have just",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ tˈɪkɪt"
+          "phonemes": "tə hæv dʒˈʌst"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "a flight",
+      "text": "to have to",
       "sentences": [
         {
-          "text": "a flight",
+          "text": "to have to",
           "segments": [
             {
-              "text": "a flight",
+              "text": "to have to",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ flˈaɪt"
+          "phonemes": "tə hˈæv tuː"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "a platform",
+      "text": "going to",
       "sentences": [
         {
-          "text": "a platform",
+          "text": "going to",
           "segments": [
             {
-              "text": "a platform",
+              "text": "going to",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ plˈætfɔːɹm"
+          "phonemes": "ɡˈoʊɪŋ tuː"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "a reservation",
+      "text": "an itinerary",
       "sentences": [
         {
-          "text": "a reservation",
+          "text": "an itinerary",
           "segments": [
             {
-              "text": "a reservation",
+              "text": "an itinerary",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ ɹˌɛzɚvˈeɪʃən"
+          "phonemes": "ɐn aɪtˈɪnɚɹˌɛɹi"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "a room",
+      "text": "to change",
       "sentences": [
         {
-          "text": "a room",
+          "text": "to change",
           "segments": [
             {
-              "text": "a room",
+              "text": "to change",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ ɹˈuːm"
+          "phonemes": "tə tʃˈeɪndʒ"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "luggage",
+      "text": "to miss",
       "sentences": [
         {
-          "text": "luggage",
+          "text": "to miss",
           "segments": [
             {
-              "text": "luggage",
+              "text": "to miss",
               "lang": "en-us"
             }
           ],
-          "phonemes": "lˈʌɡɪdʒ"
+          "phonemes": "tə mˈɪs"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "to leave",
+      "text": "to be delayed",
       "sentences": [
         {
-          "text": "to leave",
+          "text": "to be delayed",
           "segments": [
             {
-              "text": "to leave",
+              "text": "to be delayed",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə lˈiːv"
+          "phonemes": "təbi dᵻlˈeɪd"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "to arrive",
+      "text": "to confirm",
       "sentences": [
         {
-          "text": "to arrive",
+          "text": "to confirm",
           "segments": [
             {
-              "text": "to arrive",
+              "text": "to confirm",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tʊ ɚɹˈaɪv"
+          "phonemes": "tə kənfˈɜːm"
         }
       ]
     }

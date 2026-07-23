@@ -163,7 +163,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Lenguaje modelo. What do you want to do today? — ¿Qué quieres hacer hoy? When does the bus arrive? — ¿Cuándo llega el autobús? I don't know. Can you repeat that? — No sé. ¿Puedes repetir eso? I have to make a call. — Tengo que hacer una llamada. Why did you say that? — ¿Por qué dijiste eso?",
+      "text": "Lenguaje modelo. Marta calls information. — Marta llama a información. She asks about the market's schedule. — Pregunta por el horario del mercado. She doesn't know when it opens. — No sabe cuándo abre. She asks them to repeat the address. — Pide que repitan la dirección. She waits for a clear answer. — Espera una respuesta clara.",
       "sentences": [
         {
           "text": "Lenguaje modelo.",
@@ -176,124 +176,104 @@
           "phonemes": "leŋɡwˈaxe moðˈelo."
         },
         {
-          "text": "What do you want to do today?",
+          "text": "Marta calls information.",
           "segments": [
             {
-              "text": "What do you want to do today?",
+              "text": "Marta calls information.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wˌʌt dˈuː juː wˈɔnt tə dˈuː tədˈeɪ?"
+          "phonemes": "mˈɑːɹɾə kˈɔːlz ˌɪnfɚmˈeɪʃən."
         },
         {
-          "text": "— ¿Qué quieres hacer hoy?",
+          "text": "— Marta llama a información.",
           "segments": [
             {
-              "text": "— ¿Qué quieres hacer hoy?",
+              "text": "— Marta llama a información.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— kˈe kjˈeɾes asˈeɾ ˈoɪ?"
+          "phonemes": "— mˈaɾta ʝˈama a ˌinfoɾmasjˈon."
         },
         {
-          "text": "When does the bus arrive?",
+          "text": "She asks about the market's schedule.",
           "segments": [
             {
-              "text": "When does the bus arrive?",
+              "text": "She asks about the market's schedule.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wˌɛn dˈʌz ðə bˈʌs ɚɹˈaɪv?"
+          "phonemes": "ʃiː ˈæsks ɐbˌaʊt ðə mˈɑːɹkɪts skˈɛdʒuːl."
         },
         {
-          "text": "— ¿Cuándo llega el autobús?",
+          "text": "— Pregunta por el horario del mercado.",
           "segments": [
             {
-              "text": "— ¿Cuándo llega el autobús?",
+              "text": "— Pregunta por el horario del mercado.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— kwˈando ʝˈeɣa el ˌaʊtoβˈus?"
+          "phonemes": "— pɾeɣˈunta poɾ el oɾˈaɾjo ðel meɾkˈaðo."
         },
         {
-          "text": "I don't know.",
+          "text": "She doesn't know when it opens.",
           "segments": [
             {
-              "text": "I don't know.",
+              "text": "She doesn't know when it opens.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪ dˈoʊnt nˈoʊ."
+          "phonemes": "ʃiː dˈʌzənt nˈoʊ wɛn ɪɾ ˈoʊpənz."
         },
         {
-          "text": "Can you repeat that?",
+          "text": "— No sabe cuándo abre.",
           "segments": [
             {
-              "text": "Can you repeat that?",
+              "text": "— No sabe cuándo abre.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— nˈo sˈaβe kwˈando ˈaβɾe."
+        },
+        {
+          "text": "She asks them to repeat the address.",
+          "segments": [
+            {
+              "text": "She asks them to repeat the address.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "kæn juː ɹᵻpˈiːt ðˈæt?"
+          "phonemes": "ʃiː ˈæsks ðˌɛm tə ɹᵻpˈiːt ðɪ ɐdɹˈɛs."
         },
         {
-          "text": "— No sé.",
+          "text": "— Pide que repitan la dirección.",
           "segments": [
             {
-              "text": "— No sé.",
+              "text": "— Pide que repitan la dirección.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— nˈo sˈe."
+          "phonemes": "— pˈiðe ke repˈitan la ðˌiɾeksjˈon."
         },
         {
-          "text": "¿Puedes repetir eso?",
+          "text": "She waits for a clear answer.",
           "segments": [
             {
-              "text": "¿Puedes repetir eso?",
-              "lang": "es-419"
-            }
-          ],
-          "phonemes": "pwˈeðes rˌepetˈiɾ ˈeso?"
-        },
-        {
-          "text": "I have to make a call.",
-          "segments": [
-            {
-              "text": "I have to make a call.",
+              "text": "She waits for a clear answer.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪ hæv tə mˌeɪk ɐ kˈɔːl."
+          "phonemes": "ʃiː wˈeɪts fɚɹə klˈɪɹ ˈænsɚ."
         },
         {
-          "text": "— Tengo que hacer una llamada.",
+          "text": "— Espera una respuesta clara.",
           "segments": [
             {
-              "text": "— Tengo que hacer una llamada.",
+              "text": "— Espera una respuesta clara.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— tˈɛŋɡo ke asˈeɾ ˈuna ʝamˈaða."
-        },
-        {
-          "text": "Why did you say that?",
-          "segments": [
-            {
-              "text": "Why did you say that?",
-              "lang": "en-us"
-            }
-          ],
-          "phonemes": "wˌaɪ dˈɪd juː sˈeɪ ðˈæt?"
-        },
-        {
-          "text": "— ¿Por qué dijiste eso?",
-          "segments": [
-            {
-              "text": "— ¿Por qué dijiste eso?",
-              "lang": "es-419"
-            }
-          ],
-          "phonemes": "— poɾ kˈe ðixˈiste ˈeso?"
+          "phonemes": "— espˈeɾa ˈuna respwˈesta klˈaɾa."
         }
       ]
     },
@@ -345,129 +325,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "what",
+      "text": "information desk",
       "sentences": [
         {
-          "text": "what",
+          "text": "information desk",
           "segments": [
             {
-              "text": "what",
+              "text": "information desk",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wˌʌt"
+          "phonemes": "ˌɪnfɚmˈeɪʃən dˈɛsk"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "who",
+      "text": "a schedule",
       "sentences": [
         {
-          "text": "who",
+          "text": "a schedule",
           "segments": [
             {
-              "text": "who",
+              "text": "a schedule",
               "lang": "en-us"
             }
           ],
-          "phonemes": "hˈuː"
+          "phonemes": "ɐ skˈɛdʒuːl"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "when",
+      "text": "to open",
       "sentences": [
         {
-          "text": "when",
+          "text": "to open",
           "segments": [
             {
-              "text": "when",
+              "text": "to open",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wˌɛn"
+          "phonemes": "tʊ ˈoʊpən"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "where",
+      "text": "to repeat",
       "sentences": [
         {
-          "text": "where",
+          "text": "to repeat",
           "segments": [
             {
-              "text": "where",
+              "text": "to repeat",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wˈɛɹ"
+          "phonemes": "tə ɹᵻpˈiːt"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "why",
+      "text": "an address",
       "sentences": [
         {
-          "text": "why",
+          "text": "an address",
           "segments": [
             {
-              "text": "why",
+              "text": "an address",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wˈaɪ"
+          "phonemes": "ɐn ɐdɹˈɛs"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "how",
+      "text": "to call",
       "sentences": [
         {
-          "text": "how",
+          "text": "to call",
           "segments": [
             {
-              "text": "how",
+              "text": "to call",
               "lang": "en-us"
             }
           ],
-          "phonemes": "hˈaʊ"
+          "phonemes": "tə kˈɔːl"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "can",
+      "text": "to wait",
       "sentences": [
         {
-          "text": "can",
+          "text": "to wait",
           "segments": [
             {
-              "text": "can",
+              "text": "to wait",
               "lang": "en-us"
             }
           ],
-          "phonemes": "kˈæn"
+          "phonemes": "tə wˈeɪt"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "to want",
+      "text": "to explain",
       "sentences": [
         {
-          "text": "to want",
+          "text": "to explain",
           "segments": [
             {
-              "text": "to want",
+              "text": "to explain",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə wˈɔnt"
+          "phonemes": "tʊ ɛksplˈeɪn"
         }
       ]
     }

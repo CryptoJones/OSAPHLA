@@ -181,7 +181,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Model language. La farmacia está cerca de la plaza. — The pharmacy is near the plaza. Hay un banco delante del hotel. — There is a bank in front of the hotel. El museo está cerrado hoy. — The museum is closed today. ¿Dónde están los baños? — Where are the restrooms? La reunión es en la sala azul. — The meeting is in the blue room.",
+      "text": "Model language. La farmacia está cerca de la plaza. — The pharmacy is near the square. Hay un banco delante del hotel. — There is a bank in front of the hotel. El museo está cerrado hoy. — The museum is closed today. ¿Dónde están los baños? — Where are the restrooms? La reunión es en la sala azul. — The meeting is in the blue room.",
       "sentences": [
         {
           "text": "Model language.",
@@ -204,14 +204,14 @@
           "phonemes": "la faɾmˈasja estˈa sˈeɾka ðe la plˈasa."
         },
         {
-          "text": "— The pharmacy is near the plaza.",
+          "text": "— The pharmacy is near the square.",
           "segments": [
             {
-              "text": "— The pharmacy is near the plaza.",
+              "text": "— The pharmacy is near the square.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ðə fˈɑːɹməsi ɪz nˌɪɹ ðə plˈɑːzə."
+          "phonemes": "— ðə fˈɑːɹməsi ɪz nˌɪɹ ðə skwˈɛɹ."
         },
         {
           "text": "Hay un banco delante del hotel.",

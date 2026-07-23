@@ -163,7 +163,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Model language. Apague el equipo antes de abrirlo. — Turn off the equipment before opening it. No compartas esa contraseña. — Do not share that password. Asegúrense de guardar una copia. — Make sure you save a copy. Comprobemos los datos otra vez. — Let's check the data again. Conviene evitar este camino de noche. — It is advisable to avoid this road at night.",
+      "text": "Model language. Las instrucciones exigen apagar el sistema. — The instructions require turning off the system. También piden guardar una copia. — They also ask for a saved copy. Un técnico omite el segundo paso. — A technician skips the second step. El equipo debe repetir el proceso. — The team has to repeat the process. Comprobar cada paso evita errores. — Checking each step avoids mistakes.",
       "sentences": [
         {
           "text": "Model language.",
@@ -176,104 +176,104 @@
           "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
         },
         {
-          "text": "Apague el equipo antes de abrirlo.",
+          "text": "Las instrucciones exigen apagar el sistema.",
           "segments": [
             {
-              "text": "Apague el equipo antes de abrirlo.",
+              "text": "Las instrucciones exigen apagar el sistema.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "apˈaɣe el ekˈipo ˈantes ðe aβɾˈiɾlo."
+          "phonemes": "las ˌinstɾuksjˈones eksˈixen ˌapaɣˈaɾ el sistˈema."
         },
         {
-          "text": "— Turn off the equipment before opening it.",
+          "text": "— The instructions require turning off the system.",
           "segments": [
             {
-              "text": "— Turn off the equipment before opening it.",
+              "text": "— The instructions require turning off the system.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— tˈɜːn ˈɔf ðɪ ɪkwˈɪpmənt bᵻfˌɔːɹ ˈoʊpənɪŋ ɪt."
+          "phonemes": "— ðɪ ɪnstɹˈʌkʃənz ɹᵻkwˈaɪɚ tˈɜːnɪŋ ˈɔf ðə sˈɪstəm."
         },
         {
-          "text": "No compartas esa contraseña.",
+          "text": "También piden guardar una copia.",
           "segments": [
             {
-              "text": "No compartas esa contraseña.",
+              "text": "También piden guardar una copia.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "nˈo kompˈaɾtas ˈesa kˌontɾasˈeɲa."
+          "phonemes": "tambjˈem pˈiðeŋ ɡwaɾðˈaɾ ˈuna kˈopja."
         },
         {
-          "text": "— Do not share that password.",
+          "text": "— They also ask for a saved copy.",
           "segments": [
             {
-              "text": "— Do not share that password.",
+              "text": "— They also ask for a saved copy.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— duːnˌɑːt ʃˈɛɹ ðæt pˈæswɜːd."
+          "phonemes": "— ðeɪ ˈɔːlsoʊ ˈæsk fɚɹə sˈeɪvd kˈɑːpi."
         },
         {
-          "text": "Asegúrense de guardar una copia.",
+          "text": "Un técnico omite el segundo paso.",
           "segments": [
             {
-              "text": "Asegúrense de guardar una copia.",
+              "text": "Un técnico omite el segundo paso.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˌaseɣˈuɾense ðe ɣwaɾðˈaɾ ˈuna kˈopja."
+          "phonemes": "ˈun tˈekniko omˈite el seɣˈundo pˈaso."
         },
         {
-          "text": "— Make sure you save a copy.",
+          "text": "— A technician skips the second step.",
           "segments": [
             {
-              "text": "— Make sure you save a copy.",
+              "text": "— A technician skips the second step.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— mˌeɪk ʃˈʊɹ juː sˈeɪv ɐ kˈɑːpi."
+          "phonemes": "— ɐ tɛknˈɪʃən skˈɪps ðə sˈɛkənd stˈɛp."
         },
         {
-          "text": "Comprobemos los datos otra vez.",
+          "text": "El equipo debe repetir el proceso.",
           "segments": [
             {
-              "text": "Comprobemos los datos otra vez.",
+              "text": "El equipo debe repetir el proceso.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "kˌompɾoβˈemos los ðˈatos ˈotɾa βˈes."
+          "phonemes": "el ekˈipo ðˈeβe rˌepetˈiɾ el pɾosˈeso."
         },
         {
-          "text": "— Let's check the data again.",
+          "text": "— The team has to repeat the process.",
           "segments": [
             {
-              "text": "— Let's check the data again.",
+              "text": "— The team has to repeat the process.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— lˈɛts tʃˈɛk ðə dˈeɪɾə ɐɡˈɛn."
+          "phonemes": "— ðə tˈiːm hɐz tə ɹᵻpˈiːt ðə pɹˈɑːsɛs."
         },
         {
-          "text": "Conviene evitar este camino de noche.",
+          "text": "Comprobar cada paso evita errores.",
           "segments": [
             {
-              "text": "Conviene evitar este camino de noche.",
+              "text": "Comprobar cada paso evita errores.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "kombjˈene ˌeβitˈaɾ ˈeste kamˈino ðe nˈotʃe."
+          "phonemes": "kˌompɾoβˈaɾ kˈaða pˈaso eβˈita erˈoɾes."
         },
         {
-          "text": "— It is advisable to avoid this road at night.",
+          "text": "— Checking each step avoids mistakes.",
           "segments": [
             {
-              "text": "— It is advisable to avoid this road at night.",
+              "text": "— Checking each step avoids mistakes.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ɪɾ ɪz ɐdvˈaɪzəbəl tʊ ɐvˈɔɪd ðɪs ɹˈoʊd æt nˈaɪt."
+          "phonemes": "— tʃˈɛkɪŋ ˈiːtʃ stˈɛp ɐvˈɔɪdz mɪstˈeɪks."
         }
       ]
     },
@@ -325,129 +325,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "apagar",
+      "text": "exigir",
       "sentences": [
         {
-          "text": "apagar",
+          "text": "exigir",
           "segments": [
             {
-              "text": "apagar",
+              "text": "exigir",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˌapaɣˈaɾ"
+          "phonemes": "ˌeksixˈiɾ"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "encender",
+      "text": "el sistema",
       "sentences": [
         {
-          "text": "encender",
+          "text": "el sistema",
           "segments": [
             {
-              "text": "encender",
+              "text": "el sistema",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˌensendˈeɾ"
+          "phonemes": "el sistˈema"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "comprobar",
+      "text": "omitir",
       "sentences": [
         {
-          "text": "comprobar",
+          "text": "omitir",
           "segments": [
             {
-              "text": "comprobar",
+              "text": "omitir",
               "lang": "es-419"
             }
           ],
-          "phonemes": "kˌompɾoβˈaɾ"
+          "phonemes": "ˌomitˈiɾ"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "guardar",
+      "text": "repetir",
       "sentences": [
         {
-          "text": "guardar",
+          "text": "repetir",
           "segments": [
             {
-              "text": "guardar",
+              "text": "repetir",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ɡwaɾðˈaɾ"
+          "phonemes": "rˌepetˈiɾ"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "evitar",
+      "text": "el técnico",
       "sentences": [
         {
-          "text": "evitar",
+          "text": "el técnico",
           "segments": [
             {
-              "text": "evitar",
+              "text": "el técnico",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˌeβitˈaɾ"
+          "phonemes": "el tˈekniko"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "asegurarse",
+      "text": "segundo",
       "sentences": [
         {
-          "text": "asegurarse",
+          "text": "segundo",
           "segments": [
             {
-              "text": "asegurarse",
+              "text": "segundo",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˌaseɣuɾˈaɾse"
+          "phonemes": "seɣˈundo"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "el paso",
+      "text": "el proceso",
       "sentences": [
         {
-          "text": "el paso",
+          "text": "el proceso",
           "segments": [
             {
-              "text": "el paso",
+              "text": "el proceso",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el pˈaso"
+          "phonemes": "el pɾosˈeso"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "la instrucción",
+      "text": "comprobar cada paso",
       "sentences": [
         {
-          "text": "la instrucción",
+          "text": "comprobar cada paso",
           "segments": [
             {
-              "text": "la instrucción",
+              "text": "comprobar cada paso",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la ˌinstɾuksjˈon"
+          "phonemes": "kˌompɾoβˈaɾ kˈaða pˈaso"
         }
       ]
     }

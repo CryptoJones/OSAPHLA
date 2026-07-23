@@ -183,7 +183,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Lenguaje modelo. I'm from Mexico. — Soy de México. My last name is Clark. — Mi apellido es Clark. Today is July nineteenth. — Hoy es diecinueve de julio. It's three fifteen. — Son las tres y quince. What time is the meeting? — ¿A qué hora es la reunión?",
+      "text": "Lenguaje modelo. The form asks for a first and last name. — El formulario pide un nombre y un apellido. It also asks for the country of origin. — También pide el país de origen. The appointment is Tuesday at nine thirty. — La cita es el martes a las nueve y media. Elena confirms the date. — Elena confirma la fecha. She saves the contact number. — Guarda el número de contacto.",
       "sentences": [
         {
           "text": "Lenguaje modelo.",
@@ -196,104 +196,104 @@
           "phonemes": "leŋɡwˈaxe moðˈelo."
         },
         {
-          "text": "I'm from Mexico.",
+          "text": "The form asks for a first and last name.",
           "segments": [
             {
-              "text": "I'm from Mexico.",
+              "text": "The form asks for a first and last name.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪm fɹʌm mˈɛksɪkˌoʊ."
+          "phonemes": "ðə fˈɔːɹm ˈæsks fɚɹə fˈɜːst ænd lˈæst nˈeɪm."
         },
         {
-          "text": "— Soy de México.",
+          "text": "— El formulario pide un nombre y un apellido.",
           "segments": [
             {
-              "text": "— Soy de México.",
+              "text": "— El formulario pide un nombre y un apellido.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— sˈoɪ ðe mˈɛxiko."
+          "phonemes": "— el fˌoɾmulˈaɾjo pˈiðe ˈun nˈombɾe i ˈun ˌapejjˈiðo."
         },
         {
-          "text": "My last name is Clark.",
+          "text": "It also asks for the country of origin.",
           "segments": [
             {
-              "text": "My last name is Clark.",
+              "text": "It also asks for the country of origin.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "maɪ lˈæst nˈeɪm ɪz klˈɑːɹk."
+          "phonemes": "ɪɾ ˈɔːlsoʊ ˈæsks fɚðə kˈʌntɹi ʌv ˈɔːɹɪdʒˌɪn."
         },
         {
-          "text": "— Mi apellido es Clark.",
+          "text": "— También pide el país de origen.",
           "segments": [
             {
-              "text": "— Mi apellido es Clark.",
+              "text": "— También pide el país de origen.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— mi ˌapejjˈiðo ˈes klˈaɾk."
+          "phonemes": "— tambjˈem pˈiðe el paˈis ðe oɾˈixen."
         },
         {
-          "text": "Today is July nineteenth.",
+          "text": "The appointment is Tuesday at nine thirty.",
           "segments": [
             {
-              "text": "Today is July nineteenth.",
+              "text": "The appointment is Tuesday at nine thirty.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tədˈeɪ ɪz dʒuːlˈaɪ nˈaɪntiːnθ."
+          "phonemes": "ðɪ ɐpˈɔɪntmənt ɪz tˈuːzdeɪ æt nˈaɪn θˈɜːɾi."
         },
         {
-          "text": "— Hoy es diecinueve de julio.",
+          "text": "— La cita es el martes a las nueve y media.",
           "segments": [
             {
-              "text": "— Hoy es diecinueve de julio.",
+              "text": "— La cita es el martes a las nueve y media.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— ˈoɪ ˈes ðjˌesinwˈeβe ðe xˈuljo."
+          "phonemes": "— la sˈita ˈes el mˈaɾtes a las nwˈeβe i mˈeðja."
         },
         {
-          "text": "It's three fifteen.",
+          "text": "Elena confirms the date.",
           "segments": [
             {
-              "text": "It's three fifteen.",
+              "text": "Elena confirms the date.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɪts θɹˈiː fˈɪftiːn."
+          "phonemes": "ᵻlˈiːnə kənfˈɜːmz ðə dˈeɪt."
         },
         {
-          "text": "— Son las tres y quince.",
+          "text": "— Elena confirma la fecha.",
           "segments": [
             {
-              "text": "— Son las tres y quince.",
+              "text": "— Elena confirma la fecha.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— sˈon las tɾˈes i kˈinse."
+          "phonemes": "— elˈena konfˈiɾma la fˈetʃa."
         },
         {
-          "text": "What time is the meeting?",
+          "text": "She saves the contact number.",
           "segments": [
             {
-              "text": "What time is the meeting?",
+              "text": "She saves the contact number.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wˌʌt tˈaɪm ɪz ðə mˈiːɾɪŋ?"
+          "phonemes": "ʃiː sˈeɪvz ðə kˈɑːntækt nˈʌmbɚ."
         },
         {
-          "text": "— ¿A qué hora es la reunión?",
+          "text": "— Guarda el número de contacto.",
           "segments": [
             {
-              "text": "— ¿A qué hora es la reunión?",
+              "text": "— Guarda el número de contacto.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— a kˈe ˈoɾa ˈes la reʊnjˈon?"
+          "phonemes": "— ɡwˈaɾða el nˈumeɾo ðe kontˈakto."
         }
       ]
     },
@@ -345,129 +345,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "a first name",
+      "text": "a form",
       "sentences": [
         {
-          "text": "a first name",
+          "text": "a form",
           "segments": [
             {
-              "text": "a first name",
+              "text": "a form",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ fˈɜːst nˈeɪm"
+          "phonemes": "ɐ fˈɔːɹm"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "a last name",
+      "text": "to ask for",
       "sentences": [
         {
-          "text": "a last name",
+          "text": "to ask for",
           "segments": [
             {
-              "text": "a last name",
+              "text": "to ask for",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ lˈæst nˈeɪm"
+          "phonemes": "tʊ ˈæsk fɔːɹ"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "a country",
+      "text": "an appointment",
       "sentences": [
         {
-          "text": "a country",
+          "text": "an appointment",
           "segments": [
             {
-              "text": "a country",
+              "text": "an appointment",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ kˈʌntɹi"
+          "phonemes": "ɐn ɐpˈɔɪntmənt"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "a city",
+      "text": "to confirm",
       "sentences": [
         {
-          "text": "a city",
+          "text": "to confirm",
           "segments": [
             {
-              "text": "a city",
+              "text": "to confirm",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ sˈɪɾi"
+          "phonemes": "tə kənfˈɜːm"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "a number",
+      "text": "to save",
       "sentences": [
         {
-          "text": "a number",
+          "text": "to save",
           "segments": [
             {
-              "text": "a number",
+              "text": "to save",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ nˈʌmbɚ"
+          "phonemes": "tə sˈeɪv"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "a date",
+      "text": "a contact",
       "sentences": [
         {
-          "text": "a date",
+          "text": "a contact",
           "segments": [
             {
-              "text": "a date",
+              "text": "a contact",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ dˈeɪt"
+          "phonemes": "ɐ kˈɑːntækt"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "the time",
+      "text": "to complete",
       "sentences": [
         {
-          "text": "the time",
+          "text": "to complete",
           "segments": [
             {
-              "text": "the time",
+              "text": "to complete",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə tˈaɪm"
+          "phonemes": "tə kəmplˈiːt"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "today",
+      "text": "Tuesday",
       "sentences": [
         {
-          "text": "today",
+          "text": "Tuesday",
           "segments": [
             {
-              "text": "today",
+              "text": "Tuesday",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tədˈeɪ"
+          "phonemes": "tˈuːzdeɪ"
         }
       ]
     }

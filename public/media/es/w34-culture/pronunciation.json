@@ -173,7 +173,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Model language. ¿Vos tenés tiempo mañana? — Do you have time tomorrow? Vosotros podéis entrar por aquí. — You all can enter here. Ustedes esperan la guagua en esa esquina. — You all wait for the bus on that corner. En México, camión puede significar autobús. — In Mexico, camión can mean bus. No entendí esa palabra; ¿qué significa aquí? — I did not understand that word; what does it mean here?",
+      "text": "Model language. España, México y el Caribe no hablan igual. — Spain, Mexico, and the Caribbean don't speak the same way. Los Andes y el Río de la Plata también son distintos. — The Andes and the River Plate are also different. Cada país hispanohablante es internamente diverso. — Every Spanish-speaking country is internally diverse. Ningún país representa la totalidad del español. — No country represents the whole of Spanish. Es mejor evitar la caricatura de un acento. — It's best to avoid caricaturing an accent.",
       "sentences": [
         {
           "text": "Model language.",
@@ -186,112 +186,104 @@
           "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
         },
         {
-          "text": "¿Vos tenés tiempo mañana?",
+          "text": "España, México y el Caribe no hablan igual.",
           "segments": [
             {
-              "text": "¿Vos tenés tiempo mañana?",
+              "text": "España, México y el Caribe no hablan igual.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "bˈos tenˈes tjˈempo maɲˈana?"
+          "phonemes": "espˈaɲa, mˈɛxiko i el kaɾˈiβe nˈo ˈaβlan iɣwˈal."
         },
         {
-          "text": "— Do you have time tomorrow?",
+          "text": "— Spain, Mexico, and the Caribbean don't speak the same way.",
           "segments": [
             {
-              "text": "— Do you have time tomorrow?",
+              "text": "— Spain, Mexico, and the Caribbean don't speak the same way.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— dˈuː juː hæv tˈaɪm təmˈɑːɹoʊ?"
+          "phonemes": "— spˈeɪn, mˈɛksɪkˌoʊ, ænd ðə kˌæɹəbˈiən dˈoʊnt spˈiːk ðə sˈeɪm wˈeɪ."
         },
         {
-          "text": "Vosotros podéis entrar por aquí.",
+          "text": "Los Andes y el Río de la Plata también son distintos.",
           "segments": [
             {
-              "text": "Vosotros podéis entrar por aquí.",
+              "text": "Los Andes y el Río de la Plata también son distintos.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "bosˈotɾos poðˈeis entɾˈaɾ poɾ akˈi."
+          "phonemes": "los ˈandes i el rˈio ðe la plˈata tambjˈen sˈon distˈintos."
         },
         {
-          "text": "— You all can enter here.",
+          "text": "— The Andes and the River Plate are also different.",
           "segments": [
             {
-              "text": "— You all can enter here.",
+              "text": "— The Andes and the River Plate are also different.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— juː ˈɔːl kæn ˈɛntɚ hˈɪɹ."
+          "phonemes": "— ðɪ ˈændiːz ænd ðə ɹˈɪvɚ plˈeɪt ɑːɹ ˈɔːlsoʊ dˈɪfɹənt."
         },
         {
-          "text": "Ustedes esperan la guagua en esa esquina.",
+          "text": "Cada país hispanohablante es internamente diverso.",
           "segments": [
             {
-              "text": "Ustedes esperan la guagua en esa esquina.",
+              "text": "Cada país hispanohablante es internamente diverso.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ustˈeðes espˈeɾan la ɣwˈaɣwa en ˈesa eskˈina."
+          "phonemes": "kˈaða paˈis ˌispanˌoaβlˈante ˈes intˈeɾnamˈente ðiβˈeɾso."
         },
         {
-          "text": "— You all wait for the bus on that corner.",
+          "text": "— Every Spanish-speaking country is internally diverse.",
           "segments": [
             {
-              "text": "— You all wait for the bus on that corner.",
+              "text": "— Every Spanish-speaking country is internally diverse.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— juː ˈɔːl wˈeɪt fɚðə bˈʌs ˌɔn ðæt kˈɔːɹnɚ."
+          "phonemes": "— ˈɛvɹi spˈænɪʃspˈiːkɪŋ kˈʌntɹi ɪz ɪntˈɜːnəli daɪvˈɜːs."
         },
         {
-          "text": "En México, camión puede significar autobús.",
+          "text": "Ningún país representa la totalidad del español.",
           "segments": [
             {
-              "text": "En México, camión puede significar autobús.",
+              "text": "Ningún país representa la totalidad del español.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "en mˈɛxiko, kamjˈom pwˈeðe sˌiɡnifikˈaɾ ˌaʊtoβˈus."
+          "phonemes": "niŋɡˈum paˈis rˌepɾesˈɛnta la tˌotaliðˈad ðel ˌespaɲˈol."
         },
         {
-          "text": "— In Mexico, camión can mean bus.",
+          "text": "— No country represents the whole of Spanish.",
           "segments": [
             {
-              "text": "— In Mexico, ",
-              "lang": "en-us"
-            },
-            {
-              "text": "camión",
-              "lang": "es-419"
-            },
-            {
-              "text": " can mean bus.",
+              "text": "— No country represents the whole of Spanish.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ɪn mˈɛksɪkˌoʊ, kamjˈon kæn mˈiːn bˈʌs."
+          "phonemes": "— nˈoʊ kˈʌntɹi ɹˌɛpɹᵻzˈɛnts ðə hˈoʊl ʌv spˈænɪʃ."
         },
         {
-          "text": "No entendí esa palabra; ¿qué significa aquí?",
+          "text": "Es mejor evitar la caricatura de un acento.",
           "segments": [
             {
-              "text": "No entendí esa palabra; ¿qué significa aquí?",
+              "text": "Es mejor evitar la caricatura de un acento.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "nˈo ˌentendˈi ˈesa palˈaβɾa; kˈe sˌiɡnifˈika akˈi?"
+          "phonemes": "ˈes mexˈoɾ ˌeβitˈaɾ la kˌaɾikatˈuɾa ðe ˈun asˈɛnto."
         },
         {
-          "text": "— I did not understand that word; what does it mean here?",
+          "text": "— It's best to avoid caricaturing an accent.",
           "segments": [
             {
-              "text": "— I did not understand that word; what does it mean here?",
+              "text": "— It's best to avoid caricaturing an accent.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— aɪ dɪdnˌɑːt ˌʌndɚstˈænd ðæt wˈɜːd; wˌʌt dˈʌz ɪt mˈiːn hˈɪɹ?"
+          "phonemes": "— ɪts bˈɛst tʊ ɐvˈɔɪd kˈæɹɪkətʃˌʊɹɹɪŋ ɐn ˈæksənt."
         }
       ]
     },
@@ -343,129 +335,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "el autobús",
+      "text": "el país hispanohablante",
       "sentences": [
         {
-          "text": "el autobús",
+          "text": "el país hispanohablante",
           "segments": [
             {
-              "text": "el autobús",
+              "text": "el país hispanohablante",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el ˌaʊtoβˈus"
+          "phonemes": "el paˈis ˌispanˌoaβlˈante"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "el camión",
+      "text": "el Caribe",
       "sentences": [
         {
-          "text": "el camión",
+          "text": "el Caribe",
           "segments": [
             {
-              "text": "el camión",
+              "text": "el Caribe",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el kamjˈon"
+          "phonemes": "el kaɾˈiβe"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "la guagua",
+      "text": "los Andes",
       "sentences": [
         {
-          "text": "la guagua",
+          "text": "los Andes",
           "segments": [
             {
-              "text": "la guagua",
+              "text": "los Andes",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la ɣwˈaɣwa"
+          "phonemes": "los ˈandes"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "el móvil",
+      "text": "el Río de la Plata",
       "sentences": [
         {
-          "text": "el móvil",
+          "text": "el Río de la Plata",
           "segments": [
             {
-              "text": "el móvil",
+              "text": "el Río de la Plata",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el mˈoβil"
+          "phonemes": "el rˈio ðe la plˈata"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "el celular",
+      "text": "internamente diverso",
       "sentences": [
         {
-          "text": "el celular",
+          "text": "internamente diverso",
           "segments": [
             {
-              "text": "el celular",
+              "text": "internamente diverso",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el sˌelulˈaɾ"
+          "phonemes": "intˈeɾnamˈente ðiβˈeɾso"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "vos tenés",
+      "text": "representar",
       "sentences": [
         {
-          "text": "vos tenés",
+          "text": "representar",
           "segments": [
             {
-              "text": "vos tenés",
+              "text": "representar",
               "lang": "es-419"
             }
           ],
-          "phonemes": "bˈos tenˈes"
+          "phonemes": "rˌepɾesentˈaɾ"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "vosotros tenéis",
+      "text": "la totalidad",
       "sentences": [
         {
-          "text": "vosotros tenéis",
+          "text": "la totalidad",
           "segments": [
             {
-              "text": "vosotros tenéis",
+              "text": "la totalidad",
               "lang": "es-419"
             }
           ],
-          "phonemes": "bosˈotɾos tenˈeis"
+          "phonemes": "la tˌotaliðˈad"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "ustedes tienen",
+      "text": "evitar la caricatura",
       "sentences": [
         {
-          "text": "ustedes tienen",
+          "text": "evitar la caricatura",
           "segments": [
             {
-              "text": "ustedes tienen",
+              "text": "evitar la caricatura",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ustˈeðes tjˈenen"
+          "phonemes": "ˌeβitˈaɾ la kˌaɾikatˈuɾa"
         }
       ]
     }

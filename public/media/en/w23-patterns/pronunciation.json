@@ -29,7 +29,7 @@
     },
     {
       "file": "01.wav",
-      "text": "Forma y significado. Present perfect frente a simple past; for/since; participios; introducción al past perfect.",
+      "text": "Forma y significado. Aplicación de la forma. El presente perfecto combina have/has con un participio pasado para conectar una acción pasada con el presente: I have worked, he has arrived.",
       "sentences": [
         {
           "text": "Forma y significado.",
@@ -42,48 +42,46 @@
           "phonemes": "fˈoɾma i sˌiɡnifikˈaðo."
         },
         {
-          "text": "Present perfect frente a simple past; for/since; participios; introducción al past perfect.",
+          "text": "Aplicación de la forma.",
           "segments": [
             {
-              "text": "Present perfect",
-              "lang": "en-us"
-            },
-            {
-              "text": " frente a simple past; ",
-              "lang": "es-419"
-            },
-            {
-              "text": "for",
-              "lang": "en-us"
-            },
-            {
-              "text": "/",
-              "lang": "es-419"
-            },
-            {
-              "text": "since",
-              "lang": "en-us"
-            },
-            {
-              "text": "; participios; introducción al ",
-              "lang": "es-419"
-            },
-            {
-              "text": "past perfect",
-              "lang": "en-us"
-            },
-            {
-              "text": ".",
+              "text": "Aplicación de la forma.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "pɹˈɛzənt pˈɜːfɛkt fɾˈɛnte a sˈimple pˈast; fɔːɹ bˈara sˈɪns ; pˌaɾtisˈipjos; ˌintɾoðuksjˈon ˈal pˈæst pˈɜːfɛkt ."
+          "phonemes": "ˌaplikasjˈon de la fˈoɾma."
+        },
+        {
+          "text": "El presente perfecto combina have/has con un participio pasado para conectar una acción pasada con el presente: I have worked, he has arrived.",
+          "segments": [
+            {
+              "text": "El presente perfecto combina ",
+              "lang": "es-419"
+            },
+            {
+              "text": "have",
+              "lang": "en-us"
+            },
+            {
+              "text": "/has con un participio pasado para conectar una acción pasada con el presente: ",
+              "lang": "es-419"
+            },
+            {
+              "text": "I have worked",
+              "lang": "en-us"
+            },
+            {
+              "text": ", he has arrived.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "el pɾesˈɛnte peɾfˈekto kombˈina hˈæv bˈara ˈas kon ˈum pˌaɾtisˈipjo pasˈaðo pˌaɾa kˌonektˈaɾ ˈuna aksjˈom pasˈaða kon el pɾesˈɛnte: aɪ hæv wˈɜːkt , ˈe ˈas ˌariβˈed."
         }
       ]
     },
     {
       "file": "02.wav",
-      "text": "Conjunto de modelos. We've already completed the first phase. The data haven't arrived yet. Have you ever worked abroad? I had sent the report before she called. The situation has changed recently. Ya hemos completado la primera fase. Los datos todavía no han llegado. ¿Alguna vez has trabajado en el extranjero? Había enviado el informe antes de que ella llamara. La situación ha cambiado recientemente.",
+      "text": "Conjunto de modelos. I have worked here for two years. You have lived in several countries. He has arrived late today. We have finished the project. They have changed the rules. He trabajado aquí dos años. Has vivido en varios países. Ha llegado tarde hoy. Hemos terminado el proyecto. Han cambiado las reglas.",
       "sentences": [
         {
           "text": "Conjunto de modelos.",
@@ -96,104 +94,104 @@
           "phonemes": "koŋxˈunto ðe moðˈelos."
         },
         {
-          "text": "We've already completed the first phase.",
+          "text": "I have worked here for two years.",
           "segments": [
             {
-              "text": "We've already completed the first phase.",
+              "text": "I have worked here for two years.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wiːv ɔːlɹˌɛdi kəmplˈiːɾᵻd ðə fˈɜːst fˈeɪz."
+          "phonemes": "aɪ hæv wˈɜːkt hˈɪɹ fɔːɹ tˈuː jˈɪɹz."
         },
         {
-          "text": "The data haven't arrived yet.",
+          "text": "You have lived in several countries.",
           "segments": [
             {
-              "text": "The data haven't arrived yet.",
+              "text": "You have lived in several countries.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə dˈeɪɾə hˈævənt ɚɹˈaɪvd jˈɛt."
+          "phonemes": "juː hæv lˈɪvd ɪn sˈɛvɹəl kˈʌntɹiz."
         },
         {
-          "text": "Have you ever worked abroad?",
+          "text": "He has arrived late today.",
           "segments": [
             {
-              "text": "Have you ever worked abroad?",
+              "text": "He has arrived late today.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "hæv juː ˈɛvɚ wˈɜːkt ɐbɹˈɔːd?"
+          "phonemes": "hiː hɐz ɚɹˈaɪvd lˈeɪt tədˈeɪ."
         },
         {
-          "text": "I had sent the report before she called.",
+          "text": "We have finished the project.",
           "segments": [
             {
-              "text": "I had sent the report before she called.",
+              "text": "We have finished the project.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪ hæd sˈɛnt ðə ɹᵻpˈɔːɹt bᵻfˌɔːɹ ʃiː kˈɔːld."
+          "phonemes": "wiː hæv fˈɪnɪʃt ðə pɹˈɑːdʒɛkt."
         },
         {
-          "text": "The situation has changed recently.",
+          "text": "They have changed the rules.",
           "segments": [
             {
-              "text": "The situation has changed recently.",
+              "text": "They have changed the rules.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə sˌɪtʃuːˈeɪʃən hɐz tʃˈeɪndʒd ɹˈiːsəntli."
+          "phonemes": "ðeɪ hæv tʃˈeɪndʒd ðə ɹˈuːlz."
         },
         {
-          "text": "Ya hemos completado la primera fase.",
+          "text": "He trabajado aquí dos años.",
           "segments": [
             {
-              "text": "Ya hemos completado la primera fase.",
+              "text": "He trabajado aquí dos años.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ʝˈa ˈemos kˌompletˈaðo la pɾimˈeɾa fˈase."
+          "phonemes": "ˈe tɾˌaβaxˈaðo akˈi ðˈos ˈaɲos."
         },
         {
-          "text": "Los datos todavía no han llegado.",
+          "text": "Has vivido en varios países.",
           "segments": [
             {
-              "text": "Los datos todavía no han llegado.",
+              "text": "Has vivido en varios países.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "los ðˈatos tˌoðaβˈia nˈo ˈan dʒeɣˈaðo."
+          "phonemes": "ˈas βiβˈiðo em bˈaɾjos paˈises."
         },
         {
-          "text": "¿Alguna vez has trabajado en el extranjero?",
+          "text": "Ha llegado tarde hoy.",
           "segments": [
             {
-              "text": "¿Alguna vez has trabajado en el extranjero?",
+              "text": "Ha llegado tarde hoy.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "alɣˈuna βˈes ˈas tɾˌaβaxˈaðo en el ˌekstɾaŋxˈeɾo?"
+          "phonemes": "ˈa ʝeɣˈaðo tˈaɾðe ˈoɪ."
         },
         {
-          "text": "Había enviado el informe antes de que ella llamara.",
+          "text": "Hemos terminado el proyecto.",
           "segments": [
             {
-              "text": "Había enviado el informe antes de que ella llamara.",
+              "text": "Hemos terminado el proyecto.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "aβˈia embjˈaðo el infˈoɾme ˈantes ðe ke ˈejja ʝamˈaɾa."
+          "phonemes": "ˈemos tˌeɾminˈaðo el pɾoʝˈekto."
         },
         {
-          "text": "La situación ha cambiado recientemente.",
+          "text": "Han cambiado las reglas.",
           "segments": [
             {
-              "text": "La situación ha cambiado recientemente.",
+              "text": "Han cambiado las reglas.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la sˌitwasjˈon ˈa kambjˈaðo resjˈɛntemˈente."
+          "phonemes": "ˈan kambjˈaðo las rˈeɣlas."
         }
       ]
     },
@@ -261,7 +259,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Lenguaje modelo. We've already completed the first phase. — Ya hemos completado la primera fase. The data haven't arrived yet. — Los datos todavía no han llegado. Have you ever worked abroad? — ¿Alguna vez has trabajado en el extranjero? I had sent the report before she called. — Había enviado el informe antes de que ella llamara. The situation has changed recently. — La situación ha cambiado recientemente.",
+      "text": "Lenguaje modelo. I have worked here for two years. — He trabajado aquí dos años. You have lived in several countries. — Has vivido en varios países. He has arrived late today. — Ha llegado tarde hoy. We have finished the project. — Hemos terminado el proyecto. They have changed the rules. — Han cambiado las reglas.",
       "sentences": [
         {
           "text": "Lenguaje modelo.",
@@ -274,104 +272,104 @@
           "phonemes": "leŋɡwˈaxe moðˈelo."
         },
         {
-          "text": "We've already completed the first phase.",
+          "text": "I have worked here for two years.",
           "segments": [
             {
-              "text": "We've already completed the first phase.",
+              "text": "I have worked here for two years.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wiːv ɔːlɹˌɛdi kəmplˈiːɾᵻd ðə fˈɜːst fˈeɪz."
+          "phonemes": "aɪ hæv wˈɜːkt hˈɪɹ fɔːɹ tˈuː jˈɪɹz."
         },
         {
-          "text": "— Ya hemos completado la primera fase.",
+          "text": "— He trabajado aquí dos años.",
           "segments": [
             {
-              "text": "— Ya hemos completado la primera fase.",
+              "text": "— He trabajado aquí dos años.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— ʝˈa ˈemos kˌompletˈaðo la pɾimˈeɾa fˈase."
+          "phonemes": "— ˈe tɾˌaβaxˈaðo akˈi ðˈos ˈaɲos."
         },
         {
-          "text": "The data haven't arrived yet.",
+          "text": "You have lived in several countries.",
           "segments": [
             {
-              "text": "The data haven't arrived yet.",
+              "text": "You have lived in several countries.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə dˈeɪɾə hˈævənt ɚɹˈaɪvd jˈɛt."
+          "phonemes": "juː hæv lˈɪvd ɪn sˈɛvɹəl kˈʌntɹiz."
         },
         {
-          "text": "— Los datos todavía no han llegado.",
+          "text": "— Has vivido en varios países.",
           "segments": [
             {
-              "text": "— Los datos todavía no han llegado.",
+              "text": "— Has vivido en varios países.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— los ðˈatos tˌoðaβˈia nˈo ˈan dʒeɣˈaðo."
+          "phonemes": "— ˈas βiβˈiðo em bˈaɾjos paˈises."
         },
         {
-          "text": "Have you ever worked abroad?",
+          "text": "He has arrived late today.",
           "segments": [
             {
-              "text": "Have you ever worked abroad?",
+              "text": "He has arrived late today.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "hæv juː ˈɛvɚ wˈɜːkt ɐbɹˈɔːd?"
+          "phonemes": "hiː hɐz ɚɹˈaɪvd lˈeɪt tədˈeɪ."
         },
         {
-          "text": "— ¿Alguna vez has trabajado en el extranjero?",
+          "text": "— Ha llegado tarde hoy.",
           "segments": [
             {
-              "text": "— ¿Alguna vez has trabajado en el extranjero?",
+              "text": "— Ha llegado tarde hoy.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— alɣˈuna βˈes ˈas tɾˌaβaxˈaðo en el ˌekstɾaŋxˈeɾo?"
+          "phonemes": "— ˈa ʝeɣˈaðo tˈaɾðe ˈoɪ."
         },
         {
-          "text": "I had sent the report before she called.",
+          "text": "We have finished the project.",
           "segments": [
             {
-              "text": "I had sent the report before she called.",
+              "text": "We have finished the project.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪ hæd sˈɛnt ðə ɹᵻpˈɔːɹt bᵻfˌɔːɹ ʃiː kˈɔːld."
+          "phonemes": "wiː hæv fˈɪnɪʃt ðə pɹˈɑːdʒɛkt."
         },
         {
-          "text": "— Había enviado el informe antes de que ella llamara.",
+          "text": "— Hemos terminado el proyecto.",
           "segments": [
             {
-              "text": "— Había enviado el informe antes de que ella llamara.",
+              "text": "— Hemos terminado el proyecto.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— aβˈia embjˈaðo el infˈoɾme ˈantes ðe ke ˈejja ʝamˈaɾa."
+          "phonemes": "— ˈemos tˌeɾminˈaðo el pɾoʝˈekto."
         },
         {
-          "text": "The situation has changed recently.",
+          "text": "They have changed the rules.",
           "segments": [
             {
-              "text": "The situation has changed recently.",
+              "text": "They have changed the rules.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə sˌɪtʃuːˈeɪʃən hɐz tʃˈeɪndʒd ɹˈiːsəntli."
+          "phonemes": "ðeɪ hæv tʃˈeɪndʒd ðə ɹˈuːlz."
         },
         {
-          "text": "— La situación ha cambiado recientemente.",
+          "text": "— Han cambiado las reglas.",
           "segments": [
             {
-              "text": "— La situación ha cambiado recientemente.",
+              "text": "— Han cambiado las reglas.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— la sˌitwasjˈon ˈa kambjˈaðo resjˈɛntemˈente."
+          "phonemes": "— ˈan kambjˈaðo las rˈeɣlas."
         }
       ]
     },
@@ -423,72 +421,130 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "already",
+      "text": "I have worked",
       "sentences": [
         {
-          "text": "already",
+          "text": "I have worked",
           "segments": [
             {
-              "text": "already",
+              "text": "I have worked",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɔːlɹˈɛdi"
+          "phonemes": "aɪ hæv wˈɜːkt"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "yet",
+      "text": "you have lived",
       "sentences": [
         {
-          "text": "yet",
+          "text": "you have lived",
           "segments": [
             {
-              "text": "yet",
+              "text": "you have lived",
               "lang": "en-us"
             }
           ],
-          "phonemes": "jˈɛt"
+          "phonemes": "juː hæv lˈɪvd"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "ever",
+      "text": "he/she has arrived",
       "sentences": [
         {
-          "text": "ever",
+          "text": "he/she has arrived",
           "segments": [
             {
-              "text": "ever",
+              "text": "he/she has arrived",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ˈɛvɚ"
+          "phonemes": "hiː slˈæʃ ʃiː hɐz ɚɹˈaɪvd"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "never",
+      "text": "we have finished",
       "sentences": [
         {
-          "text": "never",
+          "text": "we have finished",
           "segments": [
             {
-              "text": "never",
+              "text": "we have finished",
               "lang": "en-us"
             }
           ],
-          "phonemes": "nˈɛvɚ"
+          "phonemes": "wiː hæv fˈɪnɪʃt"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "since",
+      "text": "they have changed",
       "sentences": [
+        {
+          "text": "they have changed",
+          "segments": [
+            {
+              "text": "they have changed",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðeɪ hæv tʃˈeɪndʒd"
+        }
+      ]
+    },
+    {
+      "file": "vocab-05.wav",
+      "text": "a participle",
+      "sentences": [
+        {
+          "text": "a participle",
+          "segments": [
+            {
+              "text": "a participle",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɐ pɑːɹtˈɪsɪpəl"
+        }
+      ]
+    },
+    {
+      "file": "vocab-06.wav",
+      "text": "the auxiliary have",
+      "sentences": [
+        {
+          "text": "the auxiliary have",
+          "segments": [
+            {
+              "text": "the auxiliary have",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðɪ ɔːksˈɪliəɹi hˈæv"
+        }
+      ]
+    },
+    {
+      "file": "vocab-07.wav",
+      "text": "for vs. since",
+      "sentences": [
+        {
+          "text": "for vs.",
+          "segments": [
+            {
+              "text": "for vs.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "fɔːɹ vˌiːˈɛs."
+        },
         {
           "text": "since",
           "segments": [
@@ -498,54 +554,6 @@
             }
           ],
           "phonemes": "sˈɪns"
-        }
-      ]
-    },
-    {
-      "file": "vocab-05.wav",
-      "text": "for",
-      "sentences": [
-        {
-          "text": "for",
-          "segments": [
-            {
-              "text": "for",
-              "lang": "en-us"
-            }
-          ],
-          "phonemes": "fɔːɹ"
-        }
-      ]
-    },
-    {
-      "file": "vocab-06.wav",
-      "text": "recently",
-      "sentences": [
-        {
-          "text": "recently",
-          "segments": [
-            {
-              "text": "recently",
-              "lang": "en-us"
-            }
-          ],
-          "phonemes": "ɹˈiːsəntli"
-        }
-      ]
-    },
-    {
-      "file": "vocab-07.wav",
-      "text": "to complete",
-      "sentences": [
-        {
-          "text": "to complete",
-          "segments": [
-            {
-              "text": "to complete",
-              "lang": "en-us"
-            }
-          ],
-          "phonemes": "tə kəmplˈiːt"
         }
       ]
     }

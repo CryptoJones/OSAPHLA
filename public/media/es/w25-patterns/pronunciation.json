@@ -29,7 +29,7 @@
     },
     {
       "file": "01.wav",
-      "text": "Form and meaning. Simple future; irregular stems; future of probability; time clauses referring to future events.",
+      "text": "Form and meaning. Applying the form. Some verbs use an irregular future stem (haré, tendré, podré) instead of the infinitive; the future tense can also express present probability: estará en casa (he's probably home).",
       "sentences": [
         {
           "text": "Form and meaning.",
@@ -42,20 +42,62 @@
           "phonemes": "fˈɔːɹm ænd mˈiːnɪŋ."
         },
         {
-          "text": "Simple future; irregular stems; future of probability; time clauses referring to future events.",
+          "text": "Applying the form.",
           "segments": [
             {
-              "text": "Simple future; irregular stems; future of probability; time clauses referring to future events.",
+              "text": "Applying the form.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "sˈɪmpəl fjˈuːtʃɚ; ɪɹˈɛɡjʊlɚ stˈɛmz; fjˈuːtʃɚɹ ʌv pɹˌɑːbəbˈɪlᵻɾi; tˈaɪm klˈɔːzᵻz ɹᵻfˈɜːɹɪŋ tə fjˈuːtʃɚɹ ᵻvˈɛnts."
+          "phonemes": "ɐplˈaɪɪŋ ðə fˈɔːɹm."
+        },
+        {
+          "text": "Some verbs use an irregular future stem (haré, tendré, podré) instead of the infinitive; the future tense can also express present probability: estará en casa (he's probably home).",
+          "segments": [
+            {
+              "text": "Some verbs use an irregular future stem (",
+              "lang": "en-us"
+            },
+            {
+              "text": "haré",
+              "lang": "es-419"
+            },
+            {
+              "text": ", ",
+              "lang": "en-us"
+            },
+            {
+              "text": "tendré",
+              "lang": "es-419"
+            },
+            {
+              "text": ", ",
+              "lang": "en-us"
+            },
+            {
+              "text": "podré",
+              "lang": "es-419"
+            },
+            {
+              "text": ") instead of the infinitive; the future tense can also express present probability: ",
+              "lang": "en-us"
+            },
+            {
+              "text": "estará",
+              "lang": "es-419"
+            },
+            {
+              "text": " en casa (he's probably home).",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "sˌʌm vˈɜːbz jˈuːs ɐn ɪɹˈɛɡjʊlɚ fjˈuːtʃɚ stˈɛm ( aɾˈe , tendɾˈe , poðɾˈe ) ɪnstˈɛd ʌvðɪ ɪnfˈɪnᵻtˌɪv; ðə fjˈuːtʃɚ tˈɛns kæn ˈɔːlsoʊ ɛkspɹˈɛs pɹˈɛzənt pɹˌɑːbəbˈɪlᵻɾi: ˌestaɾˈa ˈɛn kˈɑːsə (hiːz pɹˈɑːbəbli hˈoʊm)."
         }
       ]
     },
     {
       "file": "02.wav",
-      "text": "Model set. La población urbana aumentará. Seguiremos midiendo los resultados. ¿Dónde estará Marta ahora? Cuando termine el estudio, publicaremos los datos. Dentro de cinco años habrá nuevas opciones. The urban population will increase. We will continue measuring the results. Where could Marta be now? When the study ends, we will publish the data. In five years there will be new options.",
+      "text": "Model set. Haré la tarea mañana. Tendré tiempo la próxima semana. Podré ayudarte más tarde. Estará en casa ahora. Tendrá unos treinta años. I will do the homework tomorrow. I will have time next week. I will be able to help you later. He/she is probably home now. He/she is probably about thirty.",
       "sentences": [
         {
           "text": "Model set.",
@@ -68,104 +110,104 @@
           "phonemes": "mˈɑːdəl sˈɛt."
         },
         {
-          "text": "La población urbana aumentará.",
+          "text": "Haré la tarea mañana.",
           "segments": [
             {
-              "text": "La población urbana aumentará.",
+              "text": "Haré la tarea mañana.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la pˌoβlasjˈon uɾβˈana ˌaʊmentaɾˈa."
+          "phonemes": "aɾˈe la taɾˈea maɲˈana."
         },
         {
-          "text": "Seguiremos midiendo los resultados.",
+          "text": "Tendré tiempo la próxima semana.",
           "segments": [
             {
-              "text": "Seguiremos midiendo los resultados.",
+              "text": "Tendré tiempo la próxima semana.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "sˌeɣiɾˈemos miðjˈɛndo los rˌesultˈaðos."
+          "phonemes": "tendɾˈe tjˈempo la pɾˈoksima semˈana."
         },
         {
-          "text": "¿Dónde estará Marta ahora?",
+          "text": "Podré ayudarte más tarde.",
           "segments": [
             {
-              "text": "¿Dónde estará Marta ahora?",
+              "text": "Podré ayudarte más tarde.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "dˈonde ˌestaɾˈa mˈaɾta aˈoɾa?"
+          "phonemes": "poðɾˈe ˌaʝuðˈaɾte mˈas tˈaɾðe."
         },
         {
-          "text": "Cuando termine el estudio, publicaremos los datos.",
+          "text": "Estará en casa ahora.",
           "segments": [
             {
-              "text": "Cuando termine el estudio, publicaremos los datos.",
+              "text": "Estará en casa ahora.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "kwˌando teɾmˈine el estˈuðjo, pˌuβlikaɾˈemos los ðˈatos."
+          "phonemes": "ˌestaɾˈa en kˈasa aˈoɾa."
         },
         {
-          "text": "Dentro de cinco años habrá nuevas opciones.",
+          "text": "Tendrá unos treinta años.",
           "segments": [
             {
-              "text": "Dentro de cinco años habrá nuevas opciones.",
+              "text": "Tendrá unos treinta años.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "dˈɛntɾo ðe sˈinko ˈaɲos aβɾˈa nwˈeβas opsjˈones."
+          "phonemes": "tendɾˈa ˈunos tɾˈeɪnta ˈaɲos."
         },
         {
-          "text": "The urban population will increase.",
+          "text": "I will do the homework tomorrow.",
           "segments": [
             {
-              "text": "The urban population will increase.",
+              "text": "I will do the homework tomorrow.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðɪ ˈɜːbən pˌɑːpjʊlˈeɪʃən wɪl ɪŋkɹˈiːs."
+          "phonemes": "aɪ wɪl dˈuː ðə hˈoʊmwɜːk təmˈɑːɹoʊ."
         },
         {
-          "text": "We will continue measuring the results.",
+          "text": "I will have time next week.",
           "segments": [
             {
-              "text": "We will continue measuring the results.",
+              "text": "I will have time next week.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wiː wɪl kəntˈɪnjuː mˈɛʒɚɹɪŋ ðə ɹɪzˈʌlts."
+          "phonemes": "aɪ wɪl hæv tˈaɪm nˈɛkst wˈiːk."
         },
         {
-          "text": "Where could Marta be now?",
+          "text": "I will be able to help you later.",
           "segments": [
             {
-              "text": "Where could Marta be now?",
+              "text": "I will be able to help you later.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wˌɛɹ kʊd mˈɑːɹɾə biː nˈaʊ?"
+          "phonemes": "aɪ wɪl biː ˈeɪbəl tə hˈɛlp juː lˈeɪɾɚ."
         },
         {
-          "text": "When the study ends, we will publish the data.",
+          "text": "He/she is probably home now.",
           "segments": [
             {
-              "text": "When the study ends, we will publish the data.",
+              "text": "He/she is probably home now.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wˌɛn ðə stˈʌdi ˈɛndz, wiː wɪl pˈʌblɪʃ ðə dˈeɪɾə."
+          "phonemes": "hiː slˈæʃ ʃiː ɪz pɹˈɑːbəbli hˈoʊm nˈaʊ."
         },
         {
-          "text": "In five years there will be new options.",
+          "text": "He/she is probably about thirty.",
           "segments": [
             {
-              "text": "In five years there will be new options.",
+              "text": "He/she is probably about thirty.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɪn fˈaɪv jˈɪɹz ðɛɹ wɪl biː nˈuː ˈɑːpʃənz."
+          "phonemes": "hiː slˈæʃ ʃiː ɪz pɹˈɑːbəbli ɐbˌaʊt θˈɜːɾi."
         }
       ]
     },
@@ -243,7 +285,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Model language. La población urbana aumentará. — The urban population will increase. Seguiremos midiendo los resultados. — We will continue measuring the results. ¿Dónde estará Marta ahora? — Where could Marta be now? Cuando termine el estudio, publicaremos los datos. — When the study ends, we will publish the data. Dentro de cinco años habrá nuevas opciones. — In five years there will be new options.",
+      "text": "Model language. Haré la tarea mañana. — I will do the homework tomorrow. Tendré tiempo la próxima semana. — I will have time next week. Podré ayudarte más tarde. — I will be able to help you later. Estará en casa ahora. — He/she is probably home now. Tendrá unos treinta años. — He/she is probably about thirty.",
       "sentences": [
         {
           "text": "Model language.",
@@ -256,104 +298,104 @@
           "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
         },
         {
-          "text": "La población urbana aumentará.",
+          "text": "Haré la tarea mañana.",
           "segments": [
             {
-              "text": "La población urbana aumentará.",
+              "text": "Haré la tarea mañana.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la pˌoβlasjˈon uɾβˈana ˌaʊmentaɾˈa."
+          "phonemes": "aɾˈe la taɾˈea maɲˈana."
         },
         {
-          "text": "— The urban population will increase.",
+          "text": "— I will do the homework tomorrow.",
           "segments": [
             {
-              "text": "— The urban population will increase.",
+              "text": "— I will do the homework tomorrow.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ðɪ ˈɜːbən pˌɑːpjʊlˈeɪʃən wɪl ɪŋkɹˈiːs."
+          "phonemes": "— aɪ wɪl dˈuː ðə hˈoʊmwɜːk təmˈɑːɹoʊ."
         },
         {
-          "text": "Seguiremos midiendo los resultados.",
+          "text": "Tendré tiempo la próxima semana.",
           "segments": [
             {
-              "text": "Seguiremos midiendo los resultados.",
+              "text": "Tendré tiempo la próxima semana.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "sˌeɣiɾˈemos miðjˈɛndo los rˌesultˈaðos."
+          "phonemes": "tendɾˈe tjˈempo la pɾˈoksima semˈana."
         },
         {
-          "text": "— We will continue measuring the results.",
+          "text": "— I will have time next week.",
           "segments": [
             {
-              "text": "— We will continue measuring the results.",
+              "text": "— I will have time next week.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— wiː wɪl kəntˈɪnjuː mˈɛʒɚɹɪŋ ðə ɹɪzˈʌlts."
+          "phonemes": "— aɪ wɪl hæv tˈaɪm nˈɛkst wˈiːk."
         },
         {
-          "text": "¿Dónde estará Marta ahora?",
+          "text": "Podré ayudarte más tarde.",
           "segments": [
             {
-              "text": "¿Dónde estará Marta ahora?",
+              "text": "Podré ayudarte más tarde.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "dˈonde ˌestaɾˈa mˈaɾta aˈoɾa?"
+          "phonemes": "poðɾˈe ˌaʝuðˈaɾte mˈas tˈaɾðe."
         },
         {
-          "text": "— Where could Marta be now?",
+          "text": "— I will be able to help you later.",
           "segments": [
             {
-              "text": "— Where could Marta be now?",
+              "text": "— I will be able to help you later.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— wˌɛɹ kʊd mˈɑːɹɾə biː nˈaʊ?"
+          "phonemes": "— aɪ wɪl biː ˈeɪbəl tə hˈɛlp juː lˈeɪɾɚ."
         },
         {
-          "text": "Cuando termine el estudio, publicaremos los datos.",
+          "text": "Estará en casa ahora.",
           "segments": [
             {
-              "text": "Cuando termine el estudio, publicaremos los datos.",
+              "text": "Estará en casa ahora.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "kwˌando teɾmˈine el estˈuðjo, pˌuβlikaɾˈemos los ðˈatos."
+          "phonemes": "ˌestaɾˈa en kˈasa aˈoɾa."
         },
         {
-          "text": "— When the study ends, we will publish the data.",
+          "text": "— He/she is probably home now.",
           "segments": [
             {
-              "text": "— When the study ends, we will publish the data.",
+              "text": "— He/she is probably home now.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— wˌɛn ðə stˈʌdi ˈɛndz, wiː wɪl pˈʌblɪʃ ðə dˈeɪɾə."
+          "phonemes": "— hiː slˈæʃ ʃiː ɪz pɹˈɑːbəbli hˈoʊm nˈaʊ."
         },
         {
-          "text": "Dentro de cinco años habrá nuevas opciones.",
+          "text": "Tendrá unos treinta años.",
           "segments": [
             {
-              "text": "Dentro de cinco años habrá nuevas opciones.",
+              "text": "Tendrá unos treinta años.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "dˈɛntɾo ðe sˈinko ˈaɲos aβɾˈa nwˈeβas opsjˈones."
+          "phonemes": "tendɾˈa ˈunos tɾˈeɪnta ˈaɲos."
         },
         {
-          "text": "— In five years there will be new options.",
+          "text": "— He/she is probably about thirty.",
           "segments": [
             {
-              "text": "— In five years there will be new options.",
+              "text": "— He/she is probably about thirty.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ɪn fˈaɪv jˈɪɹz ðɛɹ wɪl biː nˈuː ˈɑːpʃənz."
+          "phonemes": "— hiː slˈæʃ ʃiː ɪz pɹˈɑːbəbli ɐbˌaʊt θˈɜːɾi."
         }
       ]
     },
@@ -405,129 +447,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "el futuro",
+      "text": "haré",
       "sentences": [
         {
-          "text": "el futuro",
+          "text": "haré",
           "segments": [
             {
-              "text": "el futuro",
+              "text": "haré",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el futˈuɾo"
+          "phonemes": "aɾˈe"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "el cambio",
+      "text": "tendré",
       "sentences": [
         {
-          "text": "el cambio",
+          "text": "tendré",
           "segments": [
             {
-              "text": "el cambio",
+              "text": "tendré",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el kˈambjo"
+          "phonemes": "tendɾˈe"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "aumentar",
+      "text": "podré",
       "sentences": [
         {
-          "text": "aumentar",
+          "text": "podré",
           "segments": [
             {
-              "text": "aumentar",
+              "text": "podré",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˌaʊmentˈaɾ"
+          "phonemes": "poðɾˈe"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "disminuir",
+      "text": "estará",
       "sentences": [
         {
-          "text": "disminuir",
+          "text": "estará",
           "segments": [
             {
-              "text": "disminuir",
+              "text": "estará",
               "lang": "es-419"
             }
           ],
-          "phonemes": "dˌisminwˈiɾ"
+          "phonemes": "ˌestaɾˈa"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "lograr",
+      "text": "tendrá",
       "sentences": [
         {
-          "text": "lograr",
+          "text": "tendrá",
           "segments": [
             {
-              "text": "lograr",
+              "text": "tendrá",
               "lang": "es-419"
             }
           ],
-          "phonemes": "loɣɾˈaɾ"
+          "phonemes": "tendɾˈa"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "seguir",
+      "text": "el futuro irregular",
       "sentences": [
         {
-          "text": "seguir",
+          "text": "el futuro irregular",
           "segments": [
             {
-              "text": "seguir",
+              "text": "el futuro irregular",
               "lang": "es-419"
             }
           ],
-          "phonemes": "seɣˈiɾ"
+          "phonemes": "el futˈuɾo ˌireɣulˈaɾ"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "probablemente",
+      "text": "la probabilidad",
       "sentences": [
         {
-          "text": "probablemente",
+          "text": "la probabilidad",
           "segments": [
             {
-              "text": "probablemente",
+              "text": "la probabilidad",
               "lang": "es-419"
             }
           ],
-          "phonemes": "pɾoβˈaβlemˈente"
+          "phonemes": "la pɾˌoβaβˌiliðˈad"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "dentro de",
+      "text": "quizás",
       "sentences": [
         {
-          "text": "dentro de",
+          "text": "quizás",
           "segments": [
             {
-              "text": "dentro de",
+              "text": "quizás",
               "lang": "es-419"
             }
           ],
-          "phonemes": "dˈɛntɾo ðˈe"
+          "phonemes": "kisˈas"
         }
       ]
     }

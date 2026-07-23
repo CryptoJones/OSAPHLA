@@ -163,7 +163,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Model language. Buscamos a alguien que tenga experiencia. — We are looking for someone who has experience. Conozco a la persona que dirige el proyecto. — I know the person who directs the project. Necesito un lugar que esté cerca del metro. — I need a place that is near the subway. Eso es lo que me preocupa. — That is what worries me. La autora, cuyo libro ganó el premio, dará una charla. — The author whose book won the prize will give a talk.",
+      "text": "Model language. La organización busca a alguien que conozca la región. — The organization is looking for someone who knows the region. Necesita a alguien que pueda comenzar de inmediato. — It needs someone who can start immediately. Ya entrevistó a un candidato ideal. — It has already interviewed an ideal candidate. Ese candidato vivió allí cinco años. — That candidate lived there for five years. Sigue buscando más opciones. — It keeps looking for more options.",
       "sentences": [
         {
           "text": "Model language.",
@@ -176,104 +176,104 @@
           "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
         },
         {
-          "text": "Buscamos a alguien que tenga experiencia.",
+          "text": "La organización busca a alguien que conozca la región.",
           "segments": [
             {
-              "text": "Buscamos a alguien que tenga experiencia.",
+              "text": "La organización busca a alguien que conozca la región.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "buskˈamos a ˈalɣjen ke tˈɛŋɡa ˌekspeɾjˈɛnsja."
+          "phonemes": "la ˌoɾɣanˌisasjˈom bˈuska a ˈalɣjen ke konˈoska la rexjˈon."
         },
         {
-          "text": "— We are looking for someone who has experience.",
+          "text": "— The organization is looking for someone who knows the region.",
           "segments": [
             {
-              "text": "— We are looking for someone who has experience.",
+              "text": "— The organization is looking for someone who knows the region.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— wiː ɑːɹ lˈʊkɪŋ fɔːɹ sˈʌmwʌn hˌuː hɐz ɛkspˈiəɹɪəns."
+          "phonemes": "— ðɪ ˌɔːɹɡɐnᵻzˈeɪʃən ɪz lˈʊkɪŋ fɔːɹ sˈʌmwʌn hˌuː nˈoʊz ðə ɹˈiːdʒən."
         },
         {
-          "text": "Conozco a la persona que dirige el proyecto.",
+          "text": "Necesita a alguien que pueda comenzar de inmediato.",
           "segments": [
             {
-              "text": "Conozco a la persona que dirige el proyecto.",
+              "text": "Necesita a alguien que pueda comenzar de inmediato.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "konˈosko a la peɾsˈona ke ðiɾˈixe el pɾoʝˈekto."
+          "phonemes": "nˌesesˈita a ˈalɣjen ke pwˈeða kˌomensˈaɾ ðe ˌinmeðjˈato."
         },
         {
-          "text": "— I know the person who directs the project.",
+          "text": "— It needs someone who can start immediately.",
           "segments": [
             {
-              "text": "— I know the person who directs the project.",
+              "text": "— It needs someone who can start immediately.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— aɪ nˈoʊ ðə pˈɜːsən hˌuː dᵻɹˈɛkts ðə pɹˈɑːdʒɛkt."
+          "phonemes": "— ɪt nˈiːdz sˈʌmwʌn hˌuː kæn stˈɑːɹt ɪmˈiːdɪətli."
         },
         {
-          "text": "Necesito un lugar que esté cerca del metro.",
+          "text": "Ya entrevistó a un candidato ideal.",
           "segments": [
             {
-              "text": "Necesito un lugar que esté cerca del metro.",
+              "text": "Ya entrevistó a un candidato ideal.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "nˌesesˈito ˈun luɣˈaɾ ke estˈe sˈeɾka ðel mˈetɾo."
+          "phonemes": "ʝˈa ˌentɾeβistˈo a ˈun kˌandiðˈato ˌiðeˈal."
         },
         {
-          "text": "— I need a place that is near the subway.",
+          "text": "— It has already interviewed an ideal candidate.",
           "segments": [
             {
-              "text": "— I need a place that is near the subway.",
+              "text": "— It has already interviewed an ideal candidate.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— aɪ nˈiːd ɐ plˈeɪs ðæt ɪz nˌɪɹ ðə sˈʌbweɪ."
+          "phonemes": "— ɪt hɐz ɔːlɹˌɛdi ˈɪntɚvjˌuːd ɐn aɪdˈiəl kˈændᵻdˌeɪt."
         },
         {
-          "text": "Eso es lo que me preocupa.",
+          "text": "Ese candidato vivió allí cinco años.",
           "segments": [
             {
-              "text": "Eso es lo que me preocupa.",
+              "text": "Ese candidato vivió allí cinco años.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˈeso ˈes lo ke me pɾˌeokˈupa."
+          "phonemes": "ˈese kˌandiðˈato βiβjˈo ajjˈi sˈinko ˈaɲos."
         },
         {
-          "text": "— That is what worries me.",
+          "text": "— That candidate lived there for five years.",
           "segments": [
             {
-              "text": "— That is what worries me.",
+              "text": "— That candidate lived there for five years.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ðæt ɪz wʌt wˈʌɹiz mˌiː."
+          "phonemes": "— ðæt kˈændᵻdˌeɪt lˈɪvd ðɛɹ fɔːɹ fˈaɪv jˈɪɹz."
         },
         {
-          "text": "La autora, cuyo libro ganó el premio, dará una charla.",
+          "text": "Sigue buscando más opciones.",
           "segments": [
             {
-              "text": "La autora, cuyo libro ganó el premio, dará una charla.",
+              "text": "Sigue buscando más opciones.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la aʊtˈoɾa, kˈuʝo lˈiβɾo ɣanˈo el pɾˈemjo, daɾˈa ˈuna tʃˈaɾla."
+          "phonemes": "sˈiɣe βuskˈando mˈas opsjˈones."
         },
         {
-          "text": "— The author whose book won the prize will give a talk.",
+          "text": "— It keeps looking for more options.",
           "segments": [
             {
-              "text": "— The author whose book won the prize will give a talk.",
+              "text": "— It keeps looking for more options.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ðɪ ˈɔːθɚ hˌuːz bˈʊk wˈʌn ðə pɹˈaɪz wɪl ɡˈɪv ɐ tˈɔːk."
+          "phonemes": "— ɪt kˈiːps lˈʊkɪŋ fɔːɹ mˈɔːɹ ˈɑːpʃənz."
         }
       ]
     },
@@ -325,129 +325,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "el requisito",
+      "text": "la organización",
       "sentences": [
         {
-          "text": "el requisito",
+          "text": "la organización",
           "segments": [
             {
-              "text": "el requisito",
+              "text": "la organización",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el rˌekisˈito"
+          "phonemes": "la ˌoɾɣanˌisasjˈon"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "el candidato",
+      "text": "conocer la región",
       "sentences": [
         {
-          "text": "el candidato",
+          "text": "conocer la región",
           "segments": [
             {
-              "text": "el candidato",
+              "text": "conocer la región",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el kˌandiðˈato"
+          "phonemes": "kˌonosˈeɾ la rexjˈon"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "la experiencia",
+      "text": "comenzar de inmediato",
       "sentences": [
         {
-          "text": "la experiencia",
+          "text": "comenzar de inmediato",
           "segments": [
             {
-              "text": "la experiencia",
+              "text": "comenzar de inmediato",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la ˌekspeɾjˈɛnsja"
+          "phonemes": "kˌomensˈaɾ ðe ˌinmeðjˈato"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "disponible",
+      "text": "entrevistar",
       "sentences": [
         {
-          "text": "disponible",
+          "text": "entrevistar",
           "segments": [
             {
-              "text": "disponible",
+              "text": "entrevistar",
               "lang": "es-419"
             }
           ],
-          "phonemes": "dˌisponˈiβle"
+          "phonemes": "ˌentɾeβistˈaɾ"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "adecuado",
+      "text": "vivir",
       "sentences": [
         {
-          "text": "adecuado",
+          "text": "vivir",
           "segments": [
             {
-              "text": "adecuado",
+              "text": "vivir",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˌaðekwˈaðo"
+          "phonemes": "biβˈiɾ"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "cuyo",
+      "text": "cinco años",
       "sentences": [
         {
-          "text": "cuyo",
+          "text": "cinco años",
           "segments": [
             {
-              "text": "cuyo",
+              "text": "cinco años",
               "lang": "es-419"
             }
           ],
-          "phonemes": "kˈuʝo"
+          "phonemes": "sˈinko ˈaɲos"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "lo que",
+      "text": "el candidato ideal",
       "sentences": [
         {
-          "text": "lo que",
+          "text": "el candidato ideal",
           "segments": [
             {
-              "text": "lo que",
+              "text": "el candidato ideal",
               "lang": "es-419"
             }
           ],
-          "phonemes": "lo kˈe"
+          "phonemes": "el kˌandiðˈato ˌiðeˈal"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "cualquiera",
+      "text": "buscar",
       "sentences": [
         {
-          "text": "cualquiera",
+          "text": "buscar",
           "segments": [
             {
-              "text": "cualquiera",
+              "text": "buscar",
               "lang": "es-419"
             }
           ],
-          "phonemes": "kwalkjˈeɾa"
+          "phonemes": "buskˈaɾ"
         }
       ]
     }

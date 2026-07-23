@@ -175,7 +175,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Model language. Hola, me llamo Alex. — Hello, my name is Alex. Mucho gusto, señora Rivera. — Nice to meet you, Mrs. Rivera. ¿Cómo te llamas? — What is your name? Le presento a mi compañera. — Let me introduce you to my classmate. Nos vemos mañana; que tenga buen día. — See you tomorrow; have a good day.",
+      "text": "Model language. El saludo cambia según el país. — The greeting changes by country. En algunos lugares se dan un beso; en otros, la mano. — In some places people cheek-kiss; in others, they shake hands. La distancia personal varía entre culturas. — Personal distance varies between cultures. Usar el título correcto muestra respeto. — Using the correct title shows respect. Cada costumbre tiene su propio contexto. — Each custom has its own context.",
       "sentences": [
         {
           "text": "Model language.",
@@ -188,114 +188,104 @@
           "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
         },
         {
-          "text": "Hola, me llamo Alex.",
+          "text": "El saludo cambia según el país.",
           "segments": [
             {
-              "text": "Hola, me llamo Alex.",
+              "text": "El saludo cambia según el país.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˈola, me ʝˈamo alˈeks."
+          "phonemes": "el salˈuðo kˈambja seɣˈun el paˈis."
         },
         {
-          "text": "— Hello, my name is Alex.",
+          "text": "— The greeting changes by country.",
           "segments": [
             {
-              "text": "— Hello, my name is Alex.",
+              "text": "— The greeting changes by country.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— həlˈoʊ, maɪ nˈeɪm ɪz ˈælɪks."
+          "phonemes": "— ðə ɡɹˈiːɾɪŋ tʃˈeɪndʒᵻz baɪ kˈʌntɹi."
         },
         {
-          "text": "Mucho gusto, señora Rivera.",
+          "text": "En algunos lugares se dan un beso; en otros, la mano.",
           "segments": [
             {
-              "text": "Mucho gusto, señora Rivera.",
+              "text": "En algunos lugares se dan un beso; en otros, la mano.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "mˈutʃo ɣˈusto, seɲˈoɾa riβˈeɾa."
+          "phonemes": "en alɣˈunos luɣˈaɾes se ðˈan ˈum bˈeso; en ˈotɾos, la mˈano."
         },
         {
-          "text": "— Nice to meet you, Mrs.",
+          "text": "— In some places people cheek-kiss; in others, they shake hands.",
           "segments": [
             {
-              "text": "— Nice to meet you, Mrs.",
+              "text": "— In some places people cheek-kiss; in others, they shake hands.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— nˈaɪs tə mˈiːt juː, mˈɪsɪz."
+          "phonemes": "— ɪn sˌʌm plˈeɪsᵻz pˈiːpəl tʃˈiːkkˈɪs; ɪn ˈʌðɚz, ðeɪ ʃˈeɪk hˈændz."
         },
         {
-          "text": "Rivera.",
+          "text": "La distancia personal varía entre culturas.",
           "segments": [
             {
-              "text": "Rivera.",
-              "lang": "en-us"
-            }
-          ],
-          "phonemes": "ɹɪvˈɛɹə."
-        },
-        {
-          "text": "¿Cómo te llamas?",
-          "segments": [
-            {
-              "text": "¿Cómo te llamas?",
+              "text": "La distancia personal varía entre culturas.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "kˈomo te ʝˈamas?"
+          "phonemes": "la ðistˈansja pˌeɾsonˈal βaɾˈia ˌentɾe kultˈuɾas."
         },
         {
-          "text": "— What is your name?",
+          "text": "— Personal distance varies between cultures.",
           "segments": [
             {
-              "text": "— What is your name?",
+              "text": "— Personal distance varies between cultures.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— wˌʌt ɪz jʊɹ nˈeɪm?"
+          "phonemes": "— pˈɜːsənəl dˈɪstəns vˈɛɹiz bᵻtwˌiːn kˈʌltʃɚz."
         },
         {
-          "text": "Le presento a mi compañera.",
+          "text": "Usar el título correcto muestra respeto.",
           "segments": [
             {
-              "text": "Le presento a mi compañera.",
+              "text": "Usar el título correcto muestra respeto.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "le pɾesˈɛnto a mi kˌompaɲˈeɾa."
+          "phonemes": "usˈaɾ el tˈitulo korˈekto mwˈestɾa respˈeto."
         },
         {
-          "text": "— Let me introduce you to my classmate.",
+          "text": "— Using the correct title shows respect.",
           "segments": [
             {
-              "text": "— Let me introduce you to my classmate.",
+              "text": "— Using the correct title shows respect.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— lˈɛt mˌiː ˌɪntɹədˈuːs juː tə maɪ klˈæsmeɪt."
+          "phonemes": "— jˈuːzɪŋ ðə kɚɹˈɛkt tˈaɪɾəl ʃˈoʊz ɹᵻspˈɛkt."
         },
         {
-          "text": "Nos vemos mañana; que tenga buen día.",
+          "text": "Cada costumbre tiene su propio contexto.",
           "segments": [
             {
-              "text": "Nos vemos mañana; que tenga buen día.",
+              "text": "Cada costumbre tiene su propio contexto.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "nos βˈemos maɲˈana; ke tˈɛŋɡa βwˈen dˈia."
+          "phonemes": "kˈaða kostˈumbɾe tjˈene su pɾˈopjo kontˈeksto."
         },
         {
-          "text": "— See you tomorrow; have a good day.",
+          "text": "— Each custom has its own context.",
           "segments": [
             {
-              "text": "— See you tomorrow; have a good day.",
+              "text": "— Each custom has its own context.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— sˈiː juː təmˈɑːɹoʊ; hæv ɐ ɡˈʊd dˈeɪ."
+          "phonemes": "— ˈiːtʃ kˈʌstəm hɐz ɪts ˈoʊn kˈɑːntɛkst."
         }
       ]
     },
@@ -347,129 +337,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "hola",
+      "text": "el saludo",
       "sentences": [
         {
-          "text": "hola",
+          "text": "el saludo",
           "segments": [
             {
-              "text": "hola",
+              "text": "el saludo",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˈola"
+          "phonemes": "el salˈuðo"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "buenos días",
+      "text": "el beso",
       "sentences": [
         {
-          "text": "buenos días",
+          "text": "el beso",
           "segments": [
             {
-              "text": "buenos días",
+              "text": "el beso",
               "lang": "es-419"
             }
           ],
-          "phonemes": "bwˈenos ðˈias"
+          "phonemes": "el βˈeso"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "buenas tardes",
+      "text": "el abrazo",
       "sentences": [
         {
-          "text": "buenas tardes",
+          "text": "el abrazo",
           "segments": [
             {
-              "text": "buenas tardes",
+              "text": "el abrazo",
               "lang": "es-419"
             }
           ],
-          "phonemes": "bwˈenas tˈaɾðes"
+          "phonemes": "el aβɾˈaso"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "adiós",
+      "text": "la distancia",
       "sentences": [
         {
-          "text": "adiós",
+          "text": "la distancia",
           "segments": [
             {
-              "text": "adiós",
+              "text": "la distancia",
               "lang": "es-419"
             }
           ],
-          "phonemes": "aðjˈos"
+          "phonemes": "la ðistˈansja"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "por favor",
+      "text": "el título",
       "sentences": [
         {
-          "text": "por favor",
+          "text": "el título",
           "segments": [
             {
-              "text": "por favor",
+              "text": "el título",
               "lang": "es-419"
             }
           ],
-          "phonemes": "poɾ faβˈoɾ"
+          "phonemes": "el tˈitulo"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "gracias",
+      "text": "formal",
       "sentences": [
         {
-          "text": "gracias",
+          "text": "formal",
           "segments": [
             {
-              "text": "gracias",
+              "text": "formal",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ɡɾˈasjas"
+          "phonemes": "foɾmˈal"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "mucho gusto",
+      "text": "informal",
       "sentences": [
         {
-          "text": "mucho gusto",
+          "text": "informal",
           "segments": [
             {
-              "text": "mucho gusto",
+              "text": "informal",
               "lang": "es-419"
             }
           ],
-          "phonemes": "mˈutʃo ɣˈusto"
+          "phonemes": "ˌinfoɾmˈal"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "¿cómo se llama?",
+      "text": "la costumbre",
       "sentences": [
         {
-          "text": "¿cómo se llama?",
+          "text": "la costumbre",
           "segments": [
             {
-              "text": "¿cómo se llama?",
+              "text": "la costumbre",
               "lang": "es-419"
             }
           ],
-          "phonemes": "kˈomo se ʝˈama?"
+          "phonemes": "la kostˈumbɾe"
         }
       ]
     }

@@ -143,7 +143,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Lenguaje modelo. I'm from Mexico. — Soy de México. My last name is Clark. — Mi apellido es Clark. Today is July nineteenth. — Hoy es diecinueve de julio. It's three fifteen. — Son las tres y quince. What time is the meeting? — ¿A qué hora es la reunión?",
+      "text": "Lenguaje modelo. I'm going to register my information. — Voy a registrar mis datos. I identify my country of origin. — Identifico mi país de origen. I give my telephone number. — Doy mi número de teléfono. I confirm my birth date. — Confirmo mi fecha de nacimiento. I verify the appointment time. — Verifico la hora de la cita.",
       "sentences": [
         {
           "text": "Lenguaje modelo.",
@@ -156,104 +156,104 @@
           "phonemes": "leŋɡwˈaxe moðˈelo."
         },
         {
-          "text": "I'm from Mexico.",
+          "text": "I'm going to register my information.",
           "segments": [
             {
-              "text": "I'm from Mexico.",
+              "text": "I'm going to register my information.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪm fɹʌm mˈɛksɪkˌoʊ."
+          "phonemes": "aɪm ɡˌoʊɪŋ tə ɹˈɛdʒɪstɚ maɪ ˌɪnfɚmˈeɪʃən."
         },
         {
-          "text": "— Soy de México.",
+          "text": "— Voy a registrar mis datos.",
           "segments": [
             {
-              "text": "— Soy de México.",
+              "text": "— Voy a registrar mis datos.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— sˈoɪ ðe mˈɛxiko."
+          "phonemes": "— bˈoɪ a rˌexistɾˈaɾ mis ðˈatos."
         },
         {
-          "text": "My last name is Clark.",
+          "text": "I identify my country of origin.",
           "segments": [
             {
-              "text": "My last name is Clark.",
+              "text": "I identify my country of origin.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "maɪ lˈæst nˈeɪm ɪz klˈɑːɹk."
+          "phonemes": "aɪ aɪdˈɛntᵻfˌaɪ maɪ kˈʌntɹi ʌv ˈɔːɹɪdʒˌɪn."
         },
         {
-          "text": "— Mi apellido es Clark.",
+          "text": "— Identifico mi país de origen.",
           "segments": [
             {
-              "text": "— Mi apellido es Clark.",
+              "text": "— Identifico mi país de origen.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— mi ˌapejjˈiðo ˈes klˈaɾk."
+          "phonemes": "— ˌiðentifˈiko mi paˈis ðe oɾˈixen."
         },
         {
-          "text": "Today is July nineteenth.",
+          "text": "I give my telephone number.",
           "segments": [
             {
-              "text": "Today is July nineteenth.",
+              "text": "I give my telephone number.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tədˈeɪ ɪz dʒuːlˈaɪ nˈaɪntiːnθ."
+          "phonemes": "aɪ ɡˈɪv maɪ tˈɛlᵻfˌoʊn nˈʌmbɚ."
         },
         {
-          "text": "— Hoy es diecinueve de julio.",
+          "text": "— Doy mi número de teléfono.",
           "segments": [
             {
-              "text": "— Hoy es diecinueve de julio.",
+              "text": "— Doy mi número de teléfono.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— ˈoɪ ˈes ðjˌesinwˈeβe ðe xˈuljo."
+          "phonemes": "— dˈoɪ mi nˈumeɾo ðe telˈefono."
         },
         {
-          "text": "It's three fifteen.",
+          "text": "I confirm my birth date.",
           "segments": [
             {
-              "text": "It's three fifteen.",
+              "text": "I confirm my birth date.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɪts θɹˈiː fˈɪftiːn."
+          "phonemes": "aɪ kənfˈɜːm maɪ bˈɜːθ dˈeɪt."
         },
         {
-          "text": "— Son las tres y quince.",
+          "text": "— Confirmo mi fecha de nacimiento.",
           "segments": [
             {
-              "text": "— Son las tres y quince.",
+              "text": "— Confirmo mi fecha de nacimiento.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— sˈon las tɾˈes i kˈinse."
+          "phonemes": "— konfˈiɾmo mi fˈetʃa ðe nˌasimjˈɛnto."
         },
         {
-          "text": "What time is the meeting?",
+          "text": "I verify the appointment time.",
           "segments": [
             {
-              "text": "What time is the meeting?",
+              "text": "I verify the appointment time.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wˌʌt tˈaɪm ɪz ðə mˈiːɾɪŋ?"
+          "phonemes": "aɪ vˈɛɹᵻfˌaɪ ðɪ ɐpˈɔɪntmənt tˈaɪm."
         },
         {
-          "text": "— ¿A qué hora es la reunión?",
+          "text": "— Verifico la hora de la cita.",
           "segments": [
             {
-              "text": "— ¿A qué hora es la reunión?",
+              "text": "— Verifico la hora de la cita.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— a kˈe ˈoɾa ˈes la reʊnjˈon?"
+          "phonemes": "— bˌeɾifˈiko la ˈoɾa ðe la sˈita."
         }
       ]
     },
@@ -305,129 +305,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "a first name",
+      "text": "to register",
       "sentences": [
         {
-          "text": "a first name",
+          "text": "to register",
           "segments": [
             {
-              "text": "a first name",
+              "text": "to register",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ fˈɜːst nˈeɪm"
+          "phonemes": "tə ɹˈɛdʒɪstɚ"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "a last name",
+      "text": "to identify",
       "sentences": [
         {
-          "text": "a last name",
+          "text": "to identify",
           "segments": [
             {
-              "text": "a last name",
+              "text": "to identify",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ lˈæst nˈeɪm"
+          "phonemes": "tʊ aɪdˈɛntᵻfˌaɪ"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "a country",
+      "text": "origin",
       "sentences": [
         {
-          "text": "a country",
+          "text": "origin",
           "segments": [
             {
-              "text": "a country",
+              "text": "origin",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ kˈʌntɹi"
+          "phonemes": "ˈɔːɹɪdʒˌɪn"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "a city",
+      "text": "a telephone number",
       "sentences": [
         {
-          "text": "a city",
+          "text": "a telephone number",
           "segments": [
             {
-              "text": "a city",
+              "text": "a telephone number",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ sˈɪɾi"
+          "phonemes": "ɐ tˈɛlᵻfˌoʊn nˈʌmbɚ"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "a number",
+      "text": "a birth date",
       "sentences": [
         {
-          "text": "a number",
+          "text": "a birth date",
           "segments": [
             {
-              "text": "a number",
+              "text": "a birth date",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ nˈʌmbɚ"
+          "phonemes": "ɐ bˈɜːθ dˈeɪt"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "a date",
+      "text": "an appointment time",
       "sentences": [
         {
-          "text": "a date",
+          "text": "an appointment time",
           "segments": [
             {
-              "text": "a date",
+              "text": "an appointment time",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ dˈeɪt"
+          "phonemes": "ɐn ɐpˈɔɪntmənt tˈaɪm"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "the time",
+      "text": "to verify",
       "sentences": [
         {
-          "text": "the time",
+          "text": "to verify",
           "segments": [
             {
-              "text": "the time",
+              "text": "to verify",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə tˈaɪm"
+          "phonemes": "tə vˈɛɹᵻfˌaɪ"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "today",
+      "text": "a record",
       "sentences": [
         {
-          "text": "today",
+          "text": "a record",
           "segments": [
             {
-              "text": "today",
+              "text": "a record",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tədˈeɪ"
+          "phonemes": "ɐ ɹˈɛkɚd"
         }
       ]
     }

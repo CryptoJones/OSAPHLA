@@ -163,7 +163,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Model language. La población urbana aumentará. — The urban population will increase. Seguiremos midiendo los resultados. — We will continue measuring the results. ¿Dónde estará Marta ahora? — Where could Marta be now? Cuando termine el estudio, publicaremos los datos. — When the study ends, we will publish the data. Dentro de cinco años habrá nuevas opciones. — In five years there will be new options.",
+      "text": "Model language. Durante la próxima década, varias ciudades ampliarán el transporte público. — Over the next decade, several cities will expand public transportation. El proyecto avanzará poco a poco. — The project will advance little by little. Es posible que haya desacuerdos. — There may be disagreements. Aun así, el proyecto continuará. — Even so, the project will continue. Muchas ciudades ya lo están planeando. — Many cities are already planning it.",
       "sentences": [
         {
           "text": "Model language.",
@@ -176,104 +176,104 @@
           "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
         },
         {
-          "text": "La población urbana aumentará.",
+          "text": "Durante la próxima década, varias ciudades ampliarán el transporte público.",
           "segments": [
             {
-              "text": "La población urbana aumentará.",
+              "text": "Durante la próxima década, varias ciudades ampliarán el transporte público.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la pˌoβlasjˈon uɾβˈana ˌaʊmentaɾˈa."
+          "phonemes": "duɾˈante la pɾˈoksima ðˈekaða, bˈaɾjas sjuðˈaðes ˌampliaɾˈan el tɾanspˈoɾte pˈuβliko."
         },
         {
-          "text": "— The urban population will increase.",
+          "text": "— Over the next decade, several cities will expand public transportation.",
           "segments": [
             {
-              "text": "— The urban population will increase.",
+              "text": "— Over the next decade, several cities will expand public transportation.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ðɪ ˈɜːbən pˌɑːpjʊlˈeɪʃən wɪl ɪŋkɹˈiːs."
+          "phonemes": "— ˌoʊvɚ ðə nˈɛkst dˈɛkeɪd, sˈɛvɹəl sˈɪɾiz wɪl ɛkspˈænd pˈʌblɪk tɹænspɔːɹtˈeɪʃən."
         },
         {
-          "text": "Seguiremos midiendo los resultados.",
+          "text": "El proyecto avanzará poco a poco.",
           "segments": [
             {
-              "text": "Seguiremos midiendo los resultados.",
+              "text": "El proyecto avanzará poco a poco.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "sˌeɣiɾˈemos miðjˈɛndo los rˌesultˈaðos."
+          "phonemes": "el pɾoʝˈekto ˌaβansaɾˈa pˈoko a pˈoko."
         },
         {
-          "text": "— We will continue measuring the results.",
+          "text": "— The project will advance little by little.",
           "segments": [
             {
-              "text": "— We will continue measuring the results.",
+              "text": "— The project will advance little by little.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— wiː wɪl kəntˈɪnjuː mˈɛʒɚɹɪŋ ðə ɹɪzˈʌlts."
+          "phonemes": "— ðə pɹˈɑːdʒɛkt wɪl ɐdvˈæns lˈɪɾəl baɪ lˈɪɾəl."
         },
         {
-          "text": "¿Dónde estará Marta ahora?",
+          "text": "Es posible que haya desacuerdos.",
           "segments": [
             {
-              "text": "¿Dónde estará Marta ahora?",
+              "text": "Es posible que haya desacuerdos.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "dˈonde ˌestaɾˈa mˈaɾta aˈoɾa?"
+          "phonemes": "ˈes posˈiβle ke ˈaʝa ðˌesakwˈeɾðos."
         },
         {
-          "text": "— Where could Marta be now?",
+          "text": "— There may be disagreements.",
           "segments": [
             {
-              "text": "— Where could Marta be now?",
+              "text": "— There may be disagreements.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— wˌɛɹ kʊd mˈɑːɹɾə biː nˈaʊ?"
+          "phonemes": "— ðɛɹ mˈeɪ biː dˌɪsɐɡɹˈiːmənts."
         },
         {
-          "text": "Cuando termine el estudio, publicaremos los datos.",
+          "text": "Aun así, el proyecto continuará.",
           "segments": [
             {
-              "text": "Cuando termine el estudio, publicaremos los datos.",
+              "text": "Aun así, el proyecto continuará.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "kwˌando teɾmˈine el estˈuðjo, pˌuβlikaɾˈemos los ðˈatos."
+          "phonemes": "ˈaʊn asˈi, el pɾoʝˈekto kˌontinwaɾˈa."
         },
         {
-          "text": "— When the study ends, we will publish the data.",
+          "text": "— Even so, the project will continue.",
           "segments": [
             {
-              "text": "— When the study ends, we will publish the data.",
+              "text": "— Even so, the project will continue.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— wˌɛn ðə stˈʌdi ˈɛndz, wiː wɪl pˈʌblɪʃ ðə dˈeɪɾə."
+          "phonemes": "— ˈiːvən sˈoʊ, ðə pɹˈɑːdʒɛkt wɪl kəntˈɪnjuː."
         },
         {
-          "text": "Dentro de cinco años habrá nuevas opciones.",
+          "text": "Muchas ciudades ya lo están planeando.",
           "segments": [
             {
-              "text": "Dentro de cinco años habrá nuevas opciones.",
+              "text": "Muchas ciudades ya lo están planeando.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "dˈɛntɾo ðe sˈinko ˈaɲos aβɾˈa nwˈeβas opsjˈones."
+          "phonemes": "mˈutʃas sjuðˈaðes ʝˈa lo estˈam plˌaneˈando."
         },
         {
-          "text": "— In five years there will be new options.",
+          "text": "— Many cities are already planning it.",
           "segments": [
             {
-              "text": "— In five years there will be new options.",
+              "text": "— Many cities are already planning it.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ɪn fˈaɪv jˈɪɹz ðɛɹ wɪl biː nˈuː ˈɑːpʃənz."
+          "phonemes": "— mˈɛni sˈɪɾiz ɑːɹ ɔːlɹˌɛdi plˈænɪŋ ɪt."
         }
       ]
     },
@@ -325,129 +325,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "el futuro",
+      "text": "la década",
       "sentences": [
         {
-          "text": "el futuro",
+          "text": "la década",
           "segments": [
             {
-              "text": "el futuro",
+              "text": "la década",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el futˈuɾo"
+          "phonemes": "la ðˈekaða"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "el cambio",
+      "text": "ampliar",
       "sentences": [
         {
-          "text": "el cambio",
+          "text": "ampliar",
           "segments": [
             {
-              "text": "el cambio",
+              "text": "ampliar",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el kˈambjo"
+          "phonemes": "ˌampliˈaɾ"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "aumentar",
+      "text": "el transporte público",
       "sentences": [
         {
-          "text": "aumentar",
+          "text": "el transporte público",
           "segments": [
             {
-              "text": "aumentar",
+              "text": "el transporte público",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˌaʊmentˈaɾ"
+          "phonemes": "el tɾanspˈoɾte pˈuβliko"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "disminuir",
+      "text": "el desacuerdo",
       "sentences": [
         {
-          "text": "disminuir",
+          "text": "el desacuerdo",
           "segments": [
             {
-              "text": "disminuir",
+              "text": "el desacuerdo",
               "lang": "es-419"
             }
           ],
-          "phonemes": "dˌisminwˈiɾ"
+          "phonemes": "el ðˌesakwˈeɾðo"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "lograr",
+      "text": "continuar",
       "sentences": [
         {
-          "text": "lograr",
+          "text": "continuar",
           "segments": [
             {
-              "text": "lograr",
+              "text": "continuar",
               "lang": "es-419"
             }
           ],
-          "phonemes": "loɣɾˈaɾ"
+          "phonemes": "kˌontinwˈaɾ"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "seguir",
+      "text": "varias",
       "sentences": [
         {
-          "text": "seguir",
+          "text": "varias",
           "segments": [
             {
-              "text": "seguir",
+              "text": "varias",
               "lang": "es-419"
             }
           ],
-          "phonemes": "seɣˈiɾ"
+          "phonemes": "bˈaɾjas"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "probablemente",
+      "text": "el proyecto",
       "sentences": [
         {
-          "text": "probablemente",
+          "text": "el proyecto",
           "segments": [
             {
-              "text": "probablemente",
+              "text": "el proyecto",
               "lang": "es-419"
             }
           ],
-          "phonemes": "pɾoβˈaβlemˈente"
+          "phonemes": "el pɾoʝˈekto"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "dentro de",
+      "text": "avanzar",
       "sentences": [
         {
-          "text": "dentro de",
+          "text": "avanzar",
           "segments": [
             {
-              "text": "dentro de",
+              "text": "avanzar",
               "lang": "es-419"
             }
           ],
-          "phonemes": "dˈɛntɾo ðˈe"
+          "phonemes": "ˌaβansˈaɾ"
         }
       ]
     }

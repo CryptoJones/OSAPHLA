@@ -29,7 +29,7 @@
     },
     {
       "file": "01.wav",
-      "text": "Form and meaning. Foreground versus background; interruption; bounded versus ongoing events; narrative viewpoint.",
+      "text": "Form and meaning. Applying the form. Use the imperfect for background description (caminaba, estaba) and the preterite for the interrupting event (empezó, sonó): caminaba a casa cuando empezó a llover.",
       "sentences": [
         {
           "text": "Form and meaning.",
@@ -42,20 +42,66 @@
           "phonemes": "fˈɔːɹm ænd mˈiːnɪŋ."
         },
         {
-          "text": "Foreground versus background; interruption; bounded versus ongoing events; narrative viewpoint.",
+          "text": "Applying the form.",
           "segments": [
             {
-              "text": "Foreground versus background; interruption; bounded versus ongoing events; narrative viewpoint.",
+              "text": "Applying the form.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "fˈɔːɹɡɹaʊnd vˈɜːsᵻz bˈækɡɹaʊnd; ˌɪntɚɹˈʌpʃən; bˈaʊndᵻd vˈɜːsᵻz ˈɑːŋɡoʊɪŋ ᵻvˈɛnts; nˈæɹətˌɪv vjˈuːpɔɪnt."
+          "phonemes": "ɐplˈaɪɪŋ ðə fˈɔːɹm."
+        },
+        {
+          "text": "Use the imperfect for background description (caminaba, estaba) and the preterite for the interrupting event (empezó, sonó): caminaba a casa cuando empezó a llover.",
+          "segments": [
+            {
+              "text": "Use the imperfect for background description (",
+              "lang": "en-us"
+            },
+            {
+              "text": "caminaba",
+              "lang": "es-419"
+            },
+            {
+              "text": ", ",
+              "lang": "en-us"
+            },
+            {
+              "text": "estaba",
+              "lang": "es-419"
+            },
+            {
+              "text": ") and the preterite for the interrupting event (",
+              "lang": "en-us"
+            },
+            {
+              "text": "empezó",
+              "lang": "es-419"
+            },
+            {
+              "text": ", ",
+              "lang": "en-us"
+            },
+            {
+              "text": "sonó",
+              "lang": "es-419"
+            },
+            {
+              "text": "): ",
+              "lang": "en-us"
+            },
+            {
+              "text": "caminaba a casa cuando empezó a llover.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "jˈuːs ðɪ ɪmpˈɜːfɛkt fɔːɹ bˈækɡɹaʊnd dᵻskɹˈɪpʃən ( kˌaminˈaβa , estˈaβa ) ænd ðə pɹɪtˈɛɹaɪt fɚðɪ ˌɪntɚɹˈʌptɪŋ ᵻvˈɛnt ( ˌempesˈo , sonˈo ): kˌaminˈaβa a kˈasa kwˌando ˌempesˈo a ʝoβˈeɾ."
         }
       ]
     },
     {
       "file": "02.wav",
-      "text": "Model set. Caminaba a casa cuando empezó la tormenta. Mientras todos dormían, sonó la alarma. Ya había poca luz cuando llegamos. De repente, un vecino abrió la puerta. Al final resolvimos el problema juntos. I was walking home when the storm began. While everyone was sleeping, the alarm went off. There was already little light when we arrived. Suddenly, a neighbor opened the door. In the end, we solved the problem together.",
+      "text": "Model set. Caminaba a casa cuando empezó a llover. Estaba durmiendo cuando sonó el teléfono. Ya llegamos cuando empezó la reunión. Mientras cenábamos, sonó la alarma. De repente, alguien interrumpió la clase. I was walking home when it started to rain. I was sleeping when the phone rang. We had already arrived when the meeting started. While we were having dinner, the alarm rang. Suddenly, someone interrupted the class.",
       "sentences": [
         {
           "text": "Model set.",
@@ -68,104 +114,104 @@
           "phonemes": "mˈɑːdəl sˈɛt."
         },
         {
-          "text": "Caminaba a casa cuando empezó la tormenta.",
+          "text": "Caminaba a casa cuando empezó a llover.",
           "segments": [
             {
-              "text": "Caminaba a casa cuando empezó la tormenta.",
+              "text": "Caminaba a casa cuando empezó a llover.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "kˌaminˈaβa a kˈasa kwˌando ˌempesˈo la toɾmˈɛnta."
+          "phonemes": "kˌaminˈaβa a kˈasa kwˌando ˌempesˈo a ʝoβˈeɾ."
         },
         {
-          "text": "Mientras todos dormían, sonó la alarma.",
+          "text": "Estaba durmiendo cuando sonó el teléfono.",
           "segments": [
             {
-              "text": "Mientras todos dormían, sonó la alarma.",
+              "text": "Estaba durmiendo cuando sonó el teléfono.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "mjˌentɾas tˈoðos ðoɾmˈian, sonˈo la alˈaɾma."
+          "phonemes": "estˈaβa ðuɾmjˈɛndo kwˌando sonˈo el telˈefono."
         },
         {
-          "text": "Ya había poca luz cuando llegamos.",
+          "text": "Ya llegamos cuando empezó la reunión.",
           "segments": [
             {
-              "text": "Ya había poca luz cuando llegamos.",
+              "text": "Ya llegamos cuando empezó la reunión.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ʝˈa aβˈia pˈoka lˈus kwˌando ʝeɣˈamos."
+          "phonemes": "ʝˈa ʝeɣˈamos kwˌando ˌempesˈo la reʊnjˈon."
         },
         {
-          "text": "De repente, un vecino abrió la puerta.",
+          "text": "Mientras cenábamos, sonó la alarma.",
           "segments": [
             {
-              "text": "De repente, un vecino abrió la puerta.",
+              "text": "Mientras cenábamos, sonó la alarma.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "de repˈɛnte, ˈum besˈino ˌaβɾiˈo la pwˈeɾta."
+          "phonemes": "mjˌentɾas senˈaβamos, sonˈo la alˈaɾma."
         },
         {
-          "text": "Al final resolvimos el problema juntos.",
+          "text": "De repente, alguien interrumpió la clase.",
           "segments": [
             {
-              "text": "Al final resolvimos el problema juntos.",
+              "text": "De repente, alguien interrumpió la clase.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "al finˈal rˌesolβˈimos el pɾoβlˈema xˈuntos."
+          "phonemes": "de repˈɛnte, ˈalɣjen ˌinterumpjˈo la klˈase."
         },
         {
-          "text": "I was walking home when the storm began.",
+          "text": "I was walking home when it started to rain.",
           "segments": [
             {
-              "text": "I was walking home when the storm began.",
+              "text": "I was walking home when it started to rain.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪ wʌz wˈɔːkɪŋ hˈoʊm wɛn ðə stˈɔːɹm bɪɡˈæn."
+          "phonemes": "aɪ wʌz wˈɔːkɪŋ hˈoʊm wɛn ɪt stˈɑːɹɾᵻd tə ɹˈeɪn."
         },
         {
-          "text": "While everyone was sleeping, the alarm went off.",
+          "text": "I was sleeping when the phone rang.",
           "segments": [
             {
-              "text": "While everyone was sleeping, the alarm went off.",
+              "text": "I was sleeping when the phone rang.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wˌaɪl ˈɛvɹɪwˌʌn wʌz slˈiːpɪŋ, ðɪ ɐlˈɑːɹm wɛnt ˈɔf."
+          "phonemes": "aɪ wʌz slˈiːpɪŋ wɛn ðə fˈoʊn ɹˈæŋ."
         },
         {
-          "text": "There was already little light when we arrived.",
+          "text": "We had already arrived when the meeting started.",
           "segments": [
             {
-              "text": "There was already little light when we arrived.",
+              "text": "We had already arrived when the meeting started.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðɛɹwˌʌz ɔːlɹˌɛdi lˈɪɾəl lˈaɪt wɛn wiː ɚɹˈaɪvd."
+          "phonemes": "wiː hæd ɔːlɹˌɛdi ɚɹˈaɪvd wɛn ðə mˈiːɾɪŋ stˈɑːɹɾᵻd."
         },
         {
-          "text": "Suddenly, a neighbor opened the door.",
+          "text": "While we were having dinner, the alarm rang.",
           "segments": [
             {
-              "text": "Suddenly, a neighbor opened the door.",
+              "text": "While we were having dinner, the alarm rang.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "sˈʌdənli, ɐ nˈeɪbɚɹ ˈoʊpənd ðə dˈɔːɹ."
+          "phonemes": "wˌaɪl wiː wɜː hˌævɪŋ dˈɪnɚ, ðɪ ɐlˈɑːɹm ɹˈæŋ."
         },
         {
-          "text": "In the end, we solved the problem together.",
+          "text": "Suddenly, someone interrupted the class.",
           "segments": [
             {
-              "text": "In the end, we solved the problem together.",
+              "text": "Suddenly, someone interrupted the class.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɪnðɪ ˈɛnd, wiː sˈɑːlvd ðə pɹˈɑːbləm təɡˈɛðɚ."
+          "phonemes": "sˈʌdənli, sˈʌmwʌn ˌɪntɚɹˈʌptᵻd ðə klˈæs."
         }
       ]
     },
@@ -243,7 +289,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Model language. Caminaba a casa cuando empezó la tormenta. — I was walking home when the storm began. Mientras todos dormían, sonó la alarma. — While everyone was sleeping, the alarm went off. Ya había poca luz cuando llegamos. — There was already little light when we arrived. De repente, un vecino abrió la puerta. — Suddenly, a neighbor opened the door. Al final resolvimos el problema juntos. — In the end, we solved the problem together.",
+      "text": "Model language. Caminaba a casa cuando empezó a llover. — I was walking home when it started to rain. Estaba durmiendo cuando sonó el teléfono. — I was sleeping when the phone rang. Ya llegamos cuando empezó la reunión. — We had already arrived when the meeting started. Mientras cenábamos, sonó la alarma. — While we were having dinner, the alarm rang. De repente, alguien interrumpió la clase. — Suddenly, someone interrupted the class.",
       "sentences": [
         {
           "text": "Model language.",
@@ -256,104 +302,104 @@
           "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
         },
         {
-          "text": "Caminaba a casa cuando empezó la tormenta.",
+          "text": "Caminaba a casa cuando empezó a llover.",
           "segments": [
             {
-              "text": "Caminaba a casa cuando empezó la tormenta.",
+              "text": "Caminaba a casa cuando empezó a llover.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "kˌaminˈaβa a kˈasa kwˌando ˌempesˈo la toɾmˈɛnta."
+          "phonemes": "kˌaminˈaβa a kˈasa kwˌando ˌempesˈo a ʝoβˈeɾ."
         },
         {
-          "text": "— I was walking home when the storm began.",
+          "text": "— I was walking home when it started to rain.",
           "segments": [
             {
-              "text": "— I was walking home when the storm began.",
+              "text": "— I was walking home when it started to rain.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— aɪ wʌz wˈɔːkɪŋ hˈoʊm wɛn ðə stˈɔːɹm bɪɡˈæn."
+          "phonemes": "— aɪ wʌz wˈɔːkɪŋ hˈoʊm wɛn ɪt stˈɑːɹɾᵻd tə ɹˈeɪn."
         },
         {
-          "text": "Mientras todos dormían, sonó la alarma.",
+          "text": "Estaba durmiendo cuando sonó el teléfono.",
           "segments": [
             {
-              "text": "Mientras todos dormían, sonó la alarma.",
+              "text": "Estaba durmiendo cuando sonó el teléfono.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "mjˌentɾas tˈoðos ðoɾmˈian, sonˈo la alˈaɾma."
+          "phonemes": "estˈaβa ðuɾmjˈɛndo kwˌando sonˈo el telˈefono."
         },
         {
-          "text": "— While everyone was sleeping, the alarm went off.",
+          "text": "— I was sleeping when the phone rang.",
           "segments": [
             {
-              "text": "— While everyone was sleeping, the alarm went off.",
+              "text": "— I was sleeping when the phone rang.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— wˌaɪl ˈɛvɹɪwˌʌn wʌz slˈiːpɪŋ, ðɪ ɐlˈɑːɹm wɛnt ˈɔf."
+          "phonemes": "— aɪ wʌz slˈiːpɪŋ wɛn ðə fˈoʊn ɹˈæŋ."
         },
         {
-          "text": "Ya había poca luz cuando llegamos.",
+          "text": "Ya llegamos cuando empezó la reunión.",
           "segments": [
             {
-              "text": "Ya había poca luz cuando llegamos.",
+              "text": "Ya llegamos cuando empezó la reunión.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ʝˈa aβˈia pˈoka lˈus kwˌando ʝeɣˈamos."
+          "phonemes": "ʝˈa ʝeɣˈamos kwˌando ˌempesˈo la reʊnjˈon."
         },
         {
-          "text": "— There was already little light when we arrived.",
+          "text": "— We had already arrived when the meeting started.",
           "segments": [
             {
-              "text": "— There was already little light when we arrived.",
+              "text": "— We had already arrived when the meeting started.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ðɛɹwˌʌz ɔːlɹˌɛdi lˈɪɾəl lˈaɪt wɛn wiː ɚɹˈaɪvd."
+          "phonemes": "— wiː hæd ɔːlɹˌɛdi ɚɹˈaɪvd wɛn ðə mˈiːɾɪŋ stˈɑːɹɾᵻd."
         },
         {
-          "text": "De repente, un vecino abrió la puerta.",
+          "text": "Mientras cenábamos, sonó la alarma.",
           "segments": [
             {
-              "text": "De repente, un vecino abrió la puerta.",
+              "text": "Mientras cenábamos, sonó la alarma.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "de repˈɛnte, ˈum besˈino ˌaβɾiˈo la pwˈeɾta."
+          "phonemes": "mjˌentɾas senˈaβamos, sonˈo la alˈaɾma."
         },
         {
-          "text": "— Suddenly, a neighbor opened the door.",
+          "text": "— While we were having dinner, the alarm rang.",
           "segments": [
             {
-              "text": "— Suddenly, a neighbor opened the door.",
+              "text": "— While we were having dinner, the alarm rang.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— sˈʌdənli, ɐ nˈeɪbɚɹ ˈoʊpənd ðə dˈɔːɹ."
+          "phonemes": "— wˌaɪl wiː wɜː hˌævɪŋ dˈɪnɚ, ðɪ ɐlˈɑːɹm ɹˈæŋ."
         },
         {
-          "text": "Al final resolvimos el problema juntos.",
+          "text": "De repente, alguien interrumpió la clase.",
           "segments": [
             {
-              "text": "Al final resolvimos el problema juntos.",
+              "text": "De repente, alguien interrumpió la clase.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "al finˈal rˌesolβˈimos el pɾoβlˈema xˈuntos."
+          "phonemes": "de repˈɛnte, ˈalɣjen ˌinterumpjˈo la klˈase."
         },
         {
-          "text": "— In the end, we solved the problem together.",
+          "text": "— Suddenly, someone interrupted the class.",
           "segments": [
             {
-              "text": "— In the end, we solved the problem together.",
+              "text": "— Suddenly, someone interrupted the class.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ɪnðɪ ˈɛnd, wiː sˈɑːlvd ðə pɹˈɑːbləm təɡˈɛðɚ."
+          "phonemes": "— sˈʌdənli, sˈʌmwʌn ˌɪntɚɹˈʌptᵻd ðə klˈæs."
         }
       ]
     },
@@ -405,129 +451,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "de repente",
+      "text": "caminaba",
       "sentences": [
         {
-          "text": "de repente",
+          "text": "caminaba",
           "segments": [
             {
-              "text": "de repente",
+              "text": "caminaba",
               "lang": "es-419"
             }
           ],
-          "phonemes": "de repˈɛnte"
+          "phonemes": "kˌaminˈaβa"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "en ese momento",
+      "text": "empezó",
       "sentences": [
         {
-          "text": "en ese momento",
+          "text": "empezó",
           "segments": [
             {
-              "text": "en ese momento",
+              "text": "empezó",
               "lang": "es-419"
             }
           ],
-          "phonemes": "en ˈese momˈɛnto"
+          "phonemes": "ˌempesˈo"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "cuando",
+      "text": "estaba",
       "sentences": [
         {
-          "text": "cuando",
+          "text": "estaba",
           "segments": [
             {
-              "text": "cuando",
+              "text": "estaba",
               "lang": "es-419"
             }
           ],
-          "phonemes": "kwˈando"
+          "phonemes": "estˈaβa"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "mientras",
+      "text": "sonó",
       "sentences": [
         {
-          "text": "mientras",
+          "text": "sonó",
           "segments": [
             {
-              "text": "mientras",
+              "text": "sonó",
               "lang": "es-419"
             }
           ],
-          "phonemes": "mjˈɛntɾas"
+          "phonemes": "sonˈo"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "todavía",
+      "text": "llegamos",
       "sentences": [
         {
-          "text": "todavía",
+          "text": "llegamos",
           "segments": [
             {
-              "text": "todavía",
+              "text": "llegamos",
               "lang": "es-419"
             }
           ],
-          "phonemes": "tˌoðaβˈia"
+          "phonemes": "ʝeɣˈamos"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "ya",
+      "text": "el primer plano",
       "sentences": [
         {
-          "text": "ya",
+          "text": "el primer plano",
           "segments": [
             {
-              "text": "ya",
+              "text": "el primer plano",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ʝˈa"
+          "phonemes": "el pɾimˈeɾ plˈano"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "resultar",
+      "text": "el fondo",
       "sentences": [
         {
-          "text": "resultar",
+          "text": "el fondo",
           "segments": [
             {
-              "text": "resultar",
+              "text": "el fondo",
               "lang": "es-419"
             }
           ],
-          "phonemes": "rˌesultˈaɾ"
+          "phonemes": "el fˈondo"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "resolver",
+      "text": "interrumpir",
       "sentences": [
         {
-          "text": "resolver",
+          "text": "interrumpir",
           "segments": [
             {
-              "text": "resolver",
+              "text": "interrumpir",
               "lang": "es-419"
             }
           ],
-          "phonemes": "rˌesolβˈeɾ"
+          "phonemes": "ˌinterumpˈiɾ"
         }
       ]
     }

@@ -143,7 +143,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Model language. Yo elegiría la segunda opción. — I would choose the second option. ¿Podría enviarme los detalles? — Could you send me the details? El cambio reduciría el riesgo. — The change would reduce the risk. Dijo que llegaría al día siguiente. — He or she said that they would arrive the following day. En cambio, ese plan costaría demasiado. — On the other hand, that plan would cost too much.",
+      "text": "Model language. Voy a recomendar uno de tres planes. — I am going to recommend one of three plans. Explico la incertidumbre de cada opción. — I explain the uncertainty of each option. Respondo a cada objeción con tacto. — I respond to each objection tactfully. Justifico mi elección con datos. — I justify my choice with data. Al final, propongo un plan claro. — In the end, I propose a clear plan.",
       "sentences": [
         {
           "text": "Model language.",
@@ -156,104 +156,104 @@
           "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
         },
         {
-          "text": "Yo elegiría la segunda opción.",
+          "text": "Voy a recomendar uno de tres planes.",
           "segments": [
             {
-              "text": "Yo elegiría la segunda opción.",
+              "text": "Voy a recomendar uno de tres planes.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ʝˈo ˌelexiɾˈia la seɣˈunda opsjˈon."
+          "phonemes": "bˈoɪ a rˌekomendˈaɾ ˈuno ðe tɾˈes plˈanes."
         },
         {
-          "text": "— I would choose the second option.",
+          "text": "— I am going to recommend one of three plans.",
           "segments": [
             {
-              "text": "— I would choose the second option.",
+              "text": "— I am going to recommend one of three plans.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— aɪ wʊd tʃˈuːz ðə sˈɛkənd ˈɑːpʃən."
+          "phonemes": "— aɪɐm ɡˌoʊɪŋ tə ɹˌɛkəmˈɛnd wˈʌn ʌv θɹˈiː plˈænz."
         },
         {
-          "text": "¿Podría enviarme los detalles?",
+          "text": "Explico la incertidumbre de cada opción.",
           "segments": [
             {
-              "text": "¿Podría enviarme los detalles?",
+              "text": "Explico la incertidumbre de cada opción.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "poðɾˈia embjˈaɾme los ðetˈajjes?"
+          "phonemes": "eksplˈiko la ˌinseɾtiðˈumbɾe ðe kˈaða opsjˈon."
         },
         {
-          "text": "— Could you send me the details?",
+          "text": "— I explain the uncertainty of each option.",
           "segments": [
             {
-              "text": "— Could you send me the details?",
+              "text": "— I explain the uncertainty of each option.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— kʊd juː sˈɛnd mˌiː ðə diːtˈeɪlz?"
+          "phonemes": "— aɪ ɛksplˈeɪn ðɪ ʌnsˈɜːtənti ʌv ˈiːtʃ ˈɑːpʃən."
         },
         {
-          "text": "El cambio reduciría el riesgo.",
+          "text": "Respondo a cada objeción con tacto.",
           "segments": [
             {
-              "text": "El cambio reduciría el riesgo.",
+              "text": "Respondo a cada objeción con tacto.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el kˈambjo rˌeðusiɾˈia el riˈesɣo."
+          "phonemes": "respˈondo a kˈaða ˌoβxesjˈon kon tˈakto."
         },
         {
-          "text": "— The change would reduce the risk.",
+          "text": "— I respond to each objection tactfully.",
           "segments": [
             {
-              "text": "— The change would reduce the risk.",
+              "text": "— I respond to each objection tactfully.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ðə tʃˈeɪndʒ wʊd ɹᵻdˈuːs ðə ɹˈɪsk."
+          "phonemes": "— aɪ ɹᵻspˈɑːnd tʊ ˈiːtʃ ɑːbdʒˈɛkʃən tˈæktfəli."
         },
         {
-          "text": "Dijo que llegaría al día siguiente.",
+          "text": "Justifico mi elección con datos.",
           "segments": [
             {
-              "text": "Dijo que llegaría al día siguiente.",
+              "text": "Justifico mi elección con datos.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "dˈixo ke ʝˌeɣaɾˈia al ðˈia siɣjˈɛnte."
+          "phonemes": "xˌustifˈiko mi ˌeleksjˈon kon dˈatos."
         },
         {
-          "text": "— He or she said that they would arrive the following day.",
+          "text": "— I justify my choice with data.",
           "segments": [
             {
-              "text": "— He or she said that they would arrive the following day.",
+              "text": "— I justify my choice with data.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— hiː ɔːɹ ʃiː sˈɛd ðæt ðeɪ wʊd ɚɹˈaɪv ðə fˈɑːloʊɪŋ dˈeɪ."
+          "phonemes": "— aɪ dʒˈʌstᵻfˌaɪ maɪ tʃˈɔɪs wɪð dˈeɪɾə."
         },
         {
-          "text": "En cambio, ese plan costaría demasiado.",
+          "text": "Al final, propongo un plan claro.",
           "segments": [
             {
-              "text": "En cambio, ese plan costaría demasiado.",
+              "text": "Al final, propongo un plan claro.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "en kˈambjo, ˈese plˈan kˌostaɾˈia ðˌemasjˈaðo."
+          "phonemes": "al finˈal, pɾopˈoŋɡo ˈum plˈan klˈaɾo."
         },
         {
-          "text": "— On the other hand, that plan would cost too much.",
+          "text": "— In the end, I propose a clear plan.",
           "segments": [
             {
-              "text": "— On the other hand, that plan would cost too much.",
+              "text": "— In the end, I propose a clear plan.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ɔnðɪ ˈʌðɚ hˈænd, ðæt plˈæn wʊd kˈɔst tˈuː mʌtʃ."
+          "phonemes": "— ɪnðɪ ˈɛnd, aɪ pɹəpˈoʊz ɐ klˈɪɹ plˈæn."
         }
       ]
     },
@@ -305,129 +305,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "la opción",
+      "text": "recomendar",
       "sentences": [
         {
-          "text": "la opción",
+          "text": "recomendar",
           "segments": [
             {
-              "text": "la opción",
+              "text": "recomendar",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la opsjˈon"
+          "phonemes": "rˌekomendˈaɾ"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "la ventaja",
+      "text": "la incertidumbre",
       "sentences": [
         {
-          "text": "la ventaja",
+          "text": "la incertidumbre",
           "segments": [
             {
-              "text": "la ventaja",
+              "text": "la incertidumbre",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la βentˈaxa"
+          "phonemes": "la ˌinseɾtiðˈumbɾe"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "la desventaja",
+      "text": "responder",
       "sentences": [
         {
-          "text": "la desventaja",
+          "text": "responder",
           "segments": [
             {
-              "text": "la desventaja",
+              "text": "responder",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la ðˌesβentˈaxa"
+          "phonemes": "rˌespondˈeɾ"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "el riesgo",
+      "text": "la objeción",
       "sentences": [
         {
-          "text": "el riesgo",
+          "text": "la objeción",
           "segments": [
             {
-              "text": "el riesgo",
+              "text": "la objeción",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el riˈesɣo"
+          "phonemes": "la ˌoβxesjˈon"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "convendría",
+      "text": "con tacto",
       "sentences": [
         {
-          "text": "convendría",
+          "text": "con tacto",
           "segments": [
             {
-              "text": "convendría",
+              "text": "con tacto",
               "lang": "es-419"
             }
           ],
-          "phonemes": "kˌombendɾˈia"
+          "phonemes": "kon tˈakto"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "podría",
+      "text": "justificar",
       "sentences": [
         {
-          "text": "podría",
+          "text": "justificar",
           "segments": [
             {
-              "text": "podría",
+              "text": "justificar",
               "lang": "es-419"
             }
           ],
-          "phonemes": "poðɾˈia"
+          "phonemes": "xˌustifikˈaɾ"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "debería",
+      "text": "tres",
       "sentences": [
         {
-          "text": "debería",
+          "text": "tres",
           "segments": [
             {
-              "text": "debería",
+              "text": "tres",
               "lang": "es-419"
             }
           ],
-          "phonemes": "dˌeβeɾˈia"
+          "phonemes": "tɾˈes"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "en cambio",
+      "text": "el plan",
       "sentences": [
         {
-          "text": "en cambio",
+          "text": "el plan",
           "segments": [
             {
-              "text": "en cambio",
+              "text": "el plan",
               "lang": "es-419"
             }
           ],
-          "phonemes": "en kˈambjo"
+          "phonemes": "el plˈan"
         }
       ]
     }

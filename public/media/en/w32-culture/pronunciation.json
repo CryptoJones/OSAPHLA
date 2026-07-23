@@ -163,7 +163,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Lenguaje modelo. According to the technician, the network is working. — Según el técnico, la red está funcionando. We communicate through a secure channel. — Nos comunicamos por un canal seguro. The director said they would extend the deadline. — La directora dijo que ampliarían el plazo. The requested report is attached. — Se adjunta el informe solicitado. Regarding the incident, two details are missing. — Con respecto al incidente, faltan dos datos.",
+      "text": "Lenguaje modelo. Email usually starts with a formal greeting. — El correo electrónico suele empezar con un saludo formal. Instant messaging is more informal. — El mensaje instantáneo es más informal. Remote work changes daily communication. — El trabajo remoto cambia la comunicación diaria. Technological access isn't the same everywhere. — El acceso tecnológico no es igual en todas partes. Hierarchy influences the tone of the message. — La jerarquía influye en el tono del mensaje.",
       "sentences": [
         {
           "text": "Lenguaje modelo.",
@@ -176,104 +176,104 @@
           "phonemes": "leŋɡwˈaxe moðˈelo."
         },
         {
-          "text": "According to the technician, the network is working.",
+          "text": "Email usually starts with a formal greeting.",
           "segments": [
             {
-              "text": "According to the technician, the network is working.",
+              "text": "Email usually starts with a formal greeting.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐkˈɔːɹdɪŋ tə ðə tɛknˈɪʃən, ðə nˈɛtwɜːk ɪz wˈɜːkɪŋ."
+          "phonemes": "ˈiːmeɪl jˈuːʒuːəli stˈɑːɹts wɪð ɐ fˈɔːɹməl ɡɹˈiːɾɪŋ."
         },
         {
-          "text": "— Según el técnico, la red está funcionando.",
+          "text": "— El correo electrónico suele empezar con un saludo formal.",
           "segments": [
             {
-              "text": "— Según el técnico, la red está funcionando.",
+              "text": "— El correo electrónico suele empezar con un saludo formal.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— seɣˈun el tˈekniko, la rˈeð estˈa fˌunsjonˈando."
+          "phonemes": "— el korˈeo ˌelektɾˈoniko swˈele ˌempesˈaɾ kon ˈun salˈuðo foɾmˈal."
         },
         {
-          "text": "We communicate through a secure channel.",
+          "text": "Instant messaging is more informal.",
           "segments": [
             {
-              "text": "We communicate through a secure channel.",
+              "text": "Instant messaging is more informal.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wiː kəmjˈuːnᵻkˌeɪt θɹuː ɐ sᵻkjˈʊɹ tʃˈænəl."
+          "phonemes": "ˈɪnstənt mˈɛsɪdʒɪŋ ɪz mˈɔːɹ ɪnfˈɔːɹməl."
         },
         {
-          "text": "— Nos comunicamos por un canal seguro.",
+          "text": "— El mensaje instantáneo es más informal.",
           "segments": [
             {
-              "text": "— Nos comunicamos por un canal seguro.",
+              "text": "— El mensaje instantáneo es más informal.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— nos kˌomunikˈamos poɾ ˈun kanˈal seɣˈuɾo."
+          "phonemes": "— el mensˈaxe ˌinstantˈaneo ˈes mˈas ˌinfoɾmˈal."
         },
         {
-          "text": "The director said they would extend the deadline.",
+          "text": "Remote work changes daily communication.",
           "segments": [
             {
-              "text": "The director said they would extend the deadline.",
+              "text": "Remote work changes daily communication.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə dᵻɹˈɛktɚ sˈɛd ðeɪ wʊd ɛkstˈɛnd ðə dˈɛdlaɪn."
+          "phonemes": "ɹᵻmˈoʊt wˈɜːk tʃˈeɪndʒᵻz dˈeɪli kəmjˌuːnɪkˈeɪʃən."
         },
         {
-          "text": "— La directora dijo que ampliarían el plazo.",
+          "text": "— El trabajo remoto cambia la comunicación diaria.",
           "segments": [
             {
-              "text": "— La directora dijo que ampliarían el plazo.",
+              "text": "— El trabajo remoto cambia la comunicación diaria.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— la ðˌiɾektˈoɾa ðˈixo ke ˌampliaɾˈian el plˈaso."
+          "phonemes": "— el tɾaβˈaxo remˈoto kˈambja la kˌomunˌikasjˈon djˈaɾja."
         },
         {
-          "text": "The requested report is attached.",
+          "text": "Technological access isn't the same everywhere.",
           "segments": [
             {
-              "text": "The requested report is attached.",
+              "text": "Technological access isn't the same everywhere.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə ɹᵻkwˈɛstᵻd ɹᵻpˈɔːɹt ɪz ɐtˈætʃt."
+          "phonemes": "tˌɛknəlˈɑːdʒɪkəl ˈæksɛs ˌɪzənt ðə sˈeɪm ˈɛvɹɪwˌɛɹ."
         },
         {
-          "text": "— Se adjunta el informe solicitado.",
+          "text": "— El acceso tecnológico no es igual en todas partes.",
           "segments": [
             {
-              "text": "— Se adjunta el informe solicitado.",
+              "text": "— El acceso tecnológico no es igual en todas partes.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— se aðxˈunta el infˈoɾme sˌolisitˈaðo."
+          "phonemes": "— el aksˈeso tˌeknolˈoxiko nˈo ˈes iɣwˈal en tˈoðas pˈaɾtes."
         },
         {
-          "text": "Regarding the incident, two details are missing.",
+          "text": "Hierarchy influences the tone of the message.",
           "segments": [
             {
-              "text": "Regarding the incident, two details are missing.",
+              "text": "Hierarchy influences the tone of the message.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɹᵻɡˈɑːɹdɪŋ ðɪ ˈɪnsɪdənt, tˈuː diːtˈeɪlz ɑːɹ mˈɪsɪŋ."
+          "phonemes": "hˈaɪɚɹɑːɹki ˈɪnfluːənsᵻz ðə tˈoʊn ʌvðə mˈɛsɪdʒ."
         },
         {
-          "text": "— Con respecto al incidente, faltan dos datos.",
+          "text": "— La jerarquía influye en el tono del mensaje.",
           "segments": [
             {
-              "text": "— Con respecto al incidente, faltan dos datos.",
+              "text": "— La jerarquía influye en el tono del mensaje.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— kon respˈekto al ˌinsiðˈɛnte, fˈaltan dˈos ðˈatos."
+          "phonemes": "— la xˌeɾaɾkˈia imflˈuʝe en el tˈono ðel mensˈaxe."
         }
       ]
     },
@@ -325,129 +325,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "an outage",
+      "text": "email",
       "sentences": [
         {
-          "text": "an outage",
+          "text": "email",
           "segments": [
             {
-              "text": "an outage",
+              "text": "email",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐn ˈaʊɾɪdʒ"
+          "phonemes": "ˈiːmeɪl"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "a network",
+      "text": "formal greeting",
       "sentences": [
         {
-          "text": "a network",
+          "text": "formal greeting",
           "segments": [
             {
-              "text": "a network",
+              "text": "formal greeting",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ nˈɛtwɜːk"
+          "phonemes": "fˈɔːɹməl ɡɹˈiːɾɪŋ"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "a deadline",
+      "text": "instant message",
       "sentences": [
         {
-          "text": "a deadline",
+          "text": "instant message",
           "segments": [
             {
-              "text": "a deadline",
+              "text": "instant message",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ dˈɛdlaɪn"
+          "phonemes": "ˈɪnstənt mˈɛsɪdʒ"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "an attachment",
+      "text": "remote work",
       "sentences": [
         {
-          "text": "an attachment",
+          "text": "remote work",
           "segments": [
             {
-              "text": "an attachment",
+              "text": "remote work",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐn ɐtˈætʃmənt"
+          "phonemes": "ɹᵻmˈoʊt wˈɜːk"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "according to",
+      "text": "technological access",
       "sentences": [
         {
-          "text": "according to",
+          "text": "technological access",
           "segments": [
             {
-              "text": "according to",
+              "text": "technological access",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐkˈɔːɹdɪŋ tuː"
+          "phonemes": "tˌɛknəlˈɑːdʒɪkəl ˈæksɛs"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "regarding",
+      "text": "a norm",
       "sentences": [
         {
-          "text": "regarding",
+          "text": "a norm",
           "segments": [
             {
-              "text": "regarding",
+              "text": "a norm",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɹᵻɡˈɑːɹdɪŋ"
+          "phonemes": "ɐ nˈɔːɹm"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "to report",
+      "text": "hierarchy",
       "sentences": [
         {
-          "text": "to report",
+          "text": "hierarchy",
           "segments": [
             {
-              "text": "to report",
+              "text": "hierarchy",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə ɹᵻpˈɔːɹt"
+          "phonemes": "hˈaɪɚɹɑːɹki"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "to recommend",
+      "text": "to vary",
       "sentences": [
         {
-          "text": "to recommend",
+          "text": "to vary",
           "segments": [
             {
-              "text": "to recommend",
+              "text": "to vary",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə ɹˌɛkəmˈɛnd"
+          "phonemes": "tə vˈɛɹi"
         }
       ]
     }

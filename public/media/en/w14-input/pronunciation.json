@@ -163,7 +163,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Lenguaje modelo. The train leaves from platform four. — El tren sale del andén cuatro. We've just arrived at the airport. — Acabamos de llegar al aeropuerto. I have a reservation under Rivera. — Tengo una reserva a nombre de Rivera. My luggage is missing. — No aparece mi equipaje. We're going to stay for three nights. — Vamos a quedarnos tres noches.",
+      "text": "Lenguaje modelo. Omar's flight arrives late. — El vuelo de Omar llega tarde. He misses the last bus. — Pierde el último autobús. He calls the hotel to keep the reservation. — Llama al hotel para conservar la reserva. He asks about shared transport. — Pregunta por el transporte compartido. The hotel confirms the reservation. — El hotel confirma la reserva.",
       "sentences": [
         {
           "text": "Lenguaje modelo.",
@@ -176,104 +176,104 @@
           "phonemes": "leŋɡwˈaxe moðˈelo."
         },
         {
-          "text": "The train leaves from platform four.",
+          "text": "Omar's flight arrives late.",
           "segments": [
             {
-              "text": "The train leaves from platform four.",
+              "text": "Omar's flight arrives late.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə tɹˈeɪn lˈiːvz fɹʌm plˈætfɔːɹm fˈɔːɹ."
+          "phonemes": "ˈoʊmɑːɹz flˈaɪt ɚɹˈaɪvz lˈeɪt."
         },
         {
-          "text": "— El tren sale del andén cuatro.",
+          "text": "— El vuelo de Omar llega tarde.",
           "segments": [
             {
-              "text": "— El tren sale del andén cuatro.",
+              "text": "— El vuelo de Omar llega tarde.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— el tɾˈen sˈale ðel andˈen kwˈatɾo."
+          "phonemes": "— el βwˈelo ðe omˈaɾ ʝˈeɣa tˈaɾðe."
         },
         {
-          "text": "We've just arrived at the airport.",
+          "text": "He misses the last bus.",
           "segments": [
             {
-              "text": "We've just arrived at the airport.",
+              "text": "He misses the last bus.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wiːv dʒˈʌst ɚɹˈaɪvd æt ðɪ ˈɛɹpɔːɹt."
+          "phonemes": "hiː mˈɪsɪz ðə lˈæst bˈʌs."
         },
         {
-          "text": "— Acabamos de llegar al aeropuerto.",
+          "text": "— Pierde el último autobús.",
           "segments": [
             {
-              "text": "— Acabamos de llegar al aeropuerto.",
+              "text": "— Pierde el último autobús.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— ˌakaβˈamos ðe ʝeɣˈaɾ al ˌaeɾopwˈeɾto."
+          "phonemes": "— pjˈeɾðe el ˈultimo ˌaʊtoβˈus."
         },
         {
-          "text": "I have a reservation under Rivera.",
+          "text": "He calls the hotel to keep the reservation.",
           "segments": [
             {
-              "text": "I have a reservation under Rivera.",
+              "text": "He calls the hotel to keep the reservation.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪ hæv ɐ ɹˌɛzɚvˈeɪʃən ˌʌndɚ ɹɪvˈɛɹə."
+          "phonemes": "hiː kˈɔːlz ðə hoʊtˈɛl tə kˈiːp ðə ɹˌɛzɚvˈeɪʃən."
         },
         {
-          "text": "— Tengo una reserva a nombre de Rivera.",
+          "text": "— Llama al hotel para conservar la reserva.",
           "segments": [
             {
-              "text": "— Tengo una reserva a nombre de Rivera.",
+              "text": "— Llama al hotel para conservar la reserva.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— tˈɛŋɡo ˈuna resˈeɾβa a nˈombɾe ðe riβˈeɾa."
+          "phonemes": "— ʝˈama al otˈel pˌaɾa kˌonseɾβˈaɾ la resˈeɾβa."
         },
         {
-          "text": "My luggage is missing.",
+          "text": "He asks about shared transport.",
           "segments": [
             {
-              "text": "My luggage is missing.",
+              "text": "He asks about shared transport.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "maɪ lˈʌɡɪdʒ ɪz mˈɪsɪŋ."
+          "phonemes": "hiː ˈæsks ɐbˌaʊt ʃˈɛɹd tɹˈænspɔːɹt."
         },
         {
-          "text": "— No aparece mi equipaje.",
+          "text": "— Pregunta por el transporte compartido.",
           "segments": [
             {
-              "text": "— No aparece mi equipaje.",
+              "text": "— Pregunta por el transporte compartido.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— nˈo ˌapaɾˈese mi ˌekipˈaxe."
+          "phonemes": "— pɾeɣˈunta poɾ el tɾanspˈoɾte kˌompaɾtˈiðo."
         },
         {
-          "text": "We're going to stay for three nights.",
+          "text": "The hotel confirms the reservation.",
           "segments": [
             {
-              "text": "We're going to stay for three nights.",
+              "text": "The hotel confirms the reservation.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wɪɹ ɡˌoʊɪŋ tə stˈeɪ fɔːɹ θɹˈiː nˈaɪts."
+          "phonemes": "ðə hoʊtˈɛl kənfˈɜːmz ðə ɹˌɛzɚvˈeɪʃən."
         },
         {
-          "text": "— Vamos a quedarnos tres noches.",
+          "text": "— El hotel confirma la reserva.",
           "segments": [
             {
-              "text": "— Vamos a quedarnos tres noches.",
+              "text": "— El hotel confirma la reserva.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— bˈamos a keðˈaɾnos tɾˈes nˈotʃes."
+          "phonemes": "— el otˈel konfˈiɾma la resˈeɾβa."
         }
       ]
     },
@@ -325,129 +325,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "a ticket",
+      "text": "to arrive late",
       "sentences": [
         {
-          "text": "a ticket",
+          "text": "to arrive late",
           "segments": [
             {
-              "text": "a ticket",
+              "text": "to arrive late",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ tˈɪkɪt"
+          "phonemes": "tʊ ɚɹˈaɪv lˈeɪt"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "a flight",
+      "text": "shared transport",
       "sentences": [
         {
-          "text": "a flight",
+          "text": "shared transport",
           "segments": [
             {
-              "text": "a flight",
+              "text": "shared transport",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ flˈaɪt"
+          "phonemes": "ʃˈɛɹd tɹˈænspɔːɹt"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "a platform",
+      "text": "to keep",
       "sentences": [
         {
-          "text": "a platform",
+          "text": "to keep",
           "segments": [
             {
-              "text": "a platform",
+              "text": "to keep",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ plˈætfɔːɹm"
+          "phonemes": "tə kˈiːp"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "a reservation",
+      "text": "a hotel",
       "sentences": [
         {
-          "text": "a reservation",
+          "text": "a hotel",
           "segments": [
             {
-              "text": "a reservation",
+              "text": "a hotel",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ ɹˌɛzɚvˈeɪʃən"
+          "phonemes": "ɐ hoʊtˈɛl"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "a room",
+      "text": "to call",
       "sentences": [
         {
-          "text": "a room",
+          "text": "to call",
           "segments": [
             {
-              "text": "a room",
+              "text": "to call",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ ɹˈuːm"
+          "phonemes": "tə kˈɔːl"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "luggage",
+      "text": "the last",
       "sentences": [
         {
-          "text": "luggage",
+          "text": "the last",
           "segments": [
             {
-              "text": "luggage",
+              "text": "the last",
               "lang": "en-us"
             }
           ],
-          "phonemes": "lˈʌɡɪdʒ"
+          "phonemes": "ðə lˈæst"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "to leave",
+      "text": "a bus",
       "sentences": [
         {
-          "text": "to leave",
+          "text": "a bus",
           "segments": [
             {
-              "text": "to leave",
+              "text": "a bus",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə lˈiːv"
+          "phonemes": "ɐ bˈʌs"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "to arrive",
+      "text": "to ask",
       "sentences": [
         {
-          "text": "to arrive",
+          "text": "to ask",
           "segments": [
             {
-              "text": "to arrive",
+              "text": "to ask",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tʊ ɚɹˈaɪv"
+          "phonemes": "tʊ ˈæsk"
         }
       ]
     }

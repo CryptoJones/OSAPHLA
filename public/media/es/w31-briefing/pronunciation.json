@@ -153,7 +153,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Model language. La segunda opción es mucho más viable. — The second option is much more viable. El informe menos claro fue el primero. — The least clear report was the first one. El proyecto va viento en popa. — The project is going very well. Ese dato hay que tomarlo con pinzas. — That figure must be treated with caution. Su análisis dio en el clavo; sin embargo, faltan pruebas. — The analysis was exactly right; however, evidence is still lacking.",
+      "text": "Model language. La segunda opción es mucho más viable. — The second option is much more viable. El informe menos claro fue el primero. — The least clear report was the first one. El proyecto va viento en popa. — The project is going very well. Ese dato hay que tomarlo con pinzas. — That data point should be treated cautiously. Su análisis dio en el clavo; sin embargo, faltan pruebas. — His or her analysis hit the nail on the head; however, evidence is still lacking.",
       "sentences": [
         {
           "text": "Model language.",
@@ -236,14 +236,14 @@
           "phonemes": "ˈese ðˈato ˈaɪ ke tomˈaɾlo kom pˈinsas."
         },
         {
-          "text": "— That figure must be treated with caution.",
+          "text": "— That data point should be treated cautiously.",
           "segments": [
             {
-              "text": "— That figure must be treated with caution.",
+              "text": "— That data point should be treated cautiously.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ðæt fˈɪɡjɚ mˈʌst biː tɹˈiːɾᵻd wɪð kˈɔːʃən."
+          "phonemes": "— ðæt dˈeɪɾə pˈɔɪnt ʃˌʊd biː tɹˈiːɾᵻd kˈɔːʃəsli."
         },
         {
           "text": "Su análisis dio en el clavo; sin embargo, faltan pruebas.",
@@ -256,14 +256,14 @@
           "phonemes": "su anˈalisis ðjˈo en el klˈaβo; sin embˈaɾɣo, fˈaltam pɾuˈeβas."
         },
         {
-          "text": "— The analysis was exactly right; however, evidence is still lacking.",
+          "text": "— His or her analysis hit the nail on the head; however, evidence is still lacking.",
           "segments": [
             {
-              "text": "— The analysis was exactly right; however, evidence is still lacking.",
+              "text": "— His or her analysis hit the nail on the head; however, evidence is still lacking.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ðɪ ɐnˈæləsˌɪs wʌz ɛɡzˈæktli ɹˈaɪt; haʊˈɛvɚ, ˈɛvɪdəns ɪz stˈɪl lˈækɪŋ."
+          "phonemes": "— hɪz ɔːɹ hɜːɹ ɐnˈæləsˌɪs hˈɪt ðə nˈeɪl ɔnðə hˈɛd; haʊˈɛvɚ, ˈɛvɪdəns ɪz stˈɪl lˈækɪŋ."
         }
       ]
     },

@@ -163,7 +163,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Model language. Le envié el mensaje esta mañana. — I sent him or her the message this morning. El paquete lo recibió otra persona. — Someone else received the package. ¿Puedes mostrármelo? — Can you show it to me? No les expliqué el cambio. — I did not explain the change to them. Devuélvale los documentos al gerente. — Return the documents to the manager.",
+      "text": "Model language. Un regalo no siempre espera reciprocidad. — A gift doesn't always expect reciprocity. Un favor puede ser explícito o implícito. — A favor can be explicit or implicit. Es común agradecer un favor recibido. — It's common to thank a favor received. Corresponder no siempre es obligatorio. — Reciprocating isn't always required. Cada cultura tiene su propia expectativa. — Each culture has its own expectation.",
       "sentences": [
         {
           "text": "Model language.",
@@ -176,104 +176,104 @@
           "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
         },
         {
-          "text": "Le envié el mensaje esta mañana.",
+          "text": "Un regalo no siempre espera reciprocidad.",
           "segments": [
             {
-              "text": "Le envié el mensaje esta mañana.",
+              "text": "Un regalo no siempre espera reciprocidad.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "le embjˈe el mensˈaxe ˈesta maɲˈana."
+          "phonemes": "ˈun reɣˈalo nˈo sjˈempɾe espˈeɾa rˌesipɾˌosiðˈad."
         },
         {
-          "text": "— I sent him or her the message this morning.",
+          "text": "— A gift doesn't always expect reciprocity.",
           "segments": [
             {
-              "text": "— I sent him or her the message this morning.",
+              "text": "— A gift doesn't always expect reciprocity.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— aɪ sˈɛnt hˌɪm ɔːɹ hɜː ðə mˈɛsɪdʒ ðɪs mˈɔːɹnɪŋ."
+          "phonemes": "— ɐ ɡˈɪft dˈʌzənt ˈɔːlweɪz ɛkspˈɛkt ɹᵻsɪpɹˈɑːsᵻɾi."
         },
         {
-          "text": "El paquete lo recibió otra persona.",
+          "text": "Un favor puede ser explícito o implícito.",
           "segments": [
             {
-              "text": "El paquete lo recibió otra persona.",
+              "text": "Un favor puede ser explícito o implícito.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el pakˈete lo rˌesiβjˈo ˈotɾa peɾsˈona."
+          "phonemes": "ˈun faβˈoɾ pwˈeðe sˈer eksplˈisito o implˈisito."
         },
         {
-          "text": "— Someone else received the package.",
+          "text": "— A favor can be explicit or implicit.",
           "segments": [
             {
-              "text": "— Someone else received the package.",
+              "text": "— A favor can be explicit or implicit.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— sˈʌmwʌn ˈɛls ɹᵻsˈiːvd ðə pˈækɪdʒ."
+          "phonemes": "— ɐ fˈeɪvɚ kæn biː ɛksplˈɪsɪt ɔːɹ ɪmplˈɪsɪt."
         },
         {
-          "text": "¿Puedes mostrármelo?",
+          "text": "Es común agradecer un favor recibido.",
           "segments": [
             {
-              "text": "¿Puedes mostrármelo?",
+              "text": "Es común agradecer un favor recibido.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "pwˈeðes mostɾˈaɾmelo?"
+          "phonemes": "ˈes komˈun ˌaɣɾaðesˈeɾ ˈun faβˈoɾ rˌesiβˈiðo."
         },
         {
-          "text": "— Can you show it to me?",
+          "text": "— It's common to thank a favor received.",
           "segments": [
             {
-              "text": "— Can you show it to me?",
+              "text": "— It's common to thank a favor received.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— kæn juː ʃˈoʊ ɪt tə mˌiː?"
+          "phonemes": "— ɪts kˈɑːmən tə θˈæŋk ɐ fˈeɪvɚ ɹᵻsˈiːvd."
         },
         {
-          "text": "No les expliqué el cambio.",
+          "text": "Corresponder no siempre es obligatorio.",
           "segments": [
             {
-              "text": "No les expliqué el cambio.",
+              "text": "Corresponder no siempre es obligatorio.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "nˈo les ˌeksplikˈe el kˈambjo."
+          "phonemes": "kˌorespondˈeɾ nˈo sjˈempɾe ˈes ˌoβliɣatˈoɾjo."
         },
         {
-          "text": "— I did not explain the change to them.",
+          "text": "— Reciprocating isn't always required.",
           "segments": [
             {
-              "text": "— I did not explain the change to them.",
+              "text": "— Reciprocating isn't always required.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— aɪ dɪdnˌɑːt ɛksplˈeɪn ðə tʃˈeɪndʒ tə ðˌɛm."
+          "phonemes": "— ɹᵻsˈɪpɹəkˌeɪɾɪŋ ˌɪzənt ˈɔːlweɪz ɹᵻkwˈaɪɚd."
         },
         {
-          "text": "Devuélvale los documentos al gerente.",
+          "text": "Cada cultura tiene su propia expectativa.",
           "segments": [
             {
-              "text": "Devuélvale los documentos al gerente.",
+              "text": "Cada cultura tiene su propia expectativa.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "deβwˈelβale los ðˌokumˈɛntos al xeɾˈɛnte."
+          "phonemes": "kˈaða kultˈuɾa tjˈene su pɾˈopja ˌekspektatˈiβa."
         },
         {
-          "text": "— Return the documents to the manager.",
+          "text": "— Each culture has its own expectation.",
           "segments": [
             {
-              "text": "— Return the documents to the manager.",
+              "text": "— Each culture has its own expectation.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ɹᵻtˈɜːn ðə dˈɑːkjuːmənts tə ðə mˈænɪdʒɚ."
+          "phonemes": "— ˈiːtʃ kˈʌltʃɚ hɐz ɪts ˈoʊn ɛkspɪktˈeɪʃən."
         }
       ]
     },
@@ -325,129 +325,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "entregar",
+      "text": "el regalo",
       "sentences": [
         {
-          "text": "entregar",
+          "text": "el regalo",
           "segments": [
             {
-              "text": "entregar",
+              "text": "el regalo",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˌentɾeɣˈaɾ"
+          "phonemes": "el reɣˈalo"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "prestar",
+      "text": "el favor",
       "sentences": [
         {
-          "text": "prestar",
+          "text": "el favor",
           "segments": [
             {
-              "text": "prestar",
+              "text": "el favor",
               "lang": "es-419"
             }
           ],
-          "phonemes": "pɾestˈaɾ"
+          "phonemes": "el faβˈoɾ"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "devolver",
+      "text": "la reciprocidad",
       "sentences": [
         {
-          "text": "devolver",
+          "text": "la reciprocidad",
           "segments": [
             {
-              "text": "devolver",
+              "text": "la reciprocidad",
               "lang": "es-419"
             }
           ],
-          "phonemes": "dˌeβolβˈeɾ"
+          "phonemes": "la rˌesipɾˌosiðˈad"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "enviar",
+      "text": "explícito",
       "sentences": [
         {
-          "text": "enviar",
+          "text": "explícito",
           "segments": [
             {
-              "text": "enviar",
+              "text": "explícito",
               "lang": "es-419"
             }
           ],
-          "phonemes": "embjˈaɾ"
+          "phonemes": "eksplˈisito"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "mostrar",
+      "text": "implícito",
       "sentences": [
         {
-          "text": "mostrar",
+          "text": "implícito",
           "segments": [
             {
-              "text": "mostrar",
+              "text": "implícito",
               "lang": "es-419"
             }
           ],
-          "phonemes": "mostɾˈaɾ"
+          "phonemes": "implˈisito"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "explicar",
+      "text": "agradecer",
       "sentences": [
         {
-          "text": "explicar",
+          "text": "agradecer",
           "segments": [
             {
-              "text": "explicar",
+              "text": "agradecer",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˌeksplikˈaɾ"
+          "phonemes": "ˌaɣɾaðesˈeɾ"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "el paquete",
+      "text": "corresponder",
       "sentences": [
         {
-          "text": "el paquete",
+          "text": "corresponder",
           "segments": [
             {
-              "text": "el paquete",
+              "text": "corresponder",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el pakˈete"
+          "phonemes": "kˌorespondˈeɾ"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "el mensaje",
+      "text": "la expectativa",
       "sentences": [
         {
-          "text": "el mensaje",
+          "text": "la expectativa",
           "segments": [
             {
-              "text": "el mensaje",
+              "text": "la expectativa",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el mensˈaxe"
+          "phonemes": "la ˌekspektatˈiβa"
         }
       ]
     }

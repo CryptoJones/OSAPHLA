@@ -183,7 +183,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Lenguaje modelo. Three findings support the main argument. — Tres hallazgos respaldan el argumento principal. It is worth noting that the sample was small. — Conviene señalar que la muestra fue pequeña. Although the proposal has benefits, its scope is limited. — Aunque la propuesta tiene beneficios, su alcance es limitado. The most likely result would be gradual growth. — El resultado más probable sería un crecimiento gradual. In conclusion, I recommend a controlled trial. — En conclusión, recomiendo una prueba controlada.",
+      "text": "Lenguaje modelo. A study proposes expanding a public service. — Un estudio propone ampliar un servicio público. The data show clear benefits. — Los datos muestran beneficios claros. However, the sample is limited. — Sin embargo, la muestra es limitada. The author recommends a regional trial. — La autora recomienda una prueba regional. Afterward she suggests adopting it nationally. — Después sugiere adoptarlo nacionalmente.",
       "sentences": [
         {
           "text": "Lenguaje modelo.",
@@ -196,104 +196,104 @@
           "phonemes": "leŋɡwˈaxe moðˈelo."
         },
         {
-          "text": "Three findings support the main argument.",
+          "text": "A study proposes expanding a public service.",
           "segments": [
             {
-              "text": "Three findings support the main argument.",
+              "text": "A study proposes expanding a public service.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "θɹˈiː fˈaɪndɪŋz səpˈɔːɹt ðə mˈeɪn ˈɑːɹɡjuːmənt."
+          "phonemes": "ɐ stˈʌdi pɹəpˈoʊzᵻz ɛkspˈændɪŋ ɐ pˈʌblɪk sˈɜːvɪs."
         },
         {
-          "text": "— Tres hallazgos respaldan el argumento principal.",
+          "text": "— Un estudio propone ampliar un servicio público.",
           "segments": [
             {
-              "text": "— Tres hallazgos respaldan el argumento principal.",
+              "text": "— Un estudio propone ampliar un servicio público.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— tɾˈes ajjˈasɣos respˈalðan el ˌaɾɣumˈɛnto pɾˌinsipˈal."
+          "phonemes": "— ˈun estˈuðjo pɾopˈone ˌampliˈaɾ ˈun seɾβˈisjo pˈuβliko."
         },
         {
-          "text": "It is worth noting that the sample was small.",
+          "text": "The data show clear benefits.",
           "segments": [
             {
-              "text": "It is worth noting that the sample was small.",
+              "text": "The data show clear benefits.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɪɾ ɪz wˈɜːθ nˈoʊɾɪŋ ðætðə sˈæmpəl wʌz smˈɔːl."
+          "phonemes": "ðə dˈeɪɾə ʃˈoʊ klˈɪɹ bˈɛnɪfˌɪts."
         },
         {
-          "text": "— Conviene señalar que la muestra fue pequeña.",
+          "text": "— Los datos muestran beneficios claros.",
           "segments": [
             {
-              "text": "— Conviene señalar que la muestra fue pequeña.",
+              "text": "— Los datos muestran beneficios claros.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— kombjˈene sˌeɲalˈaɾ ke la mwˈestɾa fwˈe pekˈeɲa."
+          "phonemes": "— los ðˈatos mwˈestɾam bˌenefˈisjos klˈaɾos."
         },
         {
-          "text": "Although the proposal has benefits, its scope is limited.",
+          "text": "However, the sample is limited.",
           "segments": [
             {
-              "text": "Although the proposal has benefits, its scope is limited.",
+              "text": "However, the sample is limited.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɔːlðˈoʊ ðə pɹəpˈoʊzəl hɐz bˈɛnɪfˌɪts, ɪts skˈoʊp ɪz lˈɪmɪɾᵻd."
+          "phonemes": "haʊˈɛvɚ, ðə sˈæmpəl ɪz lˈɪmɪɾᵻd."
         },
         {
-          "text": "— Aunque la propuesta tiene beneficios, su alcance es limitado.",
+          "text": "— Sin embargo, la muestra es limitada.",
           "segments": [
             {
-              "text": "— Aunque la propuesta tiene beneficios, su alcance es limitado.",
+              "text": "— Sin embargo, la muestra es limitada.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— ˌaʊnke la pɾopwˈesta tjˈene βˌenefˈisjos, su alkˈanse ˈes lˌimitˈaðo."
+          "phonemes": "— sin embˈaɾɣo, la mwˈestɾa ˈes lˌimitˈaða."
         },
         {
-          "text": "The most likely result would be gradual growth.",
+          "text": "The author recommends a regional trial.",
           "segments": [
             {
-              "text": "The most likely result would be gradual growth.",
+              "text": "The author recommends a regional trial.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə mˈoʊst lˈaɪkli ɹɪzˈʌlt wʊd biː ɡɹˈædʒuːəl ɡɹˈoʊθ."
+          "phonemes": "ðɪ ˈɔːθɚ ɹˌɛkəmˈɛndz ɐ ɹˈiːdʒənəl tɹˈaɪəl."
         },
         {
-          "text": "— El resultado más probable sería un crecimiento gradual.",
+          "text": "— La autora recomienda una prueba regional.",
           "segments": [
             {
-              "text": "— El resultado más probable sería un crecimiento gradual.",
+              "text": "— La autora recomienda una prueba regional.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— el rˌesultˈaðo mˈas pɾoβˈaβle seɾˈia ˈun kɾˌesimjˈɛnto ɣɾaðwˈal."
+          "phonemes": "— la aʊtˈoɾa rˌekomjˈɛnda ˈuna pɾuˈeβa rˌexjonˈal."
         },
         {
-          "text": "In conclusion, I recommend a controlled trial.",
+          "text": "Afterward she suggests adopting it nationally.",
           "segments": [
             {
-              "text": "In conclusion, I recommend a controlled trial.",
+              "text": "Afterward she suggests adopting it nationally.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɪn kəŋklˈuːʒən, aɪ ɹˌɛkəmˈɛnd ɐ kəntɹˈoʊld tɹˈaɪəl."
+          "phonemes": "ˈæftɚwɚd ʃiː sədʒˈɛsts ɐdˈɑːptɪŋ ɪt nˈæʃənəli."
         },
         {
-          "text": "— En conclusión, recomiendo una prueba controlada.",
+          "text": "— Después sugiere adoptarlo nacionalmente.",
           "segments": [
             {
-              "text": "— En conclusión, recomiendo una prueba controlada.",
+              "text": "— Después sugiere adoptarlo nacionalmente.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— en kˌonklusjˈon, rˌekomjˈɛndo ˈuna pɾuˈeβa kˌontɾolˈaða."
+          "phonemes": "— despwˈes suxjˈeɾe ˌaðopːtˈaɾlo nˌasjonˈalmˈente."
         }
       ]
     },
@@ -345,129 +345,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "an argument",
+      "text": "a study",
       "sentences": [
         {
-          "text": "an argument",
+          "text": "a study",
           "segments": [
             {
-              "text": "an argument",
+              "text": "a study",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐn ˈɑːɹɡjuːmənt"
+          "phonemes": "ɐ stˈʌdi"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "a finding",
+      "text": "to propose",
       "sentences": [
         {
-          "text": "a finding",
+          "text": "to propose",
           "segments": [
             {
-              "text": "a finding",
+              "text": "to propose",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ fˈaɪndɪŋ"
+          "phonemes": "tə pɹəpˈoʊz"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "a limitation",
+      "text": "to expand",
       "sentences": [
         {
-          "text": "a limitation",
+          "text": "to expand",
           "segments": [
             {
-              "text": "a limitation",
+              "text": "to expand",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ lˌɪmɪtˈeɪʃən"
+          "phonemes": "tʊ ɛkspˈænd"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "a recommendation",
+      "text": "a benefit",
       "sentences": [
         {
-          "text": "a recommendation",
+          "text": "a benefit",
           "segments": [
             {
-              "text": "a recommendation",
+              "text": "a benefit",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ ɹˌɛkəmɛndˈeɪʃən"
+          "phonemes": "ɐ bˈɛnɪfˌɪt"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "to summarize",
+      "text": "a sample",
       "sentences": [
         {
-          "text": "to summarize",
+          "text": "a sample",
           "segments": [
             {
-              "text": "to summarize",
+              "text": "a sample",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə sˈʌmɚɹˌaɪz"
+          "phonemes": "ɐ sˈæmpəl"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "to support",
+      "text": "limited",
       "sentences": [
         {
-          "text": "to support",
+          "text": "limited",
           "segments": [
             {
-              "text": "to support",
+              "text": "limited",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə səpˈɔːɹt"
+          "phonemes": "lˈɪmɪɾᵻd"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "to qualify",
+      "text": "to recommend",
       "sentences": [
         {
-          "text": "to qualify",
+          "text": "to recommend",
           "segments": [
             {
-              "text": "to qualify",
+              "text": "to recommend",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə kwˈɔlᵻfˌaɪ"
+          "phonemes": "tə ɹˌɛkəmˈɛnd"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "in conclusion",
+      "text": "nationally",
       "sentences": [
         {
-          "text": "in conclusion",
+          "text": "nationally",
           "segments": [
             {
-              "text": "in conclusion",
+              "text": "nationally",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɪn kəŋklˈuːʒən"
+          "phonemes": "nˈæʃənəli"
         }
       ]
     }

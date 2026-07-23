@@ -185,7 +185,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Model language. Buscamos a alguien que tenga experiencia. — We are looking for someone who has experience. Conozco a la persona que dirige el proyecto. — I know the person who directs the project. Necesito un lugar que esté cerca del metro. — I need a place that is near the subway. Eso es lo que me preocupa. — That is what worries me. La autora, cuyo libro ganó el premio, dará una charla. — The author whose book won the prize will give a talk.",
+      "text": "Model language. Buscamos a alguien que tenga experiencia. — We're looking for someone who has experience. Conozco a la persona que dirige el proyecto. — I know the person who directs the project. Necesito un lugar que esté cerca del metro. — I need a place that is near the subway. Eso es lo que me preocupa. — That is what worries me. La autora, cuyo libro ganó el premio, dará una charla. — The author, whose book won the prize, will give a talk.",
       "sentences": [
         {
           "text": "Model language.",
@@ -208,14 +208,14 @@
           "phonemes": "buskˈamos a ˈalɣjen ke tˈɛŋɡa ˌekspeɾjˈɛnsja."
         },
         {
-          "text": "— We are looking for someone who has experience.",
+          "text": "— We're looking for someone who has experience.",
           "segments": [
             {
-              "text": "— We are looking for someone who has experience.",
+              "text": "— We're looking for someone who has experience.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— wiː ɑːɹ lˈʊkɪŋ fɔːɹ sˈʌmwʌn hˌuː hɐz ɛkspˈiəɹɪəns."
+          "phonemes": "— wɪɹ lˈʊkɪŋ fɔːɹ sˈʌmwʌn hˌuː hɐz ɛkspˈiəɹɪəns."
         },
         {
           "text": "Conozco a la persona que dirige el proyecto.",
@@ -288,14 +288,14 @@
           "phonemes": "la aʊtˈoɾa, kˈuʝo lˈiβɾo ɣanˈo el pɾˈemjo, daɾˈa ˈuna tʃˈaɾla."
         },
         {
-          "text": "— The author whose book won the prize will give a talk.",
+          "text": "— The author, whose book won the prize, will give a talk.",
           "segments": [
             {
-              "text": "— The author whose book won the prize will give a talk.",
+              "text": "— The author, whose book won the prize, will give a talk.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ðɪ ˈɔːθɚ hˌuːz bˈʊk wˈʌn ðə pɹˈaɪz wɪl ɡˈɪv ɐ tˈɔːk."
+          "phonemes": "— ðɪ ˈɔːθɚ, hˌuːz bˈʊk wˈʌn ðə pɹˈaɪz, wɪl ɡˈɪv ɐ tˈɔːk."
         }
       ]
     },

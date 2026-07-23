@@ -189,7 +189,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Model language. Hola, me llamo Alex. — Hello, my name is Alex. Mucho gusto, señora Rivera. — Nice to meet you, Mrs. Rivera. ¿Cómo te llamas? — What is your name? Le presento a mi compañera. — Let me introduce you to my classmate. Nos vemos mañana; que tenga buen día. — See you tomorrow; have a good day.",
+      "text": "Model language. Hola, me llamo Alex. — Hello, my name is Alex. Mucho gusto, señora Rivera. — Pleased to meet you, Mrs. Rivera. ¿Cómo te llamas? — What's your name? Le presento a mi compañera. — This is my colleague. Nos vemos mañana; que tenga buen día. — See you tomorrow; have a good day.",
       "sentences": [
         {
           "text": "Model language.",
@@ -232,14 +232,14 @@
           "phonemes": "mˈutʃo ɣˈusto, seɲˈoɾa riβˈeɾa."
         },
         {
-          "text": "— Nice to meet you, Mrs.",
+          "text": "— Pleased to meet you, Mrs.",
           "segments": [
             {
-              "text": "— Nice to meet you, Mrs.",
+              "text": "— Pleased to meet you, Mrs.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— nˈaɪs tə mˈiːt juː, mˈɪsɪz."
+          "phonemes": "— plˈiːzd tə mˈiːt juː, mˈɪsɪz."
         },
         {
           "text": "Rivera.",
@@ -262,14 +262,14 @@
           "phonemes": "kˈomo te ʝˈamas?"
         },
         {
-          "text": "— What is your name?",
+          "text": "— What's your name?",
           "segments": [
             {
-              "text": "— What is your name?",
+              "text": "— What's your name?",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— wˌʌt ɪz jʊɹ nˈeɪm?"
+          "phonemes": "— wˌʌts jʊɹ nˈeɪm?"
         },
         {
           "text": "Le presento a mi compañera.",
@@ -282,14 +282,14 @@
           "phonemes": "le pɾesˈɛnto a mi kˌompaɲˈeɾa."
         },
         {
-          "text": "— Let me introduce you to my classmate.",
+          "text": "— This is my colleague.",
           "segments": [
             {
-              "text": "— Let me introduce you to my classmate.",
+              "text": "— This is my colleague.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— lˈɛt mˌiː ˌɪntɹədˈuːs juː tə maɪ klˈæsmeɪt."
+          "phonemes": "— ðɪs ɪz maɪ kˈɑːliːɡ."
         },
         {
           "text": "Nos vemos mañana; que tenga buen día.",

@@ -29,7 +29,7 @@
     },
     {
       "file": "01.wav",
-      "text": "Form and meaning. Ser for identity and origin; cardinal numbers; dates; telling time with es la and son las.",
+      "text": "Form and meaning. Applying the form. Use soy/eres/es/somos/son (from ser) for identity and origin, and pair cardinal numbers directly with the noun they count.",
       "sentences": [
         {
           "text": "Form and meaning.",
@@ -42,40 +42,70 @@
           "phonemes": "fˈɔːɹm ænd mˈiːnɪŋ."
         },
         {
-          "text": "Ser for identity and origin; cardinal numbers; dates; telling time with es la and son las.",
+          "text": "Applying the form.",
           "segments": [
             {
-              "text": "Ser",
-              "lang": "es-419"
-            },
-            {
-              "text": " for identity and origin; cardinal numbers; dates; telling time with ",
-              "lang": "en-us"
-            },
-            {
-              "text": "es la",
-              "lang": "es-419"
-            },
-            {
-              "text": " and ",
-              "lang": "en-us"
-            },
-            {
-              "text": "son las",
-              "lang": "es-419"
-            },
-            {
-              "text": ".",
+              "text": "Applying the form.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "sˈer fɔːɹ aɪdˈɛntᵻɾi ænd ˈɔːɹɪdʒˌɪn; kˈɑːɹdɪnəl nˈʌmbɚz; dˈeɪts; tˈɛlɪŋ tˈaɪm wɪð ˈes lˈa ænd sˈon lˈas ."
+          "phonemes": "ɐplˈaɪɪŋ ðə fˈɔːɹm."
+        },
+        {
+          "text": "Use soy/eres/es/somos/son (from ser) for identity and origin, and pair cardinal numbers directly with the noun they count.",
+          "segments": [
+            {
+              "text": "Use ",
+              "lang": "en-us"
+            },
+            {
+              "text": "soy",
+              "lang": "es-419"
+            },
+            {
+              "text": "/",
+              "lang": "en-us"
+            },
+            {
+              "text": "eres",
+              "lang": "es-419"
+            },
+            {
+              "text": "/",
+              "lang": "en-us"
+            },
+            {
+              "text": "es",
+              "lang": "es-419"
+            },
+            {
+              "text": "/",
+              "lang": "en-us"
+            },
+            {
+              "text": "somos",
+              "lang": "es-419"
+            },
+            {
+              "text": "/son (from ",
+              "lang": "en-us"
+            },
+            {
+              "text": "ser",
+              "lang": "es-419"
+            },
+            {
+              "text": ") for identity and origin, and pair cardinal numbers directly with the noun they count.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "jˈuːs sˈoɪ slˈæʃ ˈeɾes slˈæʃ ˈes slˈæʃ sˈomos slˈæʃ sˈʌn (fɹʌm sˈer ) fɔːɹ aɪdˈɛntᵻɾi ænd ˈɔːɹɪdʒˌɪn, ænd pˈɛɹ kˈɑːɹdɪnəl nˈʌmbɚz dᵻɹˈɛktli wɪððə nˈaʊn ðeɪ kˈaʊnt."
         }
       ]
     },
     {
       "file": "02.wav",
-      "text": "Model set. Soy de los Estados Unidos. Mi apellido es Clark. Hoy es el diecinueve de julio. Son las tres y cuarto. ¿A qué hora es la reunión? I am from the United States. My last name is Clark. Today is July nineteenth. It is a quarter past three. What time is the meeting?",
+      "text": "Model set. Soy de Perú. Eres estudiante, ¿verdad? Es las tres de la tarde. Somos de la misma ciudad. Mi número tiene diez dígitos. I am from Peru. You are a student, right? It is three in the afternoon. We are from the same city. My number has ten digits.",
       "sentences": [
         {
           "text": "Model set.",
@@ -88,104 +118,104 @@
           "phonemes": "mˈɑːdəl sˈɛt."
         },
         {
-          "text": "Soy de los Estados Unidos.",
+          "text": "Soy de Perú.",
           "segments": [
             {
-              "text": "Soy de los Estados Unidos.",
+              "text": "Soy de Perú.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "sˈoɪ ðe los estˈaðos unˈiðos."
+          "phonemes": "sˈoɪ ðe peɾˈu."
         },
         {
-          "text": "Mi apellido es Clark.",
+          "text": "Eres estudiante, ¿verdad?",
           "segments": [
             {
-              "text": "Mi apellido es Clark.",
+              "text": "Eres estudiante, ¿verdad?",
               "lang": "es-419"
             }
           ],
-          "phonemes": "mi ˌapejjˈiðo ˈes klˈaɾk."
+          "phonemes": "ˈeɾes ˌestuðjˈante, beɾðˈad?"
         },
         {
-          "text": "Hoy es el diecinueve de julio.",
+          "text": "Es las tres de la tarde.",
           "segments": [
             {
-              "text": "Hoy es el diecinueve de julio.",
+              "text": "Es las tres de la tarde.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˈoɪ ˈes el ðjˌesinwˈeβe ðe xˈuljo."
+          "phonemes": "ˈes las tɾˈes ðe la tˈaɾðe."
         },
         {
-          "text": "Son las tres y cuarto.",
+          "text": "Somos de la misma ciudad.",
           "segments": [
             {
-              "text": "Son las tres y cuarto.",
+              "text": "Somos de la misma ciudad.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "sˈon las tɾˈes i kwˈaɾto."
+          "phonemes": "sˈomos ðe la mˈisma sjuðˈad."
         },
         {
-          "text": "¿A qué hora es la reunión?",
+          "text": "Mi número tiene diez dígitos.",
           "segments": [
             {
-              "text": "¿A qué hora es la reunión?",
+              "text": "Mi número tiene diez dígitos.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "a kˈe ˈoɾa ˈes la reʊnjˈon?"
+          "phonemes": "mi nˈumeɾo tjˈene ðjˈes ðˈixitos."
         },
         {
-          "text": "I am from the United States.",
+          "text": "I am from Peru.",
           "segments": [
             {
-              "text": "I am from the United States.",
+              "text": "I am from Peru.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪɐm fɹʌmðə juːnˈaɪɾᵻd stˈeɪts."
+          "phonemes": "aɪɐm fɹʌm pɚɹˈuː."
         },
         {
-          "text": "My last name is Clark.",
+          "text": "You are a student, right?",
           "segments": [
             {
-              "text": "My last name is Clark.",
+              "text": "You are a student, right?",
               "lang": "en-us"
             }
           ],
-          "phonemes": "maɪ lˈæst nˈeɪm ɪz klˈɑːɹk."
+          "phonemes": "juː ɑːɹ ɐ stˈuːdənt, ɹˈaɪt?"
         },
         {
-          "text": "Today is July nineteenth.",
+          "text": "It is three in the afternoon.",
           "segments": [
             {
-              "text": "Today is July nineteenth.",
+              "text": "It is three in the afternoon.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tədˈeɪ ɪz dʒuːlˈaɪ nˈaɪntiːnθ."
+          "phonemes": "ɪɾ ɪz θɹˈiː ɪnðɪ ˌæftɚnˈuːn."
         },
         {
-          "text": "It is a quarter past three.",
+          "text": "We are from the same city.",
           "segments": [
             {
-              "text": "It is a quarter past three.",
+              "text": "We are from the same city.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɪɾ ɪz ɐ kwˈɔːɹɾɚ pˈæst θɹˈiː."
+          "phonemes": "wiː ɑːɹ fɹʌmðə sˈeɪm sˈɪɾi."
         },
         {
-          "text": "What time is the meeting?",
+          "text": "My number has ten digits.",
           "segments": [
             {
-              "text": "What time is the meeting?",
+              "text": "My number has ten digits.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wˌʌt tˈaɪm ɪz ðə mˈiːɾɪŋ?"
+          "phonemes": "maɪ nˈʌmbɚ hɐz tˈɛn dˈɪdʒɪts."
         }
       ]
     },
@@ -263,7 +293,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Model language. Soy de los Estados Unidos. — I am from the United States. Mi apellido es Clark. — My last name is Clark. Hoy es el diecinueve de julio. — Today is July nineteenth. Son las tres y cuarto. — It is a quarter past three. ¿A qué hora es la reunión? — What time is the meeting?",
+      "text": "Model language. Soy de Perú. — I am from Peru. Eres estudiante, ¿verdad? — You are a student, right? Es las tres de la tarde. — It is three in the afternoon. Somos de la misma ciudad. — We are from the same city. Mi número tiene diez dígitos. — My number has ten digits.",
       "sentences": [
         {
           "text": "Model language.",
@@ -276,104 +306,104 @@
           "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
         },
         {
-          "text": "Soy de los Estados Unidos.",
+          "text": "Soy de Perú.",
           "segments": [
             {
-              "text": "Soy de los Estados Unidos.",
+              "text": "Soy de Perú.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "sˈoɪ ðe los estˈaðos unˈiðos."
+          "phonemes": "sˈoɪ ðe peɾˈu."
         },
         {
-          "text": "— I am from the United States.",
+          "text": "— I am from Peru.",
           "segments": [
             {
-              "text": "— I am from the United States.",
+              "text": "— I am from Peru.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— aɪɐm fɹʌmðə juːnˈaɪɾᵻd stˈeɪts."
+          "phonemes": "— aɪɐm fɹʌm pɚɹˈuː."
         },
         {
-          "text": "Mi apellido es Clark.",
+          "text": "Eres estudiante, ¿verdad?",
           "segments": [
             {
-              "text": "Mi apellido es Clark.",
+              "text": "Eres estudiante, ¿verdad?",
               "lang": "es-419"
             }
           ],
-          "phonemes": "mi ˌapejjˈiðo ˈes klˈaɾk."
+          "phonemes": "ˈeɾes ˌestuðjˈante, beɾðˈad?"
         },
         {
-          "text": "— My last name is Clark.",
+          "text": "— You are a student, right?",
           "segments": [
             {
-              "text": "— My last name is Clark.",
+              "text": "— You are a student, right?",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— maɪ lˈæst nˈeɪm ɪz klˈɑːɹk."
+          "phonemes": "— juː ɑːɹ ɐ stˈuːdənt, ɹˈaɪt?"
         },
         {
-          "text": "Hoy es el diecinueve de julio.",
+          "text": "Es las tres de la tarde.",
           "segments": [
             {
-              "text": "Hoy es el diecinueve de julio.",
+              "text": "Es las tres de la tarde.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˈoɪ ˈes el ðjˌesinwˈeβe ðe xˈuljo."
+          "phonemes": "ˈes las tɾˈes ðe la tˈaɾðe."
         },
         {
-          "text": "— Today is July nineteenth.",
+          "text": "— It is three in the afternoon.",
           "segments": [
             {
-              "text": "— Today is July nineteenth.",
+              "text": "— It is three in the afternoon.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— tədˈeɪ ɪz dʒuːlˈaɪ nˈaɪntiːnθ."
+          "phonemes": "— ɪɾ ɪz θɹˈiː ɪnðɪ ˌæftɚnˈuːn."
         },
         {
-          "text": "Son las tres y cuarto.",
+          "text": "Somos de la misma ciudad.",
           "segments": [
             {
-              "text": "Son las tres y cuarto.",
+              "text": "Somos de la misma ciudad.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "sˈon las tɾˈes i kwˈaɾto."
+          "phonemes": "sˈomos ðe la mˈisma sjuðˈad."
         },
         {
-          "text": "— It is a quarter past three.",
+          "text": "— We are from the same city.",
           "segments": [
             {
-              "text": "— It is a quarter past three.",
+              "text": "— We are from the same city.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ɪɾ ɪz ɐ kwˈɔːɹɾɚ pˈæst θɹˈiː."
+          "phonemes": "— wiː ɑːɹ fɹʌmðə sˈeɪm sˈɪɾi."
         },
         {
-          "text": "¿A qué hora es la reunión?",
+          "text": "Mi número tiene diez dígitos.",
           "segments": [
             {
-              "text": "¿A qué hora es la reunión?",
+              "text": "Mi número tiene diez dígitos.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "a kˈe ˈoɾa ˈes la reʊnjˈon?"
+          "phonemes": "mi nˈumeɾo tjˈene ðjˈes ðˈixitos."
         },
         {
-          "text": "— What time is the meeting?",
+          "text": "— My number has ten digits.",
           "segments": [
             {
-              "text": "— What time is the meeting?",
+              "text": "— My number has ten digits.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— wˌʌt tˈaɪm ɪz ðə mˈiːɾɪŋ?"
+          "phonemes": "— maɪ nˈʌmbɚ hɐz tˈɛn dˈɪdʒɪts."
         }
       ]
     },
@@ -425,129 +455,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "el nombre",
+      "text": "soy",
       "sentences": [
         {
-          "text": "el nombre",
+          "text": "soy",
           "segments": [
             {
-              "text": "el nombre",
+              "text": "soy",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el nˈombɾe"
+          "phonemes": "sˈoɪ"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "el apellido",
+      "text": "eres",
       "sentences": [
         {
-          "text": "el apellido",
+          "text": "eres",
           "segments": [
             {
-              "text": "el apellido",
+              "text": "eres",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el ˌapejjˈiðo"
+          "phonemes": "ˈeɾes"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "el país",
+      "text": "es",
       "sentences": [
         {
-          "text": "el país",
+          "text": "es",
           "segments": [
             {
-              "text": "el país",
+              "text": "es",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el paˈis"
+          "phonemes": "ˈes"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "la ciudad",
+      "text": "somos",
       "sentences": [
         {
-          "text": "la ciudad",
+          "text": "somos",
           "segments": [
             {
-              "text": "la ciudad",
+              "text": "somos",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la sjuðˈad"
+          "phonemes": "sˈomos"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "el número",
+      "text": "el número de teléfono",
       "sentences": [
         {
-          "text": "el número",
+          "text": "el número de teléfono",
           "segments": [
             {
-              "text": "el número",
+              "text": "el número de teléfono",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el nˈumeɾo"
+          "phonemes": "el nˈumeɾo ðe telˈefono"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "la fecha",
+      "text": "¿cuántos?",
       "sentences": [
         {
-          "text": "la fecha",
+          "text": "¿cuántos?",
           "segments": [
             {
-              "text": "la fecha",
+              "text": "¿cuántos?",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la fˈetʃa"
+          "phonemes": "kwˈantos?"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "la hora",
+      "text": "treinta",
       "sentences": [
         {
-          "text": "la hora",
+          "text": "treinta",
           "segments": [
             {
-              "text": "la hora",
+              "text": "treinta",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la ˈoɾa"
+          "phonemes": "tɾˈeɪnta"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "hoy",
+      "text": "cien",
       "sentences": [
         {
-          "text": "hoy",
+          "text": "cien",
           "segments": [
             {
-              "text": "hoy",
+              "text": "cien",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˈoɪ"
+          "phonemes": "sjˈen"
         }
       ]
     }

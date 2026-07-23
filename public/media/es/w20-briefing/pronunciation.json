@@ -153,7 +153,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Model language. Caminaba a casa cuando empezó la tormenta. — I was walking home when the storm began. Mientras todos dormían, sonó la alarma. — While everyone was sleeping, the alarm went off. Ya había poca luz cuando llegamos. — There was already little light when we arrived. De repente, un vecino abrió la puerta. — Suddenly, a neighbor opened the door. Al final resolvimos el problema juntos. — In the end, we solved the problem together.",
+      "text": "Model language. Caminaba a casa cuando empezó la tormenta. — I was walking home when the storm started. Mientras todos dormían, sonó la alarma. — While everyone slept, the alarm went off. Ya había poca luz cuando llegamos. — There was already little light when we arrived. De repente, un vecino abrió la puerta. — Suddenly, a neighbor opened the door. Al final resolvimos el problema juntos. — In the end we solved the problem together.",
       "sentences": [
         {
           "text": "Model language.",
@@ -176,14 +176,14 @@
           "phonemes": "kˌaminˈaβa a kˈasa kwˌando ˌempesˈo la toɾmˈɛnta."
         },
         {
-          "text": "— I was walking home when the storm began.",
+          "text": "— I was walking home when the storm started.",
           "segments": [
             {
-              "text": "— I was walking home when the storm began.",
+              "text": "— I was walking home when the storm started.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— aɪ wʌz wˈɔːkɪŋ hˈoʊm wɛn ðə stˈɔːɹm bɪɡˈæn."
+          "phonemes": "— aɪ wʌz wˈɔːkɪŋ hˈoʊm wɛn ðə stˈɔːɹm stˈɑːɹɾᵻd."
         },
         {
           "text": "Mientras todos dormían, sonó la alarma.",
@@ -196,14 +196,14 @@
           "phonemes": "mjˌentɾas tˈoðos ðoɾmˈian, sonˈo la alˈaɾma."
         },
         {
-          "text": "— While everyone was sleeping, the alarm went off.",
+          "text": "— While everyone slept, the alarm went off.",
           "segments": [
             {
-              "text": "— While everyone was sleeping, the alarm went off.",
+              "text": "— While everyone slept, the alarm went off.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— wˌaɪl ˈɛvɹɪwˌʌn wʌz slˈiːpɪŋ, ðɪ ɐlˈɑːɹm wɛnt ˈɔf."
+          "phonemes": "— wˌaɪl ˈɛvɹɪwˌʌn slˈɛpt, ðɪ ɐlˈɑːɹm wɛnt ˈɔf."
         },
         {
           "text": "Ya había poca luz cuando llegamos.",
@@ -256,14 +256,14 @@
           "phonemes": "al finˈal rˌesolβˈimos el pɾoβlˈema xˈuntos."
         },
         {
-          "text": "— In the end, we solved the problem together.",
+          "text": "— In the end we solved the problem together.",
           "segments": [
             {
-              "text": "— In the end, we solved the problem together.",
+              "text": "— In the end we solved the problem together.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ɪnðɪ ˈɛnd, wiː sˈɑːlvd ðə pɹˈɑːbləm təɡˈɛðɚ."
+          "phonemes": "— ɪnðɪ ˈɛnd wiː sˈɑːlvd ðə pɹˈɑːbləm təɡˈɛðɚ."
         }
       ]
     },

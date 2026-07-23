@@ -29,7 +29,7 @@
     },
     {
       "file": "01.wav",
-      "text": "Forma y significado. Who, which, that, whose y where; cláusulas definitorias y explicativas; omisión posible del relativo objeto.",
+      "text": "Forma y significado. Aplicación de la forma. Who/that se refieren a personas, which/that a cosas; el pronombre objeto (that/which) puede omitirse: the book (that) I read.",
       "sentences": [
         {
           "text": "Forma y significado.",
@@ -42,22 +42,24 @@
           "phonemes": "fˈoɾma i sˌiɡnifikˈaðo."
         },
         {
-          "text": "Who, which, that, whose y where; cláusulas definitorias y explicativas; omisión posible del relativo objeto.",
+          "text": "Aplicación de la forma.",
+          "segments": [
+            {
+              "text": "Aplicación de la forma.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˌaplikasjˈon de la fˈoɾma."
+        },
+        {
+          "text": "Who/that se refieren a personas, which/that a cosas; el pronombre objeto (that/which) puede omitirse: the book (that) I read.",
           "segments": [
             {
               "text": "Who",
               "lang": "en-us"
             },
             {
-              "text": ", ",
-              "lang": "es-419"
-            },
-            {
-              "text": "which",
-              "lang": "en-us"
-            },
-            {
-              "text": ", ",
+              "text": "/",
               "lang": "es-419"
             },
             {
@@ -65,33 +67,65 @@
               "lang": "en-us"
             },
             {
-              "text": ", ",
+              "text": " se refieren a personas, ",
               "lang": "es-419"
             },
             {
-              "text": "whose",
+              "text": "which",
               "lang": "en-us"
             },
             {
-              "text": " y ",
+              "text": "/",
               "lang": "es-419"
             },
             {
-              "text": "where",
+              "text": "that",
               "lang": "en-us"
             },
             {
-              "text": "; cláusulas definitorias y explicativas; omisión posible del relativo objeto.",
+              "text": " a cosas; el pronombre objeto (",
+              "lang": "es-419"
+            },
+            {
+              "text": "that",
+              "lang": "en-us"
+            },
+            {
+              "text": "/",
+              "lang": "es-419"
+            },
+            {
+              "text": "which",
+              "lang": "en-us"
+            },
+            {
+              "text": ") puede omitirse: ",
+              "lang": "es-419"
+            },
+            {
+              "text": "the",
+              "lang": "en-us"
+            },
+            {
+              "text": " book (",
+              "lang": "es-419"
+            },
+            {
+              "text": "that",
+              "lang": "en-us"
+            },
+            {
+              "text": ") I read.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "hˈuː , wˈɪtʃ , ðˈæt , hˌuːz i wˈɛɹ ; klˈausˌulas ðˌefinitˈoɾjas i ˌeksplikatˈiβas; ˌomisjˈom posˈiβle ðel rˌelatˈiβo oβxˈeto."
+          "phonemes": "hˈuː bˈara ðˈæt se refjˈeɾen a peɾsˈonas, wˈɪtʃ bˈara ðˈæt a kˈosas; el pɾonˈombɾe oβxˈeto ( ðˈæt bˈara wˈɪtʃ ) pwˈeðe ˌomitˈiɾse: ðə boˈok ( ðˈæt ) ˈi reˈad."
         }
       ]
     },
     {
       "file": "02.wav",
-      "text": "Conjunto de modelos. We're looking for someone who has experience. I know the person who leads the project. I need a place that is near the subway. This is the issue that concerns me. The author whose book won will speak. Buscamos a alguien que tenga experiencia. Conozco a la persona que dirige el proyecto. Necesito un lugar que esté cerca del metro. Este es el asunto que me preocupa. Hablará la autora cuyo libro ganó.",
+      "text": "Conjunto de modelos. I'm looking for someone who has experience. I know the person who has experience. The place where I live is quiet. I need something that works well. I use what I already have. Busco a alguien que tenga experiencia. Conozco a la persona que tiene experiencia. El lugar donde vivo es tranquilo. Necesito algo que funcione bien. Uso lo que ya tengo.",
       "sentences": [
         {
           "text": "Conjunto de modelos.",
@@ -104,104 +138,104 @@
           "phonemes": "koŋxˈunto ðe moðˈelos."
         },
         {
-          "text": "We're looking for someone who has experience.",
+          "text": "I'm looking for someone who has experience.",
           "segments": [
             {
-              "text": "We're looking for someone who has experience.",
+              "text": "I'm looking for someone who has experience.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wɪɹ lˈʊkɪŋ fɔːɹ sˈʌmwʌn hˌuː hɐz ɛkspˈiəɹɪəns."
+          "phonemes": "aɪm lˈʊkɪŋ fɔːɹ sˈʌmwʌn hˌuː hɐz ɛkspˈiəɹɪəns."
         },
         {
-          "text": "I know the person who leads the project.",
+          "text": "I know the person who has experience.",
           "segments": [
             {
-              "text": "I know the person who leads the project.",
+              "text": "I know the person who has experience.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪ nˈoʊ ðə pˈɜːsən hˌuː lˈiːdz ðə pɹˈɑːdʒɛkt."
+          "phonemes": "aɪ nˈoʊ ðə pˈɜːsən hˌuː hɐz ɛkspˈiəɹɪəns."
         },
         {
-          "text": "I need a place that is near the subway.",
+          "text": "The place where I live is quiet.",
           "segments": [
             {
-              "text": "I need a place that is near the subway.",
+              "text": "The place where I live is quiet.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪ nˈiːd ɐ plˈeɪs ðæt ɪz nˌɪɹ ðə sˈʌbweɪ."
+          "phonemes": "ðə plˈeɪs wˌɛɹ aɪ lˈɪv ɪz kwˈaɪət."
         },
         {
-          "text": "This is the issue that concerns me.",
+          "text": "I need something that works well.",
           "segments": [
             {
-              "text": "This is the issue that concerns me.",
+              "text": "I need something that works well.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðɪs ɪz ðɪ ˈɪʃuː ðæt kənsˈɜːnz mˌiː."
+          "phonemes": "aɪ nˈiːd sˈʌmθɪŋ ðæt wˈɜːks wˈɛl."
         },
         {
-          "text": "The author whose book won will speak.",
+          "text": "I use what I already have.",
           "segments": [
             {
-              "text": "The author whose book won will speak.",
+              "text": "I use what I already have.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðɪ ˈɔːθɚ hˌuːz bˈʊk wˈʌn wɪl spˈiːk."
+          "phonemes": "aɪ jˈuːz wʌt aɪ ɔːlɹˌɛdi hˈæv."
         },
         {
-          "text": "Buscamos a alguien que tenga experiencia.",
+          "text": "Busco a alguien que tenga experiencia.",
           "segments": [
             {
-              "text": "Buscamos a alguien que tenga experiencia.",
+              "text": "Busco a alguien que tenga experiencia.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "buskˈamos a ˈalɣjen ke tˈɛŋɡa ˌekspeɾjˈɛnsja."
+          "phonemes": "bˈusko a ˈalɣjen ke tˈɛŋɡa ˌekspeɾjˈɛnsja."
         },
         {
-          "text": "Conozco a la persona que dirige el proyecto.",
+          "text": "Conozco a la persona que tiene experiencia.",
           "segments": [
             {
-              "text": "Conozco a la persona que dirige el proyecto.",
+              "text": "Conozco a la persona que tiene experiencia.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "konˈosko a la peɾsˈona ke ðiɾˈixe el pɾoʝˈekto."
+          "phonemes": "konˈosko a la peɾsˈona ke tjˈene ˌekspeɾjˈɛnsja."
         },
         {
-          "text": "Necesito un lugar que esté cerca del metro.",
+          "text": "El lugar donde vivo es tranquilo.",
           "segments": [
             {
-              "text": "Necesito un lugar que esté cerca del metro.",
+              "text": "El lugar donde vivo es tranquilo.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "nˌesesˈito ˈun luɣˈaɾ ke estˈe sˈeɾka ðel mˈetɾo."
+          "phonemes": "el luɣˈaɾ ðˌonde βˈiβo ˈes tɾankˈilo."
         },
         {
-          "text": "Este es el asunto que me preocupa.",
+          "text": "Necesito algo que funcione bien.",
           "segments": [
             {
-              "text": "Este es el asunto que me preocupa.",
+              "text": "Necesito algo que funcione bien.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˈeste ˈes el asˈunto ke me pɾˌeokˈupa."
+          "phonemes": "nˌesesˈito ˈalɣo ke funsjˈone βjˈen."
         },
         {
-          "text": "Hablará la autora cuyo libro ganó.",
+          "text": "Uso lo que ya tengo.",
           "segments": [
             {
-              "text": "Hablará la autora cuyo libro ganó.",
+              "text": "Uso lo que ya tengo.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˌaβlaɾˈa la aʊtˈoɾa kˈuʝo lˈiβɾo ɣanˈo."
+          "phonemes": "ˈuso lo ke ʝˈa tˈɛŋɡo."
         }
       ]
     },
@@ -269,7 +303,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Lenguaje modelo. We're looking for someone who has experience. — Buscamos a alguien que tenga experiencia. I know the person who leads the project. — Conozco a la persona que dirige el proyecto. I need a place that is near the subway. — Necesito un lugar que esté cerca del metro. This is the issue that concerns me. — Este es el asunto que me preocupa. The author whose book won will speak. — Hablará la autora cuyo libro ganó.",
+      "text": "Lenguaje modelo. I'm looking for someone who has experience. — Busco a alguien que tenga experiencia. I know the person who has experience. — Conozco a la persona que tiene experiencia. The place where I live is quiet. — El lugar donde vivo es tranquilo. I need something that works well. — Necesito algo que funcione bien. I use what I already have. — Uso lo que ya tengo.",
       "sentences": [
         {
           "text": "Lenguaje modelo.",
@@ -282,104 +316,104 @@
           "phonemes": "leŋɡwˈaxe moðˈelo."
         },
         {
-          "text": "We're looking for someone who has experience.",
+          "text": "I'm looking for someone who has experience.",
           "segments": [
             {
-              "text": "We're looking for someone who has experience.",
+              "text": "I'm looking for someone who has experience.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wɪɹ lˈʊkɪŋ fɔːɹ sˈʌmwʌn hˌuː hɐz ɛkspˈiəɹɪəns."
+          "phonemes": "aɪm lˈʊkɪŋ fɔːɹ sˈʌmwʌn hˌuː hɐz ɛkspˈiəɹɪəns."
         },
         {
-          "text": "— Buscamos a alguien que tenga experiencia.",
+          "text": "— Busco a alguien que tenga experiencia.",
           "segments": [
             {
-              "text": "— Buscamos a alguien que tenga experiencia.",
+              "text": "— Busco a alguien que tenga experiencia.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— buskˈamos a ˈalɣjen ke tˈɛŋɡa ˌekspeɾjˈɛnsja."
+          "phonemes": "— bˈusko a ˈalɣjen ke tˈɛŋɡa ˌekspeɾjˈɛnsja."
         },
         {
-          "text": "I know the person who leads the project.",
+          "text": "I know the person who has experience.",
           "segments": [
             {
-              "text": "I know the person who leads the project.",
+              "text": "I know the person who has experience.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪ nˈoʊ ðə pˈɜːsən hˌuː lˈiːdz ðə pɹˈɑːdʒɛkt."
+          "phonemes": "aɪ nˈoʊ ðə pˈɜːsən hˌuː hɐz ɛkspˈiəɹɪəns."
         },
         {
-          "text": "— Conozco a la persona que dirige el proyecto.",
+          "text": "— Conozco a la persona que tiene experiencia.",
           "segments": [
             {
-              "text": "— Conozco a la persona que dirige el proyecto.",
+              "text": "— Conozco a la persona que tiene experiencia.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— konˈosko a la peɾsˈona ke ðiɾˈixe el pɾoʝˈekto."
+          "phonemes": "— konˈosko a la peɾsˈona ke tjˈene ˌekspeɾjˈɛnsja."
         },
         {
-          "text": "I need a place that is near the subway.",
+          "text": "The place where I live is quiet.",
           "segments": [
             {
-              "text": "I need a place that is near the subway.",
+              "text": "The place where I live is quiet.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪ nˈiːd ɐ plˈeɪs ðæt ɪz nˌɪɹ ðə sˈʌbweɪ."
+          "phonemes": "ðə plˈeɪs wˌɛɹ aɪ lˈɪv ɪz kwˈaɪət."
         },
         {
-          "text": "— Necesito un lugar que esté cerca del metro.",
+          "text": "— El lugar donde vivo es tranquilo.",
           "segments": [
             {
-              "text": "— Necesito un lugar que esté cerca del metro.",
+              "text": "— El lugar donde vivo es tranquilo.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— nˌesesˈito ˈun luɣˈaɾ ke estˈe sˈeɾka ðel mˈetɾo."
+          "phonemes": "— el luɣˈaɾ ðˌonde βˈiβo ˈes tɾankˈilo."
         },
         {
-          "text": "This is the issue that concerns me.",
+          "text": "I need something that works well.",
           "segments": [
             {
-              "text": "This is the issue that concerns me.",
+              "text": "I need something that works well.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðɪs ɪz ðɪ ˈɪʃuː ðæt kənsˈɜːnz mˌiː."
+          "phonemes": "aɪ nˈiːd sˈʌmθɪŋ ðæt wˈɜːks wˈɛl."
         },
         {
-          "text": "— Este es el asunto que me preocupa.",
+          "text": "— Necesito algo que funcione bien.",
           "segments": [
             {
-              "text": "— Este es el asunto que me preocupa.",
+              "text": "— Necesito algo que funcione bien.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— ˈeste ˈes el asˈunto ke me pɾˌeokˈupa."
+          "phonemes": "— nˌesesˈito ˈalɣo ke funsjˈone βjˈen."
         },
         {
-          "text": "The author whose book won will speak.",
+          "text": "I use what I already have.",
           "segments": [
             {
-              "text": "The author whose book won will speak.",
+              "text": "I use what I already have.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðɪ ˈɔːθɚ hˌuːz bˈʊk wˈʌn wɪl spˈiːk."
+          "phonemes": "aɪ jˈuːz wʌt aɪ ɔːlɹˌɛdi hˈæv."
         },
         {
-          "text": "— Hablará la autora cuyo libro ganó.",
+          "text": "— Uso lo que ya tengo.",
           "segments": [
             {
-              "text": "— Hablará la autora cuyo libro ganó.",
+              "text": "— Uso lo que ya tengo.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— ˌaβlaɾˈa la aʊtˈoɾa kˈuʝo lˈiβɾo ɣanˈo."
+          "phonemes": "— ˈuso lo ke ʝˈa tˈɛŋɡo."
         }
       ]
     },
@@ -431,129 +465,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "who",
+      "text": "who (subject)",
       "sentences": [
         {
-          "text": "who",
+          "text": "who (subject)",
           "segments": [
             {
-              "text": "who",
+              "text": "who (subject)",
               "lang": "en-us"
             }
           ],
-          "phonemes": "hˈuː"
+          "phonemes": "hˈuː (sˈʌbdʒɛkt)"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "which",
+      "text": "that (subject/object)",
       "sentences": [
         {
-          "text": "which",
+          "text": "that (subject/object)",
           "segments": [
             {
-              "text": "which",
+              "text": "that (subject/object)",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wˈɪtʃ"
+          "phonemes": "ðˈæt (sˈʌbdʒɛkt slˈæʃ ˈɑːbdʒɛkt)"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "that",
+      "text": "which (things)",
       "sentences": [
         {
-          "text": "that",
+          "text": "which (things)",
           "segments": [
             {
-              "text": "that",
+              "text": "which (things)",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðˈæt"
+          "phonemes": "wˈɪtʃ (θˈɪŋz)"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "whose",
+      "text": "where (relative)",
       "sentences": [
         {
-          "text": "whose",
+          "text": "where (relative)",
           "segments": [
             {
-              "text": "whose",
+              "text": "where (relative)",
               "lang": "en-us"
             }
           ],
-          "phonemes": "hˌuːz"
+          "phonemes": "wˈɛɹ (ɹˈɛlətˌɪv)"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "a requirement",
+      "text": "the person who",
       "sentences": [
         {
-          "text": "a requirement",
+          "text": "the person who",
           "segments": [
             {
-              "text": "a requirement",
+              "text": "the person who",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ ɹᵻkwˈaɪɚmənt"
+          "phonemes": "ðə pˈɜːsən hˈuː"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "a candidate",
+      "text": "the place where",
       "sentences": [
         {
-          "text": "a candidate",
+          "text": "the place where",
           "segments": [
             {
-              "text": "a candidate",
+              "text": "the place where",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ kˈændᵻdˌeɪt"
+          "phonemes": "ðə plˈeɪs wˈɛɹ"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "experience",
+      "text": "omitted relative",
       "sentences": [
         {
-          "text": "experience",
+          "text": "omitted relative",
           "segments": [
             {
-              "text": "experience",
+              "text": "omitted relative",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɛkspˈiəɹɪəns"
+          "phonemes": "oʊmˈɪɾᵻd ɹˈɛlətˌɪv"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "available",
+      "text": "a defining clause",
       "sentences": [
         {
-          "text": "available",
+          "text": "a defining clause",
           "segments": [
             {
-              "text": "available",
+              "text": "a defining clause",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐvˈeɪləbəl"
+          "phonemes": "ɐ dᵻfˈaɪnɪŋ klˈɔːz"
         }
       ]
     }

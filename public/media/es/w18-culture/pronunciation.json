@@ -45,11 +45,15 @@
           "text": "Personal anecdotes as social connection and evidence.",
           "segments": [
             {
-              "text": "Personal anecdotes as social connection and evidence.",
+              "text": "Personal",
+              "lang": "es-419"
+            },
+            {
+              "text": " anecdotes as social connection and evidence.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "pˈɜːsənəl ˈænɪkdˌoʊts æz sˈoʊʃəl kənˈɛkʃən ænd ˈɛvɪdəns."
+          "phonemes": "pˌeɾsonˈal ˈænɪkdˌoʊts æz sˈoʊʃəl kənˈɛkʃən ænd ˈɛvɪdəns."
         }
       ]
     },
@@ -163,7 +167,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Model language. No pude entrar porque perdí la llave. — I couldn't get in because I lost the key. Fuimos al pueblo por otra carretera. — We went to the town by another road. Allí conocimos al nuevo alcalde. — There we met the new mayor. Supe la verdad esa misma tarde. — I learned the truth that same afternoon. Quiso ayudar, pero no tuvo tiempo. — He or she wanted to help but did not have time.",
+      "text": "Model language. Las anécdotas personales crean una conexión social. — Personal anecdotes create a social connection. Contar una historia tiene un propósito. — Telling a story has a purpose. No siempre es evidencia general. — It isn't always general evidence. Cada persona recuerda algo distinto. — Each person remembers something different. La memoria personal enriquece la conversación. — Personal memory enriches the conversation.",
       "sentences": [
         {
           "text": "Model language.",
@@ -176,104 +180,120 @@
           "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
         },
         {
-          "text": "No pude entrar porque perdí la llave.",
+          "text": "Las anécdotas personales crean una conexión social.",
           "segments": [
             {
-              "text": "No pude entrar porque perdí la llave.",
+              "text": "Las anécdotas personales crean una conexión social.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "nˈo pˈuðe entɾˈaɾ pˌoɾke peɾðˈi la ʝˈaβe."
+          "phonemes": "las anˈekðotas pˌeɾsonˈales kɾˈean ˈuna kˌoneksjˈon sosjˈal."
         },
         {
-          "text": "— I couldn't get in because I lost the key.",
+          "text": "— Personal anecdotes create a social connection.",
           "segments": [
             {
-              "text": "— I couldn't get in because I lost the key.",
+              "text": "— ",
+              "lang": "en-us"
+            },
+            {
+              "text": "Personal",
+              "lang": "es-419"
+            },
+            {
+              "text": " anecdotes create a social connection.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— aɪ kˌʊdənt ɡɛt ɪn bɪkˈʌz aɪ lˈɔst ðə kˈiː."
+          "phonemes": "— pˌeɾsonˈal ˈænɪkdˌoʊts kɹiːˈeɪt ɐ sˈoʊʃəl kənˈɛkʃən."
         },
         {
-          "text": "Fuimos al pueblo por otra carretera.",
+          "text": "Contar una historia tiene un propósito.",
           "segments": [
             {
-              "text": "Fuimos al pueblo por otra carretera.",
+              "text": "Contar una historia tiene un propósito.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "fwˈimos al pwˈeβlo poɾ ˈotɾa kˌaretˈeɾa."
+          "phonemes": "kontˈaɾ ˈuna istˈoɾja tjˈene ˈum pɾopˈosito."
         },
         {
-          "text": "— We went to the town by another road.",
+          "text": "— Telling a story has a purpose.",
           "segments": [
             {
-              "text": "— We went to the town by another road.",
+              "text": "— Telling a story has a purpose.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— wiː wɛnt tə ðə tˈaʊn baɪ ɐnˈʌðɚ ɹˈoʊd."
+          "phonemes": "— tˈɛlɪŋ ɐ stˈɔːɹi hɐz ɐ pˈɜːpəs."
         },
         {
-          "text": "Allí conocimos al nuevo alcalde.",
+          "text": "No siempre es evidencia general.",
           "segments": [
             {
-              "text": "Allí conocimos al nuevo alcalde.",
+              "text": "No siempre es evidencia general.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ajjˈi kˌonosˈimos al nwˈeβo alkˈalðe."
+          "phonemes": "nˈo sjˈempɾe ˈes ˌeβiðˈɛnsja xˌeneɾˈal."
         },
         {
-          "text": "— There we met the new mayor.",
+          "text": "— It isn't always general evidence.",
           "segments": [
             {
-              "text": "— There we met the new mayor.",
+              "text": "— It isn't always general evidence.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ðɛɹ wiː mˈɛt ðə nˈuː mˈeɪɚ."
+          "phonemes": "— ɪɾ ˌɪzənt ˈɔːlweɪz dʒˈɛnɚɹəl ˈɛvɪdəns."
         },
         {
-          "text": "Supe la verdad esa misma tarde.",
+          "text": "Cada persona recuerda algo distinto.",
           "segments": [
             {
-              "text": "Supe la verdad esa misma tarde.",
+              "text": "Cada persona recuerda algo distinto.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "sˈupe la βeɾðˈað ˈesa mˈisma tˈaɾðe."
+          "phonemes": "kˈaða peɾsˈona rekwˈeɾða ˈalɣo ðistˈinto."
         },
         {
-          "text": "— I learned the truth that same afternoon.",
+          "text": "— Each person remembers something different.",
           "segments": [
             {
-              "text": "— I learned the truth that same afternoon.",
+              "text": "— Each person remembers something different.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— aɪ lˈɜːnd ðə tɹˈuːθ ðæt sˈeɪm ˌæftɚnˈuːn."
+          "phonemes": "— ˈiːtʃ pˈɜːsən ɹᵻmˈɛmbɚz sˈʌmθɪŋ dˈɪfɹənt."
         },
         {
-          "text": "Quiso ayudar, pero no tuvo tiempo.",
+          "text": "La memoria personal enriquece la conversación.",
           "segments": [
             {
-              "text": "Quiso ayudar, pero no tuvo tiempo.",
+              "text": "La memoria personal enriquece la conversación.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "kˈiso ˌaʝuðˈaɾ, pˌeɾo nˈo tˈuβo tjˈempo."
+          "phonemes": "la memˈoɾja pˌeɾsonˈal ˌenrikˈese la kˌombeɾsasjˈon."
         },
         {
-          "text": "— He or she wanted to help but did not have time.",
+          "text": "— Personal memory enriches the conversation.",
           "segments": [
             {
-              "text": "— He or she wanted to help but did not have time.",
+              "text": "— ",
+              "lang": "en-us"
+            },
+            {
+              "text": "Personal",
+              "lang": "es-419"
+            },
+            {
+              "text": " memory enriches the conversation.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— hiː ɔːɹ ʃiː wˈɔntᵻd tə hˈɛlp bˌʌt dɪdnˌɑːt hæv tˈaɪm."
+          "phonemes": "— pˌeɾsonˈal mˈɛmɚɹi ɛnɹˈɪtʃᵻz ðə kɑːnvɚsˈeɪʃən."
         }
       ]
     },
@@ -325,129 +345,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "pude",
+      "text": "la anécdota",
       "sentences": [
         {
-          "text": "pude",
+          "text": "la anécdota",
           "segments": [
             {
-              "text": "pude",
+              "text": "la anécdota",
               "lang": "es-419"
             }
           ],
-          "phonemes": "pˈuðe"
+          "phonemes": "la anˈekðota"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "quise",
+      "text": "la conexión social",
       "sentences": [
         {
-          "text": "quise",
+          "text": "la conexión social",
           "segments": [
             {
-              "text": "quise",
+              "text": "la conexión social",
               "lang": "es-419"
             }
           ],
-          "phonemes": "kˈise"
+          "phonemes": "la kˌoneksjˈon sosjˈal"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "supe",
+      "text": "contar una historia",
       "sentences": [
         {
-          "text": "supe",
+          "text": "contar una historia",
           "segments": [
             {
-              "text": "supe",
+              "text": "contar una historia",
               "lang": "es-419"
             }
           ],
-          "phonemes": "sˈupe"
+          "phonemes": "kontˈaɾ ˈuna istˈoɾja"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "tuve",
+      "text": "el propósito",
       "sentences": [
         {
-          "text": "tuve",
+          "text": "el propósito",
           "segments": [
             {
-              "text": "tuve",
+              "text": "el propósito",
               "lang": "es-419"
             }
           ],
-          "phonemes": "tˈuβe"
+          "phonemes": "el pɾopˈosito"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "hice",
+      "text": "la memoria",
       "sentences": [
         {
-          "text": "hice",
+          "text": "la memoria",
           "segments": [
             {
-              "text": "hice",
+              "text": "la memoria",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˈise"
+          "phonemes": "la memˈoɾja"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "vine",
+      "text": "personal",
       "sentences": [
         {
-          "text": "vine",
+          "text": "personal",
           "segments": [
             {
-              "text": "vine",
+              "text": "personal",
               "lang": "es-419"
             }
           ],
-          "phonemes": "bˈine"
+          "phonemes": "pˌeɾsonˈal"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "fui",
+      "text": "recordar",
       "sentences": [
         {
-          "text": "fui",
+          "text": "recordar",
           "segments": [
             {
-              "text": "fui",
+              "text": "recordar",
               "lang": "es-419"
             }
           ],
-          "phonemes": "fwˈi"
+          "phonemes": "rˌekoɾðˈaɾ"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "dije",
+      "text": "enriquecer",
       "sentences": [
         {
-          "text": "dije",
+          "text": "enriquecer",
           "segments": [
             {
-              "text": "dije",
+              "text": "enriquecer",
               "lang": "es-419"
             }
           ],
-          "phonemes": "dˈixe"
+          "phonemes": "ˌenrikesˈeɾ"
         }
       ]
     }

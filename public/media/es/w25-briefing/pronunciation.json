@@ -153,7 +153,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Model language. La población urbana aumentará. — The urban population will increase. Seguiremos midiendo los resultados. — We will continue measuring the results. ¿Dónde estará Marta ahora? — Where could Marta be now? Cuando termine el estudio, publicaremos los datos. — When the study ends, we will publish the data. Dentro de cinco años habrá nuevas opciones. — In five years there will be new options.",
+      "text": "Model language. La población urbana aumentará. — The urban population will increase. Seguiremos midiendo los resultados. — We will continue measuring the results. ¿Dónde estará Marta ahora? — Where could Marta be now? Cuando termine el estudio, publicaremos los datos. — When the study ends, we will publish the data. Dentro de cinco años habrá nuevas opciones. — Within five years there will be new options.",
       "sentences": [
         {
           "text": "Model language.",
@@ -256,14 +256,14 @@
           "phonemes": "dˈɛntɾo ðe sˈinko ˈaɲos aβɾˈa nwˈeβas opsjˈones."
         },
         {
-          "text": "— In five years there will be new options.",
+          "text": "— Within five years there will be new options.",
           "segments": [
             {
-              "text": "— In five years there will be new options.",
+              "text": "— Within five years there will be new options.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ɪn fˈaɪv jˈɪɹz ðɛɹ wɪl biː nˈuː ˈɑːpʃənz."
+          "phonemes": "— wɪðˌɪn fˈaɪv jˈɪɹz ðɛɹ wɪl biː nˈuː ˈɑːpʃənz."
         }
       ]
     },

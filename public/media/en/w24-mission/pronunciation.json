@@ -143,7 +143,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Lenguaje modelo. Turn off the equipment before opening it. — Apaga el equipo antes de abrirlo. Don't share that password. — No compartas esa contraseña. Make sure you save a copy. — Asegúrate de guardar una copia. Let's check the data again. — Revisemos los datos otra vez. You should avoid this road at night. — Conviene evitar esta carretera de noche.",
+      "text": "Lenguaje modelo. I'm going to teach an emergency procedure. — Voy a enseñar un procedimiento de emergencia. I explain it in the formal register first. — Lo explico en registro formal primero. Then I explain it in the informal register. — Después lo explico en registro informal. I correct an omitted step. — Corrijo un paso omitido. We practice until we solve the problem. — Practicamos hasta solucionar el problema.",
       "sentences": [
         {
           "text": "Lenguaje modelo.",
@@ -156,104 +156,104 @@
           "phonemes": "leŋɡwˈaxe moðˈelo."
         },
         {
-          "text": "Turn off the equipment before opening it.",
+          "text": "I'm going to teach an emergency procedure.",
           "segments": [
             {
-              "text": "Turn off the equipment before opening it.",
+              "text": "I'm going to teach an emergency procedure.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tˈɜːn ˈɔf ðɪ ɪkwˈɪpmənt bᵻfˌɔːɹ ˈoʊpənɪŋ ɪt."
+          "phonemes": "aɪm ɡˌoʊɪŋ tə tˈiːtʃ ɐn ɪmˈɜːdʒənsi pɹəsˈiːdʒɚ."
         },
         {
-          "text": "— Apaga el equipo antes de abrirlo.",
+          "text": "— Voy a enseñar un procedimiento de emergencia.",
           "segments": [
             {
-              "text": "— Apaga el equipo antes de abrirlo.",
+              "text": "— Voy a enseñar un procedimiento de emergencia.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— apˈaɣa el ekˈipo ˈantes ðe aβɾˈiɾlo."
+          "phonemes": "— bˈoɪ a ˌenseɲˈaɾ ˈum pɾˌoseðimjˈɛnto ðe ˌemeɾxˈɛnsja."
         },
         {
-          "text": "Don't share that password.",
+          "text": "I explain it in the formal register first.",
           "segments": [
             {
-              "text": "Don't share that password.",
+              "text": "I explain it in the formal register first.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "dˈoʊnt ʃˈɛɹ ðæt pˈæswɜːd."
+          "phonemes": "aɪ ɛksplˈeɪn ɪɾ ɪnðə fˈɔːɹməl ɹˈɛdʒɪstɚ fˈɜːst."
         },
         {
-          "text": "— No compartas esa contraseña.",
+          "text": "— Lo explico en registro formal primero.",
           "segments": [
             {
-              "text": "— No compartas esa contraseña.",
+              "text": "— Lo explico en registro formal primero.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— nˈo kompˈaɾtas ˈesa kˌontɾasˈeɲa."
+          "phonemes": "— lo eksplˈiko en rexˈistɾo foɾmˈal pɾimˈeɾo."
         },
         {
-          "text": "Make sure you save a copy.",
+          "text": "Then I explain it in the informal register.",
           "segments": [
             {
-              "text": "Make sure you save a copy.",
+              "text": "Then I explain it in the informal register.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "mˌeɪk ʃˈʊɹ juː sˈeɪv ɐ kˈɑːpi."
+          "phonemes": "ðˈɛn aɪ ɛksplˈeɪn ɪɾ ɪnðɪ ɪnfˈɔːɹməl ɹˈɛdʒɪstɚ."
         },
         {
-          "text": "— Asegúrate de guardar una copia.",
+          "text": "— Después lo explico en registro informal.",
           "segments": [
             {
-              "text": "— Asegúrate de guardar una copia.",
+              "text": "— Después lo explico en registro informal.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— ˌaseɣˈuɾate ðe ɣwaɾðˈaɾ ˈuna kˈopja."
+          "phonemes": "— despwˈes lo eksplˈiko en rexˈistɾo ˌinfoɾmˈal."
         },
         {
-          "text": "Let's check the data again.",
+          "text": "I correct an omitted step.",
           "segments": [
             {
-              "text": "Let's check the data again.",
+              "text": "I correct an omitted step.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "lˈɛts tʃˈɛk ðə dˈeɪɾə ɐɡˈɛn."
+          "phonemes": "aɪ kɚɹˈɛkt ɐn oʊmˈɪɾᵻd stˈɛp."
         },
         {
-          "text": "— Revisemos los datos otra vez.",
+          "text": "— Corrijo un paso omitido.",
           "segments": [
             {
-              "text": "— Revisemos los datos otra vez.",
+              "text": "— Corrijo un paso omitido.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— rˌeβisˈemos los ðˈatos ˈotɾa βˈes."
+          "phonemes": "— korˈixo ˈum pˈaso ˌomitˈiðo."
         },
         {
-          "text": "You should avoid this road at night.",
+          "text": "We practice until we solve the problem.",
           "segments": [
             {
-              "text": "You should avoid this road at night.",
+              "text": "We practice until we solve the problem.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "juː ʃˌʊd ɐvˈɔɪd ðɪs ɹˈoʊd æt nˈaɪt."
+          "phonemes": "wiː pɹˈæktɪs ʌntˈɪl wiː sˈɑːlv ðə pɹˈɑːbləm."
         },
         {
-          "text": "— Conviene evitar esta carretera de noche.",
+          "text": "— Practicamos hasta solucionar el problema.",
           "segments": [
             {
-              "text": "— Conviene evitar esta carretera de noche.",
+              "text": "— Practicamos hasta solucionar el problema.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— kombjˈene ˌeβitˈaɾ ˈesta kˌaretˈeɾa ðe nˈotʃe."
+          "phonemes": "— pɾˌaktikˈamos ˌasta sˌolusjonˈaɾ el pɾoβlˈema."
         }
       ]
     },
@@ -305,129 +305,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "to turn off",
+      "text": "to teach",
       "sentences": [
         {
-          "text": "to turn off",
+          "text": "to teach",
           "segments": [
             {
-              "text": "to turn off",
+              "text": "to teach",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə tˈɜːn ˈɔf"
+          "phonemes": "tə tˈiːtʃ"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "to save",
+      "text": "formal register",
       "sentences": [
         {
-          "text": "to save",
+          "text": "formal register",
           "segments": [
             {
-              "text": "to save",
+              "text": "formal register",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə sˈeɪv"
+          "phonemes": "fˈɔːɹməl ɹˈɛdʒɪstɚ"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "to check",
+      "text": "informal register",
       "sentences": [
         {
-          "text": "to check",
+          "text": "informal register",
           "segments": [
             {
-              "text": "to check",
+              "text": "informal register",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə tʃˈɛk"
+          "phonemes": "ɪnfˈɔːɹməl ɹˈɛdʒɪstɚ"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "a password",
+      "text": "to correct a step",
       "sentences": [
         {
-          "text": "a password",
+          "text": "to correct a step",
           "segments": [
             {
-              "text": "a password",
+              "text": "to correct a step",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ pˈæswɜːd"
+          "phonemes": "tə kɚɹˈɛkt ɐ stˈɛp"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "a step",
+      "text": "omitted",
       "sentences": [
         {
-          "text": "a step",
+          "text": "omitted",
           "segments": [
             {
-              "text": "a step",
+              "text": "omitted",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ stˈɛp"
+          "phonemes": "oʊmˈɪɾᵻd"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "carefully",
+      "text": "to solve",
       "sentences": [
         {
-          "text": "carefully",
+          "text": "to solve",
           "segments": [
             {
-              "text": "carefully",
+              "text": "to solve",
               "lang": "en-us"
             }
           ],
-          "phonemes": "kˈɛɹfəli"
+          "phonemes": "tə sˈɑːlv"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "must",
+      "text": "to practice",
       "sentences": [
         {
-          "text": "must",
+          "text": "to practice",
           "segments": [
             {
-              "text": "must",
+              "text": "to practice",
               "lang": "en-us"
             }
           ],
-          "phonemes": "mˈʌst"
+          "phonemes": "tə pɹˈæktɪs"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "should",
+      "text": "to verify",
       "sentences": [
         {
-          "text": "should",
+          "text": "to verify",
           "segments": [
             {
-              "text": "should",
+              "text": "to verify",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ʃˈʊd"
+          "phonemes": "tə vˈɛɹᵻfˌaɪ"
         }
       ]
     }

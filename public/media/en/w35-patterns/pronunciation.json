@@ -29,7 +29,7 @@
     },
     {
       "file": "01.wav",
-      "text": "Forma y significado. Síntesis de tiempos, modales, referencia, cohesión, matiz y estructura argumentativa formal.",
+      "text": "Forma y significado. Aplicación de la forma. Construye argumentos formales con conectores de secuencia (in the first/second place) y de contraste (on one hand/on the other hand), y respalda cada afirmación con evidencia.",
       "sentences": [
         {
           "text": "Forma y significado.",
@@ -42,20 +42,62 @@
           "phonemes": "fˈoɾma i sˌiɡnifikˈaðo."
         },
         {
-          "text": "Síntesis de tiempos, modales, referencia, cohesión, matiz y estructura argumentativa formal.",
+          "text": "Aplicación de la forma.",
           "segments": [
             {
-              "text": "Síntesis de tiempos, modales, referencia, cohesión, matiz y estructura argumentativa formal.",
+              "text": "Aplicación de la forma.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "sˈintesis ðe tjˈempos, moðˈales, rˌefeɾˈɛnsja, kˌoesjˈon, matˈis i ˌestɾuktˈuɾa ˌaɾɣumˌentatˈiβa foɾmˈal."
+          "phonemes": "ˌaplikasjˈon de la fˈoɾma."
+        },
+        {
+          "text": "Construye argumentos formales con conectores de secuencia (in the first/second place) y de contraste (on one hand/on the other hand), y respalda cada afirmación con evidencia.",
+          "segments": [
+            {
+              "text": "Construye argumentos formales con conectores de secuencia (in ",
+              "lang": "es-419"
+            },
+            {
+              "text": "the",
+              "lang": "en-us"
+            },
+            {
+              "text": " ",
+              "lang": "es-419"
+            },
+            {
+              "text": "first",
+              "lang": "en-us"
+            },
+            {
+              "text": "/second place) y de contraste (",
+              "lang": "es-419"
+            },
+            {
+              "text": "on one hand",
+              "lang": "en-us"
+            },
+            {
+              "text": "/",
+              "lang": "es-419"
+            },
+            {
+              "text": "on the other hand",
+              "lang": "en-us"
+            },
+            {
+              "text": "), y respalda cada afirmación con evidencia.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "konstɾˈuʝe ˌaɾɣumˈɛntos foɾmˈales kon kˌonektˈoɾes ðe sekwˈɛnsja (ˈin ðə fˈɜːst bˈara sekˈond plˈase) i ðe kontɾˈaste ( ˌɔn wˈʌn hˈænd bˈara ɔnðɪ ˈʌðɚ hˈænd ), i respˈalða kˈaða ˌafiɾmasjˈon kon ˌeβiðˈɛnsja."
         }
       ]
     },
     {
       "file": "02.wav",
-      "text": "Conjunto de modelos. Three findings support the main argument. It is worth noting that the sample was small. Although the proposal has benefits, its scope is limited. The most likely result would be gradual growth. In conclusion, I recommend a controlled trial. Tres hallazgos respaldan el argumento principal. Conviene señalar que la muestra fue pequeña. Aunque la propuesta tiene beneficios, su alcance es limitado. El resultado más probable sería un crecimiento gradual. En conclusión, recomiendo una prueba controlada.",
+      "text": "Conjunto de modelos. On one hand, there are clear benefits. On the other hand, there are risks. In the first place, we reviewed the data. I maintain that the proposal is solid. Someone could refute this point. Por un lado, hay beneficios claros. Por otro lado, existen riesgos. En primer lugar, revisamos los datos. Sostengo que la propuesta es sólida. Alguien podría refutar este punto.",
       "sentences": [
         {
           "text": "Conjunto de modelos.",
@@ -68,104 +110,104 @@
           "phonemes": "koŋxˈunto ðe moðˈelos."
         },
         {
-          "text": "Three findings support the main argument.",
+          "text": "On one hand, there are clear benefits.",
           "segments": [
             {
-              "text": "Three findings support the main argument.",
+              "text": "On one hand, there are clear benefits.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "θɹˈiː fˈaɪndɪŋz səpˈɔːɹt ðə mˈeɪn ˈɑːɹɡjuːmənt."
+          "phonemes": "ˌɔn wˈʌn hˈænd, ðɛɹˌɑːɹ klˈɪɹ bˈɛnɪfˌɪts."
         },
         {
-          "text": "It is worth noting that the sample was small.",
+          "text": "On the other hand, there are risks.",
           "segments": [
             {
-              "text": "It is worth noting that the sample was small.",
+              "text": "On the other hand, there are risks.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɪɾ ɪz wˈɜːθ nˈoʊɾɪŋ ðætðə sˈæmpəl wʌz smˈɔːl."
+          "phonemes": "ɔnðɪ ˈʌðɚ hˈænd, ðɛɹˌɑːɹ ɹˈɪsks."
         },
         {
-          "text": "Although the proposal has benefits, its scope is limited.",
+          "text": "In the first place, we reviewed the data.",
           "segments": [
             {
-              "text": "Although the proposal has benefits, its scope is limited.",
+              "text": "In the first place, we reviewed the data.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɔːlðˈoʊ ðə pɹəpˈoʊzəl hɐz bˈɛnɪfˌɪts, ɪts skˈoʊp ɪz lˈɪmɪɾᵻd."
+          "phonemes": "ɪnðə fˈɜːst plˈeɪs, wiː ɹᵻvjˈuːd ðə dˈeɪɾə."
         },
         {
-          "text": "The most likely result would be gradual growth.",
+          "text": "I maintain that the proposal is solid.",
           "segments": [
             {
-              "text": "The most likely result would be gradual growth.",
+              "text": "I maintain that the proposal is solid.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə mˈoʊst lˈaɪkli ɹɪzˈʌlt wʊd biː ɡɹˈædʒuːəl ɡɹˈoʊθ."
+          "phonemes": "aɪ meɪntˈeɪn ðætðə pɹəpˈoʊzəl ɪz sˈɑːlɪd."
         },
         {
-          "text": "In conclusion, I recommend a controlled trial.",
+          "text": "Someone could refute this point.",
           "segments": [
             {
-              "text": "In conclusion, I recommend a controlled trial.",
+              "text": "Someone could refute this point.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɪn kəŋklˈuːʒən, aɪ ɹˌɛkəmˈɛnd ɐ kəntɹˈoʊld tɹˈaɪəl."
+          "phonemes": "sˈʌmwʌn kʊd ɹᵻfjˈuːt ðɪs pˈɔɪnt."
         },
         {
-          "text": "Tres hallazgos respaldan el argumento principal.",
+          "text": "Por un lado, hay beneficios claros.",
           "segments": [
             {
-              "text": "Tres hallazgos respaldan el argumento principal.",
+              "text": "Por un lado, hay beneficios claros.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "tɾˈes ajjˈasɣos respˈalðan el ˌaɾɣumˈɛnto pɾˌinsipˈal."
+          "phonemes": "poɾ ˈun lˈaðo, ˈaɪ βˌenefˈisjos klˈaɾos."
         },
         {
-          "text": "Conviene señalar que la muestra fue pequeña.",
+          "text": "Por otro lado, existen riesgos.",
           "segments": [
             {
-              "text": "Conviene señalar que la muestra fue pequeña.",
+              "text": "Por otro lado, existen riesgos.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "kombjˈene sˌeɲalˈaɾ ke la mwˈestɾa fwˈe pekˈeɲa."
+          "phonemes": "poɾ ˈotɾo lˈaðo, eksˈisten riˈesɣos."
         },
         {
-          "text": "Aunque la propuesta tiene beneficios, su alcance es limitado.",
+          "text": "En primer lugar, revisamos los datos.",
           "segments": [
             {
-              "text": "Aunque la propuesta tiene beneficios, su alcance es limitado.",
+              "text": "En primer lugar, revisamos los datos.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˌaʊnke la pɾopwˈesta tjˈene βˌenefˈisjos, su alkˈanse ˈes lˌimitˈaðo."
+          "phonemes": "em pɾimˈeɾ luɣˈaɾ, rˌeβisˈamos los ðˈatos."
         },
         {
-          "text": "El resultado más probable sería un crecimiento gradual.",
+          "text": "Sostengo que la propuesta es sólida.",
           "segments": [
             {
-              "text": "El resultado más probable sería un crecimiento gradual.",
+              "text": "Sostengo que la propuesta es sólida.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el rˌesultˈaðo mˈas pɾoβˈaβle seɾˈia ˈun kɾˌesimjˈɛnto ɣɾaðwˈal."
+          "phonemes": "sostˈɛŋɡo ke la pɾopwˈesta ˈes sˈoliða."
         },
         {
-          "text": "En conclusión, recomiendo una prueba controlada.",
+          "text": "Alguien podría refutar este punto.",
           "segments": [
             {
-              "text": "En conclusión, recomiendo una prueba controlada.",
+              "text": "Alguien podría refutar este punto.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "en kˌonklusjˈon, rˌekomjˈɛndo ˈuna pɾuˈeβa kˌontɾolˈaða."
+          "phonemes": "ˈalɣjem poðɾˈia rˌefutˈaɾ ˈeste pˈunto."
         }
       ]
     },
@@ -233,7 +275,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Lenguaje modelo. Three findings support the main argument. — Tres hallazgos respaldan el argumento principal. It is worth noting that the sample was small. — Conviene señalar que la muestra fue pequeña. Although the proposal has benefits, its scope is limited. — Aunque la propuesta tiene beneficios, su alcance es limitado. The most likely result would be gradual growth. — El resultado más probable sería un crecimiento gradual. In conclusion, I recommend a controlled trial. — En conclusión, recomiendo una prueba controlada.",
+      "text": "Lenguaje modelo. On one hand, there are clear benefits. — Por un lado, hay beneficios claros. On the other hand, there are risks. — Por otro lado, existen riesgos. In the first place, we reviewed the data. — En primer lugar, revisamos los datos. I maintain that the proposal is solid. — Sostengo que la propuesta es sólida. Someone could refute this point. — Alguien podría refutar este punto.",
       "sentences": [
         {
           "text": "Lenguaje modelo.",
@@ -246,104 +288,104 @@
           "phonemes": "leŋɡwˈaxe moðˈelo."
         },
         {
-          "text": "Three findings support the main argument.",
+          "text": "On one hand, there are clear benefits.",
           "segments": [
             {
-              "text": "Three findings support the main argument.",
+              "text": "On one hand, there are clear benefits.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "θɹˈiː fˈaɪndɪŋz səpˈɔːɹt ðə mˈeɪn ˈɑːɹɡjuːmənt."
+          "phonemes": "ˌɔn wˈʌn hˈænd, ðɛɹˌɑːɹ klˈɪɹ bˈɛnɪfˌɪts."
         },
         {
-          "text": "— Tres hallazgos respaldan el argumento principal.",
+          "text": "— Por un lado, hay beneficios claros.",
           "segments": [
             {
-              "text": "— Tres hallazgos respaldan el argumento principal.",
+              "text": "— Por un lado, hay beneficios claros.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— tɾˈes ajjˈasɣos respˈalðan el ˌaɾɣumˈɛnto pɾˌinsipˈal."
+          "phonemes": "— poɾ ˈun lˈaðo, ˈaɪ βˌenefˈisjos klˈaɾos."
         },
         {
-          "text": "It is worth noting that the sample was small.",
+          "text": "On the other hand, there are risks.",
           "segments": [
             {
-              "text": "It is worth noting that the sample was small.",
+              "text": "On the other hand, there are risks.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɪɾ ɪz wˈɜːθ nˈoʊɾɪŋ ðætðə sˈæmpəl wʌz smˈɔːl."
+          "phonemes": "ɔnðɪ ˈʌðɚ hˈænd, ðɛɹˌɑːɹ ɹˈɪsks."
         },
         {
-          "text": "— Conviene señalar que la muestra fue pequeña.",
+          "text": "— Por otro lado, existen riesgos.",
           "segments": [
             {
-              "text": "— Conviene señalar que la muestra fue pequeña.",
+              "text": "— Por otro lado, existen riesgos.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— kombjˈene sˌeɲalˈaɾ ke la mwˈestɾa fwˈe pekˈeɲa."
+          "phonemes": "— poɾ ˈotɾo lˈaðo, eksˈisten riˈesɣos."
         },
         {
-          "text": "Although the proposal has benefits, its scope is limited.",
+          "text": "In the first place, we reviewed the data.",
           "segments": [
             {
-              "text": "Although the proposal has benefits, its scope is limited.",
+              "text": "In the first place, we reviewed the data.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɔːlðˈoʊ ðə pɹəpˈoʊzəl hɐz bˈɛnɪfˌɪts, ɪts skˈoʊp ɪz lˈɪmɪɾᵻd."
+          "phonemes": "ɪnðə fˈɜːst plˈeɪs, wiː ɹᵻvjˈuːd ðə dˈeɪɾə."
         },
         {
-          "text": "— Aunque la propuesta tiene beneficios, su alcance es limitado.",
+          "text": "— En primer lugar, revisamos los datos.",
           "segments": [
             {
-              "text": "— Aunque la propuesta tiene beneficios, su alcance es limitado.",
+              "text": "— En primer lugar, revisamos los datos.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— ˌaʊnke la pɾopwˈesta tjˈene βˌenefˈisjos, su alkˈanse ˈes lˌimitˈaðo."
+          "phonemes": "— em pɾimˈeɾ luɣˈaɾ, rˌeβisˈamos los ðˈatos."
         },
         {
-          "text": "The most likely result would be gradual growth.",
+          "text": "I maintain that the proposal is solid.",
           "segments": [
             {
-              "text": "The most likely result would be gradual growth.",
+              "text": "I maintain that the proposal is solid.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə mˈoʊst lˈaɪkli ɹɪzˈʌlt wʊd biː ɡɹˈædʒuːəl ɡɹˈoʊθ."
+          "phonemes": "aɪ meɪntˈeɪn ðætðə pɹəpˈoʊzəl ɪz sˈɑːlɪd."
         },
         {
-          "text": "— El resultado más probable sería un crecimiento gradual.",
+          "text": "— Sostengo que la propuesta es sólida.",
           "segments": [
             {
-              "text": "— El resultado más probable sería un crecimiento gradual.",
+              "text": "— Sostengo que la propuesta es sólida.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— el rˌesultˈaðo mˈas pɾoβˈaβle seɾˈia ˈun kɾˌesimjˈɛnto ɣɾaðwˈal."
+          "phonemes": "— sostˈɛŋɡo ke la pɾopwˈesta ˈes sˈoliða."
         },
         {
-          "text": "In conclusion, I recommend a controlled trial.",
+          "text": "Someone could refute this point.",
           "segments": [
             {
-              "text": "In conclusion, I recommend a controlled trial.",
+              "text": "Someone could refute this point.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɪn kəŋklˈuːʒən, aɪ ɹˌɛkəmˈɛnd ɐ kəntɹˈoʊld tɹˈaɪəl."
+          "phonemes": "sˈʌmwʌn kʊd ɹᵻfjˈuːt ðɪs pˈɔɪnt."
         },
         {
-          "text": "— En conclusión, recomiendo una prueba controlada.",
+          "text": "— Alguien podría refutar este punto.",
           "segments": [
             {
-              "text": "— En conclusión, recomiendo una prueba controlada.",
+              "text": "— Alguien podría refutar este punto.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— en kˌonklusjˈon, rˌekomjˈɛndo ˈuna pɾuˈeβa kˌontɾolˈaða."
+          "phonemes": "— ˈalɣjem poðɾˈia rˌefutˈaɾ ˈeste pˈunto."
         }
       ]
     },
@@ -395,129 +437,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "an argument",
+      "text": "on one hand",
       "sentences": [
         {
-          "text": "an argument",
+          "text": "on one hand",
           "segments": [
             {
-              "text": "an argument",
+              "text": "on one hand",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐn ˈɑːɹɡjuːmənt"
+          "phonemes": "ˌɔn wˈʌn hˈænd"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "a finding",
+      "text": "on the other hand",
       "sentences": [
         {
-          "text": "a finding",
+          "text": "on the other hand",
           "segments": [
             {
-              "text": "a finding",
+              "text": "on the other hand",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ fˈaɪndɪŋ"
+          "phonemes": "ɔnðɪ ˈʌðɚ hˈænd"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "a limitation",
+      "text": "in the first place",
       "sentences": [
         {
-          "text": "a limitation",
+          "text": "in the first place",
           "segments": [
             {
-              "text": "a limitation",
+              "text": "in the first place",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ lˌɪmɪtˈeɪʃən"
+          "phonemes": "ɪnðə fˈɜːst plˈeɪs"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "a recommendation",
+      "text": "in the second place",
       "sentences": [
         {
-          "text": "a recommendation",
+          "text": "in the second place",
           "segments": [
             {
-              "text": "a recommendation",
+              "text": "in the second place",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ ɹˌɛkəmɛndˈeɪʃən"
+          "phonemes": "ɪnðə sˈɛkənd plˈeɪs"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "to summarize",
+      "text": "to maintain that",
       "sentences": [
         {
-          "text": "to summarize",
+          "text": "to maintain that",
           "segments": [
             {
-              "text": "to summarize",
+              "text": "to maintain that",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə sˈʌmɚɹˌaɪz"
+          "phonemes": "tə meɪntˈeɪn ðˈæt"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "to support",
+      "text": "to refute",
       "sentences": [
         {
-          "text": "to support",
+          "text": "to refute",
           "segments": [
             {
-              "text": "to support",
+              "text": "to refute",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə səpˈɔːɹt"
+          "phonemes": "tə ɹᵻfjˈuːt"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "to qualify",
+      "text": "argumentative structure",
       "sentences": [
         {
-          "text": "to qualify",
+          "text": "argumentative structure",
           "segments": [
             {
-              "text": "to qualify",
+              "text": "argumentative structure",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə kwˈɔlᵻfˌaɪ"
+          "phonemes": "ˌɑːɹɡjuːmˈɛntətˌɪv stɹˈʌktʃɚ"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "in conclusion",
+      "text": "a logical connector",
       "sentences": [
         {
-          "text": "in conclusion",
+          "text": "a logical connector",
           "segments": [
             {
-              "text": "in conclusion",
+              "text": "a logical connector",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɪn kəŋklˈuːʒən"
+          "phonemes": "ɐ lˈɑːdʒɪkəl kənˈɛktɚ"
         }
       ]
     }

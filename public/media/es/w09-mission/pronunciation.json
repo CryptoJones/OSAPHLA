@@ -143,7 +143,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Model language. Me levanto a las seis y media. — I get up at six thirty. Después de vestirme, preparo el desayuno. — After getting dressed, I prepare breakfast. Ahora estoy esperando el tren. — I am waiting for the train now. Los niños se acuestan temprano. — The children go to bed early. ¿A qué hora te despiertas? — What time do you wake up?",
+      "text": "Model language. Voy a narrar un día completo. — I am going to narrate a full day. Informo un cambio inesperado. — I report an unexpected change. El cambio ocurre mientras estudio. — The change occurs while I am studying. Mientras tanto, reacciono con calma. — Meanwhile, I react calmly. Explico cómo resolví la situación. — I explain how I resolved the situation.",
       "sentences": [
         {
           "text": "Model language.",
@@ -156,104 +156,104 @@
           "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
         },
         {
-          "text": "Me levanto a las seis y media.",
+          "text": "Voy a narrar un día completo.",
           "segments": [
             {
-              "text": "Me levanto a las seis y media.",
+              "text": "Voy a narrar un día completo.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "me leβˈanto a las sˈeɪs i mˈeðja."
+          "phonemes": "bˈoɪ a narˈaɾ ˈun dˈia komplˈeto."
         },
         {
-          "text": "— I get up at six thirty.",
+          "text": "— I am going to narrate a full day.",
           "segments": [
             {
-              "text": "— I get up at six thirty.",
+              "text": "— I am going to narrate a full day.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— aɪ ɡɛt ˌʌp æt sˈɪks θˈɜːɾi."
+          "phonemes": "— aɪɐm ɡˌoʊɪŋ tə nɚɹˈeɪt ɐ fˈʊl dˈeɪ."
         },
         {
-          "text": "Después de vestirme, preparo el desayuno.",
+          "text": "Informo un cambio inesperado.",
           "segments": [
             {
-              "text": "Después de vestirme, preparo el desayuno.",
+              "text": "Informo un cambio inesperado.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "despwˈes ðe βestˈiɾme, pɾepˈaɾo el ðˌesaʝˈuno."
+          "phonemes": "infˈoɾmo ˈun kˈambjo ˌinespeɾˈaðo."
         },
         {
-          "text": "— After getting dressed, I prepare breakfast.",
+          "text": "— I report an unexpected change.",
           "segments": [
             {
-              "text": "— After getting dressed, I prepare breakfast.",
+              "text": "— I report an unexpected change.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ˈæftɚ ɡˌɛɾɪŋ dɹˈɛst, aɪ pɹɪpˈɛɹ bɹˈɛkfəst."
+          "phonemes": "— aɪ ɹᵻpˈɔːɹt ɐn ˌʌnɛkspˈɛktᵻd tʃˈeɪndʒ."
         },
         {
-          "text": "Ahora estoy esperando el tren.",
+          "text": "El cambio ocurre mientras estudio.",
           "segments": [
             {
-              "text": "Ahora estoy esperando el tren.",
+              "text": "El cambio ocurre mientras estudio.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "aˈoɾa estˈoɪ ˌespeɾˈando el tɾˈen."
+          "phonemes": "el kˈambjo okˈure mjˌentɾas estˈuðjo."
         },
         {
-          "text": "— I am waiting for the train now.",
+          "text": "— The change occurs while I am studying.",
           "segments": [
             {
-              "text": "— I am waiting for the train now.",
+              "text": "— The change occurs while I am studying.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— aɪɐm wˈeɪɾɪŋ fɚðə tɹˈeɪn nˈaʊ."
+          "phonemes": "— ðə tʃˈeɪndʒ əkˈɜːz wˌaɪl aɪɐm stˈʌdiɪŋ."
         },
         {
-          "text": "Los niños se acuestan temprano.",
+          "text": "Mientras tanto, reacciono con calma.",
           "segments": [
             {
-              "text": "Los niños se acuestan temprano.",
+              "text": "Mientras tanto, reacciono con calma.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "los nˈiɲos se akwˈestan tempɾˈano."
+          "phonemes": "mjˌentɾas tˈanto, rˌeaksjˈono kon kˈalma."
         },
         {
-          "text": "— The children go to bed early.",
+          "text": "— Meanwhile, I react calmly.",
           "segments": [
             {
-              "text": "— The children go to bed early.",
+              "text": "— Meanwhile, I react calmly.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ðə tʃˈɪldɹən ɡˌoʊ tə bˈɛd ˈɜːli."
+          "phonemes": "— mˈiːnwaɪl, aɪ ɹɪˈækt kˈɑːmli."
         },
         {
-          "text": "¿A qué hora te despiertas?",
+          "text": "Explico cómo resolví la situación.",
           "segments": [
             {
-              "text": "¿A qué hora te despiertas?",
+              "text": "Explico cómo resolví la situación.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "a kˈe ˈoɾa te ðespjˈeɾtas?"
+          "phonemes": "eksplˈiko kˈomo rˌesolβˈi la sˌitwasjˈon."
         },
         {
-          "text": "— What time do you wake up?",
+          "text": "— I explain how I resolved the situation.",
           "segments": [
             {
-              "text": "— What time do you wake up?",
+              "text": "— I explain how I resolved the situation.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— wˌʌt tˈaɪm dˈuː juː wˈeɪk ˈʌp?"
+          "phonemes": "— aɪ ɛksplˈeɪn hˌaʊ aɪ ɹᵻzˈɑːlvd ðə sˌɪtʃuːˈeɪʃən."
         }
       ]
     },
@@ -305,129 +305,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "despertarse",
+      "text": "narrar",
       "sentences": [
         {
-          "text": "despertarse",
+          "text": "narrar",
           "segments": [
             {
-              "text": "despertarse",
+              "text": "narrar",
               "lang": "es-419"
             }
           ],
-          "phonemes": "dˌespeɾtˈaɾse"
+          "phonemes": "narˈaɾ"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "levantarse",
+      "text": "completo",
       "sentences": [
         {
-          "text": "levantarse",
+          "text": "completo",
           "segments": [
             {
-              "text": "levantarse",
+              "text": "completo",
               "lang": "es-419"
             }
           ],
-          "phonemes": "lˌeβantˈaɾse"
+          "phonemes": "komplˈeto"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "ducharse",
+      "text": "informar",
       "sentences": [
         {
-          "text": "ducharse",
+          "text": "informar",
           "segments": [
             {
-              "text": "ducharse",
+              "text": "informar",
               "lang": "es-419"
             }
           ],
-          "phonemes": "dutʃˈaɾse"
+          "phonemes": "ˌinfoɾmˈaɾ"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "vestirse",
+      "text": "inesperado",
       "sentences": [
         {
-          "text": "vestirse",
+          "text": "inesperado",
           "segments": [
             {
-              "text": "vestirse",
+              "text": "inesperado",
               "lang": "es-419"
             }
           ],
-          "phonemes": "bestˈiɾse"
+          "phonemes": "ˌinespeɾˈaðo"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "acostarse",
+      "text": "el cambio",
       "sentences": [
         {
-          "text": "acostarse",
+          "text": "el cambio",
           "segments": [
             {
-              "text": "acostarse",
+              "text": "el cambio",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˌakostˈaɾse"
+          "phonemes": "el kˈambjo"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "temprano",
+      "text": "ocurrir",
       "sentences": [
         {
-          "text": "temprano",
+          "text": "ocurrir",
           "segments": [
             {
-              "text": "temprano",
+              "text": "ocurrir",
               "lang": "es-419"
             }
           ],
-          "phonemes": "tempɾˈano"
+          "phonemes": "ˌokurˈiɾ"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "tarde",
+      "text": "mientras tanto",
       "sentences": [
         {
-          "text": "tarde",
+          "text": "mientras tanto",
           "segments": [
             {
-              "text": "tarde",
+              "text": "mientras tanto",
               "lang": "es-419"
             }
           ],
-          "phonemes": "tˈaɾðe"
+          "phonemes": "mjˌentɾas tˈanto"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "ahora",
+      "text": "reaccionar",
       "sentences": [
         {
-          "text": "ahora",
+          "text": "reaccionar",
           "segments": [
             {
-              "text": "ahora",
+              "text": "reaccionar",
               "lang": "es-419"
             }
           ],
-          "phonemes": "aˈoɾa"
+          "phonemes": "rˌeaksjonˈaɾ"
         }
       ]
     }

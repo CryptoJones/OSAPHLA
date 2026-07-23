@@ -163,7 +163,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Model language. La segunda opción es mucho más viable. — The second option is much more viable. El informe menos claro fue el primero. — The least clear report was the first one. El proyecto va viento en popa. — The project is going very well. Ese dato hay que tomarlo con pinzas. — That figure must be treated with caution. Su análisis dio en el clavo; sin embargo, faltan pruebas. — The analysis was exactly right; however, evidence is still lacking.",
+      "text": "Model language. El equipo celebró el avance del proyecto. — The team celebrated the project's progress. Iba viento en popa hasta ese momento. — It was going very well up to that point. Una analista pidió cautela con las cifras. — An analyst asked for caution with the figures. Su advertencia resultó correcta. — Her warning proved correct. Un error apareció poco después. — A mistake appeared shortly after.",
       "sentences": [
         {
           "text": "Model language.",
@@ -176,104 +176,104 @@
           "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
         },
         {
-          "text": "La segunda opción es mucho más viable.",
+          "text": "El equipo celebró el avance del proyecto.",
           "segments": [
             {
-              "text": "La segunda opción es mucho más viable.",
+              "text": "El equipo celebró el avance del proyecto.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la seɣˈunda opsjˈon ˈes mˈutʃo mˈas βjˈaβle."
+          "phonemes": "el ekˈipo sˌeleβɾˈo el aβˈanse ðel pɾoʝˈekto."
         },
         {
-          "text": "— The second option is much more viable.",
+          "text": "— The team celebrated the project's progress.",
           "segments": [
             {
-              "text": "— The second option is much more viable.",
+              "text": "— The team celebrated the project's progress.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ðə sˈɛkənd ˈɑːpʃən ɪz mˈʌtʃ mˈɔːɹ vˈaɪəbəl."
+          "phonemes": "— ðə tˈiːm sˈɛləbɹˌeɪɾᵻd ðə pɹˈɑːdʒɛkts pɹˈɑːɡɹɛs."
         },
         {
-          "text": "El informe menos claro fue el primero.",
+          "text": "Iba viento en popa hasta ese momento.",
           "segments": [
             {
-              "text": "El informe menos claro fue el primero.",
+              "text": "Iba viento en popa hasta ese momento.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el infˈoɾme mˈenos klˈaɾo fwˈe el pɾimˈeɾo."
+          "phonemes": "ˈiβa βjˈɛnto em pˈopa ˌasta ˈese momˈɛnto."
         },
         {
-          "text": "— The least clear report was the first one.",
+          "text": "— It was going very well up to that point.",
           "segments": [
             {
-              "text": "— The least clear report was the first one.",
+              "text": "— It was going very well up to that point.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ðə lˈiːst klˈɪɹ ɹᵻpˈɔːɹt wʌzðə fˈɜːst wˌʌn."
+          "phonemes": "— ɪt wʌz ɡˌoʊɪŋ vˈɛɹi wˈɛl ˌʌp tə ðæt pˈɔɪnt."
         },
         {
-          "text": "El proyecto va viento en popa.",
+          "text": "Una analista pidió cautela con las cifras.",
           "segments": [
             {
-              "text": "El proyecto va viento en popa.",
+              "text": "Una analista pidió cautela con las cifras.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el pɾoʝˈekto βˈa βjˈɛnto em pˈopa."
+          "phonemes": "ˈuna ˌanalˈista piðjˈo kaʊtˈela kon las sˈifɾas."
         },
         {
-          "text": "— The project is going very well.",
+          "text": "— An analyst asked for caution with the figures.",
           "segments": [
             {
-              "text": "— The project is going very well.",
+              "text": "— An analyst asked for caution with the figures.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ðə pɹˈɑːdʒɛkt ɪz ɡˌoʊɪŋ vˈɛɹi wˈɛl."
+          "phonemes": "— ɐn ˈænɐlˌɪst ˈæskt fɔːɹ kˈɔːʃən wɪððə fˈɪɡjɚz."
         },
         {
-          "text": "Ese dato hay que tomarlo con pinzas.",
+          "text": "Su advertencia resultó correcta.",
           "segments": [
             {
-              "text": "Ese dato hay que tomarlo con pinzas.",
+              "text": "Su advertencia resultó correcta.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˈese ðˈato ˈaɪ ke tomˈaɾlo kom pˈinsas."
+          "phonemes": "su ˌaðβeɾtˈɛnsja rˌesultˈo korˈekta."
         },
         {
-          "text": "— That figure must be treated with caution.",
+          "text": "— Her warning proved correct.",
           "segments": [
             {
-              "text": "— That figure must be treated with caution.",
+              "text": "— Her warning proved correct.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ðæt fˈɪɡjɚ mˈʌst biː tɹˈiːɾᵻd wɪð kˈɔːʃən."
+          "phonemes": "— hɜː wˈɔːɹnɪŋ pɹˈuːvd kɚɹˈɛkt."
         },
         {
-          "text": "Su análisis dio en el clavo; sin embargo, faltan pruebas.",
+          "text": "Un error apareció poco después.",
           "segments": [
             {
-              "text": "Su análisis dio en el clavo; sin embargo, faltan pruebas.",
+              "text": "Un error apareció poco después.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "su anˈalisis ðjˈo en el klˈaβo; sin embˈaɾɣo, fˈaltam pɾuˈeβas."
+          "phonemes": "ˈun erˈoɾ ˌapaɾesjˈo pˈoko ðespwˈes."
         },
         {
-          "text": "— The analysis was exactly right; however, evidence is still lacking.",
+          "text": "— A mistake appeared shortly after.",
           "segments": [
             {
-              "text": "— The analysis was exactly right; however, evidence is still lacking.",
+              "text": "— A mistake appeared shortly after.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ðɪ ɐnˈæləsˌɪs wʌz ɛɡzˈæktli ɹˈaɪt; haʊˈɛvɚ, ˈɛvɪdəns ɪz stˈɪl lˈækɪŋ."
+          "phonemes": "— ɐ mɪstˈeɪk ɐpˈɪɹd ʃˈɔːɹtli ˈæftɚ."
         }
       ]
     },
@@ -325,129 +325,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "sin embargo",
+      "text": "celebrar",
       "sentences": [
         {
-          "text": "sin embargo",
+          "text": "celebrar",
           "segments": [
             {
-              "text": "sin embargo",
+              "text": "celebrar",
               "lang": "es-419"
             }
           ],
-          "phonemes": "sin embˈaɾɣo"
+          "phonemes": "sˌeleβɾˈaɾ"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "aun así",
+      "text": "el equipo",
       "sentences": [
         {
-          "text": "aun así",
+          "text": "el equipo",
           "segments": [
             {
-              "text": "aun así",
+              "text": "el equipo",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˈaʊn asˈi"
+          "phonemes": "el ekˈipo"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "por lo tanto",
+      "text": "la analista",
       "sentences": [
         {
-          "text": "por lo tanto",
+          "text": "la analista",
           "segments": [
             {
-              "text": "por lo tanto",
+              "text": "la analista",
               "lang": "es-419"
             }
           ],
-          "phonemes": "poɾ lo tˈanto"
+          "phonemes": "la ˌanalˈista"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "meter la pata",
+      "text": "la cautela",
       "sentences": [
         {
-          "text": "meter la pata",
+          "text": "la cautela",
           "segments": [
             {
-              "text": "meter la pata",
+              "text": "la cautela",
               "lang": "es-419"
             }
           ],
-          "phonemes": "metˈeɾ la pˈata"
+          "phonemes": "la kaʊtˈela"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "ir viento en popa",
+      "text": "la advertencia",
       "sentences": [
         {
-          "text": "ir viento en popa",
+          "text": "la advertencia",
           "segments": [
             {
-              "text": "ir viento en popa",
+              "text": "la advertencia",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˈiɾ βjˈɛnto em pˈopa"
+          "phonemes": "la ˌaðβeɾtˈɛnsja"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "estar en las nubes",
+      "text": "resultar correcto",
       "sentences": [
         {
-          "text": "estar en las nubes",
+          "text": "resultar correcto",
           "segments": [
             {
-              "text": "estar en las nubes",
+              "text": "resultar correcto",
               "lang": "es-419"
             }
           ],
-          "phonemes": "estˈaɾ en las nˈuβes"
+          "phonemes": "rˌesultˈaɾ korˈekto"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "dar en el clavo",
+      "text": "aparecer",
       "sentences": [
         {
-          "text": "dar en el clavo",
+          "text": "aparecer",
           "segments": [
             {
-              "text": "dar en el clavo",
+              "text": "aparecer",
               "lang": "es-419"
             }
           ],
-          "phonemes": "dˈaɾ en el klˈaβo"
+          "phonemes": "ˌapaɾesˈeɾ"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "tomar con pinzas",
+      "text": "poco después",
       "sentences": [
         {
-          "text": "tomar con pinzas",
+          "text": "poco después",
           "segments": [
             {
-              "text": "tomar con pinzas",
+              "text": "poco después",
               "lang": "es-419"
             }
           ],
-          "phonemes": "tomˈaɾ kom pˈinsas"
+          "phonemes": "pˈoko ðespwˈes"
         }
       ]
     }

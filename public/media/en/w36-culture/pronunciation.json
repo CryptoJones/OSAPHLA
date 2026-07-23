@@ -163,7 +163,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Lenguaje modelo. Let me clarify what I understood. — Permíteme aclarar lo que entendí. We must verify the source before acting. — Debemos verificar la fuente antes de actuar. I can summarize both positions and defend my recommendation. — Puedo resumir ambas posiciones y defender mi recomendación. I adapt my register without imitating an accent. — Adapto mi registro sin imitar un acento. My maintenance plan combines reading, listening, speaking, and writing. — Mi plan de mantenimiento combina lectura, escucha, conversación y escritura.",
+      "text": "Lenguaje modelo. Intercultural competence requires observing first. — La competencia intercultural exige observar primero. It also requires asking without assuming. — También exige preguntar sin asumir. Adjusting to each context is key. — Ajustarse a cada contexto es clave. No single person represents everyone else. — Ninguna persona representa a todas las demás. Mutual respect avoids generalization. — El respeto mutuo evita la generalización.",
       "sentences": [
         {
           "text": "Lenguaje modelo.",
@@ -176,104 +176,104 @@
           "phonemes": "leŋɡwˈaxe moðˈelo."
         },
         {
-          "text": "Let me clarify what I understood.",
+          "text": "Intercultural competence requires observing first.",
           "segments": [
             {
-              "text": "Let me clarify what I understood.",
+              "text": "Intercultural competence requires observing first.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "lˈɛt mˌiː klˈæɹᵻfˌaɪ wʌt aɪ ˌʌndɚstˈʊd."
+          "phonemes": "ˌɪntɚkˈʌltʃɚɹəl kˈɑːmpɪtəns ɹᵻkwˈaɪɚz əbzˈɜːvɪŋ fˈɜːst."
         },
         {
-          "text": "— Permíteme aclarar lo que entendí.",
+          "text": "— La competencia intercultural exige observar primero.",
           "segments": [
             {
-              "text": "— Permíteme aclarar lo que entendí.",
+              "text": "— La competencia intercultural exige observar primero.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— peɾmˈiteme ˌaklaɾˈaɾ lo ke ˌentendˈi."
+          "phonemes": "— la kˌompetˈɛnsja ˌinteɾkˌultuɾˈal eksˈixe ˌoβseɾβˈaɾ pɾimˈeɾo."
         },
         {
-          "text": "We must verify the source before acting.",
+          "text": "It also requires asking without assuming.",
           "segments": [
             {
-              "text": "We must verify the source before acting.",
+              "text": "It also requires asking without assuming.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wiː mˈʌst vˈɛɹᵻfˌaɪ ðə sˈɔːɹs bᵻfˌɔːɹ ˈæktɪŋ."
+          "phonemes": "ɪɾ ˈɔːlsoʊ ɹᵻkwˈaɪɚz ˈæskɪŋ wɪðˌaʊt ɐsˈuːmɪŋ."
         },
         {
-          "text": "— Debemos verificar la fuente antes de actuar.",
+          "text": "— También exige preguntar sin asumir.",
           "segments": [
             {
-              "text": "— Debemos verificar la fuente antes de actuar.",
+              "text": "— También exige preguntar sin asumir.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— deβˈemos βˌeɾifikˈaɾ la fwˈɛnte ˈantes ðe aktwˈaɾ."
+          "phonemes": "— tambjˈen eksˈixe pɾˌeɣuntˈaɾ sin ˌasumˈiɾ."
         },
         {
-          "text": "I can summarize both positions and defend my recommendation.",
+          "text": "Adjusting to each context is key.",
           "segments": [
             {
-              "text": "I can summarize both positions and defend my recommendation.",
+              "text": "Adjusting to each context is key.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪ kæn sˈʌmɚɹˌaɪz bˈoʊθ pəzˈɪʃənz ænd dᵻfˈɛnd maɪ ɹˌɛkəmɛndˈeɪʃən."
+          "phonemes": "ɐdʒˈʌstɪŋ tʊ ˈiːtʃ kˈɑːntɛkst ɪz kˈiː."
         },
         {
-          "text": "— Puedo resumir ambas posiciones y defender mi recomendación.",
+          "text": "— Ajustarse a cada contexto es clave.",
           "segments": [
             {
-              "text": "— Puedo resumir ambas posiciones y defender mi recomendación.",
+              "text": "— Ajustarse a cada contexto es clave.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— pwˈeðo rˌesumˈiɾ ˈambas pˌosisjˈones i ðˌefendˈeɾ mi rˌekomˌendasjˈon."
+          "phonemes": "— ˌaxustˈaɾse a kˈaða kontˈeksto ˈes klˈaβe."
         },
         {
-          "text": "I adapt my register without imitating an accent.",
+          "text": "No single person represents everyone else.",
           "segments": [
             {
-              "text": "I adapt my register without imitating an accent.",
+              "text": "No single person represents everyone else.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪ ɐdˈæpt maɪ ɹˈɛdʒɪstɚ wɪðˌaʊt ˈɪmᵻtˌeɪɾɪŋ ɐn ˈæksənt."
+          "phonemes": "nˈoʊ sˈɪŋɡəl pˈɜːsən ɹˌɛpɹᵻzˈɛnts ˈɛvɹɪwˌʌn ˈɛls."
         },
         {
-          "text": "— Adapto mi registro sin imitar un acento.",
+          "text": "— Ninguna persona representa a todas las demás.",
           "segments": [
             {
-              "text": "— Adapto mi registro sin imitar un acento.",
+              "text": "— Ninguna persona representa a todas las demás.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— aðˈapːto mi rexˈistɾo sin ˌimitˈaɾ ˈun asˈɛnto."
+          "phonemes": "— niŋɡˈuna peɾsˈona rˌepɾesˈɛnta a tˈoðas las ðemˈas."
         },
         {
-          "text": "My maintenance plan combines reading, listening, speaking, and writing.",
+          "text": "Mutual respect avoids generalization.",
           "segments": [
             {
-              "text": "My maintenance plan combines reading, listening, speaking, and writing.",
+              "text": "Mutual respect avoids generalization.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "maɪ mˈeɪntənəns plˈæn kəmbˈaɪnz ɹˈiːdɪŋ, lˈɪsənɪŋ, spˈiːkɪŋ, ænd ɹˈaɪɾɪŋ."
+          "phonemes": "mjˈuːtʃuːəl ɹᵻspˈɛkt ɐvˈɔɪdz dʒˌɛnɚɹəlᵻzˈeɪʃən."
         },
         {
-          "text": "— Mi plan de mantenimiento combina lectura, escucha, conversación y escritura.",
+          "text": "— El respeto mutuo evita la generalización.",
           "segments": [
             {
-              "text": "— Mi plan de mantenimiento combina lectura, escucha, conversación y escritura.",
+              "text": "— El respeto mutuo evita la generalización.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— mi plˈan de mˌantenimjˈɛnto kombˈina lektˈuɾa, eskˈutʃa, kˌombeɾsasjˈon i ˌeskɾitˈuɾa."
+          "phonemes": "— el respˈeto mˈutwo eβˈita la xˌeneɾˌalisasjˈon."
         }
       ]
     },
@@ -325,129 +325,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "to clarify",
+      "text": "to observe",
       "sentences": [
         {
-          "text": "to clarify",
+          "text": "to observe",
           "segments": [
             {
-              "text": "to clarify",
+              "text": "to observe",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə klˈæɹᵻfˌaɪ"
+          "phonemes": "tʊ əbzˈɜːv"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "to verify",
+      "text": "to ask",
       "sentences": [
         {
-          "text": "to verify",
+          "text": "to ask",
           "segments": [
             {
-              "text": "to verify",
+              "text": "to ask",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə vˈɛɹᵻfˌaɪ"
+          "phonemes": "tʊ ˈæsk"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "to summarize",
+      "text": "to adjust",
       "sentences": [
         {
-          "text": "to summarize",
+          "text": "to adjust",
           "segments": [
             {
-              "text": "to summarize",
+              "text": "to adjust",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə sˈʌmɚɹˌaɪz"
+          "phonemes": "tʊ ɐdʒˈʌst"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "to persuade",
+      "text": "to avoid generalization",
       "sentences": [
         {
-          "text": "to persuade",
+          "text": "to avoid generalization",
           "segments": [
             {
-              "text": "to persuade",
+              "text": "to avoid generalization",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə pɚswˈeɪd"
+          "phonemes": "tʊ ɐvˈɔɪd dʒˌɛnɚɹəlᵻzˈeɪʃən"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "to adapt",
+      "text": "to represent everyone",
       "sentences": [
         {
-          "text": "to adapt",
+          "text": "to represent everyone",
           "segments": [
             {
-              "text": "to adapt",
+              "text": "to represent everyone",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tʊ ɐdˈæpt"
+          "phonemes": "tə ɹˌɛpɹᵻzˈɛnt ˈɛvɹɪwˌʌn"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "a source",
+      "text": "intercultural competence",
       "sentences": [
         {
-          "text": "a source",
+          "text": "intercultural competence",
           "segments": [
             {
-              "text": "a source",
+              "text": "intercultural competence",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ sˈɔːɹs"
+          "phonemes": "ˌɪntɚkˈʌltʃɚɹəl kˈɑːmpɪtəns"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "a strength",
+      "text": "mutual respect",
       "sentences": [
         {
-          "text": "a strength",
+          "text": "mutual respect",
           "segments": [
             {
-              "text": "a strength",
+              "text": "mutual respect",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ stɹˈɛŋθ"
+          "phonemes": "mjˈuːtʃuːəl ɹᵻspˈɛkt"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "a maintenance plan",
+      "text": "humility",
       "sentences": [
         {
-          "text": "a maintenance plan",
+          "text": "humility",
           "segments": [
             {
-              "text": "a maintenance plan",
+              "text": "humility",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ mˈeɪntənəns plˈæn"
+          "phonemes": "hjuːmˈɪlᵻɾi"
         }
       ]
     }

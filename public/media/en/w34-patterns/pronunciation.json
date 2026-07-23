@@ -29,7 +29,7 @@
     },
     {
       "file": "01.wav",
-      "text": "Forma y significado. Inglés estadounidense para producción; reconocimiento de variantes británicas y globales en ortografía, léxico, gramática y registro.",
+      "text": "Forma y significado. Aplicación de la forma. Reconoce variantes ortográficas (colour/color), léxicas (lift/elevator) y gramaticales sin juzgar ninguna como incorrecta; el curso usa el modelo estadounidense para producción.",
       "sentences": [
         {
           "text": "Forma y significado.",
@@ -42,20 +42,30 @@
           "phonemes": "fˈoɾma i sˌiɡnifikˈaðo."
         },
         {
-          "text": "Inglés estadounidense para producción; reconocimiento de variantes británicas y globales en ortografía, léxico, gramática y registro.",
+          "text": "Aplicación de la forma.",
           "segments": [
             {
-              "text": "Inglés estadounidense para producción; reconocimiento de variantes británicas y globales en ortografía, léxico, gramática y registro.",
+              "text": "Aplicación de la forma.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "iŋɡlˈes ˌestaðˌowniðˈɛnse pˌaɾa pɾˌoðuksjˈon; rˌekonˌosimjˈɛnto ðe βaɾjˈantes βɾitˈanikas i ɣloβˈales en ˌoɾtoɣɾafˈia, lˈeksiko, ɡɾamˈatika i rexˈistɾo."
+          "phonemes": "ˌaplikasjˈon de la fˈoɾma."
+        },
+        {
+          "text": "Reconoce variantes ortográficas (colour/color), léxicas (lift/elevator) y gramaticales sin juzgar ninguna como incorrecta; el curso usa el modelo estadounidense para producción.",
+          "segments": [
+            {
+              "text": "Reconoce variantes ortográficas (colour/color), léxicas (lift/elevator) y gramaticales sin juzgar ninguna como incorrecta; el curso usa el modelo estadounidense para producción.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "rˌekonˈose βaɾjˈantes ˌoɾtoɣɾˈafikas (kolˈowɾ βˈara kolˈoɾ), lˈeksikas (lˈift βˈara ˌeleβatˈoɾ) i ɣɾˌamatikˈales sin xusɣˈaɾ niŋɡˈuna kˌomo ˌinkorˈekta; el kˈuɾso ˈusa el moðˈelo ˌestaðˌowniðˈɛnse pˌaɾa pɾˌoðuksjˈon."
         }
       ]
     },
     {
       "file": "02.wav",
-      "text": "Conjunto de modelos. Do you have time tomorrow? Take the lift to the second floor. Take the elevator to the third floor. The spelling changes, but the meaning is clear. I don't know that word. What does it mean here? ¿Tienes tiempo mañana? Toma el ascensor hasta el segundo piso. Toma el ascensor hasta el tercer piso. La ortografía cambia, pero el significado está claro. No conozco esa palabra. ¿Qué significa aquí?",
+      "text": "Conjunto de modelos. Colour and color are the same word. A British speaker might say tin; an American speaker says can. Recognize the variant; don't judge it as wrong. Each variety is valid. I use American spelling for production. Colour y color son la misma palabra. Un hablante británico puede decir tin; uno estadounidense dice can. Reconoce la variante; no la juzgues como incorrecta. Cada variedad es válida. Uso la ortografía estadounidense para producir.",
       "sentences": [
         {
           "text": "Conjunto de modelos.",
@@ -68,124 +78,112 @@
           "phonemes": "koŋxˈunto ðe moðˈelos."
         },
         {
-          "text": "Do you have time tomorrow?",
+          "text": "Colour and color are the same word.",
           "segments": [
             {
-              "text": "Do you have time tomorrow?",
+              "text": "Colour and color are the same word.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "dˈuː juː hæv tˈaɪm təmˈɑːɹoʊ?"
+          "phonemes": "kˈʌlɚɹ ænd kˈʌlɚɹ ɑːɹ ðə sˈeɪm wˈɜːd."
         },
         {
-          "text": "Take the lift to the second floor.",
+          "text": "A British speaker might say tin; an American speaker says can.",
           "segments": [
             {
-              "text": "Take the lift to the second floor.",
+              "text": "A British speaker might say tin; an American speaker says can.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tˈeɪk ðə lˈɪft tə ðə sˈɛkənd flˈɔːɹ."
+          "phonemes": "ɐ bɹˈɪɾɪʃ spˈiːkɚ mˌaɪt sˈeɪ tˈɪn; ɐn ɐmˈɛɹɪkən spˈiːkɚ sˈɛz kˈæn."
         },
         {
-          "text": "Take the elevator to the third floor.",
+          "text": "Recognize the variant; don't judge it as wrong.",
           "segments": [
             {
-              "text": "Take the elevator to the third floor.",
+              "text": "Recognize the variant; don't judge it as wrong.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tˈeɪk ðɪ ˈɛlɪvˌeɪɾɚ tə ðə θˈɜːd flˈɔːɹ."
+          "phonemes": "ɹˈɛkəɡnˌaɪz ðə vˈɛɹiənt; dˈoʊnt dʒˈʌdʒ ɪɾ æz ɹˈɔŋ."
         },
         {
-          "text": "The spelling changes, but the meaning is clear.",
+          "text": "Each variety is valid.",
           "segments": [
             {
-              "text": "The spelling changes, but the meaning is clear.",
+              "text": "Each variety is valid.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə spˈɛlɪŋ tʃˈeɪndʒᵻz, bˌʌt ðə mˈiːnɪŋ ɪz klˈɪɹ."
+          "phonemes": "ˈiːtʃ vɚɹˈaɪəɾi ɪz vˈælɪd."
         },
         {
-          "text": "I don't know that word.",
+          "text": "I use American spelling for production.",
           "segments": [
             {
-              "text": "I don't know that word.",
+              "text": "I use American spelling for production.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪ dˈoʊnt nˈoʊ ðæt wˈɜːd."
+          "phonemes": "aɪ jˈuːz ɐmˈɛɹɪkən spˈɛlɪŋ fɔːɹ pɹədˈʌkʃən."
         },
         {
-          "text": "What does it mean here?",
+          "text": "Colour y color son la misma palabra.",
           "segments": [
             {
-              "text": "What does it mean here?",
+              "text": "Colour y color son la misma palabra.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kolˈowɾ i kolˈoɾ sˈon la mˈisma palˈaβɾa."
+        },
+        {
+          "text": "Un hablante británico puede decir tin; uno estadounidense dice can.",
+          "segments": [
+            {
+              "text": "Un hablante británico puede decir tin; uno estadounidense dice ",
+              "lang": "es-419"
+            },
+            {
+              "text": "can",
               "lang": "en-us"
-            }
-          ],
-          "phonemes": "wˌʌt dˈʌz ɪt mˈiːn hˈɪɹ?"
-        },
-        {
-          "text": "¿Tienes tiempo mañana?",
-          "segments": [
+            },
             {
-              "text": "¿Tienes tiempo mañana?",
+              "text": ".",
               "lang": "es-419"
             }
           ],
-          "phonemes": "tjˈenes tjˈempo maɲˈana?"
+          "phonemes": "ˈun aβlˈante βɾitˈaniko pwˈeðe ðesˈiɾ tˈin; ˈuno ˌestaðˌowniðˈɛnse ðˈise kˈæn ."
         },
         {
-          "text": "Toma el ascensor hasta el segundo piso.",
+          "text": "Reconoce la variante; no la juzgues como incorrecta.",
           "segments": [
             {
-              "text": "Toma el ascensor hasta el segundo piso.",
+              "text": "Reconoce la variante; no la juzgues como incorrecta.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "tˈoma el ˌasensˈoɾ ˌasta el seɣˈundo pˈiso."
+          "phonemes": "rˌekonˈose la βaɾjˈante; nˈo la xˈusɣes kˌomo ˌinkorˈekta."
         },
         {
-          "text": "Toma el ascensor hasta el tercer piso.",
+          "text": "Cada variedad es válida.",
           "segments": [
             {
-              "text": "Toma el ascensor hasta el tercer piso.",
+              "text": "Cada variedad es válida.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "tˈoma el ˌasensˈoɾ ˌasta el teɾsˈeɾ pˈiso."
+          "phonemes": "kˈaða βˌaɾjeðˈað ˈes βˈaliða."
         },
         {
-          "text": "La ortografía cambia, pero el significado está claro.",
+          "text": "Uso la ortografía estadounidense para producir.",
           "segments": [
             {
-              "text": "La ortografía cambia, pero el significado está claro.",
+              "text": "Uso la ortografía estadounidense para producir.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la ˌoɾtoɣɾafˈia kˈambja, pˌeɾo el sˌiɡnifikˈaðo estˈa klˈaɾo."
-        },
-        {
-          "text": "No conozco esa palabra.",
-          "segments": [
-            {
-              "text": "No conozco esa palabra.",
-              "lang": "es-419"
-            }
-          ],
-          "phonemes": "nˈo konˈosko ˈesa palˈaβɾa."
-        },
-        {
-          "text": "¿Qué significa aquí?",
-          "segments": [
-            {
-              "text": "¿Qué significa aquí?",
-              "lang": "es-419"
-            }
-          ],
-          "phonemes": "kˈe sˌiɡnifˈika akˈi?"
+          "phonemes": "ˈuso la ˌoɾtoɣɾafˈia ˌestaðˌowniðˈɛnse pˌaɾa pɾˌoðusˈiɾ."
         }
       ]
     },
@@ -253,7 +251,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Lenguaje modelo. Do you have time tomorrow? — ¿Tienes tiempo mañana? Take the lift to the second floor. — Toma el ascensor hasta el segundo piso. Take the elevator to the third floor. — Toma el ascensor hasta el tercer piso. The spelling changes, but the meaning is clear. — La ortografía cambia, pero el significado está claro. I don't know that word. What does it mean here? — No conozco esa palabra. ¿Qué significa aquí?",
+      "text": "Lenguaje modelo. Colour and color are the same word. — Colour y color son la misma palabra. A British speaker might say tin; an American speaker says can. — Un hablante británico puede decir tin; uno estadounidense dice can. Recognize the variant; don't judge it as wrong. — Reconoce la variante; no la juzgues como incorrecta. Each variety is valid. — Cada variedad es válida. I use American spelling for production. — Uso la ortografía estadounidense para producir.",
       "sentences": [
         {
           "text": "Lenguaje modelo.",
@@ -266,124 +264,112 @@
           "phonemes": "leŋɡwˈaxe moðˈelo."
         },
         {
-          "text": "Do you have time tomorrow?",
+          "text": "Colour and color are the same word.",
           "segments": [
             {
-              "text": "Do you have time tomorrow?",
+              "text": "Colour and color are the same word.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "dˈuː juː hæv tˈaɪm təmˈɑːɹoʊ?"
+          "phonemes": "kˈʌlɚɹ ænd kˈʌlɚɹ ɑːɹ ðə sˈeɪm wˈɜːd."
         },
         {
-          "text": "— ¿Tienes tiempo mañana?",
+          "text": "— Colour y color son la misma palabra.",
           "segments": [
             {
-              "text": "— ¿Tienes tiempo mañana?",
+              "text": "— Colour y color son la misma palabra.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— tjˈenes tjˈempo maɲˈana?"
+          "phonemes": "— kolˈowɾ i kolˈoɾ sˈon la mˈisma palˈaβɾa."
         },
         {
-          "text": "Take the lift to the second floor.",
+          "text": "A British speaker might say tin; an American speaker says can.",
           "segments": [
             {
-              "text": "Take the lift to the second floor.",
+              "text": "A British speaker might say tin; an American speaker says can.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tˈeɪk ðə lˈɪft tə ðə sˈɛkənd flˈɔːɹ."
+          "phonemes": "ɐ bɹˈɪɾɪʃ spˈiːkɚ mˌaɪt sˈeɪ tˈɪn; ɐn ɐmˈɛɹɪkən spˈiːkɚ sˈɛz kˈæn."
         },
         {
-          "text": "— Toma el ascensor hasta el segundo piso.",
+          "text": "— Un hablante británico puede decir tin; uno estadounidense dice can.",
           "segments": [
             {
-              "text": "— Toma el ascensor hasta el segundo piso.",
+              "text": "— Un hablante británico puede decir tin; uno estadounidense dice ",
+              "lang": "es-419"
+            },
+            {
+              "text": "can",
+              "lang": "en-us"
+            },
+            {
+              "text": ".",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— tˈoma el ˌasensˈoɾ ˌasta el seɣˈundo pˈiso."
+          "phonemes": "— ˈun aβlˈante βɾitˈaniko pwˈeðe ðesˈiɾ tˈin; ˈuno ˌestaðˌowniðˈɛnse ðˈise kˈæn ."
         },
         {
-          "text": "Take the elevator to the third floor.",
+          "text": "Recognize the variant; don't judge it as wrong.",
           "segments": [
             {
-              "text": "Take the elevator to the third floor.",
+              "text": "Recognize the variant; don't judge it as wrong.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tˈeɪk ðɪ ˈɛlɪvˌeɪɾɚ tə ðə θˈɜːd flˈɔːɹ."
+          "phonemes": "ɹˈɛkəɡnˌaɪz ðə vˈɛɹiənt; dˈoʊnt dʒˈʌdʒ ɪɾ æz ɹˈɔŋ."
         },
         {
-          "text": "— Toma el ascensor hasta el tercer piso.",
+          "text": "— Reconoce la variante; no la juzgues como incorrecta.",
           "segments": [
             {
-              "text": "— Toma el ascensor hasta el tercer piso.",
+              "text": "— Reconoce la variante; no la juzgues como incorrecta.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— tˈoma el ˌasensˈoɾ ˌasta el teɾsˈeɾ pˈiso."
+          "phonemes": "— rˌekonˈose la βaɾjˈante; nˈo la xˈusɣes kˌomo ˌinkorˈekta."
         },
         {
-          "text": "The spelling changes, but the meaning is clear.",
+          "text": "Each variety is valid.",
           "segments": [
             {
-              "text": "The spelling changes, but the meaning is clear.",
+              "text": "Each variety is valid.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə spˈɛlɪŋ tʃˈeɪndʒᵻz, bˌʌt ðə mˈiːnɪŋ ɪz klˈɪɹ."
+          "phonemes": "ˈiːtʃ vɚɹˈaɪəɾi ɪz vˈælɪd."
         },
         {
-          "text": "— La ortografía cambia, pero el significado está claro.",
+          "text": "— Cada variedad es válida.",
           "segments": [
             {
-              "text": "— La ortografía cambia, pero el significado está claro.",
+              "text": "— Cada variedad es válida.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— la ˌoɾtoɣɾafˈia kˈambja, pˌeɾo el sˌiɡnifikˈaðo estˈa klˈaɾo."
+          "phonemes": "— kˈaða βˌaɾjeðˈað ˈes βˈaliða."
         },
         {
-          "text": "I don't know that word.",
+          "text": "I use American spelling for production.",
           "segments": [
             {
-              "text": "I don't know that word.",
+              "text": "I use American spelling for production.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪ dˈoʊnt nˈoʊ ðæt wˈɜːd."
+          "phonemes": "aɪ jˈuːz ɐmˈɛɹɪkən spˈɛlɪŋ fɔːɹ pɹədˈʌkʃən."
         },
         {
-          "text": "What does it mean here?",
+          "text": "— Uso la ortografía estadounidense para producir.",
           "segments": [
             {
-              "text": "What does it mean here?",
-              "lang": "en-us"
-            }
-          ],
-          "phonemes": "wˌʌt dˈʌz ɪt mˈiːn hˈɪɹ?"
-        },
-        {
-          "text": "— No conozco esa palabra.",
-          "segments": [
-            {
-              "text": "— No conozco esa palabra.",
+              "text": "— Uso la ortografía estadounidense para producir.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— nˈo konˈosko ˈesa palˈaβɾa."
-        },
-        {
-          "text": "¿Qué significa aquí?",
-          "segments": [
-            {
-              "text": "¿Qué significa aquí?",
-              "lang": "es-419"
-            }
-          ],
-          "phonemes": "kˈe sˌiɡnifˈika akˈi?"
+          "phonemes": "— ˈuso la ˌoɾtoɣɾafˈia ˌestaðˌowniðˈɛnse pˌaɾa pɾˌoðusˈiɾ."
         }
       ]
     },
@@ -435,129 +421,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "an accent",
+      "text": "colour (British spelling)",
       "sentences": [
         {
-          "text": "an accent",
+          "text": "colour (British spelling)",
           "segments": [
             {
-              "text": "an accent",
+              "text": "colour (British spelling)",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐn ˈæksənt"
+          "phonemes": "kˈʌlɚ (bɹˈɪɾɪʃ spˈɛlɪŋ)"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "a variety",
+      "text": "color (American spelling)",
       "sentences": [
         {
-          "text": "a variety",
+          "text": "color (American spelling)",
           "segments": [
             {
-              "text": "a variety",
+              "text": "color (American spelling)",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ vɚɹˈaɪəɾi"
+          "phonemes": "kˈʌlɚ (ɐmˈɛɹɪkən spˈɛlɪŋ)"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "a lift",
+      "text": "tin (British)",
       "sentences": [
         {
-          "text": "a lift",
+          "text": "tin (British)",
           "segments": [
             {
-              "text": "a lift",
+              "text": "tin (British)",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ lˈɪft"
+          "phonemes": "tˈɪn (bɹˈɪɾɪʃ)"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "an elevator",
+      "text": "can (American)",
       "sentences": [
         {
-          "text": "an elevator",
+          "text": "can (American)",
           "segments": [
             {
-              "text": "an elevator",
+              "text": "can (American)",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐn ˈɛlɪvˌeɪɾɚ"
+          "phonemes": "kˈæn (ɐmˈɛɹɪkən)"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "a flat",
+      "text": "to recognize without judging",
       "sentences": [
         {
-          "text": "a flat",
+          "text": "to recognize without judging",
           "segments": [
             {
-              "text": "a flat",
+              "text": "to recognize without judging",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ flˈæt"
+          "phonemes": "tə ɹˈɛkəɡnˌaɪz wɪðˌaʊt dʒˈʌdʒɪŋ"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "an apartment",
+      "text": "a spelling variant",
       "sentences": [
         {
-          "text": "an apartment",
+          "text": "a spelling variant",
           "segments": [
             {
-              "text": "an apartment",
+              "text": "a spelling variant",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐn ɐpˈɑːɹtmənt"
+          "phonemes": "ɐ spˈɛlɪŋ vˈɛɹiənt"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "to clarify",
+      "text": "a lexical variant",
       "sentences": [
         {
-          "text": "to clarify",
+          "text": "a lexical variant",
           "segments": [
             {
-              "text": "to clarify",
+              "text": "a lexical variant",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə klˈæɹᵻfˌaɪ"
+          "phonemes": "ɐ lˈɛksɪkəl vˈɛɹiənt"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "What does that mean here?",
+      "text": "a register",
       "sentences": [
         {
-          "text": "What does that mean here?",
+          "text": "a register",
           "segments": [
             {
-              "text": "What does that mean here?",
+              "text": "a register",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wˌʌt dˈʌz ðæt mˈiːn hˈɪɹ?"
+          "phonemes": "ɐ ɹˈɛdʒɪstɚ"
         }
       ]
     }

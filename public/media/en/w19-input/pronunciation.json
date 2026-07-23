@@ -163,7 +163,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Lenguaje modelo. There used to be fewer buildings. — Antes había menos edificios. I used to play in this square. — Yo jugaba en esta plaza. It was eight o'clock, and it was raining. — Eran las ocho y estaba lloviendo. We listened to the radio while we worked. — Escuchábamos la radio mientras trabajábamos. The city seemed quieter. — La ciudad parecía más tranquila.",
+      "text": "Lenguaje modelo. When Teresa was a child, her street had few cars. — Cuando Teresa era niña, su calle tenía pocos autos. All the neighbors knew each other. — Todos los vecinos se conocían. Every afternoon she played in the square. — Cada tarde jugaba en la plaza. Her grandparents talked outside. — Sus abuelos conversaban afuera. The city seemed calmer. — La ciudad parecía más tranquila.",
       "sentences": [
         {
           "text": "Lenguaje modelo.",
@@ -176,94 +176,94 @@
           "phonemes": "leŋɡwˈaxe moðˈelo."
         },
         {
-          "text": "There used to be fewer buildings.",
+          "text": "When Teresa was a child, her street had few cars.",
           "segments": [
             {
-              "text": "There used to be fewer buildings.",
+              "text": "When Teresa was a child, her street had few cars.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðɛɹ jˈuːzd təbi fjˈuːɚ bˈɪldɪŋz."
+          "phonemes": "wˌɛn tɚɹˈiːsə wʌzɐ tʃˈaɪld, hɜː stɹˈiːt hæd fjˈuː kˈɑːɹz."
         },
         {
-          "text": "— Antes había menos edificios.",
+          "text": "— Cuando Teresa era niña, su calle tenía pocos autos.",
           "segments": [
             {
-              "text": "— Antes había menos edificios.",
+              "text": "— Cuando Teresa era niña, su calle tenía pocos autos.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— ˈantes aβˈia mˈenos ˌeðifˈisjos."
+          "phonemes": "— kwˌando teɾˈesa ˈeɾa nˈiɲa, su kˈajje tenˈia pˈokos ˈaʊtos."
         },
         {
-          "text": "I used to play in this square.",
+          "text": "All the neighbors knew each other.",
           "segments": [
             {
-              "text": "I used to play in this square.",
+              "text": "All the neighbors knew each other.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪ jˈuːzd tə plˈeɪ ɪn ðɪs skwˈɛɹ."
+          "phonemes": "ˈɔːl ðə nˈeɪbɚz nˈuː ˈiːtʃ ˈʌðɚ."
         },
         {
-          "text": "— Yo jugaba en esta plaza.",
+          "text": "— Todos los vecinos se conocían.",
           "segments": [
             {
-              "text": "— Yo jugaba en esta plaza.",
+              "text": "— Todos los vecinos se conocían.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— ʝˈo xuɣˈaβa en ˈesta plˈasa."
+          "phonemes": "— tˈoðos los βesˈinos se kˌonosˈian."
         },
         {
-          "text": "It was eight o'clock, and it was raining.",
+          "text": "Every afternoon she played in the square.",
           "segments": [
             {
-              "text": "It was eight o'clock, and it was raining.",
+              "text": "Every afternoon she played in the square.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɪt wʌz ˈeɪt əklˈɑːk, ænd ɪt wʌz ɹˈeɪnɪŋ."
+          "phonemes": "ˈɛvɹi ˌæftɚnˈuːn ʃiː plˈeɪd ɪnðə skwˈɛɹ."
         },
         {
-          "text": "— Eran las ocho y estaba lloviendo.",
+          "text": "— Cada tarde jugaba en la plaza.",
           "segments": [
             {
-              "text": "— Eran las ocho y estaba lloviendo.",
+              "text": "— Cada tarde jugaba en la plaza.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— ˈeɾan las ˈotʃo i estˈaβa ʝoβjˈɛndo."
+          "phonemes": "— kˈaða tˈaɾðe xuɣˈaβa en la plˈasa."
         },
         {
-          "text": "We listened to the radio while we worked.",
+          "text": "Her grandparents talked outside.",
           "segments": [
             {
-              "text": "We listened to the radio while we worked.",
+              "text": "Her grandparents talked outside.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wiː lˈɪsənd tə ðə ɹˈeɪdɪˌoʊ wˌaɪl wiː wˈɜːkt."
+          "phonemes": "hɜː ɡɹˈændpɛɹənts tˈɔːkt aʊtsˈaɪd."
         },
         {
-          "text": "— Escuchábamos la radio mientras trabajábamos.",
+          "text": "— Sus abuelos conversaban afuera.",
           "segments": [
             {
-              "text": "— Escuchábamos la radio mientras trabajábamos.",
+              "text": "— Sus abuelos conversaban afuera.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— ˌeskutʃˈaβamos la rˈaðjo mjˌentɾas tɾˌaβaxˈaβamos."
+          "phonemes": "— sus aβwˈelos kˌombeɾsˈaβan afwˈeɾa."
         },
         {
-          "text": "The city seemed quieter.",
+          "text": "The city seemed calmer.",
           "segments": [
             {
-              "text": "The city seemed quieter.",
+              "text": "The city seemed calmer.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə sˈɪɾi sˈiːmd kwˈaɪəɾɚ."
+          "phonemes": "ðə sˈɪɾi sˈiːmd kˈɑːmɚ."
         },
         {
           "text": "— La ciudad parecía más tranquila.",
@@ -325,129 +325,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "before",
+      "text": "a street",
       "sentences": [
         {
-          "text": "before",
+          "text": "a street",
           "segments": [
             {
-              "text": "before",
+              "text": "a street",
               "lang": "en-us"
             }
           ],
-          "phonemes": "bᵻfˈɔːɹ"
+          "phonemes": "ɐ stɹˈiːt"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "now",
+      "text": "few",
       "sentences": [
         {
-          "text": "now",
+          "text": "few",
           "segments": [
             {
-              "text": "now",
+              "text": "few",
               "lang": "en-us"
             }
           ],
-          "phonemes": "nˈaʊ"
+          "phonemes": "fjˈuː"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "while",
+      "text": "a neighbor",
       "sentences": [
         {
-          "text": "while",
+          "text": "a neighbor",
           "segments": [
             {
-              "text": "while",
+              "text": "a neighbor",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wˈaɪl"
+          "phonemes": "ɐ nˈeɪbɚ"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "to use to",
+      "text": "to know each other",
       "sentences": [
         {
-          "text": "to use to",
+          "text": "to know each other",
           "segments": [
             {
-              "text": "to use to",
+              "text": "to know each other",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə jˈuːz tuː"
+          "phonemes": "tə nˈoʊ ˈiːtʃ ˈʌðɚ"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "quiet",
+      "text": "every afternoon",
       "sentences": [
         {
-          "text": "quiet",
+          "text": "every afternoon",
           "segments": [
             {
-              "text": "quiet",
+              "text": "every afternoon",
               "lang": "en-us"
             }
           ],
-          "phonemes": "kwˈaɪət"
+          "phonemes": "ˈɛvɹi ˌæftɚnˈuːn"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "busy",
+      "text": "a grandfather",
       "sentences": [
         {
-          "text": "busy",
+          "text": "a grandfather",
           "segments": [
             {
-              "text": "busy",
+              "text": "a grandfather",
               "lang": "en-us"
             }
           ],
-          "phonemes": "bˈɪzi"
+          "phonemes": "ɐ ɡɹˈændfɑːðɚ"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "to remember",
+      "text": "to talk",
       "sentences": [
         {
-          "text": "to remember",
+          "text": "to talk",
           "segments": [
             {
-              "text": "to remember",
+              "text": "to talk",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə ɹᵻmˈɛmbɚ"
+          "phonemes": "tə tˈɔːk"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "to change",
+      "text": "outside",
       "sentences": [
         {
-          "text": "to change",
+          "text": "outside",
           "segments": [
             {
-              "text": "to change",
+              "text": "outside",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə tʃˈeɪndʒ"
+          "phonemes": "aʊtsˈaɪd"
         }
       ]
     }

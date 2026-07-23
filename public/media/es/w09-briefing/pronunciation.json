@@ -153,7 +153,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Model language. Me levanto a las seis y media. — I get up at six thirty. Después de vestirme, preparo el desayuno. — After getting dressed, I prepare breakfast. Ahora estoy esperando el tren. — I am waiting for the train now. Los niños se acuestan temprano. — The children go to bed early. ¿A qué hora te despiertas? — What time do you wake up?",
+      "text": "Model language. Me levanto a las seis y media. — I get up at six thirty. Después de vestirme, preparo el desayuno. — After I get dressed, I make breakfast. Ahora estoy esperando el tren. — I'm waiting for the train now. Los niños se acuestan temprano. — The children go to bed early. ¿A qué hora te despiertas? — What time do you wake up?",
       "sentences": [
         {
           "text": "Model language.",
@@ -196,14 +196,14 @@
           "phonemes": "despwˈes ðe βestˈiɾme, pɾepˈaɾo el ðˌesaʝˈuno."
         },
         {
-          "text": "— After getting dressed, I prepare breakfast.",
+          "text": "— After I get dressed, I make breakfast.",
           "segments": [
             {
-              "text": "— After getting dressed, I prepare breakfast.",
+              "text": "— After I get dressed, I make breakfast.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ˈæftɚ ɡˌɛɾɪŋ dɹˈɛst, aɪ pɹɪpˈɛɹ bɹˈɛkfəst."
+          "phonemes": "— ˈæftɚɹ aɪ ɡɛt dɹˈɛst, aɪ mˌeɪk bɹˈɛkfəst."
         },
         {
           "text": "Ahora estoy esperando el tren.",
@@ -216,14 +216,14 @@
           "phonemes": "aˈoɾa estˈoɪ ˌespeɾˈando el tɾˈen."
         },
         {
-          "text": "— I am waiting for the train now.",
+          "text": "— I'm waiting for the train now.",
           "segments": [
             {
-              "text": "— I am waiting for the train now.",
+              "text": "— I'm waiting for the train now.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— aɪɐm wˈeɪɾɪŋ fɚðə tɹˈeɪn nˈaʊ."
+          "phonemes": "— aɪm wˈeɪɾɪŋ fɚðə tɹˈeɪn nˈaʊ."
         },
         {
           "text": "Los niños se acuestan temprano.",

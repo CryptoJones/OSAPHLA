@@ -143,7 +143,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Model language. Quisiera probar el plato del día. — I would like to try the daily special. ¿Cuánto cuesta un kilo de tomates? — How much does a kilogram of tomatoes cost? Para mí, una sopa sin carne. — For me, a soup without meat. El camarero nos trae la cuenta. — The waiter brings us the bill. Disculpe, pedí agua y no refresco. — Excuse me, I ordered water, not soda.",
+      "text": "Model language. Voy a comprar dentro de mi presupuesto. — I am going to buy within my budget. Pido una comida en el restaurante. — I order a meal at the restaurant. Recibo un plato equivocado. — I receive the wrong dish. Resuelvo el error con cortesía. — I resolve the mistake politely. Pido que corrijan mi pedido. — I ask them to correct my order.",
       "sentences": [
         {
           "text": "Model language.",
@@ -156,104 +156,104 @@
           "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
         },
         {
-          "text": "Quisiera probar el plato del día.",
+          "text": "Voy a comprar dentro de mi presupuesto.",
           "segments": [
             {
-              "text": "Quisiera probar el plato del día.",
+              "text": "Voy a comprar dentro de mi presupuesto.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "kisjˈeɾa pɾoβˈaɾ el plˈato ðel ðˈia."
+          "phonemes": "bˈoɪ a kompɾˈaɾ ðˈɛntɾo ðe mi pɾˌesupwˈesto."
         },
         {
-          "text": "— I would like to try the daily special.",
+          "text": "— I am going to buy within my budget.",
           "segments": [
             {
-              "text": "— I would like to try the daily special.",
+              "text": "— I am going to buy within my budget.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— aɪ wʊd lˈaɪk tə tɹˈaɪ ðə dˈeɪli spˈɛʃəl."
+          "phonemes": "— aɪɐm ɡˌoʊɪŋ tə bˈaɪ wɪðˌɪn maɪ bˈʌdʒɪt."
         },
         {
-          "text": "¿Cuánto cuesta un kilo de tomates?",
+          "text": "Pido una comida en el restaurante.",
           "segments": [
             {
-              "text": "¿Cuánto cuesta un kilo de tomates?",
+              "text": "Pido una comida en el restaurante.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "kwˈanto kwˈesta ˈuŋ kˈilo ðe tomˈates?"
+          "phonemes": "pˈiðo ˈuna komˈiða en el rˌestaʊɾˈante."
         },
         {
-          "text": "— How much does a kilogram of tomatoes cost?",
+          "text": "— I order a meal at the restaurant.",
           "segments": [
             {
-              "text": "— How much does a kilogram of tomatoes cost?",
+              "text": "— I order a meal at the restaurant.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— hˌaʊ mˈʌtʃ dˈʌz ɐ kˈɪləɡɹˌæm ʌv təmˈeɪɾoʊz kˈɔst?"
+          "phonemes": "— aɪ ˈɔːɹdɚɹ ɐ mˈiːl æt ðə ɹˈɛstɹɑːnt."
         },
         {
-          "text": "Para mí, una sopa sin carne.",
+          "text": "Recibo un plato equivocado.",
           "segments": [
             {
-              "text": "Para mí, una sopa sin carne.",
+              "text": "Recibo un plato equivocado.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "pˌaɾa mˈi, ˈuna sˈopa sin kˈaɾne."
+          "phonemes": "resˈiβo ˈum plˈato ˌekiβokˈaðo."
         },
         {
-          "text": "— For me, a soup without meat.",
+          "text": "— I receive the wrong dish.",
           "segments": [
             {
-              "text": "— For me, a soup without meat.",
+              "text": "— I receive the wrong dish.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— fɔːɹ mˌiː, ɐ sˈuːp wɪðˌaʊt mˈiːt."
+          "phonemes": "— aɪ ɹᵻsˈiːv ðə ɹˈɔŋ dˈɪʃ."
         },
         {
-          "text": "El camarero nos trae la cuenta.",
+          "text": "Resuelvo el error con cortesía.",
           "segments": [
             {
-              "text": "El camarero nos trae la cuenta.",
+              "text": "Resuelvo el error con cortesía.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el kˌamaɾˈeɾo nos tɾˈae la kwˈɛnta."
+          "phonemes": "reswˈelβo el erˈoɾ kon kˌoɾtesˈia."
         },
         {
-          "text": "— The waiter brings us the bill.",
+          "text": "— I resolve the mistake politely.",
           "segments": [
             {
-              "text": "— The waiter brings us the bill.",
+              "text": "— I resolve the mistake politely.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ðə wˈeɪɾɚ bɹˈɪŋz ˌʌs ðə bˈɪl."
+          "phonemes": "— aɪ ɹᵻzˈɑːlv ðə mɪstˈeɪk pəlˈaɪtli."
         },
         {
-          "text": "Disculpe, pedí agua y no refresco.",
+          "text": "Pido que corrijan mi pedido.",
           "segments": [
             {
-              "text": "Disculpe, pedí agua y no refresco.",
+              "text": "Pido que corrijan mi pedido.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "diskˈulpe, peðˈi ˈaɣwa i nˈo refɾˈesko."
+          "phonemes": "pˈiðo ke korˈixan mi peðˈiðo."
         },
         {
-          "text": "— Excuse me, I ordered water, not soda.",
+          "text": "— I ask them to correct my order.",
           "segments": [
             {
-              "text": "— Excuse me, I ordered water, not soda.",
-              "lang": "es-419"
+              "text": "— I ask them to correct my order.",
+              "lang": "en-us"
             }
           ],
-          "phonemes": "— ekskˈuse mˈe, ˈi ˌoɾðeɾˈed watˈeɾ, nˈot sˈoða."
+          "phonemes": "— aɪ ˈæsk ðˌɛm tə kɚɹˈɛkt maɪ ˈɔːɹdɚ."
         }
       ]
     },
@@ -305,129 +305,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "el mercado",
+      "text": "el presupuesto",
       "sentences": [
         {
-          "text": "el mercado",
+          "text": "el presupuesto",
           "segments": [
             {
-              "text": "el mercado",
+              "text": "el presupuesto",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el meɾkˈaðo"
+          "phonemes": "el pɾˌesupwˈesto"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "la cuenta",
+      "text": "comprar",
       "sentences": [
         {
-          "text": "la cuenta",
+          "text": "comprar",
           "segments": [
             {
-              "text": "la cuenta",
+              "text": "comprar",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la kwˈɛnta"
+          "phonemes": "kompɾˈaɾ"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "el plato",
+      "text": "ordenar",
       "sentences": [
         {
-          "text": "el plato",
+          "text": "ordenar",
           "segments": [
             {
-              "text": "el plato",
+              "text": "ordenar",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el plˈato"
+          "phonemes": "ˌoɾðenˈaɾ"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "la bebida",
+      "text": "resolver",
       "sentences": [
         {
-          "text": "la bebida",
+          "text": "resolver",
           "segments": [
             {
-              "text": "la bebida",
+              "text": "resolver",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la βeβˈiða"
+          "phonemes": "rˌesolβˈeɾ"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "un kilo",
+      "text": "el error",
       "sentences": [
         {
-          "text": "un kilo",
+          "text": "el error",
           "segments": [
             {
-              "text": "un kilo",
+              "text": "el error",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˈuŋ kˈilo"
+          "phonemes": "el erˈoɾ"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "sin",
+      "text": "cortés",
       "sentences": [
         {
-          "text": "sin",
+          "text": "cortés",
           "segments": [
             {
-              "text": "sin",
+              "text": "cortés",
               "lang": "es-419"
             }
           ],
-          "phonemes": "sˈin"
+          "phonemes": "koɾtˈes"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "quisiera",
+      "text": "devolver",
       "sentences": [
         {
-          "text": "quisiera",
+          "text": "devolver",
           "segments": [
             {
-              "text": "quisiera",
+              "text": "devolver",
               "lang": "es-419"
             }
           ],
-          "phonemes": "kisjˈeɾa"
+          "phonemes": "dˌeβolβˈeɾ"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "probar",
+      "text": "corregir",
       "sentences": [
         {
-          "text": "probar",
+          "text": "corregir",
           "segments": [
             {
-              "text": "probar",
+              "text": "corregir",
               "lang": "es-419"
             }
           ],
-          "phonemes": "pɾoβˈaɾ"
+          "phonemes": "kˌorexˈiɾ"
         }
       ]
     }

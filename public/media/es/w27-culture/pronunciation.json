@@ -163,7 +163,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Model language. Recomiendo que revise los datos. — I recommend that you review the data. Es necesario que participen los vecinos. — It is necessary for the residents to participate. Me alegra que estés aquí. — I am glad you are here. El director pide que lleguemos temprano. — The director asks us to arrive early. Ojalá encuentren una solución justa. — I hope they find a fair solution.",
+      "text": "Model language. Un buen consejo no siempre es una norma institucional. — Good advice isn't always an institutional norm. La reacción emocional varía según la persona. — Emotional reaction varies by person. No toda autoridad tiene el mismo peso. — Not every authority carries the same weight. Algunos consejos son privados; otros son públicos. — Some advice is private; other advice is public. El contexto formal cambia el tono del consejo. — A formal context changes the tone of the advice.",
       "sentences": [
         {
           "text": "Model language.",
@@ -176,104 +176,112 @@
           "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
         },
         {
-          "text": "Recomiendo que revise los datos.",
+          "text": "Un buen consejo no siempre es una norma institucional.",
           "segments": [
             {
-              "text": "Recomiendo que revise los datos.",
+              "text": "Un buen consejo no siempre es una norma institucional.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "rˌekomjˈɛndo ke reβˈise los ðˈatos."
+          "phonemes": "ˈum bwˈen konsˈexo nˈo sjˈempɾe ˈes ˈuna nˈoɾma ˌinstitˌusjonˈal."
         },
         {
-          "text": "— I recommend that you review the data.",
+          "text": "— Good advice isn't always an institutional norm.",
           "segments": [
             {
-              "text": "— I recommend that you review the data.",
+              "text": "— Good advice isn't always an institutional norm.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— aɪ ɹˌɛkəmˈɛnd ðæt juː ɹᵻvjˈuː ðə dˈeɪɾə."
+          "phonemes": "— ɡˈʊd ɐdvˈaɪs ˌɪzənt ˈɔːlweɪz ɐn ˌɪnstɪtˈuːʃənəl nˈɔːɹm."
         },
         {
-          "text": "Es necesario que participen los vecinos.",
+          "text": "La reacción emocional varía según la persona.",
           "segments": [
             {
-              "text": "Es necesario que participen los vecinos.",
+              "text": "La reacción emocional varía según la persona.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˈes nˌesesˈaɾjo ke pˌaɾtisˈipen los βesˈinos."
+          "phonemes": "la rˌeaksjˈon ˌemosjonˈal βaɾˈia seɣˈun la peɾsˈona."
         },
         {
-          "text": "— It is necessary for the residents to participate.",
+          "text": "— Emotional reaction varies by person.",
           "segments": [
             {
-              "text": "— It is necessary for the residents to participate.",
+              "text": "— Emotional reaction varies by person.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ɪɾ ɪz nˈɛsᵻsɚɹi fɚðə ɹˈɛzᵻdənts tə pɑːɹtˈɪsᵻpˌeɪt."
+          "phonemes": "— ɪmˈoʊʃənəl ɹɪˈækʃən vˈɛɹiz baɪ pˈɜːsən."
         },
         {
-          "text": "Me alegra que estés aquí.",
+          "text": "No toda autoridad tiene el mismo peso.",
           "segments": [
             {
-              "text": "Me alegra que estés aquí.",
+              "text": "No toda autoridad tiene el mismo peso.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "me alˈeɣɾa ke estˈes akˈi."
+          "phonemes": "nˈo tˈoða ˌaʊtoɾiðˈad tjˈene el mˈismo pˈeso."
         },
         {
-          "text": "— I am glad you are here.",
+          "text": "— Not every authority carries the same weight.",
           "segments": [
             {
-              "text": "— I am glad you are here.",
+              "text": "— Not every authority carries the same weight.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— aɪɐm ɡlˈæd juː ɑːɹ hˈɪɹ."
+          "phonemes": "— nˌɑːt ˈɛvɹi ɐθˈɔːɹɪɾi kˈæɹiz ðə sˈeɪm wˈeɪt."
         },
         {
-          "text": "El director pide que lleguemos temprano.",
+          "text": "Algunos consejos son privados; otros son públicos.",
           "segments": [
             {
-              "text": "El director pide que lleguemos temprano.",
+              "text": "Algunos consejos son privados; otros son públicos.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el ðˌiɾektˈoɾ pˈiðe ke ʝeɣˈemos tempɾˈano."
+          "phonemes": "alɣˈunos konsˈexos sˈom pɾiβˈaðos; ˈotɾos sˈom pˈuβlikos."
         },
         {
-          "text": "— The director asks us to arrive early.",
+          "text": "— Some advice is private; other advice is public.",
           "segments": [
             {
-              "text": "— The director asks us to arrive early.",
+              "text": "— Some advice is private; other advice is public.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ðə dᵻɹˈɛktɚɹ ˈæsks ˌʌs tʊ ɚɹˈaɪv ˈɜːli."
+          "phonemes": "— sˌʌm ɐdvˈaɪs ɪz pɹˈaɪvət; ˈʌðɚɹ ɐdvˈaɪs ɪz pˈʌblɪk."
         },
         {
-          "text": "Ojalá encuentren una solución justa.",
+          "text": "El contexto formal cambia el tono del consejo.",
           "segments": [
             {
-              "text": "Ojalá encuentren una solución justa.",
+              "text": "El contexto formal cambia el tono del consejo.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˌoxalˈa enkwˈɛntɾen ˈuna sˌolusjˈon xˈusta."
+          "phonemes": "el kontˈeksto foɾmˈal kˈambja el tˈono ðel konsˈexo."
         },
         {
-          "text": "— I hope they find a fair solution.",
+          "text": "— A formal context changes the tone of the advice.",
           "segments": [
             {
-              "text": "— I hope they find a fair solution.",
+              "text": "— A ",
+              "lang": "en-us"
+            },
+            {
+              "text": "formal",
+              "lang": "es-419"
+            },
+            {
+              "text": " context changes the tone of the advice.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— aɪ hˈoʊp ðeɪ fˈaɪnd ɐ fˈɛɹ səlˈuːʃən."
+          "phonemes": "— ˈeɪ foɾmˈal kˈɑːntɛkst tʃˈeɪndʒᵻz ðə tˈoʊn ʌvðɪ ɐdvˈaɪs."
         }
       ]
     },
@@ -325,129 +333,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "recomendar",
+      "text": "el consejo",
       "sentences": [
         {
-          "text": "recomendar",
+          "text": "el consejo",
           "segments": [
             {
-              "text": "recomendar",
+              "text": "el consejo",
               "lang": "es-419"
             }
           ],
-          "phonemes": "rˌekomendˈaɾ"
+          "phonemes": "el konsˈexo"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "pedir",
+      "text": "la norma institucional",
       "sentences": [
         {
-          "text": "pedir",
+          "text": "la norma institucional",
           "segments": [
             {
-              "text": "pedir",
+              "text": "la norma institucional",
               "lang": "es-419"
             }
           ],
-          "phonemes": "peðˈiɾ"
+          "phonemes": "la nˈoɾma ˌinstitˌusjonˈal"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "exigir",
+      "text": "la reacción emocional",
       "sentences": [
         {
-          "text": "exigir",
+          "text": "la reacción emocional",
           "segments": [
             {
-              "text": "exigir",
+              "text": "la reacción emocional",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˌeksixˈiɾ"
+          "phonemes": "la rˌeaksjˈon ˌemosjonˈal"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "esperar",
+      "text": "la autoridad",
       "sentences": [
         {
-          "text": "esperar",
+          "text": "la autoridad",
           "segments": [
             {
-              "text": "esperar",
+              "text": "la autoridad",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˌespeɾˈaɾ"
+          "phonemes": "la ˌaʊtoɾiðˈad"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "alegrarse",
+      "text": "privado",
       "sentences": [
         {
-          "text": "alegrarse",
+          "text": "privado",
           "segments": [
             {
-              "text": "alegrarse",
+              "text": "privado",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˌaleɣɾˈaɾse"
+          "phonemes": "pɾiβˈaðo"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "lamentar",
+      "text": "público",
       "sentences": [
         {
-          "text": "lamentar",
+          "text": "público",
           "segments": [
             {
-              "text": "lamentar",
+              "text": "público",
               "lang": "es-419"
             }
           ],
-          "phonemes": "lˌamentˈaɾ"
+          "phonemes": "pˈuβliko"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "es necesario",
+      "text": "formal",
       "sentences": [
         {
-          "text": "es necesario",
+          "text": "formal",
           "segments": [
             {
-              "text": "es necesario",
+              "text": "formal",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˈes nˌesesˈaɾjo"
+          "phonemes": "foɾmˈal"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "ojalá",
+      "text": "el contexto",
       "sentences": [
         {
-          "text": "ojalá",
+          "text": "el contexto",
           "segments": [
             {
-              "text": "ojalá",
+              "text": "el contexto",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˌoxalˈa"
+          "phonemes": "el kontˈeksto"
         }
       ]
     }

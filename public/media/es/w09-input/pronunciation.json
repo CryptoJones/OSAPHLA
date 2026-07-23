@@ -163,7 +163,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Model language. Me levanto a las seis y media. — I get up at six thirty. Después de vestirme, preparo el desayuno. — After getting dressed, I prepare breakfast. Ahora estoy esperando el tren. — I am waiting for the train now. Los niños se acuestan temprano. — The children go to bed early. ¿A qué hora te despiertas? — What time do you wake up?",
+      "text": "Model language. Normalmente Julia se despierta temprano. — Julia normally wakes up early. Hoy su alarma no funciona. — Today her alarm isn't working. Ahora se viste rápidamente. — Now she is getting dressed quickly. Su pareja prepara café. — Her partner prepares coffee. Su pareja llama a un taxi. — Her partner calls a taxi.",
       "sentences": [
         {
           "text": "Model language.",
@@ -176,104 +176,104 @@
           "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
         },
         {
-          "text": "Me levanto a las seis y media.",
+          "text": "Normalmente Julia se despierta temprano.",
           "segments": [
             {
-              "text": "Me levanto a las seis y media.",
+              "text": "Normalmente Julia se despierta temprano.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "me leβˈanto a las sˈeɪs i mˈeðja."
+          "phonemes": "noɾmˈalmˈente xˈulja se ðespjˈeɾta tempɾˈano."
         },
         {
-          "text": "— I get up at six thirty.",
+          "text": "— Julia normally wakes up early.",
           "segments": [
             {
-              "text": "— I get up at six thirty.",
+              "text": "— Julia normally wakes up early.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— aɪ ɡɛt ˌʌp æt sˈɪks θˈɜːɾi."
+          "phonemes": "— dʒˈuːliə nˈɔːɹməli wˈeɪks ˌʌp ˈɜːli."
         },
         {
-          "text": "Después de vestirme, preparo el desayuno.",
+          "text": "Hoy su alarma no funciona.",
           "segments": [
             {
-              "text": "Después de vestirme, preparo el desayuno.",
+              "text": "Hoy su alarma no funciona.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "despwˈes ðe βestˈiɾme, pɾepˈaɾo el ðˌesaʝˈuno."
+          "phonemes": "ˈoɪ su alˈaɾma nˈo funsjˈona."
         },
         {
-          "text": "— After getting dressed, I prepare breakfast.",
+          "text": "— Today her alarm isn't working.",
           "segments": [
             {
-              "text": "— After getting dressed, I prepare breakfast.",
+              "text": "— Today her alarm isn't working.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ˈæftɚ ɡˌɛɾɪŋ dɹˈɛst, aɪ pɹɪpˈɛɹ bɹˈɛkfəst."
+          "phonemes": "— tədˈeɪ hɜːɹ ɐlˈɑːɹm ˌɪzənt wˈɜːkɪŋ."
         },
         {
-          "text": "Ahora estoy esperando el tren.",
+          "text": "Ahora se viste rápidamente.",
           "segments": [
             {
-              "text": "Ahora estoy esperando el tren.",
+              "text": "Ahora se viste rápidamente.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "aˈoɾa estˈoɪ ˌespeɾˈando el tɾˈen."
+          "phonemes": "aˈoɾa se βˈiste rˈapiðamˈente."
         },
         {
-          "text": "— I am waiting for the train now.",
+          "text": "— Now she is getting dressed quickly.",
           "segments": [
             {
-              "text": "— I am waiting for the train now.",
+              "text": "— Now she is getting dressed quickly.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— aɪɐm wˈeɪɾɪŋ fɚðə tɹˈeɪn nˈaʊ."
+          "phonemes": "— nˈaʊ ʃiː ɪz ɡˌɛɾɪŋ dɹˈɛst kwˈɪkli."
         },
         {
-          "text": "Los niños se acuestan temprano.",
+          "text": "Su pareja prepara café.",
           "segments": [
             {
-              "text": "Los niños se acuestan temprano.",
+              "text": "Su pareja prepara café.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "los nˈiɲos se akwˈestan tempɾˈano."
+          "phonemes": "su paɾˈexa pɾepˈaɾa kafˈe."
         },
         {
-          "text": "— The children go to bed early.",
+          "text": "— Her partner prepares coffee.",
           "segments": [
             {
-              "text": "— The children go to bed early.",
+              "text": "— Her partner prepares coffee.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ðə tʃˈɪldɹən ɡˌoʊ tə bˈɛd ˈɜːli."
+          "phonemes": "— hɜː pˈɑːɹtnɚ pɹɪpˈɛɹz kˈɔfi."
         },
         {
-          "text": "¿A qué hora te despiertas?",
+          "text": "Su pareja llama a un taxi.",
           "segments": [
             {
-              "text": "¿A qué hora te despiertas?",
+              "text": "Su pareja llama a un taxi.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "a kˈe ˈoɾa te ðespjˈeɾtas?"
+          "phonemes": "su paɾˈexa ʝˈama a ˈun tˈaksi."
         },
         {
-          "text": "— What time do you wake up?",
+          "text": "— Her partner calls a taxi.",
           "segments": [
             {
-              "text": "— What time do you wake up?",
+              "text": "— Her partner calls a taxi.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— wˌʌt tˈaɪm dˈuː juː wˈeɪk ˈʌp?"
+          "phonemes": "— hɜː pˈɑːɹtnɚ kˈɔːlz ɐ tˈæksi."
         }
       ]
     },
@@ -325,129 +325,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "despertarse",
+      "text": "normalmente",
       "sentences": [
         {
-          "text": "despertarse",
+          "text": "normalmente",
           "segments": [
             {
-              "text": "despertarse",
+              "text": "normalmente",
               "lang": "es-419"
             }
           ],
-          "phonemes": "dˌespeɾtˈaɾse"
+          "phonemes": "noɾmˈalmˈente"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "levantarse",
+      "text": "hoy",
       "sentences": [
         {
-          "text": "levantarse",
+          "text": "hoy",
           "segments": [
             {
-              "text": "levantarse",
+              "text": "hoy",
               "lang": "es-419"
             }
           ],
-          "phonemes": "lˌeβantˈaɾse"
+          "phonemes": "ˈoɪ"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "ducharse",
+      "text": "la alarma",
       "sentences": [
         {
-          "text": "ducharse",
+          "text": "la alarma",
           "segments": [
             {
-              "text": "ducharse",
+              "text": "la alarma",
               "lang": "es-419"
             }
           ],
-          "phonemes": "dutʃˈaɾse"
+          "phonemes": "la alˈaɾma"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "vestirse",
+      "text": "funcionar",
       "sentences": [
         {
-          "text": "vestirse",
+          "text": "funcionar",
           "segments": [
             {
-              "text": "vestirse",
+              "text": "funcionar",
               "lang": "es-419"
             }
           ],
-          "phonemes": "bestˈiɾse"
+          "phonemes": "fˌunsjonˈaɾ"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "acostarse",
+      "text": "rápidamente",
       "sentences": [
         {
-          "text": "acostarse",
+          "text": "rápidamente",
           "segments": [
             {
-              "text": "acostarse",
+              "text": "rápidamente",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˌakostˈaɾse"
+          "phonemes": "rˈapiðamˈente"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "temprano",
+      "text": "la pareja",
       "sentences": [
         {
-          "text": "temprano",
+          "text": "la pareja",
           "segments": [
             {
-              "text": "temprano",
+              "text": "la pareja",
               "lang": "es-419"
             }
           ],
-          "phonemes": "tempɾˈano"
+          "phonemes": "la paɾˈexa"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "tarde",
+      "text": "preparar",
       "sentences": [
         {
-          "text": "tarde",
+          "text": "preparar",
           "segments": [
             {
-              "text": "tarde",
+              "text": "preparar",
               "lang": "es-419"
             }
           ],
-          "phonemes": "tˈaɾðe"
+          "phonemes": "pɾˌepaɾˈaɾ"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "ahora",
+      "text": "llamar",
       "sentences": [
         {
-          "text": "ahora",
+          "text": "llamar",
           "segments": [
             {
-              "text": "ahora",
+              "text": "llamar",
               "lang": "es-419"
             }
           ],
-          "phonemes": "aˈoɾa"
+          "phonemes": "ʝamˈaɾ"
         }
       ]
     }

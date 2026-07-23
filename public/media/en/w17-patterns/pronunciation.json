@@ -29,7 +29,7 @@
     },
     {
       "file": "01.wav",
-      "text": "Forma y significado. Pasado regular; terminaciones -ed; marcadores temporales; preguntas y negación con did.",
+      "text": "Forma y significado. Aplicación de la forma. Añade -ed a los verbos regulares (worked, called); usa did/didn't para preguntas y negaciones, y el verbo vuelve a su forma base.",
       "sentences": [
         {
           "text": "Forma y significado.",
@@ -42,10 +42,20 @@
           "phonemes": "fˈoɾma i sˌiɡnifikˈaðo."
         },
         {
-          "text": "Pasado regular; terminaciones -ed; marcadores temporales; preguntas y negación con did.",
+          "text": "Aplicación de la forma.",
           "segments": [
             {
-              "text": "Pasado regular; terminaciones ",
+              "text": "Aplicación de la forma.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˌaplikasjˈon de la fˈoɾma."
+        },
+        {
+          "text": "Añade -ed a los verbos regulares (worked, called); usa did/didn't para preguntas y negaciones, y el verbo vuelve a su forma base.",
+          "segments": [
+            {
+              "text": "Añade ",
               "lang": "es-419"
             },
             {
@@ -53,7 +63,7 @@
               "lang": "en-us"
             },
             {
-              "text": "; marcadores temporales; preguntas y negación con ",
+              "text": " a los verbos regulares (worked, called); usa ",
               "lang": "es-419"
             },
             {
@@ -61,17 +71,25 @@
               "lang": "en-us"
             },
             {
-              "text": ".",
+              "text": "/",
+              "lang": "es-419"
+            },
+            {
+              "text": "didn't",
+              "lang": "en-us"
+            },
+            {
+              "text": " para preguntas y negaciones, y el verbo vuelve a su forma base.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "pasˈaðo rˌeɣulˈaɾ; tˌeɾminasjˈones ˈɛd ; mˌaɾkaðˈoɾes tˌempoɾˈales; pɾeɣˈuntas i nˌeɣasjˈon kˈon dˈɪd ."
+          "phonemes": "aɲˈaðe ˈɛd a los βˈeɾβos rˌeɣulˈaɾes (woɾkˈed, kajjˈed); ˈusa dˈɪd bˈara dˈɪdnt pˌaɾa pɾeɣˈuntas i nˌeɣasjˈones, i el βˈeɾβo βwˈelβe a su fˈoɾma βˈase."
         }
       ]
     },
     {
       "file": "02.wav",
-      "text": "Conjunto de modelos. I arrived at the office early yesterday. First, we reviewed the report. Then they called the supervisor. What happened afterward? The meeting ended at six. Ayer llegué temprano a la oficina. Primero revisamos el informe. Después llamaron a la supervisora. ¿Qué ocurrió luego? La reunión terminó a las seis.",
+      "text": "Conjunto de modelos. I worked late yesterday. I called my supervisor. I finished the report. Did you call the office? I didn't finish on time. Trabajé hasta tarde ayer. Llamé a mi supervisora. Terminé el informe. ¿Llamaste a la oficina? No terminé a tiempo.",
       "sentences": [
         {
           "text": "Conjunto de modelos.",
@@ -84,104 +102,104 @@
           "phonemes": "koŋxˈunto ðe moðˈelos."
         },
         {
-          "text": "I arrived at the office early yesterday.",
+          "text": "I worked late yesterday.",
           "segments": [
             {
-              "text": "I arrived at the office early yesterday.",
+              "text": "I worked late yesterday.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪ ɚɹˈaɪvd æt ðɪ ˈɑːfɪs ˈɜːli jˈɛstɚdˌeɪ."
+          "phonemes": "aɪ wˈɜːkt lˈeɪt jˈɛstɚdˌeɪ."
         },
         {
-          "text": "First, we reviewed the report.",
+          "text": "I called my supervisor.",
           "segments": [
             {
-              "text": "First, we reviewed the report.",
+              "text": "I called my supervisor.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "fˈɜːst, wiː ɹᵻvjˈuːd ðə ɹᵻpˈɔːɹt."
+          "phonemes": "aɪ kˈɔːld maɪ sˈuːpɚvˌaɪzɚ."
         },
         {
-          "text": "Then they called the supervisor.",
+          "text": "I finished the report.",
           "segments": [
             {
-              "text": "Then they called the supervisor.",
+              "text": "I finished the report.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðˈɛn ðeɪ kˈɔːld ðə sˈuːpɚvˌaɪzɚ."
+          "phonemes": "aɪ fˈɪnɪʃt ðə ɹᵻpˈɔːɹt."
         },
         {
-          "text": "What happened afterward?",
+          "text": "Did you call the office?",
           "segments": [
             {
-              "text": "What happened afterward?",
+              "text": "Did you call the office?",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wˌʌt hˈæpənd ˈæftɚwɚd?"
+          "phonemes": "dˈɪd juː kˈɔːl ðɪ ˈɑːfɪs?"
         },
         {
-          "text": "The meeting ended at six.",
+          "text": "I didn't finish on time.",
           "segments": [
             {
-              "text": "The meeting ended at six.",
+              "text": "I didn't finish on time.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə mˈiːɾɪŋ ˈɛndᵻd æt sˈɪks."
+          "phonemes": "aɪ dˈɪdnt fˈɪnɪʃ ˌɔn tˈaɪm."
         },
         {
-          "text": "Ayer llegué temprano a la oficina.",
+          "text": "Trabajé hasta tarde ayer.",
           "segments": [
             {
-              "text": "Ayer llegué temprano a la oficina.",
+              "text": "Trabajé hasta tarde ayer.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "aʝˈeɾ ʝeɣˈe tempɾˈano a la ˌofisˈina."
+          "phonemes": "tɾˌaβaxˈe ˌasta tˈaɾðe aʝˈeɾ."
         },
         {
-          "text": "Primero revisamos el informe.",
+          "text": "Llamé a mi supervisora.",
           "segments": [
             {
-              "text": "Primero revisamos el informe.",
+              "text": "Llamé a mi supervisora.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "pɾimˈeɾo rˌeβisˈamos el infˈoɾme."
+          "phonemes": "ʝamˈe a mi sˌupeɾβisˈoɾa."
         },
         {
-          "text": "Después llamaron a la supervisora.",
+          "text": "Terminé el informe.",
           "segments": [
             {
-              "text": "Después llamaron a la supervisora.",
+              "text": "Terminé el informe.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "despwˈes ʝamˈaɾon a la sˌupeɾβisˈoɾa."
+          "phonemes": "tˌeɾminˈe el infˈoɾme."
         },
         {
-          "text": "¿Qué ocurrió luego?",
+          "text": "¿Llamaste a la oficina?",
           "segments": [
             {
-              "text": "¿Qué ocurrió luego?",
+              "text": "¿Llamaste a la oficina?",
               "lang": "es-419"
             }
           ],
-          "phonemes": "kˈe ˌokuriˈo luˈeɣo?"
+          "phonemes": "ʝamˈaste a la ˌofisˈina?"
         },
         {
-          "text": "La reunión terminó a las seis.",
+          "text": "No terminé a tiempo.",
           "segments": [
             {
-              "text": "La reunión terminó a las seis.",
+              "text": "No terminé a tiempo.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la reʊnjˈon tˌeɾminˈo a las sˈeɪs."
+          "phonemes": "nˈo tˌeɾminˈe a tjˈempo."
         }
       ]
     },
@@ -249,7 +267,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Lenguaje modelo. I arrived at the office early yesterday. — Ayer llegué temprano a la oficina. First, we reviewed the report. — Primero revisamos el informe. Then they called the supervisor. — Después llamaron a la supervisora. What happened afterward? — ¿Qué ocurrió luego? The meeting ended at six. — La reunión terminó a las seis.",
+      "text": "Lenguaje modelo. I worked late yesterday. — Trabajé hasta tarde ayer. I called my supervisor. — Llamé a mi supervisora. I finished the report. — Terminé el informe. Did you call the office? — ¿Llamaste a la oficina? I didn't finish on time. — No terminé a tiempo.",
       "sentences": [
         {
           "text": "Lenguaje modelo.",
@@ -262,104 +280,104 @@
           "phonemes": "leŋɡwˈaxe moðˈelo."
         },
         {
-          "text": "I arrived at the office early yesterday.",
+          "text": "I worked late yesterday.",
           "segments": [
             {
-              "text": "I arrived at the office early yesterday.",
+              "text": "I worked late yesterday.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪ ɚɹˈaɪvd æt ðɪ ˈɑːfɪs ˈɜːli jˈɛstɚdˌeɪ."
+          "phonemes": "aɪ wˈɜːkt lˈeɪt jˈɛstɚdˌeɪ."
         },
         {
-          "text": "— Ayer llegué temprano a la oficina.",
+          "text": "— Trabajé hasta tarde ayer.",
           "segments": [
             {
-              "text": "— Ayer llegué temprano a la oficina.",
+              "text": "— Trabajé hasta tarde ayer.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— aʝˈeɾ ʝeɣˈe tempɾˈano a la ˌofisˈina."
+          "phonemes": "— tɾˌaβaxˈe ˌasta tˈaɾðe aʝˈeɾ."
         },
         {
-          "text": "First, we reviewed the report.",
+          "text": "I called my supervisor.",
           "segments": [
             {
-              "text": "First, we reviewed the report.",
+              "text": "I called my supervisor.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "fˈɜːst, wiː ɹᵻvjˈuːd ðə ɹᵻpˈɔːɹt."
+          "phonemes": "aɪ kˈɔːld maɪ sˈuːpɚvˌaɪzɚ."
         },
         {
-          "text": "— Primero revisamos el informe.",
+          "text": "— Llamé a mi supervisora.",
           "segments": [
             {
-              "text": "— Primero revisamos el informe.",
+              "text": "— Llamé a mi supervisora.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— pɾimˈeɾo rˌeβisˈamos el infˈoɾme."
+          "phonemes": "— ʝamˈe a mi sˌupeɾβisˈoɾa."
         },
         {
-          "text": "Then they called the supervisor.",
+          "text": "I finished the report.",
           "segments": [
             {
-              "text": "Then they called the supervisor.",
+              "text": "I finished the report.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðˈɛn ðeɪ kˈɔːld ðə sˈuːpɚvˌaɪzɚ."
+          "phonemes": "aɪ fˈɪnɪʃt ðə ɹᵻpˈɔːɹt."
         },
         {
-          "text": "— Después llamaron a la supervisora.",
+          "text": "— Terminé el informe.",
           "segments": [
             {
-              "text": "— Después llamaron a la supervisora.",
+              "text": "— Terminé el informe.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— despwˈes ʝamˈaɾon a la sˌupeɾβisˈoɾa."
+          "phonemes": "— tˌeɾminˈe el infˈoɾme."
         },
         {
-          "text": "What happened afterward?",
+          "text": "Did you call the office?",
           "segments": [
             {
-              "text": "What happened afterward?",
+              "text": "Did you call the office?",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wˌʌt hˈæpənd ˈæftɚwɚd?"
+          "phonemes": "dˈɪd juː kˈɔːl ðɪ ˈɑːfɪs?"
         },
         {
-          "text": "— ¿Qué ocurrió luego?",
+          "text": "— ¿Llamaste a la oficina?",
           "segments": [
             {
-              "text": "— ¿Qué ocurrió luego?",
+              "text": "— ¿Llamaste a la oficina?",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— kˈe ˌokuriˈo luˈeɣo?"
+          "phonemes": "— ʝamˈaste a la ˌofisˈina?"
         },
         {
-          "text": "The meeting ended at six.",
+          "text": "I didn't finish on time.",
           "segments": [
             {
-              "text": "The meeting ended at six.",
+              "text": "I didn't finish on time.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə mˈiːɾɪŋ ˈɛndᵻd æt sˈɪks."
+          "phonemes": "aɪ dˈɪdnt fˈɪnɪʃ ˌɔn tˈaɪm."
         },
         {
-          "text": "— La reunión terminó a las seis.",
+          "text": "— No terminé a tiempo.",
           "segments": [
             {
-              "text": "— La reunión terminó a las seis.",
+              "text": "— No terminé a tiempo.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— la reʊnjˈon tˌeɾminˈo a las sˈeɪs."
+          "phonemes": "— nˈo tˌeɾminˈe a tjˈempo."
         }
       ]
     },
@@ -411,129 +429,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "yesterday",
+      "text": "I worked",
       "sentences": [
         {
-          "text": "yesterday",
+          "text": "I worked",
           "segments": [
             {
-              "text": "yesterday",
+              "text": "I worked",
               "lang": "en-us"
             }
           ],
-          "phonemes": "jˈɛstɚdˌeɪ"
+          "phonemes": "aɪ wˈɜːkt"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "to arrive",
+      "text": "I called",
       "sentences": [
         {
-          "text": "to arrive",
+          "text": "I called",
           "segments": [
             {
-              "text": "to arrive",
+              "text": "I called",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tʊ ɚɹˈaɪv"
+          "phonemes": "aɪ kˈɔːld"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "to review",
+      "text": "I finished",
       "sentences": [
         {
-          "text": "to review",
+          "text": "I finished",
           "segments": [
             {
-              "text": "to review",
+              "text": "I finished",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə ɹᵻvjˈuː"
+          "phonemes": "aɪ fˈɪnɪʃt"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "to call",
+      "text": "did (question aux.)",
       "sentences": [
         {
-          "text": "to call",
+          "text": "did (question aux.)",
           "segments": [
             {
-              "text": "to call",
+              "text": "did (question aux.)",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə kˈɔːl"
+          "phonemes": "dˈɪd (kwˈɛstʃən ˈɔːks.)"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "to finish",
+      "text": "didn't",
       "sentences": [
         {
-          "text": "to finish",
+          "text": "didn't",
           "segments": [
             {
-              "text": "to finish",
+              "text": "didn't",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə fˈɪnɪʃ"
+          "phonemes": "dˈɪdnt"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "first",
+      "text": "a spelling change",
       "sentences": [
         {
-          "text": "first",
+          "text": "a spelling change",
           "segments": [
             {
-              "text": "first",
+              "text": "a spelling change",
               "lang": "en-us"
             }
           ],
-          "phonemes": "fˈɜːst"
+          "phonemes": "ɐ spˈɛlɪŋ tʃˈeɪndʒ"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "then",
+      "text": "stopped",
       "sentences": [
         {
-          "text": "then",
+          "text": "stopped",
           "segments": [
             {
-              "text": "then",
+              "text": "stopped",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðˈɛn"
+          "phonemes": "stˈɑːpt"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "afterward",
+      "text": "studied",
       "sentences": [
         {
-          "text": "afterward",
+          "text": "studied",
           "segments": [
             {
-              "text": "afterward",
+              "text": "studied",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ˈæftɚwɚd"
+          "phonemes": "stˈʌdid"
         }
       ]
     }

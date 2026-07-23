@@ -163,7 +163,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Lenguaje modelo. I deleted the file by accident. — Borré el archivo por accidente. Please turn it off. — Apágalo, por favor. They helped each other. — Se ayudaron mutuamente. Explain it to her before the meeting. — Explícaselo antes de la reunión. We recovered the copy ourselves. — Recuperamos la copia nosotros mismos.",
+      "text": "Lenguaje modelo. The linguistic approach can soften responsibility. — El enfoque lingüístico puede atenuar la responsabilidad. Some constructions emphasize who acted. — Algunas construcciones enfatizan quién actuó. Others hide the doer completely. — Otras ocultan al actor por completo. The nuance changes the meaning. — El matiz cambia el significado. An indirect approach sounds less accusatory. — Un enfoque indirecto suena menos acusatorio.",
       "sentences": [
         {
           "text": "Lenguaje modelo.",
@@ -176,104 +176,104 @@
           "phonemes": "leŋɡwˈaxe moðˈelo."
         },
         {
-          "text": "I deleted the file by accident.",
+          "text": "The linguistic approach can soften responsibility.",
           "segments": [
             {
-              "text": "I deleted the file by accident.",
+              "text": "The linguistic approach can soften responsibility.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪ dᵻlˈiːɾᵻd ðə fˈaɪl baɪ ˈæksɪdənt."
+          "phonemes": "ðə lɪŋɡwˈɪstɪk ɐpɹˈoʊtʃ kæn sˈɔfən ɹᵻspˌɑːnsəbˈɪlᵻɾi."
         },
         {
-          "text": "— Borré el archivo por accidente.",
+          "text": "— El enfoque lingüístico puede atenuar la responsabilidad.",
           "segments": [
             {
-              "text": "— Borré el archivo por accidente.",
+              "text": "— El enfoque lingüístico puede atenuar la responsabilidad.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— borˈe el aɾtʃˈiβo poɾ ˌaksiðˈɛnte."
+          "phonemes": "— el enfˈoke lˌiŋɡuˈistiko pwˈeðe ˌatenwˈaɾ la rˌesponsˌaβiliðˈad."
         },
         {
-          "text": "Please turn it off.",
+          "text": "Some constructions emphasize who acted.",
           "segments": [
             {
-              "text": "Please turn it off.",
+              "text": "Some constructions emphasize who acted.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "plˈiːz tˈɜːn ɪɾ ˈɔf."
+          "phonemes": "sˌʌm kənstɹˈʌkʃənz ˈɛmfɐsˌaɪz hˌuː ˈæktᵻd."
         },
         {
-          "text": "— Apágalo, por favor.",
+          "text": "— Algunas construcciones enfatizan quién actuó.",
           "segments": [
             {
-              "text": "— Apágalo, por favor.",
+              "text": "— Algunas construcciones enfatizan quién actuó.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— apˈaɣalo, poɾ faβˈoɾ."
+          "phonemes": "— alɣˈunas kˌonstɾuksjˈones ˌenfatˈisan kjˈen aktwˈo."
         },
         {
-          "text": "They helped each other.",
+          "text": "Others hide the doer completely.",
           "segments": [
             {
-              "text": "They helped each other.",
+              "text": "Others hide the doer completely.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðeɪ hˈɛlpt ˈiːtʃ ˈʌðɚ."
+          "phonemes": "ˈʌðɚz hˈaɪd ðə dˈuːɚ kəmplˈiːtli."
         },
         {
-          "text": "— Se ayudaron mutuamente.",
+          "text": "— Otras ocultan al actor por completo.",
           "segments": [
             {
-              "text": "— Se ayudaron mutuamente.",
+              "text": "— Otras ocultan al actor por completo.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— se ˌaʝuðˈaɾon mˈutwamˈente."
+          "phonemes": "— ˈotɾas okˈultan al aktˈoɾ poɾ komplˈeto."
         },
         {
-          "text": "Explain it to her before the meeting.",
+          "text": "The nuance changes the meaning.",
           "segments": [
             {
-              "text": "Explain it to her before the meeting.",
+              "text": "The nuance changes the meaning.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɛksplˈeɪn ɪt tə hɜː bᵻfˌɔːɹ ðə mˈiːɾɪŋ."
+          "phonemes": "ðə nˈuːɑːns tʃˈeɪndʒᵻz ðə mˈiːnɪŋ."
         },
         {
-          "text": "— Explícaselo antes de la reunión.",
+          "text": "— El matiz cambia el significado.",
           "segments": [
             {
-              "text": "— Explícaselo antes de la reunión.",
+              "text": "— El matiz cambia el significado.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— eksplˈikasˌelo ˈantes ðe la reʊnjˈon."
+          "phonemes": "— el matˈis kˈambja el sˌiɡnifikˈaðo."
         },
         {
-          "text": "We recovered the copy ourselves.",
+          "text": "An indirect approach sounds less accusatory.",
           "segments": [
             {
-              "text": "We recovered the copy ourselves.",
+              "text": "An indirect approach sounds less accusatory.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wiː ɹᵻkˈʌvɚd ðə kˈɑːpi aʊɚsˈɛlvz."
+          "phonemes": "ɐn ˌɪndɚɹˈɛkt ɐpɹˈoʊtʃ sˈaʊndz lˈɛs ɐkjˈuːzətˌɔːɹi."
         },
         {
-          "text": "— Recuperamos la copia nosotros mismos.",
+          "text": "— Un enfoque indirecto suena menos acusatorio.",
           "segments": [
             {
-              "text": "— Recuperamos la copia nosotros mismos.",
+              "text": "— Un enfoque indirecto suena menos acusatorio.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— rˌekupeɾˈamos la kˈopja nosˈotɾos mˈismos."
+          "phonemes": "— ˈun enfˈoke ˌindiɾˈekto swˈena mˈenos ˌakusatˈoɾjo."
         }
       ]
     },
@@ -325,129 +325,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "to turn off",
+      "text": "responsibility",
       "sentences": [
         {
-          "text": "to turn off",
+          "text": "responsibility",
           "segments": [
             {
-              "text": "to turn off",
+              "text": "responsibility",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə tˈɜːn ˈɔf"
+          "phonemes": "ɹᵻspˌɑːnsəbˈɪlᵻɾi"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "to pick up",
+      "text": "to mitigate",
       "sentences": [
         {
-          "text": "to pick up",
+          "text": "to mitigate",
           "segments": [
             {
-              "text": "to pick up",
+              "text": "to mitigate",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə pˈɪk ˈʌp"
+          "phonemes": "tə mˈɪɾᵻɡˌeɪt"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "to look for",
+      "text": "to emphasize",
       "sentences": [
         {
-          "text": "to look for",
+          "text": "to emphasize",
           "segments": [
             {
-              "text": "to look for",
+              "text": "to emphasize",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə lˈʊk fɔːɹ"
+          "phonemes": "tʊ ˈɛmfɐsˌaɪz"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "by accident",
+      "text": "the doer",
       "sentences": [
         {
-          "text": "by accident",
+          "text": "the doer",
           "segments": [
             {
-              "text": "by accident",
+              "text": "the doer",
               "lang": "en-us"
             }
           ],
-          "phonemes": "baɪ ˈæksɪdənt"
+          "phonemes": "ðə dˈuːɚ"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "myself",
+      "text": "linguistic approach",
       "sentences": [
         {
-          "text": "myself",
+          "text": "linguistic approach",
           "segments": [
             {
-              "text": "myself",
+              "text": "linguistic approach",
               "lang": "en-us"
             }
           ],
-          "phonemes": "maɪsˈɛlf"
+          "phonemes": "lɪŋɡwˈɪstɪk ɐpɹˈoʊtʃ"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "each other",
+      "text": "indirect",
       "sentences": [
         {
-          "text": "each other",
+          "text": "indirect",
           "segments": [
             {
-              "text": "each other",
+              "text": "indirect",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ˈiːtʃ ˈʌðɚ"
+          "phonemes": "ˌɪndɚɹˈɛkt"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "a file",
+      "text": "direct",
       "sentences": [
         {
-          "text": "a file",
+          "text": "direct",
           "segments": [
             {
-              "text": "a file",
+              "text": "direct",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ fˈaɪl"
+          "phonemes": "dᵻɹˈɛkt"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "a copy",
+      "text": "nuance",
       "sentences": [
         {
-          "text": "a copy",
+          "text": "nuance",
           "segments": [
             {
-              "text": "a copy",
+              "text": "nuance",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ kˈɑːpi"
+          "phonemes": "nˈuːɑːns"
         }
       ]
     }

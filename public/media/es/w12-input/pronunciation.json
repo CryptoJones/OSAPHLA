@@ -183,7 +183,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Model language. ¿Tiene esta camisa en otra talla? — Do you have this shirt in another size? Esos zapatos me quedan bien. — Those shoes fit me well. Aquella chaqueta es demasiado cara. — That jacket over there is too expensive. Quiero devolver este artículo. — I want to return this item. El precio incluye los impuestos. — The price includes taxes.",
+      "text": "Model language. Nora necesita ropa para una entrevista. — Nora needs clothes for an interview. Esta chaqueta le queda bien, pero es cara. — This jacket fits her well, but it's expensive. Encuentra otra más barata. — She finds a cheaper one. Pregunta si puede cambiarla con el recibo. — She asks if she can exchange it with the receipt. La política de la tienda permite cambios. — The store's policy allows exchanges.",
       "sentences": [
         {
           "text": "Model language.",
@@ -196,104 +196,104 @@
           "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
         },
         {
-          "text": "¿Tiene esta camisa en otra talla?",
+          "text": "Nora necesita ropa para una entrevista.",
           "segments": [
             {
-              "text": "¿Tiene esta camisa en otra talla?",
+              "text": "Nora necesita ropa para una entrevista.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "tjˈene ˈesta kamˈisa en ˈotɾa tˈajja?"
+          "phonemes": "nˈoɾa nˌesesˈita rˈopa pˌaɾa ˈuna ˌentɾeβˈista."
         },
         {
-          "text": "— Do you have this shirt in another size?",
+          "text": "— Nora needs clothes for an interview.",
           "segments": [
             {
-              "text": "— Do you have this shirt in another size?",
+              "text": "— Nora needs clothes for an interview.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— dˈuː juː hæv ðɪs ʃˈɜːt ɪn ɐnˈʌðɚ sˈaɪz?"
+          "phonemes": "— nˈɔːɹə nˈiːdz klˈoʊðz fɚɹən ˈɪntɚvjˌuː."
         },
         {
-          "text": "Esos zapatos me quedan bien.",
+          "text": "Esta chaqueta le queda bien, pero es cara.",
           "segments": [
             {
-              "text": "Esos zapatos me quedan bien.",
+              "text": "Esta chaqueta le queda bien, pero es cara.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˈesos sapˈatos me kˈeðam bjˈen."
+          "phonemes": "ˈesta tʃakˈeta le kˈeða βjˈen, pˌeɾo ˈes kˈaɾa."
         },
         {
-          "text": "— Those shoes fit me well.",
+          "text": "— This jacket fits her well, but it's expensive.",
           "segments": [
             {
-              "text": "— Those shoes fit me well.",
-              "lang": "es-419"
-            }
-          ],
-          "phonemes": "— tˈose ʃˈoes fˈit me wˈeʎ."
-        },
-        {
-          "text": "Aquella chaqueta es demasiado cara.",
-          "segments": [
-            {
-              "text": "Aquella chaqueta es demasiado cara.",
-              "lang": "es-419"
-            }
-          ],
-          "phonemes": "akˈejja tʃakˈeta ˈes ðˌemasjˈaðo kˈaɾa."
-        },
-        {
-          "text": "— That jacket over there is too expensive.",
-          "segments": [
-            {
-              "text": "— That jacket over there is too expensive.",
+              "text": "— This jacket fits her well, but it's expensive.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ðæt dʒˈækɪt ˌoʊvɚ ðɛɹ ɪz tˈuː ɛkspˈɛnsɪv."
+          "phonemes": "— ðɪs dʒˈækɪt fˈɪts hɜː wˈɛl, bˌʌt ɪts ɛkspˈɛnsɪv."
         },
         {
-          "text": "Quiero devolver este artículo.",
+          "text": "Encuentra otra más barata.",
           "segments": [
             {
-              "text": "Quiero devolver este artículo.",
+              "text": "Encuentra otra más barata.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "kjˈeɾo ðˌeβolβˈeɾ ˈeste aɾtˈikulo."
+          "phonemes": "enkwˈɛntɾa ˈotɾa mˈas βaɾˈata."
         },
         {
-          "text": "— I want to return this item.",
+          "text": "— She finds a cheaper one.",
           "segments": [
             {
-              "text": "— I want to return this item.",
+              "text": "— She finds a cheaper one.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— aɪ wˈɔnt tə ɹᵻtˈɜːn ðɪs ˈaɪɾəm."
+          "phonemes": "— ʃiː fˈaɪndz ɐ tʃˈiːpɚ wˌʌn."
         },
         {
-          "text": "El precio incluye los impuestos.",
+          "text": "Pregunta si puede cambiarla con el recibo.",
           "segments": [
             {
-              "text": "El precio incluye los impuestos.",
+              "text": "Pregunta si puede cambiarla con el recibo.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el pɾˈesjo inklˈuʝe los impwˈestos."
+          "phonemes": "pɾeɣˈunta si pwˈeðe kambjˈaɾla kon el resˈiβo."
         },
         {
-          "text": "— The price includes taxes.",
+          "text": "— She asks if she can exchange it with the receipt.",
           "segments": [
             {
-              "text": "— The price includes taxes.",
+              "text": "— She asks if she can exchange it with the receipt.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ðə pɹˈaɪs ɪŋklˈuːdz tˈæksᵻz."
+          "phonemes": "— ʃiː ˈæsks ɪf ʃiː kæn ɛkstʃˈeɪndʒ ɪt wɪððə ɹᵻsˈiːt."
+        },
+        {
+          "text": "La política de la tienda permite cambios.",
+          "segments": [
+            {
+              "text": "La política de la tienda permite cambios.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "la polˈitika ðe la tjˈɛnda peɾmˈite kˈambjos."
+        },
+        {
+          "text": "— The store's policy allows exchanges.",
+          "segments": [
+            {
+              "text": "— The store's policy allows exchanges.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "— ðə stˈɔːɹz pˈɑːlɪsi ɐlˈaʊz ɛkstʃˈeɪndʒᵻz."
         }
       ]
     },
@@ -345,129 +345,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "la tienda",
+      "text": "la entrevista",
       "sentences": [
         {
-          "text": "la tienda",
+          "text": "la entrevista",
           "segments": [
             {
-              "text": "la tienda",
+              "text": "la entrevista",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la tjˈɛnda"
+          "phonemes": "la ˌentɾeβˈista"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "la talla",
+      "text": "necesitar",
       "sentences": [
         {
-          "text": "la talla",
+          "text": "necesitar",
           "segments": [
             {
-              "text": "la talla",
+              "text": "necesitar",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la tˈajja"
+          "phonemes": "nˌesesitˈaɾ"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "el precio",
+      "text": "encontrar",
       "sentences": [
         {
-          "text": "el precio",
+          "text": "encontrar",
           "segments": [
             {
-              "text": "el precio",
+              "text": "encontrar",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el pɾˈesjo"
+          "phonemes": "ˌenkontɾˈaɾ"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "barato",
+      "text": "el recibo",
       "sentences": [
         {
-          "text": "barato",
+          "text": "el recibo",
           "segments": [
             {
-              "text": "barato",
+              "text": "el recibo",
               "lang": "es-419"
             }
           ],
-          "phonemes": "baɾˈato"
+          "phonemes": "el resˈiβo"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "caro",
+      "text": "cambiar",
       "sentences": [
         {
-          "text": "caro",
+          "text": "cambiar",
           "segments": [
             {
-              "text": "caro",
+              "text": "cambiar",
               "lang": "es-419"
             }
           ],
-          "phonemes": "kˈaɾo"
+          "phonemes": "kambjˈaɾ"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "este",
+      "text": "permitir",
       "sentences": [
         {
-          "text": "este",
+          "text": "permitir",
           "segments": [
             {
-              "text": "este",
+              "text": "permitir",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˈeste"
+          "phonemes": "pˌeɾmitˈiɾ"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "ese",
+      "text": "la política",
       "sentences": [
         {
-          "text": "ese",
+          "text": "la política",
           "segments": [
             {
-              "text": "ese",
+              "text": "la política",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˈese"
+          "phonemes": "la polˈitika"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "devolver",
+      "text": "útil",
       "sentences": [
         {
-          "text": "devolver",
+          "text": "útil",
           "segments": [
             {
-              "text": "devolver",
+              "text": "útil",
               "lang": "es-419"
             }
           ],
-          "phonemes": "dˌeβolβˈeɾ"
+          "phonemes": "ˈutil"
         }
       ]
     }

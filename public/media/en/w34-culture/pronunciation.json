@@ -163,7 +163,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Lenguaje modelo. Do you have time tomorrow? — ¿Tienes tiempo mañana? Take the lift to the second floor. — Toma el ascensor hasta el segundo piso. Take the elevator to the third floor. — Toma el ascensor hasta el tercer piso. The spelling changes, but the meaning is clear. — La ortografía cambia, pero el significado está claro. I don't know that word. What does it mean here? — No conozco esa palabra. ¿Qué significa aquí?",
+      "text": "Lenguaje modelo. The US, the UK, and the Caribbean don't speak the same way. — Estados Unidos, el Reino Unido y el Caribe no hablan igual. South Asia and Sub-Saharan Africa are also different. — Asia del Sur y África subsahariana también son distintos. Every English-speaking country is internally diverse. — Cada país angloparlante es internamente diverso. No country represents the whole of English. — Ningún país representa la totalidad del inglés. It's best to avoid caricaturing an accent. — Es mejor evitar la caricatura de un acento.",
       "sentences": [
         {
           "text": "Lenguaje modelo.",
@@ -176,124 +176,104 @@
           "phonemes": "leŋɡwˈaxe moðˈelo."
         },
         {
-          "text": "Do you have time tomorrow?",
+          "text": "The US, the UK, and the Caribbean don't speak the same way.",
           "segments": [
             {
-              "text": "Do you have time tomorrow?",
+              "text": "The US, the UK, and the Caribbean don't speak the same way.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "dˈuː juː hæv tˈaɪm təmˈɑːɹoʊ?"
+          "phonemes": "ðə jˌuːˈɛs, ðə jˌuːkˈeɪ, ænd ðə kˌæɹəbˈiən dˈoʊnt spˈiːk ðə sˈeɪm wˈeɪ."
         },
         {
-          "text": "— ¿Tienes tiempo mañana?",
+          "text": "— Estados Unidos, el Reino Unido y el Caribe no hablan igual.",
           "segments": [
             {
-              "text": "— ¿Tienes tiempo mañana?",
+              "text": "— Estados Unidos, el Reino Unido y el Caribe no hablan igual.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— tjˈenes tjˈempo maɲˈana?"
+          "phonemes": "— estˈaðos unˈiðos, el rˈeɪno unˈiðo i el kaɾˈiβe nˈo ˈaβlan iɣwˈal."
         },
         {
-          "text": "Take the lift to the second floor.",
+          "text": "South Asia and Sub-Saharan Africa are also different.",
           "segments": [
             {
-              "text": "Take the lift to the second floor.",
+              "text": "South Asia and Sub-Saharan Africa are also different.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tˈeɪk ðə lˈɪft tə ðə sˈɛkənd flˈɔːɹ."
+          "phonemes": "sˈaʊθ ˈeɪʒə ænd sˈʌbsˈæhæɹən ˈæfɹɪkə ɑːɹ ˈɔːlsoʊ dˈɪfɹənt."
         },
         {
-          "text": "— Toma el ascensor hasta el segundo piso.",
+          "text": "— Asia del Sur y África subsahariana también son distintos.",
           "segments": [
             {
-              "text": "— Toma el ascensor hasta el segundo piso.",
+              "text": "— Asia del Sur y África subsahariana también son distintos.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— tˈoma el ˌasensˈoɾ ˌasta el seɣˈundo pˈiso."
+          "phonemes": "— ˈasja ðel sˈuɾ i ˈafɾika sˌuβsaaɾjˈana tambjˈen sˈon distˈintos."
         },
         {
-          "text": "Take the elevator to the third floor.",
+          "text": "Every English-speaking country is internally diverse.",
           "segments": [
             {
-              "text": "Take the elevator to the third floor.",
+              "text": "Every English-speaking country is internally diverse.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tˈeɪk ðɪ ˈɛlɪvˌeɪɾɚ tə ðə θˈɜːd flˈɔːɹ."
+          "phonemes": "ˈɛvɹi ˈɪŋɡlɪʃspˈiːkɪŋ kˈʌntɹi ɪz ɪntˈɜːnəli daɪvˈɜːs."
         },
         {
-          "text": "— Toma el ascensor hasta el tercer piso.",
+          "text": "— Cada país angloparlante es internamente diverso.",
           "segments": [
             {
-              "text": "— Toma el ascensor hasta el tercer piso.",
+              "text": "— Cada país angloparlante es internamente diverso.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— tˈoma el ˌasensˈoɾ ˌasta el teɾsˈeɾ pˈiso."
+          "phonemes": "— kˈaða paˈis ˌaŋɡlopaɾlˈante ˈes intˈeɾnamˈente ðiβˈeɾso."
         },
         {
-          "text": "The spelling changes, but the meaning is clear.",
+          "text": "No country represents the whole of English.",
           "segments": [
             {
-              "text": "The spelling changes, but the meaning is clear.",
+              "text": "No country represents the whole of English.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə spˈɛlɪŋ tʃˈeɪndʒᵻz, bˌʌt ðə mˈiːnɪŋ ɪz klˈɪɹ."
+          "phonemes": "nˈoʊ kˈʌntɹi ɹˌɛpɹᵻzˈɛnts ðə hˈoʊl ʌv ˈɪŋɡlɪʃ."
         },
         {
-          "text": "— La ortografía cambia, pero el significado está claro.",
+          "text": "— Ningún país representa la totalidad del inglés.",
           "segments": [
             {
-              "text": "— La ortografía cambia, pero el significado está claro.",
+              "text": "— Ningún país representa la totalidad del inglés.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— la ˌoɾtoɣɾafˈia kˈambja, pˌeɾo el sˌiɡnifikˈaðo estˈa klˈaɾo."
+          "phonemes": "— niŋɡˈum paˈis rˌepɾesˈɛnta la tˌotaliðˈad ðel iŋɡlˈes."
         },
         {
-          "text": "I don't know that word.",
+          "text": "It's best to avoid caricaturing an accent.",
           "segments": [
             {
-              "text": "I don't know that word.",
+              "text": "It's best to avoid caricaturing an accent.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪ dˈoʊnt nˈoʊ ðæt wˈɜːd."
+          "phonemes": "ɪts bˈɛst tʊ ɐvˈɔɪd kˈæɹɪkətʃˌʊɹɹɪŋ ɐn ˈæksənt."
         },
         {
-          "text": "What does it mean here?",
+          "text": "— Es mejor evitar la caricatura de un acento.",
           "segments": [
             {
-              "text": "What does it mean here?",
-              "lang": "en-us"
-            }
-          ],
-          "phonemes": "wˌʌt dˈʌz ɪt mˈiːn hˈɪɹ?"
-        },
-        {
-          "text": "— No conozco esa palabra.",
-          "segments": [
-            {
-              "text": "— No conozco esa palabra.",
+              "text": "— Es mejor evitar la caricatura de un acento.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— nˈo konˈosko ˈesa palˈaβɾa."
-        },
-        {
-          "text": "¿Qué significa aquí?",
-          "segments": [
-            {
-              "text": "¿Qué significa aquí?",
-              "lang": "es-419"
-            }
-          ],
-          "phonemes": "kˈe sˌiɡnifˈika akˈi?"
+          "phonemes": "— ˈes mexˈoɾ ˌeβitˈaɾ la kˌaɾikatˈuɾa ðe ˈun asˈɛnto."
         }
       ]
     },
@@ -345,129 +325,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "an accent",
+      "text": "an English-speaking country",
       "sentences": [
         {
-          "text": "an accent",
+          "text": "an English-speaking country",
           "segments": [
             {
-              "text": "an accent",
+              "text": "an English-speaking country",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐn ˈæksənt"
+          "phonemes": "ɐn ˈɪŋɡlɪʃspˈiːkɪŋ kˈʌntɹi"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "a variety",
+      "text": "the Caribbean",
       "sentences": [
         {
-          "text": "a variety",
+          "text": "the Caribbean",
           "segments": [
             {
-              "text": "a variety",
+              "text": "the Caribbean",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ vɚɹˈaɪəɾi"
+          "phonemes": "ðə kˌæɹəbˈiən"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "a lift",
+      "text": "South Asia",
       "sentences": [
         {
-          "text": "a lift",
+          "text": "South Asia",
           "segments": [
             {
-              "text": "a lift",
+              "text": "South Asia",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ lˈɪft"
+          "phonemes": "sˈaʊθ ˈeɪʒə"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "an elevator",
+      "text": "Sub-Saharan Africa",
       "sentences": [
         {
-          "text": "an elevator",
+          "text": "Sub-Saharan Africa",
           "segments": [
             {
-              "text": "an elevator",
+              "text": "Sub-Saharan Africa",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐn ˈɛlɪvˌeɪɾɚ"
+          "phonemes": "sˈʌbsˈæhæɹən ˈæfɹɪkə"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "a flat",
+      "text": "internally diverse",
       "sentences": [
         {
-          "text": "a flat",
+          "text": "internally diverse",
           "segments": [
             {
-              "text": "a flat",
+              "text": "internally diverse",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ flˈæt"
+          "phonemes": "ɪntˈɜːnəli daɪvˈɜːs"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "an apartment",
+      "text": "to represent",
       "sentences": [
         {
-          "text": "an apartment",
+          "text": "to represent",
           "segments": [
             {
-              "text": "an apartment",
+              "text": "to represent",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐn ɐpˈɑːɹtmənt"
+          "phonemes": "tə ɹˌɛpɹᵻzˈɛnt"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "to clarify",
+      "text": "the whole",
       "sentences": [
         {
-          "text": "to clarify",
+          "text": "the whole",
           "segments": [
             {
-              "text": "to clarify",
+              "text": "the whole",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə klˈæɹᵻfˌaɪ"
+          "phonemes": "ðə hˈoʊl"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "What does that mean here?",
+      "text": "to avoid caricature",
       "sentences": [
         {
-          "text": "What does that mean here?",
+          "text": "to avoid caricature",
           "segments": [
             {
-              "text": "What does that mean here?",
+              "text": "to avoid caricature",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wˌʌt dˈʌz ðæt mˈiːn hˈɪɹ?"
+          "phonemes": "tʊ ɐvˈɔɪd kˈæɹɪkətʃˌʊɹ"
         }
       ]
     }

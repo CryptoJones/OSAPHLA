@@ -143,7 +143,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Model language. Según la técnica, la red ya funciona. — According to the technician, the network is already working. Nos comunicamos por un canal seguro. — We communicate through a secure channel. El director dijo que ampliarían el plazo. — The director said they would extend the deadline. Adjunto encontrará el informe solicitado. — Attached you will find the requested report. Con respecto al incidente, faltan dos datos. — Regarding the incident, two pieces of information are missing.",
+      "text": "Model language. Voy a informar a mi supervisora sobre la avería. — I am going to inform my supervisor about the breakdown. Resumo las declaraciones de cada persona. — I summarize each person's statement. Explico todo detalladamente. — I explain everything in detail. Recomiendo el próximo paso. — I recommend the next step. Termino con una pregunta abierta. — I finish with an open question.",
       "sentences": [
         {
           "text": "Model language.",
@@ -156,104 +156,104 @@
           "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
         },
         {
-          "text": "Según la técnica, la red ya funciona.",
+          "text": "Voy a informar a mi supervisora sobre la avería.",
           "segments": [
             {
-              "text": "Según la técnica, la red ya funciona.",
+              "text": "Voy a informar a mi supervisora sobre la avería.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "seɣˈun la tˈeknika, la rˈed ʝˈa funsjˈona."
+          "phonemes": "bˈoɪ a ˌinfoɾmˈaɾ a mi sˌupeɾβisˈoɾa sˌoβɾe la ˌaβeɾˈia."
         },
         {
-          "text": "— According to the technician, the network is already working.",
+          "text": "— I am going to inform my supervisor about the breakdown.",
           "segments": [
             {
-              "text": "— According to the technician, the network is already working.",
+              "text": "— I am going to inform my supervisor about the breakdown.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ɐkˈɔːɹdɪŋ tə ðə tɛknˈɪʃən, ðə nˈɛtwɜːk ɪz ɔːlɹˌɛdi wˈɜːkɪŋ."
+          "phonemes": "— aɪɐm ɡˌoʊɪŋ tʊ ɪnfˈɔːɹm maɪ sˈuːpɚvˌaɪzɚɹ ɐbˌaʊt ðə bɹˈeɪkdaʊn."
         },
         {
-          "text": "Nos comunicamos por un canal seguro.",
+          "text": "Resumo las declaraciones de cada persona.",
           "segments": [
             {
-              "text": "Nos comunicamos por un canal seguro.",
+              "text": "Resumo las declaraciones de cada persona.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "nos kˌomunikˈamos poɾ ˈun kanˈal seɣˈuɾo."
+          "phonemes": "resˈumo las ðˌeklaɾasjˈones ðe kˈaða peɾsˈona."
         },
         {
-          "text": "— We communicate through a secure channel.",
+          "text": "— I summarize each person's statement.",
           "segments": [
             {
-              "text": "— We communicate through a secure channel.",
+              "text": "— I summarize each person's statement.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— wiː kəmjˈuːnᵻkˌeɪt θɹuː ɐ sᵻkjˈʊɹ tʃˈænəl."
+          "phonemes": "— aɪ sˈʌmɚɹˌaɪz ˈiːtʃ pˈɜːsənz stˈeɪtmənt."
         },
         {
-          "text": "El director dijo que ampliarían el plazo.",
+          "text": "Explico todo detalladamente.",
           "segments": [
             {
-              "text": "El director dijo que ampliarían el plazo.",
+              "text": "Explico todo detalladamente.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el ðˌiɾektˈoɾ ðˈixo ke ˌampliaɾˈian el plˈaso."
+          "phonemes": "eksplˈiko tˈoðo ðˌetajjˈaðamˈente."
         },
         {
-          "text": "— The director said they would extend the deadline.",
+          "text": "— I explain everything in detail.",
           "segments": [
             {
-              "text": "— The director said they would extend the deadline.",
+              "text": "— I explain everything in detail.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ðə dᵻɹˈɛktɚ sˈɛd ðeɪ wʊd ɛkstˈɛnd ðə dˈɛdlaɪn."
+          "phonemes": "— aɪ ɛksplˈeɪn ˈɛvɹɪθˌɪŋ ɪn diːtˈeɪl."
         },
         {
-          "text": "Adjunto encontrará el informe solicitado.",
+          "text": "Recomiendo el próximo paso.",
           "segments": [
             {
-              "text": "Adjunto encontrará el informe solicitado.",
+              "text": "Recomiendo el próximo paso.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "aðxˈunto ˌenkontɾaɾˈa el infˈoɾme sˌolisitˈaðo."
+          "phonemes": "rˌekomjˈɛndo el pɾˈoksimo pˈaso."
         },
         {
-          "text": "— Attached you will find the requested report.",
+          "text": "— I recommend the next step.",
           "segments": [
             {
-              "text": "— Attached you will find the requested report.",
+              "text": "— I recommend the next step.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ɐtˈætʃt juː wɪl fˈaɪnd ðə ɹᵻkwˈɛstᵻd ɹᵻpˈɔːɹt."
+          "phonemes": "— aɪ ɹˌɛkəmˈɛnd ðə nˈɛkst stˈɛp."
         },
         {
-          "text": "Con respecto al incidente, faltan dos datos.",
+          "text": "Termino con una pregunta abierta.",
           "segments": [
             {
-              "text": "Con respecto al incidente, faltan dos datos.",
+              "text": "Termino con una pregunta abierta.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "kon respˈekto al ˌinsiðˈɛnte, fˈaltan dˈos ðˈatos."
+          "phonemes": "teɾmˈino kon ˈuna pɾeɣˈunta aβjˈeɾta."
         },
         {
-          "text": "— Regarding the incident, two pieces of information are missing.",
+          "text": "— I finish with an open question.",
           "segments": [
             {
-              "text": "— Regarding the incident, two pieces of information are missing.",
+              "text": "— I finish with an open question.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ɹᵻɡˈɑːɹdɪŋ ðɪ ˈɪnsɪdənt, tˈuː pˈiːsᵻz ʌv ˌɪnfɚmˈeɪʃən ɑːɹ mˈɪsɪŋ."
+          "phonemes": "— aɪ fˈɪnɪʃ wɪð ɐn ˈoʊpən kwˈɛstʃən."
         }
       ]
     },
@@ -305,129 +305,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "la reunión",
+      "text": "informar",
       "sentences": [
         {
-          "text": "la reunión",
+          "text": "informar",
           "segments": [
             {
-              "text": "la reunión",
+              "text": "informar",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la reʊnjˈon"
+          "phonemes": "ˌinfoɾmˈaɾ"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "el plazo",
+      "text": "la avería",
       "sentences": [
         {
-          "text": "el plazo",
+          "text": "la avería",
           "segments": [
             {
-              "text": "el plazo",
+              "text": "la avería",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el plˈaso"
+          "phonemes": "la ˌaβeɾˈia"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "el informe",
+      "text": "resumir",
       "sentences": [
         {
-          "text": "el informe",
+          "text": "resumir",
           "segments": [
             {
-              "text": "el informe",
+              "text": "resumir",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el infˈoɾme"
+          "phonemes": "rˌesumˈiɾ"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "la red",
+      "text": "la declaración",
       "sentences": [
         {
-          "text": "la red",
+          "text": "la declaración",
           "segments": [
             {
-              "text": "la red",
+              "text": "la declaración",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la rˈed"
+          "phonemes": "la ðˌeklaɾasjˈon"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "la contraseña",
+      "text": "el próximo paso",
       "sentences": [
         {
-          "text": "la contraseña",
+          "text": "el próximo paso",
           "segments": [
             {
-              "text": "la contraseña",
+              "text": "el próximo paso",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la kˌontɾasˈeɲa"
+          "phonemes": "el pɾˈoksimo pˈaso"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "el archivo adjunto",
+      "text": "recomendar",
       "sentences": [
         {
-          "text": "el archivo adjunto",
+          "text": "recomendar",
           "segments": [
             {
-              "text": "el archivo adjunto",
+              "text": "recomendar",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el aɾtʃˈiβo aðxˈunto"
+          "phonemes": "rˌekomendˈaɾ"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "según",
+      "text": "la supervisora",
       "sentences": [
         {
-          "text": "según",
+          "text": "la supervisora",
           "segments": [
             {
-              "text": "según",
+              "text": "la supervisora",
               "lang": "es-419"
             }
           ],
-          "phonemes": "seɣˈun"
+          "phonemes": "la sˌupeɾβisˈoɾa"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "con respecto a",
+      "text": "detalladamente",
       "sentences": [
         {
-          "text": "con respecto a",
+          "text": "detalladamente",
           "segments": [
             {
-              "text": "con respecto a",
+              "text": "detalladamente",
               "lang": "es-419"
             }
           ],
-          "phonemes": "kon respˈekto ˈa"
+          "phonemes": "dˌetajjˈaðamˈente"
         }
       ]
     }

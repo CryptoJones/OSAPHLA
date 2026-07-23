@@ -143,7 +143,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Model language. La farmacia está cerca de la plaza. — The pharmacy is near the plaza. Hay un banco delante del hotel. — There is a bank in front of the hotel. El museo está cerrado hoy. — The museum is closed today. ¿Dónde están los baños? — Where are the restrooms? La reunión es en la sala azul. — The meeting is in the blue room.",
+      "text": "Model language. Voy a guiar a un visitante por el edificio. — I am going to guide a visitor through the building. Indico qué servicios están disponibles. — I indicate which services are available. Pregunto si el museo está abierto. — I ask whether the museum is open. Confirmo el recorrido antes de salir. — I confirm the route before leaving. Explico dónde está cada servicio. — I explain where each service is.",
       "sentences": [
         {
           "text": "Model language.",
@@ -156,104 +156,104 @@
           "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
         },
         {
-          "text": "La farmacia está cerca de la plaza.",
+          "text": "Voy a guiar a un visitante por el edificio.",
           "segments": [
             {
-              "text": "La farmacia está cerca de la plaza.",
+              "text": "Voy a guiar a un visitante por el edificio.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la faɾmˈasja estˈa sˈeɾka ðe la plˈasa."
+          "phonemes": "bˈoɪ a ɣjˈaɾ a ˈum bˌisitˈante poɾ el ˌeðifˈisjo."
         },
         {
-          "text": "— The pharmacy is near the plaza.",
+          "text": "— I am going to guide a visitor through the building.",
           "segments": [
             {
-              "text": "— The pharmacy is near the plaza.",
+              "text": "— I am going to guide a visitor through the building.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ðə fˈɑːɹməsi ɪz nˌɪɹ ðə plˈɑːzə."
+          "phonemes": "— aɪɐm ɡˌoʊɪŋ tə ɡˈaɪd ɐ vˈɪzɪɾɚ θɹuː ðə bˈɪldɪŋ."
         },
         {
-          "text": "Hay un banco delante del hotel.",
+          "text": "Indico qué servicios están disponibles.",
           "segments": [
             {
-              "text": "Hay un banco delante del hotel.",
+              "text": "Indico qué servicios están disponibles.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˈaɪ ˈum bˈanko ðelˈante ðel otˈel."
+          "phonemes": "indˈiko kˈe seɾβˈisjos estˈan dˌisponˈiβles."
         },
         {
-          "text": "— There is a bank in front of the hotel.",
+          "text": "— I indicate which services are available.",
           "segments": [
             {
-              "text": "— There is a bank in front of the hotel.",
+              "text": "— I indicate which services are available.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ðɛɹ ɪz ɐ bˈæŋk ɪn fɹˈʌnt ʌvðə hoʊtˈɛl."
+          "phonemes": "— aɪ ˈɪndᵻkˌeɪt wˌɪtʃ sˈɜːvɪsᵻz ɑːɹ ɐvˈeɪləbəl."
         },
         {
-          "text": "El museo está cerrado hoy.",
+          "text": "Pregunto si el museo está abierto.",
           "segments": [
             {
-              "text": "El museo está cerrado hoy.",
+              "text": "Pregunto si el museo está abierto.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el musˈeo estˈa serˈaðo ˈoɪ."
+          "phonemes": "pɾeɣˈunto si el musˈeo estˈa aβjˈeɾto."
         },
         {
-          "text": "— The museum is closed today.",
+          "text": "— I ask whether the museum is open.",
           "segments": [
             {
-              "text": "— The museum is closed today.",
+              "text": "— I ask whether the museum is open.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ðə mjuːzˈiəm ɪz klˈoʊzd tədˈeɪ."
+          "phonemes": "— aɪ ˈæsk wˈɛðɚ ðə mjuːzˈiəm ɪz ˈoʊpən."
         },
         {
-          "text": "¿Dónde están los baños?",
+          "text": "Confirmo el recorrido antes de salir.",
           "segments": [
             {
-              "text": "¿Dónde están los baños?",
+              "text": "Confirmo el recorrido antes de salir.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "dˈonde estˈan los βˈaɲos?"
+          "phonemes": "konfˈiɾmo el rˌekorˈiðo ˈantes ðe salˈiɾ."
         },
         {
-          "text": "— Where are the restrooms?",
+          "text": "— I confirm the route before leaving.",
           "segments": [
             {
-              "text": "— Where are the restrooms?",
+              "text": "— I confirm the route before leaving.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— wˌɛɹ ɑːɹ ðə ɹˈɛstɹuːmz?"
+          "phonemes": "— aɪ kənfˈɜːm ðə ɹˈaʊt bᵻfˌɔːɹ lˈiːvɪŋ."
         },
         {
-          "text": "La reunión es en la sala azul.",
+          "text": "Explico dónde está cada servicio.",
           "segments": [
             {
-              "text": "La reunión es en la sala azul.",
+              "text": "Explico dónde está cada servicio.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la reʊnjˈon ˈes en la sˈala asˈul."
+          "phonemes": "eksplˈiko ðˈonde estˈa kˈaða seɾβˈisjo."
         },
         {
-          "text": "— The meeting is in the blue room.",
+          "text": "— I explain where each service is.",
           "segments": [
             {
-              "text": "— The meeting is in the blue room.",
+              "text": "— I explain where each service is.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ðə mˈiːɾɪŋ ɪz ɪnðə blˈuː ɹˈuːm."
+          "phonemes": "— aɪ ɛksplˈeɪn wˌɛɹ ˈiːtʃ sˈɜːvɪs ɪz."
         }
       ]
     },
@@ -305,129 +305,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "aquí",
+      "text": "guiar",
       "sentences": [
         {
-          "text": "aquí",
+          "text": "guiar",
           "segments": [
             {
-              "text": "aquí",
+              "text": "guiar",
               "lang": "es-419"
             }
           ],
-          "phonemes": "akˈi"
+          "phonemes": "ɡjˈaɾ"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "allí",
+      "text": "indicar",
       "sentences": [
         {
-          "text": "allí",
+          "text": "indicar",
           "segments": [
             {
-              "text": "allí",
+              "text": "indicar",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ajjˈi"
+          "phonemes": "ˌindikˈaɾ"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "cerca",
+      "text": "el servicio",
       "sentences": [
         {
-          "text": "cerca",
+          "text": "el servicio",
           "segments": [
             {
-              "text": "cerca",
+              "text": "el servicio",
               "lang": "es-419"
             }
           ],
-          "phonemes": "sˈeɾka"
+          "phonemes": "el seɾβˈisjo"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "lejos",
+      "text": "disponible",
       "sentences": [
         {
-          "text": "lejos",
+          "text": "disponible",
           "segments": [
             {
-              "text": "lejos",
+              "text": "disponible",
               "lang": "es-419"
             }
           ],
-          "phonemes": "lˈexos"
+          "phonemes": "dˌisponˈiβle"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "abierto",
+      "text": "el edificio",
       "sentences": [
         {
-          "text": "abierto",
+          "text": "el edificio",
           "segments": [
             {
-              "text": "abierto",
+              "text": "el edificio",
               "lang": "es-419"
             }
           ],
-          "phonemes": "aβjˈeɾto"
+          "phonemes": "el ˌeðifˈisjo"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "cerrado",
+      "text": "preguntar",
       "sentences": [
         {
-          "text": "cerrado",
+          "text": "preguntar",
           "segments": [
             {
-              "text": "cerrado",
+              "text": "preguntar",
               "lang": "es-419"
             }
           ],
-          "phonemes": "serˈaðo"
+          "phonemes": "pɾˌeɣuntˈaɾ"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "delante de",
+      "text": "confirmar",
       "sentences": [
         {
-          "text": "delante de",
+          "text": "confirmar",
           "segments": [
             {
-              "text": "delante de",
+              "text": "confirmar",
               "lang": "es-419"
             }
           ],
-          "phonemes": "delˈante ðˈe"
+          "phonemes": "kˌonfiɾmˈaɾ"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "detrás de",
+      "text": "el recorrido",
       "sentences": [
         {
-          "text": "detrás de",
+          "text": "el recorrido",
           "segments": [
             {
-              "text": "detrás de",
+              "text": "el recorrido",
               "lang": "es-419"
             }
           ],
-          "phonemes": "detɾˈas ðˈe"
+          "phonemes": "el rˌekorˈiðo"
         }
       ]
     }

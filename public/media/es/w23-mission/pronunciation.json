@@ -143,7 +143,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Model language. Ya hemos completado la primera fase. — We have already completed the first phase. Todavía no han llegado los datos. — The data have not arrived yet. ¿Alguna vez has trabajado en Chile? — Have you ever worked in Chile? Cuando llamó, yo ya había enviado el informe. — When he or she called, I had already sent the report. La situación ha cambiado recientemente. — The situation has changed recently.",
+      "text": "Model language. Voy a dar una actualización clara. — I am going to give a clear update. Separo el trabajo completado del pendiente. — I separate the completed work from the pending work. Informo el cambio reciente. — I report the recent change. Menciono el trabajo anterior al plazo. — I mention the work prior to the deadline. Presento todo claramente. — I present everything clearly.",
       "sentences": [
         {
           "text": "Model language.",
@@ -156,104 +156,104 @@
           "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
         },
         {
-          "text": "Ya hemos completado la primera fase.",
+          "text": "Voy a dar una actualización clara.",
           "segments": [
             {
-              "text": "Ya hemos completado la primera fase.",
+              "text": "Voy a dar una actualización clara.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ʝˈa ˈemos kˌompletˈaðo la pɾimˈeɾa fˈase."
+          "phonemes": "bˈoɪ a ðˈaɾ ˈuna ˌaktwalˌisasjˈon klˈaɾa."
         },
         {
-          "text": "— We have already completed the first phase.",
+          "text": "— I am going to give a clear update.",
           "segments": [
             {
-              "text": "— We have already completed the first phase.",
+              "text": "— I am going to give a clear update.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— wiː hæv ɔːlɹˌɛdi kəmplˈiːɾᵻd ðə fˈɜːst fˈeɪz."
+          "phonemes": "— aɪɐm ɡˌoʊɪŋ tə ɡˈɪv ɐ klˈɪɹ ˈʌpdeɪt."
         },
         {
-          "text": "Todavía no han llegado los datos.",
+          "text": "Separo el trabajo completado del pendiente.",
           "segments": [
             {
-              "text": "Todavía no han llegado los datos.",
+              "text": "Separo el trabajo completado del pendiente.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "tˌoðaβˈia nˈo ˈan dʒeɣˈaðo los ðˈatos."
+          "phonemes": "sepˈaɾo el tɾaβˈaxo kˌompletˈaðo ðel pendjˈɛnte."
         },
         {
-          "text": "— The data have not arrived yet.",
+          "text": "— I separate the completed work from the pending work.",
           "segments": [
             {
-              "text": "— The data have not arrived yet.",
+              "text": "— I separate the completed work from the pending work.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ðə dˈeɪɾə hɐvnˌɑːt ɚɹˈaɪvd jˈɛt."
+          "phonemes": "— aɪ sˈɛpɚɹˌeɪt ðə kəmplˈiːɾᵻd wˈɜːk fɹʌmðə pˈɛndɪŋ wˈɜːk."
         },
         {
-          "text": "¿Alguna vez has trabajado en Chile?",
+          "text": "Informo el cambio reciente.",
           "segments": [
             {
-              "text": "¿Alguna vez has trabajado en Chile?",
+              "text": "Informo el cambio reciente.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "alɣˈuna βˈes ˈas tɾˌaβaxˈaðo en tʃˈile?"
+          "phonemes": "infˈoɾmo el kˈambjo resjˈɛnte."
         },
         {
-          "text": "— Have you ever worked in Chile?",
+          "text": "— I report the recent change.",
           "segments": [
             {
-              "text": "— Have you ever worked in Chile?",
+              "text": "— I report the recent change.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— hæv juː ˈɛvɚ wˈɜːkt ɪn tʃˈɪli?"
+          "phonemes": "— aɪ ɹᵻpˈɔːɹt ðə ɹˈiːsənt tʃˈeɪndʒ."
         },
         {
-          "text": "Cuando llamó, yo ya había enviado el informe.",
+          "text": "Menciono el trabajo anterior al plazo.",
           "segments": [
             {
-              "text": "Cuando llamó, yo ya había enviado el informe.",
+              "text": "Menciono el trabajo anterior al plazo.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "kwˌando ʝamˈo, ʝˈo ʝˈa aβˈia embjˈaðo el infˈoɾme."
+          "phonemes": "mensjˈono el tɾaβˈaxo ˌanteɾjˈoɾ al plˈaso."
         },
         {
-          "text": "— When he or she called, I had already sent the report.",
+          "text": "— I mention the work prior to the deadline.",
           "segments": [
             {
-              "text": "— When he or she called, I had already sent the report.",
+              "text": "— I mention the work prior to the deadline.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— wˌɛn hiː ɔːɹ ʃiː kˈɔːld, aɪ hæd ɔːlɹˌɛdi sˈɛnt ðə ɹᵻpˈɔːɹt."
+          "phonemes": "— aɪ mˈɛnʃən ðə wˈɜːk pɹˈaɪɚ tə ðə dˈɛdlaɪn."
         },
         {
-          "text": "La situación ha cambiado recientemente.",
+          "text": "Presento todo claramente.",
           "segments": [
             {
-              "text": "La situación ha cambiado recientemente.",
+              "text": "Presento todo claramente.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la sˌitwasjˈon ˈa kambjˈaðo resjˈɛntemˈente."
+          "phonemes": "pɾesˈɛnto tˈoðo klˈaɾamˈente."
         },
         {
-          "text": "— The situation has changed recently.",
+          "text": "— I present everything clearly.",
           "segments": [
             {
-              "text": "— The situation has changed recently.",
+              "text": "— I present everything clearly.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ðə sˌɪtʃuːˈeɪʃən hɐz tʃˈeɪndʒd ɹˈiːsəntli."
+          "phonemes": "— aɪ pɹɪzˈɛnt ˈɛvɹɪθˌɪŋ klˈɪɹli."
         }
       ]
     },
@@ -305,129 +305,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "todavía no",
+      "text": "la actualización",
       "sentences": [
         {
-          "text": "todavía no",
+          "text": "la actualización",
           "segments": [
             {
-              "text": "todavía no",
+              "text": "la actualización",
               "lang": "es-419"
             }
           ],
-          "phonemes": "tˌoðaβˈia nˈo"
+          "phonemes": "la ˌaktwalˌisasjˈon"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "ya",
+      "text": "separar",
       "sentences": [
         {
-          "text": "ya",
+          "text": "separar",
           "segments": [
             {
-              "text": "ya",
+              "text": "separar",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ʝˈa"
+          "phonemes": "sˌepaɾˈaɾ"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "alguna vez",
+      "text": "el trabajo completado",
       "sentences": [
         {
-          "text": "alguna vez",
+          "text": "el trabajo completado",
           "segments": [
             {
-              "text": "alguna vez",
+              "text": "el trabajo completado",
               "lang": "es-419"
             }
           ],
-          "phonemes": "alɣˈuna βˈes"
+          "phonemes": "el tɾaβˈaxo kˌompletˈaðo"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "nunca",
+      "text": "el cambio reciente",
       "sentences": [
         {
-          "text": "nunca",
+          "text": "el cambio reciente",
           "segments": [
             {
-              "text": "nunca",
+              "text": "el cambio reciente",
               "lang": "es-419"
             }
           ],
-          "phonemes": "nˈunka"
+          "phonemes": "el kˈambjo resjˈɛnte"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "recientemente",
+      "text": "el plazo",
       "sentences": [
         {
-          "text": "recientemente",
+          "text": "el plazo",
           "segments": [
             {
-              "text": "recientemente",
+              "text": "el plazo",
               "lang": "es-419"
             }
           ],
-          "phonemes": "resjˈɛntemˈente"
+          "phonemes": "el plˈaso"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "completar",
+      "text": "anterior",
       "sentences": [
         {
-          "text": "completar",
+          "text": "anterior",
           "segments": [
             {
-              "text": "completar",
+              "text": "anterior",
               "lang": "es-419"
             }
           ],
-          "phonemes": "kˌompletˈaɾ"
+          "phonemes": "ˌanteɾjˈoɾ"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "mejorar",
+      "text": "presentar",
       "sentences": [
         {
-          "text": "mejorar",
+          "text": "presentar",
           "segments": [
             {
-              "text": "mejorar",
+              "text": "presentar",
               "lang": "es-419"
             }
           ],
-          "phonemes": "mˌexoɾˈaɾ"
+          "phonemes": "pɾˌesentˈaɾ"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "cambiar",
+      "text": "claramente",
       "sentences": [
         {
-          "text": "cambiar",
+          "text": "claramente",
           "segments": [
             {
-              "text": "cambiar",
+              "text": "claramente",
               "lang": "es-419"
             }
           ],
-          "phonemes": "kambjˈaɾ"
+          "phonemes": "klˈaɾamˈente"
         }
       ]
     }

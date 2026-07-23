@@ -29,7 +29,7 @@
     },
     {
       "file": "01.wav",
-      "text": "Form and meaning. Reflexive pronouns; routines; antes de/después de; present progressive.",
+      "text": "Form and meaning. Applying the form. Reflexive verbs need a pronoun that matches the subject (me, te, se, nos, se) placed right before the conjugated verb.",
       "sentences": [
         {
           "text": "Form and meaning.",
@@ -42,20 +42,46 @@
           "phonemes": "fˈɔːɹm ænd mˈiːnɪŋ."
         },
         {
-          "text": "Reflexive pronouns; routines; antes de/después de; present progressive.",
+          "text": "Applying the form.",
           "segments": [
             {
-              "text": "Reflexive pronouns; routines; antes de/después de; present progressive.",
-              "lang": "es-419"
+              "text": "Applying the form.",
+              "lang": "en-us"
             }
           ],
-          "phonemes": "rˌefleksˈiβe pɾˈonowns; rowtˈines; ˈantes ðe βˈara ðespwˈes ðˈe; pɾesˈɛnt pɾˌoɣɾessˈiβe."
+          "phonemes": "ɐplˈaɪɪŋ ðə fˈɔːɹm."
+        },
+        {
+          "text": "Reflexive verbs need a pronoun that matches the subject (me, te, se, nos, se) placed right before the conjugated verb.",
+          "segments": [
+            {
+              "text": "Reflexive verbs need a pronoun that matches the subject (me, te, ",
+              "lang": "en-us"
+            },
+            {
+              "text": "se",
+              "lang": "es-419"
+            },
+            {
+              "text": ", nos, ",
+              "lang": "en-us"
+            },
+            {
+              "text": "se",
+              "lang": "es-419"
+            },
+            {
+              "text": ") placed right before the conjugated verb.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ɹᵻflˈɛksɪv vˈɜːbz nˈiːd ɐ pɹˈoʊnaʊn ðæt mˈætʃᵻz ðə sˈʌbdʒɛkt (mˈiː, tˈiː, sˈe , nˈɑːs, sˈe ) plˈeɪst ɹˈaɪt bᵻfˌɔːɹ ðə kˈɑːndʒuːɡˌeɪɾᵻd vˈɜːb."
         }
       ]
     },
     {
       "file": "02.wav",
-      "text": "Model set. Me levanto a las seis y media. Después de vestirme, preparo el desayuno. Ahora estoy esperando el tren. Los niños se acuestan temprano. ¿A qué hora te despiertas? I get up at six thirty. After getting dressed, I prepare breakfast. I am waiting for the train now. The children go to bed early. What time do you wake up?",
+      "text": "Model set. Me despierto y luego me levanto. Te levantas antes que yo. Se ducha por la mañana. Nos vestimos rápido los lunes. Por último, se acuestan a las diez. I wake up and then I get up. You get up before me. He/she showers in the morning. We get dressed quickly on Mondays. Lastly, they go to bed at ten.",
       "sentences": [
         {
           "text": "Model set.",
@@ -68,104 +94,104 @@
           "phonemes": "mˈɑːdəl sˈɛt."
         },
         {
-          "text": "Me levanto a las seis y media.",
+          "text": "Me despierto y luego me levanto.",
           "segments": [
             {
-              "text": "Me levanto a las seis y media.",
+              "text": "Me despierto y luego me levanto.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "me leβˈanto a las sˈeɪs i mˈeðja."
+          "phonemes": "me ðespjˈeɾto i luˈeɣo me leβˈanto."
         },
         {
-          "text": "Después de vestirme, preparo el desayuno.",
+          "text": "Te levantas antes que yo.",
           "segments": [
             {
-              "text": "Después de vestirme, preparo el desayuno.",
+              "text": "Te levantas antes que yo.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "despwˈes ðe βestˈiɾme, pɾepˈaɾo el ðˌesaʝˈuno."
+          "phonemes": "te leβˈantas ˈantes ke ʝˈo."
         },
         {
-          "text": "Ahora estoy esperando el tren.",
+          "text": "Se ducha por la mañana.",
           "segments": [
             {
-              "text": "Ahora estoy esperando el tren.",
+              "text": "Se ducha por la mañana.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "aˈoɾa estˈoɪ ˌespeɾˈando el tɾˈen."
+          "phonemes": "se ðˈutʃa poɾ la maɲˈana."
         },
         {
-          "text": "Los niños se acuestan temprano.",
+          "text": "Nos vestimos rápido los lunes.",
           "segments": [
             {
-              "text": "Los niños se acuestan temprano.",
+              "text": "Nos vestimos rápido los lunes.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "los nˈiɲos se akwˈestan tempɾˈano."
+          "phonemes": "nos βestˈimos rˈapiðo los lˈunes."
         },
         {
-          "text": "¿A qué hora te despiertas?",
+          "text": "Por último, se acuestan a las diez.",
           "segments": [
             {
-              "text": "¿A qué hora te despiertas?",
+              "text": "Por último, se acuestan a las diez.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "a kˈe ˈoɾa te ðespjˈeɾtas?"
+          "phonemes": "poɾ ˈultimo, se akwˈestan a las ðjˈes."
         },
         {
-          "text": "I get up at six thirty.",
+          "text": "I wake up and then I get up.",
           "segments": [
             {
-              "text": "I get up at six thirty.",
+              "text": "I wake up and then I get up.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪ ɡɛt ˌʌp æt sˈɪks θˈɜːɾi."
+          "phonemes": "aɪ wˈeɪk ˌʌp ænd ðˈɛn aɪ ɡɛt ˈʌp."
         },
         {
-          "text": "After getting dressed, I prepare breakfast.",
+          "text": "You get up before me.",
           "segments": [
             {
-              "text": "After getting dressed, I prepare breakfast.",
+              "text": "You get up before me.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ˈæftɚ ɡˌɛɾɪŋ dɹˈɛst, aɪ pɹɪpˈɛɹ bɹˈɛkfəst."
+          "phonemes": "juː ɡɛt ˌʌp bᵻfˈɔːɹ mˌiː."
         },
         {
-          "text": "I am waiting for the train now.",
+          "text": "He/she showers in the morning.",
           "segments": [
             {
-              "text": "I am waiting for the train now.",
+              "text": "He/she showers in the morning.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪɐm wˈeɪɾɪŋ fɚðə tɹˈeɪn nˈaʊ."
+          "phonemes": "hiː slˈæʃ ʃiː ʃˈaʊɚz ɪnðə mˈɔːɹnɪŋ."
         },
         {
-          "text": "The children go to bed early.",
+          "text": "We get dressed quickly on Mondays.",
           "segments": [
             {
-              "text": "The children go to bed early.",
+              "text": "We get dressed quickly on Mondays.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə tʃˈɪldɹən ɡˌoʊ tə bˈɛd ˈɜːli."
+          "phonemes": "wiː ɡɛt dɹˈɛst kwˈɪkli ˌɔn mˈʌndeɪz."
         },
         {
-          "text": "What time do you wake up?",
+          "text": "Lastly, they go to bed at ten.",
           "segments": [
             {
-              "text": "What time do you wake up?",
+              "text": "Lastly, they go to bed at ten.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wˌʌt tˈaɪm dˈuː juː wˈeɪk ˈʌp?"
+          "phonemes": "lˈæstli, ðeɪ ɡˌoʊ tə bˈɛd æt tˈɛn."
         }
       ]
     },
@@ -243,7 +269,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Model language. Me levanto a las seis y media. — I get up at six thirty. Después de vestirme, preparo el desayuno. — After getting dressed, I prepare breakfast. Ahora estoy esperando el tren. — I am waiting for the train now. Los niños se acuestan temprano. — The children go to bed early. ¿A qué hora te despiertas? — What time do you wake up?",
+      "text": "Model language. Me despierto y luego me levanto. — I wake up and then I get up. Te levantas antes que yo. — You get up before me. Se ducha por la mañana. — He/she showers in the morning. Nos vestimos rápido los lunes. — We get dressed quickly on Mondays. Por último, se acuestan a las diez. — Lastly, they go to bed at ten.",
       "sentences": [
         {
           "text": "Model language.",
@@ -256,104 +282,104 @@
           "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
         },
         {
-          "text": "Me levanto a las seis y media.",
+          "text": "Me despierto y luego me levanto.",
           "segments": [
             {
-              "text": "Me levanto a las seis y media.",
+              "text": "Me despierto y luego me levanto.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "me leβˈanto a las sˈeɪs i mˈeðja."
+          "phonemes": "me ðespjˈeɾto i luˈeɣo me leβˈanto."
         },
         {
-          "text": "— I get up at six thirty.",
+          "text": "— I wake up and then I get up.",
           "segments": [
             {
-              "text": "— I get up at six thirty.",
+              "text": "— I wake up and then I get up.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— aɪ ɡɛt ˌʌp æt sˈɪks θˈɜːɾi."
+          "phonemes": "— aɪ wˈeɪk ˌʌp ænd ðˈɛn aɪ ɡɛt ˈʌp."
         },
         {
-          "text": "Después de vestirme, preparo el desayuno.",
+          "text": "Te levantas antes que yo.",
           "segments": [
             {
-              "text": "Después de vestirme, preparo el desayuno.",
+              "text": "Te levantas antes que yo.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "despwˈes ðe βestˈiɾme, pɾepˈaɾo el ðˌesaʝˈuno."
+          "phonemes": "te leβˈantas ˈantes ke ʝˈo."
         },
         {
-          "text": "— After getting dressed, I prepare breakfast.",
+          "text": "— You get up before me.",
           "segments": [
             {
-              "text": "— After getting dressed, I prepare breakfast.",
+              "text": "— You get up before me.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ˈæftɚ ɡˌɛɾɪŋ dɹˈɛst, aɪ pɹɪpˈɛɹ bɹˈɛkfəst."
+          "phonemes": "— juː ɡɛt ˌʌp bᵻfˈɔːɹ mˌiː."
         },
         {
-          "text": "Ahora estoy esperando el tren.",
+          "text": "Se ducha por la mañana.",
           "segments": [
             {
-              "text": "Ahora estoy esperando el tren.",
+              "text": "Se ducha por la mañana.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "aˈoɾa estˈoɪ ˌespeɾˈando el tɾˈen."
+          "phonemes": "se ðˈutʃa poɾ la maɲˈana."
         },
         {
-          "text": "— I am waiting for the train now.",
+          "text": "— He/she showers in the morning.",
           "segments": [
             {
-              "text": "— I am waiting for the train now.",
+              "text": "— He/she showers in the morning.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— aɪɐm wˈeɪɾɪŋ fɚðə tɹˈeɪn nˈaʊ."
+          "phonemes": "— hiː slˈæʃ ʃiː ʃˈaʊɚz ɪnðə mˈɔːɹnɪŋ."
         },
         {
-          "text": "Los niños se acuestan temprano.",
+          "text": "Nos vestimos rápido los lunes.",
           "segments": [
             {
-              "text": "Los niños se acuestan temprano.",
+              "text": "Nos vestimos rápido los lunes.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "los nˈiɲos se akwˈestan tempɾˈano."
+          "phonemes": "nos βestˈimos rˈapiðo los lˈunes."
         },
         {
-          "text": "— The children go to bed early.",
+          "text": "— We get dressed quickly on Mondays.",
           "segments": [
             {
-              "text": "— The children go to bed early.",
+              "text": "— We get dressed quickly on Mondays.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ðə tʃˈɪldɹən ɡˌoʊ tə bˈɛd ˈɜːli."
+          "phonemes": "— wiː ɡɛt dɹˈɛst kwˈɪkli ˌɔn mˈʌndeɪz."
         },
         {
-          "text": "¿A qué hora te despiertas?",
+          "text": "Por último, se acuestan a las diez.",
           "segments": [
             {
-              "text": "¿A qué hora te despiertas?",
+              "text": "Por último, se acuestan a las diez.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "a kˈe ˈoɾa te ðespjˈeɾtas?"
+          "phonemes": "poɾ ˈultimo, se akwˈestan a las ðjˈes."
         },
         {
-          "text": "— What time do you wake up?",
+          "text": "— Lastly, they go to bed at ten.",
           "segments": [
             {
-              "text": "— What time do you wake up?",
+              "text": "— Lastly, they go to bed at ten.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— wˌʌt tˈaɪm dˈuː juː wˈeɪk ˈʌp?"
+          "phonemes": "— lˈæstli, ðeɪ ɡˌoʊ tə bˈɛd æt tˈɛn."
         }
       ]
     },
@@ -405,129 +431,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "despertarse",
+      "text": "me despierto",
       "sentences": [
         {
-          "text": "despertarse",
+          "text": "me despierto",
           "segments": [
             {
-              "text": "despertarse",
+              "text": "me despierto",
               "lang": "es-419"
             }
           ],
-          "phonemes": "dˌespeɾtˈaɾse"
+          "phonemes": "me ðespjˈeɾto"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "levantarse",
+      "text": "te levantas",
       "sentences": [
         {
-          "text": "levantarse",
+          "text": "te levantas",
           "segments": [
             {
-              "text": "levantarse",
+              "text": "te levantas",
               "lang": "es-419"
             }
           ],
-          "phonemes": "lˌeβantˈaɾse"
+          "phonemes": "te leβˈantas"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "ducharse",
+      "text": "se ducha",
       "sentences": [
         {
-          "text": "ducharse",
+          "text": "se ducha",
           "segments": [
             {
-              "text": "ducharse",
+              "text": "se ducha",
               "lang": "es-419"
             }
           ],
-          "phonemes": "dutʃˈaɾse"
+          "phonemes": "se ðˈutʃa"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "vestirse",
+      "text": "nos vestimos",
       "sentences": [
         {
-          "text": "vestirse",
+          "text": "nos vestimos",
           "segments": [
             {
-              "text": "vestirse",
+              "text": "nos vestimos",
               "lang": "es-419"
             }
           ],
-          "phonemes": "bestˈiɾse"
+          "phonemes": "nos βestˈimos"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "acostarse",
+      "text": "se acuestan",
       "sentences": [
         {
-          "text": "acostarse",
+          "text": "se acuestan",
           "segments": [
             {
-              "text": "acostarse",
+              "text": "se acuestan",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˌakostˈaɾse"
+          "phonemes": "se akwˈestan"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "temprano",
+      "text": "primero",
       "sentences": [
         {
-          "text": "temprano",
+          "text": "primero",
           "segments": [
             {
-              "text": "temprano",
+              "text": "primero",
               "lang": "es-419"
             }
           ],
-          "phonemes": "tempɾˈano"
+          "phonemes": "pɾimˈeɾo"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "tarde",
+      "text": "luego",
       "sentences": [
         {
-          "text": "tarde",
+          "text": "luego",
           "segments": [
             {
-              "text": "tarde",
+              "text": "luego",
               "lang": "es-419"
             }
           ],
-          "phonemes": "tˈaɾðe"
+          "phonemes": "luˈeɣo"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "ahora",
+      "text": "por último",
       "sentences": [
         {
-          "text": "ahora",
+          "text": "por último",
           "segments": [
             {
-              "text": "ahora",
+              "text": "por último",
               "lang": "es-419"
             }
           ],
-          "phonemes": "aˈoɾa"
+          "phonemes": "poɾ ˈultimo"
         }
       ]
     }

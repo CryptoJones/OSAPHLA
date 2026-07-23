@@ -143,7 +143,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Lenguaje modelo. The measure was approved by the council. — La medida fue aprobada por el consejo. The results were published yesterday. — Los resultados se publicaron ayer. We're having the system repaired. — Estamos haciendo reparar el sistema. The service was closed because of funding cuts. — El servicio se cerró por recortes de fondos. Identification is required to enter. — Se requiere identificación para entrar.",
+      "text": "Lenguaje modelo. I'm going to explain how a public service works. — Voy a explicar el funcionamiento de un servicio público. I explain why it changed. — Explico por qué cambió. I say who is affected. — Digo quién resulta afectado. I use clear examples for citizens. — Uso ejemplos claros para los ciudadanos. I finish with a brief summary. — Termino con un resumen breve.",
       "sentences": [
         {
           "text": "Lenguaje modelo.",
@@ -156,104 +156,104 @@
           "phonemes": "leŋɡwˈaxe moðˈelo."
         },
         {
-          "text": "The measure was approved by the council.",
+          "text": "I'm going to explain how a public service works.",
           "segments": [
             {
-              "text": "The measure was approved by the council.",
+              "text": "I'm going to explain how a public service works.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə mˈɛʒɚ wʌz ɐpɹˈuːvd baɪ ðə kˈaʊnsəl."
+          "phonemes": "aɪm ɡˌoʊɪŋ tʊ ɛksplˈeɪn hˌaʊ ɐ pˈʌblɪk sˈɜːvɪs wˈɜːks."
         },
         {
-          "text": "— La medida fue aprobada por el consejo.",
+          "text": "— Voy a explicar el funcionamiento de un servicio público.",
           "segments": [
             {
-              "text": "— La medida fue aprobada por el consejo.",
+              "text": "— Voy a explicar el funcionamiento de un servicio público.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— la meðˈiða fwˈe ˌapɾoβˈaða poɾ el konsˈexo."
+          "phonemes": "— bˈoɪ a ˌeksplikˈaɾ el fˌunsjonamjˈɛnto ðe ˈun seɾβˈisjo pˈuβliko."
         },
         {
-          "text": "The results were published yesterday.",
+          "text": "I explain why it changed.",
           "segments": [
             {
-              "text": "The results were published yesterday.",
+              "text": "I explain why it changed.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə ɹɪzˈʌlts wɜː pˈʌblɪʃt jˈɛstɚdˌeɪ."
+          "phonemes": "aɪ ɛksplˈeɪn wˌaɪ ɪt tʃˈeɪndʒd."
         },
         {
-          "text": "— Los resultados se publicaron ayer.",
+          "text": "— Explico por qué cambió.",
           "segments": [
             {
-              "text": "— Los resultados se publicaron ayer.",
+              "text": "— Explico por qué cambió.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— los rˌesultˈaðos se pˌuβlikˈaɾon aʝˈeɾ."
+          "phonemes": "— eksplˈiko poɾ kˈe kambjˈo."
         },
         {
-          "text": "We're having the system repaired.",
+          "text": "I say who is affected.",
           "segments": [
             {
-              "text": "We're having the system repaired.",
+              "text": "I say who is affected.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wɪɹ hˌævɪŋ ðə sˈɪstəm ɹᵻpˈɛɹd."
+          "phonemes": "aɪ sˈeɪ hˌuː ɪz ɐfˈɛktᵻd."
         },
         {
-          "text": "— Estamos haciendo reparar el sistema.",
+          "text": "— Digo quién resulta afectado.",
           "segments": [
             {
-              "text": "— Estamos haciendo reparar el sistema.",
+              "text": "— Digo quién resulta afectado.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— estˈamos asjˈɛndo rˌepaɾˈaɾ el sistˈema."
+          "phonemes": "— dˈiɣo kjˈen resˈulta ˌafektˈaðo."
         },
         {
-          "text": "The service was closed because of funding cuts.",
+          "text": "I use clear examples for citizens.",
           "segments": [
             {
-              "text": "The service was closed because of funding cuts.",
+              "text": "I use clear examples for citizens.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə sˈɜːvɪs wʌz klˈoʊzd bɪkˈʌz ʌv fˈʌndɪŋ kˈʌts."
+          "phonemes": "aɪ jˈuːz klˈɪɹ ɛɡzˈæmpəlz fɔːɹ sˈɪɾɪzənz."
         },
         {
-          "text": "— El servicio se cerró por recortes de fondos.",
+          "text": "— Uso ejemplos claros para los ciudadanos.",
           "segments": [
             {
-              "text": "— El servicio se cerró por recortes de fondos.",
+              "text": "— Uso ejemplos claros para los ciudadanos.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— el seɾβˈisjo se serˈo poɾ rekˈoɾtes ðe fˈondos."
+          "phonemes": "— ˈuso exˈemplos klˈaɾos pˌaɾa los sjˌuðaðˈanos."
         },
         {
-          "text": "Identification is required to enter.",
+          "text": "I finish with a brief summary.",
           "segments": [
             {
-              "text": "Identification is required to enter.",
+              "text": "I finish with a brief summary.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪdˈɛntɪfɪkˈeɪʃən ɪz ɹᵻkwˈaɪɚd tʊ ˈɛntɚ."
+          "phonemes": "aɪ fˈɪnɪʃ wɪð ɐ bɹˈiːf sˈʌmɚɹi."
         },
         {
-          "text": "— Se requiere identificación para entrar.",
+          "text": "— Termino con un resumen breve.",
           "segments": [
             {
-              "text": "— Se requiere identificación para entrar.",
+              "text": "— Termino con un resumen breve.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— se rekjˈeɾe ˌiðentˌifikasjˈom pˌaɾa entɾˈaɾ."
+          "phonemes": "— teɾmˈino kon ˈun resˈumem bɾˈeβe."
         }
       ]
     },
@@ -305,129 +305,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "to approve",
+      "text": "to explain",
       "sentences": [
         {
-          "text": "to approve",
+          "text": "to explain",
           "segments": [
             {
-              "text": "to approve",
+              "text": "to explain",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tʊ ɐpɹˈuːv"
+          "phonemes": "tʊ ɛksplˈeɪn"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "to publish",
+      "text": "functioning",
       "sentences": [
         {
-          "text": "to publish",
+          "text": "functioning",
           "segments": [
             {
-              "text": "to publish",
+              "text": "functioning",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə pˈʌblɪʃ"
+          "phonemes": "fˈʌŋkʃənɪŋ"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "to require",
+      "text": "why",
       "sentences": [
         {
-          "text": "to require",
+          "text": "why",
           "segments": [
             {
-              "text": "to require",
+              "text": "why",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə ɹᵻkwˈaɪɚ"
+          "phonemes": "wˈaɪ"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "to affect",
+      "text": "to change",
       "sentences": [
         {
-          "text": "to affect",
+          "text": "to change",
           "segments": [
             {
-              "text": "to affect",
+              "text": "to change",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tʊ ɐfˈɛkt"
+          "phonemes": "tə tʃˈeɪndʒ"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "a process",
+      "text": "who is affected",
       "sentences": [
         {
-          "text": "a process",
+          "text": "who is affected",
           "segments": [
             {
-              "text": "a process",
+              "text": "who is affected",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ pɹˈɑːsɛs"
+          "phonemes": "hˌuː ɪz ɐfˈɛktᵻd"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "a result",
+      "text": "a citizen",
       "sentences": [
         {
-          "text": "a result",
+          "text": "a citizen",
           "segments": [
             {
-              "text": "a result",
+              "text": "a citizen",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ ɹɪzˈʌlt"
+          "phonemes": "ɐ sˈɪɾɪzən"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "by",
+      "text": "public service",
       "sentences": [
         {
-          "text": "by",
+          "text": "public service",
           "segments": [
             {
-              "text": "by",
+              "text": "public service",
               "lang": "en-us"
             }
           ],
-          "phonemes": "bˈaɪ"
+          "phonemes": "pˈʌblɪk sˈɜːvɪs"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "to repair",
+      "text": "to summarize",
       "sentences": [
         {
-          "text": "to repair",
+          "text": "to summarize",
           "segments": [
             {
-              "text": "to repair",
+              "text": "to summarize",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə ɹᵻpˈɛɹ"
+          "phonemes": "tə sˈʌmɚɹˌaɪz"
         }
       ]
     }

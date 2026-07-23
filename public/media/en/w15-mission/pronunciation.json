@@ -143,7 +143,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Lenguaje modelo. I have a bad headache. — Me duele mucho la cabeza. I've had a fever since yesterday. — Tengo fiebre desde ayer. Are you allergic to any medicine? — ¿Tienes alergia a algún medicamento? Call an ambulance. — Llama a una ambulancia. They fell and hurt their arm. — Se cayó y se lastimó el brazo.",
+      "text": "Lenguaje modelo. I'm going to ask for help immediately. — Voy a pedir ayuda de inmediato. I explain what happened calmly. — Explico lo ocurrido con calma. I answer every intake question. — Respondo cada pregunta de admisión. The clinician asks urgent questions. — El clínico hace preguntas urgentes. I try to reassure the injured person. — Trato de tranquilizar a la persona herida.",
       "sentences": [
         {
           "text": "Lenguaje modelo.",
@@ -156,104 +156,104 @@
           "phonemes": "leŋɡwˈaxe moðˈelo."
         },
         {
-          "text": "I have a bad headache.",
+          "text": "I'm going to ask for help immediately.",
           "segments": [
             {
-              "text": "I have a bad headache.",
+              "text": "I'm going to ask for help immediately.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪ hæv ɐ bˈæd hˈɛdeɪk."
+          "phonemes": "aɪm ɡˌoʊɪŋ tʊ ˈæsk fɔːɹ hˈɛlp ɪmˈiːdɪətli."
         },
         {
-          "text": "— Me duele mucho la cabeza.",
+          "text": "— Voy a pedir ayuda de inmediato.",
           "segments": [
             {
-              "text": "— Me duele mucho la cabeza.",
+              "text": "— Voy a pedir ayuda de inmediato.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— me dwˈele mˈutʃo la kaβˈesa."
+          "phonemes": "— bˈoɪ a peðˈiɾ aʝˈuða ðe ˌinmeðjˈato."
         },
         {
-          "text": "I've had a fever since yesterday.",
+          "text": "I explain what happened calmly.",
           "segments": [
             {
-              "text": "I've had a fever since yesterday.",
+              "text": "I explain what happened calmly.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪvhˌæd ɐ fˈiːvɚ sˈɪns jˈɛstɚdˌeɪ."
+          "phonemes": "aɪ ɛksplˈeɪn wʌt hˈæpənd kˈɑːmli."
         },
         {
-          "text": "— Tengo fiebre desde ayer.",
+          "text": "— Explico lo ocurrido con calma.",
           "segments": [
             {
-              "text": "— Tengo fiebre desde ayer.",
+              "text": "— Explico lo ocurrido con calma.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— tˈɛŋɡo fjˈeβɾe ðˌesðe aʝˈeɾ."
+          "phonemes": "— eksplˈiko lo ˌokurˈiðo kon kˈalma."
         },
         {
-          "text": "Are you allergic to any medicine?",
+          "text": "I answer every intake question.",
           "segments": [
             {
-              "text": "Are you allergic to any medicine?",
+              "text": "I answer every intake question.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɑːɹ juː ɐlˈɜːdʒɪk tʊ ˌɛni mˈɛdəsən?"
+          "phonemes": "aɪ ˈænsɚɹ ˈɛvɹi ˈɪnteɪk kwˈɛstʃən."
         },
         {
-          "text": "— ¿Tienes alergia a algún medicamento?",
+          "text": "— Respondo cada pregunta de admisión.",
           "segments": [
             {
-              "text": "— ¿Tienes alergia a algún medicamento?",
+              "text": "— Respondo cada pregunta de admisión.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— tjˈenes alˈeɾxja a alɣˈun mˌeðikamˈɛnto?"
+          "phonemes": "— respˈondo kˈaða pɾeɣˈunta ðe ˌadmisjˈon."
         },
         {
-          "text": "Call an ambulance.",
+          "text": "The clinician asks urgent questions.",
           "segments": [
             {
-              "text": "Call an ambulance.",
+              "text": "The clinician asks urgent questions.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "kˈɔːl ɐn ˈæmbjʊləns."
+          "phonemes": "ðə klɪnˈɪʃən ˈæsks ˈɜːdʒənt kwˈɛstʃənz."
         },
         {
-          "text": "— Llama a una ambulancia.",
+          "text": "— El clínico hace preguntas urgentes.",
           "segments": [
             {
-              "text": "— Llama a una ambulancia.",
+              "text": "— El clínico hace preguntas urgentes.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— ʝˈama a ˈuna ˌambulˈansja."
+          "phonemes": "— el klˈiniko ˈase pɾeɣˈuntas uɾxˈɛntes."
         },
         {
-          "text": "They fell and hurt their arm.",
+          "text": "I try to reassure the injured person.",
           "segments": [
             {
-              "text": "They fell and hurt their arm.",
+              "text": "I try to reassure the injured person.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðeɪ fˈɛl ænd hˈɜːt ðɛɹ ˈɑːɹm."
+          "phonemes": "aɪ tɹˈaɪ tə ɹˌiːəʃˈʊɹ ðɪ ˈɪndʒɚd pˈɜːsən."
         },
         {
-          "text": "— Se cayó y se lastimó el brazo.",
+          "text": "— Trato de tranquilizar a la persona herida.",
           "segments": [
             {
-              "text": "— Se cayó y se lastimó el brazo.",
+              "text": "— Trato de tranquilizar a la persona herida.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— se kaʝˈo i se lˌastimˈo el βɾˈaso."
+          "phonemes": "— tɾˈato ðe tɾˌankilisˈaɾ a la peɾsˈona eɾˈiða."
         }
       ]
     },
@@ -305,129 +305,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "a headache",
+      "text": "to ask for help",
       "sentences": [
         {
-          "text": "a headache",
+          "text": "to ask for help",
           "segments": [
             {
-              "text": "a headache",
+              "text": "to ask for help",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ hˈɛdeɪk"
+          "phonemes": "tʊ ˈæsk fɔːɹ hˈɛlp"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "a fever",
+      "text": "to explain what happened",
       "sentences": [
         {
-          "text": "a fever",
+          "text": "to explain what happened",
           "segments": [
             {
-              "text": "a fever",
+              "text": "to explain what happened",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ fˈiːvɚ"
+          "phonemes": "tʊ ɛksplˈeɪn wʌt hˈæpənd"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "medicine",
+      "text": "to answer",
       "sentences": [
         {
-          "text": "medicine",
+          "text": "to answer",
           "segments": [
             {
-              "text": "medicine",
+              "text": "to answer",
               "lang": "en-us"
             }
           ],
-          "phonemes": "mˈɛdəsən"
+          "phonemes": "tʊ ˈænsɚ"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "an allergy",
+      "text": "an intake question",
       "sentences": [
         {
-          "text": "an allergy",
+          "text": "an intake question",
           "segments": [
             {
-              "text": "an allergy",
+              "text": "an intake question",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐn ˈælɚdʒi"
+          "phonemes": "ɐn ˈɪnteɪk kwˈɛstʃən"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "pain",
+      "text": "a clinician",
       "sentences": [
         {
-          "text": "pain",
+          "text": "a clinician",
           "segments": [
             {
-              "text": "pain",
+              "text": "a clinician",
               "lang": "en-us"
             }
           ],
-          "phonemes": "pˈeɪn"
+          "phonemes": "ɐ klɪnˈɪʃən"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "an ambulance",
+      "text": "urgent",
       "sentences": [
         {
-          "text": "an ambulance",
+          "text": "urgent",
           "segments": [
             {
-              "text": "an ambulance",
+              "text": "urgent",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐn ˈæmbjʊləns"
+          "phonemes": "ˈɜːdʒənt"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "to fall",
+      "text": "to reassure",
       "sentences": [
         {
-          "text": "to fall",
+          "text": "to reassure",
           "segments": [
             {
-              "text": "to fall",
+              "text": "to reassure",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə fˈɔːl"
+          "phonemes": "tə ɹˌiːəʃˈʊɹ"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "to breathe",
+      "text": "to call",
       "sentences": [
         {
-          "text": "to breathe",
+          "text": "to call",
           "segments": [
             {
-              "text": "to breathe",
+              "text": "to call",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə bɹˈiːð"
+          "phonemes": "tə kˈɔːl"
         }
       ]
     }

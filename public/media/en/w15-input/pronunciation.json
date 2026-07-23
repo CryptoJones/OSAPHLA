@@ -163,7 +163,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Lenguaje modelo. I have a bad headache. — Me duele mucho la cabeza. I've had a fever since yesterday. — Tengo fiebre desde ayer. Are you allergic to any medicine? — ¿Tienes alergia a algún medicamento? Call an ambulance. — Llama a una ambulancia. They fell and hurt their arm. — Se cayó y se lastimó el brazo.",
+      "text": "Lenguaje modelo. During a hike, Luis falls. — Durante una caminata, Luis se cae. He hurts his arm. — Se lastima el brazo. His friend calls emergency services. — Su amiga llama a emergencias. She describes the location clearly. — Describe el lugar con claridad. She explains that he is conscious. — Explica que él está consciente.",
       "sentences": [
         {
           "text": "Lenguaje modelo.",
@@ -176,104 +176,104 @@
           "phonemes": "leŋɡwˈaxe moðˈelo."
         },
         {
-          "text": "I have a bad headache.",
+          "text": "During a hike, Luis falls.",
           "segments": [
             {
-              "text": "I have a bad headache.",
+              "text": "During a hike, Luis falls.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪ hæv ɐ bˈæd hˈɛdeɪk."
+          "phonemes": "dˈʊɹɹɪŋ ɐ hˈaɪk, lˈuːɪs fˈɔːlz."
         },
         {
-          "text": "— Me duele mucho la cabeza.",
+          "text": "— Durante una caminata, Luis se cae.",
           "segments": [
             {
-              "text": "— Me duele mucho la cabeza.",
+              "text": "— Durante una caminata, Luis se cae.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— me dwˈele mˈutʃo la kaβˈesa."
+          "phonemes": "— duɾˈante ˈuna kˌaminˈata, luˈis se kˈae."
         },
         {
-          "text": "I've had a fever since yesterday.",
+          "text": "He hurts his arm.",
           "segments": [
             {
-              "text": "I've had a fever since yesterday.",
+              "text": "He hurts his arm.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪvhˌæd ɐ fˈiːvɚ sˈɪns jˈɛstɚdˌeɪ."
+          "phonemes": "hiː hˈɜːts hɪz ˈɑːɹm."
         },
         {
-          "text": "— Tengo fiebre desde ayer.",
+          "text": "— Se lastima el brazo.",
           "segments": [
             {
-              "text": "— Tengo fiebre desde ayer.",
+              "text": "— Se lastima el brazo.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— tˈɛŋɡo fjˈeβɾe ðˌesðe aʝˈeɾ."
+          "phonemes": "— se lastˈima el βɾˈaso."
         },
         {
-          "text": "Are you allergic to any medicine?",
+          "text": "His friend calls emergency services.",
           "segments": [
             {
-              "text": "Are you allergic to any medicine?",
+              "text": "His friend calls emergency services.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɑːɹ juː ɐlˈɜːdʒɪk tʊ ˌɛni mˈɛdəsən?"
+          "phonemes": "hɪz fɹˈɛnd kˈɔːlz ɪmˈɜːdʒənsi sˈɜːvɪsᵻz."
         },
         {
-          "text": "— ¿Tienes alergia a algún medicamento?",
+          "text": "— Su amiga llama a emergencias.",
           "segments": [
             {
-              "text": "— ¿Tienes alergia a algún medicamento?",
+              "text": "— Su amiga llama a emergencias.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— tjˈenes alˈeɾxja a alɣˈun mˌeðikamˈɛnto?"
+          "phonemes": "— su amˈiɣa ʝˈama a ˌemeɾxˈɛnsjas."
         },
         {
-          "text": "Call an ambulance.",
+          "text": "She describes the location clearly.",
           "segments": [
             {
-              "text": "Call an ambulance.",
+              "text": "She describes the location clearly.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "kˈɔːl ɐn ˈæmbjʊləns."
+          "phonemes": "ʃiː dᵻskɹˈaɪbz ðə loʊkˈeɪʃən klˈɪɹli."
         },
         {
-          "text": "— Llama a una ambulancia.",
+          "text": "— Describe el lugar con claridad.",
           "segments": [
             {
-              "text": "— Llama a una ambulancia.",
+              "text": "— Describe el lugar con claridad.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— ʝˈama a ˈuna ˌambulˈansja."
+          "phonemes": "— deskɾˈiβe el luɣˈaɾ kon klˌaɾiðˈad."
         },
         {
-          "text": "They fell and hurt their arm.",
+          "text": "She explains that he is conscious.",
           "segments": [
             {
-              "text": "They fell and hurt their arm.",
+              "text": "She explains that he is conscious.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðeɪ fˈɛl ænd hˈɜːt ðɛɹ ˈɑːɹm."
+          "phonemes": "ʃiː ɛksplˈeɪnz ðæt hiː ɪz kˈɑːnʃəs."
         },
         {
-          "text": "— Se cayó y se lastimó el brazo.",
+          "text": "— Explica que él está consciente.",
           "segments": [
             {
-              "text": "— Se cayó y se lastimó el brazo.",
+              "text": "— Explica que él está consciente.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— se kaʝˈo i se lˌastimˈo el βɾˈaso."
+          "phonemes": "— eksplˈika ke ˈel estˈa konsjˈɛnte."
         }
       ]
     },
@@ -325,129 +325,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "a headache",
+      "text": "a hike",
       "sentences": [
         {
-          "text": "a headache",
+          "text": "a hike",
           "segments": [
             {
-              "text": "a headache",
+              "text": "a hike",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ hˈɛdeɪk"
+          "phonemes": "ɐ hˈaɪk"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "a fever",
+      "text": "an injury",
       "sentences": [
         {
-          "text": "a fever",
+          "text": "an injury",
           "segments": [
             {
-              "text": "a fever",
+              "text": "an injury",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ fˈiːvɚ"
+          "phonemes": "ɐn ˈɪndʒɚɹi"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "medicine",
+      "text": "to hurt oneself",
       "sentences": [
         {
-          "text": "medicine",
+          "text": "to hurt oneself",
           "segments": [
             {
-              "text": "medicine",
+              "text": "to hurt oneself",
               "lang": "en-us"
             }
           ],
-          "phonemes": "mˈɛdəsən"
+          "phonemes": "tə hˈɜːt wʌnsˈɛlf"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "an allergy",
+      "text": "conscious",
       "sentences": [
         {
-          "text": "an allergy",
+          "text": "conscious",
           "segments": [
             {
-              "text": "an allergy",
+              "text": "conscious",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐn ˈælɚdʒi"
+          "phonemes": "kˈɑːnʃəs"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "pain",
+      "text": "to describe",
       "sentences": [
         {
-          "text": "pain",
+          "text": "to describe",
           "segments": [
             {
-              "text": "pain",
+              "text": "to describe",
               "lang": "en-us"
             }
           ],
-          "phonemes": "pˈeɪn"
+          "phonemes": "tə dᵻskɹˈaɪb"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "an ambulance",
+      "text": "a place",
       "sentences": [
         {
-          "text": "an ambulance",
+          "text": "a place",
           "segments": [
             {
-              "text": "an ambulance",
+              "text": "a place",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐn ˈæmbjʊləns"
+          "phonemes": "ɐ plˈeɪs"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "to fall",
+      "text": "to explain",
       "sentences": [
         {
-          "text": "to fall",
+          "text": "to explain",
           "segments": [
             {
-              "text": "to fall",
+              "text": "to explain",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə fˈɔːl"
+          "phonemes": "tʊ ɛksplˈeɪn"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "to breathe",
+      "text": "a lot",
       "sentences": [
         {
-          "text": "to breathe",
+          "text": "a lot",
           "segments": [
             {
-              "text": "to breathe",
+              "text": "a lot",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə bɹˈiːð"
+          "phonemes": "ɐ lˈɑːt"
         }
       ]
     }

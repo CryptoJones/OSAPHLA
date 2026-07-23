@@ -183,7 +183,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Lenguaje modelo. I work in the morning and study at night. — Trabajo por la mañana y estudio por la noche. Where do you live? — ¿Dónde vives? We eat together on Fridays. — Comemos juntos los viernes. She writes in her journal every day. — Ella escribe en su diario todos los días. I sometimes drink coffee after lunch. — A veces tomo café después del almuerzo.",
+      "text": "Lenguaje modelo. Raúl lives near his office. — Raúl vive cerca de su oficina. He walks to work every morning. — Camina al trabajo cada mañana. He eats with his coworkers at noon. — Come con sus compañeros al mediodía. He studies English at night. — Estudia inglés por la noche. On weekends he writes to his family. — Los fines de semana escribe a su familia.",
       "sentences": [
         {
           "text": "Lenguaje modelo.",
@@ -196,104 +196,104 @@
           "phonemes": "leŋɡwˈaxe moðˈelo."
         },
         {
-          "text": "I work in the morning and study at night.",
+          "text": "Raúl lives near his office.",
           "segments": [
             {
-              "text": "I work in the morning and study at night.",
+              "text": "Raúl lives near his office.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪ wˈɜːk ɪnðə mˈɔːɹnɪŋ ænd stˈʌdi æt nˈaɪt."
+          "phonemes": "ɹˈɔːl lˈaɪvz nˌɪɹ hɪz ˈɑːfɪs."
         },
         {
-          "text": "— Trabajo por la mañana y estudio por la noche.",
+          "text": "— Raúl vive cerca de su oficina.",
           "segments": [
             {
-              "text": "— Trabajo por la mañana y estudio por la noche.",
+              "text": "— Raúl vive cerca de su oficina.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— tɾaβˈaxo poɾ la maɲˈana i estˈuðjo poɾ la nˈotʃe."
+          "phonemes": "— raˈul βˈiβe sˈeɾka ðe su ˌofisˈina."
         },
         {
-          "text": "Where do you live?",
+          "text": "He walks to work every morning.",
           "segments": [
             {
-              "text": "Where do you live?",
+              "text": "He walks to work every morning.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wˌɛɹ dˈuː juː lˈɪv?"
+          "phonemes": "hiː wˈɔːks tə wˈɜːk ˈɛvɹi mˈɔːɹnɪŋ."
         },
         {
-          "text": "— ¿Dónde vives?",
+          "text": "— Camina al trabajo cada mañana.",
           "segments": [
             {
-              "text": "— ¿Dónde vives?",
+              "text": "— Camina al trabajo cada mañana.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— dˈonde βˈiβes?"
+          "phonemes": "— kamˈina al tɾaβˈaxo kˈaða maɲˈana."
         },
         {
-          "text": "We eat together on Fridays.",
+          "text": "He eats with his coworkers at noon.",
           "segments": [
             {
-              "text": "We eat together on Fridays.",
+              "text": "He eats with his coworkers at noon.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wiː ˈiːt təɡˌɛðɚɹ ˌɔn fɹˈaɪdeɪz."
+          "phonemes": "hiː ˈiːts wɪð hɪz kˈoʊwɜːkɚz æt nˈuːn."
         },
         {
-          "text": "— Comemos juntos los viernes.",
+          "text": "— Come con sus compañeros al mediodía.",
           "segments": [
             {
-              "text": "— Comemos juntos los viernes.",
+              "text": "— Come con sus compañeros al mediodía.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— komˈemos xˈuntos los βjˈeɾnes."
+          "phonemes": "— kˈome kon sus kˌompaɲˈeɾos al mˌeðjoðˈia."
         },
         {
-          "text": "She writes in her journal every day.",
+          "text": "He studies English at night.",
           "segments": [
             {
-              "text": "She writes in her journal every day.",
+              "text": "He studies English at night.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ʃiː ɹˈaɪts ɪn hɜː dʒˈɜːnəl ˈɛvɹi dˈeɪ."
+          "phonemes": "hiː stˈʌdiz ˈɪŋɡlɪʃ æt nˈaɪt."
         },
         {
-          "text": "— Ella escribe en su diario todos los días.",
+          "text": "— Estudia inglés por la noche.",
           "segments": [
             {
-              "text": "— Ella escribe en su diario todos los días.",
+              "text": "— Estudia inglés por la noche.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— ˈejja eskɾˈiβe en su ðjˈaɾjo tˈoðos los ðˈias."
+          "phonemes": "— estˈuðja iŋɡlˈes poɾ la nˈotʃe."
         },
         {
-          "text": "I sometimes drink coffee after lunch.",
+          "text": "On weekends he writes to his family.",
           "segments": [
             {
-              "text": "I sometimes drink coffee after lunch.",
+              "text": "On weekends he writes to his family.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪ sˈʌmtaɪmz dɹˈɪŋk kˈɔfi ˈæftɚ lˈʌntʃ."
+          "phonemes": "ˌɔn wˈiːkɛndz hiː ɹˈaɪts tə hɪz fˈæmɪli."
         },
         {
-          "text": "— A veces tomo café después del almuerzo.",
+          "text": "— Los fines de semana escribe a su familia.",
           "segments": [
             {
-              "text": "— A veces tomo café después del almuerzo.",
+              "text": "— Los fines de semana escribe a su familia.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— a βˈeses tˈomo kafˈe ðespwˈes ðel almwˈeɾso."
+          "phonemes": "— los fˈines ðe semˈana eskɾˈiβe a su famˈilja."
         }
       ]
     },
@@ -345,129 +345,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "to work",
+      "text": "to walk",
       "sentences": [
         {
-          "text": "to work",
+          "text": "to walk",
           "segments": [
             {
-              "text": "to work",
+              "text": "to walk",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə wˈɜːk"
+          "phonemes": "tə wˈɔːk"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "to study",
+      "text": "near",
       "sentences": [
         {
-          "text": "to study",
+          "text": "near",
           "segments": [
             {
-              "text": "to study",
+              "text": "near",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə stˈʌdi"
+          "phonemes": "nˈɪɹ"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "to eat",
+      "text": "a coworker",
       "sentences": [
         {
-          "text": "to eat",
+          "text": "a coworker",
           "segments": [
             {
-              "text": "to eat",
+              "text": "a coworker",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tʊ ˈiːt"
+          "phonemes": "ɐ kˈoʊwɜːkɚ"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "to drink",
+      "text": "the weekend",
       "sentences": [
         {
-          "text": "to drink",
+          "text": "the weekend",
           "segments": [
             {
-              "text": "to drink",
+              "text": "the weekend",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə dɹˈɪŋk"
+          "phonemes": "ðə wˈiːkɛnd"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "to live",
+      "text": "family",
       "sentences": [
         {
-          "text": "to live",
+          "text": "family",
           "segments": [
             {
-              "text": "to live",
+              "text": "family",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə lˈɪv"
+          "phonemes": "fˈæmɪli"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "to write",
+      "text": "the office",
       "sentences": [
         {
-          "text": "to write",
+          "text": "the office",
           "segments": [
             {
-              "text": "to write",
+              "text": "the office",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə ɹˈaɪt"
+          "phonemes": "ðɪ ˈɑːfɪs"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "always",
+      "text": "at night",
       "sentences": [
         {
-          "text": "always",
+          "text": "at night",
           "segments": [
             {
-              "text": "always",
+              "text": "at night",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ˈɔːlweɪz"
+          "phonemes": "æt nˈaɪt"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "sometimes",
+      "text": "together",
       "sentences": [
         {
-          "text": "sometimes",
+          "text": "together",
           "segments": [
             {
-              "text": "sometimes",
+              "text": "together",
               "lang": "en-us"
             }
           ],
-          "phonemes": "sˈʌmtaɪmz"
+          "phonemes": "təɡˈɛðɚ"
         }
       ]
     }

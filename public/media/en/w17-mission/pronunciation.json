@@ -143,7 +143,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Lenguaje modelo. I arrived at the office early yesterday. — Ayer llegué temprano a la oficina. First, we reviewed the report. — Primero revisamos el informe. Then they called the supervisor. — Después llamaron a la supervisora. What happened afterward? — ¿Qué ocurrió luego? The meeting ended at six. — La reunión terminó a las seis.",
+      "text": "Lenguaje modelo. I'm going to present a concise report. — Voy a presentar un informe conciso. I explain who, what, when, and where. — Explico quién, qué, cuándo y dónde. I also include the final outcome. — También incluyo el resultado final. The report shouldn't be too long. — El informe no debe ser demasiado largo. I finish with a clear conclusion. — Termino con una conclusión clara.",
       "sentences": [
         {
           "text": "Lenguaje modelo.",
@@ -156,104 +156,104 @@
           "phonemes": "leŋɡwˈaxe moðˈelo."
         },
         {
-          "text": "I arrived at the office early yesterday.",
+          "text": "I'm going to present a concise report.",
           "segments": [
             {
-              "text": "I arrived at the office early yesterday.",
+              "text": "I'm going to present a concise report.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪ ɚɹˈaɪvd æt ðɪ ˈɑːfɪs ˈɜːli jˈɛstɚdˌeɪ."
+          "phonemes": "aɪm ɡˌoʊɪŋ tə pɹɪzˈɛnt ɐ kənsˈaɪs ɹᵻpˈɔːɹt."
         },
         {
-          "text": "— Ayer llegué temprano a la oficina.",
+          "text": "— Voy a presentar un informe conciso.",
           "segments": [
             {
-              "text": "— Ayer llegué temprano a la oficina.",
+              "text": "— Voy a presentar un informe conciso.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— aʝˈeɾ ʝeɣˈe tempɾˈano a la ˌofisˈina."
+          "phonemes": "— bˈoɪ a pɾˌesentˈaɾ ˈun infˈoɾme konsˈiso."
         },
         {
-          "text": "First, we reviewed the report.",
+          "text": "I explain who, what, when, and where.",
           "segments": [
             {
-              "text": "First, we reviewed the report.",
+              "text": "I explain who, what, when, and where.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "fˈɜːst, wiː ɹᵻvjˈuːd ðə ɹᵻpˈɔːɹt."
+          "phonemes": "aɪ ɛksplˈeɪn hˈuː, wˌʌt, wˌɛn, ænd wˈɛɹ."
         },
         {
-          "text": "— Primero revisamos el informe.",
+          "text": "— Explico quién, qué, cuándo y dónde.",
           "segments": [
             {
-              "text": "— Primero revisamos el informe.",
+              "text": "— Explico quién, qué, cuándo y dónde.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— pɾimˈeɾo rˌeβisˈamos el infˈoɾme."
+          "phonemes": "— eksplˈiko kjˈen, kˈe, kwˈando i ðˈonde."
         },
         {
-          "text": "Then they called the supervisor.",
+          "text": "I also include the final outcome.",
           "segments": [
             {
-              "text": "Then they called the supervisor.",
+              "text": "I also include the final outcome.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðˈɛn ðeɪ kˈɔːld ðə sˈuːpɚvˌaɪzɚ."
+          "phonemes": "aɪ ˈɔːlsoʊ ɪŋklˈuːd ðə fˈaɪnəl ˈaʊtkʌm."
         },
         {
-          "text": "— Después llamaron a la supervisora.",
+          "text": "— También incluyo el resultado final.",
           "segments": [
             {
-              "text": "— Después llamaron a la supervisora.",
+              "text": "— También incluyo el resultado final.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— despwˈes ʝamˈaɾon a la sˌupeɾβisˈoɾa."
+          "phonemes": "— tambjˈen inklˈuʝo el rˌesultˈaðo finˈal."
         },
         {
-          "text": "What happened afterward?",
+          "text": "The report shouldn't be too long.",
           "segments": [
             {
-              "text": "What happened afterward?",
+              "text": "The report shouldn't be too long.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wˌʌt hˈæpənd ˈæftɚwɚd?"
+          "phonemes": "ðə ɹᵻpˈɔːɹt ʃˌʊdənt biː tˈuː lˈɔŋ."
         },
         {
-          "text": "— ¿Qué ocurrió luego?",
+          "text": "— El informe no debe ser demasiado largo.",
           "segments": [
             {
-              "text": "— ¿Qué ocurrió luego?",
+              "text": "— El informe no debe ser demasiado largo.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— kˈe ˌokuriˈo luˈeɣo?"
+          "phonemes": "— el infˈoɾme nˈo ðˈeβe sˈer ðˌemasjˈaðo lˈaɾɣo."
         },
         {
-          "text": "The meeting ended at six.",
+          "text": "I finish with a clear conclusion.",
           "segments": [
             {
-              "text": "The meeting ended at six.",
+              "text": "I finish with a clear conclusion.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə mˈiːɾɪŋ ˈɛndᵻd æt sˈɪks."
+          "phonemes": "aɪ fˈɪnɪʃ wɪð ɐ klˈɪɹ kəŋklˈuːʒən."
         },
         {
-          "text": "— La reunión terminó a las seis.",
+          "text": "— Termino con una conclusión clara.",
           "segments": [
             {
-              "text": "— La reunión terminó a las seis.",
+              "text": "— Termino con una conclusión clara.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— la reʊnjˈon tˌeɾminˈo a las sˈeɪs."
+          "phonemes": "— teɾmˈino kon ˈuna kˌonklusjˈon klˈaɾa."
         }
       ]
     },
@@ -305,129 +305,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "yesterday",
+      "text": "a report",
       "sentences": [
         {
-          "text": "yesterday",
+          "text": "a report",
           "segments": [
             {
-              "text": "yesterday",
+              "text": "a report",
               "lang": "en-us"
             }
           ],
-          "phonemes": "jˈɛstɚdˌeɪ"
+          "phonemes": "ɐ ɹᵻpˈɔːɹt"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "to arrive",
+      "text": "concise",
       "sentences": [
         {
-          "text": "to arrive",
+          "text": "concise",
           "segments": [
             {
-              "text": "to arrive",
+              "text": "concise",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tʊ ɚɹˈaɪv"
+          "phonemes": "kənsˈaɪs"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "to review",
+      "text": "an outcome",
       "sentences": [
         {
-          "text": "to review",
+          "text": "an outcome",
           "segments": [
             {
-              "text": "to review",
+              "text": "an outcome",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə ɹᵻvjˈuː"
+          "phonemes": "ɐn ˈaʊtkʌm"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "to call",
+      "text": "who",
       "sentences": [
         {
-          "text": "to call",
+          "text": "who",
           "segments": [
             {
-              "text": "to call",
+              "text": "who",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə kˈɔːl"
+          "phonemes": "hˈuː"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "to finish",
+      "text": "what",
       "sentences": [
         {
-          "text": "to finish",
+          "text": "what",
           "segments": [
             {
-              "text": "to finish",
+              "text": "what",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə fˈɪnɪʃ"
+          "phonemes": "wˌʌt"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "first",
+      "text": "when",
       "sentences": [
         {
-          "text": "first",
+          "text": "when",
           "segments": [
             {
-              "text": "first",
+              "text": "when",
               "lang": "en-us"
             }
           ],
-          "phonemes": "fˈɜːst"
+          "phonemes": "wˌɛn"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "then",
+      "text": "where",
       "sentences": [
         {
-          "text": "then",
+          "text": "where",
           "segments": [
             {
-              "text": "then",
+              "text": "where",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðˈɛn"
+          "phonemes": "wˈɛɹ"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "afterward",
+      "text": "to present",
       "sentences": [
         {
-          "text": "afterward",
+          "text": "to present",
           "segments": [
             {
-              "text": "afterward",
+              "text": "to present",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ˈæftɚwɚd"
+          "phonemes": "tə pɹɪzˈɛnt"
         }
       ]
     }

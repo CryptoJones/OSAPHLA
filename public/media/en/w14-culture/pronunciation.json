@@ -163,7 +163,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Lenguaje modelo. The train leaves from platform four. — El tren sale del andén cuatro. We've just arrived at the airport. — Acabamos de llegar al aeropuerto. I have a reservation under Rivera. — Tengo una reserva a nombre de Rivera. My luggage is missing. — No aparece mi equipaje. We're going to stay for three nights. — Vamos a quedarnos tres noches.",
+      "text": "Lenguaje modelo. Rail systems vary between countries. — El sistema ferroviario varía entre países. Some travelers prefer a guesthouse to a hotel. — Algunos viajeros prefieren la pensión al hotel. Others stay in a hostel. — Otros se quedan en un albergue. Shared transport is common in several regions. — El transporte compartido es común en varias regiones. Travel vocabulary changes by country. — El vocabulario de viaje cambia según el país.",
       "sentences": [
         {
           "text": "Lenguaje modelo.",
@@ -176,104 +176,104 @@
           "phonemes": "leŋɡwˈaxe moðˈelo."
         },
         {
-          "text": "The train leaves from platform four.",
+          "text": "Rail systems vary between countries.",
           "segments": [
             {
-              "text": "The train leaves from platform four.",
+              "text": "Rail systems vary between countries.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə tɹˈeɪn lˈiːvz fɹʌm plˈætfɔːɹm fˈɔːɹ."
+          "phonemes": "ɹˈeɪl sˈɪstəmz vˈɛɹi bᵻtwˌiːn kˈʌntɹiz."
         },
         {
-          "text": "— El tren sale del andén cuatro.",
+          "text": "— El sistema ferroviario varía entre países.",
           "segments": [
             {
-              "text": "— El tren sale del andén cuatro.",
+              "text": "— El sistema ferroviario varía entre países.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— el tɾˈen sˈale ðel andˈen kwˈatɾo."
+          "phonemes": "— el sistˈema fˌeroβjˈaɾjo βaɾˈia ˌentɾe paˈises."
         },
         {
-          "text": "We've just arrived at the airport.",
+          "text": "Some travelers prefer a guesthouse to a hotel.",
           "segments": [
             {
-              "text": "We've just arrived at the airport.",
+              "text": "Some travelers prefer a guesthouse to a hotel.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wiːv dʒˈʌst ɚɹˈaɪvd æt ðɪ ˈɛɹpɔːɹt."
+          "phonemes": "sˌʌm tɹˈævəlɚz pɹɪfˈɜːɹ ɐ ɡˈɛsthaʊs tʊ ɐ hoʊtˈɛl."
         },
         {
-          "text": "— Acabamos de llegar al aeropuerto.",
+          "text": "— Algunos viajeros prefieren la pensión al hotel.",
           "segments": [
             {
-              "text": "— Acabamos de llegar al aeropuerto.",
+              "text": "— Algunos viajeros prefieren la pensión al hotel.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— ˌakaβˈamos ðe ʝeɣˈaɾ al ˌaeɾopwˈeɾto."
+          "phonemes": "— alɣˈunos βjaxˈeɾos pɾefjˈeɾen la pensjˈon al otˈel."
         },
         {
-          "text": "I have a reservation under Rivera.",
+          "text": "Others stay in a hostel.",
           "segments": [
             {
-              "text": "I have a reservation under Rivera.",
+              "text": "Others stay in a hostel.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪ hæv ɐ ɹˌɛzɚvˈeɪʃən ˌʌndɚ ɹɪvˈɛɹə."
+          "phonemes": "ˈʌðɚz stˈeɪ ɪn ɐ hˈɑːstəl."
         },
         {
-          "text": "— Tengo una reserva a nombre de Rivera.",
+          "text": "— Otros se quedan en un albergue.",
           "segments": [
             {
-              "text": "— Tengo una reserva a nombre de Rivera.",
+              "text": "— Otros se quedan en un albergue.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— tˈɛŋɡo ˈuna resˈeɾβa a nˈombɾe ðe riβˈeɾa."
+          "phonemes": "— ˈotɾos se kˈeðan en ˈun alβˈeɾɣe."
         },
         {
-          "text": "My luggage is missing.",
+          "text": "Shared transport is common in several regions.",
           "segments": [
             {
-              "text": "My luggage is missing.",
+              "text": "Shared transport is common in several regions.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "maɪ lˈʌɡɪdʒ ɪz mˈɪsɪŋ."
+          "phonemes": "ʃˈɛɹd tɹˈænspɔːɹt ɪz kˈɑːmən ɪn sˈɛvɹəl ɹˈiːdʒənz."
         },
         {
-          "text": "— No aparece mi equipaje.",
+          "text": "— El transporte compartido es común en varias regiones.",
           "segments": [
             {
-              "text": "— No aparece mi equipaje.",
+              "text": "— El transporte compartido es común en varias regiones.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— nˈo ˌapaɾˈese mi ˌekipˈaxe."
+          "phonemes": "— el tɾanspˈoɾte kˌompaɾtˈiðo ˈes komˈun em bˈaɾjas rexjˈones."
         },
         {
-          "text": "We're going to stay for three nights.",
+          "text": "Travel vocabulary changes by country.",
           "segments": [
             {
-              "text": "We're going to stay for three nights.",
+              "text": "Travel vocabulary changes by country.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wɪɹ ɡˌoʊɪŋ tə stˈeɪ fɔːɹ θɹˈiː nˈaɪts."
+          "phonemes": "tɹˈævəl voʊkˈæbjʊlˌɛɹi tʃˈeɪndʒᵻz baɪ kˈʌntɹi."
         },
         {
-          "text": "— Vamos a quedarnos tres noches.",
+          "text": "— El vocabulario de viaje cambia según el país.",
           "segments": [
             {
-              "text": "— Vamos a quedarnos tres noches.",
+              "text": "— El vocabulario de viaje cambia según el país.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— bˈamos a keðˈaɾnos tɾˈes nˈotʃes."
+          "phonemes": "— el βˌokaβulˈaɾjo ðe βjˈaxe kˈambja seɣˈun el paˈis."
         }
       ]
     },
@@ -325,129 +325,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "a ticket",
+      "text": "a train",
       "sentences": [
         {
-          "text": "a ticket",
+          "text": "a train",
           "segments": [
             {
-              "text": "a ticket",
+              "text": "a train",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ tˈɪkɪt"
+          "phonemes": "ɐ tɹˈeɪn"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "a flight",
+      "text": "a guesthouse",
       "sentences": [
         {
-          "text": "a flight",
+          "text": "a guesthouse",
           "segments": [
             {
-              "text": "a flight",
+              "text": "a guesthouse",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ flˈaɪt"
+          "phonemes": "ɐ ɡˈɛsthaʊs"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "a platform",
+      "text": "a hostel",
       "sentences": [
         {
-          "text": "a platform",
+          "text": "a hostel",
           "segments": [
             {
-              "text": "a platform",
+              "text": "a hostel",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ plˈætfɔːɹm"
+          "phonemes": "ɐ hˈɑːstəl"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "a reservation",
+      "text": "rail system",
       "sentences": [
         {
-          "text": "a reservation",
+          "text": "rail system",
           "segments": [
             {
-              "text": "a reservation",
+              "text": "rail system",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ ɹˌɛzɚvˈeɪʃən"
+          "phonemes": "ɹˈeɪl sˈɪstəm"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "a room",
+      "text": "shared",
       "sentences": [
         {
-          "text": "a room",
+          "text": "shared",
           "segments": [
             {
-              "text": "a room",
+              "text": "shared",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ ɹˈuːm"
+          "phonemes": "ʃˈɛɹd"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "luggage",
+      "text": "to vary",
       "sentences": [
         {
-          "text": "luggage",
+          "text": "to vary",
           "segments": [
             {
-              "text": "luggage",
+              "text": "to vary",
               "lang": "en-us"
             }
           ],
-          "phonemes": "lˈʌɡɪdʒ"
+          "phonemes": "tə vˈɛɹi"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "to leave",
+      "text": "vocabulary",
       "sentences": [
         {
-          "text": "to leave",
+          "text": "vocabulary",
           "segments": [
             {
-              "text": "to leave",
+              "text": "vocabulary",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə lˈiːv"
+          "phonemes": "voʊkˈæbjʊlˌɛɹi"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "to arrive",
+      "text": "an expectation",
       "sentences": [
         {
-          "text": "to arrive",
+          "text": "an expectation",
           "segments": [
             {
-              "text": "to arrive",
+              "text": "an expectation",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tʊ ɚɹˈaɪv"
+          "phonemes": "ɐn ɛkspɪktˈeɪʃən"
         }
       ]
     }

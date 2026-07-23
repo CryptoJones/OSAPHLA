@@ -187,7 +187,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Model language. La medida fue aprobada por el consejo. — The measure was approved by the council. Se publicaron los resultados ayer. — The results were published yesterday. Trabajamos para mejorar el acceso. — We work to improve access. El servicio cerró por falta de fondos. — The service closed because of a lack of funding. Se requiere identificación para entrar. — Identification is required to enter.",
+      "text": "Model language. La nueva norma fue aprobada por el ayuntamiento. — The new rule was approved by city hall. Busca reducir el tráfico en el centro. — It seeks to reduce traffic downtown. Se permitirán entregas por la mañana. — Deliveries will be allowed in the morning. Los resultados se medirán durante seis meses. — The results will be measured for six months. La medida entra en vigor pronto. — The measure takes effect soon.",
       "sentences": [
         {
           "text": "Model language.",
@@ -200,104 +200,104 @@
           "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
         },
         {
-          "text": "La medida fue aprobada por el consejo.",
+          "text": "La nueva norma fue aprobada por el ayuntamiento.",
           "segments": [
             {
-              "text": "La medida fue aprobada por el consejo.",
+              "text": "La nueva norma fue aprobada por el ayuntamiento.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la meðˈiða fwˈe ˌapɾoβˈaða poɾ el konsˈexo."
+          "phonemes": "la nwˈeβa nˈoɾma fwˈe ˌapɾoβˈaða poɾ el ˌaʝuntamjˈɛnto."
         },
         {
-          "text": "— The measure was approved by the council.",
+          "text": "— The new rule was approved by city hall.",
           "segments": [
             {
-              "text": "— The measure was approved by the council.",
+              "text": "— The new rule was approved by city hall.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ðə mˈɛʒɚ wʌz ɐpɹˈuːvd baɪ ðə kˈaʊnsəl."
+          "phonemes": "— ðə nˈuː ɹˈuːl wʌz ɐpɹˈuːvd baɪ sˈɪɾi hˈɔːl."
         },
         {
-          "text": "Se publicaron los resultados ayer.",
+          "text": "Busca reducir el tráfico en el centro.",
           "segments": [
             {
-              "text": "Se publicaron los resultados ayer.",
+              "text": "Busca reducir el tráfico en el centro.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "se pˌuβlikˈaɾon los rˌesultˈaðos aʝˈeɾ."
+          "phonemes": "bˈuska rˌeðusˈiɾ el tɾˈafiko en el sˈɛntɾo."
         },
         {
-          "text": "— The results were published yesterday.",
+          "text": "— It seeks to reduce traffic downtown.",
           "segments": [
             {
-              "text": "— The results were published yesterday.",
+              "text": "— It seeks to reduce traffic downtown.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ðə ɹɪzˈʌlts wɜː pˈʌblɪʃt jˈɛstɚdˌeɪ."
+          "phonemes": "— ɪt sˈiːks tə ɹᵻdˈuːs tɹˈæfɪk dˈaʊntaʊn."
         },
         {
-          "text": "Trabajamos para mejorar el acceso.",
+          "text": "Se permitirán entregas por la mañana.",
           "segments": [
             {
-              "text": "Trabajamos para mejorar el acceso.",
+              "text": "Se permitirán entregas por la mañana.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "tɾˌaβaxˈamos pˌaɾa mˌexoɾˈaɾ el aksˈeso."
+          "phonemes": "se pˌeɾmitiɾˈan entɾˈeɣas poɾ la maɲˈana."
         },
         {
-          "text": "— We work to improve access.",
+          "text": "— Deliveries will be allowed in the morning.",
           "segments": [
             {
-              "text": "— We work to improve access.",
+              "text": "— Deliveries will be allowed in the morning.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— wiː wˈɜːk tʊ ɪmpɹˈuːv ˈæksɛs."
+          "phonemes": "— dᵻlˈɪvɚɹiz wɪl biː ɐlˈaʊd ɪnðə mˈɔːɹnɪŋ."
         },
         {
-          "text": "El servicio cerró por falta de fondos.",
+          "text": "Los resultados se medirán durante seis meses.",
           "segments": [
             {
-              "text": "El servicio cerró por falta de fondos.",
+              "text": "Los resultados se medirán durante seis meses.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el seɾβˈisjo serˈo poɾ fˈalta ðe fˈondos."
+          "phonemes": "los rˌesultˈaðos se mˌeðiɾˈan duɾˈante sˈeɪs mˈeses."
         },
         {
-          "text": "— The service closed because of a lack of funding.",
+          "text": "— The results will be measured for six months.",
           "segments": [
             {
-              "text": "— The service closed because of a lack of funding.",
+              "text": "— The results will be measured for six months.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ðə sˈɜːvɪs klˈoʊzd bɪkˈʌz əvə lˈæk ʌv fˈʌndɪŋ."
+          "phonemes": "— ðə ɹɪzˈʌlts wɪl biː mˈɛʒɚd fɔːɹ sˈɪks mˈʌnθs."
         },
         {
-          "text": "Se requiere identificación para entrar.",
+          "text": "La medida entra en vigor pronto.",
           "segments": [
             {
-              "text": "Se requiere identificación para entrar.",
+              "text": "La medida entra en vigor pronto.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "se rekjˈeɾe ˌiðentˌifikasjˈom pˌaɾa entɾˈaɾ."
+          "phonemes": "la meðˈiða ˈɛntɾa em biɣˈoɾ pɾˈonto."
         },
         {
-          "text": "— Identification is required to enter.",
+          "text": "— The measure takes effect soon.",
           "segments": [
             {
-              "text": "— Identification is required to enter.",
+              "text": "— The measure takes effect soon.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— aɪdˈɛntɪfɪkˈeɪʃən ɪz ɹᵻkwˈaɪɚd tʊ ˈɛntɚ."
+          "phonemes": "— ðə mˈɛʒɚ tˈeɪks ɪfˈɛkt sˈuːn."
         }
       ]
     },
@@ -349,129 +349,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "por causa de",
+      "text": "la norma",
       "sentences": [
         {
-          "text": "por causa de",
+          "text": "la norma",
           "segments": [
             {
-              "text": "por causa de",
+              "text": "la norma",
               "lang": "es-419"
             }
           ],
-          "phonemes": "poɾ kˈaʊsa ðˈe"
+          "phonemes": "la nˈoɾma"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "para lograr",
+      "text": "el ayuntamiento",
       "sentences": [
         {
-          "text": "para lograr",
+          "text": "el ayuntamiento",
           "segments": [
             {
-              "text": "para lograr",
+              "text": "el ayuntamiento",
               "lang": "es-419"
             }
           ],
-          "phonemes": "pˌaɾa loɣɾˈaɾ"
+          "phonemes": "el ˌaʝuntamjˈɛnto"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "por medio de",
+      "text": "reducir",
       "sentences": [
         {
-          "text": "por medio de",
+          "text": "reducir",
           "segments": [
             {
-              "text": "por medio de",
+              "text": "reducir",
               "lang": "es-419"
             }
           ],
-          "phonemes": "poɾ mˈeðjo ðˈe"
+          "phonemes": "rˌeðusˈiɾ"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "la medida",
+      "text": "el tráfico",
       "sentences": [
         {
-          "text": "la medida",
+          "text": "el tráfico",
           "segments": [
             {
-              "text": "la medida",
+              "text": "el tráfico",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la meðˈiða"
+          "phonemes": "el tɾˈafiko"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "aprobar",
+      "text": "permitir",
       "sentences": [
         {
-          "text": "aprobar",
+          "text": "permitir",
           "segments": [
             {
-              "text": "aprobar",
+              "text": "permitir",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˌapɾoβˈaɾ"
+          "phonemes": "pˌeɾmitˈiɾ"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "publicar",
+      "text": "la entrega",
       "sentences": [
         {
-          "text": "publicar",
+          "text": "la entrega",
           "segments": [
             {
-              "text": "publicar",
+              "text": "la entrega",
               "lang": "es-419"
             }
           ],
-          "phonemes": "pˌuβlikˈaɾ"
+          "phonemes": "la entɾˈeɣa"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "se requiere",
+      "text": "medir",
       "sentences": [
         {
-          "text": "se requiere",
+          "text": "medir",
           "segments": [
             {
-              "text": "se requiere",
+              "text": "medir",
               "lang": "es-419"
             }
           ],
-          "phonemes": "se rekjˈeɾe"
+          "phonemes": "meðˈiɾ"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "se permite",
+      "text": "seis meses",
       "sentences": [
         {
-          "text": "se permite",
+          "text": "seis meses",
           "segments": [
             {
-              "text": "se permite",
+              "text": "seis meses",
               "lang": "es-419"
             }
           ],
-          "phonemes": "se peɾmˈite"
+          "phonemes": "sˈeɪs mˈeses"
         }
       ]
     }

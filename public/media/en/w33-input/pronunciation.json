@@ -183,7 +183,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Lenguaje modelo. The source says that the reform expanded rights. — La fuente dice que la reforma amplió derechos. Others argue that inequality continued. — Otros sostienen que continuó la desigualdad. Many people had already emigrated when the government changed. — Muchas personas ya habían emigrado cuando cambió el gobierno. Although the facts are clear, their meaning is debated. — Aunque los hechos están claros, se debate su significado. The testimony offers a personal perspective. — El testimonio ofrece una perspectiva personal.",
+      "text": "Lenguaje modelo. Two sources describe the same protest. — Dos fuentes describen la misma protesta. The newspaper highlights the political change. — El periódico destaca el cambio político. A testimony remembers the everyday fear. — Un testimonio recuerda el miedo cotidiano. Each source contributes a different piece of information. — Cada fuente aporta un dato distinto. Together they give a more complete picture. — Juntas dan una imagen más completa.",
       "sentences": [
         {
           "text": "Lenguaje modelo.",
@@ -196,104 +196,104 @@
           "phonemes": "leŋɡwˈaxe moðˈelo."
         },
         {
-          "text": "The source says that the reform expanded rights.",
+          "text": "Two sources describe the same protest.",
           "segments": [
             {
-              "text": "The source says that the reform expanded rights.",
+              "text": "Two sources describe the same protest.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə sˈɔːɹs sˈɛz ðætðə ɹᵻfˈɔːɹm ɛkspˈændᵻd ɹˈaɪts."
+          "phonemes": "tˈuː sˈɔːɹsᵻz dᵻskɹˈaɪb ðə sˈeɪm pɹˈoʊtɛst."
         },
         {
-          "text": "— La fuente dice que la reforma amplió derechos.",
+          "text": "— Dos fuentes describen la misma protesta.",
           "segments": [
             {
-              "text": "— La fuente dice que la reforma amplió derechos.",
+              "text": "— Dos fuentes describen la misma protesta.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— la fwˈɛnte ðˈise ke la refˈoɾma ˌampliˈo ðeɾˈetʃos."
+          "phonemes": "— dˈos fwˈɛntes ðeskɾˈiβen la mˈisma pɾotˈesta."
         },
         {
-          "text": "Others argue that inequality continued.",
+          "text": "The newspaper highlights the political change.",
           "segments": [
             {
-              "text": "Others argue that inequality continued.",
+              "text": "The newspaper highlights the political change.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ˈʌðɚz ˈɑːɹɡjuː ðæt ɪniːkwˈɔlᵻɾi kəntˈɪnjuːd."
+          "phonemes": "ðə nˈuːzpeɪpɚ hˈaɪlaɪts ðə pəlˈɪɾɪkəl tʃˈeɪndʒ."
         },
         {
-          "text": "— Otros sostienen que continuó la desigualdad.",
+          "text": "— El periódico destaca el cambio político.",
           "segments": [
             {
-              "text": "— Otros sostienen que continuó la desigualdad.",
+              "text": "— El periódico destaca el cambio político.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— ˈotɾos sostjˈenen ke kˌontinwˈo la ðˌesiɣwalðˈad."
+          "phonemes": "— el peɾjˈoðiko ðestˈaka el kˈambjo polˈitiko."
         },
         {
-          "text": "Many people had already emigrated when the government changed.",
+          "text": "A testimony remembers the everyday fear.",
           "segments": [
             {
-              "text": "Many people had already emigrated when the government changed.",
+              "text": "A testimony remembers the everyday fear.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "mˈɛni pˈiːpəl hæd ɔːlɹˌɛdi ˈɛmɪɡɹˌeɪɾᵻd wɛn ðə ɡˈʌvɚnmənt tʃˈeɪndʒd."
+          "phonemes": "ɐ tˈɛstᵻməni ɹᵻmˈɛmbɚz ðɪ ˈɛvɹɪdˌeɪ fˈɪɹ."
         },
         {
-          "text": "— Muchas personas ya habían emigrado cuando cambió el gobierno.",
+          "text": "— Un testimonio recuerda el miedo cotidiano.",
           "segments": [
             {
-              "text": "— Muchas personas ya habían emigrado cuando cambió el gobierno.",
+              "text": "— Un testimonio recuerda el miedo cotidiano.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— mˈutʃas peɾsˈonas ʝˈa aβˈian ˌemiɣɾˈaðo kwˌando kambjˈo el ɣoβjˈeɾno."
+          "phonemes": "— ˈun tˌestimˈonjo rekwˈeɾða el mjˈeðo kˌotiðjˈano."
         },
         {
-          "text": "Although the facts are clear, their meaning is debated.",
+          "text": "Each source contributes a different piece of information.",
           "segments": [
             {
-              "text": "Although the facts are clear, their meaning is debated.",
+              "text": "Each source contributes a different piece of information.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɔːlðˈoʊ ðə fˈækts ɑːɹ klˈɪɹ, ðɛɹ mˈiːnɪŋ ɪz dᵻbˈeɪɾᵻd."
+          "phonemes": "ˈiːtʃ sˈɔːɹs kəntɹˈɪbjuːts ɐ dˈɪfɹənt pˈiːs ʌv ˌɪnfɚmˈeɪʃən."
         },
         {
-          "text": "— Aunque los hechos están claros, se debate su significado.",
+          "text": "— Cada fuente aporta un dato distinto.",
           "segments": [
             {
-              "text": "— Aunque los hechos están claros, se debate su significado.",
+              "text": "— Cada fuente aporta un dato distinto.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— ˌaʊnke los ˈetʃos estˈan klˈaɾos, se ðeβˈate su sˌiɡnifikˈaðo."
+          "phonemes": "— kˈaða fwˈɛnte apˈoɾta ˈun dˈato ðistˈinto."
         },
         {
-          "text": "The testimony offers a personal perspective.",
+          "text": "Together they give a more complete picture.",
           "segments": [
             {
-              "text": "The testimony offers a personal perspective.",
+              "text": "Together they give a more complete picture.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə tˈɛstᵻməni ˈɔfɚz ɐ pˈɜːsənəl pɚspˈɛktɪv."
+          "phonemes": "təɡˌɛðɚ ðeɪ ɡˈɪv ɐ mˈɔːɹ kəmplˈiːt pˈɪktʃɚ."
         },
         {
-          "text": "— El testimonio ofrece una perspectiva personal.",
+          "text": "— Juntas dan una imagen más completa.",
           "segments": [
             {
-              "text": "— El testimonio ofrece una perspectiva personal.",
+              "text": "— Juntas dan una imagen más completa.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— el tˌestimˈonjo ofɾˈese ˈuna pˌeɾspektˈiβa pˌeɾsonˈal."
+          "phonemes": "— xˈuntas ðˈan ˈuna imˈaxen mˈas komplˈeta."
         }
       ]
     },
@@ -345,129 +345,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "a source",
+      "text": "a protest",
       "sentences": [
         {
-          "text": "a source",
+          "text": "a protest",
           "segments": [
             {
-              "text": "a source",
+              "text": "a protest",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ sˈɔːɹs"
+          "phonemes": "ɐ pɹˈoʊtɛst"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "evidence",
+      "text": "a newspaper",
       "sentences": [
         {
-          "text": "evidence",
+          "text": "a newspaper",
           "segments": [
             {
-              "text": "evidence",
+              "text": "a newspaper",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ˈɛvɪdəns"
+          "phonemes": "ɐ nˈuːzpeɪpɚ"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "a claim",
+      "text": "to highlight",
       "sentences": [
         {
-          "text": "a claim",
+          "text": "to highlight",
           "segments": [
             {
-              "text": "a claim",
+              "text": "to highlight",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ klˈeɪm"
+          "phonemes": "tə hˈaɪlaɪt"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "a perspective",
+      "text": "to remember",
       "sentences": [
         {
-          "text": "a perspective",
+          "text": "to remember",
           "segments": [
             {
-              "text": "a perspective",
+              "text": "to remember",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ pɚspˈɛktɪv"
+          "phonemes": "tə ɹᵻmˈɛmbɚ"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "although",
+      "text": "everyday",
       "sentences": [
         {
-          "text": "although",
+          "text": "everyday",
           "segments": [
             {
-              "text": "although",
+              "text": "everyday",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɔːlðˈoʊ"
+          "phonemes": "ˈɛvɹɪdˌeɪ"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "therefore",
+      "text": "to contribute",
       "sentences": [
         {
-          "text": "therefore",
+          "text": "to contribute",
           "segments": [
             {
-              "text": "therefore",
+              "text": "to contribute",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðˈɛɹfɔːɹ"
+          "phonemes": "tə kəntɹˈɪbjuːt"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "to argue",
+      "text": "distinct",
       "sentences": [
         {
-          "text": "to argue",
+          "text": "distinct",
           "segments": [
             {
-              "text": "to argue",
+              "text": "distinct",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tʊ ˈɑːɹɡjuː"
+          "phonemes": "dɪstˈɪŋkt"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "to interpret",
+      "text": "a piece of information",
       "sentences": [
         {
-          "text": "to interpret",
+          "text": "a piece of information",
           "segments": [
             {
-              "text": "to interpret",
+              "text": "a piece of information",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tʊ ɪntˈɜːpɹɪt"
+          "phonemes": "ɐ pˈiːs ʌv ˌɪnfɚmˈeɪʃən"
         }
       ]
     }

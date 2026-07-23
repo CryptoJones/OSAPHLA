@@ -29,7 +29,7 @@
     },
     {
       "file": "01.wav",
-      "text": "Form and meaning. Question formation; interrogatives; ir, tener, hacer, venir, decir, poder, querer, and saber.",
+      "text": "Form and meaning. Applying the form. Place the interrogative word first, then invert to verb-subject order; use saber for facts and conocer for people or places.",
       "sentences": [
         {
           "text": "Form and meaning.",
@@ -42,20 +42,46 @@
           "phonemes": "fˈɔːɹm ænd mˈiːnɪŋ."
         },
         {
-          "text": "Question formation; interrogatives; ir, tener, hacer, venir, decir, poder, querer, and saber.",
+          "text": "Applying the form.",
           "segments": [
             {
-              "text": "Question formation; interrogatives; ir, tener, hacer, venir, decir, poder, querer, and saber.",
-              "lang": "es-419"
+              "text": "Applying the form.",
+              "lang": "en-us"
             }
           ],
-          "phonemes": "kˈestjon foɾmˈatjon; ˌinterˌoɣatˈiβes; ˈiɾ, tenˈeɾ, asˈeɾ, benˈiɾ, desˈiɾ, poðˈeɾ, keɾˈeɾ, ˈand saβˈeɾ."
+          "phonemes": "ɐplˈaɪɪŋ ðə fˈɔːɹm."
+        },
+        {
+          "text": "Place the interrogative word first, then invert to verb-subject order; use saber for facts and conocer for people or places.",
+          "segments": [
+            {
+              "text": "Place the interrogative word first, then invert to verb-subject order; use ",
+              "lang": "en-us"
+            },
+            {
+              "text": "saber",
+              "lang": "es-419"
+            },
+            {
+              "text": " for facts and ",
+              "lang": "en-us"
+            },
+            {
+              "text": "conocer",
+              "lang": "es-419"
+            },
+            {
+              "text": " for people or places.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "plˈeɪs ðɪ ɪntˈɛɹəɡətˌɪv wˈɜːd fˈɜːst, ðˈɛn ɪnvˈɜːt tə vˈɜːbsˈʌbdʒɛkt ˈɔːɹdɚ; jˈuːs saβˈeɾ fɔːɹ fˈækts ænd kˌonosˈeɾ fɔːɹ pˈiːpəl ɔːɹ plˈeɪsᵻz."
         }
       ]
     },
     {
       "file": "02.wav",
-      "text": "Model set. ¿Qué quiere hacer hoy? ¿Cuándo viene el autobús? No sé; ¿puede repetirlo? Tengo que hacer una llamada. ¿Por qué dices eso? What do you want to do today? When does the bus come? I don't know; can you repeat that? I have to make a call. Why do you say that?",
+      "text": "Model set. ¿Cuál es la mejor opción? ¿Cuánto cuesta esto? ¿Cuántos años tiene? No sé la respuesta. ¿Conoces este lugar? Which is the best option? How much does this cost? How old is he? I don't know the answer. Do you know this place?",
       "sentences": [
         {
           "text": "Model set.",
@@ -68,104 +94,104 @@
           "phonemes": "mˈɑːdəl sˈɛt."
         },
         {
-          "text": "¿Qué quiere hacer hoy?",
+          "text": "¿Cuál es la mejor opción?",
           "segments": [
             {
-              "text": "¿Qué quiere hacer hoy?",
+              "text": "¿Cuál es la mejor opción?",
               "lang": "es-419"
             }
           ],
-          "phonemes": "kˈe kjˈeɾe asˈeɾ ˈoɪ?"
+          "phonemes": "kwˈal ˈes la mexˈoɾ opsjˈon?"
         },
         {
-          "text": "¿Cuándo viene el autobús?",
+          "text": "¿Cuánto cuesta esto?",
           "segments": [
             {
-              "text": "¿Cuándo viene el autobús?",
+              "text": "¿Cuánto cuesta esto?",
               "lang": "es-419"
             }
           ],
-          "phonemes": "kwˈando βjˈene el ˌaʊtoβˈus?"
+          "phonemes": "kwˈanto kwˈesta ˈesto?"
         },
         {
-          "text": "No sé; ¿puede repetirlo?",
+          "text": "¿Cuántos años tiene?",
           "segments": [
             {
-              "text": "No sé; ¿puede repetirlo?",
+              "text": "¿Cuántos años tiene?",
               "lang": "es-419"
             }
           ],
-          "phonemes": "nˈo sˈe; pwˈeðe rˌepetˈiɾlo?"
+          "phonemes": "kwˈantos ˈaɲos tjˈene?"
         },
         {
-          "text": "Tengo que hacer una llamada.",
+          "text": "No sé la respuesta.",
           "segments": [
             {
-              "text": "Tengo que hacer una llamada.",
+              "text": "No sé la respuesta.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "tˈɛŋɡo ke asˈeɾ ˈuna ʝamˈaða."
+          "phonemes": "nˈo sˈe la respwˈesta."
         },
         {
-          "text": "¿Por qué dices eso?",
+          "text": "¿Conoces este lugar?",
           "segments": [
             {
-              "text": "¿Por qué dices eso?",
+              "text": "¿Conoces este lugar?",
               "lang": "es-419"
             }
           ],
-          "phonemes": "poɾ kˈe ðˈises ˈeso?"
+          "phonemes": "konˈoses ˈeste luɣˈaɾ?"
         },
         {
-          "text": "What do you want to do today?",
+          "text": "Which is the best option?",
           "segments": [
             {
-              "text": "What do you want to do today?",
+              "text": "Which is the best option?",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wˌʌt dˈuː juː wˈɔnt tə dˈuː tədˈeɪ?"
+          "phonemes": "wˌɪtʃ ɪz ðə bˈɛst ˈɑːpʃən?"
         },
         {
-          "text": "When does the bus come?",
+          "text": "How much does this cost?",
           "segments": [
             {
-              "text": "When does the bus come?",
+              "text": "How much does this cost?",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wˌɛn dˈʌz ðə bˈʌs kˈʌm?"
+          "phonemes": "hˌaʊ mˈʌtʃ dˈʌz ðɪs kˈɔst?"
         },
         {
-          "text": "I don't know; can you repeat that?",
+          "text": "How old is he?",
           "segments": [
             {
-              "text": "I don't know; can you repeat that?",
+              "text": "How old is he?",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪ dˈoʊnt nˈoʊ; kæn juː ɹᵻpˈiːt ðˈæt?"
+          "phonemes": "hˌaʊ ˈoʊld ɪz hiː?"
         },
         {
-          "text": "I have to make a call.",
+          "text": "I don't know the answer.",
           "segments": [
             {
-              "text": "I have to make a call.",
+              "text": "I don't know the answer.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪ hæv tə mˌeɪk ɐ kˈɔːl."
+          "phonemes": "aɪ dˈoʊnt nˈoʊ ðɪ ˈænsɚ."
         },
         {
-          "text": "Why do you say that?",
+          "text": "Do you know this place?",
           "segments": [
             {
-              "text": "Why do you say that?",
+              "text": "Do you know this place?",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wˌaɪ dˈuː juː sˈeɪ ðˈæt?"
+          "phonemes": "dˈuː juː nˈoʊ ðɪs plˈeɪs?"
         }
       ]
     },
@@ -243,7 +269,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Model language. ¿Qué quiere hacer hoy? — What do you want to do today? ¿Cuándo viene el autobús? — When does the bus come? No sé; ¿puede repetirlo? — I don't know; can you repeat that? Tengo que hacer una llamada. — I have to make a call. ¿Por qué dices eso? — Why do you say that?",
+      "text": "Model language. ¿Cuál es la mejor opción? — Which is the best option? ¿Cuánto cuesta esto? — How much does this cost? ¿Cuántos años tiene? — How old is he? No sé la respuesta. — I don't know the answer. ¿Conoces este lugar? — Do you know this place?",
       "sentences": [
         {
           "text": "Model language.",
@@ -256,104 +282,104 @@
           "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
         },
         {
-          "text": "¿Qué quiere hacer hoy?",
+          "text": "¿Cuál es la mejor opción?",
           "segments": [
             {
-              "text": "¿Qué quiere hacer hoy?",
+              "text": "¿Cuál es la mejor opción?",
               "lang": "es-419"
             }
           ],
-          "phonemes": "kˈe kjˈeɾe asˈeɾ ˈoɪ?"
+          "phonemes": "kwˈal ˈes la mexˈoɾ opsjˈon?"
         },
         {
-          "text": "— What do you want to do today?",
+          "text": "— Which is the best option?",
           "segments": [
             {
-              "text": "— What do you want to do today?",
+              "text": "— Which is the best option?",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— wˌʌt dˈuː juː wˈɔnt tə dˈuː tədˈeɪ?"
+          "phonemes": "— wˌɪtʃ ɪz ðə bˈɛst ˈɑːpʃən?"
         },
         {
-          "text": "¿Cuándo viene el autobús?",
+          "text": "¿Cuánto cuesta esto?",
           "segments": [
             {
-              "text": "¿Cuándo viene el autobús?",
+              "text": "¿Cuánto cuesta esto?",
               "lang": "es-419"
             }
           ],
-          "phonemes": "kwˈando βjˈene el ˌaʊtoβˈus?"
+          "phonemes": "kwˈanto kwˈesta ˈesto?"
         },
         {
-          "text": "— When does the bus come?",
+          "text": "— How much does this cost?",
           "segments": [
             {
-              "text": "— When does the bus come?",
+              "text": "— How much does this cost?",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— wˌɛn dˈʌz ðə bˈʌs kˈʌm?"
+          "phonemes": "— hˌaʊ mˈʌtʃ dˈʌz ðɪs kˈɔst?"
         },
         {
-          "text": "No sé; ¿puede repetirlo?",
+          "text": "¿Cuántos años tiene?",
           "segments": [
             {
-              "text": "No sé; ¿puede repetirlo?",
+              "text": "¿Cuántos años tiene?",
               "lang": "es-419"
             }
           ],
-          "phonemes": "nˈo sˈe; pwˈeðe rˌepetˈiɾlo?"
+          "phonemes": "kwˈantos ˈaɲos tjˈene?"
         },
         {
-          "text": "— I don't know; can you repeat that?",
+          "text": "— How old is he?",
           "segments": [
             {
-              "text": "— I don't know; can you repeat that?",
+              "text": "— How old is he?",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— aɪ dˈoʊnt nˈoʊ; kæn juː ɹᵻpˈiːt ðˈæt?"
+          "phonemes": "— hˌaʊ ˈoʊld ɪz hiː?"
         },
         {
-          "text": "Tengo que hacer una llamada.",
+          "text": "No sé la respuesta.",
           "segments": [
             {
-              "text": "Tengo que hacer una llamada.",
+              "text": "No sé la respuesta.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "tˈɛŋɡo ke asˈeɾ ˈuna ʝamˈaða."
+          "phonemes": "nˈo sˈe la respwˈesta."
         },
         {
-          "text": "— I have to make a call.",
+          "text": "— I don't know the answer.",
           "segments": [
             {
-              "text": "— I have to make a call.",
+              "text": "— I don't know the answer.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— aɪ hæv tə mˌeɪk ɐ kˈɔːl."
+          "phonemes": "— aɪ dˈoʊnt nˈoʊ ðɪ ˈænsɚ."
         },
         {
-          "text": "¿Por qué dices eso?",
+          "text": "¿Conoces este lugar?",
           "segments": [
             {
-              "text": "¿Por qué dices eso?",
+              "text": "¿Conoces este lugar?",
               "lang": "es-419"
             }
           ],
-          "phonemes": "poɾ kˈe ðˈises ˈeso?"
+          "phonemes": "konˈoses ˈeste luɣˈaɾ?"
         },
         {
-          "text": "— Why do you say that?",
+          "text": "— Do you know this place?",
           "segments": [
             {
-              "text": "— Why do you say that?",
+              "text": "— Do you know this place?",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— wˌaɪ dˈuː juː sˈeɪ ðˈæt?"
+          "phonemes": "— dˈuː juː nˈoʊ ðɪs plˈeɪs?"
         }
       ]
     },
@@ -405,129 +431,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "qué",
+      "text": "cuál",
       "sentences": [
         {
-          "text": "qué",
+          "text": "cuál",
           "segments": [
             {
-              "text": "qué",
+              "text": "cuál",
               "lang": "es-419"
             }
           ],
-          "phonemes": "kˈe"
+          "phonemes": "kwˈal"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "quién",
+      "text": "cuánto",
       "sentences": [
         {
-          "text": "quién",
+          "text": "cuánto",
           "segments": [
             {
-              "text": "quién",
+              "text": "cuánto",
               "lang": "es-419"
             }
           ],
-          "phonemes": "kjˈen"
+          "phonemes": "kwˈanto"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "cuándo",
+      "text": "cuántos",
       "sentences": [
         {
-          "text": "cuándo",
+          "text": "cuántos",
           "segments": [
             {
-              "text": "cuándo",
+              "text": "cuántos",
               "lang": "es-419"
             }
           ],
-          "phonemes": "kwˈando"
+          "phonemes": "kwˈantos"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "dónde",
+      "text": "cuál es tu nombre",
       "sentences": [
         {
-          "text": "dónde",
+          "text": "cuál es tu nombre",
           "segments": [
             {
-              "text": "dónde",
+              "text": "cuál es tu nombre",
               "lang": "es-419"
             }
           ],
-          "phonemes": "dˈonde"
+          "phonemes": "kwˈal ˈes tu nˈombɾe"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "por qué",
+      "text": "saber",
       "sentences": [
         {
-          "text": "por qué",
+          "text": "saber",
           "segments": [
             {
-              "text": "por qué",
+              "text": "saber",
               "lang": "es-419"
             }
           ],
-          "phonemes": "poɾ kˈe"
+          "phonemes": "saβˈeɾ"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "cómo",
+      "text": "conocer",
       "sentences": [
         {
-          "text": "cómo",
+          "text": "conocer",
           "segments": [
             {
-              "text": "cómo",
+              "text": "conocer",
               "lang": "es-419"
             }
           ],
-          "phonemes": "kˈomo"
+          "phonemes": "kˌonosˈeɾ"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "poder",
+      "text": "sí o no",
       "sentences": [
         {
-          "text": "poder",
+          "text": "sí o no",
           "segments": [
             {
-              "text": "poder",
+              "text": "sí o no",
               "lang": "es-419"
             }
           ],
-          "phonemes": "poðˈeɾ"
+          "phonemes": "sˈi o nˈo"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "querer",
+      "text": "la respuesta corta",
       "sentences": [
         {
-          "text": "querer",
+          "text": "la respuesta corta",
           "segments": [
             {
-              "text": "querer",
+              "text": "la respuesta corta",
               "lang": "es-419"
             }
           ],
-          "phonemes": "keɾˈeɾ"
+          "phonemes": "la respwˈesta kˈoɾta"
         }
       ]
     }

@@ -25,7 +25,15 @@
               "lang": "es-419"
             },
             {
-              "text": ", Passive, and Impersonal ",
+              "text": ", Passive, and ",
+              "lang": "en-us"
+            },
+            {
+              "text": "Impersonal",
+              "lang": "es-419"
+            },
+            {
+              "text": " ",
               "lang": "en-us"
             },
             {
@@ -37,7 +45,7 @@
               "lang": "en-us"
             }
           ],
-          "phonemes": "wˈiːk θˈɜːɾi: pˈoɾ , pˈaɾa , pˈæsɪv, ænd ɪmpˈɜːsənəl sˈe ."
+          "phonemes": "wˈiːk θˈɜːɾi: pˈoɾ , pˈaɾa , pˈæsɪv, ænd ˌimpeɾsonˈal sˈe ."
         },
         {
           "text": "explain purpose and cause describe processes report institutional action",
@@ -195,7 +203,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Model language. La medida fue aprobada por el consejo. — The measure was approved by the council. Se publicaron los resultados ayer. — The results were published yesterday. Trabajamos para mejorar el acceso. — We work to improve access. El servicio cerró por falta de fondos. — The service closed because of a lack of funding. Se requiere identificación para entrar. — Identification is required to enter.",
+      "text": "Model language. Un aviso institucional suele ser impersonal. — An institutional notice is usually impersonal. El periodismo a veces prefiere la voz pasiva. — Journalism sometimes prefers the passive voice. La pasiva puede ocultar la responsabilidad. — The passive can hide responsibility. El estilo formal usa más construcciones con se. — Formal style uses more se constructions. Cada medio elige su propio estilo. — Each outlet chooses its own style.",
       "sentences": [
         {
           "text": "Model language.",
@@ -208,104 +216,112 @@
           "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
         },
         {
-          "text": "La medida fue aprobada por el consejo.",
+          "text": "Un aviso institucional suele ser impersonal.",
           "segments": [
             {
-              "text": "La medida fue aprobada por el consejo.",
+              "text": "Un aviso institucional suele ser impersonal.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la meðˈiða fwˈe ˌapɾoβˈaða poɾ el konsˈexo."
+          "phonemes": "ˈun aβˈiso ˌinstitˌusjonˈal swˈele sˈer ˌimpeɾsonˈal."
         },
         {
-          "text": "— The measure was approved by the council.",
+          "text": "— An institutional notice is usually impersonal.",
           "segments": [
             {
-              "text": "— The measure was approved by the council.",
+              "text": "— An institutional notice is usually ",
+              "lang": "en-us"
+            },
+            {
+              "text": "impersonal",
+              "lang": "es-419"
+            },
+            {
+              "text": ".",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ðə mˈɛʒɚ wʌz ɐpɹˈuːvd baɪ ðə kˈaʊnsəl."
+          "phonemes": "— ɐn ˌɪnstɪtˈuːʃənəl nˈoʊɾɪs ɪz jˈuːʒuːəli ˌimpeɾsonˈal ."
         },
         {
-          "text": "Se publicaron los resultados ayer.",
+          "text": "El periodismo a veces prefiere la voz pasiva.",
           "segments": [
             {
-              "text": "Se publicaron los resultados ayer.",
+              "text": "El periodismo a veces prefiere la voz pasiva.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "se pˌuβlikˈaɾon los rˌesultˈaðos aʝˈeɾ."
+          "phonemes": "el pˌeɾjoðˈismo a βˈeses pɾefjˈeɾe la βˈos pasˈiβa."
         },
         {
-          "text": "— The results were published yesterday.",
+          "text": "— Journalism sometimes prefers the passive voice.",
           "segments": [
             {
-              "text": "— The results were published yesterday.",
+              "text": "— Journalism sometimes prefers the passive voice.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ðə ɹɪzˈʌlts wɜː pˈʌblɪʃt jˈɛstɚdˌeɪ."
+          "phonemes": "— dʒˈɜːnəlˌɪzəm sˈʌmtaɪmz pɹɪfˈɜːz ðə pˈæsɪv vˈɔɪs."
         },
         {
-          "text": "Trabajamos para mejorar el acceso.",
+          "text": "La pasiva puede ocultar la responsabilidad.",
           "segments": [
             {
-              "text": "Trabajamos para mejorar el acceso.",
+              "text": "La pasiva puede ocultar la responsabilidad.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "tɾˌaβaxˈamos pˌaɾa mˌexoɾˈaɾ el aksˈeso."
+          "phonemes": "la pasˈiβa pwˈeðe ˌokultˈaɾ la rˌesponsˌaβiliðˈad."
         },
         {
-          "text": "— We work to improve access.",
+          "text": "— The passive can hide responsibility.",
           "segments": [
             {
-              "text": "— We work to improve access.",
+              "text": "— The passive can hide responsibility.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— wiː wˈɜːk tʊ ɪmpɹˈuːv ˈæksɛs."
+          "phonemes": "— ðə pˈæsɪv kæn hˈaɪd ɹᵻspˌɑːnsəbˈɪlᵻɾi."
         },
         {
-          "text": "El servicio cerró por falta de fondos.",
+          "text": "El estilo formal usa más construcciones con se.",
           "segments": [
             {
-              "text": "El servicio cerró por falta de fondos.",
+              "text": "El estilo formal usa más construcciones con se.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el seɾβˈisjo serˈo poɾ fˈalta ðe fˈondos."
+          "phonemes": "el estˈilo foɾmˈal ˈusa mˈas kˌonstɾuksjˈones kon sˈe."
         },
         {
-          "text": "— The service closed because of a lack of funding.",
+          "text": "— Formal style uses more se constructions.",
           "segments": [
             {
-              "text": "— The service closed because of a lack of funding.",
-              "lang": "en-us"
-            }
-          ],
-          "phonemes": "— ðə sˈɜːvɪs klˈoʊzd bɪkˈʌz əvə lˈæk ʌv fˈʌndɪŋ."
-        },
-        {
-          "text": "Se requiere identificación para entrar.",
-          "segments": [
-            {
-              "text": "Se requiere identificación para entrar.",
+              "text": "— Formal style uses more se constructions.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "se rekjˈeɾe ˌiðentˌifikasjˈom pˌaɾa entɾˈaɾ."
+          "phonemes": "— foɾmˈal stˈile ˈuses mˈoɾe se konstɾˈuktjons."
         },
         {
-          "text": "— Identification is required to enter.",
+          "text": "Cada medio elige su propio estilo.",
           "segments": [
             {
-              "text": "— Identification is required to enter.",
+              "text": "Cada medio elige su propio estilo.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kˈaða mˈeðjo elˈixe su pɾˈopjo estˈilo."
+        },
+        {
+          "text": "— Each outlet chooses its own style.",
+          "segments": [
+            {
+              "text": "— Each outlet chooses its own style.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— aɪdˈɛntɪfɪkˈeɪʃən ɪz ɹᵻkwˈaɪɚd tʊ ˈɛntɚ."
+          "phonemes": "— ˈiːtʃ ˈaʊtlɛt tʃˈuːzᵻz ɪts ˈoʊn stˈaɪl."
         }
       ]
     },
@@ -357,129 +373,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "por causa de",
+      "text": "el aviso institucional",
       "sentences": [
         {
-          "text": "por causa de",
+          "text": "el aviso institucional",
           "segments": [
             {
-              "text": "por causa de",
+              "text": "el aviso institucional",
               "lang": "es-419"
             }
           ],
-          "phonemes": "poɾ kˈaʊsa ðˈe"
+          "phonemes": "el aβˈiso ˌinstitˌusjonˈal"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "para lograr",
+      "text": "el periodismo",
       "sentences": [
         {
-          "text": "para lograr",
+          "text": "el periodismo",
           "segments": [
             {
-              "text": "para lograr",
+              "text": "el periodismo",
               "lang": "es-419"
             }
           ],
-          "phonemes": "pˌaɾa loɣɾˈaɾ"
+          "phonemes": "el pˌeɾjoðˈismo"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "por medio de",
+      "text": "preferir",
       "sentences": [
         {
-          "text": "por medio de",
+          "text": "preferir",
           "segments": [
             {
-              "text": "por medio de",
+              "text": "preferir",
               "lang": "es-419"
             }
           ],
-          "phonemes": "poɾ mˈeðjo ðˈe"
+          "phonemes": "pɾˌefeɾˈiɾ"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "la medida",
+      "text": "ocultar",
       "sentences": [
         {
-          "text": "la medida",
+          "text": "ocultar",
           "segments": [
             {
-              "text": "la medida",
+              "text": "ocultar",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la meðˈiða"
+          "phonemes": "ˌokultˈaɾ"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "aprobar",
+      "text": "la responsabilidad",
       "sentences": [
         {
-          "text": "aprobar",
+          "text": "la responsabilidad",
           "segments": [
             {
-              "text": "aprobar",
+              "text": "la responsabilidad",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˌapɾoβˈaɾ"
+          "phonemes": "la rˌesponsˌaβiliðˈad"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "publicar",
+      "text": "el estilo",
       "sentences": [
         {
-          "text": "publicar",
+          "text": "el estilo",
           "segments": [
             {
-              "text": "publicar",
+              "text": "el estilo",
               "lang": "es-419"
             }
           ],
-          "phonemes": "pˌuβlikˈaɾ"
+          "phonemes": "el estˈilo"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "se requiere",
+      "text": "impersonal",
       "sentences": [
         {
-          "text": "se requiere",
+          "text": "impersonal",
           "segments": [
             {
-              "text": "se requiere",
+              "text": "impersonal",
               "lang": "es-419"
             }
           ],
-          "phonemes": "se rekjˈeɾe"
+          "phonemes": "ˌimpeɾsonˈal"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "se permite",
+      "text": "formal",
       "sentences": [
         {
-          "text": "se permite",
+          "text": "formal",
           "segments": [
             {
-              "text": "se permite",
+              "text": "formal",
               "lang": "es-419"
             }
           ],
-          "phonemes": "se peɾmˈite"
+          "phonemes": "foɾmˈal"
         }
       ]
     }

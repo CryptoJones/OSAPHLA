@@ -29,7 +29,7 @@
     },
     {
       "file": "01.wav",
-      "text": "Forma y significado. Pasados irregulares frecuentes; did en preguntas y negación; could/couldn't; intención frente a resultado.",
+      "text": "Forma y significado. Aplicación de la forma. Los verbos irregulares en pasado tienen una forma única que hay que memorizar: go→went, see→saw, find→found, know→knew.",
       "sentences": [
         {
           "text": "Forma y significado.",
@@ -42,44 +42,30 @@
           "phonemes": "fˈoɾma i sˌiɡnifikˈaðo."
         },
         {
-          "text": "Pasados irregulares frecuentes; did en preguntas y negación; could/couldn't; intención frente a resultado.",
+          "text": "Aplicación de la forma.",
           "segments": [
             {
-              "text": "Pasados irregulares frecuentes; ",
-              "lang": "es-419"
-            },
-            {
-              "text": "did",
-              "lang": "en-us"
-            },
-            {
-              "text": " en preguntas y negación; ",
-              "lang": "es-419"
-            },
-            {
-              "text": "could",
-              "lang": "en-us"
-            },
-            {
-              "text": "/",
-              "lang": "es-419"
-            },
-            {
-              "text": "couldn't",
-              "lang": "en-us"
-            },
-            {
-              "text": "; intención frente a resultado.",
+              "text": "Aplicación de la forma.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "pasˈaðos ˌireɣulˈaɾes fɾekwˈɛntes; dˈɪd em pɾeɣˈuntas i nˌeɣasjˈon; kˈʊd bˈara kˈʊdənt ; ˌintensjˈom fɾˈɛnte a rˌesultˈaðo."
+          "phonemes": "ˌaplikasjˈon de la fˈoɾma."
+        },
+        {
+          "text": "Los verbos irregulares en pasado tienen una forma única que hay que memorizar: go→went, see→saw, find→found, know→knew.",
+          "segments": [
+            {
+              "text": "Los verbos irregulares en pasado tienen una forma única que hay que memorizar: go→went, see→saw, find→found, know→knew.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "los βˈeɾβos ˌireɣulˈaɾes em pasˈaðo tjˈenen ˈuna fˈoɾma ˈunika ke ˈaɪ ke mˌemoɾisˈaɾ: ɡˈo wˈɛnt, sˈee sˈaw, fˈind fˈownd, kˈanˈow kˈanˈew."
         }
       ]
     },
     {
       "file": "02.wav",
-      "text": "Conjunto de modelos. I couldn't enter because I lost the key. We went to town by another road. We met the new mayor there. I learned the truth that afternoon. They wanted to help but didn't have time. No pude entrar porque perdí la llave. Fuimos al pueblo por otra carretera. Allí conocimos a la nueva alcaldesa. Supe la verdad esa tarde. Querían ayudar, pero no tenían tiempo.",
+      "text": "Conjunto de modelos. I couldn't finish on time. They wanted to help, but they didn't have time. We found out the news that afternoon. We went to town by another road. We told the truth from the beginning. No pudimos terminar a tiempo. Quisieron ayudar, pero no tuvieron tiempo. Supimos la noticia esa tarde. Fuimos al pueblo por otra carretera. Dijimos la verdad desde el principio.",
       "sentences": [
         {
           "text": "Conjunto de modelos.",
@@ -92,14 +78,34 @@
           "phonemes": "koŋxˈunto ðe moðˈelos."
         },
         {
-          "text": "I couldn't enter because I lost the key.",
+          "text": "I couldn't finish on time.",
           "segments": [
             {
-              "text": "I couldn't enter because I lost the key.",
+              "text": "I couldn't finish on time.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪ kˌʊdənt ˈɛntɚ bɪkˈʌz aɪ lˈɔst ðə kˈiː."
+          "phonemes": "aɪ kˌʊdənt fˈɪnɪʃ ˌɔn tˈaɪm."
+        },
+        {
+          "text": "They wanted to help, but they didn't have time.",
+          "segments": [
+            {
+              "text": "They wanted to help, but they didn't have time.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðeɪ wˈɔntᵻd tə hˈɛlp, bˌʌt ðeɪ dˈɪdnt hæv tˈaɪm."
+        },
+        {
+          "text": "We found out the news that afternoon.",
+          "segments": [
+            {
+              "text": "We found out the news that afternoon.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wiː fˈaʊnd ˈaʊt ðə nˈuːz ðæt ˌæftɚnˈuːn."
         },
         {
           "text": "We went to town by another road.",
@@ -112,44 +118,44 @@
           "phonemes": "wiː wɛnt tə tˈaʊn baɪ ɐnˈʌðɚ ɹˈoʊd."
         },
         {
-          "text": "We met the new mayor there.",
+          "text": "We told the truth from the beginning.",
           "segments": [
             {
-              "text": "We met the new mayor there.",
+              "text": "We told the truth from the beginning.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wiː mˈɛt ðə nˈuː mˈeɪɚ ðˈɛɹ."
+          "phonemes": "wiː tˈoʊld ðə tɹˈuːθ fɹʌmðə bɪɡˈɪnɪŋ."
         },
         {
-          "text": "I learned the truth that afternoon.",
+          "text": "No pudimos terminar a tiempo.",
           "segments": [
             {
-              "text": "I learned the truth that afternoon.",
-              "lang": "en-us"
-            }
-          ],
-          "phonemes": "aɪ lˈɜːnd ðə tɹˈuːθ ðæt ˌæftɚnˈuːn."
-        },
-        {
-          "text": "They wanted to help but didn't have time.",
-          "segments": [
-            {
-              "text": "They wanted to help but didn't have time.",
-              "lang": "en-us"
-            }
-          ],
-          "phonemes": "ðeɪ wˈɔntᵻd tə hˈɛlp bˌʌt dˈɪdnt hæv tˈaɪm."
-        },
-        {
-          "text": "No pude entrar porque perdí la llave.",
-          "segments": [
-            {
-              "text": "No pude entrar porque perdí la llave.",
+              "text": "No pudimos terminar a tiempo.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "nˈo pˈuðe entɾˈaɾ pˌoɾke peɾðˈi la ʝˈaβe."
+          "phonemes": "nˈo puðˈimos tˌeɾminˈaɾ a tjˈempo."
+        },
+        {
+          "text": "Quisieron ayudar, pero no tuvieron tiempo.",
+          "segments": [
+            {
+              "text": "Quisieron ayudar, pero no tuvieron tiempo.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "kisjˈeɾon ˌaʝuðˈaɾ, pˌeɾo nˈo tuβjˈeɾon tjˈempo."
+        },
+        {
+          "text": "Supimos la noticia esa tarde.",
+          "segments": [
+            {
+              "text": "Supimos la noticia esa tarde.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "supˈimos la notˈisja ˈesa tˈaɾðe."
         },
         {
           "text": "Fuimos al pueblo por otra carretera.",
@@ -162,34 +168,14 @@
           "phonemes": "fwˈimos al pwˈeβlo poɾ ˈotɾa kˌaretˈeɾa."
         },
         {
-          "text": "Allí conocimos a la nueva alcaldesa.",
+          "text": "Dijimos la verdad desde el principio.",
           "segments": [
             {
-              "text": "Allí conocimos a la nueva alcaldesa.",
+              "text": "Dijimos la verdad desde el principio.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ajjˈi kˌonosˈimos a la nwˈeβa ˌalkalðˈesa."
-        },
-        {
-          "text": "Supe la verdad esa tarde.",
-          "segments": [
-            {
-              "text": "Supe la verdad esa tarde.",
-              "lang": "es-419"
-            }
-          ],
-          "phonemes": "sˈupe la βeɾðˈað ˈesa tˈaɾðe."
-        },
-        {
-          "text": "Querían ayudar, pero no tenían tiempo.",
-          "segments": [
-            {
-              "text": "Querían ayudar, pero no tenían tiempo.",
-              "lang": "es-419"
-            }
-          ],
-          "phonemes": "keɾˈian ˌaʝuðˈaɾ, pˌeɾo nˈo tenˈian tjˈempo."
+          "phonemes": "dixˈimos la βeɾðˈad ðˌesðe el pɾinsˈipjo."
         }
       ]
     },
@@ -257,7 +243,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Lenguaje modelo. I couldn't enter because I lost the key. — No pude entrar porque perdí la llave. We went to town by another road. — Fuimos al pueblo por otra carretera. We met the new mayor there. — Allí conocimos a la nueva alcaldesa. I learned the truth that afternoon. — Supe la verdad esa tarde. They wanted to help but didn't have time. — Querían ayudar, pero no tenían tiempo.",
+      "text": "Lenguaje modelo. I couldn't finish on time. — No pudimos terminar a tiempo. They wanted to help, but they didn't have time. — Quisieron ayudar, pero no tuvieron tiempo. We found out the news that afternoon. — Supimos la noticia esa tarde. We went to town by another road. — Fuimos al pueblo por otra carretera. We told the truth from the beginning. — Dijimos la verdad desde el principio.",
       "sentences": [
         {
           "text": "Lenguaje modelo.",
@@ -270,24 +256,64 @@
           "phonemes": "leŋɡwˈaxe moðˈelo."
         },
         {
-          "text": "I couldn't enter because I lost the key.",
+          "text": "I couldn't finish on time.",
           "segments": [
             {
-              "text": "I couldn't enter because I lost the key.",
+              "text": "I couldn't finish on time.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪ kˌʊdənt ˈɛntɚ bɪkˈʌz aɪ lˈɔst ðə kˈiː."
+          "phonemes": "aɪ kˌʊdənt fˈɪnɪʃ ˌɔn tˈaɪm."
         },
         {
-          "text": "— No pude entrar porque perdí la llave.",
+          "text": "— No pudimos terminar a tiempo.",
           "segments": [
             {
-              "text": "— No pude entrar porque perdí la llave.",
+              "text": "— No pudimos terminar a tiempo.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— nˈo pˈuðe entɾˈaɾ pˌoɾke peɾðˈi la ʝˈaβe."
+          "phonemes": "— nˈo puðˈimos tˌeɾminˈaɾ a tjˈempo."
+        },
+        {
+          "text": "They wanted to help, but they didn't have time.",
+          "segments": [
+            {
+              "text": "They wanted to help, but they didn't have time.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "ðeɪ wˈɔntᵻd tə hˈɛlp, bˌʌt ðeɪ dˈɪdnt hæv tˈaɪm."
+        },
+        {
+          "text": "— Quisieron ayudar, pero no tuvieron tiempo.",
+          "segments": [
+            {
+              "text": "— Quisieron ayudar, pero no tuvieron tiempo.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— kisjˈeɾon ˌaʝuðˈaɾ, pˌeɾo nˈo tuβjˈeɾon tjˈempo."
+        },
+        {
+          "text": "We found out the news that afternoon.",
+          "segments": [
+            {
+              "text": "We found out the news that afternoon.",
+              "lang": "en-us"
+            }
+          ],
+          "phonemes": "wiː fˈaʊnd ˈaʊt ðə nˈuːz ðæt ˌæftɚnˈuːn."
+        },
+        {
+          "text": "— Supimos la noticia esa tarde.",
+          "segments": [
+            {
+              "text": "— Supimos la noticia esa tarde.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— supˈimos la notˈisja ˈesa tˈaɾðe."
         },
         {
           "text": "We went to town by another road.",
@@ -310,64 +336,24 @@
           "phonemes": "— fwˈimos al pwˈeβlo poɾ ˈotɾa kˌaretˈeɾa."
         },
         {
-          "text": "We met the new mayor there.",
+          "text": "We told the truth from the beginning.",
           "segments": [
             {
-              "text": "We met the new mayor there.",
+              "text": "We told the truth from the beginning.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wiː mˈɛt ðə nˈuː mˈeɪɚ ðˈɛɹ."
+          "phonemes": "wiː tˈoʊld ðə tɹˈuːθ fɹʌmðə bɪɡˈɪnɪŋ."
         },
         {
-          "text": "— Allí conocimos a la nueva alcaldesa.",
+          "text": "— Dijimos la verdad desde el principio.",
           "segments": [
             {
-              "text": "— Allí conocimos a la nueva alcaldesa.",
+              "text": "— Dijimos la verdad desde el principio.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— ajjˈi kˌonosˈimos a la nwˈeβa ˌalkalðˈesa."
-        },
-        {
-          "text": "I learned the truth that afternoon.",
-          "segments": [
-            {
-              "text": "I learned the truth that afternoon.",
-              "lang": "en-us"
-            }
-          ],
-          "phonemes": "aɪ lˈɜːnd ðə tɹˈuːθ ðæt ˌæftɚnˈuːn."
-        },
-        {
-          "text": "— Supe la verdad esa tarde.",
-          "segments": [
-            {
-              "text": "— Supe la verdad esa tarde.",
-              "lang": "es-419"
-            }
-          ],
-          "phonemes": "— sˈupe la βeɾðˈað ˈesa tˈaɾðe."
-        },
-        {
-          "text": "They wanted to help but didn't have time.",
-          "segments": [
-            {
-              "text": "They wanted to help but didn't have time.",
-              "lang": "en-us"
-            }
-          ],
-          "phonemes": "ðeɪ wˈɔntᵻd tə hˈɛlp bˌʌt dˈɪdnt hæv tˈaɪm."
-        },
-        {
-          "text": "— Querían ayudar, pero no tenían tiempo.",
-          "segments": [
-            {
-              "text": "— Querían ayudar, pero no tenían tiempo.",
-              "lang": "es-419"
-            }
-          ],
-          "phonemes": "— keɾˈian ˌaʝuðˈaɾ, pˌeɾo nˈo tenˈian tjˈempo."
+          "phonemes": "— dixˈimos la βeɾðˈad ðˌesðe el pɾinsˈipjo."
         }
       ]
     },
@@ -419,129 +405,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "to go",
+      "text": "I could/couldn't",
       "sentences": [
         {
-          "text": "to go",
+          "text": "I could/couldn't",
           "segments": [
             {
-              "text": "to go",
+              "text": "I could/couldn't",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə ɡˈoʊ"
+          "phonemes": "aɪ kʊd slˈæʃ kˈʊdənt"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "to see",
+      "text": "I went",
       "sentences": [
         {
-          "text": "to see",
+          "text": "I went",
           "segments": [
             {
-              "text": "to see",
+              "text": "I went",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə sˈiː"
+          "phonemes": "aɪ wˈɛnt"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "to find",
+      "text": "I found out",
       "sentences": [
         {
-          "text": "to find",
+          "text": "I found out",
           "segments": [
             {
-              "text": "to find",
+              "text": "I found out",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə fˈaɪnd"
+          "phonemes": "aɪ fˈaʊnd ˈaʊt"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "to know",
+      "text": "I had",
       "sentences": [
         {
-          "text": "to know",
+          "text": "I had",
           "segments": [
             {
-              "text": "to know",
+              "text": "I had",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə nˈoʊ"
+          "phonemes": "aɪ hˈæd"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "to lose",
+      "text": "I did/made",
       "sentences": [
         {
-          "text": "to lose",
+          "text": "I did/made",
           "segments": [
             {
-              "text": "to lose",
+              "text": "I did/made",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə lˈuːz"
+          "phonemes": "aɪ dˈɪd slˈæʃ mˈeɪd"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "to take",
+      "text": "I came",
       "sentences": [
         {
-          "text": "to take",
+          "text": "I came",
           "segments": [
             {
-              "text": "to take",
+              "text": "I came",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə tˈeɪk"
+          "phonemes": "aɪ kˈeɪm"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "to come",
+      "text": "I said",
       "sentences": [
         {
-          "text": "to come",
+          "text": "I said",
           "segments": [
             {
-              "text": "to come",
+              "text": "I said",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə kˈʌm"
+          "phonemes": "aɪ sˈɛd"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "to learn",
+      "text": "I saw",
       "sentences": [
         {
-          "text": "to learn",
+          "text": "I saw",
           "segments": [
             {
-              "text": "to learn",
+              "text": "I saw",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə lˈɜːn"
+          "phonemes": "aɪ sˈɔː"
         }
       ]
     }

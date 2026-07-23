@@ -163,7 +163,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Lenguaje modelo. Do you have this shirt in another size? — ¿Tiene esta camisa en otra talla? Those shoes fit well. — Esos zapatos quedan bien. That jacket is too expensive. — Esa chaqueta es demasiado cara. I want to return this item. — Quiero devolver este artículo. The price includes tax. — El precio incluye el impuesto.",
+      "text": "Lenguaje modelo. Some stores have fixed prices. — Algunas tiendas tienen precio fijo. In other places you can bargain. — En otros lugares se puede regatear. The tax is added to the final price. — El impuesto se suma al precio final. The local size doesn't always match the international one. — La talla local no siempre coincide con la internacional. The consumer expects fair treatment. — El consumidor espera un trato justo.",
       "sentences": [
         {
           "text": "Lenguaje modelo.",
@@ -176,104 +176,104 @@
           "phonemes": "leŋɡwˈaxe moðˈelo."
         },
         {
-          "text": "Do you have this shirt in another size?",
+          "text": "Some stores have fixed prices.",
           "segments": [
             {
-              "text": "Do you have this shirt in another size?",
+              "text": "Some stores have fixed prices.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "dˈuː juː hæv ðɪs ʃˈɜːt ɪn ɐnˈʌðɚ sˈaɪz?"
+          "phonemes": "sˌʌm stˈɔːɹz hæv fˈɪkst pɹˈaɪsᵻz."
         },
         {
-          "text": "— ¿Tiene esta camisa en otra talla?",
+          "text": "— Algunas tiendas tienen precio fijo.",
           "segments": [
             {
-              "text": "— ¿Tiene esta camisa en otra talla?",
+              "text": "— Algunas tiendas tienen precio fijo.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— tjˈene ˈesta kamˈisa en ˈotɾa tˈajja?"
+          "phonemes": "— alɣˈunas tjˈɛndas tjˈenem pɾˈesjo fˈixo."
         },
         {
-          "text": "Those shoes fit well.",
+          "text": "In other places you can bargain.",
           "segments": [
             {
-              "text": "Those shoes fit well.",
+              "text": "In other places you can bargain.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðoʊz ʃˈuːz fˈɪt wˈɛl."
+          "phonemes": "ɪn ˈʌðɚ plˈeɪsᵻz juː kæn bˈɑːɹɡɪn."
         },
         {
-          "text": "— Esos zapatos quedan bien.",
+          "text": "— En otros lugares se puede regatear.",
           "segments": [
             {
-              "text": "— Esos zapatos quedan bien.",
+              "text": "— En otros lugares se puede regatear.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— ˈesos sapˈatos kˈeðam bjˈen."
+          "phonemes": "— en ˈotɾos luɣˈaɾes se pwˈeðe rˌeɣateˈaɾ."
         },
         {
-          "text": "That jacket is too expensive.",
+          "text": "The tax is added to the final price.",
           "segments": [
             {
-              "text": "That jacket is too expensive.",
+              "text": "The tax is added to the final price.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðæt dʒˈækɪt ɪz tˈuː ɛkspˈɛnsɪv."
+          "phonemes": "ðə tˈæks ɪz ˈædᵻd tə ðə fˈaɪnəl pɹˈaɪs."
         },
         {
-          "text": "— Esa chaqueta es demasiado cara.",
+          "text": "— El impuesto se suma al precio final.",
           "segments": [
             {
-              "text": "— Esa chaqueta es demasiado cara.",
+              "text": "— El impuesto se suma al precio final.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— ˈesa tʃakˈeta ˈes ðˌemasjˈaðo kˈaɾa."
+          "phonemes": "— el impwˈesto se sˈuma al pɾˈesjo finˈal."
         },
         {
-          "text": "I want to return this item.",
+          "text": "The local size doesn't always match the international one.",
           "segments": [
             {
-              "text": "I want to return this item.",
+              "text": "The local size doesn't always match the international one.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪ wˈɔnt tə ɹᵻtˈɜːn ðɪs ˈaɪɾəm."
+          "phonemes": "ðə lˈoʊkəl sˈaɪz dˈʌzənt ˈɔːlweɪz mˈætʃ ðɪ ˌɪntɚnˈæʃənəl wˌʌn."
         },
         {
-          "text": "— Quiero devolver este artículo.",
+          "text": "— La talla local no siempre coincide con la internacional.",
           "segments": [
             {
-              "text": "— Quiero devolver este artículo.",
+              "text": "— La talla local no siempre coincide con la internacional.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— kjˈeɾo ðˌeβolβˈeɾ ˈeste aɾtˈikulo."
+          "phonemes": "— la tˈajja lokˈal nˈo sjˈempɾe koɪnsˈiðe kon la ˌinteɾnˌasjonˈal."
         },
         {
-          "text": "The price includes tax.",
+          "text": "The consumer expects fair treatment.",
           "segments": [
             {
-              "text": "The price includes tax.",
+              "text": "The consumer expects fair treatment.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə pɹˈaɪs ɪŋklˈuːdz tˈæks."
+          "phonemes": "ðə kənsˈuːmɚɹ ɛkspˈɛkts fˈɛɹ tɹˈiːtmənt."
         },
         {
-          "text": "— El precio incluye el impuesto.",
+          "text": "— El consumidor espera un trato justo.",
           "segments": [
             {
-              "text": "— El precio incluye el impuesto.",
+              "text": "— El consumidor espera un trato justo.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— el pɾˈesjo inklˈuʝe el impwˈesto."
+          "phonemes": "— el kˌonsumiðˈoɾ espˈeɾa ˈun tɾˈato xˈusto."
         }
       ]
     },
@@ -325,129 +325,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "a store",
+      "text": "a fixed price",
       "sentences": [
         {
-          "text": "a store",
+          "text": "a fixed price",
           "segments": [
             {
-              "text": "a store",
+              "text": "a fixed price",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ stˈɔːɹ"
+          "phonemes": "ɐ fˈɪkst pɹˈaɪs"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "a size",
+      "text": "to bargain",
       "sentences": [
         {
-          "text": "a size",
+          "text": "to bargain",
           "segments": [
             {
-              "text": "a size",
+              "text": "to bargain",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ sˈaɪz"
+          "phonemes": "tə bˈɑːɹɡɪn"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "a price",
+      "text": "a tax",
       "sentences": [
         {
-          "text": "a price",
+          "text": "a tax",
           "segments": [
             {
-              "text": "a price",
+              "text": "a tax",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ pɹˈaɪs"
+          "phonemes": "ɐ tˈæks"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "cheap",
+      "text": "a local size",
       "sentences": [
         {
-          "text": "cheap",
+          "text": "a local size",
           "segments": [
             {
-              "text": "cheap",
+              "text": "a local size",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tʃˈiːp"
+          "phonemes": "ɐ lˈoʊkəl sˈaɪz"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "expensive",
+      "text": "a consumer",
       "sentences": [
         {
-          "text": "expensive",
+          "text": "a consumer",
           "segments": [
             {
-              "text": "expensive",
+              "text": "a consumer",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɛkspˈɛnsɪv"
+          "phonemes": "ɐ kənsˈuːmɚ"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "this",
+      "text": "to expect",
       "sentences": [
         {
-          "text": "this",
+          "text": "to expect",
           "segments": [
             {
-              "text": "this",
+              "text": "to expect",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðˈɪs"
+          "phonemes": "tʊ ɛkspˈɛkt"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "that",
+      "text": "an expectation",
       "sentences": [
         {
-          "text": "that",
+          "text": "an expectation",
           "segments": [
             {
-              "text": "that",
+              "text": "an expectation",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðˈæt"
+          "phonemes": "ɐn ɛkspɪktˈeɪʃən"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "to return",
+      "text": "to depend on the place",
       "sentences": [
         {
-          "text": "to return",
+          "text": "to depend on the place",
           "segments": [
             {
-              "text": "to return",
+              "text": "to depend on the place",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə ɹᵻtˈɜːn"
+          "phonemes": "tə dᵻpˈɛnd ɔnðə plˈeɪs"
         }
       ]
     }

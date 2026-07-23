@@ -179,7 +179,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Model language. Se me perdieron las llaves. — I lost my keys. El informe se lo mandé a Clara. — I sent the report to Clara. A ellos se les olvidó la cita. — They forgot the appointment. Explícaselo antes de la reunión. — Explain it to him or her before the meeting. No se nos cayó el equipo; falló el soporte. — We did not drop the equipment; the support failed.",
+      "text": "Model language. El enfoque lingüístico puede atenuar la responsabilidad. — The linguistic approach can soften responsibility. Algunas construcciones enfatizan quién actuó. — Some constructions emphasize who acted. Otras ocultan al actor por completo. — Others hide the doer completely. El matiz cambia el significado. — The nuance changes the meaning. Un enfoque indirecto suena menos acusatorio. — An indirect approach sounds less accusatory.",
       "sentences": [
         {
           "text": "Model language.",
@@ -192,104 +192,104 @@
           "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
         },
         {
-          "text": "Se me perdieron las llaves.",
+          "text": "El enfoque lingüístico puede atenuar la responsabilidad.",
           "segments": [
             {
-              "text": "Se me perdieron las llaves.",
+              "text": "El enfoque lingüístico puede atenuar la responsabilidad.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "se me peɾðjˈeɾon las ʝˈaβes."
+          "phonemes": "el enfˈoke lˌiŋɡuˈistiko pwˈeðe ˌatenwˈaɾ la rˌesponsˌaβiliðˈad."
         },
         {
-          "text": "— I lost my keys.",
+          "text": "— The linguistic approach can soften responsibility.",
           "segments": [
             {
-              "text": "— I lost my keys.",
+              "text": "— The linguistic approach can soften responsibility.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— aɪ lˈɔst maɪ kˈiːz."
+          "phonemes": "— ðə lɪŋɡwˈɪstɪk ɐpɹˈoʊtʃ kæn sˈɔfən ɹᵻspˌɑːnsəbˈɪlᵻɾi."
         },
         {
-          "text": "El informe se lo mandé a Clara.",
+          "text": "Algunas construcciones enfatizan quién actuó.",
           "segments": [
             {
-              "text": "El informe se lo mandé a Clara.",
+              "text": "Algunas construcciones enfatizan quién actuó.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el infˈoɾme se lo mandˈe a klˈaɾa."
+          "phonemes": "alɣˈunas kˌonstɾuksjˈones ˌenfatˈisan kjˈen aktwˈo."
         },
         {
-          "text": "— I sent the report to Clara.",
+          "text": "— Some constructions emphasize who acted.",
           "segments": [
             {
-              "text": "— I sent the report to Clara.",
+              "text": "— Some constructions emphasize who acted.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— aɪ sˈɛnt ðə ɹᵻpˈɔːɹt tə klˈɑːɹɹə."
+          "phonemes": "— sˌʌm kənstɹˈʌkʃənz ˈɛmfɐsˌaɪz hˌuː ˈæktᵻd."
         },
         {
-          "text": "A ellos se les olvidó la cita.",
+          "text": "Otras ocultan al actor por completo.",
           "segments": [
             {
-              "text": "A ellos se les olvidó la cita.",
+              "text": "Otras ocultan al actor por completo.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "a ˈejjos se les ˌolβiðˈo la sˈita."
+          "phonemes": "ˈotɾas okˈultan al aktˈoɾ poɾ komplˈeto."
         },
         {
-          "text": "— They forgot the appointment.",
+          "text": "— Others hide the doer completely.",
           "segments": [
             {
-              "text": "— They forgot the appointment.",
+              "text": "— Others hide the doer completely.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ðeɪ fɚɡˈɑːt ðɪ ɐpˈɔɪntmənt."
+          "phonemes": "— ˈʌðɚz hˈaɪd ðə dˈuːɚ kəmplˈiːtli."
         },
         {
-          "text": "Explícaselo antes de la reunión.",
+          "text": "El matiz cambia el significado.",
           "segments": [
             {
-              "text": "Explícaselo antes de la reunión.",
+              "text": "El matiz cambia el significado.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "eksplˈikasˌelo ˈantes ðe la reʊnjˈon."
+          "phonemes": "el matˈis kˈambja el sˌiɡnifikˈaðo."
         },
         {
-          "text": "— Explain it to him or her before the meeting.",
+          "text": "— The nuance changes the meaning.",
           "segments": [
             {
-              "text": "— Explain it to him or her before the meeting.",
+              "text": "— The nuance changes the meaning.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ɛksplˈeɪn ɪt tə hˌɪm ɔːɹ hɜː bᵻfˌɔːɹ ðə mˈiːɾɪŋ."
+          "phonemes": "— ðə nˈuːɑːns tʃˈeɪndʒᵻz ðə mˈiːnɪŋ."
         },
         {
-          "text": "No se nos cayó el equipo; falló el soporte.",
+          "text": "Un enfoque indirecto suena menos acusatorio.",
           "segments": [
             {
-              "text": "No se nos cayó el equipo; falló el soporte.",
+              "text": "Un enfoque indirecto suena menos acusatorio.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "nˈo se nos kaʝˈo el ekˈipo; fajjˈo el sopˈoɾte."
+          "phonemes": "ˈun enfˈoke ˌindiɾˈekto swˈena mˈenos ˌakusatˈoɾjo."
         },
         {
-          "text": "— We did not drop the equipment; the support failed.",
+          "text": "— An indirect approach sounds less accusatory.",
           "segments": [
             {
-              "text": "— We did not drop the equipment; the support failed.",
+              "text": "— An indirect approach sounds less accusatory.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— wiː dɪdnˌɑːt dɹˈɑːp ðɪ ɪkwˈɪpmənt; ðə səpˈɔːɹt fˈeɪld."
+          "phonemes": "— ɐn ˌɪndɚɹˈɛkt ɐpɹˈoʊtʃ sˈaʊndz lˈɛs ɐkjˈuːzətˌɔːɹi."
         }
       ]
     },
@@ -341,129 +341,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "romperse",
+      "text": "la responsabilidad",
       "sentences": [
         {
-          "text": "romperse",
+          "text": "la responsabilidad",
           "segments": [
             {
-              "text": "romperse",
+              "text": "la responsabilidad",
               "lang": "es-419"
             }
           ],
-          "phonemes": "rompˈeɾse"
+          "phonemes": "la rˌesponsˌaβiliðˈad"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "perderse",
+      "text": "atenuar",
       "sentences": [
         {
-          "text": "perderse",
+          "text": "atenuar",
           "segments": [
             {
-              "text": "perderse",
+              "text": "atenuar",
               "lang": "es-419"
             }
           ],
-          "phonemes": "peɾðˈeɾse"
+          "phonemes": "ˌatenwˈaɾ"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "olvidarse",
+      "text": "enfatizar",
       "sentences": [
         {
-          "text": "olvidarse",
+          "text": "enfatizar",
           "segments": [
             {
-              "text": "olvidarse",
+              "text": "enfatizar",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˌolβiðˈaɾse"
+          "phonemes": "ˌenfatisˈaɾ"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "caerse",
+      "text": "el actor",
       "sentences": [
         {
-          "text": "caerse",
+          "text": "el actor",
           "segments": [
             {
-              "text": "caerse",
+              "text": "el actor",
               "lang": "es-419"
             }
           ],
-          "phonemes": "kaˈeɾse"
+          "phonemes": "el aktˈoɾ"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "la llave",
+      "text": "el enfoque lingüístico",
       "sentences": [
         {
-          "text": "la llave",
+          "text": "el enfoque lingüístico",
           "segments": [
             {
-              "text": "la llave",
+              "text": "el enfoque lingüístico",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la ʝˈaβe"
+          "phonemes": "el enfˈoke lˌiŋɡuˈistiko"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "el archivo",
+      "text": "indirecto",
       "sentences": [
         {
-          "text": "el archivo",
+          "text": "indirecto",
           "segments": [
             {
-              "text": "el archivo",
+              "text": "indirecto",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el aɾtʃˈiβo"
+          "phonemes": "ˌindiɾˈekto"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "la culpa",
+      "text": "directo",
       "sentences": [
         {
-          "text": "la culpa",
+          "text": "directo",
           "segments": [
             {
-              "text": "la culpa",
+              "text": "directo",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la kˈulpa"
+          "phonemes": "diɾˈekto"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "la solución",
+      "text": "el matiz",
       "sentences": [
         {
-          "text": "la solución",
+          "text": "el matiz",
           "segments": [
             {
-              "text": "la solución",
+              "text": "el matiz",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la sˌolusjˈon"
+          "phonemes": "el matˈis"
         }
       ]
     }

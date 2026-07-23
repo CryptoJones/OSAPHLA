@@ -169,7 +169,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Model language. Ayer llegué temprano a la oficina. — Yesterday I arrived at the office early. Primero revisamos el informe. — First we reviewed the report. Luego llamaron al supervisor. — Then they called the supervisor. ¿Qué ocurrió después? — What happened afterward? La reunión terminó a las seis. — The meeting ended at six.",
+      "text": "Model language. Ayer llegué temprano a la oficina. — Yesterday I arrived early at the office. Primero revisamos el informe. — First we reviewed the report. Luego llamaron al supervisor. — Then they called the supervisor. ¿Qué ocurrió después? — What happened afterward? La reunión terminó a las seis. — The meeting finished at six.",
       "sentences": [
         {
           "text": "Model language.",
@@ -192,14 +192,14 @@
           "phonemes": "aʝˈeɾ ʝeɣˈe tempɾˈano a la ˌofisˈina."
         },
         {
-          "text": "— Yesterday I arrived at the office early.",
+          "text": "— Yesterday I arrived early at the office.",
           "segments": [
             {
-              "text": "— Yesterday I arrived at the office early.",
+              "text": "— Yesterday I arrived early at the office.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— jˈɛstɚdˌeɪ aɪ ɚɹˈaɪvd æt ðɪ ˈɑːfɪs ˈɜːli."
+          "phonemes": "— jˈɛstɚdˌeɪ aɪ ɚɹˈaɪvd ˈɜːli æt ðɪ ˈɑːfɪs."
         },
         {
           "text": "Primero revisamos el informe.",
@@ -272,14 +272,14 @@
           "phonemes": "la reʊnjˈon tˌeɾminˈo a las sˈeɪs."
         },
         {
-          "text": "— The meeting ended at six.",
+          "text": "— The meeting finished at six.",
           "segments": [
             {
-              "text": "— The meeting ended at six.",
+              "text": "— The meeting finished at six.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ðə mˈiːɾɪŋ ˈɛndᵻd æt sˈɪks."
+          "phonemes": "— ðə mˈiːɾɪŋ fˈɪnɪʃt æt sˈɪks."
         }
       ]
     },

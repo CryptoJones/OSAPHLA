@@ -29,7 +29,7 @@
     },
     {
       "file": "01.wav",
-      "text": "Form and meaning. Subjunctive with doubt/denial; adverbial clauses; antes de que, para que, a menos que, and cuando with future reference.",
+      "text": "Form and meaning. Applying the form. Use the subjunctive after expressions of doubt or denial, and after adverbial conjunctions like cuando, hasta que, and en cuanto when referring to a future, not-yet-realized event.",
       "sentences": [
         {
           "text": "Form and meaning.",
@@ -42,34 +42,20 @@
           "phonemes": "fˈɔːɹm ænd mˈiːnɪŋ."
         },
         {
-          "text": "Subjunctive with doubt/denial; adverbial clauses; antes de que, para que, a menos que, and cuando with future reference.",
+          "text": "Applying the form.",
           "segments": [
             {
-              "text": "Subjunctive with doubt/denial; adverbial clauses; ",
+              "text": "Applying the form.",
               "lang": "en-us"
-            },
+            }
+          ],
+          "phonemes": "ɐplˈaɪɪŋ ðə fˈɔːɹm."
+        },
+        {
+          "text": "Use the subjunctive after expressions of doubt or denial, and after adverbial conjunctions like cuando, hasta que, and en cuanto when referring to a future, not-yet-realized event.",
+          "segments": [
             {
-              "text": "antes de que",
-              "lang": "es-419"
-            },
-            {
-              "text": ", ",
-              "lang": "en-us"
-            },
-            {
-              "text": "para que",
-              "lang": "es-419"
-            },
-            {
-              "text": ", ",
-              "lang": "en-us"
-            },
-            {
-              "text": "a menos que",
-              "lang": "es-419"
-            },
-            {
-              "text": ", and ",
+              "text": "Use the subjunctive after expressions of doubt or denial, and after adverbial conjunctions like ",
               "lang": "en-us"
             },
             {
@@ -77,17 +63,25 @@
               "lang": "es-419"
             },
             {
-              "text": " with future reference.",
+              "text": ", ",
+              "lang": "en-us"
+            },
+            {
+              "text": "hasta que",
+              "lang": "es-419"
+            },
+            {
+              "text": ", and en cuanto when referring to a future, not-yet-realized event.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "sˈʌbdʒəŋktˌɪv wɪð dˈaʊt slˈæʃ dᵻnˈaɪəl; ædvˈɜːbɪəl klˈɔːzᵻz; ˈantes ðe kˈe , pˌaɾa kˈe , a mˈenos kˈe , ænd kwˈando wɪð fjˈuːtʃɚ ɹˈɛfɹəns."
+          "phonemes": "jˈuːs ðə sˈʌbdʒəŋktˌɪv ˈæftɚɹ ɛkspɹˈɛʃənz ʌv dˈaʊt ɔːɹ dᵻnˈaɪəl, ænd ˈæftɚɹ ædvˈɜːbɪəl kəndʒˈʌŋkʃənz lˈaɪk kwˈando , ˌasta kˈe , ænd ˈɛn kjuːˈæntoʊ wɛn ɹᵻfˈɜːɹɪŋ tʊ ɐ fjˈuːtʃɚ, nˌɑːtjˈɛtɹˈiːəlaɪzd ᵻvˈɛnt."
         }
       ]
     },
     {
       "file": "02.wav",
-      "text": "Model set. Dudo que la cifra sea correcta. Es probable que llueva esta noche. Salimos temprano para que haya tiempo suficiente. No firmaremos a menos que cambien la cláusula. Llámame en cuanto llegues. I doubt that the figure is correct. It will probably rain tonight. We are leaving early so that there is enough time. We will not sign unless they change the clause. Call me as soon as you arrive.",
+      "text": "Model set. Dudo que llegue a tiempo. No niego que sea difícil. Cuando termine el proyecto, avísame. Espera hasta que confirmen. Tan pronto como sepa algo, te llamo. I doubt that he/she will arrive on time. I don't deny that it's difficult. When you finish the project, let me know. Wait until they confirm. As soon as I know something, I'll call you.",
       "sentences": [
         {
           "text": "Model set.",
@@ -100,104 +94,104 @@
           "phonemes": "mˈɑːdəl sˈɛt."
         },
         {
-          "text": "Dudo que la cifra sea correcta.",
+          "text": "Dudo que llegue a tiempo.",
           "segments": [
             {
-              "text": "Dudo que la cifra sea correcta.",
+              "text": "Dudo que llegue a tiempo.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "dˈuðo ke la sˈifɾa sˈea korˈekta."
+          "phonemes": "dˈuðo ke ʝˈeɣe a tjˈempo."
         },
         {
-          "text": "Es probable que llueva esta noche.",
+          "text": "No niego que sea difícil.",
           "segments": [
             {
-              "text": "Es probable que llueva esta noche.",
+              "text": "No niego que sea difícil.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˈes pɾoβˈaβle ke ʝuˈeβa ˈesta nˈotʃe."
+          "phonemes": "nˈo njˈeɣo ke sˈea ðifˈisil."
         },
         {
-          "text": "Salimos temprano para que haya tiempo suficiente.",
+          "text": "Cuando termine el proyecto, avísame.",
           "segments": [
             {
-              "text": "Salimos temprano para que haya tiempo suficiente.",
+              "text": "Cuando termine el proyecto, avísame.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "salˈimos tempɾˈano pˌaɾa ke ˈaʝa tjˈempo sˌufisjˈɛnte."
+          "phonemes": "kwˌando teɾmˈine el pɾoʝˈekto, aβˈisame."
         },
         {
-          "text": "No firmaremos a menos que cambien la cláusula.",
+          "text": "Espera hasta que confirmen.",
           "segments": [
             {
-              "text": "No firmaremos a menos que cambien la cláusula.",
+              "text": "Espera hasta que confirmen.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "nˈo fˌiɾmaɾˈemos a mˈenos ke kˈambjen la klˈausˌula."
+          "phonemes": "espˈeɾa ˌasta ke konfˈiɾmen."
         },
         {
-          "text": "Llámame en cuanto llegues.",
+          "text": "Tan pronto como sepa algo, te llamo.",
           "segments": [
             {
-              "text": "Llámame en cuanto llegues.",
+              "text": "Tan pronto como sepa algo, te llamo.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ʝˈamame en kwˌanto ʝˈeɣes."
+          "phonemes": "tˈam pɾˈonto kˌomo sˈepa ˈalɣo, te ʝˈamo."
         },
         {
-          "text": "I doubt that the figure is correct.",
+          "text": "I doubt that he/she will arrive on time.",
           "segments": [
             {
-              "text": "I doubt that the figure is correct.",
+              "text": "I doubt that he/she will arrive on time.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪ dˈaʊt ðætðə fˈɪɡjɚɹ ɪz kɚɹˈɛkt."
+          "phonemes": "aɪ dˈaʊt ðæt hiː slˈæʃ ʃiː wɪl ɚɹˈaɪv ˌɔn tˈaɪm."
         },
         {
-          "text": "It will probably rain tonight.",
+          "text": "I don't deny that it's difficult.",
           "segments": [
             {
-              "text": "It will probably rain tonight.",
+              "text": "I don't deny that it's difficult.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɪt wɪl pɹˈɑːbəbli ɹˈeɪn tənˈaɪt."
+          "phonemes": "aɪ dˈoʊnt dᵻnˈaɪ ðæt ɪts dˈɪfɪkəlt."
         },
         {
-          "text": "We are leaving early so that there is enough time.",
+          "text": "When you finish the project, let me know.",
           "segments": [
             {
-              "text": "We are leaving early so that there is enough time.",
+              "text": "When you finish the project, let me know.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wiː ɑːɹ lˈiːvɪŋ ˈɜːli sˌoʊ ðæt ðɛɹ ɪz ɪnˈʌf tˈaɪm."
+          "phonemes": "wˌɛn juː fˈɪnɪʃ ðə pɹˈɑːdʒɛkt, lˈɛt mˌiː nˈoʊ."
         },
         {
-          "text": "We will not sign unless they change the clause.",
+          "text": "Wait until they confirm.",
           "segments": [
             {
-              "text": "We will not sign unless they change the clause.",
+              "text": "Wait until they confirm.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wiː wɪl nˌɑːt sˈaɪn ʌnlˈɛs ðeɪ tʃˈeɪndʒ ðə klˈɔːz."
+          "phonemes": "wˈeɪt ʌntˈɪl ðeɪ kənfˈɜːm."
         },
         {
-          "text": "Call me as soon as you arrive.",
+          "text": "As soon as I know something, I'll call you.",
           "segments": [
             {
-              "text": "Call me as soon as you arrive.",
+              "text": "As soon as I know something, I'll call you.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "kˈɔːl mˌiː æz sˈuːn æz juː ɚɹˈaɪv."
+          "phonemes": "æz sˈuːn æz aɪ nˈoʊ sˈʌmθɪŋ, aɪl kˈɔːl juː."
         }
       ]
     },
@@ -275,7 +269,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Model language. Dudo que la cifra sea correcta. — I doubt that the figure is correct. Es probable que llueva esta noche. — It will probably rain tonight. Salimos temprano para que haya tiempo suficiente. — We are leaving early so that there is enough time. No firmaremos a menos que cambien la cláusula. — We will not sign unless they change the clause. Llámame en cuanto llegues. — Call me as soon as you arrive.",
+      "text": "Model language. Dudo que llegue a tiempo. — I doubt that he/she will arrive on time. No niego que sea difícil. — I don't deny that it's difficult. Cuando termine el proyecto, avísame. — When you finish the project, let me know. Espera hasta que confirmen. — Wait until they confirm. Tan pronto como sepa algo, te llamo. — As soon as I know something, I'll call you.",
       "sentences": [
         {
           "text": "Model language.",
@@ -288,104 +282,104 @@
           "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
         },
         {
-          "text": "Dudo que la cifra sea correcta.",
+          "text": "Dudo que llegue a tiempo.",
           "segments": [
             {
-              "text": "Dudo que la cifra sea correcta.",
+              "text": "Dudo que llegue a tiempo.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "dˈuðo ke la sˈifɾa sˈea korˈekta."
+          "phonemes": "dˈuðo ke ʝˈeɣe a tjˈempo."
         },
         {
-          "text": "— I doubt that the figure is correct.",
+          "text": "— I doubt that he/she will arrive on time.",
           "segments": [
             {
-              "text": "— I doubt that the figure is correct.",
+              "text": "— I doubt that he/she will arrive on time.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— aɪ dˈaʊt ðætðə fˈɪɡjɚɹ ɪz kɚɹˈɛkt."
+          "phonemes": "— aɪ dˈaʊt ðæt hiː slˈæʃ ʃiː wɪl ɚɹˈaɪv ˌɔn tˈaɪm."
         },
         {
-          "text": "Es probable que llueva esta noche.",
+          "text": "No niego que sea difícil.",
           "segments": [
             {
-              "text": "Es probable que llueva esta noche.",
+              "text": "No niego que sea difícil.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˈes pɾoβˈaβle ke ʝuˈeβa ˈesta nˈotʃe."
+          "phonemes": "nˈo njˈeɣo ke sˈea ðifˈisil."
         },
         {
-          "text": "— It will probably rain tonight.",
+          "text": "— I don't deny that it's difficult.",
           "segments": [
             {
-              "text": "— It will probably rain tonight.",
+              "text": "— I don't deny that it's difficult.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ɪt wɪl pɹˈɑːbəbli ɹˈeɪn tənˈaɪt."
+          "phonemes": "— aɪ dˈoʊnt dᵻnˈaɪ ðæt ɪts dˈɪfɪkəlt."
         },
         {
-          "text": "Salimos temprano para que haya tiempo suficiente.",
+          "text": "Cuando termine el proyecto, avísame.",
           "segments": [
             {
-              "text": "Salimos temprano para que haya tiempo suficiente.",
+              "text": "Cuando termine el proyecto, avísame.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "salˈimos tempɾˈano pˌaɾa ke ˈaʝa tjˈempo sˌufisjˈɛnte."
+          "phonemes": "kwˌando teɾmˈine el pɾoʝˈekto, aβˈisame."
         },
         {
-          "text": "— We are leaving early so that there is enough time.",
+          "text": "— When you finish the project, let me know.",
           "segments": [
             {
-              "text": "— We are leaving early so that there is enough time.",
+              "text": "— When you finish the project, let me know.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— wiː ɑːɹ lˈiːvɪŋ ˈɜːli sˌoʊ ðæt ðɛɹ ɪz ɪnˈʌf tˈaɪm."
+          "phonemes": "— wˌɛn juː fˈɪnɪʃ ðə pɹˈɑːdʒɛkt, lˈɛt mˌiː nˈoʊ."
         },
         {
-          "text": "No firmaremos a menos que cambien la cláusula.",
+          "text": "Espera hasta que confirmen.",
           "segments": [
             {
-              "text": "No firmaremos a menos que cambien la cláusula.",
+              "text": "Espera hasta que confirmen.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "nˈo fˌiɾmaɾˈemos a mˈenos ke kˈambjen la klˈausˌula."
+          "phonemes": "espˈeɾa ˌasta ke konfˈiɾmen."
         },
         {
-          "text": "— We will not sign unless they change the clause.",
+          "text": "— Wait until they confirm.",
           "segments": [
             {
-              "text": "— We will not sign unless they change the clause.",
+              "text": "— Wait until they confirm.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— wiː wɪl nˌɑːt sˈaɪn ʌnlˈɛs ðeɪ tʃˈeɪndʒ ðə klˈɔːz."
+          "phonemes": "— wˈeɪt ʌntˈɪl ðeɪ kənfˈɜːm."
         },
         {
-          "text": "Llámame en cuanto llegues.",
+          "text": "Tan pronto como sepa algo, te llamo.",
           "segments": [
             {
-              "text": "Llámame en cuanto llegues.",
+              "text": "Tan pronto como sepa algo, te llamo.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ʝˈamame en kwˌanto ʝˈeɣes."
+          "phonemes": "tˈam pɾˈonto kˌomo sˈepa ˈalɣo, te ʝˈamo."
         },
         {
-          "text": "— Call me as soon as you arrive.",
+          "text": "— As soon as I know something, I'll call you.",
           "segments": [
             {
-              "text": "— Call me as soon as you arrive.",
+              "text": "— As soon as I know something, I'll call you.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— kˈɔːl mˌiː æz sˈuːn æz juː ɚɹˈaɪv."
+          "phonemes": "— æz sˈuːn æz aɪ nˈoʊ sˈʌmθɪŋ, aɪl kˈɔːl juː."
         }
       ]
     },
@@ -437,129 +431,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "dudar",
+      "text": "dude que",
       "sentences": [
         {
-          "text": "dudar",
+          "text": "dude que",
           "segments": [
             {
-              "text": "dudar",
+              "text": "dude que",
               "lang": "es-419"
             }
           ],
-          "phonemes": "duðˈaɾ"
+          "phonemes": "dˈuðe kˈe"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "negar",
+      "text": "niegue que",
       "sentences": [
         {
-          "text": "negar",
+          "text": "niegue que",
           "segments": [
             {
-              "text": "negar",
+              "text": "niegue que",
               "lang": "es-419"
             }
           ],
-          "phonemes": "neɣˈaɾ"
+          "phonemes": "njˈeɣe kˈe"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "es posible",
+      "text": "cuando + subjuntivo",
       "sentences": [
         {
-          "text": "es posible",
+          "text": "cuando + subjuntivo",
           "segments": [
             {
-              "text": "es posible",
+              "text": "cuando + subjuntivo",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˈes posˈiβle"
+          "phonemes": "kwˌando mˈas sˌuβxuntˈiβo"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "es probable",
+      "text": "hasta que",
       "sentences": [
         {
-          "text": "es probable",
+          "text": "hasta que",
           "segments": [
             {
-              "text": "es probable",
+              "text": "hasta que",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˈes pɾoβˈaβle"
+          "phonemes": "ˌasta kˈe"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "para que",
+      "text": "tan pronto como",
       "sentences": [
         {
-          "text": "para que",
+          "text": "tan pronto como",
           "segments": [
             {
-              "text": "para que",
+              "text": "tan pronto como",
               "lang": "es-419"
             }
           ],
-          "phonemes": "pˌaɾa kˈe"
+          "phonemes": "tˈam pɾˈonto kˈomo"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "a menos que",
+      "text": "el indicativo",
       "sentences": [
         {
-          "text": "a menos que",
+          "text": "el indicativo",
           "segments": [
             {
-              "text": "a menos que",
+              "text": "el indicativo",
               "lang": "es-419"
             }
           ],
-          "phonemes": "a mˈenos kˈe"
+          "phonemes": "el ˌindikatˈiβo"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "antes de que",
+      "text": "la certeza",
       "sentences": [
         {
-          "text": "antes de que",
+          "text": "la certeza",
           "segments": [
             {
-              "text": "antes de que",
+              "text": "la certeza",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˈantes ðe kˈe"
+          "phonemes": "la seɾtˈesa"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "en cuanto",
+      "text": "la incertidumbre",
       "sentences": [
         {
-          "text": "en cuanto",
+          "text": "la incertidumbre",
           "segments": [
             {
-              "text": "en cuanto",
+              "text": "la incertidumbre",
               "lang": "es-419"
             }
           ],
-          "phonemes": "en kwˈanto"
+          "phonemes": "la ˌinseɾtiðˈumbɾe"
         }
       ]
     }

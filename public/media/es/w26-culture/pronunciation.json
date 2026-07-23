@@ -163,7 +163,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Model language. Yo elegiría la segunda opción. — I would choose the second option. ¿Podría enviarme los detalles? — Could you send me the details? El cambio reduciría el riesgo. — The change would reduce the risk. Dijo que llegaría al día siguiente. — He or she said that they would arrive the following day. En cambio, ese plan costaría demasiado. — On the other hand, that plan would cost too much.",
+      "text": "Model language. La indirección ayuda a proteger la imagen social. — Indirectness helps save social face. Algunas personas suavizan un desacuerdo. — Some people soften a disagreement. Otras usan una estrategia más directa. — Others use a more direct strategy. Esto varía según la relación. — This varies depending on the relationship. No hay una única forma correcta. — There isn't a single correct way.",
       "sentences": [
         {
           "text": "Model language.",
@@ -176,104 +176,104 @@
           "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
         },
         {
-          "text": "Yo elegiría la segunda opción.",
+          "text": "La indirección ayuda a proteger la imagen social.",
           "segments": [
             {
-              "text": "Yo elegiría la segunda opción.",
+              "text": "La indirección ayuda a proteger la imagen social.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ʝˈo ˌelexiɾˈia la seɣˈunda opsjˈon."
+          "phonemes": "la ˌindiɾeksjˈon aʝˈuða a pɾˌotexˈeɾ la imˈaxen sosjˈal."
         },
         {
-          "text": "— I would choose the second option.",
+          "text": "— Indirectness helps save social face.",
           "segments": [
             {
-              "text": "— I would choose the second option.",
+              "text": "— Indirectness helps save social face.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— aɪ wʊd tʃˈuːz ðə sˈɛkənd ˈɑːpʃən."
+          "phonemes": "— ˌɪndɚɹˈɛktnəs hˈɛlps sˈeɪv sˈoʊʃəl fˈeɪs."
         },
         {
-          "text": "¿Podría enviarme los detalles?",
+          "text": "Algunas personas suavizan un desacuerdo.",
           "segments": [
             {
-              "text": "¿Podría enviarme los detalles?",
+              "text": "Algunas personas suavizan un desacuerdo.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "poðɾˈia embjˈaɾme los ðetˈajjes?"
+          "phonemes": "alɣˈunas peɾsˈonas swaβˈisan ˈun dˌesakwˈeɾðo."
         },
         {
-          "text": "— Could you send me the details?",
+          "text": "— Some people soften a disagreement.",
           "segments": [
             {
-              "text": "— Could you send me the details?",
+              "text": "— Some people soften a disagreement.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— kʊd juː sˈɛnd mˌiː ðə diːtˈeɪlz?"
+          "phonemes": "— sˌʌm pˈiːpəl sˈɔfən ɐ dˌɪsɐɡɹˈiːmənt."
         },
         {
-          "text": "El cambio reduciría el riesgo.",
+          "text": "Otras usan una estrategia más directa.",
           "segments": [
             {
-              "text": "El cambio reduciría el riesgo.",
+              "text": "Otras usan una estrategia más directa.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el kˈambjo rˌeðusiɾˈia el riˈesɣo."
+          "phonemes": "ˈotɾas ˈusan ˈuna ˌestɾatˈexja mˈas ðiɾˈekta."
         },
         {
-          "text": "— The change would reduce the risk.",
+          "text": "— Others use a more direct strategy.",
           "segments": [
             {
-              "text": "— The change would reduce the risk.",
+              "text": "— Others use a more direct strategy.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ðə tʃˈeɪndʒ wʊd ɹᵻdˈuːs ðə ɹˈɪsk."
+          "phonemes": "— ˈʌðɚz jˈuːs ɐ mˈɔːɹ dᵻɹˈɛkt stɹˈæɾədʒi."
         },
         {
-          "text": "Dijo que llegaría al día siguiente.",
+          "text": "Esto varía según la relación.",
           "segments": [
             {
-              "text": "Dijo que llegaría al día siguiente.",
+              "text": "Esto varía según la relación.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "dˈixo ke ʝˌeɣaɾˈia al ðˈia siɣjˈɛnte."
+          "phonemes": "ˈesto βaɾˈia seɣˈun la rˌelasjˈon."
         },
         {
-          "text": "— He or she said that they would arrive the following day.",
+          "text": "— This varies depending on the relationship.",
           "segments": [
             {
-              "text": "— He or she said that they would arrive the following day.",
+              "text": "— This varies depending on the relationship.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— hiː ɔːɹ ʃiː sˈɛd ðæt ðeɪ wʊd ɚɹˈaɪv ðə fˈɑːloʊɪŋ dˈeɪ."
+          "phonemes": "— ðɪs vˈɛɹiz dᵻpˈɛndɪŋ ɔnðə ɹᵻlˈeɪʃənʃˌɪp."
         },
         {
-          "text": "En cambio, ese plan costaría demasiado.",
+          "text": "No hay una única forma correcta.",
           "segments": [
             {
-              "text": "En cambio, ese plan costaría demasiado.",
+              "text": "No hay una única forma correcta.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "en kˈambjo, ˈese plˈan kˌostaɾˈia ðˌemasjˈaðo."
+          "phonemes": "nˈo ˈaɪ ˈuna ˈunika fˈoɾma korˈekta."
         },
         {
-          "text": "— On the other hand, that plan would cost too much.",
+          "text": "— There isn't a single correct way.",
           "segments": [
             {
-              "text": "— On the other hand, that plan would cost too much.",
+              "text": "— There isn't a single correct way.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ɔnðɪ ˈʌðɚ hˈænd, ðæt plˈæn wʊd kˈɔst tˈuː mʌtʃ."
+          "phonemes": "— ðɛɹ ˌɪzənt ɐ sˈɪŋɡəl kɚɹˈɛkt wˈeɪ."
         }
       ]
     },
@@ -325,129 +325,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "la opción",
+      "text": "la indirección",
       "sentences": [
         {
-          "text": "la opción",
+          "text": "la indirección",
           "segments": [
             {
-              "text": "la opción",
+              "text": "la indirección",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la opsjˈon"
+          "phonemes": "la ˌindiɾeksjˈon"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "la ventaja",
+      "text": "proteger la imagen",
       "sentences": [
         {
-          "text": "la ventaja",
+          "text": "proteger la imagen",
           "segments": [
             {
-              "text": "la ventaja",
+              "text": "proteger la imagen",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la βentˈaxa"
+          "phonemes": "pɾˌotexˈeɾ la imˈaxen"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "la desventaja",
+      "text": "el desacuerdo",
       "sentences": [
         {
-          "text": "la desventaja",
+          "text": "el desacuerdo",
           "segments": [
             {
-              "text": "la desventaja",
+              "text": "el desacuerdo",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la ðˌesβentˈaxa"
+          "phonemes": "el ðˌesakwˈeɾðo"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "el riesgo",
+      "text": "la estrategia",
       "sentences": [
         {
-          "text": "el riesgo",
+          "text": "la estrategia",
           "segments": [
             {
-              "text": "el riesgo",
+              "text": "la estrategia",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el riˈesɣo"
+          "phonemes": "la ˌestɾatˈexja"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "convendría",
+      "text": "suavizar",
       "sentences": [
         {
-          "text": "convendría",
+          "text": "suavizar",
           "segments": [
             {
-              "text": "convendría",
+              "text": "suavizar",
               "lang": "es-419"
             }
           ],
-          "phonemes": "kˌombendɾˈia"
+          "phonemes": "swˌaβisˈaɾ"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "podría",
+      "text": "directo",
       "sentences": [
         {
-          "text": "podría",
+          "text": "directo",
           "segments": [
             {
-              "text": "podría",
+              "text": "directo",
               "lang": "es-419"
             }
           ],
-          "phonemes": "poðɾˈia"
+          "phonemes": "diɾˈekto"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "debería",
+      "text": "según la relación",
       "sentences": [
         {
-          "text": "debería",
+          "text": "según la relación",
           "segments": [
             {
-              "text": "debería",
+              "text": "según la relación",
               "lang": "es-419"
             }
           ],
-          "phonemes": "dˌeβeɾˈia"
+          "phonemes": "seɣˈun la rˌelasjˈon"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "en cambio",
+      "text": "variar",
       "sentences": [
         {
-          "text": "en cambio",
+          "text": "variar",
           "segments": [
             {
-              "text": "en cambio",
+              "text": "variar",
               "lang": "es-419"
             }
           ],
-          "phonemes": "en kˈambjo"
+          "phonemes": "baɾjˈaɾ"
         }
       ]
     }

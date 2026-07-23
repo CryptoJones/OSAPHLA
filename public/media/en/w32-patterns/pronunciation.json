@@ -29,7 +29,7 @@
     },
     {
       "file": "01.wav",
-      "text": "Forma y significado. Reported speech; estilo formal; conectores; correos profesionales; lenguaje nominal y solución de problemas técnicos.",
+      "text": "Forma y significado. Aplicación de la forma. El estilo indirecto retrocede un tiempo verbal (says → said); los posesivos enfáticos (mine, his) sustituyen a un sustantivo ya mencionado.",
       "sentences": [
         {
           "text": "Forma y significado.",
@@ -42,24 +42,46 @@
           "phonemes": "fˈoɾma i sˌiɡnifikˈaðo."
         },
         {
-          "text": "Reported speech; estilo formal; conectores; correos profesionales; lenguaje nominal y solución de problemas técnicos.",
+          "text": "Aplicación de la forma.",
           "segments": [
             {
-              "text": "Reported speech",
-              "lang": "en-us"
-            },
-            {
-              "text": "; estilo formal; conectores; correos profesionales; lenguaje nominal y solución de problemas técnicos.",
+              "text": "Aplicación de la forma.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ɹᵻpˈɔːɹɾᵻd spˈiːtʃ ; estˈilo foɾmˈal; kˌonektˈoɾes; korˈeos pɾˌofesjonˈales; leŋɡwˈaxe nˌominˈal i sˌolusjˈon de pɾoβlˈemas tˈeknikos."
+          "phonemes": "ˌaplikasjˈon de la fˈoɾma."
+        },
+        {
+          "text": "El estilo indirecto retrocede un tiempo verbal (says → said); los posesivos enfáticos (mine, his) sustituyen a un sustantivo ya mencionado.",
+          "segments": [
+            {
+              "text": "El estilo indirecto retrocede un tiempo verbal (says → said); los posesivos enfáticos (",
+              "lang": "es-419"
+            },
+            {
+              "text": "mine",
+              "lang": "en-us"
+            },
+            {
+              "text": ", ",
+              "lang": "es-419"
+            },
+            {
+              "text": "his",
+              "lang": "en-us"
+            },
+            {
+              "text": ") sustituyen a un sustantivo ya mencionado.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "el estˈilo ˌindiɾˈekto rˌetɾosˈeðe ˈun tjˈempo βeɾβˈal (sˈaɪs sˈaɪd); los pˌosesˈiβos enfˈatikos ( mˈaɪn , hˈɪz ) sˌustitˈuʝen a ˈun sˌustantˈiβo ʝˈa mˌensjonˈaðo."
         }
       ]
     },
     {
       "file": "02.wav",
-      "text": "Conjunto de modelos. According to the technician, the network is working. We communicate through a secure channel. The director said they would extend the deadline. The requested report is attached. Regarding the incident, two details are missing. Según el técnico, la red está funcionando. Nos comunicamos por un canal seguro. La directora dijo que ampliarían el plazo. Se adjunta el informe solicitado. Con respecto al incidente, faltan dos datos.",
+      "text": "Conjunto de modelos. He said that he would arrive late. According to her, the system works well. This file is mine. That password is his. Furthermore, the deadline was extended. Dijo que llegaría tarde. Según ella, el sistema funciona bien. Este archivo es el mío. Esa contraseña es la suya. Además, el plazo se extendió.",
       "sentences": [
         {
           "text": "Conjunto de modelos.",
@@ -72,104 +94,104 @@
           "phonemes": "koŋxˈunto ðe moðˈelos."
         },
         {
-          "text": "According to the technician, the network is working.",
+          "text": "He said that he would arrive late.",
           "segments": [
             {
-              "text": "According to the technician, the network is working.",
+              "text": "He said that he would arrive late.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐkˈɔːɹdɪŋ tə ðə tɛknˈɪʃən, ðə nˈɛtwɜːk ɪz wˈɜːkɪŋ."
+          "phonemes": "hiː sˈɛd ðæt hiː wʊd ɚɹˈaɪv lˈeɪt."
         },
         {
-          "text": "We communicate through a secure channel.",
+          "text": "According to her, the system works well.",
           "segments": [
             {
-              "text": "We communicate through a secure channel.",
+              "text": "According to her, the system works well.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wiː kəmjˈuːnᵻkˌeɪt θɹuː ɐ sᵻkjˈʊɹ tʃˈænəl."
+          "phonemes": "ɐkˈɔːɹdɪŋ tə hɜː, ðə sˈɪstəm wˈɜːks wˈɛl."
         },
         {
-          "text": "The director said they would extend the deadline.",
+          "text": "This file is mine.",
           "segments": [
             {
-              "text": "The director said they would extend the deadline.",
+              "text": "This file is mine.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə dᵻɹˈɛktɚ sˈɛd ðeɪ wʊd ɛkstˈɛnd ðə dˈɛdlaɪn."
+          "phonemes": "ðɪs fˈaɪl ɪz mˈaɪn."
         },
         {
-          "text": "The requested report is attached.",
+          "text": "That password is his.",
           "segments": [
             {
-              "text": "The requested report is attached.",
+              "text": "That password is his.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə ɹᵻkwˈɛstᵻd ɹᵻpˈɔːɹt ɪz ɐtˈætʃt."
+          "phonemes": "ðæt pˈæswɜːd ɪz hˈɪz."
         },
         {
-          "text": "Regarding the incident, two details are missing.",
+          "text": "Furthermore, the deadline was extended.",
           "segments": [
             {
-              "text": "Regarding the incident, two details are missing.",
+              "text": "Furthermore, the deadline was extended.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɹᵻɡˈɑːɹdɪŋ ðɪ ˈɪnsɪdənt, tˈuː diːtˈeɪlz ɑːɹ mˈɪsɪŋ."
+          "phonemes": "fˌɜːðɚmˈɔːɹ, ðə dˈɛdlaɪn wʌz ɛkstˈɛndᵻd."
         },
         {
-          "text": "Según el técnico, la red está funcionando.",
+          "text": "Dijo que llegaría tarde.",
           "segments": [
             {
-              "text": "Según el técnico, la red está funcionando.",
+              "text": "Dijo que llegaría tarde.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "seɣˈun el tˈekniko, la rˈeð estˈa fˌunsjonˈando."
+          "phonemes": "dˈixo ke ʝˌeɣaɾˈia tˈaɾðe."
         },
         {
-          "text": "Nos comunicamos por un canal seguro.",
+          "text": "Según ella, el sistema funciona bien.",
           "segments": [
             {
-              "text": "Nos comunicamos por un canal seguro.",
+              "text": "Según ella, el sistema funciona bien.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "nos kˌomunikˈamos poɾ ˈun kanˈal seɣˈuɾo."
+          "phonemes": "seɣˈun ˈejja, el sistˈema funsjˈona βjˈen."
         },
         {
-          "text": "La directora dijo que ampliarían el plazo.",
+          "text": "Este archivo es el mío.",
           "segments": [
             {
-              "text": "La directora dijo que ampliarían el plazo.",
+              "text": "Este archivo es el mío.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la ðˌiɾektˈoɾa ðˈixo ke ˌampliaɾˈian el plˈaso."
+          "phonemes": "ˈeste aɾtʃˈiβo ˈes el mˈio."
         },
         {
-          "text": "Se adjunta el informe solicitado.",
+          "text": "Esa contraseña es la suya.",
           "segments": [
             {
-              "text": "Se adjunta el informe solicitado.",
+              "text": "Esa contraseña es la suya.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "se aðxˈunta el infˈoɾme sˌolisitˈaðo."
+          "phonemes": "ˈesa kˌontɾasˈeɲa ˈes la sˈuʝa."
         },
         {
-          "text": "Con respecto al incidente, faltan dos datos.",
+          "text": "Además, el plazo se extendió.",
           "segments": [
             {
-              "text": "Con respecto al incidente, faltan dos datos.",
+              "text": "Además, el plazo se extendió.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "kon respˈekto al ˌinsiðˈɛnte, fˈaltan dˈos ðˈatos."
+          "phonemes": "ˌaðemˈas, el plˈaso se ˌekstendjˈo."
         }
       ]
     },
@@ -237,7 +259,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Lenguaje modelo. According to the technician, the network is working. — Según el técnico, la red está funcionando. We communicate through a secure channel. — Nos comunicamos por un canal seguro. The director said they would extend the deadline. — La directora dijo que ampliarían el plazo. The requested report is attached. — Se adjunta el informe solicitado. Regarding the incident, two details are missing. — Con respecto al incidente, faltan dos datos.",
+      "text": "Lenguaje modelo. He said that he would arrive late. — Dijo que llegaría tarde. According to her, the system works well. — Según ella, el sistema funciona bien. This file is mine. — Este archivo es el mío. That password is his. — Esa contraseña es la suya. Furthermore, the deadline was extended. — Además, el plazo se extendió.",
       "sentences": [
         {
           "text": "Lenguaje modelo.",
@@ -250,104 +272,104 @@
           "phonemes": "leŋɡwˈaxe moðˈelo."
         },
         {
-          "text": "According to the technician, the network is working.",
+          "text": "He said that he would arrive late.",
           "segments": [
             {
-              "text": "According to the technician, the network is working.",
+              "text": "He said that he would arrive late.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐkˈɔːɹdɪŋ tə ðə tɛknˈɪʃən, ðə nˈɛtwɜːk ɪz wˈɜːkɪŋ."
+          "phonemes": "hiː sˈɛd ðæt hiː wʊd ɚɹˈaɪv lˈeɪt."
         },
         {
-          "text": "— Según el técnico, la red está funcionando.",
+          "text": "— Dijo que llegaría tarde.",
           "segments": [
             {
-              "text": "— Según el técnico, la red está funcionando.",
+              "text": "— Dijo que llegaría tarde.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— seɣˈun el tˈekniko, la rˈeð estˈa fˌunsjonˈando."
+          "phonemes": "— dˈixo ke ʝˌeɣaɾˈia tˈaɾðe."
         },
         {
-          "text": "We communicate through a secure channel.",
+          "text": "According to her, the system works well.",
           "segments": [
             {
-              "text": "We communicate through a secure channel.",
+              "text": "According to her, the system works well.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wiː kəmjˈuːnᵻkˌeɪt θɹuː ɐ sᵻkjˈʊɹ tʃˈænəl."
+          "phonemes": "ɐkˈɔːɹdɪŋ tə hɜː, ðə sˈɪstəm wˈɜːks wˈɛl."
         },
         {
-          "text": "— Nos comunicamos por un canal seguro.",
+          "text": "— Según ella, el sistema funciona bien.",
           "segments": [
             {
-              "text": "— Nos comunicamos por un canal seguro.",
+              "text": "— Según ella, el sistema funciona bien.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— nos kˌomunikˈamos poɾ ˈun kanˈal seɣˈuɾo."
+          "phonemes": "— seɣˈun ˈejja, el sistˈema funsjˈona βjˈen."
         },
         {
-          "text": "The director said they would extend the deadline.",
+          "text": "This file is mine.",
           "segments": [
             {
-              "text": "The director said they would extend the deadline.",
+              "text": "This file is mine.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə dᵻɹˈɛktɚ sˈɛd ðeɪ wʊd ɛkstˈɛnd ðə dˈɛdlaɪn."
+          "phonemes": "ðɪs fˈaɪl ɪz mˈaɪn."
         },
         {
-          "text": "— La directora dijo que ampliarían el plazo.",
+          "text": "— Este archivo es el mío.",
           "segments": [
             {
-              "text": "— La directora dijo que ampliarían el plazo.",
+              "text": "— Este archivo es el mío.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— la ðˌiɾektˈoɾa ðˈixo ke ˌampliaɾˈian el plˈaso."
+          "phonemes": "— ˈeste aɾtʃˈiβo ˈes el mˈio."
         },
         {
-          "text": "The requested report is attached.",
+          "text": "That password is his.",
           "segments": [
             {
-              "text": "The requested report is attached.",
+              "text": "That password is his.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə ɹᵻkwˈɛstᵻd ɹᵻpˈɔːɹt ɪz ɐtˈætʃt."
+          "phonemes": "ðæt pˈæswɜːd ɪz hˈɪz."
         },
         {
-          "text": "— Se adjunta el informe solicitado.",
+          "text": "— Esa contraseña es la suya.",
           "segments": [
             {
-              "text": "— Se adjunta el informe solicitado.",
+              "text": "— Esa contraseña es la suya.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— se aðxˈunta el infˈoɾme sˌolisitˈaðo."
+          "phonemes": "— ˈesa kˌontɾasˈeɲa ˈes la sˈuʝa."
         },
         {
-          "text": "Regarding the incident, two details are missing.",
+          "text": "Furthermore, the deadline was extended.",
           "segments": [
             {
-              "text": "Regarding the incident, two details are missing.",
+              "text": "Furthermore, the deadline was extended.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɹᵻɡˈɑːɹdɪŋ ðɪ ˈɪnsɪdənt, tˈuː diːtˈeɪlz ɑːɹ mˈɪsɪŋ."
+          "phonemes": "fˌɜːðɚmˈɔːɹ, ðə dˈɛdlaɪn wʌz ɛkstˈɛndᵻd."
         },
         {
-          "text": "— Con respecto al incidente, faltan dos datos.",
+          "text": "— Además, el plazo se extendió.",
           "segments": [
             {
-              "text": "— Con respecto al incidente, faltan dos datos.",
+              "text": "— Además, el plazo se extendió.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— kon respˈekto al ˌinsiðˈɛnte, fˈaltan dˈos ðˈatos."
+          "phonemes": "— ˌaðemˈas, el plˈaso se ˌekstendjˈo."
         }
       ]
     },
@@ -399,129 +421,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "an outage",
+      "text": "said that",
       "sentences": [
         {
-          "text": "an outage",
+          "text": "said that",
           "segments": [
             {
-              "text": "an outage",
+              "text": "said that",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐn ˈaʊɾɪdʒ"
+          "phonemes": "sˈɛd ðˈæt"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "a network",
+      "text": "according to him/her",
       "sentences": [
         {
-          "text": "a network",
+          "text": "according to him/her",
           "segments": [
             {
-              "text": "a network",
+              "text": "according to him/her",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ nˈɛtwɜːk"
+          "phonemes": "ɐkˈɔːɹdɪŋ tə hˌɪm slˈæʃ hɜː"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "a deadline",
+      "text": "mine",
       "sentences": [
         {
-          "text": "a deadline",
+          "text": "mine",
           "segments": [
             {
-              "text": "a deadline",
+              "text": "mine",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ dˈɛdlaɪn"
+          "phonemes": "mˈaɪn"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "an attachment",
+      "text": "his/hers",
       "sentences": [
         {
-          "text": "an attachment",
+          "text": "his/hers",
           "segments": [
             {
-              "text": "an attachment",
+              "text": "his/hers",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐn ɐtˈætʃmənt"
+          "phonemes": "hɪz slˈæʃ hˈɜːz"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "according to",
+      "text": "furthermore",
       "sentences": [
         {
-          "text": "according to",
+          "text": "furthermore",
           "segments": [
             {
-              "text": "according to",
+              "text": "furthermore",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐkˈɔːɹdɪŋ tuː"
+          "phonemes": "fˌɜːðɚmˈɔːɹ"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "regarding",
+      "text": "consequently",
       "sentences": [
         {
-          "text": "regarding",
+          "text": "consequently",
           "segments": [
             {
-              "text": "regarding",
+              "text": "consequently",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɹᵻɡˈɑːɹdɪŋ"
+          "phonemes": "kˈɑːnsɪkwəntli"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "to report",
+      "text": "a formal connector",
       "sentences": [
         {
-          "text": "to report",
+          "text": "a formal connector",
           "segments": [
             {
-              "text": "to report",
+              "text": "a formal connector",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə ɹᵻpˈɔːɹt"
+          "phonemes": "ɐ fˈɔːɹməl kənˈɛktɚ"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "to recommend",
+      "text": "nominal style",
       "sentences": [
         {
-          "text": "to recommend",
+          "text": "nominal style",
           "segments": [
             {
-              "text": "to recommend",
+              "text": "nominal style",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə ɹˌɛkəmˈɛnd"
+          "phonemes": "nˈɑːmɪnəl stˈaɪl"
         }
       ]
     }

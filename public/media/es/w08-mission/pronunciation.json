@@ -45,11 +45,19 @@
           "text": "Present a real or fictional family network and explain three relationships.",
           "segments": [
             {
-              "text": "Present a real or fictional family network and explain three relationships.",
+              "text": "Present a ",
+              "lang": "en-us"
+            },
+            {
+              "text": "real",
+              "lang": "es-419"
+            },
+            {
+              "text": " or fictional family network and explain three relationships.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "pɹˈɛzənt ɐ ɹˈiːəl ɔːɹ fˈɪkʃənəl fˈæmɪli nˈɛtwɜːk ænd ɛksplˈeɪn θɹˈiː ɹᵻlˈeɪʃənʃˌɪps."
+          "phonemes": "pɹˈɛzənt ˈeɪ reˈal ɔːɹ fˈɪkʃənəl fˈæmɪli nˈɛtwɜːk ænd ɛksplˈeɪn θɹˈiː ɹᵻlˈeɪʃənʃˌɪps."
         }
       ]
     },
@@ -143,7 +151,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Model language. Mi hermana mayor es muy amable. — My older sister is very kind. Conozco a los padres de Elena. — I know Elena's parents. Nuestra familia vive en tres ciudades. — Our family lives in three cities. ¿Es suyo este retrato? — Is this portrait yours? Tengo dos hermanos y una prima. — I have two brothers and one female cousin.",
+      "text": "Model language. Voy a presentar mi red familiar. — I am going to present my family network. Explico el parentesco de cada persona. — I explain each person's kinship. La familia puede ser real o ficticia. — The family can be real or fictional. Elijo tres relaciones para explicar. — I choose three relationships to explain. Detallo cada conexión con cuidado. — I detail each connection carefully.",
       "sentences": [
         {
           "text": "Model language.",
@@ -156,104 +164,112 @@
           "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
         },
         {
-          "text": "Mi hermana mayor es muy amable.",
+          "text": "Voy a presentar mi red familiar.",
           "segments": [
             {
-              "text": "Mi hermana mayor es muy amable.",
+              "text": "Voy a presentar mi red familiar.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "mi eɾmˈana maʝˈoɾ ˈes mˈuj amˈaβle."
+          "phonemes": "bˈoɪ a pɾˌesentˈaɾ mi rˈed fˌamiljˈaɾ."
         },
         {
-          "text": "— My older sister is very kind.",
+          "text": "— I am going to present my family network.",
           "segments": [
             {
-              "text": "— My older sister is very kind.",
+              "text": "— I am going to present my family network.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— maɪ ˈoʊldɚ sˈɪstɚɹ ɪz vˈɛɹi kˈaɪnd."
+          "phonemes": "— aɪɐm ɡˌoʊɪŋ tə pɹɪzˈɛnt maɪ fˈæmɪli nˈɛtwɜːk."
         },
         {
-          "text": "Conozco a los padres de Elena.",
+          "text": "Explico el parentesco de cada persona.",
           "segments": [
             {
-              "text": "Conozco a los padres de Elena.",
+              "text": "Explico el parentesco de cada persona.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "konˈosko a los pˈaðɾes ðe elˈena."
+          "phonemes": "eksplˈiko el pˌaɾentˈesko ðe kˈaða peɾsˈona."
         },
         {
-          "text": "— I know Elena's parents.",
+          "text": "— I explain each person's kinship.",
           "segments": [
             {
-              "text": "— I know Elena's parents.",
+              "text": "— I explain each person's kinship.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— aɪ nˈoʊ ᵻlˈiːnəz pˈɛɹənts."
+          "phonemes": "— aɪ ɛksplˈeɪn ˈiːtʃ pˈɜːsənz kˈɪnʃɪp."
         },
         {
-          "text": "Nuestra familia vive en tres ciudades.",
+          "text": "La familia puede ser real o ficticia.",
           "segments": [
             {
-              "text": "Nuestra familia vive en tres ciudades.",
+              "text": "La familia puede ser real o ficticia.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "nwˌestɾa famˈilja βˈiβe en tɾˈes sjuðˈaðes."
+          "phonemes": "la famˈilja pwˈeðe sˈer reˈal o fiktˈisja."
         },
         {
-          "text": "— Our family lives in three cities.",
+          "text": "— The family can be real or fictional.",
           "segments": [
             {
-              "text": "— Our family lives in three cities.",
+              "text": "— The family can be ",
+              "lang": "en-us"
+            },
+            {
+              "text": "real",
+              "lang": "es-419"
+            },
+            {
+              "text": " or fictional.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ˌaʊɚ fˈæmɪli lˈaɪvz ɪn θɹˈiː sˈɪɾiz."
+          "phonemes": "— ðə fˈæmɪli kæn bˈiː reˈal ɔːɹ fˈɪkʃənəl."
         },
         {
-          "text": "¿Es suyo este retrato?",
+          "text": "Elijo tres relaciones para explicar.",
           "segments": [
             {
-              "text": "¿Es suyo este retrato?",
+              "text": "Elijo tres relaciones para explicar.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˈes sˈuʝo ˈeste retɾˈato?"
+          "phonemes": "elˈixo tɾˈes rˌelasjˈones pˌaɾa ˌeksplikˈaɾ."
         },
         {
-          "text": "— Is this portrait yours?",
+          "text": "— I choose three relationships to explain.",
           "segments": [
             {
-              "text": "— Is this portrait yours?",
+              "text": "— I choose three relationships to explain.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ɪz ðɪs pˈɔːɹtɹɪt jˈɔːɹz?"
+          "phonemes": "— aɪ tʃˈuːz θɹˈiː ɹᵻlˈeɪʃənʃˌɪps tʊ ɛksplˈeɪn."
         },
         {
-          "text": "Tengo dos hermanos y una prima.",
+          "text": "Detallo cada conexión con cuidado.",
           "segments": [
             {
-              "text": "Tengo dos hermanos y una prima.",
+              "text": "Detallo cada conexión con cuidado.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "tˈɛŋɡo ðˈos eɾmˈanos i ˈuna pɾˈima."
+          "phonemes": "detˈajjo kˈaða kˌoneksjˈon kon kwiðˈaðo."
         },
         {
-          "text": "— I have two brothers and one female cousin.",
+          "text": "— I detail each connection carefully.",
           "segments": [
             {
-              "text": "— I have two brothers and one female cousin.",
+              "text": "— I detail each connection carefully.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— aɪ hæv tˈuː bɹˈʌðɚz ænd wˈʌn fˈiːmeɪl kˈʌzən."
+          "phonemes": "— aɪ diːtˈeɪl ˈiːtʃ kənˈɛkʃən kˈɛɹfəli."
         }
       ]
     },
@@ -305,129 +321,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "la familia",
+      "text": "presentar",
       "sentences": [
         {
-          "text": "la familia",
+          "text": "presentar",
           "segments": [
             {
-              "text": "la familia",
+              "text": "presentar",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la famˈilja"
+          "phonemes": "pɾˌesentˈaɾ"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "la madre",
+      "text": "la red",
       "sentences": [
         {
-          "text": "la madre",
+          "text": "la red",
           "segments": [
             {
-              "text": "la madre",
+              "text": "la red",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la mˈaðɾe"
+          "phonemes": "la rˈed"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "el padre",
+      "text": "explicar",
       "sentences": [
         {
-          "text": "el padre",
+          "text": "explicar",
           "segments": [
             {
-              "text": "el padre",
+              "text": "explicar",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el pˈaðɾe"
+          "phonemes": "ˌeksplikˈaɾ"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "la hermana",
+      "text": "el parentesco",
       "sentences": [
         {
-          "text": "la hermana",
+          "text": "el parentesco",
           "segments": [
             {
-              "text": "la hermana",
+              "text": "el parentesco",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la eɾmˈana"
+          "phonemes": "el pˌaɾentˈesko"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "el amigo",
+      "text": "real",
       "sentences": [
         {
-          "text": "el amigo",
+          "text": "real",
           "segments": [
             {
-              "text": "el amigo",
+              "text": "real",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el amˈiɣo"
+          "phonemes": "reˈal"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "joven",
+      "text": "ficticio",
       "sentences": [
         {
-          "text": "joven",
+          "text": "ficticio",
           "segments": [
             {
-              "text": "joven",
+              "text": "ficticio",
               "lang": "es-419"
             }
           ],
-          "phonemes": "xˈoβen"
+          "phonemes": "fiktˈisjo"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "mayor",
+      "text": "elegir",
       "sentences": [
         {
-          "text": "mayor",
+          "text": "elegir",
           "segments": [
             {
-              "text": "mayor",
+              "text": "elegir",
               "lang": "es-419"
             }
           ],
-          "phonemes": "maʝˈoɾ"
+          "phonemes": "ˌelexˈiɾ"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "amable",
+      "text": "detallar",
       "sentences": [
         {
-          "text": "amable",
+          "text": "detallar",
           "segments": [
             {
-              "text": "amable",
+              "text": "detallar",
               "lang": "es-419"
             }
           ],
-          "phonemes": "amˈaβle"
+          "phonemes": "dˌetajjˈaɾ"
         }
       ]
     }

@@ -143,7 +143,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Lenguaje modelo. I like listening to live music. — Me gusta escuchar música en vivo. Tom is interested in documentaries. — A Tom le interesan los documentales. Would you rather go out or stay home? — ¿Prefieres salir o quedarte en casa? We love playing together. — Nos encanta jugar juntos. Hiking is quieter than soccer. — El senderismo es más tranquilo que el fútbol.",
+      "text": "Lenguaje modelo. I'm going to plan a free evening for three people. — Voy a planificar una tarde libre para tres personas. I consider each person's constraints. — Considero las restricciones de cada persona. I propose two different activities. — Propongo dos actividades distintas. We agree on an option that satisfies everyone. — Acordamos una opción que satisface a todos. We look for a fair compromise. — Buscamos un compromiso justo.",
       "sentences": [
         {
           "text": "Lenguaje modelo.",
@@ -156,104 +156,104 @@
           "phonemes": "leŋɡwˈaxe moðˈelo."
         },
         {
-          "text": "I like listening to live music.",
+          "text": "I'm going to plan a free evening for three people.",
           "segments": [
             {
-              "text": "I like listening to live music.",
+              "text": "I'm going to plan a free evening for three people.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪ lˈaɪk lˈɪsənɪŋ tə lˈɪv mjˈuːzɪk."
+          "phonemes": "aɪm ɡˌoʊɪŋ tə plˈæn ɐ fɹˈiː ˈiːvnɪŋ fɔːɹ θɹˈiː pˈiːpəl."
         },
         {
-          "text": "— Me gusta escuchar música en vivo.",
+          "text": "— Voy a planificar una tarde libre para tres personas.",
           "segments": [
             {
-              "text": "— Me gusta escuchar música en vivo.",
+              "text": "— Voy a planificar una tarde libre para tres personas.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— me ɣˈusta ˌeskutʃˈaɾ mˈusika em bˈiβo."
+          "phonemes": "— bˈoɪ a plˌanifikˈaɾ ˈuna tˈaɾðe lˈiβɾe pˌaɾa tɾˈes peɾsˈonas."
         },
         {
-          "text": "Tom is interested in documentaries.",
+          "text": "I consider each person's constraints.",
           "segments": [
             {
-              "text": "Tom is interested in documentaries.",
+              "text": "I consider each person's constraints.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tˈɑːm ɪz ˈɪntɹɛstᵻd ɪn dˌɑːkjuːmˈɛntɚɹiz."
+          "phonemes": "aɪ kənsˈɪdɚɹ ˈiːtʃ pˈɜːsənz kənstɹˈeɪnts."
         },
         {
-          "text": "— A Tom le interesan los documentales.",
+          "text": "— Considero las restricciones de cada persona.",
           "segments": [
             {
-              "text": "— A Tom le interesan los documentales.",
+              "text": "— Considero las restricciones de cada persona.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— a tˈom le ˌinteɾˈesan los ðˌokumentˈales."
+          "phonemes": "— kˌonsiðˈeɾo las rˌestɾiksjˈones ðe kˈaða peɾsˈona."
         },
         {
-          "text": "Would you rather go out or stay home?",
+          "text": "I propose two different activities.",
           "segments": [
             {
-              "text": "Would you rather go out or stay home?",
+              "text": "I propose two different activities.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wʊd juː ɹˈæðɚ ɡˌoʊ ˈaʊt ɔːɹ stˈeɪ hˈoʊm?"
+          "phonemes": "aɪ pɹəpˈoʊz tˈuː dˈɪfɹənt æktˈɪvᵻɾiz."
         },
         {
-          "text": "— ¿Prefieres salir o quedarte en casa?",
+          "text": "— Propongo dos actividades distintas.",
           "segments": [
             {
-              "text": "— ¿Prefieres salir o quedarte en casa?",
+              "text": "— Propongo dos actividades distintas.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— pɾefjˈeɾes salˈiɾ o keðˈaɾte en kˈasa?"
+          "phonemes": "— pɾopˈoŋɡo ðˈos ˌaktiβiðˈaðes ðistˈintas."
         },
         {
-          "text": "We love playing together.",
+          "text": "We agree on an option that satisfies everyone.",
           "segments": [
             {
-              "text": "We love playing together.",
+              "text": "We agree on an option that satisfies everyone.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wiː lˈʌv plˈeɪɪŋ təɡˈɛðɚ."
+          "phonemes": "wiː ɐɡɹˈiː ˌɔn ɐn ˈɑːpʃən ðæt sˈæɾɪsfˌaɪz ˈɛvɹɪwˌʌn."
         },
         {
-          "text": "— Nos encanta jugar juntos.",
+          "text": "— Acordamos una opción que satisface a todos.",
           "segments": [
             {
-              "text": "— Nos encanta jugar juntos.",
+              "text": "— Acordamos una opción que satisface a todos.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— nos enkˈanta xuɣˈaɾ xˈuntos."
+          "phonemes": "— ˌakoɾðˈamos ˈuna opsjˈon ke sˌatisfˈase a tˈoðos."
         },
         {
-          "text": "Hiking is quieter than soccer.",
+          "text": "We look for a fair compromise.",
           "segments": [
             {
-              "text": "Hiking is quieter than soccer.",
+              "text": "We look for a fair compromise.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "hˈaɪkɪŋ ɪz kwˈaɪəɾɚ ðɐn sˈɑːkɚ."
+          "phonemes": "wiː lˈʊk fɚɹə fˈɛɹ kˈɑːmpɹəmˌaɪz."
         },
         {
-          "text": "— El senderismo es más tranquilo que el fútbol.",
+          "text": "— Buscamos un compromiso justo.",
           "segments": [
             {
-              "text": "— El senderismo es más tranquilo que el fútbol.",
+              "text": "— Buscamos un compromiso justo.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— el sˌendeɾˈismo ˈes mˈas tɾankˈilo ke el fˈutβol."
+          "phonemes": "— buskˈamos ˈun kˌompɾomˈiso xˈusto."
         }
       ]
     },
@@ -305,129 +305,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "to like",
+      "text": "to plan",
       "sentences": [
         {
-          "text": "to like",
+          "text": "to plan",
           "segments": [
             {
-              "text": "to like",
+              "text": "to plan",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə lˈaɪk"
+          "phonemes": "tə plˈæn"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "to love",
+      "text": "a constraint",
       "sentences": [
         {
-          "text": "to love",
+          "text": "a constraint",
           "segments": [
             {
-              "text": "to love",
+              "text": "a constraint",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə lˈʌv"
+          "phonemes": "ɐ kənstɹˈeɪnt"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "to prefer",
+      "text": "a free evening",
       "sentences": [
         {
-          "text": "to prefer",
+          "text": "a free evening",
           "segments": [
             {
-              "text": "to prefer",
+              "text": "a free evening",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə pɹɪfˈɜː"
+          "phonemes": "ɐ fɹˈiː ˈiːvnɪŋ"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "a movie",
+      "text": "to consider",
       "sentences": [
         {
-          "text": "a movie",
+          "text": "to consider",
           "segments": [
             {
-              "text": "a movie",
+              "text": "to consider",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ mˈuːvi"
+          "phonemes": "tə kənsˈɪdɚ"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "music",
+      "text": "to agree on",
       "sentences": [
         {
-          "text": "music",
+          "text": "to agree on",
           "segments": [
             {
-              "text": "music",
+              "text": "to agree on",
               "lang": "en-us"
             }
           ],
-          "phonemes": "mjˈuːzɪk"
+          "phonemes": "tʊ ɐɡɹˈiː ˈɔn"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "a sport",
+      "text": "to propose",
       "sentences": [
         {
-          "text": "a sport",
+          "text": "to propose",
           "segments": [
             {
-              "text": "a sport",
+              "text": "to propose",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ spˈɔːɹt"
+          "phonemes": "tə pɹəpˈoʊz"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "together",
+      "text": "to satisfy",
       "sentences": [
         {
-          "text": "together",
+          "text": "to satisfy",
           "segments": [
             {
-              "text": "together",
+              "text": "to satisfy",
               "lang": "en-us"
             }
           ],
-          "phonemes": "təɡˈɛðɚ"
+          "phonemes": "tə sˈæɾɪsfˌaɪ"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "free time",
+      "text": "a compromise",
       "sentences": [
         {
-          "text": "free time",
+          "text": "a compromise",
           "segments": [
             {
-              "text": "free time",
+              "text": "a compromise",
               "lang": "en-us"
             }
           ],
-          "phonemes": "fɹˈiː tˈaɪm"
+          "phonemes": "ɐ kˈɑːmpɹəmˌaɪz"
         }
       ]
     }

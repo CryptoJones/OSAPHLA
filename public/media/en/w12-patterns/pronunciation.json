@@ -29,7 +29,7 @@
     },
     {
       "file": "01.wav",
-      "text": "Forma y significado. This/that/these/those; cuantificadores; tallas y números grandes; orden de adjetivos; one/ones para evitar repetición.",
+      "text": "Forma y significado. Aplicación de la forma. This/these señalan cercanía, that/those señalan distancia; usa fit para el ajuste y cost para el precio.",
       "sentences": [
         {
           "text": "Forma y significado.",
@@ -42,18 +42,20 @@
           "phonemes": "fˈoɾma i sˌiɡnifikˈaðo."
         },
         {
-          "text": "This/that/these/those; cuantificadores; tallas y números grandes; orden de adjetivos; one/ones para evitar repetición.",
+          "text": "Aplicación de la forma.",
+          "segments": [
+            {
+              "text": "Aplicación de la forma.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "ˌaplikasjˈon de la fˈoɾma."
+        },
+        {
+          "text": "This/these señalan cercanía, that/those señalan distancia; usa fit para el ajuste y cost para el precio.",
           "segments": [
             {
               "text": "This",
-              "lang": "en-us"
-            },
-            {
-              "text": "/",
-              "lang": "es-419"
-            },
-            {
-              "text": "that",
               "lang": "en-us"
             },
             {
@@ -65,6 +67,14 @@
               "lang": "en-us"
             },
             {
+              "text": " señalan cercanía, ",
+              "lang": "es-419"
+            },
+            {
+              "text": "that",
+              "lang": "en-us"
+            },
+            {
               "text": "/",
               "lang": "es-419"
             },
@@ -73,33 +83,17 @@
               "lang": "en-us"
             },
             {
-              "text": "; cuantificadores; tallas y números grandes; orden de adjetivos; ",
-              "lang": "es-419"
-            },
-            {
-              "text": "one",
-              "lang": "en-us"
-            },
-            {
-              "text": "/",
-              "lang": "es-419"
-            },
-            {
-              "text": "ones",
-              "lang": "en-us"
-            },
-            {
-              "text": " para evitar repetición.",
+              "text": " señalan distancia; usa fit para el ajuste y cost para el precio.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ðˈɪs bˈara ðˈæt bˈara ðˈiːz bˈara ðˈoʊz ; kwˌantifˌikaðˈoɾes; tˈajjas i nˈumeɾos ɣɾˈandes; ˈoɾðen de ˌaðxetˈiβos; wˌʌn bˈara wˌʌnz pˌaɾa ˌeβitˈaɾ rˌepetisjˈon."
+          "phonemes": "ðˈɪs bˈara ðˈiːz seɲˈalan sˌeɾkanˈia, ðˈæt bˈara ðˈoʊz seɲˈalan distˈansja; ˈusa fˈit pˌaɾa el axˈuste i kˈost pˌaɾa el pɾˈesjo."
         }
       ]
     },
     {
       "file": "02.wav",
-      "text": "Conjunto de modelos. Do you have this shirt in another size? Those shoes fit well. That jacket is too expensive. I want to return this item. The price includes tax. ¿Tiene esta camisa en otra talla? Esos zapatos quedan bien. Esa chaqueta es demasiado cara. Quiero devolver este artículo. El precio incluye el impuesto.",
+      "text": "Conjunto de modelos. This shirt fits me well. That jacket over there costs two hundred dollars. These shoes are comfortable. Those boots are expensive. The dress costs five hundred pesos. Esta camisa me queda bien. Aquella chaqueta cuesta doscientos dólares. Estos zapatos son cómodos. Esas botas son caras. El vestido cuesta quinientos pesos.",
       "sentences": [
         {
           "text": "Conjunto de modelos.",
@@ -112,104 +106,104 @@
           "phonemes": "koŋxˈunto ðe moðˈelos."
         },
         {
-          "text": "Do you have this shirt in another size?",
+          "text": "This shirt fits me well.",
           "segments": [
             {
-              "text": "Do you have this shirt in another size?",
+              "text": "This shirt fits me well.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "dˈuː juː hæv ðɪs ʃˈɜːt ɪn ɐnˈʌðɚ sˈaɪz?"
+          "phonemes": "ðɪs ʃˈɜːt fˈɪts mˌiː wˈɛl."
         },
         {
-          "text": "Those shoes fit well.",
+          "text": "That jacket over there costs two hundred dollars.",
           "segments": [
             {
-              "text": "Those shoes fit well.",
+              "text": "That jacket over there costs two hundred dollars.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðoʊz ʃˈuːz fˈɪt wˈɛl."
+          "phonemes": "ðæt dʒˈækɪt ˌoʊvɚ ðɛɹ kˈɔsts tˈuː hˈʌndɹɪd dˈɑːlɚz."
         },
         {
-          "text": "That jacket is too expensive.",
+          "text": "These shoes are comfortable.",
           "segments": [
             {
-              "text": "That jacket is too expensive.",
+              "text": "These shoes are comfortable.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðæt dʒˈækɪt ɪz tˈuː ɛkspˈɛnsɪv."
+          "phonemes": "ðiːz ʃˈuːz ɑːɹ kˈʌmftəbəl."
         },
         {
-          "text": "I want to return this item.",
+          "text": "Those boots are expensive.",
           "segments": [
             {
-              "text": "I want to return this item.",
+              "text": "Those boots are expensive.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪ wˈɔnt tə ɹᵻtˈɜːn ðɪs ˈaɪɾəm."
+          "phonemes": "ðoʊz bˈuːts ɑːɹ ɛkspˈɛnsɪv."
         },
         {
-          "text": "The price includes tax.",
+          "text": "The dress costs five hundred pesos.",
           "segments": [
             {
-              "text": "The price includes tax.",
+              "text": "The dress costs five hundred pesos.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə pɹˈaɪs ɪŋklˈuːdz tˈæks."
+          "phonemes": "ðə dɹˈɛs kˈɔsts fˈaɪv hˈʌndɹɪd pˈeɪsoʊz."
         },
         {
-          "text": "¿Tiene esta camisa en otra talla?",
+          "text": "Esta camisa me queda bien.",
           "segments": [
             {
-              "text": "¿Tiene esta camisa en otra talla?",
+              "text": "Esta camisa me queda bien.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "tjˈene ˈesta kamˈisa en ˈotɾa tˈajja?"
+          "phonemes": "ˈesta kamˈisa me kˈeða βjˈen."
         },
         {
-          "text": "Esos zapatos quedan bien.",
+          "text": "Aquella chaqueta cuesta doscientos dólares.",
           "segments": [
             {
-              "text": "Esos zapatos quedan bien.",
+              "text": "Aquella chaqueta cuesta doscientos dólares.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˈesos sapˈatos kˈeðam bjˈen."
+          "phonemes": "akˈejja tʃakˈeta kwˈesta ðosjˈɛntos ðˈolaɾes."
         },
         {
-          "text": "Esa chaqueta es demasiado cara.",
+          "text": "Estos zapatos son cómodos.",
           "segments": [
             {
-              "text": "Esa chaqueta es demasiado cara.",
+              "text": "Estos zapatos son cómodos.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˈesa tʃakˈeta ˈes ðˌemasjˈaðo kˈaɾa."
+          "phonemes": "ˈestos sapˈatos sˈon kˈomoðos."
         },
         {
-          "text": "Quiero devolver este artículo.",
+          "text": "Esas botas son caras.",
           "segments": [
             {
-              "text": "Quiero devolver este artículo.",
+              "text": "Esas botas son caras.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "kjˈeɾo ðˌeβolβˈeɾ ˈeste aɾtˈikulo."
+          "phonemes": "ˈesas βˈotas sˈon kˈaɾas."
         },
         {
-          "text": "El precio incluye el impuesto.",
+          "text": "El vestido cuesta quinientos pesos.",
           "segments": [
             {
-              "text": "El precio incluye el impuesto.",
+              "text": "El vestido cuesta quinientos pesos.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el pɾˈesjo inklˈuʝe el impwˈesto."
+          "phonemes": "el βestˈiðo kwˈesta kinjˈɛntos pˈesos."
         }
       ]
     },
@@ -277,7 +271,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Lenguaje modelo. Do you have this shirt in another size? — ¿Tiene esta camisa en otra talla? Those shoes fit well. — Esos zapatos quedan bien. That jacket is too expensive. — Esa chaqueta es demasiado cara. I want to return this item. — Quiero devolver este artículo. The price includes tax. — El precio incluye el impuesto.",
+      "text": "Lenguaje modelo. This shirt fits me well. — Esta camisa me queda bien. That jacket over there costs two hundred dollars. — Aquella chaqueta cuesta doscientos dólares. These shoes are comfortable. — Estos zapatos son cómodos. Those boots are expensive. — Esas botas son caras. The dress costs five hundred pesos. — El vestido cuesta quinientos pesos.",
       "sentences": [
         {
           "text": "Lenguaje modelo.",
@@ -290,104 +284,104 @@
           "phonemes": "leŋɡwˈaxe moðˈelo."
         },
         {
-          "text": "Do you have this shirt in another size?",
+          "text": "This shirt fits me well.",
           "segments": [
             {
-              "text": "Do you have this shirt in another size?",
+              "text": "This shirt fits me well.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "dˈuː juː hæv ðɪs ʃˈɜːt ɪn ɐnˈʌðɚ sˈaɪz?"
+          "phonemes": "ðɪs ʃˈɜːt fˈɪts mˌiː wˈɛl."
         },
         {
-          "text": "— ¿Tiene esta camisa en otra talla?",
+          "text": "— Esta camisa me queda bien.",
           "segments": [
             {
-              "text": "— ¿Tiene esta camisa en otra talla?",
+              "text": "— Esta camisa me queda bien.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— tjˈene ˈesta kamˈisa en ˈotɾa tˈajja?"
+          "phonemes": "— ˈesta kamˈisa me kˈeða βjˈen."
         },
         {
-          "text": "Those shoes fit well.",
+          "text": "That jacket over there costs two hundred dollars.",
           "segments": [
             {
-              "text": "Those shoes fit well.",
+              "text": "That jacket over there costs two hundred dollars.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðoʊz ʃˈuːz fˈɪt wˈɛl."
+          "phonemes": "ðæt dʒˈækɪt ˌoʊvɚ ðɛɹ kˈɔsts tˈuː hˈʌndɹɪd dˈɑːlɚz."
         },
         {
-          "text": "— Esos zapatos quedan bien.",
+          "text": "— Aquella chaqueta cuesta doscientos dólares.",
           "segments": [
             {
-              "text": "— Esos zapatos quedan bien.",
+              "text": "— Aquella chaqueta cuesta doscientos dólares.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— ˈesos sapˈatos kˈeðam bjˈen."
+          "phonemes": "— akˈejja tʃakˈeta kwˈesta ðosjˈɛntos ðˈolaɾes."
         },
         {
-          "text": "That jacket is too expensive.",
+          "text": "These shoes are comfortable.",
           "segments": [
             {
-              "text": "That jacket is too expensive.",
+              "text": "These shoes are comfortable.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðæt dʒˈækɪt ɪz tˈuː ɛkspˈɛnsɪv."
+          "phonemes": "ðiːz ʃˈuːz ɑːɹ kˈʌmftəbəl."
         },
         {
-          "text": "— Esa chaqueta es demasiado cara.",
+          "text": "— Estos zapatos son cómodos.",
           "segments": [
             {
-              "text": "— Esa chaqueta es demasiado cara.",
+              "text": "— Estos zapatos son cómodos.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— ˈesa tʃakˈeta ˈes ðˌemasjˈaðo kˈaɾa."
+          "phonemes": "— ˈestos sapˈatos sˈon kˈomoðos."
         },
         {
-          "text": "I want to return this item.",
+          "text": "Those boots are expensive.",
           "segments": [
             {
-              "text": "I want to return this item.",
+              "text": "Those boots are expensive.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪ wˈɔnt tə ɹᵻtˈɜːn ðɪs ˈaɪɾəm."
+          "phonemes": "ðoʊz bˈuːts ɑːɹ ɛkspˈɛnsɪv."
         },
         {
-          "text": "— Quiero devolver este artículo.",
+          "text": "— Esas botas son caras.",
           "segments": [
             {
-              "text": "— Quiero devolver este artículo.",
+              "text": "— Esas botas son caras.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— kjˈeɾo ðˌeβolβˈeɾ ˈeste aɾtˈikulo."
+          "phonemes": "— ˈesas βˈotas sˈon kˈaɾas."
         },
         {
-          "text": "The price includes tax.",
+          "text": "The dress costs five hundred pesos.",
           "segments": [
             {
-              "text": "The price includes tax.",
+              "text": "The dress costs five hundred pesos.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə pɹˈaɪs ɪŋklˈuːdz tˈæks."
+          "phonemes": "ðə dɹˈɛs kˈɔsts fˈaɪv hˈʌndɹɪd pˈeɪsoʊz."
         },
         {
-          "text": "— El precio incluye el impuesto.",
+          "text": "— El vestido cuesta quinientos pesos.",
           "segments": [
             {
-              "text": "— El precio incluye el impuesto.",
+              "text": "— El vestido cuesta quinientos pesos.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— el pɾˈesjo inklˈuʝe el impwˈesto."
+          "phonemes": "— el βestˈiðo kwˈesta kinjˈɛntos pˈesos."
         }
       ]
     },
@@ -439,129 +433,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "a store",
+      "text": "that (over there)",
       "sentences": [
         {
-          "text": "a store",
+          "text": "that (over there)",
           "segments": [
             {
-              "text": "a store",
+              "text": "that (over there)",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ stˈɔːɹ"
+          "phonemes": "ðˈæt (ˌoʊvɚ ðˈɛɹ)"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "a size",
+      "text": "these",
       "sentences": [
         {
-          "text": "a size",
+          "text": "these",
           "segments": [
             {
-              "text": "a size",
+              "text": "these",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ sˈaɪz"
+          "phonemes": "ðˈiːz"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "a price",
+      "text": "those",
       "sentences": [
         {
-          "text": "a price",
+          "text": "those",
           "segments": [
             {
-              "text": "a price",
+              "text": "those",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ pɹˈaɪs"
+          "phonemes": "ðˈoʊz"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "cheap",
+      "text": "to fit well",
       "sentences": [
         {
-          "text": "cheap",
+          "text": "to fit well",
           "segments": [
             {
-              "text": "cheap",
+              "text": "to fit well",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tʃˈiːp"
+          "phonemes": "tə fˈɪt wˈɛl"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "expensive",
+      "text": "to cost",
       "sentences": [
         {
-          "text": "expensive",
+          "text": "to cost",
           "segments": [
             {
-              "text": "expensive",
+              "text": "to cost",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɛkspˈɛnsɪv"
+          "phonemes": "tə kˈɔst"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "this",
+      "text": "a color",
       "sentences": [
         {
-          "text": "this",
+          "text": "a color",
           "segments": [
             {
-              "text": "this",
+              "text": "a color",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðˈɪs"
+          "phonemes": "ɐ kˈʌlɚ"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "that",
+      "text": "two hundred",
       "sentences": [
         {
-          "text": "that",
+          "text": "two hundred",
           "segments": [
             {
-              "text": "that",
+              "text": "two hundred",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðˈæt"
+          "phonemes": "tˈuː hˈʌndɹɪd"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "to return",
+      "text": "five hundred",
       "sentences": [
         {
-          "text": "to return",
+          "text": "five hundred",
           "segments": [
             {
-              "text": "to return",
+              "text": "five hundred",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə ɹᵻtˈɜːn"
+          "phonemes": "fˈaɪv hˈʌndɹɪd"
         }
       ]
     }

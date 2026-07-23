@@ -143,7 +143,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Lenguaje modelo. Hello, I'm Alex. — Hola, soy Alex. Nice to meet you, Ms. Rivera. — Mucho gusto, señora Rivera. What's your name? — ¿Cómo te llamas? This is my classmate, Jordan. — Esta persona es Jordan, mi colega de clase. See you tomorrow. Have a good day. — Nos vemos mañana. Que tengas un buen día.",
+      "text": "Lenguaje modelo. I'm going to introduce myself twice. — Voy a presentarme dos veces. I practice the formal tone first. — Practico el tono formal primero. I record my informal introduction after. — Grabo mi presentación informal después. I repeat the part that went wrong. — Repito la parte que salió mal. I correct the tone to improve next time. — Corrijo el tono para mejorar la próxima vez.",
       "sentences": [
         {
           "text": "Lenguaje modelo.",
@@ -156,138 +156,104 @@
           "phonemes": "leŋɡwˈaxe moðˈelo."
         },
         {
-          "text": "Hello, I'm Alex.",
+          "text": "I'm going to introduce myself twice.",
           "segments": [
             {
-              "text": "Hello, I'm Alex.",
+              "text": "I'm going to introduce myself twice.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "həlˈoʊ, aɪm ˈælɪks."
+          "phonemes": "aɪm ɡˌoʊɪŋ tʊ ˌɪntɹədˈuːs maɪsˈɛlf twˈaɪs."
         },
         {
-          "text": "— Hola, soy Alex.",
+          "text": "— Voy a presentarme dos veces.",
           "segments": [
             {
-              "text": "— Hola, soy Alex.",
+              "text": "— Voy a presentarme dos veces.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— ˈola, sˈoɪ alˈeks."
+          "phonemes": "— bˈoɪ a pɾˌesentˈaɾme ðˈos βˈeses."
         },
         {
-          "text": "Nice to meet you, Ms.",
+          "text": "I practice the formal tone first.",
           "segments": [
             {
-              "text": "Nice to meet you, Ms.",
+              "text": "I practice the formal tone first.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "nˈaɪs tə mˈiːt juː, ˌɛmˈɛs."
+          "phonemes": "aɪ pɹˈæktɪs ðə fˈɔːɹməl tˈoʊn fˈɜːst."
         },
         {
-          "text": "Rivera.",
+          "text": "— Practico el tono formal primero.",
           "segments": [
             {
-              "text": "Rivera.",
-              "lang": "en-us"
-            }
-          ],
-          "phonemes": "ɹɪvˈɛɹə."
-        },
-        {
-          "text": "— Mucho gusto, señora Rivera.",
-          "segments": [
-            {
-              "text": "— Mucho gusto, señora ",
-              "lang": "es-419"
-            },
-            {
-              "text": "Rivera.",
-              "lang": "en-us"
-            }
-          ],
-          "phonemes": "— mˈutʃo ɣˈusto, seɲˈoɾa ɹɪvˈɛɹə."
-        },
-        {
-          "text": "What's your name?",
-          "segments": [
-            {
-              "text": "What's your name?",
-              "lang": "en-us"
-            }
-          ],
-          "phonemes": "wˌʌts jʊɹ nˈeɪm?"
-        },
-        {
-          "text": "— ¿Cómo te llamas?",
-          "segments": [
-            {
-              "text": "— ¿Cómo te llamas?",
+              "text": "— Practico el tono formal primero.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— kˈomo te ʝˈamas?"
+          "phonemes": "— pɾaktˈiko el tˈono foɾmˈal pɾimˈeɾo."
         },
         {
-          "text": "This is my classmate, Jordan.",
+          "text": "I record my informal introduction after.",
           "segments": [
             {
-              "text": "This is my classmate, Jordan.",
+              "text": "I record my informal introduction after.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðɪs ɪz maɪ klˈæsmeɪt, dʒˈɔːɹdən."
+          "phonemes": "aɪ ɹᵻkˈɔːɹd maɪ ɪnfˈɔːɹməl ˌɪntɹədˈʌkʃən ˈæftɚ."
         },
         {
-          "text": "— Esta persona es Jordan, mi colega de clase.",
+          "text": "— Grabo mi presentación informal después.",
           "segments": [
             {
-              "text": "— Esta persona es Jordan, mi colega de clase.",
+              "text": "— Grabo mi presentación informal después.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— ˈesta peɾsˈona ˈes xˈoɾðan, mi kolˈeɣa ðe klˈase."
+          "phonemes": "— ɡɾˈaβo mi pɾˌesentasjˈon ˌinfoɾmˈal ðespwˈes."
         },
         {
-          "text": "See you tomorrow.",
+          "text": "I repeat the part that went wrong.",
           "segments": [
             {
-              "text": "See you tomorrow.",
+              "text": "I repeat the part that went wrong.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "sˈiː juː təmˈɑːɹoʊ."
+          "phonemes": "aɪ ɹᵻpˈiːt ðə pˈɑːɹt ðæt wɛnt ɹˈɔŋ."
         },
         {
-          "text": "Have a good day.",
+          "text": "— Repito la parte que salió mal.",
           "segments": [
             {
-              "text": "Have a good day.",
+              "text": "— Repito la parte que salió mal.",
+              "lang": "es-419"
+            }
+          ],
+          "phonemes": "— repˈito la pˈaɾte ke saljˈo mˈal."
+        },
+        {
+          "text": "I correct the tone to improve next time.",
+          "segments": [
+            {
+              "text": "I correct the tone to improve next time.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "hæv ɐ ɡˈʊd dˈeɪ."
+          "phonemes": "aɪ kɚɹˈɛkt ðə tˈoʊn tʊ ɪmpɹˈuːv nˈɛkst tˈaɪm."
         },
         {
-          "text": "— Nos vemos mañana.",
+          "text": "— Corrijo el tono para mejorar la próxima vez.",
           "segments": [
             {
-              "text": "— Nos vemos mañana.",
+              "text": "— Corrijo el tono para mejorar la próxima vez.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— nos βˈemos maɲˈana."
-        },
-        {
-          "text": "Que tengas un buen día.",
-          "segments": [
-            {
-              "text": "Que tengas un buen día.",
-              "lang": "es-419"
-            }
-          ],
-          "phonemes": "ke tˈɛŋɡas ˈum bwˈen dˈia."
+          "phonemes": "— korˈixo el tˈono pˌaɾa mˌexoɾˈaɾ la pɾˈoksima βˈes."
         }
       ]
     },
@@ -339,129 +305,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "hello",
+      "text": "to introduce",
       "sentences": [
         {
-          "text": "hello",
+          "text": "to introduce",
           "segments": [
             {
-              "text": "hello",
+              "text": "to introduce",
               "lang": "en-us"
             }
           ],
-          "phonemes": "həlˈoʊ"
+          "phonemes": "tʊ ˌɪntɹədˈuːs"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "good morning",
+      "text": "to practice",
       "sentences": [
         {
-          "text": "good morning",
+          "text": "to practice",
           "segments": [
             {
-              "text": "good morning",
+              "text": "to practice",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɡˈʊd mˈɔːɹnɪŋ"
+          "phonemes": "tə pɹˈæktɪs"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "good evening",
+      "text": "to record",
       "sentences": [
         {
-          "text": "good evening",
+          "text": "to record",
           "segments": [
             {
-              "text": "good evening",
+              "text": "to record",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɡˈʊd ˈiːvnɪŋ"
+          "phonemes": "tə ɹᵻkˈɔːɹd"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "goodbye",
+      "text": "to repeat",
       "sentences": [
         {
-          "text": "goodbye",
+          "text": "to repeat",
           "segments": [
             {
-              "text": "goodbye",
+              "text": "to repeat",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɡʊdbˈaɪ"
+          "phonemes": "tə ɹᵻpˈiːt"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "please",
+      "text": "an introduction",
       "sentences": [
         {
-          "text": "please",
+          "text": "an introduction",
           "segments": [
             {
-              "text": "please",
+              "text": "an introduction",
               "lang": "en-us"
             }
           ],
-          "phonemes": "plˈiːz"
+          "phonemes": "ɐn ˌɪntɹədˈʌkʃən"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "thank you",
+      "text": "a tone",
       "sentences": [
         {
-          "text": "thank you",
+          "text": "a tone",
           "segments": [
             {
-              "text": "thank you",
+              "text": "a tone",
               "lang": "en-us"
             }
           ],
-          "phonemes": "θˈæŋk juː"
+          "phonemes": "ɐ tˈoʊn"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "nice to meet you",
+      "text": "to correct",
       "sentences": [
         {
-          "text": "nice to meet you",
+          "text": "to correct",
           "segments": [
             {
-              "text": "nice to meet you",
+              "text": "to correct",
               "lang": "en-us"
             }
           ],
-          "phonemes": "nˈaɪs tə mˈiːt juː"
+          "phonemes": "tə kɚɹˈɛkt"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "What is your name?",
+      "text": "to improve",
       "sentences": [
         {
-          "text": "What is your name?",
+          "text": "to improve",
           "segments": [
             {
-              "text": "What is your name?",
+              "text": "to improve",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wˌʌt ɪz jʊɹ nˈeɪm?"
+          "phonemes": "tʊ ɪmpɹˈuːv"
         }
       ]
     }

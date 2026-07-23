@@ -183,7 +183,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Model language. Yo elegiría la segunda opción. — I would choose the second option. ¿Podría enviarme los detalles? — Could you send me the details? El cambio reduciría el riesgo. — The change would reduce the risk. Dijo que llegaría al día siguiente. — He or she said that they would arrive the following day. En cambio, ese plan costaría demasiado. — On the other hand, that plan would cost too much.",
+      "text": "Model language. La primera propuesta sería rápida. — The first proposal would be fast. Pero tardaría menos en dar resultados. — But it would take less time to show results. La segunda tardaría más tiempo. — The second would take longer. El comité compara los costos de cada una. — The committee compares the costs of each. Ambas tienen efectos a largo plazo. — Both have long-term effects.",
       "sentences": [
         {
           "text": "Model language.",
@@ -196,104 +196,104 @@
           "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
         },
         {
-          "text": "Yo elegiría la segunda opción.",
+          "text": "La primera propuesta sería rápida.",
           "segments": [
             {
-              "text": "Yo elegiría la segunda opción.",
+              "text": "La primera propuesta sería rápida.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ʝˈo ˌelexiɾˈia la seɣˈunda opsjˈon."
+          "phonemes": "la pɾimˈeɾa pɾopwˈesta seɾˈia rˈapiða."
         },
         {
-          "text": "— I would choose the second option.",
+          "text": "— The first proposal would be fast.",
           "segments": [
             {
-              "text": "— I would choose the second option.",
+              "text": "— The first proposal would be fast.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— aɪ wʊd tʃˈuːz ðə sˈɛkənd ˈɑːpʃən."
+          "phonemes": "— ðə fˈɜːst pɹəpˈoʊzəl wʊd biː fˈæst."
         },
         {
-          "text": "¿Podría enviarme los detalles?",
+          "text": "Pero tardaría menos en dar resultados.",
           "segments": [
             {
-              "text": "¿Podría enviarme los detalles?",
+              "text": "Pero tardaría menos en dar resultados.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "poðɾˈia embjˈaɾme los ðetˈajjes?"
+          "phonemes": "pˌeɾo tˌaɾðaɾˈia mˈenos en dˈaɾ rˌesultˈaðos."
         },
         {
-          "text": "— Could you send me the details?",
+          "text": "— But it would take less time to show results.",
           "segments": [
             {
-              "text": "— Could you send me the details?",
+              "text": "— But it would take less time to show results.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— kʊd juː sˈɛnd mˌiː ðə diːtˈeɪlz?"
+          "phonemes": "— bˌʌt ɪt wʊd tˈeɪk lˈɛs tˈaɪm tə ʃˈoʊ ɹɪzˈʌlts."
         },
         {
-          "text": "El cambio reduciría el riesgo.",
+          "text": "La segunda tardaría más tiempo.",
           "segments": [
             {
-              "text": "El cambio reduciría el riesgo.",
+              "text": "La segunda tardaría más tiempo.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el kˈambjo rˌeðusiɾˈia el riˈesɣo."
+          "phonemes": "la seɣˈunda tˌaɾðaɾˈia mˈas tjˈempo."
         },
         {
-          "text": "— The change would reduce the risk.",
+          "text": "— The second would take longer.",
           "segments": [
             {
-              "text": "— The change would reduce the risk.",
+              "text": "— The second would take longer.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ðə tʃˈeɪndʒ wʊd ɹᵻdˈuːs ðə ɹˈɪsk."
+          "phonemes": "— ðə sˈɛkənd wʊd tˈeɪk lˈɔŋɡɚ."
         },
         {
-          "text": "Dijo que llegaría al día siguiente.",
+          "text": "El comité compara los costos de cada una.",
           "segments": [
             {
-              "text": "Dijo que llegaría al día siguiente.",
+              "text": "El comité compara los costos de cada una.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "dˈixo ke ʝˌeɣaɾˈia al ðˈia siɣjˈɛnte."
+          "phonemes": "el kˌomitˈe kompˈaɾa los kˈostos ðe kˈaða ˈuna."
         },
         {
-          "text": "— He or she said that they would arrive the following day.",
+          "text": "— The committee compares the costs of each.",
           "segments": [
             {
-              "text": "— He or she said that they would arrive the following day.",
+              "text": "— The committee compares the costs of each.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— hiː ɔːɹ ʃiː sˈɛd ðæt ðeɪ wʊd ɚɹˈaɪv ðə fˈɑːloʊɪŋ dˈeɪ."
+          "phonemes": "— ðə kəmˈɪɾi kəmpˈɛɹz ðə kˈɔsts ʌv ˈiːtʃ."
         },
         {
-          "text": "En cambio, ese plan costaría demasiado.",
+          "text": "Ambas tienen efectos a largo plazo.",
           "segments": [
             {
-              "text": "En cambio, ese plan costaría demasiado.",
+              "text": "Ambas tienen efectos a largo plazo.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "en kˈambjo, ˈese plˈan kˌostaɾˈia ðˌemasjˈaðo."
+          "phonemes": "ˈambas tjˈenen efˈektos a lˈaɾɣo plˈaso."
         },
         {
-          "text": "— On the other hand, that plan would cost too much.",
+          "text": "— Both have long-term effects.",
           "segments": [
             {
-              "text": "— On the other hand, that plan would cost too much.",
+              "text": "— Both have long-term effects.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ɔnðɪ ˈʌðɚ hˈænd, ðæt plˈæn wʊd kˈɔst tˈuː mʌtʃ."
+          "phonemes": "— bˈoʊθ hæv lˈɔŋtˈɜːm ɪfˈɛkts."
         }
       ]
     },
@@ -345,129 +345,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "la opción",
+      "text": "la propuesta",
       "sentences": [
         {
-          "text": "la opción",
+          "text": "la propuesta",
           "segments": [
             {
-              "text": "la opción",
+              "text": "la propuesta",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la opsjˈon"
+          "phonemes": "la pɾopwˈesta"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "la ventaja",
+      "text": "rápido",
       "sentences": [
         {
-          "text": "la ventaja",
+          "text": "rápido",
           "segments": [
             {
-              "text": "la ventaja",
+              "text": "rápido",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la βentˈaxa"
+          "phonemes": "rˈapiðo"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "la desventaja",
+      "text": "tardar",
       "sentences": [
         {
-          "text": "la desventaja",
+          "text": "tardar",
           "segments": [
             {
-              "text": "la desventaja",
+              "text": "tardar",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la ðˌesβentˈaxa"
+          "phonemes": "taɾðˈaɾ"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "el riesgo",
+      "text": "comparar",
       "sentences": [
         {
-          "text": "el riesgo",
+          "text": "comparar",
           "segments": [
             {
-              "text": "el riesgo",
+              "text": "comparar",
               "lang": "es-419"
             }
           ],
-          "phonemes": "el riˈesɣo"
+          "phonemes": "kˌompaɾˈaɾ"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "convendría",
+      "text": "el efecto",
       "sentences": [
         {
-          "text": "convendría",
+          "text": "el efecto",
           "segments": [
             {
-              "text": "convendría",
+              "text": "el efecto",
               "lang": "es-419"
             }
           ],
-          "phonemes": "kˌombendɾˈia"
+          "phonemes": "el efˈekto"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "podría",
+      "text": "a largo plazo",
       "sentences": [
         {
-          "text": "podría",
+          "text": "a largo plazo",
           "segments": [
             {
-              "text": "podría",
+              "text": "a largo plazo",
               "lang": "es-419"
             }
           ],
-          "phonemes": "poðɾˈia"
+          "phonemes": "a lˈaɾɣo plˈaso"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "debería",
+      "text": "el comité",
       "sentences": [
         {
-          "text": "debería",
+          "text": "el comité",
           "segments": [
             {
-              "text": "debería",
+              "text": "el comité",
               "lang": "es-419"
             }
           ],
-          "phonemes": "dˌeβeɾˈia"
+          "phonemes": "el kˌomitˈe"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "en cambio",
+      "text": "los costos",
       "sentences": [
         {
-          "text": "en cambio",
+          "text": "los costos",
           "segments": [
             {
-              "text": "en cambio",
+              "text": "los costos",
               "lang": "es-419"
             }
           ],
-          "phonemes": "en kˈambjo"
+          "phonemes": "los kˈostos"
         }
       ]
     }

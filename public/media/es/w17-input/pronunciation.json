@@ -183,7 +183,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Model language. Ayer llegué temprano a la oficina. — Yesterday I arrived at the office early. Primero revisamos el informe. — First we reviewed the report. Luego llamaron al supervisor. — Then they called the supervisor. ¿Qué ocurrió después? — What happened afterward? La reunión terminó a las seis. — The meeting ended at six.",
+      "text": "Model language. Ayer un apagón afectó el barrio. — Yesterday a power outage affected the neighborhood. Primero los vecinos llamaron a la compañía eléctrica. — First the neighbors called the electric company. Luego organizaron luces para todos. — Then they organized lights for everyone. También llevaron comida a las personas mayores. — They also brought food to the elderly. El apagón terminó por la noche. — The outage ended at night.",
       "sentences": [
         {
           "text": "Model language.",
@@ -196,104 +196,104 @@
           "phonemes": "mˈɑːdəl lˈæŋɡwɪdʒ."
         },
         {
-          "text": "Ayer llegué temprano a la oficina.",
+          "text": "Ayer un apagón afectó el barrio.",
           "segments": [
             {
-              "text": "Ayer llegué temprano a la oficina.",
+              "text": "Ayer un apagón afectó el barrio.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "aʝˈeɾ ʝeɣˈe tempɾˈano a la ˌofisˈina."
+          "phonemes": "aʝˈeɾ ˈun ˌapaɣˈon ˌafektˈo el βˈario."
         },
         {
-          "text": "— Yesterday I arrived at the office early.",
+          "text": "— Yesterday a power outage affected the neighborhood.",
           "segments": [
             {
-              "text": "— Yesterday I arrived at the office early.",
+              "text": "— Yesterday a power outage affected the neighborhood.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— jˈɛstɚdˌeɪ aɪ ɚɹˈaɪvd æt ðɪ ˈɑːfɪs ˈɜːli."
+          "phonemes": "— jˈɛstɚdˌeɪ ɐ pˈaʊɚɹ ˈaʊɾɪdʒ ɐfˈɛktᵻd ðə nˈeɪbɚhˌʊd."
         },
         {
-          "text": "Primero revisamos el informe.",
+          "text": "Primero los vecinos llamaron a la compañía eléctrica.",
           "segments": [
             {
-              "text": "Primero revisamos el informe.",
+              "text": "Primero los vecinos llamaron a la compañía eléctrica.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "pɾimˈeɾo rˌeβisˈamos el infˈoɾme."
+          "phonemes": "pɾimˈeɾo los βesˈinos ʝamˈaɾon a la kˌompaɲˈia elˈektɾika."
         },
         {
-          "text": "— First we reviewed the report.",
+          "text": "— First the neighbors called the electric company.",
           "segments": [
             {
-              "text": "— First we reviewed the report.",
+              "text": "— First the neighbors called the electric company.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— fˈɜːst wiː ɹᵻvjˈuːd ðə ɹᵻpˈɔːɹt."
+          "phonemes": "— fˈɜːst ðə nˈeɪbɚz kˈɔːld ðɪ ᵻlˈɛktɹɪk kˈʌmpəni."
         },
         {
-          "text": "Luego llamaron al supervisor.",
+          "text": "Luego organizaron luces para todos.",
           "segments": [
             {
-              "text": "Luego llamaron al supervisor.",
+              "text": "Luego organizaron luces para todos.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "luˈeɣo ʝamˈaɾon al sˌupeɾβisˈoɾ."
+          "phonemes": "luˈeɣo ˌoɾɣanisˈaɾon lˈuses pˌaɾa tˈoðos."
         },
         {
-          "text": "— Then they called the supervisor.",
+          "text": "— Then they organized lights for everyone.",
           "segments": [
             {
-              "text": "— Then they called the supervisor.",
+              "text": "— Then they organized lights for everyone.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ðˈɛn ðeɪ kˈɔːld ðə sˈuːpɚvˌaɪzɚ."
+          "phonemes": "— ðˈɛn ðeɪ ˈɔːɹɡənˌaɪzd lˈaɪts fɔːɹ ˈɛvɹɪwˌʌn."
         },
         {
-          "text": "¿Qué ocurrió después?",
+          "text": "También llevaron comida a las personas mayores.",
           "segments": [
             {
-              "text": "¿Qué ocurrió después?",
+              "text": "También llevaron comida a las personas mayores.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "kˈe ˌokuriˈo ðespwˈes?"
+          "phonemes": "tambjˈen dʒeβˈaɾon komˈiða a las peɾsˈonas maʝˈoɾes."
         },
         {
-          "text": "— What happened afterward?",
+          "text": "— They also brought food to the elderly.",
           "segments": [
             {
-              "text": "— What happened afterward?",
+              "text": "— They also brought food to the elderly.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— wˌʌt hˈæpənd ˈæftɚwɚd?"
+          "phonemes": "— ðeɪ ˈɔːlsoʊ bɹˈɔːt fˈuːd tə ðɪ ˈɛldɚli."
         },
         {
-          "text": "La reunión terminó a las seis.",
+          "text": "El apagón terminó por la noche.",
           "segments": [
             {
-              "text": "La reunión terminó a las seis.",
+              "text": "El apagón terminó por la noche.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "la reʊnjˈon tˌeɾminˈo a las sˈeɪs."
+          "phonemes": "el ˌapaɣˈon tˌeɾminˈo poɾ la nˈotʃe."
         },
         {
-          "text": "— The meeting ended at six.",
+          "text": "— The outage ended at night.",
           "segments": [
             {
-              "text": "— The meeting ended at six.",
+              "text": "— The outage ended at night.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ðə mˈiːɾɪŋ ˈɛndᵻd æt sˈɪks."
+          "phonemes": "— ðɪ ˈaʊɾɪdʒ ˈɛndᵻd æt nˈaɪt."
         }
       ]
     },
@@ -345,129 +345,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "ayer",
+      "text": "el apagón",
       "sentences": [
         {
-          "text": "ayer",
+          "text": "el apagón",
           "segments": [
             {
-              "text": "ayer",
+              "text": "el apagón",
               "lang": "es-419"
             }
           ],
-          "phonemes": "aʝˈeɾ"
+          "phonemes": "el ˌapaɣˈon"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "anoche",
+      "text": "afectar",
       "sentences": [
         {
-          "text": "anoche",
+          "text": "afectar",
           "segments": [
             {
-              "text": "anoche",
+              "text": "afectar",
               "lang": "es-419"
             }
           ],
-          "phonemes": "anˈotʃe"
+          "phonemes": "ˌafektˈaɾ"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "primero",
+      "text": "el barrio",
       "sentences": [
         {
-          "text": "primero",
+          "text": "el barrio",
           "segments": [
             {
-              "text": "primero",
+              "text": "el barrio",
               "lang": "es-419"
             }
           ],
-          "phonemes": "pɾimˈeɾo"
+          "phonemes": "el βˈario"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "luego",
+      "text": "la compañía eléctrica",
       "sentences": [
         {
-          "text": "luego",
+          "text": "la compañía eléctrica",
           "segments": [
             {
-              "text": "luego",
+              "text": "la compañía eléctrica",
               "lang": "es-419"
             }
           ],
-          "phonemes": "luˈeɣo"
+          "phonemes": "la kˌompaɲˈia elˈektɾika"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "después",
+      "text": "organizar",
       "sentences": [
         {
-          "text": "después",
+          "text": "organizar",
           "segments": [
             {
-              "text": "después",
+              "text": "organizar",
               "lang": "es-419"
             }
           ],
-          "phonemes": "despwˈes"
+          "phonemes": "ˌoɾɣanisˈaɾ"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "ocurrir",
+      "text": "las luces",
       "sentences": [
         {
-          "text": "ocurrir",
+          "text": "las luces",
           "segments": [
             {
-              "text": "ocurrir",
+              "text": "las luces",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ˌokurˈiɾ"
+          "phonemes": "las lˈuses"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "llamar",
+      "text": "la comida",
       "sentences": [
         {
-          "text": "llamar",
+          "text": "la comida",
           "segments": [
             {
-              "text": "llamar",
+              "text": "la comida",
               "lang": "es-419"
             }
           ],
-          "phonemes": "ʝamˈaɾ"
+          "phonemes": "la komˈiða"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "terminar",
+      "text": "mayor",
       "sentences": [
         {
-          "text": "terminar",
+          "text": "mayor",
           "segments": [
             {
-              "text": "terminar",
+              "text": "mayor",
               "lang": "es-419"
             }
           ],
-          "phonemes": "tˌeɾminˈaɾ"
+          "phonemes": "maʝˈoɾ"
         }
       ]
     }

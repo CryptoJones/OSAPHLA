@@ -189,7 +189,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Model language. Siga derecho hasta la plaza. — Go straight to the plaza. Doble a la izquierda en la segunda esquina. — Turn left at the second corner. ¿Voy bien para el ayuntamiento? — Am I going the right way to city hall? Nos perdimos cerca de la estación. — We got lost near the station. El banco queda enfrente del correo. — The bank is across from the post office.",
+      "text": "Model language. Siga derecho hasta la plaza. — Go straight to the square. Doble a la izquierda en la segunda esquina. — Turn left at the second corner. ¿Voy bien para el ayuntamiento? — Am I going the right way to city hall? Nos perdimos cerca de la estación. — We got lost near the station. El banco queda enfrente del correo. — The bank is across from the post office.",
       "sentences": [
         {
           "text": "Model language.",
@@ -212,14 +212,14 @@
           "phonemes": "sˈiɣa ðeɾˈetʃo ˌasta la plˈasa."
         },
         {
-          "text": "— Go straight to the plaza.",
+          "text": "— Go straight to the square.",
           "segments": [
             {
-              "text": "— Go straight to the plaza.",
+              "text": "— Go straight to the square.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "— ɡˌoʊ stɹˈeɪt tə ðə plˈɑːzə."
+          "phonemes": "— ɡˌoʊ stɹˈeɪt tə ðə skwˈɛɹ."
         },
         {
           "text": "Doble a la izquierda en la segunda esquina.",
