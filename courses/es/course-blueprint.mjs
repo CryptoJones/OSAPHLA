@@ -11,6 +11,29 @@ export const weeks = [
     vocabulary: V([["el alfabeto","alphabet"],["la letra","letter"],["el sonido","sound"],["la palabra","word"],["la sílaba","syllable"],["el acento","stress mark"],["escuchar","to listen"],["repetir","to repeat"]]),
     models: ["Mi nombre se escribe con cinco letras.","La h no tiene sonido.","Escucho y repito cada palabra.","¿Cuál es la sílaba tónica?","La práctica breve y frecuente funciona mejor."],
     reading: "Ana abre su cuaderno. Escucha una palabra, marca la sílaba fuerte y la repite. No busca la perfección; busca una mejora clara cada día.",
+    // Each of the week's 5 sections gets its own vocabulary/model set so the lesson
+    // content, active-vocabulary card, and quiz pool are genuinely distinct per section
+    // instead of repeating the same 8 words and 5 sentences all week. Briefing keeps the
+    // original metalanguage set above (introduces the terms used to talk about the
+    // language); the rest progress: sound/spelling patterns, comprehension, regional
+    // variation, then a mission day that recombines the week's own performance verbs.
+    days: [
+      { vocabulary: V([["el alfabeto","alphabet"],["la letra","letter"],["el sonido","sound"],["la palabra","word"],["la sílaba","syllable"],["el acento","stress mark"],["escuchar","to listen"],["repetir","to repeat"]]),
+        models: ["Mi nombre se escribe con cinco letras.","La h no tiene sonido.","Escucho y repito cada palabra.","¿Cuál es la sílaba tónica?","La práctica breve y frecuente funciona mejor."],
+        modelTranslations: ["My name is spelled with five letters.","The letter h has no sound.","I listen to and repeat every word.","Which is the stressed syllable?","Brief, frequent practice works better."] },
+      { vocabulary: V([["la vocal","vowel"],["la consonante","consonant"],["la mayúscula","capital letter"],["la minúscula","lowercase letter"],["el guion","hyphen"],["la ortografía","spelling"],["pronunciar","to pronounce"],["deletrear","to spell out"]]),
+        models: ["La a es una vocal fuerte.","Escribo mi nombre con mayúscula.","¿Cómo se pronuncia esta palabra?","Deletrea tu apellido, por favor.","La ortografía y el sonido no siempre coinciden."],
+        modelTranslations: ["A is a strong vowel.","I write my name with a capital letter.","How is this word pronounced?","Spell your last name, please.","Spelling and sound don't always match."] },
+      { vocabulary: V([["entender","to understand"],["la pista","clue"],["la pausa","pause"],["otra vez","again"],["el significado","meaning"],["adivinar","to guess"],["la grabación","recording"],["el contexto","context"]]),
+        models: ["No entiendo esa palabra.","¿Puedes repetirlo, por favor?","Escucho la grabación otra vez.","Adivino el significado por el contexto.","Hago una pausa antes de responder."],
+        modelTranslations: ["I don't understand that word.","Can you repeat that, please?","I listen to the recording again.","I guess the meaning from context.","I pause before answering."] },
+      { vocabulary: V([["el país","country"],["la región","region"],["la variante","variant"],["la pronunciación","pronunciation"],["común","common"],["diferente","different"],["el hispanohablante","Spanish speaker"],["en todas partes","everywhere"]]),
+        models: ["Cada país tiene su propia pronunciación.","No hay un solo acento correcto.","El español cambia según la región.","Hay hispanohablantes en todas partes del mundo.","Esta palabra es común en varios países."],
+        modelTranslations: ["Each country has its own pronunciation.","There is no single correct accent.","Spanish changes by region.","There are Spanish speakers all over the world.","This word is common in several countries."] },
+      { vocabulary: V([["grabar","to record"],["la presentación","introduction"],["identificar","to identify"],["corregir","to correct"],["mejorar","to improve"],["el intento","attempt"],["la meta","goal"],["el resultado","result"]]),
+        models: ["Voy a grabar mi presentación.","Identifico la sílaba tónica en cada palabra.","Corrijo un error a la vez.","Mi meta es mejorar cada semana.","Reviso el resultado de mi primer intento."],
+        modelTranslations: ["I am going to record my introduction.","I identify the stressed syllable in each word.","I correct one mistake at a time.","My goal is to improve every week.","I review the result of my first attempt."] }
+    ]
   },
   {
     week: 2, phase: "Launch", level: "ILR 0+", title: "Greetings and First Contact",

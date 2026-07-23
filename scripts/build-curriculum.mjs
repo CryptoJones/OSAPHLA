@@ -325,7 +325,12 @@ const configs = {
   es: {
     slug: "es", id: "espanol-pan-hispanic-academy", targetLocale: "es-419", instructionLocale: "en-US", flags: ["🇲🇽", "🇪🇸", "🇵🇪", "🇨🇴", "🇦🇷"],
     title: "OSAPHLA · Spanish", subtitle: "Spanish for English speakers", description: "An accessible, 36-week, 180-section, offline-first Spanish course targeting an ILR 2 core with ILR 2+/2+/2 stretch preparation.",
-    weeks: spanishBlueprint.map((week, index) => ({ ...week, vocabulary: week.vocabulary.map((item) => ({ ...item, target: item.es, meaning: meaningPrompt({ target: item.es, meaning: item.en }, "es") })), modelTranslations: SPANISH_MODEL_TRANSLATIONS[index], readingTranslation: SPANISH_READING_TRANSLATIONS[index] })),
+    weeks: spanishBlueprint.map((week, index) => ({
+      ...week,
+      vocabulary: week.vocabulary.map((item) => ({ ...item, target: item.es, meaning: meaningPrompt({ target: item.es, meaning: item.en }, "es") })),
+      modelTranslations: SPANISH_MODEL_TRANSLATIONS[index], readingTranslation: SPANISH_READING_TRANSLATIONS[index],
+      days: week.days?.map((day) => ({ ...day, vocabulary: day.vocabulary.map((item) => ({ ...item, target: item.es, meaning: meaningPrompt({ target: item.es, meaning: item.en }, "es") })) }))
+    })),
     sectionKinds: spanishSectionKinds, copy: englishCopy,
     readingFocuses: [
       { focus: "Main idea", instructions: "Read once for the overall situation. Read again and state the main idea in one sentence without translating every word.", prompts: ["Who or what is this passage mainly about?", "What is the central action or situation?", "Summarize the passage in one English sentence, then try one Spanish sentence."] },
@@ -354,18 +359,22 @@ async function buildCourse(config) {
     const inputSectionId = `w${String(week.week).padStart(2, "0")}-input`;
     const readings = readingSlice(readingAssignments, week.week, config.weeks.length).map((assignment, index) => Object.assign(assignment, { title: `${week.title}: ${config.readingFocuses[index].focus}`, week: week.week, sectionId: inputSectionId, passage: week.reading, passageTranslation: week.readingTranslation, ...config.readingFocuses[index] }));
     const moduleSections = config.sectionKinds.map((kind, dayIndex) => {
+      // When a week defines `days`, each section's vocabulary/models/modelTranslations
+      // come from its own day entry instead of the week-shared set; everything else
+      // (grammar, functions, reading, culture, mission...) stays week-level via the spread.
+      const day = week.days ? { ...week, ...week.days[dayIndex] } : week;
       const number = (week.week - 1) * 5 + dayIndex + 1;
       const id = `w${String(week.week).padStart(2, "0")}-${kind.key}`;
-      const content = contentFor(kind.key, week, readings, config);
+      const content = contentFor(kind.key, day, readings, config);
       const section = {
         id, number, week: week.week, day: dayIndex + 1, phase: week.phase, level: week.level, kind: kind.key,
         title: `${kind.label}: ${week.title}`, subtitle: kind.purpose, objectives: week.functions, grammar: week.grammar, pronunciation: week.pronunciation,
-        content, vocabulary: week.vocabulary.map(({ target, meaning }) => ({ target, meaning })), modelSentences: week.models, modelTranslations: week.modelTranslations,
+        content, vocabulary: day.vocabulary.map(({ target, meaning }) => ({ target, meaning })), modelSentences: day.models, modelTranslations: day.modelTranslations,
         reading: kind.key === "input" ? week.reading : undefined, readingTranslation: kind.key === "input" ? week.readingTranslation : undefined,
         culture: kind.key === "culture" ? week.culture : undefined, mission: kind.key === "mission" ? week.mission : undefined,
-        readingAssignments: kind.key === "input" ? readings : [], slides: slidesFor(kind, week, content, config),
+        readingAssignments: kind.key === "input" ? readings : [], slides: slidesFor(kind, day, content, config),
         media: { adaptive: true, audio: `media/${config.slug}/${id}/narration.mp3`, video: `media/${config.slug}/${id}/lesson.mp4`, captions: `media/${config.slug}/${id}/captions.vtt`, transcript: content.map((block) => `${block.heading}. ${block.body}${block.translation ? ` ${block.translation}` : ""}`).join("\n\n") },
-        questions: questionBank(id, week, dayIndex, config), masteryThreshold: 0.85, estimatedMinutes: kind.key === "mission" ? 55 : kind.key === "input" ? 45 : 35
+        questions: questionBank(id, day, dayIndex, config), masteryThreshold: 0.85, estimatedMinutes: kind.key === "mission" ? 55 : kind.key === "input" ? 45 : 35
       };
       sections.push(section); return id;
     });
