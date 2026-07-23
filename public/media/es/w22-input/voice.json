@@ -1,5 +1,6 @@
 {
   "pipelineVersion": 3,
+  "courseSlug": "es",
   "profile": "dora",
   "label": "Original Dora",
   "assignment": "balanced-seeded-v1",

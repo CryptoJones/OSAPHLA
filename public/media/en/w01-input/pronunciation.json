@@ -183,7 +183,7 @@
     },
     {
       "file": "05.wav",
-      "text": "Lenguaje modelo. My name has five letters. — Mi nombre tiene cinco letras. The letter H has two common names around the world. — La letra H tiene dos nombres comunes en el mundo. I listen and repeat each word. — Escucho y repito cada palabra. Which syllable is stressed? — ¿Qué sílaba lleva el acento? Short, frequent practice works best. — La práctica breve y frecuente funciona mejor.",
+      "text": "Lenguaje modelo. I don't understand that word. — No entiendo esa palabra. Can you repeat that, please? — ¿Puedes repetirlo, por favor? I listen to the recording again. — Escucho la grabación otra vez. I guess the meaning from context. — Adivino el significado por el contexto. I pause before answering. — Hago una pausa antes de responder.",
       "sentences": [
         {
           "text": "Lenguaje modelo.",
@@ -196,104 +196,104 @@
           "phonemes": "leŋɡwˈaxe moðˈelo."
         },
         {
-          "text": "My name has five letters.",
+          "text": "I don't understand that word.",
           "segments": [
             {
-              "text": "My name has five letters.",
+              "text": "I don't understand that word.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "maɪ nˈeɪm hɐz fˈaɪv lˈɛɾɚz."
+          "phonemes": "aɪ dˈoʊnt ˌʌndɚstˈænd ðæt wˈɜːd."
         },
         {
-          "text": "— Mi nombre tiene cinco letras.",
+          "text": "— No entiendo esa palabra.",
           "segments": [
             {
-              "text": "— Mi nombre tiene cinco letras.",
+              "text": "— No entiendo esa palabra.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— mi nˈombɾe tjˈene sˈinko lˈetɾas."
+          "phonemes": "— nˈo entjˈɛndo ˈesa palˈaβɾa."
         },
         {
-          "text": "The letter H has two common names around the world.",
+          "text": "Can you repeat that, please?",
           "segments": [
             {
-              "text": "The letter H has two common names around the world.",
+              "text": "Can you repeat that, please?",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðə lˈɛɾɚɹ ˈeɪtʃ hɐz tˈuː kˈɑːmən nˈeɪmz ɚɹˈaʊnd ðə wˈɜːld."
+          "phonemes": "kæn juː ɹᵻpˈiːt ðˈæt, plˈiːz?"
         },
         {
-          "text": "— La letra H tiene dos nombres comunes en el mundo.",
+          "text": "— ¿Puedes repetirlo, por favor?",
           "segments": [
             {
-              "text": "— La letra H tiene dos nombres comunes en el mundo.",
+              "text": "— ¿Puedes repetirlo, por favor?",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— la lˈetɾa ˈatʃe tjˈene ðˈos nˈombɾes komˈunes en el mˈundo."
+          "phonemes": "— pwˈeðes rˌepetˈiɾlo, poɾ faβˈoɾ?"
         },
         {
-          "text": "I listen and repeat each word.",
+          "text": "I listen to the recording again.",
           "segments": [
             {
-              "text": "I listen and repeat each word.",
+              "text": "I listen to the recording again.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "aɪ lˈɪsən ænd ɹᵻpˈiːt ˈiːtʃ wˈɜːd."
+          "phonemes": "aɪ lˈɪsən tə ðə ɹᵻkˈɔːɹdɪŋ ɐɡˈɛn."
         },
         {
-          "text": "— Escucho y repito cada palabra.",
+          "text": "— Escucho la grabación otra vez.",
           "segments": [
             {
-              "text": "— Escucho y repito cada palabra.",
+              "text": "— Escucho la grabación otra vez.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— eskˈutʃo i repˈito kˈaða palˈaβɾa."
+          "phonemes": "— eskˈutʃo la ɣɾˌaβasjˈon ˈotɾa βˈes."
         },
         {
-          "text": "Which syllable is stressed?",
+          "text": "I guess the meaning from context.",
           "segments": [
             {
-              "text": "Which syllable is stressed?",
+              "text": "I guess the meaning from context.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "wˌɪtʃ sˈɪləbəl ɪz stɹˈɛst?"
+          "phonemes": "aɪ ɡˈɛs ðə mˈiːnɪŋ fɹʌm kˈɑːntɛkst."
         },
         {
-          "text": "— ¿Qué sílaba lleva el acento?",
+          "text": "— Adivino el significado por el contexto.",
           "segments": [
             {
-              "text": "— ¿Qué sílaba lleva el acento?",
+              "text": "— Adivino el significado por el contexto.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— kˈe sˈilaβa ʝˈeβa el asˈɛnto?"
+          "phonemes": "— ˌaðiβˈino el sˌiɡnifikˈaðo poɾ el kontˈeksto."
         },
         {
-          "text": "Short, frequent practice works best.",
+          "text": "I pause before answering.",
           "segments": [
             {
-              "text": "Short, frequent practice works best.",
+              "text": "I pause before answering.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ʃˈɔːɹt, fɹˈiːkwənt pɹˈæktɪs wˈɜːks bˈɛst."
+          "phonemes": "aɪ pˈɔːz bᵻfˌɔːɹ ˈænsɚɹɪŋ."
         },
         {
-          "text": "— La práctica breve y frecuente funciona mejor.",
+          "text": "— Hago una pausa antes de responder.",
           "segments": [
             {
-              "text": "— La práctica breve y frecuente funciona mejor.",
+              "text": "— Hago una pausa antes de responder.",
               "lang": "es-419"
             }
           ],
-          "phonemes": "— la pɾˈaktika βɾˈeβe i fɾekwˈɛnte funsjˈona mexˈoɾ."
+          "phonemes": "— ˈaɣo ˈuna pˈaʊsa ˈantes ðe rˌespondˈeɾ."
         }
       ]
     },
@@ -345,129 +345,129 @@
     },
     {
       "file": "vocab-00.wav",
-      "text": "the alphabet",
+      "text": "to understand",
       "sentences": [
         {
-          "text": "the alphabet",
+          "text": "to understand",
           "segments": [
             {
-              "text": "the alphabet",
+              "text": "to understand",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðɪ ˈælfəbˌɛt"
+          "phonemes": "tʊ ˌʌndɚstˈænd"
         }
       ]
     },
     {
       "file": "vocab-01.wav",
-      "text": "a letter",
+      "text": "a clue",
       "sentences": [
         {
-          "text": "a letter",
+          "text": "a clue",
           "segments": [
             {
-              "text": "a letter",
+              "text": "a clue",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ lˈɛɾɚ"
+          "phonemes": "ɐ klˈuː"
         }
       ]
     },
     {
       "file": "vocab-02.wav",
-      "text": "a sound",
+      "text": "a pause",
       "sentences": [
         {
-          "text": "a sound",
+          "text": "a pause",
           "segments": [
             {
-              "text": "a sound",
+              "text": "a pause",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ sˈaʊnd"
+          "phonemes": "ɐ pˈɔːz"
         }
       ]
     },
     {
       "file": "vocab-03.wav",
-      "text": "a word",
+      "text": "again",
       "sentences": [
         {
-          "text": "a word",
+          "text": "again",
           "segments": [
             {
-              "text": "a word",
+              "text": "again",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ wˈɜːd"
+          "phonemes": "ɐɡˈɛn"
         }
       ]
     },
     {
       "file": "vocab-04.wav",
-      "text": "a syllable",
+      "text": "meaning",
       "sentences": [
         {
-          "text": "a syllable",
+          "text": "meaning",
           "segments": [
             {
-              "text": "a syllable",
+              "text": "meaning",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ɐ sˈɪləbəl"
+          "phonemes": "mˈiːnɪŋ"
         }
       ]
     },
     {
       "file": "vocab-05.wav",
-      "text": "stress",
+      "text": "to guess",
       "sentences": [
         {
-          "text": "stress",
+          "text": "to guess",
           "segments": [
             {
-              "text": "stress",
+              "text": "to guess",
               "lang": "en-us"
             }
           ],
-          "phonemes": "stɹˈɛs"
+          "phonemes": "tə ɡˈɛs"
         }
       ]
     },
     {
       "file": "vocab-06.wav",
-      "text": "to listen",
+      "text": "a recording",
       "sentences": [
         {
-          "text": "to listen",
+          "text": "a recording",
           "segments": [
             {
-              "text": "to listen",
+              "text": "a recording",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə lˈɪsən"
+          "phonemes": "ɐ ɹᵻkˈɔːɹdɪŋ"
         }
       ]
     },
     {
       "file": "vocab-07.wav",
-      "text": "to repeat",
+      "text": "context",
       "sentences": [
         {
-          "text": "to repeat",
+          "text": "context",
           "segments": [
             {
-              "text": "to repeat",
+              "text": "context",
               "lang": "en-us"
             }
           ],
-          "phonemes": "tə ɹᵻpˈiːt"
+          "phonemes": "kˈɑːntɛkst"
         }
       ]
     }

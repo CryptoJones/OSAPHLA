@@ -1,7 +1,7 @@
 {
   "name": "osaphla-language-academy",
   "private": true,
-  "version": "1.0.9",
+  "version": "1.2.0",
   "type": "module",
   "scripts": {
     "dev": "vite",

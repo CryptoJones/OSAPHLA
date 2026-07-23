@@ -1,5 +1,6 @@
 {
   "pipelineVersion": 3,
+  "courseSlug": "es",
   "profile": "e",
   "label": "Dora/Santa E",
   "assignment": "balanced-seeded-v1",

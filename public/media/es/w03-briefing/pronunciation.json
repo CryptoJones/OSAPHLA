@@ -187,15 +187,7 @@
           "text": "Learn the article and noun as one unit: la palabra, not just palabra; el libro, not just libro.",
           "segments": [
             {
-              "text": "Learn the article and noun as one unit: ",
-              "lang": "en-us"
-            },
-            {
-              "text": "la palabra",
-              "lang": "es-419"
-            },
-            {
-              "text": ", not just palabra; ",
+              "text": "Learn the article and noun as one unit: la palabra, not just palabra; ",
               "lang": "en-us"
             },
             {
@@ -207,7 +199,7 @@
               "lang": "en-us"
             }
           ],
-          "phonemes": "lˈɜːn ðɪ ˈɑːɹɾɪkəl ænd nˈaʊn æz wˈʌn jˈuːnɪt: la palˈaβɾa , nˌɑːt dʒˈʌst pˈælæbɹə; el lˈiβɾo , nˌɑːt dʒˈʌst lˈaɪbɹoʊ."
+          "phonemes": "lˈɜːn ðɪ ˈɑːɹɾɪkəl ænd nˈaʊn æz wˈʌn jˈuːnɪt: lˌæ pˈælæbɹə, nˌɑːt dʒˈʌst pˈælæbɹə; el lˈiβɾo , nˌɑːt dʒˈʌst lˈaɪbɹoʊ."
         },
         {
           "text": "Grammatical gender is a word category and does not necessarily describe sex or identity.",
@@ -257,19 +249,11 @@
               "lang": "es-419"
             },
             {
-              "text": " → los libros; ",
-              "lang": "en-us"
-            },
-            {
-              "text": "la palabra",
-              "lang": "es-419"
-            },
-            {
-              "text": " → las palabras.",
+              "text": " → los libros; la palabra → las palabras.",
               "lang": "en-us"
             }
           ],
-          "phonemes": "ðɛɹ plˈʊɹɹəlz ɑːɹ lˌɑːs ænd lˌɑːs: el lˈiβɾo ɹˈaɪt ˈæɹoʊ lˌɑːs lˈaɪbɹoʊz; la palˈaβɾa ɹˈaɪt ˈæɹoʊ lˌɑːs pˈælæbɹəz."
+          "phonemes": "ðɛɹ plˈʊɹɹəlz ɑːɹ lˌɑːs ænd lˌɑːs: el lˈiβɾo ɹˈaɪt ˈæɹoʊ lˌɑːs lˈaɪbɹoʊz; lˌæ pˈælæbɹɚ ɹˈaɪt ˈæɹoʊ lˌɑːs pˈælæbɹəz."
         }
       ]
     },

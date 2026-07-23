@@ -1,5 +1,6 @@
 {
   "pipelineVersion": 3,
+  "courseSlug": "es",
   "profile": "santa",
   "label": "Original Santa",
   "assignment": "balanced-seeded-v1",
