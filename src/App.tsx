@@ -1,10 +1,10 @@
-import { useEffect, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import { BrowserRouter, Link, NavLink, Navigate, Route, Routes, useLocation, useParams } from "react-router-dom";
 import packageJson from "../package.json";
 import spanishJson from "./data/es/course.json";
 import englishJson from "./data/en/course.json";
 import { CourseProvider, useCourse } from "./course";
-import { courseProgress } from "./lib/db";
+import { courseProgress, exportLearningData, importLearningData } from "./lib/db";
 import { useTheme } from "./theme";
 import type { Course, SectionProgress } from "./types";
 import { CourseMap } from "./components/CourseMap";
@@ -40,6 +40,46 @@ function CourseChooser({ force = false }: { force?: boolean }) {
   </main>;
 }
 
+function CourseMenu() {
+  const { course, copy } = useCourse();
+  const spanish = course.instructionLocale === "es-419";
+  const menuRef = useRef<HTMLDetailsElement>(null);
+  const fileRef = useRef<HTMLInputElement>(null);
+  const [message, setMessage] = useState("");
+
+  useEffect(() => {
+    function closeOnOutsideClick(event: MouseEvent) { if (menuRef.current && !menuRef.current.contains(event.target as Node)) menuRef.current.open = false; }
+    document.addEventListener("click", closeOnOutsideClick);
+    return () => document.removeEventListener("click", closeOnOutsideClick);
+  }, []);
+
+  function closeMenu() { if (menuRef.current) menuRef.current.open = false; }
+
+  async function saveProgress() {
+    const data = await exportLearningData();
+    const url = URL.createObjectURL(new Blob([JSON.stringify(data, null, 2)], { type: "application/json" }));
+    const link = document.createElement("a"); link.href = url; link.download = `osaphla-backup-${new Date().toISOString().slice(0, 10)}.json`; link.click(); URL.revokeObjectURL(url);
+    setMessage(spanish ? "Copia de seguridad descargada." : "Backup downloaded.");
+  }
+
+  async function loadProgress(file: File) {
+    await importLearningData(JSON.parse(await file.text()));
+    setMessage(spanish ? "Copia restaurada. Se recargarán tus ajustes y tu progreso…" : "Backup restored. Reloading your saved settings and progress…");
+    setTimeout(() => location.reload(), 700);
+  }
+
+  return <details className="course-menu" ref={menuRef}>
+    <summary aria-label={copy.menu}><span className="course-menu-bars" aria-hidden="true"><span /><span /><span /></span></summary>
+    <div className="course-menu-panel" role="menu">
+      <Link role="menuitem" to="/choose" onClick={closeMenu}>{copy.switchCourse}</Link>
+      <button role="menuitem" type="button" onClick={() => { closeMenu(); void saveProgress(); }}>{copy.saveProgress}</button>
+      <button role="menuitem" type="button" onClick={() => { closeMenu(); fileRef.current?.click(); }}>{copy.loadProgress}</button>
+      <input ref={fileRef} className="visually-hidden" type="file" accept="application/json" onChange={(event) => { const file = event.target.files?.[0]; if (file) void loadProgress(file).catch((error) => setMessage(spanish ? `No se pudo restaurar la copia. ${error instanceof Error ? error.message : "El archivo no es válido."}` : `Could not restore backup. ${error instanceof Error ? error.message : "The file is invalid."}`)); }} />
+      {message && <p role="status" className="course-menu-status">{message}</p>}
+    </div>
+  </details>;
+}
+
 function Layout({ children }: { children: React.ReactNode }) {
   const { course, copy, path } = useCourse();
   return <div className="app-shell" data-course={course.slug}>
@@ -49,7 +89,7 @@ function Layout({ children }: { children: React.ReactNode }) {
       <nav aria-label={course.instructionLocale === "es-419" ? "Navegación principal" : "Primary navigation"}>
         <NavLink to={path()} end>{copy.dashboard}</NavLink><NavLink to={path("course")}>{copy.course}</NavLink><NavLink to={path("readers")}>{copy.readers}</NavLink><NavLink to={path("settings")}>{copy.display}</NavLink>
       </nav>
-      <Link className="course-switch" to="/choose">{copy.switchCourse}</Link>
+      <CourseMenu />
     </header>
     <main id="main-content" tabIndex={-1}>{children}</main>
     <footer className="site-footer">OSAPHLA · {copy.footer}</footer>

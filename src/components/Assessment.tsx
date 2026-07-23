@@ -1,4 +1,4 @@
-import { useMemo, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import { Link } from "react-router-dom";
 import { useCourse } from "../course";
 import { isCorrect, selectAssessment } from "../lib/answers";
@@ -14,6 +14,7 @@ export function Assessment({ course, section, onComplete }: { course: Course; se
   const [answers, setAnswers] = useState<Record<string, string | string[]>>({});
   const [submitted, setSubmitted] = useState(false);
   const [startedAt, setStartedAt] = useState(() => new Date().toISOString());
+  const [autoSaved, setAutoSaved] = useState(false);
   const results = submitted ? questions.map((question) => isCorrect(question, answers[question.id] ?? "")) : [];
   const correct = results.filter((result) => result.correct).length;
   const score = questions.length ? correct / questions.length : 0;
@@ -24,11 +25,20 @@ export function Assessment({ course, section, onComplete }: { course: Course; se
     if (Object.keys(answers).length < questions.length) { document.getElementById("assessment-status")?.focus(); return; }
     const calculated = questions.filter((question) => isCorrect(question, answers[question.id]).correct).length / questions.length;
     await recordAttempt({ courseSlug: course.slug, sectionId: section.id, startedAt, completedAt: new Date().toISOString(), score: calculated, questionIds: questions.map((question) => question.id), answers }, section.masteryThreshold);
-    setSubmitted(true); onComplete();
+    setSubmitted(true);
+    setAutoSaved(calculated >= section.masteryThreshold);
+    onComplete();
   }
   // Correct answers lock in on grading; incorrect ones stay editable so a retry only
-  // requires fixing what was wrong, not re-answering the whole set from scratch.
-  function newSet() { setAttemptSeed(Date.now()); setAnswers({}); setSubmitted(false); setStartedAt(new Date().toISOString()); }
+  // requires fixing what was wrong, not re-answering the whole set from scratch. Fixing
+  // the last wrong answer pushes the score past mastery without another form submit, so
+  // persist that crossing as soon as it happens instead of waiting for another click.
+  useEffect(() => {
+    if (!submitted || autoSaved || score < section.masteryThreshold) return;
+    setAutoSaved(true);
+    void recordAttempt({ courseSlug: course.slug, sectionId: section.id, startedAt, completedAt: new Date().toISOString(), score, questionIds: questions.map((question) => question.id), answers }, section.masteryThreshold).then(onComplete);
+  }, [submitted, score, autoSaved]);
+  function newSet() { setAttemptSeed(Date.now()); setAnswers({}); setSubmitted(false); setAutoSaved(false); setStartedAt(new Date().toISOString()); }
 
   return <section className="assessment" aria-labelledby="assessment-title">
     <header><p className="eyebrow">{spanish ? "Obligatorio después de cada sección" : "Required after every section"}</p><h2 id="assessment-title">{spanish ? "Comprobación de dominio" : "Mastery check"}</h2><p>{spanish ? "Doce reactivos: cuatro de opción múltiple, cuatro de espacios en blanco y cuatro de ordenación. Meta: 85 %." : "Twelve items: four multiple choice, four fill in the blank, and four ordering. Target: 85%."}</p></header>
