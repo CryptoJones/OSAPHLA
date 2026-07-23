@@ -5,8 +5,13 @@ const W = (week, phase, level, title, grammar, functions, pronunciation, culture
   vocabulary: V(vocabulary), models, modelTranslations, reading, readingTranslation, teaching
 });
 
+// Each week's 5 sections should show distinct vocabulary/model sentences instead of the
+// same set repeated all week. `days`, when present, overrides vocabulary/models/
+// modelTranslations per section (briefing/patterns/input/culture/mission, in that order);
+// every other field (grammar, functions, reading, culture, mission...) stays week-level.
+// Only week 1 has been split out so far — see AGENTS.md for the remaining 35 weeks.
 export const weeks = [
-  W(1, "Inicio", "ILR 0 / ACTFL Novice Low", "Cómo funciona el inglés",
+  { ...W(1, "Inicio", "ILR 0 / ACTFL Novice Low", "Cómo funciona el inglés",
     "Relación entre sonidos y letras, nombres de las letras, sílabas, acento de palabra, schwa y puntuación básica.",
     ["deletrear un nombre", "reconocer la sílaba acentuada", "seguir una rutina sostenible de estudio"],
     "Contraste entre vocales tensas y laxas; schwa en sílabas no acentuadas; ritmo basado en acentos.",
@@ -17,6 +22,23 @@ export const weeks = [
     ["Mi nombre tiene cinco letras.","La letra H tiene dos nombres comunes en el mundo.","Escucho y repito cada palabra.","¿Qué sílaba lleva el acento?","La práctica breve y frecuente funciona mejor."],
     "Ana opens her notebook. She listens to a word, marks the strong syllable, and repeats it. She does not expect perfection; she looks for one clear improvement each day.",
     "Ana abre su cuaderno. Escucha una palabra, marca la sílaba fuerte y la repite. No espera la perfección; busca una mejora clara cada día."),
+    days: [
+      { vocabulary: V([["the alphabet","el alfabeto"],["a letter","una letra"],["a sound","un sonido"],["a word","una palabra"],["a syllable","una sílaba"],["stress","el acento prosódico"],["to listen","escuchar"],["to repeat","repetir"]]),
+        models: ["My name has five letters.","The letter H has two common names around the world.","I listen and repeat each word.","Which syllable is stressed?","Short, frequent practice works best."],
+        modelTranslations: ["Mi nombre tiene cinco letras.","La letra H tiene dos nombres comunes en el mundo.","Escucho y repito cada palabra.","¿Qué sílaba lleva el acento?","La práctica breve y frecuente funciona mejor."] },
+      { vocabulary: V([["a vowel","una vocal"],["a consonant","una consonante"],["a capital letter","una mayúscula"],["a lowercase letter","una minúscula"],["a hyphen","un guion"],["spelling","la ortografía"],["to pronounce","pronunciar"],["to spell out","deletrear"]]),
+        models: ["A is a vowel.","I write my name with a capital letter.","How do you pronounce this word?","Please spell your last name.","Spelling and sound don't always match in English."],
+        modelTranslations: ["La A es una vocal.","Escribo mi nombre con mayúscula.","¿Cómo pronuncias esta palabra?","Deletrea tu apellido, por favor.","La ortografía y el sonido no siempre coinciden en inglés."] },
+      { vocabulary: V([["to understand","entender"],["a clue","una pista"],["a pause","una pausa"],["again","otra vez"],["meaning","el significado"],["to guess","adivinar"],["a recording","una grabación"],["context","el contexto"]]),
+        models: ["I don't understand that word.","Can you repeat that, please?","I listen to the recording again.","I guess the meaning from context.","I pause before answering."],
+        modelTranslations: ["No entiendo esa palabra.","¿Puedes repetirlo, por favor?","Escucho la grabación otra vez.","Adivino el significado por el contexto.","Hago una pausa antes de responder."] },
+      { vocabulary: V([["a country","un país"],["a region","una región"],["a variant","una variante"],["pronunciation","la pronunciación"],["common","común"],["different","diferente"],["an English speaker","un angloparlante"],["everywhere","en todas partes"]]),
+        models: ["Each country has its own pronunciation.","There is no single correct accent.","English changes by region.","There are English speakers all over the world.","This word is common in several countries."],
+        modelTranslations: ["Cada país tiene su propia pronunciación.","No hay un solo acento correcto.","El inglés cambia según la región.","Hay angloparlantes en todas partes del mundo.","Esta palabra es común en varios países."] },
+      { vocabulary: V([["to record","grabar"],["an introduction","una presentación"],["to identify","identificar"],["to correct","corregir"],["to improve","mejorar"],["an attempt","un intento"],["a goal","una meta"],["a result","un resultado"]]),
+        models: ["I am going to record my introduction.","I identify the stressed syllable in each word.","I correct one mistake at a time.","My goal is to improve every week.","I review the result of my first attempt."],
+        modelTranslations: ["Voy a grabar mi presentación.","Identifico la sílaba tónica en cada palabra.","Corrijo un error a la vez.","Mi meta es mejorar cada semana.","Reviso el resultado de mi primer intento."] }
+    ] },
 
   W(2, "Inicio", "ILR 0+", "Saludos y primer contacto",
     "Pronombres sujeto, presente de be, contracciones, negación y preguntas de sí o no.",

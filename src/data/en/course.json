@@ -2773,8 +2773,8 @@
         },
         {
           "heading": "Conjunto de modelos",
-          "body": "My name has five letters. The letter H has two common names around the world. I listen and repeat each word. Which syllable is stressed? Short, frequent practice works best.",
-          "translation": "Mi nombre tiene cinco letras. La letra H tiene dos nombres comunes en el mundo. Escucho y repito cada palabra. ¿Qué sílaba lleva el acento? La práctica breve y frecuente funciona mejor."
+          "body": "A is a vowel. I write my name with a capital letter. How do you pronounce this word? Please spell your last name. Spelling and sound don't always match in English.",
+          "translation": "La A es una vocal. Escribo mi nombre con mayúscula. ¿Cómo pronuncias esta palabra? Deletrea tu apellido, por favor. La ortografía y el sonido no siempre coinciden en inglés."
         },
         {
           "heading": "Práctica contrastiva",
@@ -2787,51 +2787,51 @@
       ],
       "vocabulary": [
         {
-          "target": "the alphabet",
-          "meaning": "el alfabeto"
+          "target": "a vowel",
+          "meaning": "una vocal"
         },
         {
-          "target": "a letter",
-          "meaning": "una letra"
+          "target": "a consonant",
+          "meaning": "una consonante"
         },
         {
-          "target": "a sound",
-          "meaning": "un sonido"
+          "target": "a capital letter",
+          "meaning": "una mayúscula"
         },
         {
-          "target": "a word",
-          "meaning": "una palabra"
+          "target": "a lowercase letter",
+          "meaning": "una minúscula"
         },
         {
-          "target": "a syllable",
-          "meaning": "una sílaba"
+          "target": "a hyphen",
+          "meaning": "un guion"
         },
         {
-          "target": "stress",
-          "meaning": "el acento prosódico"
+          "target": "spelling",
+          "meaning": "la ortografía"
         },
         {
-          "target": "to listen",
-          "meaning": "escuchar"
+          "target": "to pronounce",
+          "meaning": "pronunciar"
         },
         {
-          "target": "to repeat",
-          "meaning": "repetir"
+          "target": "to spell out",
+          "meaning": "deletrear"
         }
       ],
       "modelSentences": [
-        "My name has five letters.",
-        "The letter H has two common names around the world.",
-        "I listen and repeat each word.",
-        "Which syllable is stressed?",
-        "Short, frequent practice works best."
+        "A is a vowel.",
+        "I write my name with a capital letter.",
+        "How do you pronounce this word?",
+        "Please spell your last name.",
+        "Spelling and sound don't always match in English."
       ],
       "modelTranslations": [
-        "Mi nombre tiene cinco letras.",
-        "La letra H tiene dos nombres comunes en el mundo.",
-        "Escucho y repito cada palabra.",
-        "¿Qué sílaba lleva el acento?",
-        "La práctica breve y frecuente funciona mejor."
+        "La A es una vocal.",
+        "Escribo mi nombre con mayúscula.",
+        "¿Cómo pronuncias esta palabra?",
+        "Deletrea tu apellido, por favor.",
+        "La ortografía y el sonido no siempre coinciden en inglés."
       ],
       "readingAssignments": [],
       "slides": [
@@ -2853,8 +2853,8 @@
         {
           "title": "Conjunto de modelos",
           "body": [
-            "My name has five letters. The letter H has two common names around the world. I listen and repeat each word. Which syllable is stressed? Short, frequent practice works best.",
-            "Mi nombre tiene cinco letras. La letra H tiene dos nombres comunes en el mundo. Escucho y repito cada palabra. ¿Qué sílaba lleva el acento? La práctica breve y frecuente funciona mejor."
+            "A is a vowel. I write my name with a capital letter. How do you pronounce this word? Please spell your last name. Spelling and sound don't always match in English.",
+            "La A es una vocal. Escribo mi nombre con mayúscula. ¿Cómo pronuncias esta palabra? Deletrea tu apellido, por favor. La ortografía y el sonido no siempre coinciden en inglés."
           ]
         },
         {
@@ -2872,11 +2872,11 @@
         {
           "title": "Lenguaje modelo",
           "body": [
-            "My name has five letters. — Mi nombre tiene cinco letras.",
-            "The letter H has two common names around the world. — La letra H tiene dos nombres comunes en el mundo.",
-            "I listen and repeat each word. — Escucho y repito cada palabra.",
-            "Which syllable is stressed? — ¿Qué sílaba lleva el acento?",
-            "Short, frequent practice works best. — La práctica breve y frecuente funciona mejor."
+            "A is a vowel. — La A es una vocal.",
+            "I write my name with a capital letter. — Escribo mi nombre con mayúscula.",
+            "How do you pronounce this word? — ¿Cómo pronuncias esta palabra?",
+            "Please spell your last name. — Deletrea tu apellido, por favor.",
+            "Spelling and sound don't always match in English. — La ortografía y el sonido no siempre coinciden en inglés."
           ]
         },
         {
@@ -2893,405 +2893,401 @@
         "audio": "media/en/w01-patterns/narration.mp3",
         "video": "media/en/w01-patterns/lesson.mp4",
         "captions": "media/en/w01-patterns/captions.vtt",
-        "transcript": "Forma y significado. Relación entre sonidos y letras, nombres de las letras, sílabas, acento de palabra, schwa y puntuación básica.\n\nConjunto de modelos. My name has five letters. The letter H has two common names around the world. I listen and repeat each word. Which syllable is stressed? Short, frequent practice works best. Mi nombre tiene cinco letras. La letra H tiene dos nombres comunes en el mundo. Escucho y repito cada palabra. ¿Qué sílaba lleva el acento? La práctica breve y frecuente funciona mejor.\n\nPráctica contrastiva. Cambia la persona, el tiempo, el número o el grado de formalidad de cada modelo sin perder su propósito comunicativo.\n\nComprobación de producción. Di una oración original para cada función: deletrear un nombre; reconocer la sílaba acentuada; seguir una rutina sostenible de estudio. Después escríbela y compara las formas oral y escrita."
+        "transcript": "Forma y significado. Relación entre sonidos y letras, nombres de las letras, sílabas, acento de palabra, schwa y puntuación básica.\n\nConjunto de modelos. A is a vowel. I write my name with a capital letter. How do you pronounce this word? Please spell your last name. Spelling and sound don't always match in English. La A es una vocal. Escribo mi nombre con mayúscula. ¿Cómo pronuncias esta palabra? Deletrea tu apellido, por favor. La ortografía y el sonido no siempre coinciden en inglés.\n\nPráctica contrastiva. Cambia la persona, el tiempo, el número o el grado de formalidad de cada modelo sin perder su propósito comunicativo.\n\nComprobación de producción. Di una oración original para cada función: deletrear un nombre; reconocer la sílaba acentuada; seguir una rutina sostenible de estudio. Después escríbela y compara las formas oral y escrita."
       },
       "questions": [
         {
           "id": "w01-patterns-mc-1",
           "type": "multipleChoice",
-          "prompt": "Elige la mejor expresión en inglés para “una letra”.",
+          "prompt": "Elige la mejor expresión en inglés para “una consonante”.",
           "choices": [
-            "a sound",
-            "a word",
-            "a syllable",
-            "a letter"
+            "a capital letter",
+            "a lowercase letter",
+            "a hyphen",
+            "a consonant"
           ],
-          "answer": "a letter",
-          "rationale": "“a letter” significa “una letra” en el contexto de esta sección.",
+          "answer": "a consonant",
+          "rationale": "“a consonant” significa “una consonante” en el contexto de esta sección.",
           "objective": "deletrear un nombre"
         },
         {
           "id": "w01-patterns-mc-2",
           "type": "multipleChoice",
-          "prompt": "Elige la mejor expresión en inglés para “un sonido”.",
+          "prompt": "Elige la mejor expresión en inglés para “una mayúscula”.",
           "choices": [
-            "a syllable",
-            "stress",
-            "a sound",
-            "a word"
+            "a hyphen",
+            "spelling",
+            "a capital letter",
+            "a lowercase letter"
           ],
-          "answer": "a sound",
-          "rationale": "“a sound” significa “un sonido” en el contexto de esta sección.",
+          "answer": "a capital letter",
+          "rationale": "“a capital letter” significa “una mayúscula” en el contexto de esta sección.",
           "objective": "reconocer la sílaba acentuada"
         },
         {
           "id": "w01-patterns-mc-3",
           "type": "multipleChoice",
-          "prompt": "Elige la mejor expresión en inglés para “una palabra”.",
+          "prompt": "Elige la mejor expresión en inglés para “una minúscula”.",
           "choices": [
-            "to listen",
-            "a word",
-            "a syllable",
-            "stress"
+            "to pronounce",
+            "a lowercase letter",
+            "a hyphen",
+            "spelling"
           ],
-          "answer": "a word",
-          "rationale": "“a word” significa “una palabra” en el contexto de esta sección.",
+          "answer": "a lowercase letter",
+          "rationale": "“a lowercase letter” significa “una minúscula” en el contexto de esta sección.",
           "objective": "seguir una rutina sostenible de estudio"
         },
         {
           "id": "w01-patterns-mc-4",
           "type": "multipleChoice",
-          "prompt": "Elige la mejor expresión en inglés para “una sílaba”.",
+          "prompt": "Elige la mejor expresión en inglés para “un guion”.",
           "choices": [
-            "a syllable",
-            "stress",
-            "to listen",
-            "to repeat"
+            "a hyphen",
+            "spelling",
+            "to pronounce",
+            "to spell out"
           ],
-          "answer": "a syllable",
-          "rationale": "“a syllable” significa “una sílaba” en el contexto de esta sección.",
+          "answer": "a hyphen",
+          "rationale": "“a hyphen” significa “un guion” en el contexto de esta sección.",
           "objective": "deletrear un nombre"
         },
         {
           "id": "w01-patterns-mc-5",
           "type": "multipleChoice",
-          "prompt": "Elige la mejor expresión en inglés para “el acento prosódico”.",
+          "prompt": "Elige la mejor expresión en inglés para “la ortografía”.",
           "choices": [
-            "to listen",
-            "to repeat",
-            "the alphabet",
-            "stress"
+            "to pronounce",
+            "to spell out",
+            "a vowel",
+            "spelling"
           ],
-          "answer": "stress",
-          "rationale": "“stress” significa “el acento prosódico” en el contexto de esta sección.",
+          "answer": "spelling",
+          "rationale": "“spelling” significa “la ortografía” en el contexto de esta sección.",
           "objective": "reconocer la sílaba acentuada"
         },
         {
           "id": "w01-patterns-mc-6",
           "type": "multipleChoice",
-          "prompt": "Elige la mejor expresión en inglés para “escuchar”.",
+          "prompt": "Elige la mejor expresión en inglés para “pronunciar”.",
           "choices": [
-            "the alphabet",
-            "a letter",
-            "to listen",
-            "to repeat"
+            "a vowel",
+            "a consonant",
+            "to pronounce",
+            "to spell out"
           ],
-          "answer": "to listen",
-          "rationale": "“to listen” significa “escuchar” en el contexto de esta sección.",
+          "answer": "to pronounce",
+          "rationale": "“to pronounce” significa “pronunciar” en el contexto de esta sección.",
           "objective": "seguir una rutina sostenible de estudio"
         },
         {
           "id": "w01-patterns-mc-7",
           "type": "multipleChoice",
-          "prompt": "Elige la mejor expresión en inglés para “repetir”.",
+          "prompt": "Elige la mejor expresión en inglés para “deletrear”.",
           "choices": [
-            "a sound",
-            "to repeat",
-            "the alphabet",
-            "a letter"
+            "a capital letter",
+            "to spell out",
+            "a vowel",
+            "a consonant"
           ],
-          "answer": "to repeat",
-          "rationale": "“to repeat” significa “repetir” en el contexto de esta sección.",
+          "answer": "to spell out",
+          "rationale": "“to spell out” significa “deletrear” en el contexto de esta sección.",
           "objective": "deletrear un nombre"
         },
         {
           "id": "w01-patterns-mc-8",
           "type": "multipleChoice",
-          "prompt": "Elige la mejor expresión en inglés para “el alfabeto”.",
+          "prompt": "Elige la mejor expresión en inglés para “una vocal”.",
           "choices": [
-            "the alphabet",
-            "a letter",
-            "a sound",
-            "a word"
+            "a vowel",
+            "a consonant",
+            "a capital letter",
+            "a lowercase letter"
           ],
-          "answer": "the alphabet",
-          "rationale": "“the alphabet” significa “el alfabeto” en el contexto de esta sección.",
+          "answer": "a vowel",
+          "rationale": "“a vowel” significa “una vocal” en el contexto de esta sección.",
           "objective": "reconocer la sílaba acentuada"
         },
         {
           "id": "w01-patterns-cloze-1",
           "type": "cloze",
-          "prompt": "Completa en inglés: una letra → ____",
-          "answer": "a letter",
+          "prompt": "Completa en inglés: una consonante → ____",
+          "answer": "a consonant",
           "accepted": [
-            "a letter"
+            "a consonant"
           ],
           "accentPolicy": "english",
-          "rationale": "La expresión meta es “a letter”.",
+          "rationale": "La expresión meta es “a consonant”.",
           "objective": "deletrear un nombre"
         },
         {
           "id": "w01-patterns-cloze-2",
           "type": "cloze",
-          "prompt": "Completa en inglés: un sonido → ____",
-          "answer": "a sound",
+          "prompt": "Completa en inglés: una mayúscula → ____",
+          "answer": "a capital letter",
           "accepted": [
-            "a sound"
+            "a capital letter"
           ],
           "accentPolicy": "english",
-          "rationale": "La expresión meta es “a sound”.",
+          "rationale": "La expresión meta es “a capital letter”.",
           "objective": "reconocer la sílaba acentuada"
         },
         {
           "id": "w01-patterns-cloze-3",
           "type": "cloze",
-          "prompt": "Completa en inglés: una palabra → ____",
-          "answer": "a word",
+          "prompt": "Completa en inglés: una minúscula → ____",
+          "answer": "a lowercase letter",
           "accepted": [
-            "a word"
+            "a lowercase letter"
           ],
           "accentPolicy": "english",
-          "rationale": "La expresión meta es “a word”.",
+          "rationale": "La expresión meta es “a lowercase letter”.",
           "objective": "seguir una rutina sostenible de estudio"
         },
         {
           "id": "w01-patterns-cloze-4",
           "type": "cloze",
-          "prompt": "Completa en inglés: una sílaba → ____",
-          "answer": "a syllable",
+          "prompt": "Completa en inglés: un guion → ____",
+          "answer": "a hyphen",
           "accepted": [
-            "a syllable"
+            "a hyphen"
           ],
           "accentPolicy": "english",
-          "rationale": "La expresión meta es “a syllable”.",
+          "rationale": "La expresión meta es “a hyphen”.",
           "objective": "deletrear un nombre"
         },
         {
           "id": "w01-patterns-cloze-5",
           "type": "cloze",
-          "prompt": "Completa en inglés: el acento prosódico → ____",
-          "answer": "stress",
+          "prompt": "Completa en inglés: la ortografía → ____",
+          "answer": "spelling",
           "accepted": [
-            "stress"
+            "spelling"
           ],
           "accentPolicy": "english",
-          "rationale": "La expresión meta es “stress”.",
+          "rationale": "La expresión meta es “spelling”.",
           "objective": "reconocer la sílaba acentuada"
         },
         {
           "id": "w01-patterns-cloze-6",
           "type": "cloze",
-          "prompt": "Completa en inglés: escuchar → ____",
-          "answer": "to listen",
+          "prompt": "Completa en inglés: pronunciar → ____",
+          "answer": "to pronounce",
           "accepted": [
-            "to listen"
+            "to pronounce"
           ],
           "accentPolicy": "english",
-          "rationale": "La expresión meta es “to listen”.",
+          "rationale": "La expresión meta es “to pronounce”.",
           "objective": "seguir una rutina sostenible de estudio"
         },
         {
           "id": "w01-patterns-cloze-7",
           "type": "cloze",
-          "prompt": "Completa en inglés: repetir → ____",
-          "answer": "to repeat",
+          "prompt": "Completa en inglés: deletrear → ____",
+          "answer": "to spell out",
           "accepted": [
-            "to repeat"
+            "to spell out"
           ],
           "accentPolicy": "english",
-          "rationale": "La expresión meta es “to repeat”.",
+          "rationale": "La expresión meta es “to spell out”.",
           "objective": "deletrear un nombre"
         },
         {
           "id": "w01-patterns-cloze-8",
           "type": "cloze",
-          "prompt": "Completa en inglés: el alfabeto → ____",
-          "answer": "the alphabet",
+          "prompt": "Completa en inglés: una vocal → ____",
+          "answer": "a vowel",
           "accepted": [
-            "the alphabet"
+            "a vowel"
           ],
           "accentPolicy": "english",
-          "rationale": "La expresión meta es “the alphabet”.",
+          "rationale": "La expresión meta es “a vowel”.",
           "objective": "reconocer la sílaba acentuada"
         },
         {
           "id": "w01-patterns-order-1",
           "type": "ordering",
-          "prompt": "Significado en español: “Mi nombre tiene cinco letras.” Ordena las palabras y la puntuación en inglés.",
+          "prompt": "Significado en español: “La A es una vocal.” Ordena las palabras y la puntuación en inglés.",
           "tokens": [
-            "has",
-            "five",
-            "letters",
+            "a",
+            "vowel",
             ".",
-            "My",
-            "name"
+            "A",
+            "is"
           ],
           "answers": [
             [
-              "My",
-              "name",
-              "has",
-              "five",
-              "letters",
+              "A",
+              "is",
+              "a",
+              "vowel",
               "."
             ]
           ],
-          "rationale": "Un orden natural es: My name has five letters. Significa: Mi nombre tiene cinco letras.",
+          "rationale": "Un orden natural es: A is a vowel. Significa: La A es una vocal.",
           "objective": "deletrear un nombre"
         },
         {
           "id": "w01-patterns-order-2",
           "type": "ordering",
-          "prompt": "Significado en español: “La letra H tiene dos nombres comunes en el mundo.” Ordena las palabras y la puntuación en inglés.",
+          "prompt": "Significado en español: “Escribo mi nombre con mayúscula.” Ordena las palabras y la puntuación en inglés.",
           "tokens": [
-            "two",
-            "common",
-            "names",
-            "around",
-            "the",
-            "world",
-            ".",
-            "The",
+            "with",
+            "a",
+            "capital",
             "letter",
-            "H",
-            "has"
+            ".",
+            "I",
+            "write",
+            "my",
+            "name"
           ],
           "answers": [
             [
-              "The",
+              "I",
+              "write",
+              "my",
+              "name",
+              "with",
+              "a",
+              "capital",
               "letter",
-              "H",
-              "has",
-              "two",
-              "common",
-              "names",
-              "around",
-              "the",
-              "world",
               "."
             ]
           ],
-          "rationale": "Un orden natural es: The letter H has two common names around the world. Significa: La letra H tiene dos nombres comunes en el mundo.",
+          "rationale": "Un orden natural es: I write my name with a capital letter. Significa: Escribo mi nombre con mayúscula.",
           "objective": "reconocer la sílaba acentuada"
         },
         {
           "id": "w01-patterns-order-3",
           "type": "ordering",
-          "prompt": "Significado en español: “Escucho y repito cada palabra.” Ordena las palabras y la puntuación en inglés.",
+          "prompt": "Significado en español: “¿Cómo pronuncias esta palabra?” Ordena las palabras y la puntuación en inglés.",
           "tokens": [
-            ".",
-            "I",
-            "listen",
-            "and",
-            "repeat",
-            "each",
+            "?",
+            "How",
+            "do",
+            "you",
+            "pronounce",
+            "this",
             "word"
           ],
           "answers": [
             [
-              "I",
-              "listen",
-              "and",
-              "repeat",
-              "each",
+              "How",
+              "do",
+              "you",
+              "pronounce",
+              "this",
               "word",
-              "."
+              "?"
             ]
           ],
-          "rationale": "Un orden natural es: I listen and repeat each word. Significa: Escucho y repito cada palabra.",
+          "rationale": "Un orden natural es: How do you pronounce this word? Significa: ¿Cómo pronuncias esta palabra?",
           "objective": "seguir una rutina sostenible de estudio"
         },
         {
           "id": "w01-patterns-order-4",
           "type": "ordering",
-          "prompt": "Significado en español: “¿Qué sílaba lleva el acento?” Ordena las palabras y la puntuación en inglés.",
+          "prompt": "Significado en español: “Deletrea tu apellido, por favor.” Ordena las palabras y la puntuación en inglés.",
           "tokens": [
-            "stressed",
-            "?",
-            "Which",
-            "syllable",
-            "is"
+            "your",
+            "last",
+            "name",
+            ".",
+            "Please",
+            "spell"
           ],
           "answers": [
             [
-              "Which",
-              "syllable",
-              "is",
-              "stressed",
-              "?"
+              "Please",
+              "spell",
+              "your",
+              "last",
+              "name",
+              "."
             ]
           ],
-          "rationale": "Un orden natural es: Which syllable is stressed? Significa: ¿Qué sílaba lleva el acento?",
+          "rationale": "Un orden natural es: Please spell your last name. Significa: Deletrea tu apellido, por favor.",
           "objective": "deletrear un nombre"
         },
         {
           "id": "w01-patterns-order-5",
           "type": "ordering",
-          "prompt": "Significado en español: “La práctica breve y frecuente funciona mejor.” Ordena las palabras y la puntuación en inglés.",
+          "prompt": "Significado en español: “La ortografía y el sonido no siempre coinciden en inglés.” Ordena las palabras y la puntuación en inglés.",
           "tokens": [
-            "practice",
-            "works",
-            "best",
+            "and",
+            "sound",
+            "don't",
+            "always",
+            "match",
+            "in",
+            "English",
             ".",
-            "Short",
-            ",",
-            "frequent"
+            "Spelling"
           ],
           "answers": [
             [
-              "Short",
-              ",",
-              "frequent",
-              "practice",
-              "works",
-              "best",
+              "Spelling",
+              "and",
+              "sound",
+              "don't",
+              "always",
+              "match",
+              "in",
+              "English",
               "."
             ]
           ],
-          "rationale": "Un orden natural es: Short, frequent practice works best. Significa: La práctica breve y frecuente funciona mejor.",
+          "rationale": "Un orden natural es: Spelling and sound don't always match in English. Significa: La ortografía y el sonido no siempre coinciden en inglés.",
           "objective": "reconocer la sílaba acentuada"
         },
         {
           "id": "w01-patterns-order-6",
           "type": "ordering",
-          "prompt": "Significado en español: “Por ejemplo: mi nombre tiene cinco letras.” Ordena las palabras y la puntuación en inglés.",
+          "prompt": "Significado en español: “Por ejemplo: la A es una vocal.” Ordena las palabras y la puntuación en inglés.",
           "tokens": [
-            "my",
-            "name",
-            "has",
-            "five",
-            "letters",
+            "is",
+            "a",
+            "vowel",
             ".",
             "For",
             "example",
-            ","
+            ",",
+            "a"
           ],
           "answers": [
             [
               "For",
               "example",
               ",",
-              "my",
-              "name",
-              "has",
-              "five",
-              "letters",
+              "a",
+              "is",
+              "a",
+              "vowel",
               "."
             ]
           ],
-          "rationale": "Un orden natural es: For example, my name has five letters. Significa: Por ejemplo: mi nombre tiene cinco letras.",
+          "rationale": "Un orden natural es: For example, a is a vowel. Significa: Por ejemplo: la A es una vocal.",
           "objective": "seguir una rutina sostenible de estudio"
         },
         {
           "id": "w01-patterns-order-7",
           "type": "ordering",
-          "prompt": "Significado en español: “En este contexto: la letra H tiene dos nombres comunes en el mundo.” Ordena las palabras y la puntuación en inglés.",
+          "prompt": "Significado en español: “En este contexto: escribo mi nombre con mayúscula.” Ordena las palabras y la puntuación en inglés.",
           "tokens": [
-            ".",
-            "In",
             "this",
             "context",
             ",",
-            "the",
+            "i",
+            "write",
+            "my",
+            "name",
+            "with",
+            "a",
+            "capital",
             "letter",
-            "H",
-            "has",
-            "two",
-            "common",
-            "names",
-            "around",
-            "the",
-            "world"
+            ".",
+            "In"
           ],
           "answers": [
             [
@@ -3299,35 +3295,33 @@
               "this",
               "context",
               ",",
-              "the",
+              "i",
+              "write",
+              "my",
+              "name",
+              "with",
+              "a",
+              "capital",
               "letter",
-              "H",
-              "has",
-              "two",
-              "common",
-              "names",
-              "around",
-              "the",
-              "world",
               "."
             ]
           ],
-          "rationale": "Un orden natural es: In this context, the letter H has two common names around the world. Significa: En este contexto: la letra H tiene dos nombres comunes en el mundo.",
+          "rationale": "Un orden natural es: In this context, i write my name with a capital letter. Significa: En este contexto: escribo mi nombre con mayúscula.",
           "objective": "deletrear un nombre"
         },
         {
           "id": "w01-patterns-order-8",
           "type": "ordering",
-          "prompt": "Significado en español: “Según la situación: escucho y repito cada palabra.” Ordena las palabras y la puntuación en inglés.",
+          "prompt": "Significado en español: “Según la situación: ¿Cómo pronuncias esta palabra?” Ordena las palabras y la puntuación en inglés.",
           "tokens": [
             ",",
-            "i",
-            "listen",
-            "and",
-            "repeat",
-            "each",
+            "how",
+            "do",
+            "you",
+            "pronounce",
+            "this",
             "word",
-            ".",
+            "?",
             "According",
             "to",
             "the",
@@ -3340,16 +3334,16 @@
               "the",
               "situation",
               ",",
-              "i",
-              "listen",
-              "and",
-              "repeat",
-              "each",
+              "how",
+              "do",
+              "you",
+              "pronounce",
+              "this",
               "word",
-              "."
+              "?"
             ]
           ],
-          "rationale": "Un orden natural es: According to the situation, i listen and repeat each word. Significa: Según la situación: escucho y repito cada palabra.",
+          "rationale": "Un orden natural es: According to the situation, how do you pronounce this word? Significa: Según la situación: ¿Cómo pronuncias esta palabra?",
           "objective": "reconocer la sílaba acentuada"
         }
       ],
@@ -3394,51 +3388,51 @@
       ],
       "vocabulary": [
         {
-          "target": "the alphabet",
-          "meaning": "el alfabeto"
+          "target": "to understand",
+          "meaning": "entender"
         },
         {
-          "target": "a letter",
-          "meaning": "una letra"
+          "target": "a clue",
+          "meaning": "una pista"
         },
         {
-          "target": "a sound",
-          "meaning": "un sonido"
+          "target": "a pause",
+          "meaning": "una pausa"
         },
         {
-          "target": "a word",
-          "meaning": "una palabra"
+          "target": "again",
+          "meaning": "otra vez"
         },
         {
-          "target": "a syllable",
-          "meaning": "una sílaba"
+          "target": "meaning",
+          "meaning": "el significado"
         },
         {
-          "target": "stress",
-          "meaning": "el acento prosódico"
+          "target": "to guess",
+          "meaning": "adivinar"
         },
         {
-          "target": "to listen",
-          "meaning": "escuchar"
+          "target": "a recording",
+          "meaning": "una grabación"
         },
         {
-          "target": "to repeat",
-          "meaning": "repetir"
+          "target": "context",
+          "meaning": "el contexto"
         }
       ],
       "modelSentences": [
-        "My name has five letters.",
-        "The letter H has two common names around the world.",
-        "I listen and repeat each word.",
-        "Which syllable is stressed?",
-        "Short, frequent practice works best."
+        "I don't understand that word.",
+        "Can you repeat that, please?",
+        "I listen to the recording again.",
+        "I guess the meaning from context.",
+        "I pause before answering."
       ],
       "modelTranslations": [
-        "Mi nombre tiene cinco letras.",
-        "La letra H tiene dos nombres comunes en el mundo.",
-        "Escucho y repito cada palabra.",
-        "¿Qué sílaba lleva el acento?",
-        "La práctica breve y frecuente funciona mejor."
+        "No entiendo esa palabra.",
+        "¿Puedes repetirlo, por favor?",
+        "Escucho la grabación otra vez.",
+        "Adivino el significado por el contexto.",
+        "Hago una pausa antes de responder."
       ],
       "reading": "Ana opens her notebook. She listens to a word, marks the strong syllable, and repeats it. She does not expect perfection; she looks for one clear improvement each day.",
       "readingTranslation": "Ana abre su cuaderno. Escucha una palabra, marca la sílaba fuerte y la repite. No espera la perfección; busca una mejora clara cada día.",
@@ -3514,11 +3508,11 @@
         {
           "title": "Lenguaje modelo",
           "body": [
-            "My name has five letters. — Mi nombre tiene cinco letras.",
-            "The letter H has two common names around the world. — La letra H tiene dos nombres comunes en el mundo.",
-            "I listen and repeat each word. — Escucho y repito cada palabra.",
-            "Which syllable is stressed? — ¿Qué sílaba lleva el acento?",
-            "Short, frequent practice works best. — La práctica breve y frecuente funciona mejor."
+            "I don't understand that word. — No entiendo esa palabra.",
+            "Can you repeat that, please? — ¿Puedes repetirlo, por favor?",
+            "I listen to the recording again. — Escucho la grabación otra vez.",
+            "I guess the meaning from context. — Adivino el significado por el contexto.",
+            "I pause before answering. — Hago una pausa antes de responder."
           ]
         },
         {
@@ -3541,399 +3535,387 @@
         {
           "id": "w01-input-mc-1",
           "type": "multipleChoice",
-          "prompt": "Elige la mejor expresión en inglés para “un sonido”.",
+          "prompt": "Elige la mejor expresión en inglés para “una pausa”.",
           "choices": [
-            "a syllable",
-            "stress",
-            "a sound",
-            "a word"
+            "meaning",
+            "to guess",
+            "a pause",
+            "again"
           ],
-          "answer": "a sound",
-          "rationale": "“a sound” significa “un sonido” en el contexto de esta sección.",
+          "answer": "a pause",
+          "rationale": "“a pause” significa “una pausa” en el contexto de esta sección.",
           "objective": "deletrear un nombre"
         },
         {
           "id": "w01-input-mc-2",
           "type": "multipleChoice",
-          "prompt": "Elige la mejor expresión en inglés para “una palabra”.",
+          "prompt": "Elige la mejor expresión en inglés para “otra vez”.",
           "choices": [
-            "to listen",
-            "a word",
-            "a syllable",
-            "stress"
+            "a recording",
+            "again",
+            "meaning",
+            "to guess"
           ],
-          "answer": "a word",
-          "rationale": "“a word” significa “una palabra” en el contexto de esta sección.",
+          "answer": "again",
+          "rationale": "“again” significa “otra vez” en el contexto de esta sección.",
           "objective": "reconocer la sílaba acentuada"
         },
         {
           "id": "w01-input-mc-3",
           "type": "multipleChoice",
-          "prompt": "Elige la mejor expresión en inglés para “una sílaba”.",
+          "prompt": "Elige la mejor expresión en inglés para “el significado”.",
           "choices": [
-            "a syllable",
-            "stress",
-            "to listen",
-            "to repeat"
+            "meaning",
+            "to guess",
+            "a recording",
+            "context"
           ],
-          "answer": "a syllable",
-          "rationale": "“a syllable” significa “una sílaba” en el contexto de esta sección.",
+          "answer": "meaning",
+          "rationale": "“meaning” significa “el significado” en el contexto de esta sección.",
           "objective": "seguir una rutina sostenible de estudio"
         },
         {
           "id": "w01-input-mc-4",
           "type": "multipleChoice",
-          "prompt": "Elige la mejor expresión en inglés para “el acento prosódico”.",
+          "prompt": "Elige la mejor expresión en inglés para “adivinar”.",
           "choices": [
-            "to listen",
-            "to repeat",
-            "the alphabet",
-            "stress"
+            "a recording",
+            "context",
+            "to understand",
+            "to guess"
           ],
-          "answer": "stress",
-          "rationale": "“stress” significa “el acento prosódico” en el contexto de esta sección.",
+          "answer": "to guess",
+          "rationale": "“to guess” significa “adivinar” en el contexto de esta sección.",
           "objective": "deletrear un nombre"
         },
         {
           "id": "w01-input-mc-5",
           "type": "multipleChoice",
-          "prompt": "Elige la mejor expresión en inglés para “escuchar”.",
+          "prompt": "Elige la mejor expresión en inglés para “una grabación”.",
           "choices": [
-            "the alphabet",
-            "a letter",
-            "to listen",
-            "to repeat"
+            "to understand",
+            "a clue",
+            "a recording",
+            "context"
           ],
-          "answer": "to listen",
-          "rationale": "“to listen” significa “escuchar” en el contexto de esta sección.",
+          "answer": "a recording",
+          "rationale": "“a recording” significa “una grabación” en el contexto de esta sección.",
           "objective": "reconocer la sílaba acentuada"
         },
         {
           "id": "w01-input-mc-6",
           "type": "multipleChoice",
-          "prompt": "Elige la mejor expresión en inglés para “repetir”.",
+          "prompt": "Elige la mejor expresión en inglés para “el contexto”.",
           "choices": [
-            "a sound",
-            "to repeat",
-            "the alphabet",
-            "a letter"
+            "a pause",
+            "context",
+            "to understand",
+            "a clue"
           ],
-          "answer": "to repeat",
-          "rationale": "“to repeat” significa “repetir” en el contexto de esta sección.",
+          "answer": "context",
+          "rationale": "“context” significa “el contexto” en el contexto de esta sección.",
           "objective": "seguir una rutina sostenible de estudio"
         },
         {
           "id": "w01-input-mc-7",
           "type": "multipleChoice",
-          "prompt": "Elige la mejor expresión en inglés para “el alfabeto”.",
+          "prompt": "Elige la mejor expresión en inglés para “entender”.",
           "choices": [
-            "the alphabet",
-            "a letter",
-            "a sound",
-            "a word"
+            "to understand",
+            "a clue",
+            "a pause",
+            "again"
           ],
-          "answer": "the alphabet",
-          "rationale": "“the alphabet” significa “el alfabeto” en el contexto de esta sección.",
+          "answer": "to understand",
+          "rationale": "“to understand” significa “entender” en el contexto de esta sección.",
           "objective": "deletrear un nombre"
         },
         {
           "id": "w01-input-mc-8",
           "type": "multipleChoice",
-          "prompt": "Elige la mejor expresión en inglés para “una letra”.",
+          "prompt": "Elige la mejor expresión en inglés para “una pista”.",
           "choices": [
-            "a sound",
-            "a word",
-            "a syllable",
-            "a letter"
+            "a pause",
+            "again",
+            "meaning",
+            "a clue"
           ],
-          "answer": "a letter",
-          "rationale": "“a letter” significa “una letra” en el contexto de esta sección.",
+          "answer": "a clue",
+          "rationale": "“a clue” significa “una pista” en el contexto de esta sección.",
           "objective": "reconocer la sílaba acentuada"
         },
         {
           "id": "w01-input-cloze-1",
           "type": "cloze",
-          "prompt": "Completa en inglés: un sonido → ____",
-          "answer": "a sound",
+          "prompt": "Completa en inglés: una pausa → ____",
+          "answer": "a pause",
           "accepted": [
-            "a sound"
+            "a pause"
           ],
           "accentPolicy": "english",
-          "rationale": "La expresión meta es “a sound”.",
+          "rationale": "La expresión meta es “a pause”.",
           "objective": "deletrear un nombre"
         },
         {
           "id": "w01-input-cloze-2",
           "type": "cloze",
-          "prompt": "Completa en inglés: una palabra → ____",
-          "answer": "a word",
+          "prompt": "Completa en inglés: otra vez → ____",
+          "answer": "again",
           "accepted": [
-            "a word"
+            "again"
           ],
           "accentPolicy": "english",
-          "rationale": "La expresión meta es “a word”.",
+          "rationale": "La expresión meta es “again”.",
           "objective": "reconocer la sílaba acentuada"
         },
         {
           "id": "w01-input-cloze-3",
           "type": "cloze",
-          "prompt": "Completa en inglés: una sílaba → ____",
-          "answer": "a syllable",
+          "prompt": "Completa en inglés: el significado → ____",
+          "answer": "meaning",
           "accepted": [
-            "a syllable"
+            "meaning"
           ],
           "accentPolicy": "english",
-          "rationale": "La expresión meta es “a syllable”.",
+          "rationale": "La expresión meta es “meaning”.",
           "objective": "seguir una rutina sostenible de estudio"
         },
         {
           "id": "w01-input-cloze-4",
           "type": "cloze",
-          "prompt": "Completa en inglés: el acento prosódico → ____",
-          "answer": "stress",
+          "prompt": "Completa en inglés: adivinar → ____",
+          "answer": "to guess",
           "accepted": [
-            "stress"
+            "to guess"
           ],
           "accentPolicy": "english",
-          "rationale": "La expresión meta es “stress”.",
+          "rationale": "La expresión meta es “to guess”.",
           "objective": "deletrear un nombre"
         },
         {
           "id": "w01-input-cloze-5",
           "type": "cloze",
-          "prompt": "Completa en inglés: escuchar → ____",
-          "answer": "to listen",
+          "prompt": "Completa en inglés: una grabación → ____",
+          "answer": "a recording",
           "accepted": [
-            "to listen"
+            "a recording"
           ],
           "accentPolicy": "english",
-          "rationale": "La expresión meta es “to listen”.",
+          "rationale": "La expresión meta es “a recording”.",
           "objective": "reconocer la sílaba acentuada"
         },
         {
           "id": "w01-input-cloze-6",
           "type": "cloze",
-          "prompt": "Completa en inglés: repetir → ____",
-          "answer": "to repeat",
+          "prompt": "Completa en inglés: el contexto → ____",
+          "answer": "context",
           "accepted": [
-            "to repeat"
+            "context"
           ],
           "accentPolicy": "english",
-          "rationale": "La expresión meta es “to repeat”.",
+          "rationale": "La expresión meta es “context”.",
           "objective": "seguir una rutina sostenible de estudio"
         },
         {
           "id": "w01-input-cloze-7",
           "type": "cloze",
-          "prompt": "Completa en inglés: el alfabeto → ____",
-          "answer": "the alphabet",
+          "prompt": "Completa en inglés: entender → ____",
+          "answer": "to understand",
           "accepted": [
-            "the alphabet"
+            "to understand"
           ],
           "accentPolicy": "english",
-          "rationale": "La expresión meta es “the alphabet”.",
+          "rationale": "La expresión meta es “to understand”.",
           "objective": "deletrear un nombre"
         },
         {
           "id": "w01-input-cloze-8",
           "type": "cloze",
-          "prompt": "Completa en inglés: una letra → ____",
-          "answer": "a letter",
+          "prompt": "Completa en inglés: una pista → ____",
+          "answer": "a clue",
           "accepted": [
-            "a letter"
+            "a clue"
           ],
           "accentPolicy": "english",
-          "rationale": "La expresión meta es “a letter”.",
+          "rationale": "La expresión meta es “a clue”.",
           "objective": "reconocer la sílaba acentuada"
         },
         {
           "id": "w01-input-order-1",
           "type": "ordering",
-          "prompt": "Significado en español: “Mi nombre tiene cinco letras.” Ordena las palabras y la puntuación en inglés.",
+          "prompt": "Significado en español: “No entiendo esa palabra.” Ordena las palabras y la puntuación en inglés.",
           "tokens": [
-            "five",
-            "letters",
+            "that",
+            "word",
             ".",
-            "My",
-            "name",
-            "has"
+            "I",
+            "don't",
+            "understand"
           ],
           "answers": [
             [
-              "My",
-              "name",
-              "has",
-              "five",
-              "letters",
+              "I",
+              "don't",
+              "understand",
+              "that",
+              "word",
               "."
             ]
           ],
-          "rationale": "Un orden natural es: My name has five letters. Significa: Mi nombre tiene cinco letras.",
+          "rationale": "Un orden natural es: I don't understand that word. Significa: No entiendo esa palabra.",
           "objective": "deletrear un nombre"
         },
         {
           "id": "w01-input-order-2",
           "type": "ordering",
-          "prompt": "Significado en español: “La letra H tiene dos nombres comunes en el mundo.” Ordena las palabras y la puntuación en inglés.",
+          "prompt": "Significado en español: “¿Puedes repetirlo, por favor?” Ordena las palabras y la puntuación en inglés.",
           "tokens": [
-            "common",
-            "names",
-            "around",
-            "the",
-            "world",
-            ".",
-            "The",
-            "letter",
-            "H",
-            "has",
-            "two"
+            "please",
+            "?",
+            "Can",
+            "you",
+            "repeat",
+            "that",
+            ","
           ],
           "answers": [
             [
-              "The",
-              "letter",
-              "H",
-              "has",
-              "two",
-              "common",
-              "names",
-              "around",
-              "the",
-              "world",
-              "."
+              "Can",
+              "you",
+              "repeat",
+              "that",
+              ",",
+              "please",
+              "?"
             ]
           ],
-          "rationale": "Un orden natural es: The letter H has two common names around the world. Significa: La letra H tiene dos nombres comunes en el mundo.",
+          "rationale": "Un orden natural es: Can you repeat that, please? Significa: ¿Puedes repetirlo, por favor?",
           "objective": "reconocer la sílaba acentuada"
         },
         {
           "id": "w01-input-order-3",
           "type": "ordering",
-          "prompt": "Significado en español: “Escucho y repito cada palabra.” Ordena las palabras y la puntuación en inglés.",
+          "prompt": "Significado en español: “Escucho la grabación otra vez.” Ordena las palabras y la puntuación en inglés.",
           "tokens": [
             "I",
             "listen",
-            "and",
-            "repeat",
-            "each",
-            "word",
+            "to",
+            "the",
+            "recording",
+            "again",
             "."
           ],
           "answers": [
             [
               "I",
               "listen",
-              "and",
-              "repeat",
-              "each",
-              "word",
+              "to",
+              "the",
+              "recording",
+              "again",
               "."
             ]
           ],
-          "rationale": "Un orden natural es: I listen and repeat each word. Significa: Escucho y repito cada palabra.",
+          "rationale": "Un orden natural es: I listen to the recording again. Significa: Escucho la grabación otra vez.",
           "objective": "seguir una rutina sostenible de estudio"
         },
         {
           "id": "w01-input-order-4",
           "type": "ordering",
-          "prompt": "Significado en español: “¿Qué sílaba lleva el acento?” Ordena las palabras y la puntuación en inglés.",
+          "prompt": "Significado en español: “Adivino el significado por el contexto.” Ordena las palabras y la puntuación en inglés.",
           "tokens": [
-            "?",
-            "Which",
-            "syllable",
-            "is",
-            "stressed"
+            "the",
+            "meaning",
+            "from",
+            "context",
+            ".",
+            "I",
+            "guess"
           ],
           "answers": [
             [
-              "Which",
-              "syllable",
-              "is",
-              "stressed",
-              "?"
+              "I",
+              "guess",
+              "the",
+              "meaning",
+              "from",
+              "context",
+              "."
             ]
           ],
-          "rationale": "Un orden natural es: Which syllable is stressed? Significa: ¿Qué sílaba lleva el acento?",
+          "rationale": "Un orden natural es: I guess the meaning from context. Significa: Adivino el significado por el contexto.",
           "objective": "deletrear un nombre"
         },
         {
           "id": "w01-input-order-5",
           "type": "ordering",
-          "prompt": "Significado en español: “La práctica breve y frecuente funciona mejor.” Ordena las palabras y la puntuación en inglés.",
+          "prompt": "Significado en español: “Hago una pausa antes de responder.” Ordena las palabras y la puntuación en inglés.",
           "tokens": [
-            "works",
-            "best",
+            "pause",
+            "before",
+            "answering",
             ".",
-            "Short",
-            ",",
-            "frequent",
-            "practice"
+            "I"
           ],
           "answers": [
             [
-              "Short",
-              ",",
-              "frequent",
-              "practice",
-              "works",
-              "best",
+              "I",
+              "pause",
+              "before",
+              "answering",
               "."
             ]
           ],
-          "rationale": "Un orden natural es: Short, frequent practice works best. Significa: La práctica breve y frecuente funciona mejor.",
+          "rationale": "Un orden natural es: I pause before answering. Significa: Hago una pausa antes de responder.",
           "objective": "reconocer la sílaba acentuada"
         },
         {
           "id": "w01-input-order-6",
           "type": "ordering",
-          "prompt": "Significado en español: “Por ejemplo: mi nombre tiene cinco letras.” Ordena las palabras y la puntuación en inglés.",
+          "prompt": "Significado en español: “Por ejemplo: no entiendo esa palabra.” Ordena las palabras y la puntuación en inglés.",
           "tokens": [
-            "name",
-            "has",
-            "five",
-            "letters",
+            "don't",
+            "understand",
+            "that",
+            "word",
             ".",
             "For",
             "example",
             ",",
-            "my"
+            "i"
           ],
           "answers": [
             [
               "For",
               "example",
               ",",
-              "my",
-              "name",
-              "has",
-              "five",
-              "letters",
+              "i",
+              "don't",
+              "understand",
+              "that",
+              "word",
               "."
             ]
           ],
-          "rationale": "Un orden natural es: For example, my name has five letters. Significa: Por ejemplo: mi nombre tiene cinco letras.",
+          "rationale": "Un orden natural es: For example, i don't understand that word. Significa: Por ejemplo: no entiendo esa palabra.",
           "objective": "seguir una rutina sostenible de estudio"
         },
         {
           "id": "w01-input-order-7",
           "type": "ordering",
-          "prompt": "Significado en español: “En este contexto: la letra H tiene dos nombres comunes en el mundo.” Ordena las palabras y la puntuación en inglés.",
+          "prompt": "Significado en español: “En este contexto: ¿Puedes repetirlo, por favor?” Ordena las palabras y la puntuación en inglés.",
           "tokens": [
+            "can",
+            "you",
+            "repeat",
+            "that",
+            ",",
+            "please",
+            "?",
             "In",
             "this",
             "context",
-            ",",
-            "the",
-            "letter",
-            "H",
-            "has",
-            "two",
-            "common",
-            "names",
-            "around",
-            "the",
-            "world",
-            "."
+            ","
           ],
           "answers": [
             [
@@ -3941,33 +3923,29 @@
               "this",
               "context",
               ",",
-              "the",
-              "letter",
-              "H",
-              "has",
-              "two",
-              "common",
-              "names",
-              "around",
-              "the",
-              "world",
-              "."
+              "can",
+              "you",
+              "repeat",
+              "that",
+              ",",
+              "please",
+              "?"
             ]
           ],
-          "rationale": "Un orden natural es: In this context, the letter H has two common names around the world. Significa: En este contexto: la letra H tiene dos nombres comunes en el mundo.",
+          "rationale": "Un orden natural es: In this context, can you repeat that, please? Significa: En este contexto: ¿Puedes repetirlo, por favor?",
           "objective": "deletrear un nombre"
         },
         {
           "id": "w01-input-order-8",
           "type": "ordering",
-          "prompt": "Significado en español: “Según la situación: escucho y repito cada palabra.” Ordena las palabras y la puntuación en inglés.",
+          "prompt": "Significado en español: “Según la situación: escucho la grabación otra vez.” Ordena las palabras y la puntuación en inglés.",
           "tokens": [
             "i",
             "listen",
-            "and",
-            "repeat",
-            "each",
-            "word",
+            "to",
+            "the",
+            "recording",
+            "again",
             ".",
             "According",
             "to",
@@ -3984,14 +3962,14 @@
               ",",
               "i",
               "listen",
-              "and",
-              "repeat",
-              "each",
-              "word",
+              "to",
+              "the",
+              "recording",
+              "again",
               "."
             ]
           ],
-          "rationale": "Un orden natural es: According to the situation, i listen and repeat each word. Significa: Según la situación: escucho y repito cada palabra.",
+          "rationale": "Un orden natural es: According to the situation, i listen to the recording again. Significa: Según la situación: escucho la grabación otra vez.",
           "objective": "reconocer la sílaba acentuada"
         }
       ],
@@ -4035,51 +4013,51 @@
       ],
       "vocabulary": [
         {
-          "target": "the alphabet",
-          "meaning": "el alfabeto"
+          "target": "a country",
+          "meaning": "un país"
         },
         {
-          "target": "a letter",
-          "meaning": "una letra"
+          "target": "a region",
+          "meaning": "una región"
         },
         {
-          "target": "a sound",
-          "meaning": "un sonido"
+          "target": "a variant",
+          "meaning": "una variante"
         },
         {
-          "target": "a word",
-          "meaning": "una palabra"
+          "target": "pronunciation",
+          "meaning": "la pronunciación"
         },
         {
-          "target": "a syllable",
-          "meaning": "una sílaba"
+          "target": "common",
+          "meaning": "común"
         },
         {
-          "target": "stress",
-          "meaning": "el acento prosódico"
+          "target": "different",
+          "meaning": "diferente"
         },
         {
-          "target": "to listen",
-          "meaning": "escuchar"
+          "target": "an English speaker",
+          "meaning": "un angloparlante"
         },
         {
-          "target": "to repeat",
-          "meaning": "repetir"
+          "target": "everywhere",
+          "meaning": "en todas partes"
         }
       ],
       "modelSentences": [
-        "My name has five letters.",
-        "The letter H has two common names around the world.",
-        "I listen and repeat each word.",
-        "Which syllable is stressed?",
-        "Short, frequent practice works best."
+        "Each country has its own pronunciation.",
+        "There is no single correct accent.",
+        "English changes by region.",
+        "There are English speakers all over the world.",
+        "This word is common in several countries."
       ],
       "modelTranslations": [
-        "Mi nombre tiene cinco letras.",
-        "La letra H tiene dos nombres comunes en el mundo.",
-        "Escucho y repito cada palabra.",
-        "¿Qué sílaba lleva el acento?",
-        "La práctica breve y frecuente funciona mejor."
+        "Cada país tiene su propia pronunciación.",
+        "No hay un solo acento correcto.",
+        "El inglés cambia según la región.",
+        "Hay angloparlantes en todas partes del mundo.",
+        "Esta palabra es común en varios países."
       ],
       "culture": "El inglés es pluricéntrico. Ningún país ni acento representa por sí solo a todas las personas angloparlantes.",
       "readingAssignments": [],
@@ -4120,11 +4098,11 @@
         {
           "title": "Lenguaje modelo",
           "body": [
-            "My name has five letters. — Mi nombre tiene cinco letras.",
-            "The letter H has two common names around the world. — La letra H tiene dos nombres comunes en el mundo.",
-            "I listen and repeat each word. — Escucho y repito cada palabra.",
-            "Which syllable is stressed? — ¿Qué sílaba lleva el acento?",
-            "Short, frequent practice works best. — La práctica breve y frecuente funciona mejor."
+            "Each country has its own pronunciation. — Cada país tiene su propia pronunciación.",
+            "There is no single correct accent. — No hay un solo acento correcto.",
+            "English changes by region. — El inglés cambia según la región.",
+            "There are English speakers all over the world. — Hay angloparlantes en todas partes del mundo.",
+            "This word is common in several countries. — Esta palabra es común en varios países."
           ]
         },
         {
@@ -4147,399 +4125,397 @@
         {
           "id": "w01-culture-mc-1",
           "type": "multipleChoice",
-          "prompt": "Elige la mejor expresión en inglés para “una palabra”.",
+          "prompt": "Elige la mejor expresión en inglés para “la pronunciación”.",
           "choices": [
-            "to listen",
-            "a word",
-            "a syllable",
-            "stress"
+            "an English speaker",
+            "pronunciation",
+            "common",
+            "different"
           ],
-          "answer": "a word",
-          "rationale": "“a word” significa “una palabra” en el contexto de esta sección.",
+          "answer": "pronunciation",
+          "rationale": "“pronunciation” significa “la pronunciación” en el contexto de esta sección.",
           "objective": "deletrear un nombre"
         },
         {
           "id": "w01-culture-mc-2",
           "type": "multipleChoice",
-          "prompt": "Elige la mejor expresión en inglés para “una sílaba”.",
+          "prompt": "Elige la mejor expresión en inglés para “común”.",
           "choices": [
-            "a syllable",
-            "stress",
-            "to listen",
-            "to repeat"
+            "common",
+            "different",
+            "an English speaker",
+            "everywhere"
           ],
-          "answer": "a syllable",
-          "rationale": "“a syllable” significa “una sílaba” en el contexto de esta sección.",
+          "answer": "common",
+          "rationale": "“common” significa “común” en el contexto de esta sección.",
           "objective": "reconocer la sílaba acentuada"
         },
         {
           "id": "w01-culture-mc-3",
           "type": "multipleChoice",
-          "prompt": "Elige la mejor expresión en inglés para “el acento prosódico”.",
+          "prompt": "Elige la mejor expresión en inglés para “diferente”.",
           "choices": [
-            "to listen",
-            "to repeat",
-            "the alphabet",
-            "stress"
+            "an English speaker",
+            "everywhere",
+            "a country",
+            "different"
           ],
-          "answer": "stress",
-          "rationale": "“stress” significa “el acento prosódico” en el contexto de esta sección.",
+          "answer": "different",
+          "rationale": "“different” significa “diferente” en el contexto de esta sección.",
           "objective": "seguir una rutina sostenible de estudio"
         },
         {
           "id": "w01-culture-mc-4",
           "type": "multipleChoice",
-          "prompt": "Elige la mejor expresión en inglés para “escuchar”.",
+          "prompt": "Elige la mejor expresión en inglés para “un angloparlante”.",
           "choices": [
-            "the alphabet",
-            "a letter",
-            "to listen",
-            "to repeat"
+            "a country",
+            "a region",
+            "an English speaker",
+            "everywhere"
           ],
-          "answer": "to listen",
-          "rationale": "“to listen” significa “escuchar” en el contexto de esta sección.",
+          "answer": "an English speaker",
+          "rationale": "“an English speaker” significa “un angloparlante” en el contexto de esta sección.",
           "objective": "deletrear un nombre"
         },
         {
           "id": "w01-culture-mc-5",
           "type": "multipleChoice",
-          "prompt": "Elige la mejor expresión en inglés para “repetir”.",
+          "prompt": "Elige la mejor expresión en inglés para “en todas partes”.",
           "choices": [
-            "a sound",
-            "to repeat",
-            "the alphabet",
-            "a letter"
+            "a variant",
+            "everywhere",
+            "a country",
+            "a region"
           ],
-          "answer": "to repeat",
-          "rationale": "“to repeat” significa “repetir” en el contexto de esta sección.",
+          "answer": "everywhere",
+          "rationale": "“everywhere” significa “en todas partes” en el contexto de esta sección.",
           "objective": "reconocer la sílaba acentuada"
         },
         {
           "id": "w01-culture-mc-6",
           "type": "multipleChoice",
-          "prompt": "Elige la mejor expresión en inglés para “el alfabeto”.",
+          "prompt": "Elige la mejor expresión en inglés para “un país”.",
           "choices": [
-            "the alphabet",
-            "a letter",
-            "a sound",
-            "a word"
+            "a country",
+            "a region",
+            "a variant",
+            "pronunciation"
           ],
-          "answer": "the alphabet",
-          "rationale": "“the alphabet” significa “el alfabeto” en el contexto de esta sección.",
+          "answer": "a country",
+          "rationale": "“a country” significa “un país” en el contexto de esta sección.",
           "objective": "seguir una rutina sostenible de estudio"
         },
         {
           "id": "w01-culture-mc-7",
           "type": "multipleChoice",
-          "prompt": "Elige la mejor expresión en inglés para “una letra”.",
+          "prompt": "Elige la mejor expresión en inglés para “una región”.",
           "choices": [
-            "a sound",
-            "a word",
-            "a syllable",
-            "a letter"
+            "a variant",
+            "pronunciation",
+            "common",
+            "a region"
           ],
-          "answer": "a letter",
-          "rationale": "“a letter” significa “una letra” en el contexto de esta sección.",
+          "answer": "a region",
+          "rationale": "“a region” significa “una región” en el contexto de esta sección.",
           "objective": "deletrear un nombre"
         },
         {
           "id": "w01-culture-mc-8",
           "type": "multipleChoice",
-          "prompt": "Elige la mejor expresión en inglés para “un sonido”.",
+          "prompt": "Elige la mejor expresión en inglés para “una variante”.",
           "choices": [
-            "a syllable",
-            "stress",
-            "a sound",
-            "a word"
+            "common",
+            "different",
+            "a variant",
+            "pronunciation"
           ],
-          "answer": "a sound",
-          "rationale": "“a sound” significa “un sonido” en el contexto de esta sección.",
+          "answer": "a variant",
+          "rationale": "“a variant” significa “una variante” en el contexto de esta sección.",
           "objective": "reconocer la sílaba acentuada"
         },
         {
           "id": "w01-culture-cloze-1",
           "type": "cloze",
-          "prompt": "Completa en inglés: una palabra → ____",
-          "answer": "a word",
+          "prompt": "Completa en inglés: la pronunciación → ____",
+          "answer": "pronunciation",
           "accepted": [
-            "a word"
+            "pronunciation"
           ],
           "accentPolicy": "english",
-          "rationale": "La expresión meta es “a word”.",
+          "rationale": "La expresión meta es “pronunciation”.",
           "objective": "deletrear un nombre"
         },
         {
           "id": "w01-culture-cloze-2",
           "type": "cloze",
-          "prompt": "Completa en inglés: una sílaba → ____",
-          "answer": "a syllable",
+          "prompt": "Completa en inglés: común → ____",
+          "answer": "common",
           "accepted": [
-            "a syllable"
+            "common"
           ],
           "accentPolicy": "english",
-          "rationale": "La expresión meta es “a syllable”.",
+          "rationale": "La expresión meta es “common”.",
           "objective": "reconocer la sílaba acentuada"
         },
         {
           "id": "w01-culture-cloze-3",
           "type": "cloze",
-          "prompt": "Completa en inglés: el acento prosódico → ____",
-          "answer": "stress",
+          "prompt": "Completa en inglés: diferente → ____",
+          "answer": "different",
           "accepted": [
-            "stress"
+            "different"
           ],
           "accentPolicy": "english",
-          "rationale": "La expresión meta es “stress”.",
+          "rationale": "La expresión meta es “different”.",
           "objective": "seguir una rutina sostenible de estudio"
         },
         {
           "id": "w01-culture-cloze-4",
           "type": "cloze",
-          "prompt": "Completa en inglés: escuchar → ____",
-          "answer": "to listen",
+          "prompt": "Completa en inglés: un angloparlante → ____",
+          "answer": "an English speaker",
           "accepted": [
-            "to listen"
+            "an English speaker"
           ],
           "accentPolicy": "english",
-          "rationale": "La expresión meta es “to listen”.",
+          "rationale": "La expresión meta es “an English speaker”.",
           "objective": "deletrear un nombre"
         },
         {
           "id": "w01-culture-cloze-5",
           "type": "cloze",
-          "prompt": "Completa en inglés: repetir → ____",
-          "answer": "to repeat",
+          "prompt": "Completa en inglés: en todas partes → ____",
+          "answer": "everywhere",
           "accepted": [
-            "to repeat"
+            "everywhere"
           ],
           "accentPolicy": "english",
-          "rationale": "La expresión meta es “to repeat”.",
+          "rationale": "La expresión meta es “everywhere”.",
           "objective": "reconocer la sílaba acentuada"
         },
         {
           "id": "w01-culture-cloze-6",
           "type": "cloze",
-          "prompt": "Completa en inglés: el alfabeto → ____",
-          "answer": "the alphabet",
+          "prompt": "Completa en inglés: un país → ____",
+          "answer": "a country",
           "accepted": [
-            "the alphabet"
+            "a country"
           ],
           "accentPolicy": "english",
-          "rationale": "La expresión meta es “the alphabet”.",
+          "rationale": "La expresión meta es “a country”.",
           "objective": "seguir una rutina sostenible de estudio"
         },
         {
           "id": "w01-culture-cloze-7",
           "type": "cloze",
-          "prompt": "Completa en inglés: una letra → ____",
-          "answer": "a letter",
+          "prompt": "Completa en inglés: una región → ____",
+          "answer": "a region",
           "accepted": [
-            "a letter"
+            "a region"
           ],
           "accentPolicy": "english",
-          "rationale": "La expresión meta es “a letter”.",
+          "rationale": "La expresión meta es “a region”.",
           "objective": "deletrear un nombre"
         },
         {
           "id": "w01-culture-cloze-8",
           "type": "cloze",
-          "prompt": "Completa en inglés: un sonido → ____",
-          "answer": "a sound",
+          "prompt": "Completa en inglés: una variante → ____",
+          "answer": "a variant",
           "accepted": [
-            "a sound"
+            "a variant"
           ],
           "accentPolicy": "english",
-          "rationale": "La expresión meta es “a sound”.",
+          "rationale": "La expresión meta es “a variant”.",
           "objective": "reconocer la sílaba acentuada"
         },
         {
           "id": "w01-culture-order-1",
           "type": "ordering",
-          "prompt": "Significado en español: “Mi nombre tiene cinco letras.” Ordena las palabras y la puntuación en inglés.",
+          "prompt": "Significado en español: “Cada país tiene su propia pronunciación.” Ordena las palabras y la puntuación en inglés.",
           "tokens": [
-            "letters",
+            "own",
+            "pronunciation",
             ".",
-            "My",
-            "name",
+            "Each",
+            "country",
             "has",
-            "five"
+            "its"
           ],
           "answers": [
             [
-              "My",
-              "name",
+              "Each",
+              "country",
               "has",
-              "five",
-              "letters",
+              "its",
+              "own",
+              "pronunciation",
               "."
             ]
           ],
-          "rationale": "Un orden natural es: My name has five letters. Significa: Mi nombre tiene cinco letras.",
+          "rationale": "Un orden natural es: Each country has its own pronunciation. Significa: Cada país tiene su propia pronunciación.",
           "objective": "deletrear un nombre"
         },
         {
           "id": "w01-culture-order-2",
           "type": "ordering",
-          "prompt": "Significado en español: “La letra H tiene dos nombres comunes en el mundo.” Ordena las palabras y la puntuación en inglés.",
+          "prompt": "Significado en español: “No hay un solo acento correcto.” Ordena las palabras y la puntuación en inglés.",
           "tokens": [
-            "names",
-            "around",
-            "the",
-            "world",
             ".",
-            "The",
-            "letter",
-            "H",
-            "has",
-            "two",
-            "common"
+            "There",
+            "is",
+            "no",
+            "single",
+            "correct",
+            "accent"
           ],
           "answers": [
             [
-              "The",
-              "letter",
-              "H",
-              "has",
-              "two",
-              "common",
-              "names",
-              "around",
-              "the",
-              "world",
+              "There",
+              "is",
+              "no",
+              "single",
+              "correct",
+              "accent",
               "."
             ]
           ],
-          "rationale": "Un orden natural es: The letter H has two common names around the world. Significa: La letra H tiene dos nombres comunes en el mundo.",
+          "rationale": "Un orden natural es: There is no single correct accent. Significa: No hay un solo acento correcto.",
           "objective": "reconocer la sílaba acentuada"
         },
         {
           "id": "w01-culture-order-3",
           "type": "ordering",
-          "prompt": "Significado en español: “Escucho y repito cada palabra.” Ordena las palabras y la puntuación en inglés.",
+          "prompt": "Significado en español: “El inglés cambia según la región.” Ordena las palabras y la puntuación en inglés.",
           "tokens": [
-            "listen",
-            "and",
-            "repeat",
-            "each",
-            "word",
+            "region",
             ".",
-            "I"
+            "English",
+            "changes",
+            "by"
           ],
           "answers": [
             [
-              "I",
-              "listen",
-              "and",
-              "repeat",
-              "each",
-              "word",
+              "English",
+              "changes",
+              "by",
+              "region",
               "."
             ]
           ],
-          "rationale": "Un orden natural es: I listen and repeat each word. Significa: Escucho y repito cada palabra.",
+          "rationale": "Un orden natural es: English changes by region. Significa: El inglés cambia según la región.",
           "objective": "seguir una rutina sostenible de estudio"
         },
         {
           "id": "w01-culture-order-4",
           "type": "ordering",
-          "prompt": "Significado en español: “¿Qué sílaba lleva el acento?” Ordena las palabras y la puntuación en inglés.",
+          "prompt": "Significado en español: “Hay angloparlantes en todas partes del mundo.” Ordena las palabras y la puntuación en inglés.",
           "tokens": [
-            "Which",
-            "syllable",
-            "is",
-            "stressed",
-            "?"
+            "are",
+            "English",
+            "speakers",
+            "all",
+            "over",
+            "the",
+            "world",
+            ".",
+            "There"
           ],
           "answers": [
             [
-              "Which",
-              "syllable",
-              "is",
-              "stressed",
-              "?"
+              "There",
+              "are",
+              "English",
+              "speakers",
+              "all",
+              "over",
+              "the",
+              "world",
+              "."
             ]
           ],
-          "rationale": "Un orden natural es: Which syllable is stressed? Significa: ¿Qué sílaba lleva el acento?",
+          "rationale": "Un orden natural es: There are English speakers all over the world. Significa: Hay angloparlantes en todas partes del mundo.",
           "objective": "deletrear un nombre"
         },
         {
           "id": "w01-culture-order-5",
           "type": "ordering",
-          "prompt": "Significado en español: “La práctica breve y frecuente funciona mejor.” Ordena las palabras y la puntuación en inglés.",
+          "prompt": "Significado en español: “Esta palabra es común en varios países.” Ordena las palabras y la puntuación en inglés.",
           "tokens": [
-            "best",
+            "in",
+            "several",
+            "countries",
             ".",
-            "Short",
-            ",",
-            "frequent",
-            "practice",
-            "works"
+            "This",
+            "word",
+            "is",
+            "common"
           ],
           "answers": [
             [
-              "Short",
-              ",",
-              "frequent",
-              "practice",
-              "works",
-              "best",
+              "This",
+              "word",
+              "is",
+              "common",
+              "in",
+              "several",
+              "countries",
               "."
             ]
           ],
-          "rationale": "Un orden natural es: Short, frequent practice works best. Significa: La práctica breve y frecuente funciona mejor.",
+          "rationale": "Un orden natural es: This word is common in several countries. Significa: Esta palabra es común en varios países.",
           "objective": "reconocer la sílaba acentuada"
         },
         {
           "id": "w01-culture-order-6",
           "type": "ordering",
-          "prompt": "Significado en español: “Por ejemplo: mi nombre tiene cinco letras.” Ordena las palabras y la puntuación en inglés.",
+          "prompt": "Significado en español: “Por ejemplo: cada país tiene su propia pronunciación.” Ordena las palabras y la puntuación en inglés.",
           "tokens": [
+            "country",
             "has",
-            "five",
-            "letters",
+            "its",
+            "own",
+            "pronunciation",
             ".",
             "For",
             "example",
             ",",
-            "my",
-            "name"
+            "each"
           ],
           "answers": [
             [
               "For",
               "example",
               ",",
-              "my",
-              "name",
+              "each",
+              "country",
               "has",
-              "five",
-              "letters",
+              "its",
+              "own",
+              "pronunciation",
               "."
             ]
           ],
-          "rationale": "Un orden natural es: For example, my name has five letters. Significa: Por ejemplo: mi nombre tiene cinco letras.",
+          "rationale": "Un orden natural es: For example, each country has its own pronunciation. Significa: Por ejemplo: cada país tiene su propia pronunciación.",
           "objective": "seguir una rutina sostenible de estudio"
         },
         {
           "id": "w01-culture-order-7",
           "type": "ordering",
-          "prompt": "Significado en español: “En este contexto: la letra H tiene dos nombres comunes en el mundo.” Ordena las palabras y la puntuación en inglés.",
+          "prompt": "Significado en español: “En este contexto: no hay un solo acento correcto.” Ordena las palabras y la puntuación en inglés.",
           "tokens": [
+            "is",
+            "no",
+            "single",
+            "correct",
+            "accent",
+            ".",
+            "In",
             "this",
             "context",
             ",",
-            "the",
-            "letter",
-            "H",
-            "has",
-            "two",
-            "common",
-            "names",
-            "around",
-            "the",
-            "world",
-            ".",
-            "In"
+            "there"
           ],
           "answers": [
             [
@@ -4547,39 +4523,33 @@
               "this",
               "context",
               ",",
-              "the",
-              "letter",
-              "H",
-              "has",
-              "two",
-              "common",
-              "names",
-              "around",
-              "the",
-              "world",
+              "there",
+              "is",
+              "no",
+              "single",
+              "correct",
+              "accent",
               "."
             ]
           ],
-          "rationale": "Un orden natural es: In this context, the letter H has two common names around the world. Significa: En este contexto: la letra H tiene dos nombres comunes en el mundo.",
+          "rationale": "Un orden natural es: In this context, there is no single correct accent. Significa: En este contexto: no hay un solo acento correcto.",
           "objective": "deletrear un nombre"
         },
         {
           "id": "w01-culture-order-8",
           "type": "ordering",
-          "prompt": "Significado en español: “Según la situación: escucho y repito cada palabra.” Ordena las palabras y la puntuación en inglés.",
+          "prompt": "Significado en español: “Según la situación: el inglés cambia según la región.” Ordena las palabras y la puntuación en inglés.",
           "tokens": [
-            "listen",
-            "and",
-            "repeat",
-            "each",
-            "word",
+            "region",
             ".",
             "According",
             "to",
             "the",
             "situation",
             ",",
-            "i"
+            "english",
+            "changes",
+            "by"
           ],
           "answers": [
             [
@@ -4588,16 +4558,14 @@
               "the",
               "situation",
               ",",
-              "i",
-              "listen",
-              "and",
-              "repeat",
-              "each",
-              "word",
+              "english",
+              "changes",
+              "by",
+              "region",
               "."
             ]
           ],
-          "rationale": "Un orden natural es: According to the situation, i listen and repeat each word. Significa: Según la situación: escucho y repito cada palabra.",
+          "rationale": "Un orden natural es: According to the situation, english changes by region. Significa: Según la situación: el inglés cambia según la región.",
           "objective": "reconocer la sílaba acentuada"
         }
       ],
@@ -4641,51 +4609,51 @@
       ],
       "vocabulary": [
         {
-          "target": "the alphabet",
-          "meaning": "el alfabeto"
+          "target": "to record",
+          "meaning": "grabar"
         },
         {
-          "target": "a letter",
-          "meaning": "una letra"
+          "target": "an introduction",
+          "meaning": "una presentación"
         },
         {
-          "target": "a sound",
-          "meaning": "un sonido"
+          "target": "to identify",
+          "meaning": "identificar"
         },
         {
-          "target": "a word",
-          "meaning": "una palabra"
+          "target": "to correct",
+          "meaning": "corregir"
         },
         {
-          "target": "a syllable",
-          "meaning": "una sílaba"
+          "target": "to improve",
+          "meaning": "mejorar"
         },
         {
-          "target": "stress",
-          "meaning": "el acento prosódico"
+          "target": "an attempt",
+          "meaning": "un intento"
         },
         {
-          "target": "to listen",
-          "meaning": "escuchar"
+          "target": "a goal",
+          "meaning": "una meta"
         },
         {
-          "target": "to repeat",
-          "meaning": "repetir"
+          "target": "a result",
+          "meaning": "un resultado"
         }
       ],
       "modelSentences": [
-        "My name has five letters.",
-        "The letter H has two common names around the world.",
-        "I listen and repeat each word.",
-        "Which syllable is stressed?",
-        "Short, frequent practice works best."
+        "I am going to record my introduction.",
+        "I identify the stressed syllable in each word.",
+        "I correct one mistake at a time.",
+        "My goal is to improve every week.",
+        "I review the result of my first attempt."
       ],
       "modelTranslations": [
-        "Mi nombre tiene cinco letras.",
-        "La letra H tiene dos nombres comunes en el mundo.",
-        "Escucho y repito cada palabra.",
-        "¿Qué sílaba lleva el acento?",
-        "La práctica breve y frecuente funciona mejor."
+        "Voy a grabar mi presentación.",
+        "Identifico la sílaba tónica en cada palabra.",
+        "Corrijo un error a la vez.",
+        "Mi meta es mejorar cada semana.",
+        "Reviso el resultado de mi primer intento."
       ],
       "mission": "Graba una presentación de veinte segundos, deletrea tu nombre e identifica la sílaba acentuada de cinco palabras.",
       "readingAssignments": [],
@@ -4726,11 +4694,11 @@
         {
           "title": "Lenguaje modelo",
           "body": [
-            "My name has five letters. — Mi nombre tiene cinco letras.",
-            "The letter H has two common names around the world. — La letra H tiene dos nombres comunes en el mundo.",
-            "I listen and repeat each word. — Escucho y repito cada palabra.",
-            "Which syllable is stressed? — ¿Qué sílaba lleva el acento?",
-            "Short, frequent practice works best. — La práctica breve y frecuente funciona mejor."
+            "I am going to record my introduction. — Voy a grabar mi presentación.",
+            "I identify the stressed syllable in each word. — Identifico la sílaba tónica en cada palabra.",
+            "I correct one mistake at a time. — Corrijo un error a la vez.",
+            "My goal is to improve every week. — Mi meta es mejorar cada semana.",
+            "I review the result of my first attempt. — Reviso el resultado de mi primer intento."
           ]
         },
         {
@@ -4753,399 +4721,413 @@
         {
           "id": "w01-mission-mc-1",
           "type": "multipleChoice",
-          "prompt": "Elige la mejor expresión en inglés para “una sílaba”.",
+          "prompt": "Elige la mejor expresión en inglés para “mejorar”.",
           "choices": [
-            "a syllable",
-            "stress",
-            "to listen",
-            "to repeat"
+            "to improve",
+            "an attempt",
+            "a goal",
+            "a result"
           ],
-          "answer": "a syllable",
-          "rationale": "“a syllable” significa “una sílaba” en el contexto de esta sección.",
+          "answer": "to improve",
+          "rationale": "“to improve” significa “mejorar” en el contexto de esta sección.",
           "objective": "deletrear un nombre"
         },
         {
           "id": "w01-mission-mc-2",
           "type": "multipleChoice",
-          "prompt": "Elige la mejor expresión en inglés para “el acento prosódico”.",
+          "prompt": "Elige la mejor expresión en inglés para “un intento”.",
           "choices": [
-            "to listen",
-            "to repeat",
-            "the alphabet",
-            "stress"
+            "a goal",
+            "a result",
+            "to record",
+            "an attempt"
           ],
-          "answer": "stress",
-          "rationale": "“stress” significa “el acento prosódico” en el contexto de esta sección.",
+          "answer": "an attempt",
+          "rationale": "“an attempt” significa “un intento” en el contexto de esta sección.",
           "objective": "reconocer la sílaba acentuada"
         },
         {
           "id": "w01-mission-mc-3",
           "type": "multipleChoice",
-          "prompt": "Elige la mejor expresión en inglés para “escuchar”.",
+          "prompt": "Elige la mejor expresión en inglés para “una meta”.",
           "choices": [
-            "the alphabet",
-            "a letter",
-            "to listen",
-            "to repeat"
+            "to record",
+            "an introduction",
+            "a goal",
+            "a result"
           ],
-          "answer": "to listen",
-          "rationale": "“to listen” significa “escuchar” en el contexto de esta sección.",
+          "answer": "a goal",
+          "rationale": "“a goal” significa “una meta” en el contexto de esta sección.",
           "objective": "seguir una rutina sostenible de estudio"
         },
         {
           "id": "w01-mission-mc-4",
           "type": "multipleChoice",
-          "prompt": "Elige la mejor expresión en inglés para “repetir”.",
+          "prompt": "Elige la mejor expresión en inglés para “un resultado”.",
           "choices": [
-            "a sound",
-            "to repeat",
-            "the alphabet",
-            "a letter"
+            "to identify",
+            "a result",
+            "to record",
+            "an introduction"
           ],
-          "answer": "to repeat",
-          "rationale": "“to repeat” significa “repetir” en el contexto de esta sección.",
+          "answer": "a result",
+          "rationale": "“a result” significa “un resultado” en el contexto de esta sección.",
           "objective": "deletrear un nombre"
         },
         {
           "id": "w01-mission-mc-5",
           "type": "multipleChoice",
-          "prompt": "Elige la mejor expresión en inglés para “el alfabeto”.",
+          "prompt": "Elige la mejor expresión en inglés para “grabar”.",
           "choices": [
-            "the alphabet",
-            "a letter",
-            "a sound",
-            "a word"
+            "to record",
+            "an introduction",
+            "to identify",
+            "to correct"
           ],
-          "answer": "the alphabet",
-          "rationale": "“the alphabet” significa “el alfabeto” en el contexto de esta sección.",
+          "answer": "to record",
+          "rationale": "“to record” significa “grabar” en el contexto de esta sección.",
           "objective": "reconocer la sílaba acentuada"
         },
         {
           "id": "w01-mission-mc-6",
           "type": "multipleChoice",
-          "prompt": "Elige la mejor expresión en inglés para “una letra”.",
+          "prompt": "Elige la mejor expresión en inglés para “una presentación”.",
           "choices": [
-            "a sound",
-            "a word",
-            "a syllable",
-            "a letter"
+            "to identify",
+            "to correct",
+            "to improve",
+            "an introduction"
           ],
-          "answer": "a letter",
-          "rationale": "“a letter” significa “una letra” en el contexto de esta sección.",
+          "answer": "an introduction",
+          "rationale": "“an introduction” significa “una presentación” en el contexto de esta sección.",
           "objective": "seguir una rutina sostenible de estudio"
         },
         {
           "id": "w01-mission-mc-7",
           "type": "multipleChoice",
-          "prompt": "Elige la mejor expresión en inglés para “un sonido”.",
+          "prompt": "Elige la mejor expresión en inglés para “identificar”.",
           "choices": [
-            "a syllable",
-            "stress",
-            "a sound",
-            "a word"
+            "to improve",
+            "an attempt",
+            "to identify",
+            "to correct"
           ],
-          "answer": "a sound",
-          "rationale": "“a sound” significa “un sonido” en el contexto de esta sección.",
+          "answer": "to identify",
+          "rationale": "“to identify” significa “identificar” en el contexto de esta sección.",
           "objective": "deletrear un nombre"
         },
         {
           "id": "w01-mission-mc-8",
           "type": "multipleChoice",
-          "prompt": "Elige la mejor expresión en inglés para “una palabra”.",
+          "prompt": "Elige la mejor expresión en inglés para “corregir”.",
           "choices": [
-            "to listen",
-            "a word",
-            "a syllable",
-            "stress"
+            "a goal",
+            "to correct",
+            "to improve",
+            "an attempt"
           ],
-          "answer": "a word",
-          "rationale": "“a word” significa “una palabra” en el contexto de esta sección.",
+          "answer": "to correct",
+          "rationale": "“to correct” significa “corregir” en el contexto de esta sección.",
           "objective": "reconocer la sílaba acentuada"
         },
         {
           "id": "w01-mission-cloze-1",
           "type": "cloze",
-          "prompt": "Completa en inglés: una sílaba → ____",
-          "answer": "a syllable",
+          "prompt": "Completa en inglés: mejorar → ____",
+          "answer": "to improve",
           "accepted": [
-            "a syllable"
+            "to improve"
           ],
           "accentPolicy": "english",
-          "rationale": "La expresión meta es “a syllable”.",
+          "rationale": "La expresión meta es “to improve”.",
           "objective": "deletrear un nombre"
         },
         {
           "id": "w01-mission-cloze-2",
           "type": "cloze",
-          "prompt": "Completa en inglés: el acento prosódico → ____",
-          "answer": "stress",
+          "prompt": "Completa en inglés: un intento → ____",
+          "answer": "an attempt",
           "accepted": [
-            "stress"
+            "an attempt"
           ],
           "accentPolicy": "english",
-          "rationale": "La expresión meta es “stress”.",
+          "rationale": "La expresión meta es “an attempt”.",
           "objective": "reconocer la sílaba acentuada"
         },
         {
           "id": "w01-mission-cloze-3",
           "type": "cloze",
-          "prompt": "Completa en inglés: escuchar → ____",
-          "answer": "to listen",
+          "prompt": "Completa en inglés: una meta → ____",
+          "answer": "a goal",
           "accepted": [
-            "to listen"
+            "a goal"
           ],
           "accentPolicy": "english",
-          "rationale": "La expresión meta es “to listen”.",
+          "rationale": "La expresión meta es “a goal”.",
           "objective": "seguir una rutina sostenible de estudio"
         },
         {
           "id": "w01-mission-cloze-4",
           "type": "cloze",
-          "prompt": "Completa en inglés: repetir → ____",
-          "answer": "to repeat",
+          "prompt": "Completa en inglés: un resultado → ____",
+          "answer": "a result",
           "accepted": [
-            "to repeat"
+            "a result"
           ],
           "accentPolicy": "english",
-          "rationale": "La expresión meta es “to repeat”.",
+          "rationale": "La expresión meta es “a result”.",
           "objective": "deletrear un nombre"
         },
         {
           "id": "w01-mission-cloze-5",
           "type": "cloze",
-          "prompt": "Completa en inglés: el alfabeto → ____",
-          "answer": "the alphabet",
+          "prompt": "Completa en inglés: grabar → ____",
+          "answer": "to record",
           "accepted": [
-            "the alphabet"
+            "to record"
           ],
           "accentPolicy": "english",
-          "rationale": "La expresión meta es “the alphabet”.",
+          "rationale": "La expresión meta es “to record”.",
           "objective": "reconocer la sílaba acentuada"
         },
         {
           "id": "w01-mission-cloze-6",
           "type": "cloze",
-          "prompt": "Completa en inglés: una letra → ____",
-          "answer": "a letter",
+          "prompt": "Completa en inglés: una presentación → ____",
+          "answer": "an introduction",
           "accepted": [
-            "a letter"
+            "an introduction"
           ],
           "accentPolicy": "english",
-          "rationale": "La expresión meta es “a letter”.",
+          "rationale": "La expresión meta es “an introduction”.",
           "objective": "seguir una rutina sostenible de estudio"
         },
         {
           "id": "w01-mission-cloze-7",
           "type": "cloze",
-          "prompt": "Completa en inglés: un sonido → ____",
-          "answer": "a sound",
+          "prompt": "Completa en inglés: identificar → ____",
+          "answer": "to identify",
           "accepted": [
-            "a sound"
+            "to identify"
           ],
           "accentPolicy": "english",
-          "rationale": "La expresión meta es “a sound”.",
+          "rationale": "La expresión meta es “to identify”.",
           "objective": "deletrear un nombre"
         },
         {
           "id": "w01-mission-cloze-8",
           "type": "cloze",
-          "prompt": "Completa en inglés: una palabra → ____",
-          "answer": "a word",
+          "prompt": "Completa en inglés: corregir → ____",
+          "answer": "to correct",
           "accepted": [
-            "a word"
+            "to correct"
           ],
           "accentPolicy": "english",
-          "rationale": "La expresión meta es “a word”.",
+          "rationale": "La expresión meta es “to correct”.",
           "objective": "reconocer la sílaba acentuada"
         },
         {
           "id": "w01-mission-order-1",
           "type": "ordering",
-          "prompt": "Significado en español: “Mi nombre tiene cinco letras.” Ordena las palabras y la puntuación en inglés.",
+          "prompt": "Significado en español: “Voy a grabar mi presentación.” Ordena las palabras y la puntuación en inglés.",
           "tokens": [
+            "my",
+            "introduction",
             ".",
-            "My",
-            "name",
-            "has",
-            "five",
-            "letters"
+            "I",
+            "am",
+            "going",
+            "to",
+            "record"
           ],
           "answers": [
             [
-              "My",
-              "name",
-              "has",
-              "five",
-              "letters",
+              "I",
+              "am",
+              "going",
+              "to",
+              "record",
+              "my",
+              "introduction",
               "."
             ]
           ],
-          "rationale": "Un orden natural es: My name has five letters. Significa: Mi nombre tiene cinco letras.",
+          "rationale": "Un orden natural es: I am going to record my introduction. Significa: Voy a grabar mi presentación.",
           "objective": "deletrear un nombre"
         },
         {
           "id": "w01-mission-order-2",
           "type": "ordering",
-          "prompt": "Significado en español: “La letra H tiene dos nombres comunes en el mundo.” Ordena las palabras y la puntuación en inglés.",
+          "prompt": "Significado en español: “Identifico la sílaba tónica en cada palabra.” Ordena las palabras y la puntuación en inglés.",
           "tokens": [
-            "around",
-            "the",
-            "world",
-            ".",
-            "The",
-            "letter",
-            "H",
-            "has",
-            "two",
-            "common",
-            "names"
-          ],
-          "answers": [
-            [
-              "The",
-              "letter",
-              "H",
-              "has",
-              "two",
-              "common",
-              "names",
-              "around",
-              "the",
-              "world",
-              "."
-            ]
-          ],
-          "rationale": "Un orden natural es: The letter H has two common names around the world. Significa: La letra H tiene dos nombres comunes en el mundo.",
-          "objective": "reconocer la sílaba acentuada"
-        },
-        {
-          "id": "w01-mission-order-3",
-          "type": "ordering",
-          "prompt": "Significado en español: “Escucho y repito cada palabra.” Ordena las palabras y la puntuación en inglés.",
-          "tokens": [
-            "and",
-            "repeat",
-            "each",
             "word",
             ".",
             "I",
-            "listen"
+            "identify",
+            "the",
+            "stressed",
+            "syllable",
+            "in",
+            "each"
           ],
           "answers": [
             [
               "I",
-              "listen",
-              "and",
-              "repeat",
+              "identify",
+              "the",
+              "stressed",
+              "syllable",
+              "in",
               "each",
               "word",
               "."
             ]
           ],
-          "rationale": "Un orden natural es: I listen and repeat each word. Significa: Escucho y repito cada palabra.",
+          "rationale": "Un orden natural es: I identify the stressed syllable in each word. Significa: Identifico la sílaba tónica en cada palabra.",
+          "objective": "reconocer la sílaba acentuada"
+        },
+        {
+          "id": "w01-mission-order-3",
+          "type": "ordering",
+          "prompt": "Significado en español: “Corrijo un error a la vez.” Ordena las palabras y la puntuación en inglés.",
+          "tokens": [
+            "correct",
+            "one",
+            "mistake",
+            "at",
+            "a",
+            "time",
+            ".",
+            "I"
+          ],
+          "answers": [
+            [
+              "I",
+              "correct",
+              "one",
+              "mistake",
+              "at",
+              "a",
+              "time",
+              "."
+            ]
+          ],
+          "rationale": "Un orden natural es: I correct one mistake at a time. Significa: Corrijo un error a la vez.",
           "objective": "seguir una rutina sostenible de estudio"
         },
         {
           "id": "w01-mission-order-4",
           "type": "ordering",
-          "prompt": "Significado en español: “¿Qué sílaba lleva el acento?” Ordena las palabras y la puntuación en inglés.",
+          "prompt": "Significado en español: “Mi meta es mejorar cada semana.” Ordena las palabras y la puntuación en inglés.",
           "tokens": [
-            "syllable",
-            "is",
-            "stressed",
-            "?",
-            "Which"
+            "to",
+            "improve",
+            "every",
+            "week",
+            ".",
+            "My",
+            "goal",
+            "is"
           ],
           "answers": [
             [
-              "Which",
-              "syllable",
+              "My",
+              "goal",
               "is",
-              "stressed",
-              "?"
+              "to",
+              "improve",
+              "every",
+              "week",
+              "."
             ]
           ],
-          "rationale": "Un orden natural es: Which syllable is stressed? Significa: ¿Qué sílaba lleva el acento?",
+          "rationale": "Un orden natural es: My goal is to improve every week. Significa: Mi meta es mejorar cada semana.",
           "objective": "deletrear un nombre"
         },
         {
           "id": "w01-mission-order-5",
           "type": "ordering",
-          "prompt": "Significado en español: “La práctica breve y frecuente funciona mejor.” Ordena las palabras y la puntuación en inglés.",
+          "prompt": "Significado en español: “Reviso el resultado de mi primer intento.” Ordena las palabras y la puntuación en inglés.",
           "tokens": [
+            "of",
+            "my",
+            "first",
+            "attempt",
             ".",
-            "Short",
-            ",",
-            "frequent",
-            "practice",
-            "works",
-            "best"
+            "I",
+            "review",
+            "the",
+            "result"
           ],
           "answers": [
             [
-              "Short",
-              ",",
-              "frequent",
-              "practice",
-              "works",
-              "best",
+              "I",
+              "review",
+              "the",
+              "result",
+              "of",
+              "my",
+              "first",
+              "attempt",
               "."
             ]
           ],
-          "rationale": "Un orden natural es: Short, frequent practice works best. Significa: La práctica breve y frecuente funciona mejor.",
+          "rationale": "Un orden natural es: I review the result of my first attempt. Significa: Reviso el resultado de mi primer intento.",
           "objective": "reconocer la sílaba acentuada"
         },
         {
           "id": "w01-mission-order-6",
           "type": "ordering",
-          "prompt": "Significado en español: “Por ejemplo: mi nombre tiene cinco letras.” Ordena las palabras y la puntuación en inglés.",
+          "prompt": "Significado en español: “Por ejemplo: voy a grabar mi presentación.” Ordena las palabras y la puntuación en inglés.",
           "tokens": [
-            "five",
-            "letters",
+            "am",
+            "going",
+            "to",
+            "record",
+            "my",
+            "introduction",
             ".",
             "For",
             "example",
             ",",
-            "my",
-            "name",
-            "has"
+            "i"
           ],
           "answers": [
             [
               "For",
               "example",
               ",",
+              "i",
+              "am",
+              "going",
+              "to",
+              "record",
               "my",
-              "name",
-              "has",
-              "five",
-              "letters",
+              "introduction",
               "."
             ]
           ],
-          "rationale": "Un orden natural es: For example, my name has five letters. Significa: Por ejemplo: mi nombre tiene cinco letras.",
+          "rationale": "Un orden natural es: For example, i am going to record my introduction. Significa: Por ejemplo: voy a grabar mi presentación.",
           "objective": "seguir una rutina sostenible de estudio"
         },
         {
           "id": "w01-mission-order-7",
           "type": "ordering",
-          "prompt": "Significado en español: “En este contexto: la letra H tiene dos nombres comunes en el mundo.” Ordena las palabras y la puntuación en inglés.",
+          "prompt": "Significado en español: “En este contexto: identifico la sílaba tónica en cada palabra.” Ordena las palabras y la puntuación en inglés.",
           "tokens": [
-            "context",
-            ",",
+            "i",
+            "identify",
             "the",
-            "letter",
-            "H",
-            "has",
-            "two",
-            "common",
-            "names",
-            "around",
-            "the",
-            "world",
+            "stressed",
+            "syllable",
+            "in",
+            "each",
+            "word",
             ".",
             "In",
-            "this"
+            "this",
+            "context",
+            ","
           ],
           "answers": [
             [
@@ -5153,39 +5135,38 @@
               "this",
               "context",
               ",",
+              "i",
+              "identify",
               "the",
-              "letter",
-              "H",
-              "has",
-              "two",
-              "common",
-              "names",
-              "around",
-              "the",
-              "world",
+              "stressed",
+              "syllable",
+              "in",
+              "each",
+              "word",
               "."
             ]
           ],
-          "rationale": "Un orden natural es: In this context, the letter H has two common names around the world. Significa: En este contexto: la letra H tiene dos nombres comunes en el mundo.",
+          "rationale": "Un orden natural es: In this context, i identify the stressed syllable in each word. Significa: En este contexto: identifico la sílaba tónica en cada palabra.",
           "objective": "deletrear un nombre"
         },
         {
           "id": "w01-mission-order-8",
           "type": "ordering",
-          "prompt": "Significado en español: “Según la situación: escucho y repito cada palabra.” Ordena las palabras y la puntuación en inglés.",
+          "prompt": "Significado en español: “Según la situación: corrijo un error a la vez.” Ordena las palabras y la puntuación en inglés.",
           "tokens": [
-            "and",
-            "repeat",
-            "each",
-            "word",
+            "correct",
+            "one",
+            "mistake",
+            "at",
+            "a",
+            "time",
             ".",
             "According",
             "to",
             "the",
             "situation",
             ",",
-            "i",
-            "listen"
+            "i"
           ],
           "answers": [
             [
@@ -5195,15 +5176,16 @@
               "situation",
               ",",
               "i",
-              "listen",
-              "and",
-              "repeat",
-              "each",
-              "word",
+              "correct",
+              "one",
+              "mistake",
+              "at",
+              "a",
+              "time",
               "."
             ]
           ],
-          "rationale": "Un orden natural es: According to the situation, i listen and repeat each word. Significa: Según la situación: escucho y repito cada palabra.",
+          "rationale": "Un orden natural es: According to the situation, i correct one mistake at a time. Significa: Según la situación: corrijo un error a la vez.",
           "objective": "reconocer la sílaba acentuada"
         }
       ],

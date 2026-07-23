@@ -2764,8 +2764,8 @@
         },
         {
           "heading": "Model set",
-          "body": "Mi nombre se escribe con cinco letras. La h no tiene sonido. Escucho y repito cada palabra. ¿Cuál es la sílaba tónica? La práctica breve y frecuente funciona mejor.",
-          "translation": "My name is spelled with five letters. The letter h has no sound. I listen to and repeat every word. Which is the stressed syllable? Brief, frequent practice works better."
+          "body": "La a es una vocal fuerte. Escribo mi nombre con mayúscula. ¿Cómo se pronuncia esta palabra? Deletrea tu apellido, por favor. La ortografía y el sonido no siempre coinciden.",
+          "translation": "A is a strong vowel. I write my name with a capital letter. How is this word pronounced? Spell your last name, please. Spelling and sound don't always match."
         },
         {
           "heading": "Contrastive practice",
@@ -2778,51 +2778,51 @@
       ],
       "vocabulary": [
         {
-          "target": "el alfabeto",
-          "meaning": "the alphabet"
+          "target": "la vocal",
+          "meaning": "the vowel"
         },
         {
-          "target": "la letra",
-          "meaning": "the letter"
+          "target": "la consonante",
+          "meaning": "the consonant"
         },
         {
-          "target": "el sonido",
-          "meaning": "the sound"
+          "target": "la mayúscula",
+          "meaning": "the capital letter"
         },
         {
-          "target": "la palabra",
-          "meaning": "the word"
+          "target": "la minúscula",
+          "meaning": "the lowercase letter"
         },
         {
-          "target": "la sílaba",
-          "meaning": "the syllable"
+          "target": "el guion",
+          "meaning": "the hyphen"
         },
         {
-          "target": "el acento",
-          "meaning": "the stress mark"
+          "target": "la ortografía",
+          "meaning": "the spelling"
         },
         {
-          "target": "escuchar",
-          "meaning": "to listen"
+          "target": "pronunciar",
+          "meaning": "to pronounce"
         },
         {
-          "target": "repetir",
-          "meaning": "to repeat"
+          "target": "deletrear",
+          "meaning": "to spell out"
         }
       ],
       "modelSentences": [
-        "Mi nombre se escribe con cinco letras.",
-        "La h no tiene sonido.",
-        "Escucho y repito cada palabra.",
-        "¿Cuál es la sílaba tónica?",
-        "La práctica breve y frecuente funciona mejor."
+        "La a es una vocal fuerte.",
+        "Escribo mi nombre con mayúscula.",
+        "¿Cómo se pronuncia esta palabra?",
+        "Deletrea tu apellido, por favor.",
+        "La ortografía y el sonido no siempre coinciden."
       ],
       "modelTranslations": [
-        "My name is spelled with five letters.",
-        "The letter h has no sound.",
-        "I listen to and repeat every word.",
-        "Which is the stressed syllable?",
-        "Brief, frequent practice works better."
+        "A is a strong vowel.",
+        "I write my name with a capital letter.",
+        "How is this word pronounced?",
+        "Spell your last name, please.",
+        "Spelling and sound don't always match."
       ],
       "readingAssignments": [],
       "slides": [
@@ -2844,8 +2844,8 @@
         {
           "title": "Model set",
           "body": [
-            "Mi nombre se escribe con cinco letras. La h no tiene sonido. Escucho y repito cada palabra. ¿Cuál es la sílaba tónica? La práctica breve y frecuente funciona mejor.",
-            "My name is spelled with five letters. The letter h has no sound. I listen to and repeat every word. Which is the stressed syllable? Brief, frequent practice works better."
+            "La a es una vocal fuerte. Escribo mi nombre con mayúscula. ¿Cómo se pronuncia esta palabra? Deletrea tu apellido, por favor. La ortografía y el sonido no siempre coinciden.",
+            "A is a strong vowel. I write my name with a capital letter. How is this word pronounced? Spell your last name, please. Spelling and sound don't always match."
           ]
         },
         {
@@ -2863,11 +2863,11 @@
         {
           "title": "Model language",
           "body": [
-            "Mi nombre se escribe con cinco letras. — My name is spelled with five letters.",
-            "La h no tiene sonido. — The letter h has no sound.",
-            "Escucho y repito cada palabra. — I listen to and repeat every word.",
-            "¿Cuál es la sílaba tónica? — Which is the stressed syllable?",
-            "La práctica breve y frecuente funciona mejor. — Brief, frequent practice works better."
+            "La a es una vocal fuerte. — A is a strong vowel.",
+            "Escribo mi nombre con mayúscula. — I write my name with a capital letter.",
+            "¿Cómo se pronuncia esta palabra? — How is this word pronounced?",
+            "Deletrea tu apellido, por favor. — Spell your last name, please.",
+            "La ortografía y el sonido no siempre coinciden. — Spelling and sound don't always match."
           ]
         },
         {
@@ -2884,397 +2884,397 @@
         "audio": "media/es/w01-patterns/narration.mp3",
         "video": "media/es/w01-patterns/lesson.mp4",
         "captions": "media/es/w01-patterns/captions.vtt",
-        "transcript": "Form and meaning. Spanish sound–spelling correspondence, the five stable vowels, syllables, stress, written accents, and punctuation.\n\nModel set. Mi nombre se escribe con cinco letras. La h no tiene sonido. Escucho y repito cada palabra. ¿Cuál es la sílaba tónica? La práctica breve y frecuente funciona mejor. My name is spelled with five letters. The letter h has no sound. I listen to and repeat every word. Which is the stressed syllable? Brief, frequent practice works better.\n\nContrastive practice. Change the person, time, number, or level of formality in each model. Preserve the communicative purpose while the grammar changes.\n\nProduction check. Say one original sentence for each function: spell a name; recognize a stressed syllable; build a sustainable study loop. Then write it and compare the spoken and written forms."
+        "transcript": "Form and meaning. Spanish sound–spelling correspondence, the five stable vowels, syllables, stress, written accents, and punctuation.\n\nModel set. La a es una vocal fuerte. Escribo mi nombre con mayúscula. ¿Cómo se pronuncia esta palabra? Deletrea tu apellido, por favor. La ortografía y el sonido no siempre coinciden. A is a strong vowel. I write my name with a capital letter. How is this word pronounced? Spell your last name, please. Spelling and sound don't always match.\n\nContrastive practice. Change the person, time, number, or level of formality in each model. Preserve the communicative purpose while the grammar changes.\n\nProduction check. Say one original sentence for each function: spell a name; recognize a stressed syllable; build a sustainable study loop. Then write it and compare the spoken and written forms."
       },
       "questions": [
         {
           "id": "w01-patterns-mc-1",
           "type": "multipleChoice",
-          "prompt": "Choose the best Spanish expression for “the letter”.",
+          "prompt": "Choose the best Spanish expression for “the consonant”.",
           "choices": [
-            "el sonido",
-            "la palabra",
-            "la sílaba",
-            "la letra"
+            "la mayúscula",
+            "la minúscula",
+            "el guion",
+            "la consonante"
           ],
-          "answer": "la letra",
-          "rationale": "“la letra” means “the letter” in this section's context.",
+          "answer": "la consonante",
+          "rationale": "“la consonante” means “the consonant” in this section's context.",
           "objective": "spell a name"
         },
         {
           "id": "w01-patterns-mc-2",
           "type": "multipleChoice",
-          "prompt": "Choose the best Spanish expression for “the sound”.",
+          "prompt": "Choose the best Spanish expression for “the capital letter”.",
           "choices": [
-            "la sílaba",
-            "el acento",
-            "el sonido",
-            "la palabra"
+            "el guion",
+            "la ortografía",
+            "la mayúscula",
+            "la minúscula"
           ],
-          "answer": "el sonido",
-          "rationale": "“el sonido” means “the sound” in this section's context.",
+          "answer": "la mayúscula",
+          "rationale": "“la mayúscula” means “the capital letter” in this section's context.",
           "objective": "recognize a stressed syllable"
         },
         {
           "id": "w01-patterns-mc-3",
           "type": "multipleChoice",
-          "prompt": "Choose the best Spanish expression for “the word”.",
+          "prompt": "Choose the best Spanish expression for “the lowercase letter”.",
           "choices": [
-            "escuchar",
-            "la palabra",
-            "la sílaba",
-            "el acento"
+            "pronunciar",
+            "la minúscula",
+            "el guion",
+            "la ortografía"
           ],
-          "answer": "la palabra",
-          "rationale": "“la palabra” means “the word” in this section's context.",
+          "answer": "la minúscula",
+          "rationale": "“la minúscula” means “the lowercase letter” in this section's context.",
           "objective": "build a sustainable study loop"
         },
         {
           "id": "w01-patterns-mc-4",
           "type": "multipleChoice",
-          "prompt": "Choose the best Spanish expression for “the syllable”.",
+          "prompt": "Choose the best Spanish expression for “the hyphen”.",
           "choices": [
-            "la sílaba",
-            "el acento",
-            "escuchar",
-            "repetir"
+            "el guion",
+            "la ortografía",
+            "pronunciar",
+            "deletrear"
           ],
-          "answer": "la sílaba",
-          "rationale": "“la sílaba” means “the syllable” in this section's context.",
+          "answer": "el guion",
+          "rationale": "“el guion” means “the hyphen” in this section's context.",
           "objective": "spell a name"
         },
         {
           "id": "w01-patterns-mc-5",
           "type": "multipleChoice",
-          "prompt": "Choose the best Spanish expression for “the stress mark”.",
+          "prompt": "Choose the best Spanish expression for “the spelling”.",
           "choices": [
-            "escuchar",
-            "repetir",
-            "el alfabeto",
-            "el acento"
+            "pronunciar",
+            "deletrear",
+            "la vocal",
+            "la ortografía"
           ],
-          "answer": "el acento",
-          "rationale": "“el acento” means “the stress mark” in this section's context.",
+          "answer": "la ortografía",
+          "rationale": "“la ortografía” means “the spelling” in this section's context.",
           "objective": "recognize a stressed syllable"
         },
         {
           "id": "w01-patterns-mc-6",
           "type": "multipleChoice",
-          "prompt": "Choose the best Spanish expression for “to listen”.",
+          "prompt": "Choose the best Spanish expression for “to pronounce”.",
           "choices": [
-            "el alfabeto",
-            "la letra",
-            "escuchar",
-            "repetir"
+            "la vocal",
+            "la consonante",
+            "pronunciar",
+            "deletrear"
           ],
-          "answer": "escuchar",
-          "rationale": "“escuchar” means “to listen” in this section's context.",
+          "answer": "pronunciar",
+          "rationale": "“pronunciar” means “to pronounce” in this section's context.",
           "objective": "build a sustainable study loop"
         },
         {
           "id": "w01-patterns-mc-7",
           "type": "multipleChoice",
-          "prompt": "Choose the best Spanish expression for “to repeat”.",
+          "prompt": "Choose the best Spanish expression for “to spell out”.",
           "choices": [
-            "el sonido",
-            "repetir",
-            "el alfabeto",
-            "la letra"
+            "la mayúscula",
+            "deletrear",
+            "la vocal",
+            "la consonante"
           ],
-          "answer": "repetir",
-          "rationale": "“repetir” means “to repeat” in this section's context.",
+          "answer": "deletrear",
+          "rationale": "“deletrear” means “to spell out” in this section's context.",
           "objective": "spell a name"
         },
         {
           "id": "w01-patterns-mc-8",
           "type": "multipleChoice",
-          "prompt": "Choose the best Spanish expression for “the alphabet”.",
+          "prompt": "Choose the best Spanish expression for “the vowel”.",
           "choices": [
-            "el alfabeto",
-            "la letra",
-            "el sonido",
-            "la palabra"
+            "la vocal",
+            "la consonante",
+            "la mayúscula",
+            "la minúscula"
           ],
-          "answer": "el alfabeto",
-          "rationale": "“el alfabeto” means “the alphabet” in this section's context.",
+          "answer": "la vocal",
+          "rationale": "“la vocal” means “the vowel” in this section's context.",
           "objective": "recognize a stressed syllable"
         },
         {
           "id": "w01-patterns-cloze-1",
           "type": "cloze",
-          "prompt": "Complete in Spanish: the letter → ____",
-          "answer": "la letra",
+          "prompt": "Complete in Spanish: the consonant → ____",
+          "answer": "la consonante",
           "accepted": [
-            "la letra"
+            "la consonante"
           ],
           "accentPolicy": "warn",
-          "rationale": "The target expression is “la letra”.",
+          "rationale": "The target expression is “la consonante”.",
           "objective": "spell a name"
         },
         {
           "id": "w01-patterns-cloze-2",
           "type": "cloze",
-          "prompt": "Complete in Spanish: the sound → ____",
-          "answer": "el sonido",
+          "prompt": "Complete in Spanish: the capital letter → ____",
+          "answer": "la mayúscula",
           "accepted": [
-            "el sonido"
+            "la mayúscula"
           ],
           "accentPolicy": "warn",
-          "rationale": "The target expression is “el sonido”.",
+          "rationale": "The target expression is “la mayúscula”.",
           "objective": "recognize a stressed syllable"
         },
         {
           "id": "w01-patterns-cloze-3",
           "type": "cloze",
-          "prompt": "Complete in Spanish: the word → ____",
-          "answer": "la palabra",
+          "prompt": "Complete in Spanish: the lowercase letter → ____",
+          "answer": "la minúscula",
           "accepted": [
-            "la palabra"
+            "la minúscula"
           ],
           "accentPolicy": "warn",
-          "rationale": "The target expression is “la palabra”.",
+          "rationale": "The target expression is “la minúscula”.",
           "objective": "build a sustainable study loop"
         },
         {
           "id": "w01-patterns-cloze-4",
           "type": "cloze",
-          "prompt": "Complete in Spanish: the syllable → ____",
-          "answer": "la sílaba",
+          "prompt": "Complete in Spanish: the hyphen → ____",
+          "answer": "el guion",
           "accepted": [
-            "la sílaba"
+            "el guion"
           ],
           "accentPolicy": "warn",
-          "rationale": "The target expression is “la sílaba”.",
+          "rationale": "The target expression is “el guion”.",
           "objective": "spell a name"
         },
         {
           "id": "w01-patterns-cloze-5",
           "type": "cloze",
-          "prompt": "Complete in Spanish: the stress mark → ____",
-          "answer": "el acento",
+          "prompt": "Complete in Spanish: the spelling → ____",
+          "answer": "la ortografía",
           "accepted": [
-            "el acento"
+            "la ortografía"
           ],
           "accentPolicy": "warn",
-          "rationale": "The target expression is “el acento”.",
+          "rationale": "The target expression is “la ortografía”.",
           "objective": "recognize a stressed syllable"
         },
         {
           "id": "w01-patterns-cloze-6",
           "type": "cloze",
-          "prompt": "Complete in Spanish: to listen → ____",
-          "answer": "escuchar",
+          "prompt": "Complete in Spanish: to pronounce → ____",
+          "answer": "pronunciar",
           "accepted": [
-            "escuchar"
+            "pronunciar"
           ],
           "accentPolicy": "warn",
-          "rationale": "The target expression is “escuchar”.",
+          "rationale": "The target expression is “pronunciar”.",
           "objective": "build a sustainable study loop"
         },
         {
           "id": "w01-patterns-cloze-7",
           "type": "cloze",
-          "prompt": "Complete in Spanish: to repeat → ____",
-          "answer": "repetir",
+          "prompt": "Complete in Spanish: to spell out → ____",
+          "answer": "deletrear",
           "accepted": [
-            "repetir"
+            "deletrear"
           ],
           "accentPolicy": "warn",
-          "rationale": "The target expression is “repetir”.",
+          "rationale": "The target expression is “deletrear”.",
           "objective": "spell a name"
         },
         {
           "id": "w01-patterns-cloze-8",
           "type": "cloze",
-          "prompt": "Complete in Spanish: the alphabet → ____",
-          "answer": "el alfabeto",
+          "prompt": "Complete in Spanish: the vowel → ____",
+          "answer": "la vocal",
           "accepted": [
-            "el alfabeto"
+            "la vocal"
           ],
           "accentPolicy": "warn",
-          "rationale": "The target expression is “el alfabeto”.",
+          "rationale": "The target expression is “la vocal”.",
           "objective": "recognize a stressed syllable"
         },
         {
           "id": "w01-patterns-order-1",
           "type": "ordering",
-          "prompt": "English meaning: “My name is spelled with five letters.” Put the Spanish words and punctuation in a natural order.",
+          "prompt": "English meaning: “A is a strong vowel.” Put the Spanish words and punctuation in a natural order.",
           "tokens": [
-            "se",
-            "escribe",
-            "con",
-            "cinco",
-            "letras",
+            "es",
+            "una",
+            "vocal",
+            "fuerte",
             ".",
-            "Mi",
-            "nombre"
+            "La",
+            "a"
           ],
           "answers": [
             [
-              "Mi",
-              "nombre",
-              "se",
-              "escribe",
-              "con",
-              "cinco",
-              "letras",
+              "La",
+              "a",
+              "es",
+              "una",
+              "vocal",
+              "fuerte",
               "."
             ]
           ],
-          "rationale": "A natural order is: Mi nombre se escribe con cinco letras. It means: My name is spelled with five letters.",
+          "rationale": "A natural order is: La a es una vocal fuerte. It means: A is a strong vowel.",
           "objective": "spell a name"
         },
         {
           "id": "w01-patterns-order-2",
           "type": "ordering",
-          "prompt": "English meaning: “The letter h has no sound.” Put the Spanish words and punctuation in a natural order.",
+          "prompt": "English meaning: “I write my name with a capital letter.” Put the Spanish words and punctuation in a natural order.",
           "tokens": [
-            "sonido",
+            "mayúscula",
             ".",
-            "La",
-            "h",
-            "no",
-            "tiene"
+            "Escribo",
+            "mi",
+            "nombre",
+            "con"
           ],
           "answers": [
             [
-              "La",
-              "h",
-              "no",
-              "tiene",
-              "sonido",
+              "Escribo",
+              "mi",
+              "nombre",
+              "con",
+              "mayúscula",
               "."
             ]
           ],
-          "rationale": "A natural order is: La h no tiene sonido. It means: The letter h has no sound.",
+          "rationale": "A natural order is: Escribo mi nombre con mayúscula. It means: I write my name with a capital letter.",
           "objective": "recognize a stressed syllable"
         },
         {
           "id": "w01-patterns-order-3",
           "type": "ordering",
-          "prompt": "English meaning: “I listen to and repeat every word.” Put the Spanish words and punctuation in a natural order.",
+          "prompt": "English meaning: “How is this word pronounced?” Put the Spanish words and punctuation in a natural order.",
           "tokens": [
-            "Escucho",
-            "y",
-            "repito",
-            "cada",
-            "palabra",
-            "."
+            "?",
+            "¿",
+            "Cómo",
+            "se",
+            "pronuncia",
+            "esta",
+            "palabra"
           ],
           "answers": [
             [
-              "Escucho",
-              "y",
-              "repito",
-              "cada",
+              "¿",
+              "Cómo",
+              "se",
+              "pronuncia",
+              "esta",
               "palabra",
-              "."
+              "?"
             ]
           ],
-          "rationale": "A natural order is: Escucho y repito cada palabra. It means: I listen to and repeat every word.",
+          "rationale": "A natural order is: ¿Cómo se pronuncia esta palabra? It means: How is this word pronounced?",
           "objective": "build a sustainable study loop"
         },
         {
           "id": "w01-patterns-order-4",
           "type": "ordering",
-          "prompt": "English meaning: “Which is the stressed syllable?” Put the Spanish words and punctuation in a natural order.",
+          "prompt": "English meaning: “Spell your last name, please.” Put the Spanish words and punctuation in a natural order.",
           "tokens": [
-            "Cuál",
-            "es",
-            "la",
-            "sílaba",
-            "tónica",
-            "?",
-            "¿"
+            "tu",
+            "apellido",
+            ",",
+            "por",
+            "favor",
+            ".",
+            "Deletrea"
           ],
           "answers": [
             [
-              "¿",
-              "Cuál",
-              "es",
-              "la",
-              "sílaba",
-              "tónica",
-              "?"
+              "Deletrea",
+              "tu",
+              "apellido",
+              ",",
+              "por",
+              "favor",
+              "."
             ]
           ],
-          "rationale": "A natural order is: ¿Cuál es la sílaba tónica? It means: Which is the stressed syllable?",
+          "rationale": "A natural order is: Deletrea tu apellido, por favor. It means: Spell your last name, please.",
           "objective": "spell a name"
         },
         {
           "id": "w01-patterns-order-5",
           "type": "ordering",
-          "prompt": "English meaning: “Brief, frequent practice works better.” Put the Spanish words and punctuation in a natural order.",
+          "prompt": "English meaning: “Spelling and sound don't always match.” Put the Spanish words and punctuation in a natural order.",
           "tokens": [
-            "breve",
+            "ortografía",
             "y",
-            "frecuente",
-            "funciona",
-            "mejor",
+            "el",
+            "sonido",
+            "no",
+            "siempre",
+            "coinciden",
             ".",
-            "La",
-            "práctica"
+            "La"
           ],
           "answers": [
             [
               "La",
-              "práctica",
-              "breve",
+              "ortografía",
               "y",
-              "frecuente",
-              "funciona",
-              "mejor",
+              "el",
+              "sonido",
+              "no",
+              "siempre",
+              "coinciden",
               "."
             ]
           ],
-          "rationale": "A natural order is: La práctica breve y frecuente funciona mejor. It means: Brief, frequent practice works better.",
+          "rationale": "A natural order is: La ortografía y el sonido no siempre coinciden. It means: Spelling and sound don't always match.",
           "objective": "recognize a stressed syllable"
         },
         {
           "id": "w01-patterns-order-6",
           "type": "ordering",
-          "prompt": "English meaning: “For example, my name is spelled with five letters.” Put the Spanish words and punctuation in a natural order.",
+          "prompt": "English meaning: “For example, a is a strong vowel.” Put the Spanish words and punctuation in a natural order.",
           "tokens": [
-            "ejemplo",
             ",",
-            "mi",
-            "nombre",
-            "se",
-            "escribe",
-            "con",
-            "cinco",
-            "letras",
+            "la",
+            "a",
+            "es",
+            "una",
+            "vocal",
+            "fuerte",
             ".",
-            "Por"
+            "Por",
+            "ejemplo"
           ],
           "answers": [
             [
               "Por",
               "ejemplo",
               ",",
-              "mi",
-              "nombre",
-              "se",
-              "escribe",
-              "con",
-              "cinco",
-              "letras",
+              "la",
+              "a",
+              "es",
+              "una",
+              "vocal",
+              "fuerte",
               "."
             ]
           ],
-          "rationale": "A natural order is: Por ejemplo, mi nombre se escribe con cinco letras. It means: For example, my name is spelled with five letters.",
+          "rationale": "A natural order is: Por ejemplo, la a es una vocal fuerte. It means: For example, a is a strong vowel.",
           "objective": "build a sustainable study loop"
         },
         {
           "id": "w01-patterns-order-7",
           "type": "ordering",
-          "prompt": "English meaning: “In this context, the letter h has no sound.” Put the Spanish words and punctuation in a natural order.",
+          "prompt": "English meaning: “In this context, i write my name with a capital letter.” Put the Spanish words and punctuation in a natural order.",
           "tokens": [
-            "la",
-            "h",
-            "no",
-            "tiene",
-            "sonido",
+            "escribo",
+            "mi",
+            "nombre",
+            "con",
+            "mayúscula",
             ".",
             "En",
             "este",
@@ -3287,32 +3287,33 @@
               "este",
               "contexto",
               ",",
-              "la",
-              "h",
-              "no",
-              "tiene",
-              "sonido",
+              "escribo",
+              "mi",
+              "nombre",
+              "con",
+              "mayúscula",
               "."
             ]
           ],
-          "rationale": "A natural order is: En este contexto, la h no tiene sonido. It means: In this context, the letter h has no sound.",
+          "rationale": "A natural order is: En este contexto, escribo mi nombre con mayúscula. It means: In this context, i write my name with a capital letter.",
           "objective": "spell a name"
         },
         {
           "id": "w01-patterns-order-8",
           "type": "ordering",
-          "prompt": "English meaning: “According to the situation, i listen to and repeat every word.” Put the Spanish words and punctuation in a natural order.",
+          "prompt": "English meaning: “According to the situation, how is this word pronounced?” Put the Spanish words and punctuation in a natural order.",
           "tokens": [
-            "repito",
-            "cada",
+            "Cómo",
+            "se",
+            "pronuncia",
+            "esta",
             "palabra",
-            ".",
+            "?",
             "Según",
             "la",
             "situación",
             ",",
-            "escucho",
-            "y"
+            "¿"
           ],
           "answers": [
             [
@@ -3320,15 +3321,16 @@
               "la",
               "situación",
               ",",
-              "escucho",
-              "y",
-              "repito",
-              "cada",
+              "¿",
+              "Cómo",
+              "se",
+              "pronuncia",
+              "esta",
               "palabra",
-              "."
+              "?"
             ]
           ],
-          "rationale": "A natural order is: Según la situación, escucho y repito cada palabra. It means: According to the situation, i listen to and repeat every word.",
+          "rationale": "A natural order is: Según la situación, ¿Cómo se pronuncia esta palabra? It means: According to the situation, how is this word pronounced?",
           "objective": "recognize a stressed syllable"
         }
       ],
@@ -3373,51 +3375,51 @@
       ],
       "vocabulary": [
         {
-          "target": "el alfabeto",
-          "meaning": "the alphabet"
+          "target": "entender",
+          "meaning": "to understand"
         },
         {
-          "target": "la letra",
-          "meaning": "the letter"
+          "target": "la pista",
+          "meaning": "the clue"
         },
         {
-          "target": "el sonido",
-          "meaning": "the sound"
+          "target": "la pausa",
+          "meaning": "the pause"
         },
         {
-          "target": "la palabra",
-          "meaning": "the word"
+          "target": "otra vez",
+          "meaning": "again"
         },
         {
-          "target": "la sílaba",
-          "meaning": "the syllable"
+          "target": "el significado",
+          "meaning": "the meaning"
         },
         {
-          "target": "el acento",
-          "meaning": "the stress mark"
+          "target": "adivinar",
+          "meaning": "to guess"
         },
         {
-          "target": "escuchar",
-          "meaning": "to listen"
+          "target": "la grabación",
+          "meaning": "the recording"
         },
         {
-          "target": "repetir",
-          "meaning": "to repeat"
+          "target": "el contexto",
+          "meaning": "the context"
         }
       ],
       "modelSentences": [
-        "Mi nombre se escribe con cinco letras.",
-        "La h no tiene sonido.",
-        "Escucho y repito cada palabra.",
-        "¿Cuál es la sílaba tónica?",
-        "La práctica breve y frecuente funciona mejor."
+        "No entiendo esa palabra.",
+        "¿Puedes repetirlo, por favor?",
+        "Escucho la grabación otra vez.",
+        "Adivino el significado por el contexto.",
+        "Hago una pausa antes de responder."
       ],
       "modelTranslations": [
-        "My name is spelled with five letters.",
-        "The letter h has no sound.",
-        "I listen to and repeat every word.",
-        "Which is the stressed syllable?",
-        "Brief, frequent practice works better."
+        "I don't understand that word.",
+        "Can you repeat that, please?",
+        "I listen to the recording again.",
+        "I guess the meaning from context.",
+        "I pause before answering."
       ],
       "reading": "Ana abre su cuaderno. Escucha una palabra, marca la sílaba fuerte y la repite. No busca la perfección; busca una mejora clara cada día.",
       "readingTranslation": "Ana opens her notebook. She listens to a word, marks the stressed syllable, and repeats it. She is not seeking perfection; she seeks one clear improvement each day.",
@@ -3493,11 +3495,11 @@
         {
           "title": "Model language",
           "body": [
-            "Mi nombre se escribe con cinco letras. — My name is spelled with five letters.",
-            "La h no tiene sonido. — The letter h has no sound.",
-            "Escucho y repito cada palabra. — I listen to and repeat every word.",
-            "¿Cuál es la sílaba tónica? — Which is the stressed syllable?",
-            "La práctica breve y frecuente funciona mejor. — Brief, frequent practice works better."
+            "No entiendo esa palabra. — I don't understand that word.",
+            "¿Puedes repetirlo, por favor? — Can you repeat that, please?",
+            "Escucho la grabación otra vez. — I listen to the recording again.",
+            "Adivino el significado por el contexto. — I guess the meaning from context.",
+            "Hago una pausa antes de responder. — I pause before answering."
           ]
         },
         {
@@ -3520,396 +3522,385 @@
         {
           "id": "w01-input-mc-1",
           "type": "multipleChoice",
-          "prompt": "Choose the best Spanish expression for “the sound”.",
+          "prompt": "Choose the best Spanish expression for “the pause”.",
           "choices": [
-            "la sílaba",
-            "el acento",
-            "el sonido",
-            "la palabra"
+            "el significado",
+            "adivinar",
+            "la pausa",
+            "otra vez"
           ],
-          "answer": "el sonido",
-          "rationale": "“el sonido” means “the sound” in this section's context.",
+          "answer": "la pausa",
+          "rationale": "“la pausa” means “the pause” in this section's context.",
           "objective": "spell a name"
         },
         {
           "id": "w01-input-mc-2",
           "type": "multipleChoice",
-          "prompt": "Choose the best Spanish expression for “the word”.",
+          "prompt": "Choose the best Spanish expression for “again”.",
           "choices": [
-            "escuchar",
-            "la palabra",
-            "la sílaba",
-            "el acento"
+            "la grabación",
+            "otra vez",
+            "el significado",
+            "adivinar"
           ],
-          "answer": "la palabra",
-          "rationale": "“la palabra” means “the word” in this section's context.",
+          "answer": "otra vez",
+          "rationale": "“otra vez” means “again” in this section's context.",
           "objective": "recognize a stressed syllable"
         },
         {
           "id": "w01-input-mc-3",
           "type": "multipleChoice",
-          "prompt": "Choose the best Spanish expression for “the syllable”.",
+          "prompt": "Choose the best Spanish expression for “the meaning”.",
           "choices": [
-            "la sílaba",
-            "el acento",
-            "escuchar",
-            "repetir"
+            "el significado",
+            "adivinar",
+            "la grabación",
+            "el contexto"
           ],
-          "answer": "la sílaba",
-          "rationale": "“la sílaba” means “the syllable” in this section's context.",
+          "answer": "el significado",
+          "rationale": "“el significado” means “the meaning” in this section's context.",
           "objective": "build a sustainable study loop"
         },
         {
           "id": "w01-input-mc-4",
           "type": "multipleChoice",
-          "prompt": "Choose the best Spanish expression for “the stress mark”.",
+          "prompt": "Choose the best Spanish expression for “to guess”.",
           "choices": [
-            "escuchar",
-            "repetir",
-            "el alfabeto",
-            "el acento"
+            "la grabación",
+            "el contexto",
+            "entender",
+            "adivinar"
           ],
-          "answer": "el acento",
-          "rationale": "“el acento” means “the stress mark” in this section's context.",
+          "answer": "adivinar",
+          "rationale": "“adivinar” means “to guess” in this section's context.",
           "objective": "spell a name"
         },
         {
           "id": "w01-input-mc-5",
           "type": "multipleChoice",
-          "prompt": "Choose the best Spanish expression for “to listen”.",
+          "prompt": "Choose the best Spanish expression for “the recording”.",
           "choices": [
-            "el alfabeto",
-            "la letra",
-            "escuchar",
-            "repetir"
+            "entender",
+            "la pista",
+            "la grabación",
+            "el contexto"
           ],
-          "answer": "escuchar",
-          "rationale": "“escuchar” means “to listen” in this section's context.",
+          "answer": "la grabación",
+          "rationale": "“la grabación” means “the recording” in this section's context.",
           "objective": "recognize a stressed syllable"
         },
         {
           "id": "w01-input-mc-6",
           "type": "multipleChoice",
-          "prompt": "Choose the best Spanish expression for “to repeat”.",
+          "prompt": "Choose the best Spanish expression for “the context”.",
           "choices": [
-            "el sonido",
-            "repetir",
-            "el alfabeto",
-            "la letra"
+            "la pausa",
+            "el contexto",
+            "entender",
+            "la pista"
           ],
-          "answer": "repetir",
-          "rationale": "“repetir” means “to repeat” in this section's context.",
+          "answer": "el contexto",
+          "rationale": "“el contexto” means “the context” in this section's context.",
           "objective": "build a sustainable study loop"
         },
         {
           "id": "w01-input-mc-7",
           "type": "multipleChoice",
-          "prompt": "Choose the best Spanish expression for “the alphabet”.",
+          "prompt": "Choose the best Spanish expression for “to understand”.",
           "choices": [
-            "el alfabeto",
-            "la letra",
-            "el sonido",
-            "la palabra"
+            "entender",
+            "la pista",
+            "la pausa",
+            "otra vez"
           ],
-          "answer": "el alfabeto",
-          "rationale": "“el alfabeto” means “the alphabet” in this section's context.",
+          "answer": "entender",
+          "rationale": "“entender” means “to understand” in this section's context.",
           "objective": "spell a name"
         },
         {
           "id": "w01-input-mc-8",
           "type": "multipleChoice",
-          "prompt": "Choose the best Spanish expression for “the letter”.",
+          "prompt": "Choose the best Spanish expression for “the clue”.",
           "choices": [
-            "el sonido",
-            "la palabra",
-            "la sílaba",
-            "la letra"
+            "la pausa",
+            "otra vez",
+            "el significado",
+            "la pista"
           ],
-          "answer": "la letra",
-          "rationale": "“la letra” means “the letter” in this section's context.",
+          "answer": "la pista",
+          "rationale": "“la pista” means “the clue” in this section's context.",
           "objective": "recognize a stressed syllable"
         },
         {
           "id": "w01-input-cloze-1",
           "type": "cloze",
-          "prompt": "Complete in Spanish: the sound → ____",
-          "answer": "el sonido",
+          "prompt": "Complete in Spanish: the pause → ____",
+          "answer": "la pausa",
           "accepted": [
-            "el sonido"
+            "la pausa"
           ],
           "accentPolicy": "warn",
-          "rationale": "The target expression is “el sonido”.",
+          "rationale": "The target expression is “la pausa”.",
           "objective": "spell a name"
         },
         {
           "id": "w01-input-cloze-2",
           "type": "cloze",
-          "prompt": "Complete in Spanish: the word → ____",
-          "answer": "la palabra",
+          "prompt": "Complete in Spanish: again → ____",
+          "answer": "otra vez",
           "accepted": [
-            "la palabra"
+            "otra vez"
           ],
           "accentPolicy": "warn",
-          "rationale": "The target expression is “la palabra”.",
+          "rationale": "The target expression is “otra vez”.",
           "objective": "recognize a stressed syllable"
         },
         {
           "id": "w01-input-cloze-3",
           "type": "cloze",
-          "prompt": "Complete in Spanish: the syllable → ____",
-          "answer": "la sílaba",
+          "prompt": "Complete in Spanish: the meaning → ____",
+          "answer": "el significado",
           "accepted": [
-            "la sílaba"
+            "el significado"
           ],
           "accentPolicy": "warn",
-          "rationale": "The target expression is “la sílaba”.",
+          "rationale": "The target expression is “el significado”.",
           "objective": "build a sustainable study loop"
         },
         {
           "id": "w01-input-cloze-4",
           "type": "cloze",
-          "prompt": "Complete in Spanish: the stress mark → ____",
-          "answer": "el acento",
+          "prompt": "Complete in Spanish: to guess → ____",
+          "answer": "adivinar",
           "accepted": [
-            "el acento"
+            "adivinar"
           ],
           "accentPolicy": "warn",
-          "rationale": "The target expression is “el acento”.",
+          "rationale": "The target expression is “adivinar”.",
           "objective": "spell a name"
         },
         {
           "id": "w01-input-cloze-5",
           "type": "cloze",
-          "prompt": "Complete in Spanish: to listen → ____",
-          "answer": "escuchar",
+          "prompt": "Complete in Spanish: the recording → ____",
+          "answer": "la grabación",
           "accepted": [
-            "escuchar"
+            "la grabación"
           ],
           "accentPolicy": "warn",
-          "rationale": "The target expression is “escuchar”.",
+          "rationale": "The target expression is “la grabación”.",
           "objective": "recognize a stressed syllable"
         },
         {
           "id": "w01-input-cloze-6",
           "type": "cloze",
-          "prompt": "Complete in Spanish: to repeat → ____",
-          "answer": "repetir",
+          "prompt": "Complete in Spanish: the context → ____",
+          "answer": "el contexto",
           "accepted": [
-            "repetir"
+            "el contexto"
           ],
           "accentPolicy": "warn",
-          "rationale": "The target expression is “repetir”.",
+          "rationale": "The target expression is “el contexto”.",
           "objective": "build a sustainable study loop"
         },
         {
           "id": "w01-input-cloze-7",
           "type": "cloze",
-          "prompt": "Complete in Spanish: the alphabet → ____",
-          "answer": "el alfabeto",
+          "prompt": "Complete in Spanish: to understand → ____",
+          "answer": "entender",
           "accepted": [
-            "el alfabeto"
+            "entender"
           ],
           "accentPolicy": "warn",
-          "rationale": "The target expression is “el alfabeto”.",
+          "rationale": "The target expression is “entender”.",
           "objective": "spell a name"
         },
         {
           "id": "w01-input-cloze-8",
           "type": "cloze",
-          "prompt": "Complete in Spanish: the letter → ____",
-          "answer": "la letra",
+          "prompt": "Complete in Spanish: the clue → ____",
+          "answer": "la pista",
           "accepted": [
-            "la letra"
+            "la pista"
           ],
           "accentPolicy": "warn",
-          "rationale": "The target expression is “la letra”.",
+          "rationale": "The target expression is “la pista”.",
           "objective": "recognize a stressed syllable"
         },
         {
           "id": "w01-input-order-1",
           "type": "ordering",
-          "prompt": "English meaning: “My name is spelled with five letters.” Put the Spanish words and punctuation in a natural order.",
+          "prompt": "English meaning: “I don't understand that word.” Put the Spanish words and punctuation in a natural order.",
           "tokens": [
-            "escribe",
-            "con",
-            "cinco",
-            "letras",
+            "palabra",
             ".",
-            "Mi",
-            "nombre",
-            "se"
+            "No",
+            "entiendo",
+            "esa"
           ],
           "answers": [
             [
-              "Mi",
-              "nombre",
-              "se",
-              "escribe",
-              "con",
-              "cinco",
-              "letras",
+              "No",
+              "entiendo",
+              "esa",
+              "palabra",
               "."
             ]
           ],
-          "rationale": "A natural order is: Mi nombre se escribe con cinco letras. It means: My name is spelled with five letters.",
+          "rationale": "A natural order is: No entiendo esa palabra. It means: I don't understand that word.",
           "objective": "spell a name"
         },
         {
           "id": "w01-input-order-2",
           "type": "ordering",
-          "prompt": "English meaning: “The letter h has no sound.” Put the Spanish words and punctuation in a natural order.",
+          "prompt": "English meaning: “Can you repeat that, please?” Put the Spanish words and punctuation in a natural order.",
           "tokens": [
-            ".",
-            "La",
-            "h",
-            "no",
-            "tiene",
-            "sonido"
+            "favor",
+            "?",
+            "¿",
+            "Puedes",
+            "repetirlo",
+            ",",
+            "por"
           ],
           "answers": [
             [
-              "La",
-              "h",
-              "no",
-              "tiene",
-              "sonido",
-              "."
+              "¿",
+              "Puedes",
+              "repetirlo",
+              ",",
+              "por",
+              "favor",
+              "?"
             ]
           ],
-          "rationale": "A natural order is: La h no tiene sonido. It means: The letter h has no sound.",
+          "rationale": "A natural order is: ¿Puedes repetirlo, por favor? It means: Can you repeat that, please?",
           "objective": "recognize a stressed syllable"
         },
         {
           "id": "w01-input-order-3",
           "type": "ordering",
-          "prompt": "English meaning: “I listen to and repeat every word.” Put the Spanish words and punctuation in a natural order.",
+          "prompt": "English meaning: “I listen to the recording again.” Put the Spanish words and punctuation in a natural order.",
           "tokens": [
-            "y",
-            "repito",
-            "cada",
-            "palabra",
+            "la",
+            "grabación",
+            "otra",
+            "vez",
             ".",
             "Escucho"
           ],
           "answers": [
             [
               "Escucho",
-              "y",
-              "repito",
-              "cada",
-              "palabra",
+              "la",
+              "grabación",
+              "otra",
+              "vez",
               "."
             ]
           ],
-          "rationale": "A natural order is: Escucho y repito cada palabra. It means: I listen to and repeat every word.",
+          "rationale": "A natural order is: Escucho la grabación otra vez. It means: I listen to the recording again.",
           "objective": "build a sustainable study loop"
         },
         {
           "id": "w01-input-order-4",
           "type": "ordering",
-          "prompt": "English meaning: “Which is the stressed syllable?” Put the Spanish words and punctuation in a natural order.",
+          "prompt": "English meaning: “I guess the meaning from context.” Put the Spanish words and punctuation in a natural order.",
           "tokens": [
-            "es",
-            "la",
-            "sílaba",
-            "tónica",
-            "?",
-            "¿",
-            "Cuál"
+            "significado",
+            "por",
+            "el",
+            "contexto",
+            ".",
+            "Adivino",
+            "el"
           ],
           "answers": [
             [
-              "¿",
-              "Cuál",
-              "es",
-              "la",
-              "sílaba",
-              "tónica",
-              "?"
+              "Adivino",
+              "el",
+              "significado",
+              "por",
+              "el",
+              "contexto",
+              "."
             ]
           ],
-          "rationale": "A natural order is: ¿Cuál es la sílaba tónica? It means: Which is the stressed syllable?",
+          "rationale": "A natural order is: Adivino el significado por el contexto. It means: I guess the meaning from context.",
           "objective": "spell a name"
         },
         {
           "id": "w01-input-order-5",
           "type": "ordering",
-          "prompt": "English meaning: “Brief, frequent practice works better.” Put the Spanish words and punctuation in a natural order.",
+          "prompt": "English meaning: “I pause before answering.” Put the Spanish words and punctuation in a natural order.",
           "tokens": [
-            "y",
-            "frecuente",
-            "funciona",
-            "mejor",
+            "de",
+            "responder",
             ".",
-            "La",
-            "práctica",
-            "breve"
+            "Hago",
+            "una",
+            "pausa",
+            "antes"
           ],
           "answers": [
             [
-              "La",
-              "práctica",
-              "breve",
-              "y",
-              "frecuente",
-              "funciona",
-              "mejor",
+              "Hago",
+              "una",
+              "pausa",
+              "antes",
+              "de",
+              "responder",
               "."
             ]
           ],
-          "rationale": "A natural order is: La práctica breve y frecuente funciona mejor. It means: Brief, frequent practice works better.",
+          "rationale": "A natural order is: Hago una pausa antes de responder. It means: I pause before answering.",
           "objective": "recognize a stressed syllable"
         },
         {
           "id": "w01-input-order-6",
           "type": "ordering",
-          "prompt": "English meaning: “For example, my name is spelled with five letters.” Put the Spanish words and punctuation in a natural order.",
+          "prompt": "English meaning: “For example, i don't understand that word.” Put the Spanish words and punctuation in a natural order.",
           "tokens": [
-            ",",
-            "mi",
-            "nombre",
-            "se",
-            "escribe",
-            "con",
-            "cinco",
-            "letras",
+            "esa",
+            "palabra",
             ".",
             "Por",
-            "ejemplo"
+            "ejemplo",
+            ",",
+            "no",
+            "entiendo"
           ],
           "answers": [
             [
               "Por",
               "ejemplo",
               ",",
-              "mi",
-              "nombre",
-              "se",
-              "escribe",
-              "con",
-              "cinco",
-              "letras",
+              "no",
+              "entiendo",
+              "esa",
+              "palabra",
               "."
             ]
           ],
-          "rationale": "A natural order is: Por ejemplo, mi nombre se escribe con cinco letras. It means: For example, my name is spelled with five letters.",
+          "rationale": "A natural order is: Por ejemplo, no entiendo esa palabra. It means: For example, i don't understand that word.",
           "objective": "build a sustainable study loop"
         },
         {
           "id": "w01-input-order-7",
           "type": "ordering",
-          "prompt": "English meaning: “In this context, the letter h has no sound.” Put the Spanish words and punctuation in a natural order.",
+          "prompt": "English meaning: “In this context, can you repeat that, please?” Put the Spanish words and punctuation in a natural order.",
           "tokens": [
-            "h",
-            "no",
-            "tiene",
-            "sonido",
-            ".",
+            "¿",
+            "Puedes",
+            "repetirlo",
+            ",",
+            "por",
+            "favor",
+            "?",
             "En",
             "este",
             "contexto",
-            ",",
-            "la"
+            ","
           ],
           "answers": [
             [
@@ -3917,32 +3908,33 @@
               "este",
               "contexto",
               ",",
-              "la",
-              "h",
-              "no",
-              "tiene",
-              "sonido",
-              "."
+              "¿",
+              "Puedes",
+              "repetirlo",
+              ",",
+              "por",
+              "favor",
+              "?"
             ]
           ],
-          "rationale": "A natural order is: En este contexto, la h no tiene sonido. It means: In this context, the letter h has no sound.",
+          "rationale": "A natural order is: En este contexto, ¿Puedes repetirlo, por favor? It means: In this context, can you repeat that, please?",
           "objective": "spell a name"
         },
         {
           "id": "w01-input-order-8",
           "type": "ordering",
-          "prompt": "English meaning: “According to the situation, i listen to and repeat every word.” Put the Spanish words and punctuation in a natural order.",
+          "prompt": "English meaning: “According to the situation, i listen to the recording again.” Put the Spanish words and punctuation in a natural order.",
           "tokens": [
-            "cada",
-            "palabra",
+            "otra",
+            "vez",
             ".",
             "Según",
             "la",
             "situación",
             ",",
             "escucho",
-            "y",
-            "repito"
+            "la",
+            "grabación"
           ],
           "answers": [
             [
@@ -3951,14 +3943,14 @@
               "situación",
               ",",
               "escucho",
-              "y",
-              "repito",
-              "cada",
-              "palabra",
+              "la",
+              "grabación",
+              "otra",
+              "vez",
               "."
             ]
           ],
-          "rationale": "A natural order is: Según la situación, escucho y repito cada palabra. It means: According to the situation, i listen to and repeat every word.",
+          "rationale": "A natural order is: Según la situación, escucho la grabación otra vez. It means: According to the situation, i listen to the recording again.",
           "objective": "recognize a stressed syllable"
         }
       ],
@@ -4002,51 +3994,51 @@
       ],
       "vocabulary": [
         {
-          "target": "el alfabeto",
-          "meaning": "the alphabet"
+          "target": "el país",
+          "meaning": "the country"
         },
         {
-          "target": "la letra",
-          "meaning": "the letter"
+          "target": "la región",
+          "meaning": "the region"
         },
         {
-          "target": "el sonido",
-          "meaning": "the sound"
+          "target": "la variante",
+          "meaning": "the variant"
         },
         {
-          "target": "la palabra",
-          "meaning": "the word"
+          "target": "la pronunciación",
+          "meaning": "the pronunciation"
         },
         {
-          "target": "la sílaba",
-          "meaning": "the syllable"
+          "target": "común",
+          "meaning": "common"
         },
         {
-          "target": "el acento",
-          "meaning": "the stress mark"
+          "target": "diferente",
+          "meaning": "different"
         },
         {
-          "target": "escuchar",
-          "meaning": "to listen"
+          "target": "el hispanohablante",
+          "meaning": "the Spanish speaker"
         },
         {
-          "target": "repetir",
-          "meaning": "to repeat"
+          "target": "en todas partes",
+          "meaning": "everywhere"
         }
       ],
       "modelSentences": [
-        "Mi nombre se escribe con cinco letras.",
-        "La h no tiene sonido.",
-        "Escucho y repito cada palabra.",
-        "¿Cuál es la sílaba tónica?",
-        "La práctica breve y frecuente funciona mejor."
+        "Cada país tiene su propia pronunciación.",
+        "No hay un solo acento correcto.",
+        "El español cambia según la región.",
+        "Hay hispanohablantes en todas partes del mundo.",
+        "Esta palabra es común en varios países."
       ],
       "modelTranslations": [
-        "My name is spelled with five letters.",
-        "The letter h has no sound.",
-        "I listen to and repeat every word.",
-        "Which is the stressed syllable?",
-        "Brief, frequent practice works better."
+        "Each country has its own pronunciation.",
+        "There is no single correct accent.",
+        "Spanish changes by region.",
+        "There are Spanish speakers all over the world.",
+        "This word is common in several countries."
       ],
       "culture": "Spanish is pluricentric: there is no single country that owns correct Spanish.",
       "readingAssignments": [],
@@ -4087,11 +4079,11 @@
         {
           "title": "Model language",
           "body": [
-            "Mi nombre se escribe con cinco letras. — My name is spelled with five letters.",
-            "La h no tiene sonido. — The letter h has no sound.",
-            "Escucho y repito cada palabra. — I listen to and repeat every word.",
-            "¿Cuál es la sílaba tónica? — Which is the stressed syllable?",
-            "La práctica breve y frecuente funciona mejor. — Brief, frequent practice works better."
+            "Cada país tiene su propia pronunciación. — Each country has its own pronunciation.",
+            "No hay un solo acento correcto. — There is no single correct accent.",
+            "El español cambia según la región. — Spanish changes by region.",
+            "Hay hispanohablantes en todas partes del mundo. — There are Spanish speakers all over the world.",
+            "Esta palabra es común en varios países. — This word is common in several countries."
           ]
         },
         {
@@ -4114,396 +4106,399 @@
         {
           "id": "w01-culture-mc-1",
           "type": "multipleChoice",
-          "prompt": "Choose the best Spanish expression for “the word”.",
+          "prompt": "Choose the best Spanish expression for “the pronunciation”.",
           "choices": [
-            "escuchar",
-            "la palabra",
-            "la sílaba",
-            "el acento"
+            "el hispanohablante",
+            "la pronunciación",
+            "común",
+            "diferente"
           ],
-          "answer": "la palabra",
-          "rationale": "“la palabra” means “the word” in this section's context.",
+          "answer": "la pronunciación",
+          "rationale": "“la pronunciación” means “the pronunciation” in this section's context.",
           "objective": "spell a name"
         },
         {
           "id": "w01-culture-mc-2",
           "type": "multipleChoice",
-          "prompt": "Choose the best Spanish expression for “the syllable”.",
+          "prompt": "Choose the best Spanish expression for “common”.",
           "choices": [
-            "la sílaba",
-            "el acento",
-            "escuchar",
-            "repetir"
+            "común",
+            "diferente",
+            "el hispanohablante",
+            "en todas partes"
           ],
-          "answer": "la sílaba",
-          "rationale": "“la sílaba” means “the syllable” in this section's context.",
+          "answer": "común",
+          "rationale": "“común” means “common” in this section's context.",
           "objective": "recognize a stressed syllable"
         },
         {
           "id": "w01-culture-mc-3",
           "type": "multipleChoice",
-          "prompt": "Choose the best Spanish expression for “the stress mark”.",
+          "prompt": "Choose the best Spanish expression for “different”.",
           "choices": [
-            "escuchar",
-            "repetir",
-            "el alfabeto",
-            "el acento"
+            "el hispanohablante",
+            "en todas partes",
+            "el país",
+            "diferente"
           ],
-          "answer": "el acento",
-          "rationale": "“el acento” means “the stress mark” in this section's context.",
+          "answer": "diferente",
+          "rationale": "“diferente” means “different” in this section's context.",
           "objective": "build a sustainable study loop"
         },
         {
           "id": "w01-culture-mc-4",
           "type": "multipleChoice",
-          "prompt": "Choose the best Spanish expression for “to listen”.",
+          "prompt": "Choose the best Spanish expression for “the Spanish speaker”.",
           "choices": [
-            "el alfabeto",
-            "la letra",
-            "escuchar",
-            "repetir"
+            "el país",
+            "la región",
+            "el hispanohablante",
+            "en todas partes"
           ],
-          "answer": "escuchar",
-          "rationale": "“escuchar” means “to listen” in this section's context.",
+          "answer": "el hispanohablante",
+          "rationale": "“el hispanohablante” means “the Spanish speaker” in this section's context.",
           "objective": "spell a name"
         },
         {
           "id": "w01-culture-mc-5",
           "type": "multipleChoice",
-          "prompt": "Choose the best Spanish expression for “to repeat”.",
+          "prompt": "Choose the best Spanish expression for “everywhere”.",
           "choices": [
-            "el sonido",
-            "repetir",
-            "el alfabeto",
-            "la letra"
+            "la variante",
+            "en todas partes",
+            "el país",
+            "la región"
           ],
-          "answer": "repetir",
-          "rationale": "“repetir” means “to repeat” in this section's context.",
+          "answer": "en todas partes",
+          "rationale": "“en todas partes” means “everywhere” in this section's context.",
           "objective": "recognize a stressed syllable"
         },
         {
           "id": "w01-culture-mc-6",
           "type": "multipleChoice",
-          "prompt": "Choose the best Spanish expression for “the alphabet”.",
+          "prompt": "Choose the best Spanish expression for “the country”.",
           "choices": [
-            "el alfabeto",
-            "la letra",
-            "el sonido",
-            "la palabra"
+            "el país",
+            "la región",
+            "la variante",
+            "la pronunciación"
           ],
-          "answer": "el alfabeto",
-          "rationale": "“el alfabeto” means “the alphabet” in this section's context.",
+          "answer": "el país",
+          "rationale": "“el país” means “the country” in this section's context.",
           "objective": "build a sustainable study loop"
         },
         {
           "id": "w01-culture-mc-7",
           "type": "multipleChoice",
-          "prompt": "Choose the best Spanish expression for “the letter”.",
+          "prompt": "Choose the best Spanish expression for “the region”.",
           "choices": [
-            "el sonido",
-            "la palabra",
-            "la sílaba",
-            "la letra"
+            "la variante",
+            "la pronunciación",
+            "común",
+            "la región"
           ],
-          "answer": "la letra",
-          "rationale": "“la letra” means “the letter” in this section's context.",
+          "answer": "la región",
+          "rationale": "“la región” means “the region” in this section's context.",
           "objective": "spell a name"
         },
         {
           "id": "w01-culture-mc-8",
           "type": "multipleChoice",
-          "prompt": "Choose the best Spanish expression for “the sound”.",
+          "prompt": "Choose the best Spanish expression for “the variant”.",
           "choices": [
-            "la sílaba",
-            "el acento",
-            "el sonido",
-            "la palabra"
+            "común",
+            "diferente",
+            "la variante",
+            "la pronunciación"
           ],
-          "answer": "el sonido",
-          "rationale": "“el sonido” means “the sound” in this section's context.",
+          "answer": "la variante",
+          "rationale": "“la variante” means “the variant” in this section's context.",
           "objective": "recognize a stressed syllable"
         },
         {
           "id": "w01-culture-cloze-1",
           "type": "cloze",
-          "prompt": "Complete in Spanish: the word → ____",
-          "answer": "la palabra",
+          "prompt": "Complete in Spanish: the pronunciation → ____",
+          "answer": "la pronunciación",
           "accepted": [
-            "la palabra"
+            "la pronunciación"
           ],
           "accentPolicy": "warn",
-          "rationale": "The target expression is “la palabra”.",
+          "rationale": "The target expression is “la pronunciación”.",
           "objective": "spell a name"
         },
         {
           "id": "w01-culture-cloze-2",
           "type": "cloze",
-          "prompt": "Complete in Spanish: the syllable → ____",
-          "answer": "la sílaba",
+          "prompt": "Complete in Spanish: common → ____",
+          "answer": "común",
           "accepted": [
-            "la sílaba"
+            "común"
           ],
           "accentPolicy": "warn",
-          "rationale": "The target expression is “la sílaba”.",
+          "rationale": "The target expression is “común”.",
           "objective": "recognize a stressed syllable"
         },
         {
           "id": "w01-culture-cloze-3",
           "type": "cloze",
-          "prompt": "Complete in Spanish: the stress mark → ____",
-          "answer": "el acento",
+          "prompt": "Complete in Spanish: different → ____",
+          "answer": "diferente",
           "accepted": [
-            "el acento"
+            "diferente"
           ],
           "accentPolicy": "warn",
-          "rationale": "The target expression is “el acento”.",
+          "rationale": "The target expression is “diferente”.",
           "objective": "build a sustainable study loop"
         },
         {
           "id": "w01-culture-cloze-4",
           "type": "cloze",
-          "prompt": "Complete in Spanish: to listen → ____",
-          "answer": "escuchar",
+          "prompt": "Complete in Spanish: the Spanish speaker → ____",
+          "answer": "el hispanohablante",
           "accepted": [
-            "escuchar"
+            "el hispanohablante"
           ],
           "accentPolicy": "warn",
-          "rationale": "The target expression is “escuchar”.",
+          "rationale": "The target expression is “el hispanohablante”.",
           "objective": "spell a name"
         },
         {
           "id": "w01-culture-cloze-5",
           "type": "cloze",
-          "prompt": "Complete in Spanish: to repeat → ____",
-          "answer": "repetir",
+          "prompt": "Complete in Spanish: everywhere → ____",
+          "answer": "en todas partes",
           "accepted": [
-            "repetir"
+            "en todas partes"
           ],
           "accentPolicy": "warn",
-          "rationale": "The target expression is “repetir”.",
+          "rationale": "The target expression is “en todas partes”.",
           "objective": "recognize a stressed syllable"
         },
         {
           "id": "w01-culture-cloze-6",
           "type": "cloze",
-          "prompt": "Complete in Spanish: the alphabet → ____",
-          "answer": "el alfabeto",
+          "prompt": "Complete in Spanish: the country → ____",
+          "answer": "el país",
           "accepted": [
-            "el alfabeto"
+            "el país"
           ],
           "accentPolicy": "warn",
-          "rationale": "The target expression is “el alfabeto”.",
+          "rationale": "The target expression is “el país”.",
           "objective": "build a sustainable study loop"
         },
         {
           "id": "w01-culture-cloze-7",
           "type": "cloze",
-          "prompt": "Complete in Spanish: the letter → ____",
-          "answer": "la letra",
+          "prompt": "Complete in Spanish: the region → ____",
+          "answer": "la región",
           "accepted": [
-            "la letra"
+            "la región"
           ],
           "accentPolicy": "warn",
-          "rationale": "The target expression is “la letra”.",
+          "rationale": "The target expression is “la región”.",
           "objective": "spell a name"
         },
         {
           "id": "w01-culture-cloze-8",
           "type": "cloze",
-          "prompt": "Complete in Spanish: the sound → ____",
-          "answer": "el sonido",
+          "prompt": "Complete in Spanish: the variant → ____",
+          "answer": "la variante",
           "accepted": [
-            "el sonido"
+            "la variante"
           ],
           "accentPolicy": "warn",
-          "rationale": "The target expression is “el sonido”.",
+          "rationale": "The target expression is “la variante”.",
           "objective": "recognize a stressed syllable"
         },
         {
           "id": "w01-culture-order-1",
           "type": "ordering",
-          "prompt": "English meaning: “My name is spelled with five letters.” Put the Spanish words and punctuation in a natural order.",
+          "prompt": "English meaning: “Each country has its own pronunciation.” Put the Spanish words and punctuation in a natural order.",
           "tokens": [
-            "con",
-            "cinco",
-            "letras",
+            "propia",
+            "pronunciación",
             ".",
-            "Mi",
-            "nombre",
-            "se",
-            "escribe"
+            "Cada",
+            "país",
+            "tiene",
+            "su"
           ],
           "answers": [
             [
-              "Mi",
-              "nombre",
-              "se",
-              "escribe",
-              "con",
-              "cinco",
-              "letras",
+              "Cada",
+              "país",
+              "tiene",
+              "su",
+              "propia",
+              "pronunciación",
               "."
             ]
           ],
-          "rationale": "A natural order is: Mi nombre se escribe con cinco letras. It means: My name is spelled with five letters.",
+          "rationale": "A natural order is: Cada país tiene su propia pronunciación. It means: Each country has its own pronunciation.",
           "objective": "spell a name"
         },
         {
           "id": "w01-culture-order-2",
           "type": "ordering",
-          "prompt": "English meaning: “The letter h has no sound.” Put the Spanish words and punctuation in a natural order.",
+          "prompt": "English meaning: “There is no single correct accent.” Put the Spanish words and punctuation in a natural order.",
           "tokens": [
-            "La",
-            "h",
-            "no",
-            "tiene",
-            "sonido",
-            "."
+            ".",
+            "No",
+            "hay",
+            "un",
+            "solo",
+            "acento",
+            "correcto"
           ],
           "answers": [
             [
-              "La",
-              "h",
-              "no",
-              "tiene",
-              "sonido",
+              "No",
+              "hay",
+              "un",
+              "solo",
+              "acento",
+              "correcto",
               "."
             ]
           ],
-          "rationale": "A natural order is: La h no tiene sonido. It means: The letter h has no sound.",
+          "rationale": "A natural order is: No hay un solo acento correcto. It means: There is no single correct accent.",
           "objective": "recognize a stressed syllable"
         },
         {
           "id": "w01-culture-order-3",
           "type": "ordering",
-          "prompt": "English meaning: “I listen to and repeat every word.” Put the Spanish words and punctuation in a natural order.",
+          "prompt": "English meaning: “Spanish changes by region.” Put the Spanish words and punctuation in a natural order.",
           "tokens": [
-            "repito",
-            "cada",
-            "palabra",
+            "español",
+            "cambia",
+            "según",
+            "la",
+            "región",
             ".",
-            "Escucho",
-            "y"
+            "El"
           ],
           "answers": [
             [
-              "Escucho",
-              "y",
-              "repito",
-              "cada",
-              "palabra",
+              "El",
+              "español",
+              "cambia",
+              "según",
+              "la",
+              "región",
               "."
             ]
           ],
-          "rationale": "A natural order is: Escucho y repito cada palabra. It means: I listen to and repeat every word.",
+          "rationale": "A natural order is: El español cambia según la región. It means: Spanish changes by region.",
           "objective": "build a sustainable study loop"
         },
         {
           "id": "w01-culture-order-4",
           "type": "ordering",
-          "prompt": "English meaning: “Which is the stressed syllable?” Put the Spanish words and punctuation in a natural order.",
+          "prompt": "English meaning: “There are Spanish speakers all over the world.” Put the Spanish words and punctuation in a natural order.",
           "tokens": [
-            "la",
-            "sílaba",
-            "tónica",
-            "?",
-            "¿",
-            "Cuál",
-            "es"
+            "en",
+            "todas",
+            "partes",
+            "del",
+            "mundo",
+            ".",
+            "Hay",
+            "hispanohablantes"
           ],
           "answers": [
             [
-              "¿",
-              "Cuál",
-              "es",
-              "la",
-              "sílaba",
-              "tónica",
-              "?"
+              "Hay",
+              "hispanohablantes",
+              "en",
+              "todas",
+              "partes",
+              "del",
+              "mundo",
+              "."
             ]
           ],
-          "rationale": "A natural order is: ¿Cuál es la sílaba tónica? It means: Which is the stressed syllable?",
+          "rationale": "A natural order is: Hay hispanohablantes en todas partes del mundo. It means: There are Spanish speakers all over the world.",
           "objective": "spell a name"
         },
         {
           "id": "w01-culture-order-5",
           "type": "ordering",
-          "prompt": "English meaning: “Brief, frequent practice works better.” Put the Spanish words and punctuation in a natural order.",
+          "prompt": "English meaning: “This word is common in several countries.” Put the Spanish words and punctuation in a natural order.",
           "tokens": [
-            "frecuente",
-            "funciona",
-            "mejor",
+            "en",
+            "varios",
+            "países",
             ".",
-            "La",
-            "práctica",
-            "breve",
-            "y"
+            "Esta",
+            "palabra",
+            "es",
+            "común"
           ],
           "answers": [
             [
-              "La",
-              "práctica",
-              "breve",
-              "y",
-              "frecuente",
-              "funciona",
-              "mejor",
+              "Esta",
+              "palabra",
+              "es",
+              "común",
+              "en",
+              "varios",
+              "países",
               "."
             ]
           ],
-          "rationale": "A natural order is: La práctica breve y frecuente funciona mejor. It means: Brief, frequent practice works better.",
+          "rationale": "A natural order is: Esta palabra es común en varios países. It means: This word is common in several countries.",
           "objective": "recognize a stressed syllable"
         },
         {
           "id": "w01-culture-order-6",
           "type": "ordering",
-          "prompt": "English meaning: “For example, my name is spelled with five letters.” Put the Spanish words and punctuation in a natural order.",
+          "prompt": "English meaning: “For example, each country has its own pronunciation.” Put the Spanish words and punctuation in a natural order.",
           "tokens": [
-            "mi",
-            "nombre",
-            "se",
-            "escribe",
-            "con",
-            "cinco",
-            "letras",
+            "país",
+            "tiene",
+            "su",
+            "propia",
+            "pronunciación",
             ".",
             "Por",
             "ejemplo",
-            ","
+            ",",
+            "cada"
           ],
           "answers": [
             [
               "Por",
               "ejemplo",
               ",",
-              "mi",
-              "nombre",
-              "se",
-              "escribe",
-              "con",
-              "cinco",
-              "letras",
+              "cada",
+              "país",
+              "tiene",
+              "su",
+              "propia",
+              "pronunciación",
               "."
             ]
           ],
-          "rationale": "A natural order is: Por ejemplo, mi nombre se escribe con cinco letras. It means: For example, my name is spelled with five letters.",
+          "rationale": "A natural order is: Por ejemplo, cada país tiene su propia pronunciación. It means: For example, each country has its own pronunciation.",
           "objective": "build a sustainable study loop"
         },
         {
           "id": "w01-culture-order-7",
           "type": "ordering",
-          "prompt": "English meaning: “In this context, the letter h has no sound.” Put the Spanish words and punctuation in a natural order.",
+          "prompt": "English meaning: “In this context, there is no single correct accent.” Put the Spanish words and punctuation in a natural order.",
           "tokens": [
-            "no",
-            "tiene",
-            "sonido",
+            "hay",
+            "un",
+            "solo",
+            "acento",
+            "correcto",
             ".",
             "En",
             "este",
             "contexto",
             ",",
-            "la",
-            "h"
+            "no"
           ],
           "answers": [
             [
@@ -4511,32 +4506,34 @@
               "este",
               "contexto",
               ",",
-              "la",
-              "h",
               "no",
-              "tiene",
-              "sonido",
+              "hay",
+              "un",
+              "solo",
+              "acento",
+              "correcto",
               "."
             ]
           ],
-          "rationale": "A natural order is: En este contexto, la h no tiene sonido. It means: In this context, the letter h has no sound.",
+          "rationale": "A natural order is: En este contexto, no hay un solo acento correcto. It means: In this context, there is no single correct accent.",
           "objective": "spell a name"
         },
         {
           "id": "w01-culture-order-8",
           "type": "ordering",
-          "prompt": "English meaning: “According to the situation, i listen to and repeat every word.” Put the Spanish words and punctuation in a natural order.",
+          "prompt": "English meaning: “According to the situation, spanish changes by region.” Put the Spanish words and punctuation in a natural order.",
           "tokens": [
-            "palabra",
+            "según",
+            "la",
+            "región",
             ".",
             "Según",
             "la",
             "situación",
             ",",
-            "escucho",
-            "y",
-            "repito",
-            "cada"
+            "el",
+            "español",
+            "cambia"
           ],
           "answers": [
             [
@@ -4544,15 +4541,16 @@
               "la",
               "situación",
               ",",
-              "escucho",
-              "y",
-              "repito",
-              "cada",
-              "palabra",
+              "el",
+              "español",
+              "cambia",
+              "según",
+              "la",
+              "región",
               "."
             ]
           ],
-          "rationale": "A natural order is: Según la situación, escucho y repito cada palabra. It means: According to the situation, i listen to and repeat every word.",
+          "rationale": "A natural order is: Según la situación, el español cambia según la región. It means: According to the situation, spanish changes by region.",
           "objective": "recognize a stressed syllable"
         }
       ],
@@ -4596,51 +4594,51 @@
       ],
       "vocabulary": [
         {
-          "target": "el alfabeto",
-          "meaning": "the alphabet"
+          "target": "grabar",
+          "meaning": "to record"
         },
         {
-          "target": "la letra",
-          "meaning": "the letter"
+          "target": "la presentación",
+          "meaning": "the introduction"
         },
         {
-          "target": "el sonido",
-          "meaning": "the sound"
+          "target": "identificar",
+          "meaning": "to identify"
         },
         {
-          "target": "la palabra",
-          "meaning": "the word"
+          "target": "corregir",
+          "meaning": "to correct"
         },
         {
-          "target": "la sílaba",
-          "meaning": "the syllable"
+          "target": "mejorar",
+          "meaning": "to improve"
         },
         {
-          "target": "el acento",
-          "meaning": "the stress mark"
+          "target": "el intento",
+          "meaning": "the attempt"
         },
         {
-          "target": "escuchar",
-          "meaning": "to listen"
+          "target": "la meta",
+          "meaning": "the goal"
         },
         {
-          "target": "repetir",
-          "meaning": "to repeat"
+          "target": "el resultado",
+          "meaning": "the result"
         }
       ],
       "modelSentences": [
-        "Mi nombre se escribe con cinco letras.",
-        "La h no tiene sonido.",
-        "Escucho y repito cada palabra.",
-        "¿Cuál es la sílaba tónica?",
-        "La práctica breve y frecuente funciona mejor."
+        "Voy a grabar mi presentación.",
+        "Identifico la sílaba tónica en cada palabra.",
+        "Corrijo un error a la vez.",
+        "Mi meta es mejorar cada semana.",
+        "Reviso el resultado de mi primer intento."
       ],
       "modelTranslations": [
-        "My name is spelled with five letters.",
-        "The letter h has no sound.",
-        "I listen to and repeat every word.",
-        "Which is the stressed syllable?",
-        "Brief, frequent practice works better."
+        "I am going to record my introduction.",
+        "I identify the stressed syllable in each word.",
+        "I correct one mistake at a time.",
+        "My goal is to improve every week.",
+        "I review the result of my first attempt."
       ],
       "mission": "Record a twenty-second introduction, spell your name, and identify the stressed syllable in five words.",
       "readingAssignments": [],
@@ -4681,11 +4679,11 @@
         {
           "title": "Model language",
           "body": [
-            "Mi nombre se escribe con cinco letras. — My name is spelled with five letters.",
-            "La h no tiene sonido. — The letter h has no sound.",
-            "Escucho y repito cada palabra. — I listen to and repeat every word.",
-            "¿Cuál es la sílaba tónica? — Which is the stressed syllable?",
-            "La práctica breve y frecuente funciona mejor. — Brief, frequent practice works better."
+            "Voy a grabar mi presentación. — I am going to record my introduction.",
+            "Identifico la sílaba tónica en cada palabra. — I identify the stressed syllable in each word.",
+            "Corrijo un error a la vez. — I correct one mistake at a time.",
+            "Mi meta es mejorar cada semana. — My goal is to improve every week.",
+            "Reviso el resultado de mi primer intento. — I review the result of my first attempt."
           ]
         },
         {
@@ -4708,396 +4706,396 @@
         {
           "id": "w01-mission-mc-1",
           "type": "multipleChoice",
-          "prompt": "Choose the best Spanish expression for “the syllable”.",
+          "prompt": "Choose the best Spanish expression for “to improve”.",
           "choices": [
-            "la sílaba",
-            "el acento",
-            "escuchar",
-            "repetir"
+            "mejorar",
+            "el intento",
+            "la meta",
+            "el resultado"
           ],
-          "answer": "la sílaba",
-          "rationale": "“la sílaba” means “the syllable” in this section's context.",
+          "answer": "mejorar",
+          "rationale": "“mejorar” means “to improve” in this section's context.",
           "objective": "spell a name"
         },
         {
           "id": "w01-mission-mc-2",
           "type": "multipleChoice",
-          "prompt": "Choose the best Spanish expression for “the stress mark”.",
+          "prompt": "Choose the best Spanish expression for “the attempt”.",
           "choices": [
-            "escuchar",
-            "repetir",
-            "el alfabeto",
-            "el acento"
+            "la meta",
+            "el resultado",
+            "grabar",
+            "el intento"
           ],
-          "answer": "el acento",
-          "rationale": "“el acento” means “the stress mark” in this section's context.",
+          "answer": "el intento",
+          "rationale": "“el intento” means “the attempt” in this section's context.",
           "objective": "recognize a stressed syllable"
         },
         {
           "id": "w01-mission-mc-3",
           "type": "multipleChoice",
-          "prompt": "Choose the best Spanish expression for “to listen”.",
+          "prompt": "Choose the best Spanish expression for “the goal”.",
           "choices": [
-            "el alfabeto",
-            "la letra",
-            "escuchar",
-            "repetir"
+            "grabar",
+            "la presentación",
+            "la meta",
+            "el resultado"
           ],
-          "answer": "escuchar",
-          "rationale": "“escuchar” means “to listen” in this section's context.",
+          "answer": "la meta",
+          "rationale": "“la meta” means “the goal” in this section's context.",
           "objective": "build a sustainable study loop"
         },
         {
           "id": "w01-mission-mc-4",
           "type": "multipleChoice",
-          "prompt": "Choose the best Spanish expression for “to repeat”.",
+          "prompt": "Choose the best Spanish expression for “the result”.",
           "choices": [
-            "el sonido",
-            "repetir",
-            "el alfabeto",
-            "la letra"
+            "identificar",
+            "el resultado",
+            "grabar",
+            "la presentación"
           ],
-          "answer": "repetir",
-          "rationale": "“repetir” means “to repeat” in this section's context.",
+          "answer": "el resultado",
+          "rationale": "“el resultado” means “the result” in this section's context.",
           "objective": "spell a name"
         },
         {
           "id": "w01-mission-mc-5",
           "type": "multipleChoice",
-          "prompt": "Choose the best Spanish expression for “the alphabet”.",
+          "prompt": "Choose the best Spanish expression for “to record”.",
           "choices": [
-            "el alfabeto",
-            "la letra",
-            "el sonido",
-            "la palabra"
+            "grabar",
+            "la presentación",
+            "identificar",
+            "corregir"
           ],
-          "answer": "el alfabeto",
-          "rationale": "“el alfabeto” means “the alphabet” in this section's context.",
+          "answer": "grabar",
+          "rationale": "“grabar” means “to record” in this section's context.",
           "objective": "recognize a stressed syllable"
         },
         {
           "id": "w01-mission-mc-6",
           "type": "multipleChoice",
-          "prompt": "Choose the best Spanish expression for “the letter”.",
+          "prompt": "Choose the best Spanish expression for “the introduction”.",
           "choices": [
-            "el sonido",
-            "la palabra",
-            "la sílaba",
-            "la letra"
+            "identificar",
+            "corregir",
+            "mejorar",
+            "la presentación"
           ],
-          "answer": "la letra",
-          "rationale": "“la letra” means “the letter” in this section's context.",
+          "answer": "la presentación",
+          "rationale": "“la presentación” means “the introduction” in this section's context.",
           "objective": "build a sustainable study loop"
         },
         {
           "id": "w01-mission-mc-7",
           "type": "multipleChoice",
-          "prompt": "Choose the best Spanish expression for “the sound”.",
+          "prompt": "Choose the best Spanish expression for “to identify”.",
           "choices": [
-            "la sílaba",
-            "el acento",
-            "el sonido",
-            "la palabra"
+            "mejorar",
+            "el intento",
+            "identificar",
+            "corregir"
           ],
-          "answer": "el sonido",
-          "rationale": "“el sonido” means “the sound” in this section's context.",
+          "answer": "identificar",
+          "rationale": "“identificar” means “to identify” in this section's context.",
           "objective": "spell a name"
         },
         {
           "id": "w01-mission-mc-8",
           "type": "multipleChoice",
-          "prompt": "Choose the best Spanish expression for “the word”.",
+          "prompt": "Choose the best Spanish expression for “to correct”.",
           "choices": [
-            "escuchar",
-            "la palabra",
-            "la sílaba",
-            "el acento"
+            "la meta",
+            "corregir",
+            "mejorar",
+            "el intento"
           ],
-          "answer": "la palabra",
-          "rationale": "“la palabra” means “the word” in this section's context.",
+          "answer": "corregir",
+          "rationale": "“corregir” means “to correct” in this section's context.",
           "objective": "recognize a stressed syllable"
         },
         {
           "id": "w01-mission-cloze-1",
           "type": "cloze",
-          "prompt": "Complete in Spanish: the syllable → ____",
-          "answer": "la sílaba",
+          "prompt": "Complete in Spanish: to improve → ____",
+          "answer": "mejorar",
           "accepted": [
-            "la sílaba"
+            "mejorar"
           ],
           "accentPolicy": "warn",
-          "rationale": "The target expression is “la sílaba”.",
+          "rationale": "The target expression is “mejorar”.",
           "objective": "spell a name"
         },
         {
           "id": "w01-mission-cloze-2",
           "type": "cloze",
-          "prompt": "Complete in Spanish: the stress mark → ____",
-          "answer": "el acento",
+          "prompt": "Complete in Spanish: the attempt → ____",
+          "answer": "el intento",
           "accepted": [
-            "el acento"
+            "el intento"
           ],
           "accentPolicy": "warn",
-          "rationale": "The target expression is “el acento”.",
+          "rationale": "The target expression is “el intento”.",
           "objective": "recognize a stressed syllable"
         },
         {
           "id": "w01-mission-cloze-3",
           "type": "cloze",
-          "prompt": "Complete in Spanish: to listen → ____",
-          "answer": "escuchar",
+          "prompt": "Complete in Spanish: the goal → ____",
+          "answer": "la meta",
           "accepted": [
-            "escuchar"
+            "la meta"
           ],
           "accentPolicy": "warn",
-          "rationale": "The target expression is “escuchar”.",
+          "rationale": "The target expression is “la meta”.",
           "objective": "build a sustainable study loop"
         },
         {
           "id": "w01-mission-cloze-4",
           "type": "cloze",
-          "prompt": "Complete in Spanish: to repeat → ____",
-          "answer": "repetir",
+          "prompt": "Complete in Spanish: the result → ____",
+          "answer": "el resultado",
           "accepted": [
-            "repetir"
+            "el resultado"
           ],
           "accentPolicy": "warn",
-          "rationale": "The target expression is “repetir”.",
+          "rationale": "The target expression is “el resultado”.",
           "objective": "spell a name"
         },
         {
           "id": "w01-mission-cloze-5",
           "type": "cloze",
-          "prompt": "Complete in Spanish: the alphabet → ____",
-          "answer": "el alfabeto",
+          "prompt": "Complete in Spanish: to record → ____",
+          "answer": "grabar",
           "accepted": [
-            "el alfabeto"
+            "grabar"
           ],
           "accentPolicy": "warn",
-          "rationale": "The target expression is “el alfabeto”.",
+          "rationale": "The target expression is “grabar”.",
           "objective": "recognize a stressed syllable"
         },
         {
           "id": "w01-mission-cloze-6",
           "type": "cloze",
-          "prompt": "Complete in Spanish: the letter → ____",
-          "answer": "la letra",
+          "prompt": "Complete in Spanish: the introduction → ____",
+          "answer": "la presentación",
           "accepted": [
-            "la letra"
+            "la presentación"
           ],
           "accentPolicy": "warn",
-          "rationale": "The target expression is “la letra”.",
+          "rationale": "The target expression is “la presentación”.",
           "objective": "build a sustainable study loop"
         },
         {
           "id": "w01-mission-cloze-7",
           "type": "cloze",
-          "prompt": "Complete in Spanish: the sound → ____",
-          "answer": "el sonido",
+          "prompt": "Complete in Spanish: to identify → ____",
+          "answer": "identificar",
           "accepted": [
-            "el sonido"
+            "identificar"
           ],
           "accentPolicy": "warn",
-          "rationale": "The target expression is “el sonido”.",
+          "rationale": "The target expression is “identificar”.",
           "objective": "spell a name"
         },
         {
           "id": "w01-mission-cloze-8",
           "type": "cloze",
-          "prompt": "Complete in Spanish: the word → ____",
-          "answer": "la palabra",
+          "prompt": "Complete in Spanish: to correct → ____",
+          "answer": "corregir",
           "accepted": [
-            "la palabra"
+            "corregir"
           ],
           "accentPolicy": "warn",
-          "rationale": "The target expression is “la palabra”.",
+          "rationale": "The target expression is “corregir”.",
           "objective": "recognize a stressed syllable"
         },
         {
           "id": "w01-mission-order-1",
           "type": "ordering",
-          "prompt": "English meaning: “My name is spelled with five letters.” Put the Spanish words and punctuation in a natural order.",
+          "prompt": "English meaning: “I am going to record my introduction.” Put the Spanish words and punctuation in a natural order.",
           "tokens": [
-            "cinco",
-            "letras",
             ".",
-            "Mi",
-            "nombre",
-            "se",
-            "escribe",
-            "con"
+            "Voy",
+            "a",
+            "grabar",
+            "mi",
+            "presentación"
           ],
           "answers": [
             [
-              "Mi",
-              "nombre",
-              "se",
-              "escribe",
-              "con",
-              "cinco",
-              "letras",
+              "Voy",
+              "a",
+              "grabar",
+              "mi",
+              "presentación",
               "."
             ]
           ],
-          "rationale": "A natural order is: Mi nombre se escribe con cinco letras. It means: My name is spelled with five letters.",
+          "rationale": "A natural order is: Voy a grabar mi presentación. It means: I am going to record my introduction.",
           "objective": "spell a name"
         },
         {
           "id": "w01-mission-order-2",
           "type": "ordering",
-          "prompt": "English meaning: “The letter h has no sound.” Put the Spanish words and punctuation in a natural order.",
+          "prompt": "English meaning: “I identify the stressed syllable in each word.” Put the Spanish words and punctuation in a natural order.",
           "tokens": [
-            "h",
-            "no",
-            "tiene",
-            "sonido",
             ".",
-            "La"
-          ],
-          "answers": [
-            [
-              "La",
-              "h",
-              "no",
-              "tiene",
-              "sonido",
-              "."
-            ]
-          ],
-          "rationale": "A natural order is: La h no tiene sonido. It means: The letter h has no sound.",
-          "objective": "recognize a stressed syllable"
-        },
-        {
-          "id": "w01-mission-order-3",
-          "type": "ordering",
-          "prompt": "English meaning: “I listen to and repeat every word.” Put the Spanish words and punctuation in a natural order.",
-          "tokens": [
+            "Identifico",
+            "la",
+            "sílaba",
+            "tónica",
+            "en",
             "cada",
-            "palabra",
-            ".",
-            "Escucho",
-            "y",
-            "repito"
+            "palabra"
           ],
           "answers": [
             [
-              "Escucho",
-              "y",
-              "repito",
+              "Identifico",
+              "la",
+              "sílaba",
+              "tónica",
+              "en",
               "cada",
               "palabra",
               "."
             ]
           ],
-          "rationale": "A natural order is: Escucho y repito cada palabra. It means: I listen to and repeat every word.",
+          "rationale": "A natural order is: Identifico la sílaba tónica en cada palabra. It means: I identify the stressed syllable in each word.",
+          "objective": "recognize a stressed syllable"
+        },
+        {
+          "id": "w01-mission-order-3",
+          "type": "ordering",
+          "prompt": "English meaning: “I correct one mistake at a time.” Put the Spanish words and punctuation in a natural order.",
+          "tokens": [
+            "error",
+            "a",
+            "la",
+            "vez",
+            ".",
+            "Corrijo",
+            "un"
+          ],
+          "answers": [
+            [
+              "Corrijo",
+              "un",
+              "error",
+              "a",
+              "la",
+              "vez",
+              "."
+            ]
+          ],
+          "rationale": "A natural order is: Corrijo un error a la vez. It means: I correct one mistake at a time.",
           "objective": "build a sustainable study loop"
         },
         {
           "id": "w01-mission-order-4",
           "type": "ordering",
-          "prompt": "English meaning: “Which is the stressed syllable?” Put the Spanish words and punctuation in a natural order.",
+          "prompt": "English meaning: “My goal is to improve every week.” Put the Spanish words and punctuation in a natural order.",
           "tokens": [
-            "sílaba",
-            "tónica",
-            "?",
-            "¿",
-            "Cuál",
+            "cada",
+            "semana",
+            ".",
+            "Mi",
+            "meta",
             "es",
-            "la"
+            "mejorar"
           ],
           "answers": [
             [
-              "¿",
-              "Cuál",
+              "Mi",
+              "meta",
               "es",
-              "la",
-              "sílaba",
-              "tónica",
-              "?"
+              "mejorar",
+              "cada",
+              "semana",
+              "."
             ]
           ],
-          "rationale": "A natural order is: ¿Cuál es la sílaba tónica? It means: Which is the stressed syllable?",
+          "rationale": "A natural order is: Mi meta es mejorar cada semana. It means: My goal is to improve every week.",
           "objective": "spell a name"
         },
         {
           "id": "w01-mission-order-5",
           "type": "ordering",
-          "prompt": "English meaning: “Brief, frequent practice works better.” Put the Spanish words and punctuation in a natural order.",
+          "prompt": "English meaning: “I review the result of my first attempt.” Put the Spanish words and punctuation in a natural order.",
           "tokens": [
-            "funciona",
-            "mejor",
+            "primer",
+            "intento",
             ".",
-            "La",
-            "práctica",
-            "breve",
-            "y",
-            "frecuente"
+            "Reviso",
+            "el",
+            "resultado",
+            "de",
+            "mi"
           ],
           "answers": [
             [
-              "La",
-              "práctica",
-              "breve",
-              "y",
-              "frecuente",
-              "funciona",
-              "mejor",
+              "Reviso",
+              "el",
+              "resultado",
+              "de",
+              "mi",
+              "primer",
+              "intento",
               "."
             ]
           ],
-          "rationale": "A natural order is: La práctica breve y frecuente funciona mejor. It means: Brief, frequent practice works better.",
+          "rationale": "A natural order is: Reviso el resultado de mi primer intento. It means: I review the result of my first attempt.",
           "objective": "recognize a stressed syllable"
         },
         {
           "id": "w01-mission-order-6",
           "type": "ordering",
-          "prompt": "English meaning: “For example, my name is spelled with five letters.” Put the Spanish words and punctuation in a natural order.",
+          "prompt": "English meaning: “For example, i am going to record my introduction.” Put the Spanish words and punctuation in a natural order.",
           "tokens": [
-            "nombre",
-            "se",
-            "escribe",
-            "con",
-            "cinco",
-            "letras",
+            "mi",
+            "presentación",
             ".",
             "Por",
             "ejemplo",
             ",",
-            "mi"
+            "voy",
+            "a",
+            "grabar"
           ],
           "answers": [
             [
               "Por",
               "ejemplo",
               ",",
+              "voy",
+              "a",
+              "grabar",
               "mi",
-              "nombre",
-              "se",
-              "escribe",
-              "con",
-              "cinco",
-              "letras",
+              "presentación",
               "."
             ]
           ],
-          "rationale": "A natural order is: Por ejemplo, mi nombre se escribe con cinco letras. It means: For example, my name is spelled with five letters.",
+          "rationale": "A natural order is: Por ejemplo, voy a grabar mi presentación. It means: For example, i am going to record my introduction.",
           "objective": "build a sustainable study loop"
         },
         {
           "id": "w01-mission-order-7",
           "type": "ordering",
-          "prompt": "English meaning: “In this context, the letter h has no sound.” Put the Spanish words and punctuation in a natural order.",
+          "prompt": "English meaning: “In this context, i identify the stressed syllable in each word.” Put the Spanish words and punctuation in a natural order.",
           "tokens": [
-            "tiene",
-            "sonido",
+            "la",
+            "sílaba",
+            "tónica",
+            "en",
+            "cada",
+            "palabra",
             ".",
             "En",
             "este",
             "contexto",
             ",",
-            "la",
-            "h",
-            "no"
+            "identifico"
           ],
           "answers": [
             [
@@ -5105,32 +5103,35 @@
               "este",
               "contexto",
               ",",
+              "identifico",
               "la",
-              "h",
-              "no",
-              "tiene",
-              "sonido",
+              "sílaba",
+              "tónica",
+              "en",
+              "cada",
+              "palabra",
               "."
             ]
           ],
-          "rationale": "A natural order is: En este contexto, la h no tiene sonido. It means: In this context, the letter h has no sound.",
+          "rationale": "A natural order is: En este contexto, identifico la sílaba tónica en cada palabra. It means: In this context, i identify the stressed syllable in each word.",
           "objective": "spell a name"
         },
         {
           "id": "w01-mission-order-8",
           "type": "ordering",
-          "prompt": "English meaning: “According to the situation, i listen to and repeat every word.” Put the Spanish words and punctuation in a natural order.",
+          "prompt": "English meaning: “According to the situation, i correct one mistake at a time.” Put the Spanish words and punctuation in a natural order.",
           "tokens": [
+            "la",
+            "vez",
             ".",
             "Según",
             "la",
             "situación",
             ",",
-            "escucho",
-            "y",
-            "repito",
-            "cada",
-            "palabra"
+            "corrijo",
+            "un",
+            "error",
+            "a"
           ],
           "answers": [
             [
@@ -5138,15 +5139,16 @@
               "la",
               "situación",
               ",",
-              "escucho",
-              "y",
-              "repito",
-              "cada",
-              "palabra",
+              "corrijo",
+              "un",
+              "error",
+              "a",
+              "la",
+              "vez",
               "."
             ]
           ],
-          "rationale": "A natural order is: Según la situación, escucho y repito cada palabra. It means: According to the situation, i listen to and repeat every word.",
+          "rationale": "A natural order is: Según la situación, corrijo un error a la vez. It means: According to the situation, i correct one mistake at a time.",
           "objective": "recognize a stressed syllable"
         }
       ],
