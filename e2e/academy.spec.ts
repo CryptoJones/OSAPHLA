@@ -15,6 +15,7 @@ async function saveSpanishSettings(page: Page) {
 
 test("new learners choose a course and receive native-language settings guidance", async ({ page }) => {
   await page.goto("/");
+  await expect(page.locator('a[href="https://github.com/CryptoJones/OSAPHLA"]')).toHaveCount(2);
   await expect(page.getByRole("heading", { name: "What would you like to learn?" })).toBeVisible();
   await expect(page.getByText("¿Qué te gustaría aprender?")).toBeVisible();
   await expect(page.locator(".course-flags").filter({ hasText: "🇺🇸 🇬🇧" })).toBeVisible();
@@ -25,8 +26,10 @@ test("new learners choose a course and receive native-language settings guidance
   await expect(page.getByText("Selecciona tus ajustes de pantalla preferidos, desplázate hasta el final y haz clic en «Guardar» para comenzar el curso.")).toBeVisible();
   await page.getByRole("button", { name: "Continuar" }).click();
   await expect(page.getByRole("heading", { name: "Adapta el curso a tu visión." })).toBeVisible();
+  await expect(page.getByRole("link", { name: "Explora el código en GitHub" })).toHaveAttribute("href", "https://github.com/CryptoJones/OSAPHLA");
   await page.getByRole("button", { name: "Guardar", exact: true }).click();
   await expect(page.getByRole("heading", { name: "Aprende inglés útil, no una racha." })).toBeVisible();
+  await expect(page.locator('a[href="https://github.com/CryptoJones/OSAPHLA"]')).toHaveCount(2);
   await page.getByRole("link", { name: "Curso", exact: true }).click();
   await expect(page.getByRole("heading", { name: "Mapa del curso de 36 semanas" })).toBeVisible();
   await page.getByRole("link", { name: /Sección 1,/ }).click();

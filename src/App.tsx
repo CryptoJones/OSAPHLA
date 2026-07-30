@@ -15,6 +15,7 @@ import { SettingsPage } from "./components/Settings";
 
 const spanish = spanishJson as Course;
 const english = englishJson as Course;
+const repositoryUrl = "https://github.com/CryptoJones/OSAPHLA";
 
 function CourseChooser({ force = false }: { force?: boolean }) {
   const { settings, update } = useTheme();
@@ -23,10 +24,10 @@ function CourseChooser({ force = false }: { force?: boolean }) {
   const destination = (slug: Course["slug"]) => settings.onboardingComplete ? `/${slug}` : `/${slug}/settings?welcome=1`;
   return <main className="course-chooser" id="main-content">
     <section className="chooser-intro" aria-labelledby="course-choice-title">
-      <div className="chooser-brand" aria-label="OSAPHLA">
+      <a className="chooser-brand" href={repositoryUrl} target="_blank" rel="noreferrer" aria-label="OSAPHLA source code on GitHub (opens in a new tab)">
         <span className="brand-mark" aria-hidden="true">O</span>
         <span><strong>OSAPHLA</strong><small>Open language academy</small></span>
-      </div>
+      </a>
       <div>
         <p className="eyebrow">Private · accessible · open source</p>
         <h1 id="course-choice-title" lang="en">What would you like to learn?</h1>
@@ -57,7 +58,7 @@ function CourseChooser({ force = false }: { force?: boolean }) {
           <small lang="en">Instructions and support in English</small>
         </Link>
       </div>
-      <p className="choice-access-note"><span aria-hidden="true">◉</span> Visual comfort setup comes next. No account required.</p>
+      <p className="choice-access-note"><span aria-hidden="true">◉</span> Visual comfort setup comes next. No account required. <a href={repositoryUrl} target="_blank" rel="noreferrer">View the source on GitHub ↗</a></p>
     </section>
   </main>;
 }
@@ -119,12 +120,13 @@ function Layout({ children }: { children: React.ReactNode }) {
         <NavLink to={path("settings")}><span aria-hidden="true">◐</span><span>{copy.display}</span></NavLink>
       </nav>
       <div className="site-header-tools">
+        <a className="source-link" href={repositoryUrl} target="_blank" rel="noreferrer"><span aria-hidden="true">⌘</span><span>{course.instructionLocale === "es-419" ? "Código en GitHub" : "Source on GitHub"}</span></a>
         <div className="privacy-note"><span aria-hidden="true">●</span><span>{course.instructionLocale === "es-419" ? "Progreso local" : "Local progress"}</span></div>
         <CourseMenu />
       </div>
     </header>
     <main id="main-content" tabIndex={-1}>{children}</main>
-    <footer className="site-footer"><strong>OSAPHLA</strong><span>{copy.footer}</span></footer>
+    <footer className="site-footer"><strong>OSAPHLA</strong><span>{copy.footer}</span><a href={repositoryUrl} target="_blank" rel="noreferrer">{course.instructionLocale === "es-419" ? "Explorar el código en GitHub ↗" : "Explore the source on GitHub ↗"}</a></footer>
   </div>;
 }
 
