@@ -1,4 +1,4 @@
-import { useEffect, useRef, useState } from "react";
+import { useLayoutEffect, useRef, useState } from "react";
 import { useNavigate } from "react-router-dom";
 import { useCourse } from "../course";
 import { exportLearningData, importLearningData } from "../lib/db";
@@ -115,7 +115,10 @@ export function ThemeLab({ firstRun = false }: { firstRun?: boolean }) {
   const navigate = useNavigate();
   const [showWelcome, setShowWelcome] = useState(firstRun);
   const welcomeRef = useRef<HTMLDialogElement>(null);
-  useEffect(() => { if (showWelcome && welcomeRef.current && !welcomeRef.current.open) welcomeRef.current.showModal(); }, [showWelcome]);
+  useLayoutEffect(() => {
+    const dialog = welcomeRef.current;
+    if (showWelcome && dialog && !dialog.open) dialog.showModal();
+  }, [showWelcome]);
   return <div className={firstRun ? "onboarding" : "page"}>
     {showWelcome && <dialog ref={welcomeRef} className="onboarding-dialog" aria-labelledby="onboarding-message" onCancel={() => setShowWelcome(false)}><p id="onboarding-message">{spanish ? "Selecciona tus ajustes de pantalla preferidos, desplázate hasta el final y haz clic en «Guardar» para comenzar el curso." : "Select your preferred Display Settings, Scroll to the bottom and click 'Save' to start the course."}</p><button className="button primary" onClick={() => setShowWelcome(false)}>{spanish ? "Continuar" : "Continue"}</button></dialog>}
     <header className="page-title"><p className="eyebrow">{spanish ? "Laboratorio de comodidad visual" : "Visual comfort lab"}</p><h1>{spanish ? "Adapta el curso a tu visión." : "Make the course fit your vision."}</h1><p>{spanish ? "No existe un tema correcto. Compara contenido real, cambia un control a la vez y vuelve cuando cambien tus necesidades o tu entorno." : "There is no correct theme. Compare real content, change one control at a time, and return whenever your needs or environment change."}</p></header>

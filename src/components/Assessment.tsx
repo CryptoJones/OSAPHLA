@@ -73,7 +73,7 @@ export function Assessment({ course, section, onComplete }: { course: Course; se
       <ol className="question-list">
         {questions.map((question, index) => { const locked = submitted && results[index].correct; return <li key={question.id} className={submitted ? (results[index].correct ? "correct" : "incorrect") : ""}>
           <QuestionInput question={question} value={answers[question.id]} onChange={(value) => answer(question.id, value, locked)} disabled={locked} number={index + 1} targetLang={course.targetLocale.slice(0, 2)} spanish={spanish} />
-          {submitted && <div className="feedback" role="note"><strong>{results[index].correct ? (spanish ? "Correcto." : "Correct.") : (spanish ? "Corrige esto." : "Repair this.")}</strong> {question.rationale}{results[index].accentWarning && (spanish ? " La respuesta comunica la palabra, pero debes restaurar el acento escrito." : " Your answer communicated the word, but restore the written accent.")}</div>}
+          {submitted && <div className="feedback" role="status"><strong>{results[index].correct ? (spanish ? "Correcto." : "Correct.") : (spanish ? "Corrige esto." : "Repair this.")}</strong> {question.rationale}{results[index].accentWarning && (spanish ? " La respuesta comunica la palabra, pero debes restaurar el acento escrito." : " Your answer communicated the word, but restore the written accent.")}</div>}
         </li>; })}
       </ol>
       <div id="assessment-status" className={`assessment-status ${submitted ? (score >= section.masteryThreshold ? "pass" : "review") : ""}`} role="status" tabIndex={-1}>

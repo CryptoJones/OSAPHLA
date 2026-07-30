@@ -22,21 +22,43 @@ function CourseChooser({ force = false }: { force?: boolean }) {
   if (settings.onboardingComplete && !force) return <Navigate to={`/${settings.selectedCourse ?? "es"}`} replace />;
   const destination = (slug: Course["slug"]) => settings.onboardingComplete ? `/${slug}` : `/${slug}/settings?welcome=1`;
   return <main className="course-chooser" id="main-content">
-    <header>
-      <p className="eyebrow">OSAPHLA</p>
-      <h1 lang="en">What would you like to learn?</h1>
-      <p lang="es">¿Qué te gustaría aprender?</p>
-    </header>
-    <div className="course-choice-grid">
-      <Link className="course-choice" to={destination("en")} onClick={() => update({ selectedCourse: "en" })} aria-label="Learn English, Inglés para hispanohablantes">
-        <span className="course-flags" aria-hidden="true">{english.flags.join(" ")}</span>
-        <strong lang="es">Inglés</strong><span lang="es">Inglés para hispanohablantes</span>
-      </Link>
-      <Link className="course-choice" to={destination("es")} onClick={() => update({ selectedCourse: "es" })} aria-label="Aprender español, Spanish for English speakers">
-        <span className="course-flags" aria-hidden="true">{spanish.flags.join(" ")}</span>
-        <strong lang="en">Spanish</strong><span lang="en">Spanish for English speakers</span>
-      </Link>
-    </div>
+    <section className="chooser-intro" aria-labelledby="course-choice-title">
+      <div className="chooser-brand" aria-label="OSAPHLA">
+        <span className="brand-mark" aria-hidden="true">O</span>
+        <span><strong>OSAPHLA</strong><small>Open language academy</small></span>
+      </div>
+      <div>
+        <p className="eyebrow">Private · accessible · open source</p>
+        <h1 id="course-choice-title" lang="en">What would you like to learn?</h1>
+        <p className="chooser-question-es" lang="es">¿Qué te gustaría aprender?</p>
+      </div>
+      <div className="chooser-promise" aria-label="Course highlights">
+        <span><strong>36</strong> weeks</span>
+        <span><strong>180</strong> lessons</span>
+        <span><strong>100%</strong> on-device</span>
+      </div>
+      <p className="chooser-note">Choose your path. You can switch courses at any time without losing progress.</p>
+    </section>
+    <section className="course-choice-panel" aria-label="Available language courses">
+      <p className="choice-step">01 <span>Choose a learning path</span></p>
+      <div className="course-choice-grid">
+        <Link className="course-choice course-choice-en" to={destination("en")} onClick={() => update({ selectedCourse: "en" })} aria-label="Learn English, Inglés para hispanohablantes">
+          <span className="course-choice-top"><span className="course-flags" aria-hidden="true">{english.flags.join(" ")}</span><span className="choice-arrow" aria-hidden="true">↗</span></span>
+          <span className="choice-language" lang="es">Aprende</span>
+          <strong lang="es">Inglés</strong>
+          <span lang="es">Inglés para hispanohablantes</span>
+          <small lang="es">Instrucciones y apoyo en español</small>
+        </Link>
+        <Link className="course-choice course-choice-es" to={destination("es")} onClick={() => update({ selectedCourse: "es" })} aria-label="Aprender español, Spanish for English speakers">
+          <span className="course-choice-top"><span className="course-flags" aria-hidden="true">{spanish.flags.join(" ")}</span><span className="choice-arrow" aria-hidden="true">↗</span></span>
+          <span className="choice-language" lang="en">Learn</span>
+          <strong lang="en">Spanish</strong>
+          <span lang="en">Spanish for English speakers</span>
+          <small lang="en">Instructions and support in English</small>
+        </Link>
+      </div>
+      <p className="choice-access-note"><span aria-hidden="true">◉</span> Visual comfort setup comes next. No account required.</p>
+    </section>
   </main>;
 }
 
@@ -85,14 +107,24 @@ function Layout({ children }: { children: React.ReactNode }) {
   return <div className="app-shell" data-course={course.slug}>
     <a className="skip-link" href="#main-content">{course.instructionLocale === "es-419" ? "Saltar al contenido de la lección" : "Skip to lesson content"}</a>
     <header className="site-header">
-      <NavLink to={path()} className="brand" aria-label={`${course.title} ${copy.dashboard}`}><span>OSAPHLA <span className="version-tag">[{packageJson.version}]</span></span><small>{course.subtitle}</small></NavLink>
+      <NavLink to={path()} className="brand" aria-label={`${course.title} ${copy.dashboard}`}>
+        <span className="brand-mark" aria-hidden="true">O</span>
+        <span className="brand-copy"><strong>OSAPHLA</strong><small>{course.target}</small></span>
+        <span className="version-tag">v{packageJson.version}</span>
+      </NavLink>
       <nav aria-label={course.instructionLocale === "es-419" ? "Navegación principal" : "Primary navigation"}>
-        <NavLink to={path()} end>{copy.dashboard}</NavLink><NavLink to={path("course")}>{copy.course}</NavLink><NavLink to={path("readers")}>{copy.readers}</NavLink><NavLink to={path("settings")}>{copy.display}</NavLink>
+        <NavLink to={path()} end><span aria-hidden="true">⌂</span><span>{copy.dashboard}</span></NavLink>
+        <NavLink to={path("course")}><span aria-hidden="true">▦</span><span>{copy.course}</span></NavLink>
+        <NavLink to={path("readers")}><span aria-hidden="true">≡</span><span>{copy.readers}</span></NavLink>
+        <NavLink to={path("settings")}><span aria-hidden="true">◐</span><span>{copy.display}</span></NavLink>
       </nav>
-      <CourseMenu />
+      <div className="site-header-tools">
+        <div className="privacy-note"><span aria-hidden="true">●</span><span>{course.instructionLocale === "es-419" ? "Progreso local" : "Local progress"}</span></div>
+        <CourseMenu />
+      </div>
     </header>
     <main id="main-content" tabIndex={-1}>{children}</main>
-    <footer className="site-footer">OSAPHLA · {copy.footer}</footer>
+    <footer className="site-footer"><strong>OSAPHLA</strong><span>{copy.footer}</span></footer>
   </div>;
 }
 

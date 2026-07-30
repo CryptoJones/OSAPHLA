@@ -7,7 +7,6 @@ export default defineConfig({
   use: {
     baseURL: "http://127.0.0.1:4179",
     browserName: "chromium",
-    launchOptions: { executablePath: "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome" },
     viewport: { width: 1280, height: 900 }
   },
   webServer: { command: "npm run dev -- --host 127.0.0.1 --port 4179", url: "http://127.0.0.1:4179", reuseExistingServer: true }

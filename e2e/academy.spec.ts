@@ -86,3 +86,20 @@ test("assigned reading links stay inside the selected course", async ({ page }) 
   await expect(page).toHaveURL(/\/es\/readers\?activity=reading-01$/);
   await expect(page.getByRole("heading", { name: "How Spanish Works: Main idea" })).toBeVisible();
 });
+
+test("instruction format tabs support keyboard navigation", async ({ page }) => {
+  await beginSpanishCourse(page);
+  await saveSpanishSettings(page);
+  await page.goto("/OSAPHLA/es/lesson/w01-briefing");
+  const slidesTab = page.getByRole("tab", { name: "Adaptive slides" });
+  const videoTab = page.getByRole("tab", { name: "MP4 video" });
+  const transcriptTab = page.getByRole("tab", { name: "Transcript" });
+
+  await slidesTab.focus();
+  await page.keyboard.press("ArrowRight");
+  await expect(videoTab).toBeFocused();
+  await expect(videoTab).toHaveAttribute("aria-selected", "true");
+  await page.keyboard.press("End");
+  await expect(transcriptTab).toBeFocused();
+  await expect(page.getByRole("tabpanel", { name: "Transcript" })).toBeVisible();
+});
